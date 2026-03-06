@@ -11,10 +11,11 @@ from sklearn.cluster import KMeans
 from sklearn.decomposition import PCA
 
 from datetime import datetime
+import os
 
 
-INPUT_FILE = "../data/processed/news_summary.csv"
-OUTPUT_FILE = "../data/processed/narratives_summary.csv"
+INPUT_FILE = os.path.abspath(os.path.join(os.path.dirname(os.path.abspath(__file__)), "../data/processed/news_summary.csv"))
+OUTPUT_FILE = os.path.abspath(os.path.join(os.path.dirname(os.path.abspath(__file__)), "../data/processed/narratives_summary.csv"))
 
 N_CLUSTERS = 5
 
