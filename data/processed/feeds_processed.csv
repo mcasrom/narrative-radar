@@ -1,0 +1,14 @@
+source,feed_url,type,category,priority,last_update,notes
+El País,https://elpais.com/rss/elpais/portada.xml,news,politica,5,,Noticias nacionales y política
+El Mundo,https://e00-elmundo.uecdn.es/elmundo/rss/portada.xml,news,politica,5,,Cobertura nacional y bulos detectables
+ABC,https://www.abc.es/rss/feeds/abcPortada.xml,news,politica,4,,Perspectiva conservadora
+Maldita.es,https://maldita.es/maldita.es.xml,verification,bulos,5,,Detección de bulos y fake news
+Newtral,https://www.newtral.es/feed/,verification,bulos,5,,Verificación de noticias y bulos
+Reddit r/Spain,https://www.reddit.com/r/spain/.rss,forum,sociedad,4,,Bulos y tendencias ciudadanas
+Reddit r/Noticias,https://www.reddit.com/r/noticias/.rss,forum,politica,4,,Bulos y trending nacional
+Forocoches,https://forocoches.com/foro/forumdisplay.php?f=XX,rss,forum,sociedad,3,,Opinión local y viralidad de bulos
+Mastodon público,https://mastodon.social/@usuario_publico.rss,social,sociedad,3,,Alternativa a Twitter, bulos detectables
+Tumblr público,https://usuario.tumblr.com/rss,social,sociedad,2,,Opinión y comentarios ciudadanos
+Google News España,https://news.google.com/rss?hl=es&gl=ES&ceid=ES:es,aggregator,politica,5,,Cobertura global
+BBC Mundo,https://www.bbc.com/mundo/rss.xml,news,internacional,4,,Noticias internacionales en español
+Snopes,https://www.snopes.com/feed/,verification,bulos,5,,Detección de bulos y fake news

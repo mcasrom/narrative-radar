@@ -1,0 +1,95 @@
+source,feed_url,type,notes
+El País,https://elpais.com/rss/elpais/portada.xml,news,Noticias nacionales y política
+El Mundo,https://e00-elmundo.uecdn.es/elmundo/rss/portada.xml,news,Cobertura nacional y bulos detectables
+ABC,https://www.abc.es/rss/feeds/abcPortada.xml,news,Perspectiva conservadora
+La Vanguardia,https://www.lavanguardia.com/mvc/feed/rss/home,news,Noticias y opinión catalana/nacional
+Público,https://www.publico.es/rss,news,Perspectiva progresista y análisis social
+Europa Press,https://www.europapress.es/rss/rss.aspx,news,Cobertura en tiempo real
+El Confidencial,https://feeds.elconfidencial.com/rss/,blog,Opinión y análisis económico/político
+Vozpópuli,https://www.vozpopuli.com/rss/,blog,Perspectiva empresarial y política
+Maldita.es,https://maldita.es/maldita.es.xml,verification,Detecta bulos y fake news
+Newtral,https://www.newtral.es/feed/,verification,Verificación de noticias y bulos
+20 Minutos,https://www.20minutos.es/rss/,news,Cobertura nacional y trending
+El Diario,https://www.eldiario.es/rss/,news,Noticias y opinión progresista
+OkDiario,https://okdiario.com/rss/,news,Noticias conservadoras
+Infolibre,https://www.infolibre.es/rss,news,Análisis político y económico
+ABC Blogs,https://www.abc.es/blogs/rss/,blog,Opinión de columnistas
+Blog Maldita Ciencia,https://maldita.es/maldita-ciencia/feed/,verification,Detección de bulos científicos
+Reddit r/Spain,https://www.reddit.com/r/spain/.rss,forum,Bulos y tendencias ciudadanas
+Reddit r/Noticias,https://www.reddit.com/r/noticias/.rss,forum,Bulos y trending nacional
+Forocoches,https://forocoches.com/foro/forumdisplay.php?f=XX,rss,forum,Opinión local y viralidad de bulos
+Mastodon público,https://mastodon.social/@usuario_publico.rss,social,Alternativa a Twitter, bulos detectables
+Tumblr público,https://usuario.tumblr.com/rss,social,Opinión y comentarios ciudadanos
+Google News España,https://news.google.com/rss?hl=es&gl=ES&ceid=ES:es,aggregator,Cobertura global
+Bing News España,https://www.bing.com/news/search?q=espa%C3%B1a&format=rss,aggregator,Comparación internacional
+El Español,https://www.elespanol.com/rss,news,Noticias nacionales y opinión
+La Sexta,https://www.lasexta.com/rss,news,Noticias generales y trending
+El Periódico,https://www.elperiodico.com/es/rss,news,Cobertura Cataluña y nacional
+RTVE Noticias,https://www.rtve.es/rss/,news,Noticias nacionales y audiovisuales
+Cadena SER,https://cadenaser.com/rss/,news,Noticias y radio nacional
+COPE,https://www.cope.es/rss/,news,Radio conservadora y noticias
+Radio Nacional España,https://www.rtve.es/rss/radio.xml,news,Noticias y radio
+El Confidencial Digital,https://www.elconfidencialdigital.com/rss/,news,Noticias y opinión económica
+Blog Verificado,https://verificado.mx/feed/,verification,Verificación de bulos y rumores
+Chequeado,https://chequeado.com/feed/,verification,Verificación de noticias y bulos
+Politifact,https://www.politifact.com/rss/,verification,Fact-checking internacional
+Snopes,https://www.snopes.com/feed/,verification,Detección de bulos y fake news
+Hacker News,https://news.ycombinator.com/rss,forum,Tendencias tecnológicas y bulos
+Medium público,https://medium.com/feed/@usuario_publico,blog,Opinión y narrativa ciudadana
+LinkedIn público,https://www.linkedin.com/feed/update/urn:li:activity:XXXX.rss,social,Noticias profesionales
+Twitter público (RSS),https://twitrss.me/twitter_user_to_rss/?user=usuario,social,Bulos y trending
+Feedly agregador,https://feedly.com/i/discover/rss,aggregator,Agregador global de RSS
+El Diario Vasco,https://www.diariovasco.com/rss,news,Noticias locales País Vasco
+La Rioja,https://www.larioja.com/rss,news,Noticias locales La Rioja
+Heraldo de Aragón,https://www.heraldo.es/rss,news,Noticias Aragón
+Levante-EMV,https://www.levante-emv.com/rss,news,Noticias Comunidad Valenciana
+Diario Sur,https://www.diariosur.es/rss,news,Noticias Málaga y Andalucía
+Diario de Sevilla,https://www.diariodesevilla.es/rss,news,Noticias Sevilla
+La Voz de Galicia,https://www.lavozdegalicia.es/rss,news,Noticias Galicia
+El Correo,https://www.elcorreo.com/rss,news,Noticias País Vasco y nacional
+Diario de Burgos,https://www.diariodeburgos.es/rss,news,Noticias Burgos y Castilla y León
+La Opinión de Murcia,https://www.laopiniondemurcia.es/rss,news,Noticias Murcia y región
+20 Minutos Blogs,https://blogs.20minutos.es/feed/,blog,Opinión y análisis ciudadano
+ABC Opinión,https://www.abc.es/opinion/rss/,blog,Opinión y columnas
+Blog Público Ciencia,https://www.blogpúblicociencia.com/feed/,blog,Ciencia y bulos científicos
+Reddit r/WorldNews,https://www.reddit.com/r/worldnews/.rss,forum,Bulos internacionales y trending
+Reddit r/Europe,https://www.reddit.com/r/europe/.rss,forum,Trending europeo y bulos
+Mastodon News,https://mastodon.social/@news_publico.rss,social,Noticias ciudadanas y trending
+Tumblr Ciencia,https://ciencia.tumblr.com/rss,social,Noticias científicas ciudadanas
+El Confidencial Opinión,https://www.elconfidencial.com/opinion/rss/,blog,Opinión económica y política
+Financial Times España,https://www.ft.com/rss,news,Noticias económicas y financieras
+Reuters España,https://www.reuters.com/rssFeed/spain,news,Cobertura internacional y nacional
+BBC Mundo,https://www.bbc.com/mundo/rss.xml,news,Cobertura internacional en español
+CNN Español,https://cnnespanol.cnn.com/feed/,news,Noticias internacionales y trending
+The Guardian España,https://www.theguardian.com/world/spain/rss,news,Noticias internacionales y análisis
+El País Internacional,https://internacional.elpais.com/rss,news,Noticias globales
+Al Jazeera Español,https://www.aljazeera.com/xml/rss/all.xml,news,Noticias internacionales y contexto global
+DW Español,https://www.dw.com/es/rss-all.xml,news,Noticias y trending global
+France24 Español,https://www.france24.com/es/rss,news,Noticias internacionales
+El Mundo Internacional,https://www.elmundo.es/internacional/rss.xml,news,Noticias internacionales
+ABC Internacional,https://www.abc.es/internacional/rss/,news,Noticias internacionales
+La Vanguardia Internacional,https://www.lavanguardia.com/internacional/rss,news,Noticias internacionales
+Maldita Internacional,https://maldita.es/internacional/feed/,verification,Verificación internacional
+Politifact Internacional,https://www.politifact.com/international/rss/,verification,Fact-checking internacional
+Snopes Internacional,https://www.snopes.com/feed/international/,verification,Detección de bulos internacionales
+Reddit r/WorldPolitics,https://www.reddit.com/r/WorldPolitics/.rss,forum,Tendencias políticas globales
+Reddit r/GlobalNews,https://www.reddit.com/r/GlobalNews/.rss,forum,Noticias internacionales trending
+Mastodon Internacional,https://mastodon.social/@news_global.rss,social,Noticias globales trending
+Tumblr Internacional,https://global.tumblr.com/rss,social,Cobertura ciudadana global
+El País Deportes,https://elpais.com/deportes/rss/,news,Deportes nacionales
+Marca,https://www.marca.com/rss/,news,Deportes y trending
+AS,https://as.com/rss/,news,Deportes y fútbol
+Sport,https://www.sport.es/rss/,news,Deportes Cataluña y trending
+Mundo Deportivo,https://www.mundodeportivo.com/rss/,news,Fútbol y noticias deportivas
+Eurosport España,https://www.eurosport.es/rss,news,Deportes y cobertura deportiva
+Reddit r/Sports,https://www.reddit.com/r/sports/.rss,forum,Trending deportivo y bulos
+Mastodon Deportes,https://mastodon.social/@sports_news.rss,social,Noticias deportivas
+Tumblr Deportes,https://deportes.tumblr.com/rss,social,Noticias deportivas ciudadanas
+Ciencia.es,https://ciencia.es/rss,news,Cobertura científica
+Investigación y Ciencia,https://www.investigacionyciencia.es/rss,news,Noticias y artículos científicos
+Sciencedaily,https://www.sciencedaily.com/rss/top/science.xml,news,Investigación global
+Reddit r/Science,https://www.reddit.com/r/science/.rss,forum,Noticias científicas y trending
+Mastodon Ciencia,https://mastodon.social/@science_news.rss,social,Cobertura científica ciudadana
+Tumblr Ciencia,https://ciencia.tumblr.com/rss,social,Noticias científicas ciudadanas
+NASA RSS,https://www.nasa.gov/rss/dyn/breaking_news.rss,news,Ciencia y descubrimientos
+ESA RSS,https://www.esa.int/rss,news,Cobertura espacial y científica

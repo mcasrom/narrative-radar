@@ -1,0 +1,165 @@
+#!/usr/bin/env python3
+# dashboard_central_final_optimized.py
+# Centro de Mando Narrativo España 🇪🇸
+# Dashboard central con tabs debajo del título, gráficos responsivos y PDF descargable
+
+import os
+import streamlit as st
+import pandas as pd
+import plotly.express as px
+from fpdf import FPDF
+
+# -------------------------------------------------------
+# Configuración general
+# -------------------------------------------------------
+st.set_page_config(
+    page_title="Centro de Mando Narrativo España",
+    layout="wide"
+)
+
+st.title("Centro de Mando Narrativo España 🇪🇸")
+st.markdown(
+    "Panel central que integra indicadores de narrativas, emociones, polarización y cobertura mediática."
+)
+
+# -------------------------------------------------------
+# Directorio de datos
+# -------------------------------------------------------
+base_dir = os.path.abspath(os.path.join(os.path.dirname(__file__), "../data/processed"))
+
+paths = {
+    "Radar Narrativo": os.path.join(base_dir, "narratives_summary.csv"),
+    "Radar Emocional": os.path.join(base_dir, "emotions_summary.csv"),
+    "Polarización": os.path.join(base_dir, "polarization_summary.csv"),
+    "Red de Actores": os.path.join(base_dir, "actors_network.csv"),
+    "Propagación": os.path.join(base_dir, "propagation_summary.csv"),
+    "Tendencias": os.path.join(base_dir, "trends_summary.csv"),
+    "Cobertura Gobierno": os.path.join(base_dir, "government_coverage.csv"),
+    "Análisis Masivos": os.path.join(base_dir, "mass_media_coverage.csv")
+}
+
+# -------------------------------------------------------
+# Función para mostrar tabs de datos
+# -------------------------------------------------------
+def mostrar_tab(tab_name, csv_path):
+    st.subheader(tab_name)
+    if not os.path.exists(csv_path):
+        st.warning(f"No hay datos de {tab_name}. Ejecuta los scripts correspondientes.")
+        return
+    df = pd.read_csv(csv_path)
+    if df.empty:
+        st.warning(f"CSV de {tab_name} vacío.")
+        return
+
+    # Radar Narrativo
+    if tab_name == "Radar Narrativo" and "cluster" in df.columns:
+        fig = px.bar(df, x="cluster", y="count", color="cluster", title="Clusters de narrativas")
+        st.plotly_chart(fig, use_container_width=True)
+
+    # Radar Emocional
+    elif tab_name == "Radar Emocional" and "emotion" in df.columns:
+        fig = px.bar(df, x="emotion", y="count", color="emotion", title="Distribución de emociones")
+        st.plotly_chart(fig, use_container_width=True)
+
+    # Polarización
+    elif tab_name == "Polarización" and "date" in df.columns:
+        fig = px.line(df, x="date", y="polarization_index", markers=True, title="Índice de polarización")
+        st.plotly_chart(fig, use_container_width=True)
+
+    # Red de Actores
+    elif tab_name == "Red de Actores" and "source" in df.columns and "target" in df.columns:
+        fig = px.scatter(df, x="source", y="target", size="weight", color="weight", title="Red de actores")
+        st.plotly_chart(fig, use_container_width=True)
+
+    # Propagación
+    elif tab_name == "Propagación" and "date" in df.columns:
+        fig = px.line(df, x="date", y="spread_index", markers=True, title="Propagación de noticias")
+        st.plotly_chart(fig, use_container_width=True)
+
+    # Tendencias
+    elif tab_name == "Tendencias" and "keyword" in df.columns:
+        fig = px.bar(df, x="keyword", y="count", color="count", title="Tendencias de palabras clave")
+        st.plotly_chart(fig, use_container_width=True)
+
+    # Cobertura Gobierno
+    elif tab_name == "Cobertura Gobierno" and "source" in df.columns:
+        fig = px.bar(df, x="source", y="alignment", color="alignment", title="Cobertura mediática del gobierno")
+        st.plotly_chart(fig, use_container_width=True)
+
+    # Análisis Masivos
+    elif tab_name == "Análisis Masivos" and "source" in df.columns:
+        fig = px.line(df, x="last_update", y="intensity_index", color="source", markers=True, title="Intensidad mediática")
+        st.plotly_chart(fig, use_container_width=True)
+
+    st.dataframe(df)
+
+# -------------------------------------------------------
+# Función para generar PDF guía
+# -------------------------------------------------------
+def generar_pdf():
+    pdf = FPDF()
+    pdf.add_page()
+    font_path = os.path.join(os.path.dirname(__file__), "DejaVuSans.ttf")
+    pdf.add_font("DejaVu", "", font_path, uni=True)
+    pdf.set_font("DejaVu", size=12)
+
+    contenido = """
+Centro de Mando Narrativo España
+
+Este dashboard analiza la narrativa mediática usando fuentes RSS.
+
+Indicadores incluidos:
+- Radar Narrativo
+- Radar Emocional
+- Polarización
+- Red de Actores
+- Propagación
+- Tendencias
+- Cobertura del Gobierno
+- Análisis Masivo de Medios
+
+Para actualizar datos ejecutar:
+python3 scripts/run_all.py
+
+Todos los CSV se almacenan en data/processed/
+"""
+    pdf.multi_cell(0, 10, contenido)
+    salida = os.path.join(os.path.dirname(__file__), "../data/processed/guia_dashboard.pdf")
+    pdf.output(salida)
+    return salida
+
+# -------------------------------------------------------
+# Tab de guía
+# -------------------------------------------------------
+def mostrar_howto_tab():
+    st.subheader("Guía de Uso")
+    st.markdown("""
+### Centro de Mando Narrativo España 🇪🇸
+
+Este panel analiza la narrativa mediática utilizando datos RSS de medios.
+
+### Pasos básicos
+
+1. Ejecutar pipeline de datos con `python3 scripts/run_all.py`
+2. Esperar a que se generen los CSV en `data/processed/`
+3. Seleccionar el tab que quieras explorar
+4. Visualizar gráficos interactivos y tablas de datos
+5. Para generar guía PDF, pulsar el botón abajo
+""")
+    if st.button("Generar PDF de Guía"):
+        archivo_pdf = generar_pdf()
+        st.success(f"PDF generado: {archivo_pdf}")
+        st.markdown(f"[Descargar PDF]({archivo_pdf})")
+
+# -------------------------------------------------------
+# Tabs debajo del título
+# -------------------------------------------------------
+tab_list = list(paths.keys()) + ["Guía de Uso"]
+tabs = st.tabs(tab_list)
+
+for i, t in enumerate(tab_list):
+    with tabs[i]:
+        if t == "Guía de Uso":
+            mostrar_howto_tab()
+        else:
+            mostrar_tab(t, paths[t])
