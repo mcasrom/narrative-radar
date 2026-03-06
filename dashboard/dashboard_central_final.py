@@ -1,35 +1,32 @@
 #!/usr/bin/env python3
 # dashboard_central_final.py
 # Centro de Mando Narrativo España 🇪🇸
-# Dashboard central con análisis de narrativas mediáticas y footer con timestamp
+# Autor: M. Castillo <mybloggingnotes@gmail.com>
 
 import os
 import streamlit as st
 import pandas as pd
 import plotly.express as px
 from fpdf import FPDF
+from datetime import datetime
 
 # -------------------------------------------------------
 # Configuración general
 # -------------------------------------------------------
-
 st.set_page_config(
     page_title="Centro de Mando Narrativo España",
     layout="wide"
 )
 
 st.title("Centro de Mando Narrativo España 🇪🇸")
-st.markdown(
-    "Panel central que integra indicadores de narrativas, emociones, polarización y cobertura mediática."
-)
+st.markdown("Panel central que integra indicadores de narrativas, emociones, polarización y cobertura mediática.")
 
 # -------------------------------------------------------
-# Directorio de datos
+# Directorio de datos (Ruta absoluta segura)
 # -------------------------------------------------------
-
-base_dir = os.path.abspath(
-    os.path.join(os.path.dirname(__file__), "../data/processed")
-)
+# Forzamos la ruta base al directorio del proyecto para evitar errores de ../
+current_dir = os.path.dirname(os.path.abspath(__file__))
+base_dir = os.path.abspath(os.path.join(current_dir, "../data/processed"))
 
 paths = {
     "Radar Narrativo": os.path.join(base_dir, "narratives_summary.csv"),
@@ -45,13 +42,11 @@ paths = {
 # -------------------------------------------------------
 # Función genérica para mostrar cada tab
 # -------------------------------------------------------
-
 def mostrar_tab(tab_name, csv_path):
-
     st.header(tab_name)
 
     if not os.path.exists(csv_path):
-        st.warning(f"No hay datos disponibles para {tab_name}.")
+        st.warning(f"No hay datos disponibles para el módulo: {tab_name}")
         return
 
     try:
@@ -64,130 +59,91 @@ def mostrar_tab(tab_name, csv_path):
         st.warning("El CSV está vacío.")
         return
 
-    # -----------------------------------------
-    # Radar Narrativo
-    # -----------------------------------------
+    # Visualizaciones por Tab
     if tab_name == "Radar Narrativo" and "cluster" in df.columns:
-        fig = px.bar(df, x="cluster", y="count", color="cluster",
-                     title="Clusters de narrativas detectadas")
+        fig = px.bar(df, x="cluster", y="count", color="cluster", title="Clusters de narrativas detectadas")
         st.plotly_chart(fig, use_container_width=True)
-        st.dataframe(df)
 
-    # -----------------------------------------
-    # Radar Emocional
-    # -----------------------------------------
     elif tab_name == "Radar Emocional" and "emotion" in df.columns:
-        fig = px.bar(df, x="emotion", y="count", color="emotion",
-                     title="Distribución emocional de las noticias")
+        fig = px.bar(df, x="emotion", y="count", color="emotion", title="Distribución emocional")
         st.plotly_chart(fig, use_container_width=True)
-        st.dataframe(df)
 
-    # -----------------------------------------
-    # Polarización
-    # -----------------------------------------
     elif tab_name == "Polarización" and "date" in df.columns:
-        fig = px.line(df, x="date", y="polarization_index", markers=True,
-                      title="Índice de polarización mediática")
+        fig = px.line(df, x="date", y="polarization_index", markers=True, title="Índice de polarización")
         st.plotly_chart(fig, use_container_width=True)
-        st.dataframe(df)
 
-    # -----------------------------------------
-    # Red de Actores
-    # -----------------------------------------
-    elif tab_name == "Red de Actores" and "source" in df.columns and "target" in df.columns:
-        fig = px.scatter(df, x="source", y="target", size="weight", color="weight",
-                         title="Red de actores mediáticos")
-        st.plotly_chart(fig, use_container_width=True)
-        st.dataframe(df)
-
-    # -----------------------------------------
-    # Propagación
-    # -----------------------------------------
-    elif tab_name == "Propagación" and "date" in df.columns:
-        fig = px.line(df, x="date", y="spread_index", markers=True,
-                      title="Índice de propagación de noticias")
-        st.plotly_chart(fig, use_container_width=True)
-        st.dataframe(df)
-
-    # -----------------------------------------
-    # Tendencias
-    # -----------------------------------------
     elif tab_name == "Tendencias" and "keyword" in df.columns:
-        fig = px.bar(df, x="keyword", y="count", color="count",
-                     title="Tendencias de palabras clave")
+        fig = px.bar(df, x="keyword", y="count", color="count", title="Tendencias de palabras clave")
         st.plotly_chart(fig, use_container_width=True)
-        st.dataframe(df)
 
-    # -----------------------------------------
-    # Cobertura Gobierno
-    # -----------------------------------------
     elif tab_name == "Cobertura Gobierno" and "source" in df.columns:
-        fig = px.bar(df, x="source", y="alignment", color="alignment",
-                     title="Cobertura mediática del gobierno")
+        fig = px.bar(df, x="source", y="alignment", color="alignment", title="Alineamiento mediático")
         st.plotly_chart(fig, use_container_width=True)
-        st.dataframe(df)
 
-    # -----------------------------------------
-    # Análisis Masivos
-    # -----------------------------------------
-    elif tab_name == "Análisis Masivos" and "source" in df.columns:
-        fig = px.line(df, x="last_update", y="intensity_index", color="source", markers=True,
-                      title="Intensidad mediática por fuente")
-        st.plotly_chart(fig, use_container_width=True)
-        st.dataframe(df)
+    st.dataframe(df)
 
 # -------------------------------------------------------
-# Footer con copyright y timestamp de última ingestión
+# PDF guía
 # -------------------------------------------------------
-def mostrar_footer():
-    try:
-        df_news = pd.read_csv(os.path.join(base_dir, "news_summary.csv"))
-        if "ingestion_ts" in df_news.columns and not df_news.empty:
-            last_ingest = df_news['ingestion_ts'].max()
-        else:
-            last_ingest = "No disponible"
-    except Exception:
-        last_ingest = "No disponible"
+def generar_pdf():
+    pdf = FPDF()
+    pdf.add_page()
+    font_path = os.path.join(current_dir, "DejaVuSans.ttf")
+    
+    if os.path.exists(font_path):
+        pdf.add_font("DejaVu", "", font_path, uni=True)
+        pdf.set_font("DejaVu", size=12)
+    else:
+        pdf.set_font("Arial", size=12)
 
-    st.markdown("---")
-    st.markdown(
-        f"""
-        <small>
-        © M. Castillo – <a href="mailto:mybloggingnotes@gmail.com">mybloggingnotes@gmail.com</a><br>
-        Última ingestión de datos: {last_ingest}<br>
-        Fuente de datos: CSV reales de RSS
-        </small>
-        """,
-        unsafe_allow_html=True
-    )
+    # Obtenemos la fecha del archivo para el PDF también
+    testigo = paths["Tendencias"]
+    fecha_pdf = datetime.fromtimestamp(os.path.getmtime(testigo)).strftime("%Y-%m-%d %H:%M:%S") if os.path.exists(testigo) else "N/A"
 
-# -------------------------------------------------------
-# Main: Tabs en sidebar
-# -------------------------------------------------------
+    texto = f"""
+Centro de Mando Narrativo España
+Autor: M. Castillo <mybloggingnotes@gmail.com>
+Fecha de datos: {fecha_pdf}
 
-tabs = list(paths.keys()) + ["Guía de Uso"]
-tab_selection = st.sidebar.selectbox("Selecciona Tab", tabs)
-
-if tab_selection == "Guía de Uso":
-    st.header("Guía de Uso del Centro de Mando Narrativo 🇪🇸")
-    st.markdown("""
-    ### Centro de Mando Narrativo España
-
-    Este dashboard analiza la narrativa mediática utilizando datos RSS de medios.
-
-    ### Pasos básicos
-
-    1. Ejecutar pipeline de datos:
-       ```bash
-       python3 scripts/run_all.py
-       ```
-    2. Seleccionar tab en la barra lateral.
-    3. Observar gráficos interactivos y tablas de datos.
-    """)
-else:
-    mostrar_tab(tab_selection, paths[tab_selection])
+Este dashboard analiza la narrativa mediática usando fuentes RSS.
+CSV almacenados en: data/processed/
+"""
+    pdf.multi_cell(0, 10, texto)
+    output_pdf = os.path.join(base_dir, "guia_dashboard.pdf")
+    pdf.output(output_pdf)
+    return output_pdf
 
 # -------------------------------------------------------
-# Mostrar footer
+# Layout Principal
 # -------------------------------------------------------
-mostrar_footer()
+tab_names = list(paths.keys())
+tabs = st.tabs(tab_names)
+
+for i, tab_name in enumerate(tab_names):
+    with tabs[i]:
+        mostrar_tab(tab_name, paths[tab_name])
+
+# -------------------------------------------------------
+# Pie de Página (footer) Dinámico
+# -------------------------------------------------------
+st.markdown("---")
+st.subheader("📄 Guía y Metadatos")
+
+col1, col2 = st.columns(2)
+
+with col1:
+    if st.button("Generar PDF guía actualizado"):
+        pdf_file = generar_pdf()
+        st.success(f"PDF generado exitosamente")
+
+with col2:
+    # Lógica de fecha real basada en el archivo de tendencias
+    testigo = paths["Tendencias"]
+    if os.path.exists(testigo):
+        mtime = os.path.getmtime(testigo)
+        last_ingestion = datetime.fromtimestamp(mtime).strftime('%Y-%m-%d %H:%M:%S')
+    else:
+        last_ingestion = "Archivo no encontrado"
+    
+    st.write(f"**Última ingestión de datos (Real):** {last_ingestion}")
+    st.write("© 2026 M. Castillo | mybloggingnotes@gmail.com")

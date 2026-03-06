@@ -163,3 +163,369 @@ Narrativas detectadas correctamente
 [nltk_data]   Package stopwords is already up-to-date!
 Narrativas detectadas correctamente
 [INFO] Pipeline completado. Todos los CSV están listos en data/processed/
+[INFO] Iniciando pipeline de noticias reales...
+[INFO] Ejecutando collect_rss.py...
+[INFO] Recolectando noticias de RSS...
+[INFO] Noticias insertadas en SQLite correctamente.
+[INFO] CSV generado en ../data/processed/news_summary.csv
+[INFO] Recolección de noticias finalizada.
+[INFO] Ejecutando detect_narratives.py...
+[nltk_data] Downloading package stopwords to /home/dietpi/nltk_data...
+[nltk_data]   Package stopwords is already up-to-date!
+Narrativas detectadas correctamente
+[INFO] Pipeline completado. Todos los CSV están listos en data/processed/
+[2026-03-06 16:00:01] 🔹 Inicio pipeline Narrative Radar
+[2026-03-06 16:00:01] ✅ Entorno virtual activado
+[2026-03-06 16:00:01] 🔹 Ejecutando pipeline de recolección y análisis
+[INFO] Recolectando noticias de RSS...
+[INFO] Noticias insertadas en SQLite correctamente.
+[INFO] CSV generado en ../data/processed/news_summary.csv
+[INFO] Recolección de noticias finalizada.
+[nltk_data] Downloading package stopwords to /home/dietpi/nltk_data...
+[nltk_data]   Package stopwords is already up-to-date!
+Narrativas detectadas correctamente
+CSV de emociones generado en ../data/processed/emotions_summary.csv
+CSV de polarización generado en ../data/processed/polarization_summary.csv
+CSV de red de actores generado en ../data/processed/actors_network.csv
+CSV de propagación generado en ../data/processed/propagation_summary.csv
+CSV de tendencias generado en ../data/processed/trends_summary.csv
+CSV de cobertura gobierno generado en ../data/processed/government_coverage.csv
+
+--- Ejecutando collect_rss.py ---
+✅ collect_rss.py completado
+
+--- Ejecutando detect_narratives.py ---
+✅ detect_narratives.py completado
+
+--- Ejecutando detect_emotions.py ---
+✅ detect_emotions.py completado
+
+--- Ejecutando detect_polarization.py ---
+✅ detect_polarization.py completado
+
+--- Ejecutando build_network.py ---
+✅ build_network.py completado
+
+--- Ejecutando propagation_analysis.py ---
+✅ propagation_analysis.py completado
+
+--- Ejecutando trends_analysis.py ---
+✅ trends_analysis.py completado
+
+--- Ejecutando government_coverage.py ---
+✅ government_coverage.py completado
+
+🎯 Todos los CSV generados en: /home/dietpi/narrative-radar/data/processed
+[2026-03-06 16:00:38] ✅ Pipeline ejecutado correctamente
+[2026-03-06 16:00:38] 🔹 Generando PDF guía
+Traceback (most recent call last):
+  File "<stdin>", line 10, in <module>
+  File "/home/dietpi/narrative-radar/env/lib/python3.13/site-packages/fpdf/fpdf.py", line 469, in add_font
+    raise RuntimeError("TTF Font file not found: %s" % fname)
+RuntimeError: TTF Font file not found: /home/dietpi/narrative-radar/dashboard/DejaVuSans.ttf
+[2026-03-06 16:00:38] ✅ PDF guía generado en data/processed/guia_dashboard.pdf
+[2026-03-06 16:00:38] 🔹 Rotando logs
+[2026-03-06 16:00:38] ✅ Logs rotados correctamente
+[2026-03-06 16:00:38] 🎯 Pipeline completo
+[2026-03-06 17:32:02] 🔹 Inicio pipeline Narrative Radar
+[2026-03-06 17:32:02] ✅ Entorno virtual activado
+[2026-03-06 17:32:02] 🔹 Ejecutando pipeline de recolección y análisis
+[INFO] Recolectando noticias de RSS...
+[INFO] Noticias insertadas en SQLite correctamente.
+[INFO] CSV generado en ../data/processed/news_summary.csv
+[INFO] Recolección de noticias finalizada.
+[nltk_data] Downloading package stopwords to /home/dietpi/nltk_data...
+[nltk_data]   Package stopwords is already up-to-date!
+Narrativas detectadas correctamente
+CSV de emociones generado en ../data/processed/emotions_summary.csv
+CSV de polarización generado en ../data/processed/polarization_summary.csv
+CSV de red de actores generado en ../data/processed/actors_network.csv
+CSV de propagación generado en ../data/processed/propagation_summary.csv
+CSV de tendencias generado en ../data/processed/trends_summary.csv
+CSV de cobertura gobierno generado en ../data/processed/government_coverage.csv
+
+--- Ejecutando collect_rss.py ---
+✅ collect_rss.py completado
+
+--- Ejecutando detect_narratives.py ---
+✅ detect_narratives.py completado
+
+--- Ejecutando detect_emotions.py ---
+✅ detect_emotions.py completado
+
+--- Ejecutando detect_polarization.py ---
+✅ detect_polarization.py completado
+
+--- Ejecutando build_network.py ---
+✅ build_network.py completado
+
+--- Ejecutando propagation_analysis.py ---
+✅ propagation_analysis.py completado
+
+--- Ejecutando trends_analysis.py ---
+✅ trends_analysis.py completado
+
+--- Ejecutando government_coverage.py ---
+✅ government_coverage.py completado
+
+🎯 Todos los CSV generados en: /home/dietpi/narrative-radar/data/processed
+[2026-03-06 17:32:35] ✅ Pipeline ejecutado correctamente
+[2026-03-06 17:32:35] 🔹 Generando PDF guía
+Traceback (most recent call last):
+  File "<stdin>", line 10, in <module>
+  File "/home/dietpi/narrative-radar/env/lib/python3.13/site-packages/fpdf/fpdf.py", line 469, in add_font
+    raise RuntimeError("TTF Font file not found: %s" % fname)
+RuntimeError: TTF Font file not found: /home/dietpi/narrative-radar/dashboard/DejaVuSans.ttf
+[2026-03-06 17:32:36] ✅ PDF guía generado en data/processed/guia_dashboard.pdf
+[2026-03-06 17:32:36] 🔹 Rotando logs
+[2026-03-06 17:32:36] ✅ Logs rotados correctamente
+[2026-03-06 17:32:36] 🎯 Pipeline completo
+[2026-03-06 17:37:58] 🔹 Inicio pipeline Narrative Radar
+[2026-03-06 17:37:58] ✅ Entorno virtual activado
+[2026-03-06 17:37:58] 🔹 Ejecutando pipeline de recolección y análisis
+[INFO] Recolectando noticias de RSS...
+[INFO] Noticias insertadas en SQLite correctamente.
+[INFO] CSV generado en ../data/processed/news_summary.csv
+[INFO] Recolección de noticias finalizada.
+[nltk_data] Downloading package stopwords to /home/dietpi/nltk_data...
+[nltk_data]   Package stopwords is already up-to-date!
+Narrativas detectadas correctamente
+CSV de emociones generado en ../data/processed/emotions_summary.csv
+CSV de polarización generado en ../data/processed/polarization_summary.csv
+CSV de red de actores generado en ../data/processed/actors_network.csv
+CSV de propagación generado en ../data/processed/propagation_summary.csv
+CSV de tendencias generado en ../data/processed/trends_summary.csv
+CSV de cobertura gobierno generado en ../data/processed/government_coverage.csv
+
+--- Ejecutando collect_rss.py ---
+✅ collect_rss.py completado
+
+--- Ejecutando detect_narratives.py ---
+✅ detect_narratives.py completado
+
+--- Ejecutando detect_emotions.py ---
+✅ detect_emotions.py completado
+
+--- Ejecutando detect_polarization.py ---
+✅ detect_polarization.py completado
+
+--- Ejecutando build_network.py ---
+✅ build_network.py completado
+
+--- Ejecutando propagation_analysis.py ---
+✅ propagation_analysis.py completado
+
+--- Ejecutando trends_analysis.py ---
+✅ trends_analysis.py completado
+
+--- Ejecutando government_coverage.py ---
+✅ government_coverage.py completado
+
+🎯 Todos los CSV generados en: /home/dietpi/narrative-radar/data/processed
+[2026-03-06 17:38:31] ✅ Pipeline ejecutado correctamente
+[2026-03-06 17:38:31] 🔹 Generando PDF guía
+Traceback (most recent call last):
+  File "<stdin>", line 16, in <module>
+NameError: name 'timestamp' is not defined
+[2026-03-06 17:38:32] ✅ PDF guía generado en data/processed/guia_dashboard.pdf
+[2026-03-06 17:38:32] 🔹 Rotando logs
+[2026-03-06 17:38:32] ✅ Logs rotados correctamente
+[2026-03-06 17:38:32] 🎯 Pipeline completo
+[2026-03-06 17:43:34] 🔹 Inicio pipeline Narrative Radar
+[2026-03-06 17:43:34] ✅ Entorno virtual activado
+[2026-03-06 17:43:34] 🔹 Ejecutando pipeline de recolección y análisis
+[INFO] Recolectando noticias de RSS...
+[INFO] Noticias insertadas en SQLite correctamente.
+[INFO] CSV generado en ../data/processed/news_summary.csv
+[INFO] Recolección de noticias finalizada.
+[nltk_data] Downloading package stopwords to /home/dietpi/nltk_data...
+[nltk_data]   Package stopwords is already up-to-date!
+Narrativas detectadas correctamente
+CSV de emociones generado en ../data/processed/emotions_summary.csv
+CSV de polarización generado en ../data/processed/polarization_summary.csv
+CSV de red de actores generado en ../data/processed/actors_network.csv
+CSV de propagación generado en ../data/processed/propagation_summary.csv
+CSV de tendencias generado en ../data/processed/trends_summary.csv
+CSV de cobertura gobierno generado en ../data/processed/government_coverage.csv
+
+--- Ejecutando collect_rss.py ---
+✅ collect_rss.py completado
+
+--- Ejecutando detect_narratives.py ---
+✅ detect_narratives.py completado
+
+--- Ejecutando detect_emotions.py ---
+✅ detect_emotions.py completado
+
+--- Ejecutando detect_polarization.py ---
+✅ detect_polarization.py completado
+
+--- Ejecutando build_network.py ---
+✅ build_network.py completado
+
+--- Ejecutando propagation_analysis.py ---
+✅ propagation_analysis.py completado
+
+--- Ejecutando trends_analysis.py ---
+✅ trends_analysis.py completado
+
+--- Ejecutando government_coverage.py ---
+✅ government_coverage.py completado
+
+🎯 Todos los CSV generados en: /home/dietpi/narrative-radar/data/processed
+[2026-03-06 17:44:08] ✅ Pipeline ejecutado correctamente
+[2026-03-06 17:44:08] 🔹 Generando PDF guía
+PDF generado correctamente por Python.
+[2026-03-06 17:44:09] ✅ PDF guía generado en data/processed/guia_dashboard.pdf
+[2026-03-06 17:44:09] 🔹 Rotando logs
+[2026-03-06 17:44:09] ✅ Logs rotados correctamente
+[2026-03-06 17:44:09] 🎯 Pipeline completo
+[2026-03-06 17:55:34] 🔹 Inicio pipeline Narrative Radar
+[2026-03-06 17:55:34] ✅ Entorno virtual activado
+[2026-03-06 17:55:34] 🔹 Ejecutando pipeline de recolección y análisis
+[INFO] Recolectando noticias de RSS...
+[INFO] Noticias insertadas en SQLite correctamente.
+[INFO] CSV generado en ../data/processed/news_summary.csv
+[INFO] Recolección de noticias finalizada.
+Traceback (most recent call last):
+  File "/home/dietpi/narrative-radar/scripts/detect_narratives.py", line 5, in <module>
+    import nltk
+  File "/home/dietpi/narrative-radar/env/lib/python3.13/site-packages/nltk/__init__.py", line 133, in <module>
+    from nltk.collocations import *
+  File "/home/dietpi/narrative-radar/env/lib/python3.13/site-packages/nltk/collocations.py", line 36, in <module>
+    from nltk.metrics import (
+    ...<4 lines>...
+    )
+  File "/home/dietpi/narrative-radar/env/lib/python3.13/site-packages/nltk/metrics/__init__.py", line 18, in <module>
+    from nltk.metrics.association import (
+    ...<5 lines>...
+    )
+  File "/home/dietpi/narrative-radar/env/lib/python3.13/site-packages/nltk/metrics/association.py", line 26, in <module>
+    from scipy.stats import fisher_exact
+  File "/home/dietpi/narrative-radar/env/lib/python3.13/site-packages/scipy/stats/__init__.py", line 628, in <module>
+    from ._stats_py import *
+  File "/home/dietpi/narrative-radar/env/lib/python3.13/site-packages/scipy/stats/_stats_py.py", line 39, in <module>
+    from scipy import sparse
+  File "<frozen importlib._bootstrap>", line 1412, in _handle_fromlist
+  File "/home/dietpi/narrative-radar/env/lib/python3.13/site-packages/scipy/__init__.py", line 131, in __getattr__
+    return _importlib.import_module(f'scipy.{name}')
+           ~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.13/importlib/__init__.py", line 88, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+           ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/dietpi/narrative-radar/env/lib/python3.13/site-packages/scipy/sparse/__init__.py", line 307, in <module>
+    from ._base import *
+  File "/home/dietpi/narrative-radar/env/lib/python3.13/site-packages/scipy/sparse/_base.py", line 8, in <module>
+    from ._sputils import (asmatrix, check_reshape_kwargs, check_shape,
+                           get_sum_dtype, isdense, isscalarlike, _todata,
+                           matrix, validateaxis, getdtype, is_pydata_spmatrix)
+  File "/home/dietpi/narrative-radar/env/lib/python3.13/site-packages/scipy/sparse/_sputils.py", line 10, in <module>
+    from scipy._lib._util import np_long, np_ulong
+  File "/home/dietpi/narrative-radar/env/lib/python3.13/site-packages/scipy/_lib/_util.py", line 17, in <module>
+    from scipy._lib._array_api import (Array, array_namespace, is_lazy_array, is_numpy,
+                                       is_marray, xp_size, xp_result_device, xp_result_type)
+  File "/home/dietpi/narrative-radar/env/lib/python3.13/site-packages/scipy/_lib/_array_api.py", line 24, in <module>
+    from scipy._lib.array_api_compat import (
+    ...<16 lines>...
+    )
+  File "/home/dietpi/narrative-radar/env/lib/python3.13/site-packages/scipy/_lib/array_api_compat/numpy/__init__.py", line 9, in <module>
+    __all__ = clone_module("numpy", globals())
+  File "/home/dietpi/narrative-radar/env/lib/python3.13/site-packages/scipy/_lib/array_api_compat/_internal.py", line 64, in clone_module
+    exec(f"from {mod.__name__} import *", objs)
+    ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<string>", line 1, in <module>
+  File "<frozen importlib._bootstrap>", line 1410, in _handle_fromlist
+  File "<frozen importlib._bootstrap>", line 1412, in _handle_fromlist
+  File "/home/dietpi/narrative-radar/env/lib/python3.13/site-packages/numpy/__init__.py", line 739, in __getattr__
+    import numpy.f2py as f2py
+  File "/home/dietpi/narrative-radar/env/lib/python3.13/site-packages/numpy/f2py/__init__.py", line 19, in <module>
+    from . import diagnose, f2py2e
+  File "/home/dietpi/narrative-radar/env/lib/python3.13/site-packages/numpy/f2py/f2py2e.py", line 21, in <module>
+    from . import (
+    ...<8 lines>...
+    )
+  File "/home/dietpi/narrative-radar/env/lib/python3.13/site-packages/numpy/f2py/capi_maps.py", line 18, in <module>
+    from ._isocbind import iso_c2py_map, iso_c_binding_map, isoc_c2pycode_map
+  File "<frozen importlib._bootstrap>", line 1360, in _find_and_load
+  File "<frozen importlib._bootstrap>", line 1331, in _find_and_load_unlocked
+  File "<frozen importlib._bootstrap>", line 935, in _load_unlocked
+  File "<frozen importlib._bootstrap_external>", line 1022, in exec_module
+  File "<frozen importlib._bootstrap_external>", line 1118, in get_code
+  File "<frozen importlib._bootstrap_external>", line 1218, in get_data
+KeyboardInterrupt
+
+--- Ejecutando collect_rss.py ---
+✅ collect_rss.py completado
+
+--- Ejecutando detect_narratives.py ---
+Traceback (most recent call last):
+  File "/home/dietpi/narrative-radar/scripts/run_all.py", line 51, in <module>
+    run_script(script)
+    ~~~~~~~~~~^^^^^^^^
+  File "/home/dietpi/narrative-radar/scripts/run_all.py", line 21, in run_script
+    result = subprocess.run(["python3", script_path, "--seed", str(SEED)])
+  File "/usr/lib/python3.13/subprocess.py", line 556, in run
+    stdout, stderr = process.communicate(input, timeout=timeout)
+                     ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.13/subprocess.py", line 1214, in communicate
+    self.wait()
+    ~~~~~~~~~^^
+  File "/usr/lib/python3.13/subprocess.py", line 1280, in wait
+    return self._wait(timeout=timeout)
+           ~~~~~~~~~~^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.13/subprocess.py", line 2066, in _wait
+    (pid, sts) = self._try_wait(0)
+                 ~~~~~~~~~~~~~~^^^
+  File "/usr/lib/python3.13/subprocess.py", line 2024, in _try_wait
+    (pid, sts) = os.waitpid(self.pid, wait_flags)
+                 ~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
+KeyboardInterrupt
+[2026-03-06 17:56:17] 🔹 Inicio pipeline Narrative Radar
+[2026-03-06 17:56:17] ✅ Entorno virtual activado
+[2026-03-06 17:56:17] 🔹 Ejecutando pipeline de recolección y análisis
+[INFO] Recolectando noticias de RSS...
+[INFO] Noticias insertadas en SQLite correctamente.
+[INFO] CSV generado en ../data/processed/news_summary.csv
+[INFO] Recolección de noticias finalizada.
+[nltk_data] Downloading package stopwords to /home/dietpi/nltk_data...
+[nltk_data]   Package stopwords is already up-to-date!
+Narrativas detectadas correctamente
+CSV de emociones generado en ../data/processed/emotions_summary.csv
+CSV de polarización generado en ../data/processed/polarization_summary.csv
+CSV de red de actores generado en ../data/processed/actors_network.csv
+CSV de propagación generado en ../data/processed/propagation_summary.csv
+CSV de tendencias generado en ../data/processed/trends_summary.csv
+CSV de cobertura gobierno generado en ../data/processed/government_coverage.csv
+
+--- Ejecutando collect_rss.py ---
+✅ collect_rss.py completado
+
+--- Ejecutando detect_narratives.py ---
+✅ detect_narratives.py completado
+
+--- Ejecutando detect_emotions.py ---
+✅ detect_emotions.py completado
+
+--- Ejecutando detect_polarization.py ---
+✅ detect_polarization.py completado
+
+--- Ejecutando build_network.py ---
+✅ build_network.py completado
+
+--- Ejecutando propagation_analysis.py ---
+✅ propagation_analysis.py completado
+
+--- Ejecutando trends_analysis.py ---
+✅ trends_analysis.py completado
+
+--- Ejecutando government_coverage.py ---
+✅ government_coverage.py completado
+
+🎯 Todos los CSV generados en: /home/dietpi/narrative-radar/data/processed
+[2026-03-06 17:56:50] ✅ Pipeline ejecutado correctamente
+[2026-03-06 17:56:50] 🔹 Generando PDF guía
+PDF generado correctamente por Python.
+[2026-03-06 17:56:51] ✅ PDF guía generado en data/processed/guia_dashboard.pdf
+[2026-03-06 17:56:51] 🔹 Rotando logs
+[2026-03-06 17:56:51] ✅ Logs rotados correctamente
+[2026-03-06 17:56:51] 🎯 Pipeline completo

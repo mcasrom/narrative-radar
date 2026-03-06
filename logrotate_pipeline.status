@@ -1,0 +1,3 @@
+logrotate state -- version 2
+"/home/dietpi/narrative-radar/pipeline.log" 2026-3-6-15:0:0
+"/home/dietpi/narrative-radar/pipeline_errors.log" 2026-3-6-15:0:0
