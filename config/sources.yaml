@@ -3,144 +3,89 @@ sources:
   - name: elpais
     url: https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada
     type: news
-    notes: Noticias nacionales y política
-
   - name: elmundo
     url: https://e00-elmundo.uecdn.es/elmundo/rss/portada.xml
     type: news
-    notes: Cobertura nacional
-
   - name: abc
     url: https://www.abc.es/rss/feeds/abcPortada.xml
     type: news
-    notes: Perspectiva conservadora
-
   - name: lavanguardia
-    url: https://www.lavanguardia.com/mvc/feed/rss/home
+    url: https://www.lavanguardia.com/rss/home.xml
     type: news
-    notes: Noticias y opinión catalana/nacional
-
-  - name: publico
-    url: https://www.publico.es/rss
-    type: news
-    notes: Perspectiva progresista y análisis social
-
   - name: eldiario
     url: https://www.eldiario.es/rss/
     type: news
-    notes: Noticias y opinión progresista
-
   - name: elconfidencial
-    url: https://feeds.elconfidencial.com/rss/
+    url: https://rss.elconfidencial.com/espana
     type: news
-    notes: Opinión y análisis económico/político
-
   - name: europapress
     url: https://www.europapress.es/rss/rss.aspx
     type: news
-    notes: Cobertura en tiempo real
-
   - name: 20minutos
     url: https://www.20minutos.es/rss/
     type: news
-    notes: Cobertura nacional y trending
-
   - name: elespanol
     url: https://www.elespanol.com/rss
     type: news
-    notes: Noticias nacionales y opinión
-
   - name: infolibre
     url: https://www.infolibre.es/rss
     type: news
-    notes: Análisis político y económico
-
-  - name: elperiodico
-    url: https://www.elperiodico.com/es/rss
+  - name: okdiario
+    url: https://okdiario.com/rss/
     type: news
-    notes: Cobertura Cataluña y nacional
-
-  # ── Radio y televisión ───────────────────────────────────
-  - name: rtve
-    url: https://www.rtve.es/rss/
+  - name: vozpopuli
+    url: https://www.vozpopuli.com/rss/
     type: news
-    notes: Noticias nacionales y audiovisuales
-
-  - name: lasexta
-    url: https://www.lasexta.com/rss
+  # ── Economía (sustituyen a TV/radio sin RSS activo) ──────
+  - name: expansion
+    url: https://e00-expansion.uecdn.es/rss/portada.xml
     type: news
-    notes: Noticias generales y trending
-
-  - name: cadena_ser
-    url: https://cadenaser.com/rss/
+  - name: eleconomista
+    url: https://www.eleconomista.es/rss/rss-seleccion-ee.php
     type: news
-    notes: Noticias y radio nacional
-
-  - name: cope
-    url: https://www.cope.es/rss/
+  - name: cinco_dias
+    url: https://cincodias.elpais.com/rss/cincodias/portada.xml
     type: news
-    notes: Radio conservadora y noticias
-
-  # ── Verificación y fact-checking ─────────────────────────
+  - name: elmundo_espana
+    url: https://e00-elmundo.uecdn.es/elmundo/rss/espana.xml
+    type: news
+  # ── Verificación ─────────────────────────────────────────
   - name: maldita
-    url: https://maldita.es/maldita.es.xml
+    url: https://maldita.es/feed/
     type: verification
-    notes: Detecta bulos y fake news
-
   - name: newtral
     url: https://www.newtral.es/feed/
     type: verification
-    notes: Verificación de noticias y bulos
-
-  # ── Medios internacionales en español ────────────────────
+  # ── Internacionales en español ───────────────────────────
   - name: bbc_mundo
-    url: https://www.bbc.com/mundo/rss.xml
+    url: https://feeds.bbci.co.uk/mundo/rss.xml
     type: news
-    notes: Cobertura internacional en español
-
-  - name: reuters_es
-    url: https://www.reuters.com/rssFeed/spain
-    type: news
-    notes: Cobertura internacional y nacional
-
   - name: dw_es
-    url: https://www.dw.com/es/rss-all.xml
+    url: https://rss.dw.com/atom/rss-es-all
     type: news
-    notes: Noticias y trending global
-
   - name: france24_es
     url: https://www.france24.com/es/rss
     type: news
-    notes: Noticias internacionales
-
   - name: elpais_internacional
-    url: https://internacional.elpais.com/rss
+    url: https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/internacional/portada
     type: news
-    notes: Noticias globales
-
+  - name: elmundo_internacional
+    url: https://e00-elmundo.uecdn.es/elmundo/rss/internacional.xml
+    type: news
   # ── Agregadores ──────────────────────────────────────────
   - name: google_news_es
     url: https://news.google.com/rss?hl=es&gl=ES&ceid=ES:es
     type: aggregator
-    notes: Cobertura global agregada
-
-  # ── Medios regionales ────────────────────────────────────
-  - name: lavoz_galicia
-    url: https://www.lavozdegalicia.es/rss
-    type: news
-    notes: Noticias Galicia
-
+  - name: google_news_politica
+    url: https://news.google.com/rss/search?q=politica+espana&hl=es&gl=ES&ceid=ES:es
+    type: aggregator
+  # ── Regionales ───────────────────────────────────────────
   - name: heraldo_aragon
     url: https://www.heraldo.es/rss
     type: news
-    notes: Noticias Aragón
-
   - name: levante_emv
     url: https://www.levante-emv.com/rss
     type: news
-    notes: Noticias Comunidad Valenciana
-
-  - name: diario_sur
-    url: https://www.diariosur.es/rss
+  - name: el_norte_castilla
+    url: https://www.elnortedecastilla.es/rss
     type: news
-    notes: Noticias Málaga y Andalucía

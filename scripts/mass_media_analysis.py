@@ -1,34 +1,38 @@
 #!/usr/bin/env python3
+"""
+mass_media_analysis.py
+Intensidad de cobertura real por medio — cuenta noticias por fuente
+y calcula un índice de intensidad normalizado (0-100).
+Lee: data/processed/news_summary.csv
+Genera: data/processed/mass_media_coverage.csv (source, intensity_index)
+"""
 import pandas as pd
 import os
-import argparse
+from datetime import datetime
 
-# -----------------------------
-# Argumentos CLI
-# -----------------------------
-parser = argparse.ArgumentParser(description="Generar CSV de Análisis Masivos")
-parser.add_argument('--seed', type=int, default=42)
-args = parser.parse_args()
-seed = args.seed
+INPUT_FILE = os.path.join(os.path.dirname(__file__), "../data/processed/news_summary.csv")
+OUTPUT_FILE = os.path.join(os.path.dirname(__file__), "../data/processed/mass_media_coverage.csv")
+os.makedirs(os.path.dirname(OUTPUT_FILE), exist_ok=True)
 
-# -----------------------------
-# Carpeta processed
-# -----------------------------
-processed_dir = os.path.abspath(os.path.join(os.path.dirname(__file__), "../data/processed"))
-os.makedirs(processed_dir, exist_ok=True)
-CSV_FILE = os.path.join(processed_dir, "mass_media_coverage.csv")
+try:
+    df = pd.read_csv(INPUT_FILE)
+except Exception as e:
+    print(f"Error leyendo {INPUT_FILE}: {e}")
+    exit(1)
 
-# -----------------------------
-# Datos simulados
-# -----------------------------
-sources = ["Medio A", "Medio B", "Medio C", "Medio D"]
-intensity_index = [seed % 10 + 5, (seed+3) % 10 + 7, (seed+5) % 10 + 6, (seed+7) % 10 + 8]
+if "source" not in df.columns:
+    print("news_summary.csv no tiene columna source")
+    exit(1)
 
-df = pd.DataFrame({
-    "source": sources,
-    "intensity_index": intensity_index,
-    "last_update": pd.Timestamp.now()
-})
+# Contar noticias por fuente
+counts = df["source"].value_counts().reset_index()
+counts.columns = ["source", "news_count"]
 
-df.to_csv(CSV_FILE, index=False)
-print(f"CSV de Análisis Masivos generado en {CSV_FILE}")
+# Normalizar a índice 0-100 sobre el máximo
+max_count = counts["news_count"].max()
+counts["intensity_index"] = (counts["news_count"] / max_count * 100).round(1)
+counts["last_update"] = datetime.now().strftime("%Y-%m-%d %H:%M")
+
+counts = counts.sort_values("intensity_index", ascending=False)
+counts.to_csv(OUTPUT_FILE, index=False)
+print(f"CSV de Análisis Masivos generado en {OUTPUT_FILE} ({len(counts)} fuentes)")
