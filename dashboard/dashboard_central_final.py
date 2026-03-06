@@ -24,7 +24,6 @@ st.markdown("Panel central que integra indicadores de narrativas, emociones, pol
 # -------------------------------------------------------
 # Directorio de datos (Ruta absoluta segura)
 # -------------------------------------------------------
-# Forzamos la ruta base al directorio del proyecto para evitar errores de ../
 current_dir = os.path.dirname(os.path.abspath(__file__))
 base_dir = os.path.abspath(os.path.join(current_dir, "../data/processed"))
 
@@ -61,23 +60,49 @@ def mostrar_tab(tab_name, csv_path):
 
     # Visualizaciones por Tab
     if tab_name == "Radar Narrativo" and "cluster" in df.columns:
-        fig = px.bar(df, x="cluster", y="count", color="cluster", title="Clusters de narrativas detectadas")
+        fig = px.bar(df, x="cluster", y="count", color="cluster",
+                     title="Clusters de narrativas detectadas")
         st.plotly_chart(fig, use_container_width=True)
 
     elif tab_name == "Radar Emocional" and "emotion" in df.columns:
-        fig = px.bar(df, x="emotion", y="count", color="emotion", title="Distribución emocional")
+        fig = px.bar(df, x="emotion", y="count", color="emotion",
+                     title="Distribución emocional")
         st.plotly_chart(fig, use_container_width=True)
 
     elif tab_name == "Polarización" and "date" in df.columns:
-        fig = px.line(df, x="date", y="polarization_index", markers=True, title="Índice de polarización")
+        fig = px.line(df, x="date", y="polarization_index", markers=True,
+                      title="Índice de polarización",
+                      labels={"date": "Fecha", "polarization_index": "Índice de polarización"})
+        st.plotly_chart(fig, use_container_width=True)
+
+    elif tab_name == "Red de Actores" and "source" in df.columns:
+        fig = px.bar(df, x="source", y="weight", color="target",
+                     title="Red de actores — peso de relaciones",
+                     labels={"source": "Actor origen", "weight": "Peso", "target": "Actor destino"})
+        st.plotly_chart(fig, use_container_width=True)
+
+    elif tab_name == "Propagación" and "date" in df.columns:
+        fig = px.line(df, x="date", y="spread_index", markers=True,
+                      title="Índice de propagación narrativa",
+                      labels={"date": "Fecha", "spread_index": "Índice de propagación"})
+        fig.update_traces(line_color="#e05c00", line_width=2)
         st.plotly_chart(fig, use_container_width=True)
 
     elif tab_name == "Tendencias" and "keyword" in df.columns:
-        fig = px.bar(df, x="keyword", y="count", color="count", title="Tendencias de palabras clave")
+        fig = px.bar(df, x="keyword", y="count", color="count",
+                     title="Tendencias de palabras clave")
         st.plotly_chart(fig, use_container_width=True)
 
     elif tab_name == "Cobertura Gobierno" and "source" in df.columns:
-        fig = px.bar(df, x="source", y="alignment", color="alignment", title="Alineamiento mediático")
+        fig = px.bar(df, x="source", y="alignment", color="alignment",
+                     title="Alineamiento mediático")
+        st.plotly_chart(fig, use_container_width=True)
+
+    elif tab_name == "Análisis Masivos" and "source" in df.columns:
+        fig = px.bar(df, x="source", y="intensity_index", color="intensity_index",
+                     title="Intensidad de cobertura por medio",
+                     labels={"source": "Medio", "intensity_index": "Índice de intensidad"},
+                     color_continuous_scale="Reds")
         st.plotly_chart(fig, use_container_width=True)
 
     st.dataframe(df)
@@ -89,14 +114,13 @@ def generar_pdf():
     pdf = FPDF()
     pdf.add_page()
     font_path = os.path.join(current_dir, "DejaVuSans.ttf")
-    
+
     if os.path.exists(font_path):
         pdf.add_font("DejaVu", "", font_path, uni=True)
         pdf.set_font("DejaVu", size=12)
     else:
         pdf.set_font("Arial", size=12)
 
-    # Obtenemos la fecha del archivo para el PDF también
     testigo = paths["Tendencias"]
     fecha_pdf = datetime.fromtimestamp(os.path.getmtime(testigo)).strftime("%Y-%m-%d %H:%M:%S") if os.path.exists(testigo) else "N/A"
 
@@ -137,13 +161,12 @@ with col1:
         st.success(f"PDF generado exitosamente")
 
 with col2:
-    # Lógica de fecha real basada en el archivo de tendencias
     testigo = paths["Tendencias"]
     if os.path.exists(testigo):
         mtime = os.path.getmtime(testigo)
         last_ingestion = datetime.fromtimestamp(mtime).strftime('%Y-%m-%d %H:%M:%S')
     else:
         last_ingestion = "Archivo no encontrado"
-    
+
     st.write(f"**Última ingestión de datos (Real):** {last_ingestion}")
     st.write("© 2026 M. Castillo | mybloggingnotes@gmail.com")
