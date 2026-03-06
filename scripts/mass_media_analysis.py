@@ -1,38 +1,34 @@
 #!/usr/bin/env python3
 """
 mass_media_analysis.py
-Intensidad de cobertura real por medio — cuenta noticias por fuente
-y calcula un índice de intensidad normalizado (0-100).
-Lee: data/processed/news_summary.csv
-Genera: data/processed/mass_media_coverage.csv (source, intensity_index)
+Intensidad de cobertura real por medio. Con histórico acumulativo.
 """
 import pandas as pd
 import os
 from datetime import datetime
 
-INPUT_FILE = os.path.join(os.path.dirname(__file__), "../data/processed/news_summary.csv")
-OUTPUT_FILE = os.path.join(os.path.dirname(__file__), "../data/processed/mass_media_coverage.csv")
-os.makedirs(os.path.dirname(OUTPUT_FILE), exist_ok=True)
+INPUT = os.path.abspath(os.path.join(os.path.dirname(os.path.abspath(__file__)), "../data/processed/news_summary.csv"))
+OUTPUT = os.path.abspath(os.path.join(os.path.dirname(os.path.abspath(__file__)), "../data/processed/mass_media_coverage.csv"))
+HISTORY = os.path.abspath(os.path.join(os.path.dirname(os.path.abspath(__file__)), "../data/processed/mass_media_history.csv"))
+os.makedirs(os.path.dirname(OUTPUT), exist_ok=True)
 
 try:
-    df = pd.read_csv(INPUT_FILE)
+    df = pd.read_csv(INPUT)
 except Exception as e:
-    print(f"Error leyendo {INPUT_FILE}: {e}")
-    exit(1)
+    print(f"Error leyendo {INPUT}: {e}"); exit(1)
 
-if "source" not in df.columns:
-    print("news_summary.csv no tiene columna source")
-    exit(1)
-
-# Contar noticias por fuente
+now = datetime.now().strftime("%Y-%m-%d %H:%M")
 counts = df["source"].value_counts().reset_index()
-counts.columns = ["source", "news_count"]
+counts.columns = ["source","news_count"]
+counts["intensity_index"] = (counts["news_count"] / counts["news_count"].max() * 100).round(1)
+counts["last_update"] = now
+counts.to_csv(OUTPUT, index=False)
 
-# Normalizar a índice 0-100 sobre el máximo
-max_count = counts["news_count"].max()
-counts["intensity_index"] = (counts["news_count"] / max_count * 100).round(1)
-counts["last_update"] = datetime.now().strftime("%Y-%m-%d %H:%M")
-
-counts = counts.sort_values("intensity_index", ascending=False)
-counts.to_csv(OUTPUT_FILE, index=False)
-print(f"CSV de Análisis Masivos generado en {OUTPUT_FILE} ({len(counts)} fuentes)")
+counts["cycle"] = now
+if os.path.exists(HISTORY):
+    hist = pd.concat([pd.read_csv(HISTORY), counts], ignore_index=True)
+    hist = hist.drop_duplicates(subset=["source","cycle"], keep="last")
+else:
+    hist = counts.copy()
+hist.to_csv(HISTORY, index=False)
+print(f"CSV de Análisis Masivos generado en {OUTPUT} ({len(counts)} fuentes)")

@@ -115,3 +115,18 @@ echo "[$(timestamp)] 🔹 Rotando logs" >> "$LOG_FILE"
 echo "[$(timestamp)] ✅ Logs rotados correctamente" >> "$LOG_FILE"
 
 echo "[$(timestamp)] 🎯 Pipeline completo" >> "$LOG_FILE"
+
+# ------------------------------------------------------------------
+# Sincronización automática con GitHub (Para Streamlit Cloud)
+# ------------------------------------------------------------------
+echo "[$(timestamp)] 🔹 Sincronizando con GitHub..." >> "$LOG_FILE"
+cd "$BASE_DIR"
+git add data/processed/*.csv
+git commit -m "Auto-update: Datos frescos $(date +'%Y-%m-%d %H:%M')" >> "$LOG_FILE" 2>&1
+git push origin main >> "$LOG_FILE" 2>&1
+
+if [ $? -eq 0 ]; then
+    echo "[$(timestamp)] ✅ GitHub actualizado" >> "$LOG_FILE"
+else
+    echo "[$(timestamp)] ⚠️ Error en GitHub push (posiblemente sin cambios)" >> "$LOG_FILE"
+fi
