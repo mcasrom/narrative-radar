@@ -1,91 +1,85 @@
 sources:
-  # ── Medios nacionales generalistas ──────────────────────
-  - name: elpais
-    url: https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada
-    type: news
-  - name: elmundo
-    url: https://e00-elmundo.uecdn.es/elmundo/rss/portada.xml
-    type: news
-  - name: abc
-    url: https://www.abc.es/rss/feeds/abcPortada.xml
-    type: news
-  - name: lavanguardia
-    url: https://www.lavanguardia.com/rss/home.xml
-    type: news
-  - name: eldiario
-    url: https://www.eldiario.es/rss/
-    type: news
-  - name: elconfidencial
-    url: https://rss.elconfidencial.com/espana
-    type: news
-  - name: europapress
-    url: https://www.europapress.es/rss/rss.aspx
-    type: news
-  - name: 20minutos
-    url: https://www.20minutos.es/rss/
-    type: news
-  - name: elespanol
-    url: https://www.elespanol.com/rss
-    type: news
-  - name: infolibre
-    url: https://www.infolibre.es/rss
-    type: news
-  - name: okdiario
-    url: https://okdiario.com/rss/
-    type: news
-  - name: vozpopuli
-    url: https://www.vozpopuli.com/rss/
-    type: news
-  # ── Economía (sustituyen a TV/radio sin RSS activo) ──────
-  - name: expansion
-    url: https://e00-expansion.uecdn.es/rss/portada.xml
-    type: news
-  - name: eleconomista
-    url: https://www.eleconomista.es/rss/rss-seleccion-ee.php
-    type: news
-  - name: cinco_dias
-    url: https://cincodias.elpais.com/rss/cincodias/portada.xml
-    type: news
-  - name: elmundo_espana
-    url: https://e00-elmundo.uecdn.es/elmundo/rss/espana.xml
-    type: news
-  # ── Verificación ─────────────────────────────────────────
-  - name: maldita
-    url: https://maldita.es/feed/
-    type: verification
-  - name: newtral
-    url: https://www.newtral.es/feed/
-    type: verification
-  # ── Internacionales en español ───────────────────────────
-  - name: bbc_mundo
-    url: https://feeds.bbci.co.uk/mundo/rss.xml
-    type: news
-  - name: dw_es
-    url: https://rss.dw.com/atom/rss-es-all
-    type: news
-  - name: france24_es
-    url: https://www.france24.com/es/rss
-    type: news
-  - name: elpais_internacional
-    url: https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/internacional/portada
-    type: news
-  - name: elmundo_internacional
-    url: https://e00-elmundo.uecdn.es/elmundo/rss/internacional.xml
-    type: news
-  # ── Agregadores ──────────────────────────────────────────
-  - name: google_news_es
-    url: https://news.google.com/rss?hl=es&gl=ES&ceid=ES:es
-    type: aggregator
-  - name: google_news_politica
-    url: https://news.google.com/rss/search?q=politica+espana&hl=es&gl=ES&ceid=ES:es
-    type: aggregator
-  # ── Regionales ───────────────────────────────────────────
-  - name: heraldo_aragon
-    url: https://www.heraldo.es/rss
-    type: news
-  - name: levante_emv
-    url: https://www.levante-emv.com/rss
-    type: news
-  - name: el_norte_castilla
-    url: https://www.elnortedecastilla.es/rss
-    type: news
+- name: elpais
+  type: news
+  url: https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada
+- name: elmundo
+  type: news
+  url: https://e00-elmundo.uecdn.es/elmundo/rss/portada.xml
+- name: abc
+  type: news
+  url: https://www.abc.es/rss/feeds/abcPortada.xml
+- name: lavanguardia
+  type: news
+  url: https://www.lavanguardia.com/rss/home.xml
+- name: eldiario
+  type: news
+  url: https://www.eldiario.es/rss/
+- name: elconfidencial
+  type: news
+  url: https://rss.elconfidencial.com/espana
+- name: europapress
+  type: news
+  url: https://www.europapress.es/rss/rss.aspx
+- name: 20minutos
+  type: news
+  url: https://www.20minutos.es/rss/
+- name: elespanol
+  type: news
+  url: https://www.elespanol.com/rss
+- name: infolibre
+  type: news
+  url: https://www.infolibre.es/rss
+- name: okdiario
+  type: news
+  url: https://okdiario.com/rss/
+- name: vozpopuli
+  type: news
+  url: https://www.vozpopuli.com/rss/
+- name: expansion
+  type: news
+  url: https://e00-expansion.uecdn.es/rss/portada.xml
+- name: eleconomista
+  type: news
+  url: https://e00-expansion.uecdn.es/rss/portada.xml
+- name: cinco_dias
+  type: news
+  url: https://cincodias.elpais.com/rss/cincodias/portada.xml
+- name: elmundo_espana
+  type: news
+  url: https://e00-elmundo.uecdn.es/elmundo/rss/espana.xml
+- name: maldita
+  type: verification
+  url: https://maldita.es/feed/
+- name: newtral
+  type: verification
+  url: https://www.newtral.es/feed/
+- name: bbc_mundo
+  type: news
+  url: https://feeds.bbci.co.uk/mundo/rss.xml
+- name: huffington_es
+  type: news
+  url: https://www.huffingtonpost.es/feeds/index.xml
+- name: france24_es
+  type: news
+  url: https://www.france24.com/es/rss
+- name: elpais_internacional
+  type: news
+  url: https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/internacional/portada
+- name: elmundo_internacional
+  type: news
+  url: https://e00-elmundo.uecdn.es/elmundo/rss/internacional.xml
+- name: google_news_es
+  type: aggregator
+  url: https://news.google.com/rss?hl=es&gl=ES&ceid=ES:es
+- name: google_news_politica
+  type: aggregator
+  url: https://news.google.com/rss/search?q=politica+espana&hl=es&gl=ES&ceid=ES:es
+- name: heraldo_aragon
+  type: news
+  url: https://www.heraldo.es/rss
+- name: levante_emv
+  type: news
+  url: https://www.levante-emv.com/rss
+- name: elcorreo
+  type: news
+  url: https://www.elcorreo.com/rss/2.0/
