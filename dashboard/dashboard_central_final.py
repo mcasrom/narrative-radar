@@ -32,6 +32,7 @@ paths = {
 }
 
 history_paths = {
+    "Narrativas": os.path.join(base_dir, "narratives_history.csv"),
     "Emociones": os.path.join(base_dir, "emotions_history.csv"),
     "Polarización": os.path.join(base_dir, "polarization_history.csv"),
     "Tendencias": os.path.join(base_dir, "trends_history.csv"),
@@ -44,6 +45,18 @@ history_paths = {
 def mostrar_historico():
     st.header("Histórico de ciclos")
     st.markdown("Evolución temporal de cada módulo a lo largo de los ciclos de ingestión.")
+
+    # ── Narrativas ─────────────────────────────────────────
+    st.subheader("🧩 Narrativas — evolución de clusters por ciclo")
+    path = history_paths["Narrativas"]
+    if os.path.exists(path):
+        df = pd.read_csv(path)
+        fig = px.line(df, x="cycle", y="count", color="cluster_label", markers=True,
+                      title="Evolución de clusters narrativos por ciclo",
+                      labels={"cycle": "Ciclo", "count": "Noticias", "cluster_label": "Cluster"})
+        st.plotly_chart(fig, use_container_width=True)
+    else:
+        st.info("Sin histórico de narrativas aún.")
 
     # ── Emociones ──────────────────────────────────────────
     st.subheader("📊 Emociones — evolución por ciclo")
