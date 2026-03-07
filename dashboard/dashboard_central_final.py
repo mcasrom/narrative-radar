@@ -28,6 +28,7 @@ paths = {
     "Cobertura Gobierno": os.path.join(base_dir, "government_coverage.csv"),
     "Análisis Masivos": os.path.join(base_dir, "mass_media_coverage.csv"),
     "Desinformación": os.path.join(base_dir, "disinfo_alerts.csv"),
+    "Coordinación": os.path.join(base_dir, "coordination_alerts.csv"),
     "Keywords": None,
     "Histórico": None,
     "Guía / HowTo": None
@@ -356,6 +357,38 @@ python3 scripts/run_all.py""", language="bash")
     st.success("✅ Sistema operativo. Pipeline cada 30 min.")
 
 def mostrar_tab(tab_name, csv_path):
+    if tab_name == "Coordinación":
+        st.header("Narrativas Coordinadas 🔴")
+        st.markdown("Detección de grupos de medios que publican titulares semánticamente similares en ventanas de **2 horas**.")
+        if not os.path.exists(csv_path):
+            st.warning("Sin datos aún — se generarán en el próximo ciclo.")
+            return
+        try:
+            df = pd.read_csv(csv_path)
+        except Exception as e:
+            st.error(f"Error: {e}"); return
+        if df.empty:
+            st.info("Sin narrativas coordinadas detectadas en este ciclo.")
+            return
+
+        col1, col2, col3 = st.columns(3)
+        col1.metric("Eventos detectados", len(df))
+        col2.metric("Alto score (≥50)", len(df[df["coord_score"]>=50]))
+        col3.metric("Max fuentes coordinadas", int(df["n_sources"].max()) if len(df)>0 else 0)
+
+        fig = px.bar(df.head(15), x="coord_score", y="representative",
+                     orientation="h", color="n_sources",
+                     title="Narrativas coordinadas por score",
+                     labels={"coord_score":"Score coordinación","representative":"Titular","n_sources":"Nº fuentes"},
+                     color_continuous_scale="Reds")
+        fig.update_layout(yaxis={"categoryorder":"total ascending"}, height=500)
+        st.plotly_chart(fig, use_container_width=True)
+
+        st.subheader("Detalle de eventos")
+        st.dataframe(df[["window","coord_score","n_sources","sources","representative"]],
+                     use_container_width=True)
+        return
+
     if tab_name == "Desinformación":
         st.header("Detector de Desinformación ⚠️")
         st.markdown("Alertas generadas cruzando titulares con bulos verificados de **maldita.es** y **newtral.es** mediante similitud TF-IDF.")
