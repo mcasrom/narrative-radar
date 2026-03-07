@@ -36,7 +36,8 @@ scripts = [
     "propagation_analysis.py",
     "trends_analysis.py",
     "government_coverage.py",
-    "keywords_analysis.py"
+    "keywords_analysis.py",
+    "generate_guide_pdf.py"
 ]
 
 # -----------------------------

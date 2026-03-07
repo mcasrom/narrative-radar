@@ -238,6 +238,42 @@ def mostrar_howto():
     Este tab contiene instrucciones para entender y operar el dashboard.
     """)
 
+    # ── PDF embebido ─────────────────────────────────────────────
+    pdf_current = os.path.join(base_dir, "guia_dashboard.pdf")
+    history_dir = os.path.join(base_dir, "guia_history")
+
+    if os.path.exists(pdf_current):
+        mtime = os.path.getmtime(pdf_current)
+        fecha_pdf = datetime.fromtimestamp(mtime).strftime("%Y-%m-%d %H:%M:%S")
+        st.success(f"📄 Guía v1.2 — Última actualización: {fecha_pdf}")
+
+        with open(pdf_current, "rb") as f:
+            pdf_bytes = f.read()
+        import base64
+        b64 = base64.b64encode(pdf_bytes).decode()
+        st.markdown(
+            f'''<iframe src="data:application/pdf;base64,{b64}" width="100%" height="700px" style="border:1px solid #ccc; border-radius:6px;"></iframe>''',
+            unsafe_allow_html=True
+        )
+        st.download_button("⬇️ Descargar guía PDF", data=pdf_bytes,
+                           file_name="CMNE_Guia_v1.2.pdf", mime="application/pdf")
+    else:
+        st.warning("PDF de guía no generado aún — se generará en el próximo ciclo.")
+
+    # ── Versiones anteriores ─────────────────────────────────────
+    if os.path.exists(history_dir):
+        versions = sorted(os.listdir(history_dir), reverse=True)
+        if versions:
+            st.subheader("📁 Versiones anteriores")
+            selected = st.selectbox("Selecciona versión:", versions)
+            hist_path = os.path.join(history_dir, selected)
+            with open(hist_path, "rb") as f:
+                hist_bytes = f.read()
+            ts = selected.replace("guia_","").replace(".pdf","").replace("_"," ")
+            st.download_button(f"⬇️ Descargar {ts}", data=hist_bytes,
+                               file_name=selected, mime="application/pdf")
+    st.markdown("---")
+
     st.subheader("1️⃣ Rutas de CSV utilizados")
     csv_files = {
         "Radar Narrativo": "narratives_summary.csv",
