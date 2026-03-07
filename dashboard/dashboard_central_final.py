@@ -27,165 +27,272 @@ paths = {
     "Tendencias": os.path.join(base_dir, "trends_summary.csv"),
     "Cobertura Gobierno": os.path.join(base_dir, "government_coverage.csv"),
     "Análisis Masivos": os.path.join(base_dir, "mass_media_coverage.csv"),
+    "Histórico": None,
     "Guía / HowTo": None
 }
 
-def mostrar_tab(tab_name, csv_path):
-    st.header(tab_name)
+history_paths = {
+    "Emociones": os.path.join(base_dir, "emotions_history.csv"),
+    "Polarización": os.path.join(base_dir, "polarization_history.csv"),
+    "Tendencias": os.path.join(base_dir, "trends_history.csv"),
+    "Cobertura Gobierno": os.path.join(base_dir, "government_coverage_history.csv"),
+    "Red de Actores": os.path.join(base_dir, "actors_network_history.csv"),
+    "Propagación": os.path.join(base_dir, "propagation_history.csv"),
+    "Análisis Masivos": os.path.join(base_dir, "mass_media_history.csv"),
+}
 
-    if tab_name == "Guía / HowTo":
-        st.markdown("""
-        Bienvenido al **Centro de Mando Narrativo España 🇪🇸**.  
-        Este tab contiene instrucciones para entender y operar el dashboard.
-        """)
+def mostrar_historico():
+    st.header("Histórico de ciclos")
+    st.markdown("Evolución temporal de cada módulo a lo largo de los ciclos de ingestión.")
 
-        st.subheader("1️⃣ Rutas de CSV utilizados")
-        csv_files = {
-            "Radar Narrativo": "narratives_summary.csv",
-            "Radar Emocional": "emotions_summary.csv",
-            "Polarización": "polarization_summary.csv",
-            "Red de Actores": "actors_network.csv",
-            "Propagación": "propagation_summary.csv",
-            "Tendencias": "trends_summary.csv",
-            "Cobertura Gobierno": "government_coverage.csv",
-            "Análisis Masivos": "mass_media_coverage.csv"
-        }
-        for tab, filename in csv_files.items():
-            full_path = os.path.join(base_dir, filename)
-            exists = "✅" if os.path.exists(full_path) else "❌"
-            try:
-                df = pd.read_csv(full_path)
-                nrows = len(df)
-            except:
-                nrows = "N/A"
-            st.markdown(f"- {exists} **{tab}** → `{filename}` ({nrows} filas)")
+    # ── Emociones ──────────────────────────────────────────
+    st.subheader("📊 Emociones — evolución por ciclo")
+    path = history_paths["Emociones"]
+    if os.path.exists(path):
+        df = pd.read_csv(path)
+        df = df[df["emotion"] != "Neutral"]
+        fig = px.line(df, x="cycle", y="count", color="emotion", markers=True,
+                      title="Evolución emocional por ciclo de ingestión",
+                      labels={"cycle": "Ciclo", "count": "Noticias", "emotion": "Emoción"})
+        st.plotly_chart(fig, use_container_width=True)
+    else:
+        st.info("Sin histórico de emociones aún.")
 
-        st.subheader("2️⃣ Flujo de actualización de datos")
-        st.markdown("""
-        1. **Recolectar noticias reales:** `collect_rss.py` — lee 28 fuentes RSS desde `config/sources.yaml`
-        2. **Detectar narrativas:** `detect_narratives.py` — clustering TF-IDF + KMeans
-        3. **Detectar emociones:** `detect_emotions.py` — léxico por categoría emocional
-        4. **Calcular polarización:** `detect_polarization.py` — divergencia progresista/conservador
-        5. **Red de actores:** `build_network.py` — co-actividad de fuentes por día
-        6. **Propagación:** `propagation_analysis.py` — spread index diario
-        7. **Tendencias:** `trends_analysis.py` — keywords TF-IDF top 30
-        8. **Cobertura gobierno:** `government_coverage.py` — léxico político por medio
-        9. **Pipeline completa:** `python3 scripts/run_all.py`
-        """)
+    # ── Polarización ───────────────────────────────────────
+    st.subheader("📈 Polarización — evolución por ciclo")
+    path = history_paths["Polarización"]
+    if os.path.exists(path):
+        df = pd.read_csv(path)
+        df_agg = df.groupby("cycle")["polarization_index"].mean().reset_index()
+        df_agg.columns = ["cycle", "polarization_media"]
+        fig = px.line(df_agg, x="cycle", y="polarization_media", markers=True,
+                      title="Índice de polarización medio por ciclo",
+                      labels={"cycle": "Ciclo", "polarization_media": "Polarización media"})
+        fig.update_traces(line_color="#e05c00", line_width=2)
+        st.plotly_chart(fig, use_container_width=True)
+    else:
+        st.info("Sin histórico de polarización aún.")
 
-        st.subheader("3️⃣ Cómo ejecutar manualmente")
-        st.code("""cd ~/narrative-radar
+    # ── Tendencias ─────────────────────────────────────────
+    st.subheader("🔑 Tendencias — top keywords por ciclo")
+    path = history_paths["Tendencias"]
+    if os.path.exists(path):
+        df = pd.read_csv(path)
+        cycles = sorted(df["cycle"].unique())
+        selected = st.selectbox("Selecciona ciclo:", cycles, index=len(cycles)-1)
+        df_sel = df[df["cycle"] == selected].sort_values("count", ascending=False).head(15)
+        fig = px.bar(df_sel, x="keyword", y="count", color="count",
+                     title=f"Top keywords — {selected}",
+                     color_continuous_scale="Blues")
+        st.plotly_chart(fig, use_container_width=True)
+    else:
+        st.info("Sin histórico de tendencias aún.")
+
+    # ── Cobertura Gobierno ─────────────────────────────────
+    st.subheader("🏛️ Cobertura Gobierno — alineamiento por ciclo")
+    path = history_paths["Cobertura Gobierno"]
+    if os.path.exists(path):
+        df = pd.read_csv(path)
+        df_agg = df.groupby(["cycle","alignment"]).size().reset_index(name="count")
+        fig = px.bar(df_agg, x="cycle", y="count", color="alignment", barmode="stack",
+                     title="Distribución de alineamiento mediático por ciclo",
+                     labels={"cycle": "Ciclo", "count": "Fuentes", "alignment": "Alineamiento"})
+        st.plotly_chart(fig, use_container_width=True)
+    else:
+        st.info("Sin histórico de cobertura gobierno aún.")
+
+    # ── Propagación ────────────────────────────────────────
+    st.subheader("📡 Propagación — spread index por ciclo")
+    path = history_paths["Propagación"]
+    if os.path.exists(path):
+        df = pd.read_csv(path)
+        df_agg = df.groupby("cycle")["spread_index"].mean().reset_index()
+        df_agg.columns = ["cycle", "spread_medio"]
+        fig = px.line(df_agg, x="cycle", y="spread_medio", markers=True,
+                      title="Spread index medio por ciclo",
+                      labels={"cycle": "Ciclo", "spread_medio": "Spread medio"})
+        fig.update_traces(line_color="#1f77b4", line_width=2)
+        st.plotly_chart(fig, use_container_width=True)
+    else:
+        st.info("Sin histórico de propagación aún.")
+
+    # ── Red de Actores ─────────────────────────────────────
+    st.subheader("🕸️ Red de Actores — relaciones por ciclo")
+    path = history_paths["Red de Actores"]
+    if os.path.exists(path):
+        df = pd.read_csv(path)
+        df_agg = df.groupby("cycle")["weight"].sum().reset_index()
+        fig = px.bar(df_agg, x="cycle", y="weight",
+                     title="Peso total de relaciones por ciclo",
+                     labels={"cycle": "Ciclo", "weight": "Peso total"})
+        st.plotly_chart(fig, use_container_width=True)
+        st.markdown("**Top relaciones acumuladas:**")
+        top = df.groupby(["source","target"])["weight"].sum().reset_index()
+        top = top.sort_values("weight", ascending=False).head(10)
+        st.dataframe(top, use_container_width=True)
+    else:
+        st.info("Sin histórico de red de actores aún.")
+
+    # ── Análisis Masivos ───────────────────────────────────
+    st.subheader("📰 Análisis Masivos — intensidad por ciclo")
+    path = history_paths["Análisis Masivos"]
+    if os.path.exists(path):
+        df = pd.read_csv(path)
+        cycles = sorted(df["cycle"].unique())
+        selected = st.selectbox("Selecciona ciclo:", cycles, index=len(cycles)-1, key="masivos_cycle")
+        df_sel = df[df["cycle"] == selected].sort_values("intensity_index", ascending=False)
+        fig = px.bar(df_sel, x="source", y="intensity_index", color="intensity_index",
+                     title=f"Intensidad por medio — {selected}",
+                     color_continuous_scale="Reds")
+        st.plotly_chart(fig, use_container_width=True)
+    else:
+        st.info("Sin histórico de análisis masivos aún — disponible en próximo ciclo.")
+
+    st.markdown("---")
+    st.caption(f"Histórico actualizado cada 30 minutos · Odroid-C2 · © 2026 M. Castillo")
+
+def mostrar_howto():
+    st.header("Guía de uso / HowTo")
+    st.markdown("""
+    Bienvenido al **Centro de Mando Narrativo España 🇪🇸**.  
+    Este tab contiene instrucciones para entender y operar el dashboard.
+    """)
+
+    st.subheader("1️⃣ Rutas de CSV utilizados")
+    csv_files = {
+        "Radar Narrativo": "narratives_summary.csv",
+        "Radar Emocional": "emotions_summary.csv",
+        "Polarización": "polarization_summary.csv",
+        "Red de Actores": "actors_network.csv",
+        "Propagación": "propagation_summary.csv",
+        "Tendencias": "trends_summary.csv",
+        "Cobertura Gobierno": "government_coverage.csv",
+        "Análisis Masivos": "mass_media_coverage.csv"
+    }
+    for tab, filename in csv_files.items():
+        full_path = os.path.join(base_dir, filename)
+        exists = "✅" if os.path.exists(full_path) else "❌"
+        try:
+            df = pd.read_csv(full_path)
+            nrows = len(df)
+        except:
+            nrows = "N/A"
+        st.markdown(f"- {exists} **{tab}** → `{filename}` ({nrows} filas)")
+
+    st.subheader("2️⃣ Flujo de actualización de datos")
+    st.markdown("""
+    1. `collect_rss.py` — 28 fuentes RSS desde `config/sources.yaml`
+    2. `detect_narratives.py` — clustering TF-IDF + KMeans
+    3. `detect_emotions.py` — léxico emocional
+    4. `detect_polarization.py` — divergencia progresista/conservador
+    5. `build_network.py` — co-actividad de fuentes
+    6. `propagation_analysis.py` — spread index diario
+    7. `trends_analysis.py` — keywords TF-IDF top 30
+    8. `government_coverage.py` — léxico político por medio
+    9. `audit_sources.py` — auditoría RSS con alerta email
+    """)
+
+    st.subheader("3️⃣ Ejecución manual")
+    st.code("""cd ~/narrative-radar
 source env/bin/activate
 python3 scripts/run_all.py""", language="bash")
 
-        st.subheader("4️⃣ Cron Jobs activos")
-        st.markdown("""
-        - **Pipeline:** cada 30 minutos vía `update_dashboard.sh` con bloqueo flock
-        - **Streamlit:** arranca automáticamente al reiniciar el Odroid (retraso 90s)
-        - Verificar: `crontab -l | grep narrative-radar`
-        """)
+    st.subheader("4️⃣ Cron Jobs activos")
+    st.markdown("""
+    - **Pipeline:** cada 30 min · `update_dashboard.sh` con flock
+    - **Auditoría:** cada 30 min a :05 · `audit_sources.py` con email
+    - Verificar: `crontab -l | grep narrative`
+    """)
 
-        st.subheader("5️⃣ Fuentes RSS activas")
-        sources_path = os.path.abspath(os.path.join(current_dir, "../config/sources.yaml"))
-        try:
-            import yaml
-            with open(sources_path, "r") as f:
-                config = yaml.safe_load(f)
-            sources_df = pd.DataFrame(config["sources"])
-            st.dataframe(sources_df, use_container_width=True)
-        except Exception as e:
-            st.warning(f"No se pudo cargar sources.yaml: {e}")
+    st.subheader("5️⃣ Fuentes RSS activas")
+    sources_path = os.path.abspath(os.path.join(current_dir, "../config/sources.yaml"))
+    try:
+        import yaml
+        with open(sources_path, "r") as f:
+            config = yaml.safe_load(f)
+        st.dataframe(pd.DataFrame(config["sources"]), use_container_width=True)
+    except Exception as e:
+        st.warning(f"No se pudo cargar sources.yaml: {e}")
 
-        st.subheader("6️⃣ Histórico de ciclos")
-        history_files = {
-            "Emociones": os.path.join(base_dir, "emotions_history.csv"),
-            "Polarización": os.path.join(base_dir, "polarization_history.csv"),
-            "Tendencias": os.path.join(base_dir, "trends_history.csv"),
-            "Cobertura Gobierno": os.path.join(base_dir, "government_coverage_history.csv"),
-        }
-        for name, path in history_files.items():
-            if os.path.exists(path):
-                df = pd.read_csv(path)
-                st.markdown(f"- ✅ **{name}** — {len(df)} registros acumulados")
-            else:
-                st.markdown(f"- ❌ **{name}** — sin histórico aún")
+    st.subheader("6️⃣ Histórico de ciclos")
+    for name, path in history_paths.items():
+        if os.path.exists(path):
+            df = pd.read_csv(path)
+            ciclos = df["cycle"].nunique() if "cycle" in df.columns else "—"
+            st.markdown(f"- ✅ **{name}** — {len(df)} registros · {ciclos} ciclos")
+        else:
+            st.markdown(f"- ❌ **{name}** — sin histórico aún")
 
-        st.subheader("7️⃣ Notas importantes")
-        st.markdown("""
-        - No modifiques directamente los CSV en `data/processed/`
-        - Los nombres de columnas deben coincidir con los esperados por el dashboard
-        - Revisa `pipeline.log` para diagnóstico de errores
-        - Para añadir fuentes RSS edita `config/sources.yaml` — sin tocar código Python
-        """)
+    st.subheader("7️⃣ Notas importantes")
+    st.markdown("""
+    - No modifiques los CSV en `data/processed/` manualmente
+    - Para añadir fuentes RSS edita solo `config/sources.yaml`
+    - Revisa `pipeline.log` para diagnóstico de errores
+    """)
 
-        st.subheader("8️⃣ Contacto y mantenimiento")
-        st.markdown("""
-        - **Autor:** M. Castillo · mybloggingnotes@gmail.com  
-        - **Repo:** https://github.com/mcasrom/narrative-radar  
-        - **Nodo físico:** Odroid-C2 (ARM, DietPi) — operación continua 24/7
-        """)
+    st.subheader("8️⃣ Contacto")
+    st.markdown("""
+    - **Autor:** M. Castillo · mybloggingnotes@gmail.com  
+    - **Repo:** https://github.com/mcasrom/narrative-radar  
+    - **Nodo:** Odroid-C2 · DietPi · 24/7
+    """)
+    st.success("✅ Sistema operativo. Pipeline cada 30 min.")
 
-        st.success("✅ Sistema operativo. Pipeline ejecutándose cada 30 minutos.")
+def mostrar_tab(tab_name, csv_path):
+    if tab_name == "Histórico":
+        mostrar_historico()
+        return
+    if tab_name == "Guía / HowTo":
+        mostrar_howto()
         return
 
+    st.header(tab_name)
     if not os.path.exists(csv_path):
         st.warning(f"No hay datos disponibles para el módulo: {tab_name}")
         return
-
     try:
         df = pd.read_csv(csv_path)
     except Exception as e:
-        st.error(f"Error leyendo CSV: {e}")
-        return
-
+        st.error(f"Error leyendo CSV: {e}"); return
     if df.empty:
-        st.warning("El CSV está vacío.")
-        return
+        st.warning("El CSV está vacío."); return
 
     if tab_name == "Radar Narrativo" and "cluster" in df.columns:
         fig = px.bar(df, x="cluster", y="count", color="cluster",
                      title="Clusters de narrativas detectadas")
         st.plotly_chart(fig, use_container_width=True)
-
     elif tab_name == "Radar Emocional" and "emotion" in df.columns:
         fig = px.bar(df, x="emotion", y="count", color="emotion",
                      title="Distribución emocional")
         st.plotly_chart(fig, use_container_width=True)
-
     elif tab_name == "Polarización" and "date" in df.columns:
         fig = px.line(df, x="date", y="polarization_index", markers=True,
                       title="Índice de polarización",
                       labels={"date": "Fecha", "polarization_index": "Índice"})
         st.plotly_chart(fig, use_container_width=True)
-
     elif tab_name == "Red de Actores" and "source" in df.columns:
         fig = px.bar(df, x="source", y="weight", color="target",
                      title="Red de actores — peso de relaciones",
                      labels={"source": "Actor origen", "weight": "Peso", "target": "Actor destino"})
         st.plotly_chart(fig, use_container_width=True)
-
     elif tab_name == "Propagación" and "date" in df.columns:
         fig = px.line(df, x="date", y="spread_index", markers=True,
                       title="Índice de propagación narrativa",
-                      labels={"date": "Fecha", "spread_index": "Índice de propagación"})
+                      labels={"date": "Fecha", "spread_index": "Índice"})
         fig.update_traces(line_color="#e05c00", line_width=2)
         st.plotly_chart(fig, use_container_width=True)
-
     elif tab_name == "Tendencias" and "keyword" in df.columns:
         fig = px.bar(df, x="keyword", y="count", color="count",
                      title="Tendencias de palabras clave")
         st.plotly_chart(fig, use_container_width=True)
-
     elif tab_name == "Cobertura Gobierno" and "source" in df.columns:
         fig = px.bar(df, x="source", y="alignment_score", color="alignment",
                      title="Alineamiento mediático por fuente",
                      labels={"source": "Medio", "alignment_score": "Score"})
         st.plotly_chart(fig, use_container_width=True)
-
     elif tab_name == "Análisis Masivos" and "source" in df.columns:
         fig = px.bar(df, x="source", y="intensity_index", color="intensity_index",
                      title="Intensidad de cobertura por medio",
-                     labels={"source": "Medio", "intensity_index": "Índice de intensidad"},
                      color_continuous_scale="Reds")
         st.plotly_chart(fig, use_container_width=True)
 
@@ -217,7 +324,6 @@ CSV almacenados en: data/processed/
 
 tab_names = list(paths.keys())
 tabs = st.tabs(tab_names)
-
 for i, tab_name in enumerate(tab_names):
     with tabs[i]:
         mostrar_tab(tab_name, paths[tab_name])
@@ -225,17 +331,14 @@ for i, tab_name in enumerate(tab_names):
 st.markdown("---")
 st.subheader("📄 Guía y Metadatos")
 col1, col2 = st.columns(2)
-
 with col1:
     if st.button("Generar PDF guía actualizado"):
-        pdf_file = generar_pdf()
+        generar_pdf()
         st.success("PDF generado exitosamente")
-
 with col2:
     testigo = paths["Tendencias"]
     if os.path.exists(testigo):
-        mtime = os.path.getmtime(testigo)
-        last_ingestion = datetime.fromtimestamp(mtime).strftime("%Y-%m-%d %H:%M:%S")
+        last_ingestion = datetime.fromtimestamp(os.path.getmtime(testigo)).strftime("%Y-%m-%d %H:%M:%S")
     else:
         last_ingestion = "Archivo no encontrado"
     st.write(f"**Última ingestión de datos (Real):** {last_ingestion}")
