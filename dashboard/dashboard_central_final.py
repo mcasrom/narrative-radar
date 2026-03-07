@@ -31,6 +31,10 @@ paths = {
     "Coordinación": os.path.join(base_dir, "coordination_alerts.csv"),
     "Agenda-Setting": os.path.join(base_dir, "agenda_score.csv"),
     "Sentimiento NLP": os.path.join(base_dir, "sentiment_summary.csv"),
+    "Mapa Geográfico": os.path.join(base_dir, "geo_summary.csv"),
+    "Temas Virales": os.path.join(base_dir, "viral_topics.csv"),
+    "Personajes": os.path.join(base_dir, "personas_summary.csv"),
+    "Diversidad": os.path.join(base_dir, "diversity_index.csv"),
     "Keywords": None,
     "Histórico": None,
     "Guía / HowTo": None
@@ -359,6 +363,138 @@ python3 scripts/run_all.py""", language="bash")
     st.success("✅ Sistema operativo. Pipeline cada 30 min.")
 
 def mostrar_tab(tab_name, csv_path):
+    if tab_name == "Temas Virales":
+        st.header("Temas Virales 🔥")
+        st.markdown("Keywords que **explotan >200%** en menos de 2 horas respecto al período anterior.")
+        if not os.path.exists(csv_path):
+            st.warning("Sin datos aún."); return
+        try:
+            df = pd.read_csv(csv_path)
+        except Exception as e:
+            st.error(f"Error: {e}"); return
+        if df.empty:
+            st.info("Sin temas virales detectados en este ciclo."); return
+        col1, col2, col3 = st.columns(3)
+        col1.metric("Temas virales", len(df))
+        col2.metric("Alto score (≥60)", len(df[df["viral_score"]>=60]))
+        col3.metric("Keyword top", df.iloc[0]["keyword"] if len(df)>0 else "-")
+        fig = px.bar(df.head(15).sort_values("viral_score"),
+                     x="viral_score", y="keyword", orientation="h",
+                     color="ratio", color_continuous_scale="Hot",
+                     title="Score viral por keyword",
+                     labels={"viral_score":"Score viral","keyword":"Keyword","ratio":"Multiplicador"})
+        fig.update_layout(height=450)
+        st.plotly_chart(fig, use_container_width=True)
+        st.dataframe(df[["keyword","viral_score","ratio","count_now","count_base","sources"]],
+                     use_container_width=True)
+        return
+
+    if tab_name == "Personajes":
+        st.header("Seguimiento de Personajes 👤")
+        st.markdown("Menciones y sentimiento de **personajes políticos clave** en los medios monitorizados.")
+        if not os.path.exists(csv_path):
+            st.warning("Sin datos aún."); return
+        try:
+            df = pd.read_csv(csv_path)
+        except Exception as e:
+            st.error(f"Error: {e}"); return
+        df = df[df["mentions"]>0]
+        if df.empty:
+            st.info("Sin menciones detectadas."); return
+        col1, col2 = st.columns(2)
+        with col1:
+            fig = px.bar(df.sort_values("mentions"),
+                         x="mentions", y="persona", orientation="h",
+                         color="sentiment_score",
+                         color_continuous_scale="RdYlGn",
+                         color_continuous_midpoint=0,
+                         title="Menciones por personaje",
+                         labels={"mentions":"Menciones","persona":"Personaje","sentiment_score":"Sentimiento"})
+            st.plotly_chart(fig, use_container_width=True)
+        with col2:
+            fig2 = px.bar(df.sort_values("sentiment_score"),
+                          x="sentiment_score", y="persona", orientation="h",
+                          color="sentiment_score",
+                          color_continuous_scale="RdYlGn",
+                          color_continuous_midpoint=0,
+                          title="Score de sentimiento por personaje",
+                          labels={"sentiment_score":"Score","persona":"Personaje"})
+            st.plotly_chart(fig2, use_container_width=True)
+        st.dataframe(df[["persona","mentions","positive","negative","neutral","sentiment_score","last_title"]],
+                     use_container_width=True)
+        return
+
+    if tab_name == "Diversidad":
+        st.header("Índice de Diversidad Informativa 📊")
+        st.markdown("Mide cuántos temas **únicos** publica cada medio vs cuántos **replica** de otros.")
+        if not os.path.exists(csv_path):
+            st.warning("Sin datos aún."); return
+        try:
+            df = pd.read_csv(csv_path)
+        except Exception as e:
+            st.error(f"Error: {e}"); return
+        col1, col2, col3 = st.columns(3)
+        col1.metric("Fuente más diversa", df.iloc[0]["source"] if len(df)>0 else "-")
+        col2.metric("Score máximo", f"{df['diversity_score'].max():.1f}" if len(df)>0 else "-")
+        col3.metric("Score medio", f"{df['diversity_score'].mean():.1f}" if len(df)>0 else "-")
+        fig = px.bar(df.sort_values("diversity_score"),
+                     x="diversity_score", y="source", orientation="h",
+                     color="originality",
+                     color_continuous_scale="Viridis",
+                     title="Índice de diversidad por fuente",
+                     labels={"diversity_score":"Score diversidad","source":"Fuente","originality":"Originalidad"})
+        fig.update_layout(height=600)
+        st.plotly_chart(fig, use_container_width=True)
+        col_a, col_b = st.columns(2)
+        with col_a:
+            st.subheader("🏆 Más diversos")
+            st.dataframe(df.head(5)[["source","diversity_score","originality","news_count"]],
+                         use_container_width=True)
+        with col_b:
+            st.subheader("📋 Menos originales")
+            st.dataframe(df.tail(5)[["source","diversity_score","originality","repeated_news"]],
+                         use_container_width=True)
+        return
+
+    if tab_name == "Mapa Geográfico":
+        st.header("Mapa Geográfico 🗺️")
+        st.markdown("Menciones de **Comunidades Autónomas** en titulares de los últimos ciclos.")
+        if not os.path.exists(csv_path):
+            st.warning("Sin datos aún."); return
+        try:
+            df = pd.read_csv(csv_path)
+        except Exception as e:
+            st.error(f"Error: {e}"); return
+
+        col1, col2, col3 = st.columns(3)
+        col1.metric("Total menciones", int(df["mentions"].sum()))
+        col2.metric("CCAs con menciones", int((df["mentions"]>0).sum()))
+        col3.metric("CCAA líder", df.loc[df["mentions"].idxmax(),"ccaa"] if len(df)>0 else "-")
+
+        fig = px.choropleth(
+            df, locations="code", locationmode="ISO-3166-2",
+            color="mentions", hover_name="ccaa",
+            hover_data={"mentions":True,"code":False},
+            color_continuous_scale="Reds",
+            title="Intensidad informativa por Comunidad Autónoma",
+            scope="europe",
+        )
+        fig.update_geos(center={"lat":40.4,"lon":-3.7}, projection_scale=8,
+                        visible=False, resolution=50,
+                        showland=True, landcolor="lightgray",
+                        showcoastlines=True, coastlinecolor="white")
+        fig.update_layout(height=500, margin={"r":0,"t":40,"l":0,"b":0})
+        st.plotly_chart(fig, use_container_width=True)
+
+        fig2 = px.bar(df[df["mentions"]>0].sort_values("mentions"),
+                      x="mentions", y="ccaa", orientation="h",
+                      color="mentions", color_continuous_scale="Reds",
+                      title="Ranking de menciones por CCAA",
+                      labels={"mentions":"Menciones","ccaa":"CCAA"})
+        fig2.update_layout(height=450)
+        st.plotly_chart(fig2, use_container_width=True)
+        return
+
     if tab_name == "Sentimiento NLP":
         st.header("Análisis de Sentimiento NLP 🧠")
         st.markdown("Sentimiento real de titulares usando léxico expandido español — **3200+ titulares analizados en < 4 segundos**.")

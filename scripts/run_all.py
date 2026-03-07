@@ -41,7 +41,11 @@ scripts = [
     "detect_disinfo.py",
     "detect_coordination.py",
     "agenda_setting.py",
-    "detect_sentiment_nlp.py"
+    "detect_sentiment_nlp.py",
+    "geo_analysis.py",
+    "detect_viral.py",
+    "personas_tracking.py",
+    "diversity_index.py"
 ]
 
 # -----------------------------
