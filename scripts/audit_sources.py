@@ -73,7 +73,9 @@ if caidas and os.path.exists(EMAIL_CFG):
         msg["From"] = ecfg["from"]
         msg["To"] = ecfg["to"]
 
-        with smtplib.SMTP_SSL(ecfg["smtp_host"], ecfg.get("smtp_port", 465)) as server:
+        with smtplib.SMTP(ecfg["smtp_host"], 587) as server:
+            server.ehlo()
+            server.starttls()
             server.login(ecfg["user"], ecfg["password"])
             server.send_message(msg)
         print(f"[AUDIT] Email de alerta enviado a {ecfg['to']}")
