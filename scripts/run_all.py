@@ -40,7 +40,8 @@ scripts = [
     "generate_guide_pdf.py",
     "detect_disinfo.py",
     "detect_coordination.py",
-    "agenda_setting.py"
+    "agenda_setting.py",
+    "detect_sentiment_nlp.py"
 ]
 
 # -----------------------------

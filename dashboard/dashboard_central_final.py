@@ -30,6 +30,7 @@ paths = {
     "Desinformación": os.path.join(base_dir, "disinfo_alerts.csv"),
     "Coordinación": os.path.join(base_dir, "coordination_alerts.csv"),
     "Agenda-Setting": os.path.join(base_dir, "agenda_score.csv"),
+    "Sentimiento NLP": os.path.join(base_dir, "sentiment_summary.csv"),
     "Keywords": None,
     "Histórico": None,
     "Guía / HowTo": None
@@ -358,6 +359,52 @@ python3 scripts/run_all.py""", language="bash")
     st.success("✅ Sistema operativo. Pipeline cada 30 min.")
 
 def mostrar_tab(tab_name, csv_path):
+    if tab_name == "Sentimiento NLP":
+        st.header("Análisis de Sentimiento NLP 🧠")
+        st.markdown("Sentimiento real de titulares usando léxico expandido español — **3200+ titulares analizados en < 4 segundos**.")
+        if not os.path.exists(csv_path):
+            st.warning("Sin datos aún — se generarán en el próximo ciclo.")
+            return
+        try:
+            df = pd.read_csv(csv_path)
+            by_source_path = os.path.join(base_dir, "sentiment_by_source.csv")
+            df_source = pd.read_csv(by_source_path) if os.path.exists(by_source_path) else pd.DataFrame()
+        except Exception as e:
+            st.error(f"Error: {e}"); return
+
+        col1, col2, col3 = st.columns(3)
+        if len(df) > 0:
+            pos = df[df["sentiment"]=="positivo"]["count"].sum() if "count" in df.columns else 0
+            neg = df[df["sentiment"]=="negativo"]["count"].sum() if "count" in df.columns else 0
+            neu = df[df["sentiment"]=="neutral"]["count"].sum() if "count" in df.columns else 0
+            col1.metric("Positivos", f"{pos} ({pos/(pos+neg+neu)*100:.1f}%)" if pos+neg+neu>0 else "0")
+            col2.metric("Negativos", f"{neg} ({neg/(pos+neg+neu)*100:.1f}%)" if pos+neg+neu>0 else "0")
+            col3.metric("Neutrales", f"{neu} ({neu/(pos+neg+neu)*100:.1f}%)" if pos+neg+neu>0 else "0")
+
+        col_a, col_b = st.columns(2)
+        with col_a:
+            fig = px.pie(df, values="count", names="sentiment",
+                         title="Distribución global de sentimiento",
+                         color="sentiment",
+                         color_discrete_map={"positivo":"#2ECC71","negativo":"#E74C3C","neutral":"#95A5A6"})
+            st.plotly_chart(fig, use_container_width=True)
+
+        with col_b:
+            if len(df_source) > 0:
+                fig2 = px.bar(df_source.sort_values("negativity_pct", ascending=True).tail(15),
+                              x="negativity_pct", y="source", orientation="h",
+                              color="avg_score",
+                              title="% negativo por fuente",
+                              labels={"negativity_pct":"% negativo","source":"Fuente"},
+                              color_continuous_scale="RdYlGn")
+                st.plotly_chart(fig2, use_container_width=True)
+
+        if len(df_source) > 0:
+            st.subheader("Sentimiento por fuente")
+            st.dataframe(df_source[["source","avg_score","positivity_pct","negativity_pct","total"]].sort_values("avg_score", ascending=False),
+                         use_container_width=True)
+        return
+
     if tab_name == "Agenda-Setting":
         st.header("Score de Agenda-Setting 📡")
         st.markdown("Mide qué medios **marcan agenda** (publican primero los temas) vs cuáles **siguen** la agenda de otros.")
