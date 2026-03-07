@@ -509,7 +509,6 @@ def _mostrar_tab_inner(tab_name, csv_path):
             scope="europe",
             showland=True, landcolor="#f0f0f0",
             showcoastlines=True, coastlinecolor="#cccccc",
-            showborders=True, bordercolor="#aaaaaa",
             showcountries=True, countrycolor="#aaaaaa",
         )
         fig.update_layout(height=500, margin={"r":0,"t":40,"l":0,"b":0})
