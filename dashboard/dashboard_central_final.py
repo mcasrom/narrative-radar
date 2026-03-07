@@ -363,6 +363,14 @@ python3 scripts/run_all.py""", language="bash")
     st.success("✅ Sistema operativo. Pipeline cada 30 min.")
 
 def mostrar_tab(tab_name, csv_path):
+    try:
+        _mostrar_tab_inner(tab_name, csv_path)
+    except Exception as e:
+        st.error(f"Error en tab '{tab_name}': {type(e).__name__}: {e}")
+        import traceback
+        st.code(traceback.format_exc())
+
+def _mostrar_tab_inner(tab_name, csv_path):
     if tab_name == "Temas Virales":
         st.header("Temas Virales 🔥")
         st.markdown("Keywords que **explotan >200%** en menos de 2 horas respecto al período anterior.")
