@@ -1,195 +1,56 @@
-[INFO] Iniciando pipeline de noticias reales...
-[INFO] Ejecutando collect_rss.py...
+[2026-03-07 00:01:13] ✅ Logs rotados correctamente
+[2026-03-07 00:01:13] 🎯 Pipeline completo
+[2026-03-07 00:01:13] 🔹 Sincronizando con GitHub...
+[main 6cdf5b0] Auto-update: Datos frescos 2026-03-07 00:01
+ 14 files changed, 524 insertions(+), 255 deletions(-)
+To https://github.com/mcasrom/narrative-radar.git
+   2fb723d..6cdf5b0  main -> main
+[2026-03-07 00:01:14] ✅ GitHub actualizado
+[2026-03-07 00:30:01] 🔹 Inicio pipeline Narrative Radar
+[2026-03-07 00:30:01] ✅ Entorno virtual activado
+[2026-03-07 00:30:01] 🔹 Ejecutando pipeline de recolección y análisis
+[INFO] Iniciando collect_rss.py
+[INFO] 28 fuentes cargadas desde sources.yaml
 [INFO] Recolectando noticias de RSS...
-[INFO] Noticias insertadas en SQLite correctamente.
-[INFO] CSV generado en ../data/processed/news_summary.csv
-[INFO] Recolección de noticias finalizada.
-[INFO] Ejecutando detect_narratives.py...
+  OK elpais: 151 entradas
+  OK elmundo: 26 entradas
+  OK abc: 20 entradas
+  OK lavanguardia: 155 entradas
+  OK eldiario: 107 entradas
+  OK elconfidencial: 15 entradas
+  OK europapress: 10 entradas
+  OK 20minutos: 213 entradas
+  OK elespanol: 30 entradas
+  OK infolibre: 73 entradas
+  OK okdiario: 50 entradas
+  OK vozpopuli: 25 entradas
+  OK expansion: 76 entradas
+  OK eleconomista: 0 entradas
+  OK cinco_dias: 69 entradas
+  OK elmundo_espana: 54 entradas
+  OK maldita: 50 entradas
+  OK newtral: 10 entradas
+  OK bbc_mundo: 55 entradas
+  OK dw_es: 0 entradas
+  OK france24_es: 24 entradas
+  OK elpais_internacional: 24 entradas
+  OK elmundo_internacional: 40 entradas
+  OK google_news_es: 34 entradas
+  OK google_news_politica: 100 entradas
+  OK heraldo_aragon: 187 entradas
+  OK levante_emv: 20 entradas
+  OK el_norte_castilla: 0 entradas
+[INFO] CSV generado: /home/dietpi/narrative-radar/data/processed/news_summary.csv (1722 registros)
+[INFO] Finalizado.
 [nltk_data] Downloading package stopwords to /home/dietpi/nltk_data...
 [nltk_data]   Package stopwords is already up-to-date!
 Narrativas detectadas correctamente
-[INFO] Pipeline completado. Todos los CSV están listos en data/processed/
-[INFO] Iniciando pipeline de noticias reales...
-[INFO] Ejecutando collect_rss.py...
-[INFO] Recolectando noticias de RSS...
-[INFO] Noticias insertadas en SQLite correctamente.
-[INFO] CSV generado en ../data/processed/news_summary.csv
-[INFO] Recolección de noticias finalizada.
-[INFO] Ejecutando detect_narratives.py...
-[nltk_data] Downloading package stopwords to /home/dietpi/nltk_data...
-[nltk_data]   Package stopwords is already up-to-date!
-Narrativas detectadas correctamente
-[INFO] Pipeline completado. Todos los CSV están listos en data/processed/
-[INFO] Iniciando pipeline de noticias reales...
-[INFO] Ejecutando collect_rss.py...
-[INFO] Recolectando noticias de RSS...
-[INFO] Noticias insertadas en SQLite correctamente.
-[INFO] CSV generado en ../data/processed/news_summary.csv
-[INFO] Recolección de noticias finalizada.
-[INFO] Ejecutando detect_narratives.py...
-[nltk_data] Downloading package stopwords to /home/dietpi/nltk_data...
-[nltk_data]   Package stopwords is already up-to-date!
-Narrativas detectadas correctamente
-[INFO] Pipeline completado. Todos los CSV están listos en data/processed/
-[INFO] Iniciando pipeline de noticias reales...
-[INFO] Ejecutando collect_rss.py...
-[INFO] Recolectando noticias de RSS...
-[INFO] Noticias insertadas en SQLite correctamente.
-[INFO] CSV generado en ../data/processed/news_summary.csv
-[INFO] Recolección de noticias finalizada.
-[INFO] Ejecutando detect_narratives.py...
-[nltk_data] Downloading package stopwords to /home/dietpi/nltk_data...
-[nltk_data]   Package stopwords is already up-to-date!
-Narrativas detectadas correctamente
-[INFO] Pipeline completado. Todos los CSV están listos en data/processed/
-[INFO] Iniciando pipeline de noticias reales...
-[INFO] Ejecutando collect_rss.py...
-[INFO] Recolectando noticias de RSS...
-[INFO] Noticias insertadas en SQLite correctamente.
-[INFO] CSV generado en ../data/processed/news_summary.csv
-[INFO] Recolección de noticias finalizada.
-[INFO] Ejecutando detect_narratives.py...
-[nltk_data] Downloading package stopwords to /home/dietpi/nltk_data...
-[nltk_data]   Package stopwords is already up-to-date!
-Narrativas detectadas correctamente
-[INFO] Pipeline completado. Todos los CSV están listos en data/processed/
-[INFO] Iniciando pipeline de noticias reales...
-[INFO] Ejecutando collect_rss.py...
-[INFO] Recolectando noticias de RSS...
-[INFO] Noticias insertadas en SQLite correctamente.
-[INFO] CSV generado en ../data/processed/news_summary.csv
-[INFO] Recolección de noticias finalizada.
-[INFO] Ejecutando detect_narratives.py...
-[nltk_data] Downloading package stopwords to /home/dietpi/nltk_data...
-[nltk_data]   Package stopwords is already up-to-date!
-Narrativas detectadas correctamente
-[INFO] Pipeline completado. Todos los CSV están listos en data/processed/
-[INFO] Iniciando pipeline de noticias reales...
-[INFO] Ejecutando collect_rss.py...
-[INFO] Recolectando noticias de RSS...
-[INFO] Noticias insertadas en SQLite correctamente.
-[INFO] CSV generado en ../data/processed/news_summary.csv
-[INFO] Recolección de noticias finalizada.
-[INFO] Ejecutando detect_narratives.py...
-[nltk_data] Downloading package stopwords to /home/dietpi/nltk_data...
-[nltk_data]   Package stopwords is already up-to-date!
-Narrativas detectadas correctamente
-[INFO] Pipeline completado. Todos los CSV están listos en data/processed/
-[INFO] Iniciando pipeline de noticias reales...
-[INFO] Ejecutando collect_rss.py...
-[INFO] Recolectando noticias de RSS...
-[INFO] Noticias insertadas en SQLite correctamente.
-[INFO] CSV generado en ../data/processed/news_summary.csv
-[INFO] Recolección de noticias finalizada.
-[INFO] Ejecutando detect_narratives.py...
-[nltk_data] Downloading package stopwords to /home/dietpi/nltk_data...
-[nltk_data]   Package stopwords is already up-to-date!
-Narrativas detectadas correctamente
-[INFO] Pipeline completado. Todos los CSV están listos en data/processed/
-[INFO] Iniciando pipeline de noticias reales...
-[INFO] Ejecutando collect_rss.py...
-[INFO] Recolectando noticias de RSS...
-[INFO] Noticias insertadas en SQLite correctamente.
-[INFO] CSV generado en ../data/processed/news_summary.csv
-[INFO] Recolección de noticias finalizada.
-[INFO] Ejecutando detect_narratives.py...
-[nltk_data] Downloading package stopwords to /home/dietpi/nltk_data...
-[nltk_data]   Package stopwords is already up-to-date!
-Narrativas detectadas correctamente
-[INFO] Pipeline completado. Todos los CSV están listos en data/processed/
-[INFO] Iniciando pipeline de noticias reales...
-[INFO] Ejecutando collect_rss.py...
-[INFO] Recolectando noticias de RSS...
-[INFO] Noticias insertadas en SQLite correctamente.
-[INFO] CSV generado en ../data/processed/news_summary.csv
-[INFO] Recolección de noticias finalizada.
-[INFO] Ejecutando detect_narratives.py...
-[nltk_data] Downloading package stopwords to /home/dietpi/nltk_data...
-[nltk_data]   Package stopwords is already up-to-date!
-Narrativas detectadas correctamente
-[INFO] Pipeline completado. Todos los CSV están listos en data/processed/
-[INFO] Iniciando pipeline de noticias reales...
-[INFO] Ejecutando collect_rss.py...
-[INFO] Recolectando noticias de RSS...
-[INFO] Noticias insertadas en SQLite correctamente.
-[INFO] CSV generado en ../data/processed/news_summary.csv
-[INFO] Recolección de noticias finalizada.
-[INFO] Ejecutando detect_narratives.py...
-[nltk_data] Downloading package stopwords to /home/dietpi/nltk_data...
-[nltk_data]   Package stopwords is already up-to-date!
-Narrativas detectadas correctamente
-[INFO] Pipeline completado. Todos los CSV están listos en data/processed/
-[INFO] Iniciando pipeline de noticias reales...
-[INFO] Ejecutando collect_rss.py...
-[INFO] Recolectando noticias de RSS...
-[INFO] Noticias insertadas en SQLite correctamente.
-[INFO] CSV generado en ../data/processed/news_summary.csv
-[INFO] Recolección de noticias finalizada.
-[INFO] Ejecutando detect_narratives.py...
-[nltk_data] Downloading package stopwords to /home/dietpi/nltk_data...
-[nltk_data]   Package stopwords is already up-to-date!
-Narrativas detectadas correctamente
-[INFO] Pipeline completado. Todos los CSV están listos en data/processed/
-[INFO] Iniciando pipeline de noticias reales...
-[INFO] Ejecutando collect_rss.py...
-[INFO] Recolectando noticias de RSS...
-[INFO] Noticias insertadas en SQLite correctamente.
-[INFO] CSV generado en ../data/processed/news_summary.csv
-[INFO] Recolección de noticias finalizada.
-[INFO] Ejecutando detect_narratives.py...
-[nltk_data] Downloading package stopwords to /home/dietpi/nltk_data...
-[nltk_data]   Package stopwords is already up-to-date!
-Narrativas detectadas correctamente
-[INFO] Pipeline completado. Todos los CSV están listos en data/processed/
-[INFO] Iniciando pipeline de noticias reales...
-[INFO] Ejecutando collect_rss.py...
-[INFO] Recolectando noticias de RSS...
-[INFO] Noticias insertadas en SQLite correctamente.
-[INFO] CSV generado en ../data/processed/news_summary.csv
-[INFO] Recolección de noticias finalizada.
-[INFO] Ejecutando detect_narratives.py...
-[nltk_data] Downloading package stopwords to /home/dietpi/nltk_data...
-[nltk_data]   Package stopwords is already up-to-date!
-Narrativas detectadas correctamente
-[INFO] Pipeline completado. Todos los CSV están listos en data/processed/
-[INFO] Iniciando pipeline de noticias reales...
-[INFO] Ejecutando collect_rss.py...
-[INFO] Recolectando noticias de RSS...
-[INFO] Noticias insertadas en SQLite correctamente.
-[INFO] CSV generado en ../data/processed/news_summary.csv
-[INFO] Recolección de noticias finalizada.
-[INFO] Ejecutando detect_narratives.py...
-[nltk_data] Downloading package stopwords to /home/dietpi/nltk_data...
-[nltk_data]   Package stopwords is already up-to-date!
-Narrativas detectadas correctamente
-[INFO] Pipeline completado. Todos los CSV están listos en data/processed/
-[INFO] Iniciando pipeline de noticias reales...
-[INFO] Ejecutando collect_rss.py...
-[INFO] Recolectando noticias de RSS...
-[INFO] Noticias insertadas en SQLite correctamente.
-[INFO] CSV generado en ../data/processed/news_summary.csv
-[INFO] Recolección de noticias finalizada.
-[INFO] Ejecutando detect_narratives.py...
-[nltk_data] Downloading package stopwords to /home/dietpi/nltk_data...
-[nltk_data]   Package stopwords is already up-to-date!
-Narrativas detectadas correctamente
-[INFO] Pipeline completado. Todos los CSV están listos en data/processed/
-[2026-03-06 16:00:01] 🔹 Inicio pipeline Narrative Radar
-[2026-03-06 16:00:01] ✅ Entorno virtual activado
-[2026-03-06 16:00:01] 🔹 Ejecutando pipeline de recolección y análisis
-[INFO] Recolectando noticias de RSS...
-[INFO] Noticias insertadas en SQLite correctamente.
-[INFO] CSV generado en ../data/processed/news_summary.csv
-[INFO] Recolección de noticias finalizada.
-[nltk_data] Downloading package stopwords to /home/dietpi/nltk_data...
-[nltk_data]   Package stopwords is already up-to-date!
-Narrativas detectadas correctamente
-CSV de emociones generado en ../data/processed/emotions_summary.csv
-CSV de polarización generado en ../data/processed/polarization_summary.csv
-CSV de red de actores generado en ../data/processed/actors_network.csv
-CSV de propagación generado en ../data/processed/propagation_summary.csv
-CSV de tendencias generado en ../data/processed/trends_summary.csv
-CSV de cobertura gobierno generado en ../data/processed/government_coverage.csv
+CSV de emociones generado en /home/dietpi/narrative-radar/data/processed/emotions_summary.csv (6 emociones, 382 titulares con emoción detectada)
+CSV de polarización generado en /home/dietpi/narrative-radar/data/processed/polarization_summary.csv (47 días)
+CSV de red de actores generado en /home/dietpi/narrative-radar/data/processed/actors_network.csv (30 relaciones)
+CSV de propagación generado en /home/dietpi/narrative-radar/data/processed/propagation_summary.csv (115 días)
+CSV de tendencias generado en /home/dietpi/narrative-radar/data/processed/trends_summary.csv (30 keywords)
+CSV de cobertura gobierno generado en /home/dietpi/narrative-radar/data/processed/government_coverage.csv (25 fuentes)
 
 --- Ejecutando collect_rss.py ---
 ✅ collect_rss.py completado
@@ -216,286 +77,64 @@ CSV de cobertura gobierno generado en ../data/processed/government_coverage.csv
 ✅ government_coverage.py completado
 
 🎯 Todos los CSV generados en: /home/dietpi/narrative-radar/data/processed
-[2026-03-06 16:00:38] ✅ Pipeline ejecutado correctamente
-[2026-03-06 16:00:38] 🔹 Generando PDF guía
-Traceback (most recent call last):
-  File "<stdin>", line 10, in <module>
-  File "/home/dietpi/narrative-radar/env/lib/python3.13/site-packages/fpdf/fpdf.py", line 469, in add_font
-    raise RuntimeError("TTF Font file not found: %s" % fname)
-RuntimeError: TTF Font file not found: /home/dietpi/narrative-radar/dashboard/DejaVuSans.ttf
-[2026-03-06 16:00:38] ✅ PDF guía generado en data/processed/guia_dashboard.pdf
-[2026-03-06 16:00:38] 🔹 Rotando logs
-[2026-03-06 16:00:38] ✅ Logs rotados correctamente
-[2026-03-06 16:00:38] 🎯 Pipeline completo
-[2026-03-06 17:32:02] 🔹 Inicio pipeline Narrative Radar
-[2026-03-06 17:32:02] ✅ Entorno virtual activado
-[2026-03-06 17:32:02] 🔹 Ejecutando pipeline de recolección y análisis
-[INFO] Recolectando noticias de RSS...
-[INFO] Noticias insertadas en SQLite correctamente.
-[INFO] CSV generado en ../data/processed/news_summary.csv
-[INFO] Recolección de noticias finalizada.
-[nltk_data] Downloading package stopwords to /home/dietpi/nltk_data...
-[nltk_data]   Package stopwords is already up-to-date!
-Narrativas detectadas correctamente
-CSV de emociones generado en ../data/processed/emotions_summary.csv
-CSV de polarización generado en ../data/processed/polarization_summary.csv
-CSV de red de actores generado en ../data/processed/actors_network.csv
-CSV de propagación generado en ../data/processed/propagation_summary.csv
-CSV de tendencias generado en ../data/processed/trends_summary.csv
-CSV de cobertura gobierno generado en ../data/processed/government_coverage.csv
-
---- Ejecutando collect_rss.py ---
-✅ collect_rss.py completado
-
---- Ejecutando detect_narratives.py ---
-✅ detect_narratives.py completado
-
---- Ejecutando detect_emotions.py ---
-✅ detect_emotions.py completado
-
---- Ejecutando detect_polarization.py ---
-✅ detect_polarization.py completado
-
---- Ejecutando build_network.py ---
-✅ build_network.py completado
-
---- Ejecutando propagation_analysis.py ---
-✅ propagation_analysis.py completado
-
---- Ejecutando trends_analysis.py ---
-✅ trends_analysis.py completado
-
---- Ejecutando government_coverage.py ---
-✅ government_coverage.py completado
-
-🎯 Todos los CSV generados en: /home/dietpi/narrative-radar/data/processed
-[2026-03-06 17:32:35] ✅ Pipeline ejecutado correctamente
-[2026-03-06 17:32:35] 🔹 Generando PDF guía
-Traceback (most recent call last):
-  File "<stdin>", line 10, in <module>
-  File "/home/dietpi/narrative-radar/env/lib/python3.13/site-packages/fpdf/fpdf.py", line 469, in add_font
-    raise RuntimeError("TTF Font file not found: %s" % fname)
-RuntimeError: TTF Font file not found: /home/dietpi/narrative-radar/dashboard/DejaVuSans.ttf
-[2026-03-06 17:32:36] ✅ PDF guía generado en data/processed/guia_dashboard.pdf
-[2026-03-06 17:32:36] 🔹 Rotando logs
-[2026-03-06 17:32:36] ✅ Logs rotados correctamente
-[2026-03-06 17:32:36] 🎯 Pipeline completo
-[2026-03-06 17:37:58] 🔹 Inicio pipeline Narrative Radar
-[2026-03-06 17:37:58] ✅ Entorno virtual activado
-[2026-03-06 17:37:58] 🔹 Ejecutando pipeline de recolección y análisis
-[INFO] Recolectando noticias de RSS...
-[INFO] Noticias insertadas en SQLite correctamente.
-[INFO] CSV generado en ../data/processed/news_summary.csv
-[INFO] Recolección de noticias finalizada.
-[nltk_data] Downloading package stopwords to /home/dietpi/nltk_data...
-[nltk_data]   Package stopwords is already up-to-date!
-Narrativas detectadas correctamente
-CSV de emociones generado en ../data/processed/emotions_summary.csv
-CSV de polarización generado en ../data/processed/polarization_summary.csv
-CSV de red de actores generado en ../data/processed/actors_network.csv
-CSV de propagación generado en ../data/processed/propagation_summary.csv
-CSV de tendencias generado en ../data/processed/trends_summary.csv
-CSV de cobertura gobierno generado en ../data/processed/government_coverage.csv
-
---- Ejecutando collect_rss.py ---
-✅ collect_rss.py completado
-
---- Ejecutando detect_narratives.py ---
-✅ detect_narratives.py completado
-
---- Ejecutando detect_emotions.py ---
-✅ detect_emotions.py completado
-
---- Ejecutando detect_polarization.py ---
-✅ detect_polarization.py completado
-
---- Ejecutando build_network.py ---
-✅ build_network.py completado
-
---- Ejecutando propagation_analysis.py ---
-✅ propagation_analysis.py completado
-
---- Ejecutando trends_analysis.py ---
-✅ trends_analysis.py completado
-
---- Ejecutando government_coverage.py ---
-✅ government_coverage.py completado
-
-🎯 Todos los CSV generados en: /home/dietpi/narrative-radar/data/processed
-[2026-03-06 17:38:31] ✅ Pipeline ejecutado correctamente
-[2026-03-06 17:38:31] 🔹 Generando PDF guía
-Traceback (most recent call last):
-  File "<stdin>", line 16, in <module>
-NameError: name 'timestamp' is not defined
-[2026-03-06 17:38:32] ✅ PDF guía generado en data/processed/guia_dashboard.pdf
-[2026-03-06 17:38:32] 🔹 Rotando logs
-[2026-03-06 17:38:32] ✅ Logs rotados correctamente
-[2026-03-06 17:38:32] 🎯 Pipeline completo
-[2026-03-06 17:43:34] 🔹 Inicio pipeline Narrative Radar
-[2026-03-06 17:43:34] ✅ Entorno virtual activado
-[2026-03-06 17:43:34] 🔹 Ejecutando pipeline de recolección y análisis
-[INFO] Recolectando noticias de RSS...
-[INFO] Noticias insertadas en SQLite correctamente.
-[INFO] CSV generado en ../data/processed/news_summary.csv
-[INFO] Recolección de noticias finalizada.
-[nltk_data] Downloading package stopwords to /home/dietpi/nltk_data...
-[nltk_data]   Package stopwords is already up-to-date!
-Narrativas detectadas correctamente
-CSV de emociones generado en ../data/processed/emotions_summary.csv
-CSV de polarización generado en ../data/processed/polarization_summary.csv
-CSV de red de actores generado en ../data/processed/actors_network.csv
-CSV de propagación generado en ../data/processed/propagation_summary.csv
-CSV de tendencias generado en ../data/processed/trends_summary.csv
-CSV de cobertura gobierno generado en ../data/processed/government_coverage.csv
-
---- Ejecutando collect_rss.py ---
-✅ collect_rss.py completado
-
---- Ejecutando detect_narratives.py ---
-✅ detect_narratives.py completado
-
---- Ejecutando detect_emotions.py ---
-✅ detect_emotions.py completado
-
---- Ejecutando detect_polarization.py ---
-✅ detect_polarization.py completado
-
---- Ejecutando build_network.py ---
-✅ build_network.py completado
-
---- Ejecutando propagation_analysis.py ---
-✅ propagation_analysis.py completado
-
---- Ejecutando trends_analysis.py ---
-✅ trends_analysis.py completado
-
---- Ejecutando government_coverage.py ---
-✅ government_coverage.py completado
-
-🎯 Todos los CSV generados en: /home/dietpi/narrative-radar/data/processed
-[2026-03-06 17:44:08] ✅ Pipeline ejecutado correctamente
-[2026-03-06 17:44:08] 🔹 Generando PDF guía
+[2026-03-07 00:31:11] ✅ Pipeline ejecutado correctamente
+[2026-03-07 00:31:11] 🔹 Generando PDF guía
 PDF generado correctamente por Python.
-[2026-03-06 17:44:09] ✅ PDF guía generado en data/processed/guia_dashboard.pdf
-[2026-03-06 17:44:09] 🔹 Rotando logs
-[2026-03-06 17:44:09] ✅ Logs rotados correctamente
-[2026-03-06 17:44:09] 🎯 Pipeline completo
-[2026-03-06 17:55:34] 🔹 Inicio pipeline Narrative Radar
-[2026-03-06 17:55:34] ✅ Entorno virtual activado
-[2026-03-06 17:55:34] 🔹 Ejecutando pipeline de recolección y análisis
+[2026-03-07 00:31:12] ✅ PDF guía generado en data/processed/guia_dashboard.pdf
+[2026-03-07 00:31:12] 🔹 Rotando logs
+[2026-03-07 00:31:12] ✅ Logs rotados correctamente
+[2026-03-07 00:31:12] 🎯 Pipeline completo
+[2026-03-07 00:31:12] 🔹 Sincronizando con GitHub...
+[main 587c1a6] Auto-update: Datos frescos 2026-03-07 00:31
+ 14 files changed, 543 insertions(+), 255 deletions(-)
+To https://github.com/mcasrom/narrative-radar.git
+   6cdf5b0..587c1a6  main -> main
+[2026-03-07 00:31:13] ✅ GitHub actualizado
+[2026-03-07 01:00:01] 🔹 Inicio pipeline Narrative Radar
+[2026-03-07 01:00:01] ✅ Entorno virtual activado
+[2026-03-07 01:00:01] 🔹 Ejecutando pipeline de recolección y análisis
+[INFO] Iniciando collect_rss.py
+[INFO] 28 fuentes cargadas desde sources.yaml
 [INFO] Recolectando noticias de RSS...
-[INFO] Noticias insertadas en SQLite correctamente.
-[INFO] CSV generado en ../data/processed/news_summary.csv
-[INFO] Recolección de noticias finalizada.
-Traceback (most recent call last):
-  File "/home/dietpi/narrative-radar/scripts/detect_narratives.py", line 5, in <module>
-    import nltk
-  File "/home/dietpi/narrative-radar/env/lib/python3.13/site-packages/nltk/__init__.py", line 133, in <module>
-    from nltk.collocations import *
-  File "/home/dietpi/narrative-radar/env/lib/python3.13/site-packages/nltk/collocations.py", line 36, in <module>
-    from nltk.metrics import (
-    ...<4 lines>...
-    )
-  File "/home/dietpi/narrative-radar/env/lib/python3.13/site-packages/nltk/metrics/__init__.py", line 18, in <module>
-    from nltk.metrics.association import (
-    ...<5 lines>...
-    )
-  File "/home/dietpi/narrative-radar/env/lib/python3.13/site-packages/nltk/metrics/association.py", line 26, in <module>
-    from scipy.stats import fisher_exact
-  File "/home/dietpi/narrative-radar/env/lib/python3.13/site-packages/scipy/stats/__init__.py", line 628, in <module>
-    from ._stats_py import *
-  File "/home/dietpi/narrative-radar/env/lib/python3.13/site-packages/scipy/stats/_stats_py.py", line 39, in <module>
-    from scipy import sparse
-  File "<frozen importlib._bootstrap>", line 1412, in _handle_fromlist
-  File "/home/dietpi/narrative-radar/env/lib/python3.13/site-packages/scipy/__init__.py", line 131, in __getattr__
-    return _importlib.import_module(f'scipy.{name}')
-           ~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
-  File "/usr/lib/python3.13/importlib/__init__.py", line 88, in import_module
-    return _bootstrap._gcd_import(name[level:], package, level)
-           ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/home/dietpi/narrative-radar/env/lib/python3.13/site-packages/scipy/sparse/__init__.py", line 307, in <module>
-    from ._base import *
-  File "/home/dietpi/narrative-radar/env/lib/python3.13/site-packages/scipy/sparse/_base.py", line 8, in <module>
-    from ._sputils import (asmatrix, check_reshape_kwargs, check_shape,
-                           get_sum_dtype, isdense, isscalarlike, _todata,
-                           matrix, validateaxis, getdtype, is_pydata_spmatrix)
-  File "/home/dietpi/narrative-radar/env/lib/python3.13/site-packages/scipy/sparse/_sputils.py", line 10, in <module>
-    from scipy._lib._util import np_long, np_ulong
-  File "/home/dietpi/narrative-radar/env/lib/python3.13/site-packages/scipy/_lib/_util.py", line 17, in <module>
-    from scipy._lib._array_api import (Array, array_namespace, is_lazy_array, is_numpy,
-                                       is_marray, xp_size, xp_result_device, xp_result_type)
-  File "/home/dietpi/narrative-radar/env/lib/python3.13/site-packages/scipy/_lib/_array_api.py", line 24, in <module>
-    from scipy._lib.array_api_compat import (
-    ...<16 lines>...
-    )
-  File "/home/dietpi/narrative-radar/env/lib/python3.13/site-packages/scipy/_lib/array_api_compat/numpy/__init__.py", line 9, in <module>
-    __all__ = clone_module("numpy", globals())
-  File "/home/dietpi/narrative-radar/env/lib/python3.13/site-packages/scipy/_lib/array_api_compat/_internal.py", line 64, in clone_module
-    exec(f"from {mod.__name__} import *", objs)
-    ~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-  File "<string>", line 1, in <module>
-  File "<frozen importlib._bootstrap>", line 1410, in _handle_fromlist
-  File "<frozen importlib._bootstrap>", line 1412, in _handle_fromlist
-  File "/home/dietpi/narrative-radar/env/lib/python3.13/site-packages/numpy/__init__.py", line 739, in __getattr__
-    import numpy.f2py as f2py
-  File "/home/dietpi/narrative-radar/env/lib/python3.13/site-packages/numpy/f2py/__init__.py", line 19, in <module>
-    from . import diagnose, f2py2e
-  File "/home/dietpi/narrative-radar/env/lib/python3.13/site-packages/numpy/f2py/f2py2e.py", line 21, in <module>
-    from . import (
-    ...<8 lines>...
-    )
-  File "/home/dietpi/narrative-radar/env/lib/python3.13/site-packages/numpy/f2py/capi_maps.py", line 18, in <module>
-    from ._isocbind import iso_c2py_map, iso_c_binding_map, isoc_c2pycode_map
-  File "<frozen importlib._bootstrap>", line 1360, in _find_and_load
-  File "<frozen importlib._bootstrap>", line 1331, in _find_and_load_unlocked
-  File "<frozen importlib._bootstrap>", line 935, in _load_unlocked
-  File "<frozen importlib._bootstrap_external>", line 1022, in exec_module
-  File "<frozen importlib._bootstrap_external>", line 1118, in get_code
-  File "<frozen importlib._bootstrap_external>", line 1218, in get_data
-KeyboardInterrupt
-
---- Ejecutando collect_rss.py ---
-✅ collect_rss.py completado
-
---- Ejecutando detect_narratives.py ---
-Traceback (most recent call last):
-  File "/home/dietpi/narrative-radar/scripts/run_all.py", line 51, in <module>
-    run_script(script)
-    ~~~~~~~~~~^^^^^^^^
-  File "/home/dietpi/narrative-radar/scripts/run_all.py", line 21, in run_script
-    result = subprocess.run(["python3", script_path, "--seed", str(SEED)])
-  File "/usr/lib/python3.13/subprocess.py", line 556, in run
-    stdout, stderr = process.communicate(input, timeout=timeout)
-                     ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^
-  File "/usr/lib/python3.13/subprocess.py", line 1214, in communicate
-    self.wait()
-    ~~~~~~~~~^^
-  File "/usr/lib/python3.13/subprocess.py", line 1280, in wait
-    return self._wait(timeout=timeout)
-           ~~~~~~~~~~^^^^^^^^^^^^^^^^^
-  File "/usr/lib/python3.13/subprocess.py", line 2066, in _wait
-    (pid, sts) = self._try_wait(0)
-                 ~~~~~~~~~~~~~~^^^
-  File "/usr/lib/python3.13/subprocess.py", line 2024, in _try_wait
-    (pid, sts) = os.waitpid(self.pid, wait_flags)
-                 ~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^
-KeyboardInterrupt
-[2026-03-06 17:56:17] 🔹 Inicio pipeline Narrative Radar
-[2026-03-06 17:56:17] ✅ Entorno virtual activado
-[2026-03-06 17:56:17] 🔹 Ejecutando pipeline de recolección y análisis
-[INFO] Recolectando noticias de RSS...
-[INFO] Noticias insertadas en SQLite correctamente.
-[INFO] CSV generado en ../data/processed/news_summary.csv
-[INFO] Recolección de noticias finalizada.
+  OK elpais: 151 entradas
+  OK elmundo: 26 entradas
+  OK abc: 20 entradas
+  OK lavanguardia: 147 entradas
+  OK eldiario: 107 entradas
+  OK elconfidencial: 15 entradas
+  OK europapress: 10 entradas
+  OK 20minutos: 213 entradas
+  OK elespanol: 30 entradas
+  OK infolibre: 73 entradas
+  OK okdiario: 50 entradas
+  OK vozpopuli: 25 entradas
+  OK expansion: 76 entradas
+  OK eleconomista: 0 entradas
+  OK cinco_dias: 69 entradas
+  OK elmundo_espana: 54 entradas
+  OK maldita: 50 entradas
+  OK newtral: 10 entradas
+  OK bbc_mundo: 55 entradas
+  OK dw_es: 0 entradas
+  OK france24_es: 24 entradas
+  OK elpais_internacional: 23 entradas
+  OK elmundo_internacional: 40 entradas
+  OK google_news_es: 34 entradas
+  OK google_news_politica: 100 entradas
+  OK heraldo_aragon: 187 entradas
+  OK levante_emv: 20 entradas
+  OK el_norte_castilla: 0 entradas
+[INFO] CSV generado: /home/dietpi/narrative-radar/data/processed/news_summary.csv (1776 registros)
+[INFO] Finalizado.
 [nltk_data] Downloading package stopwords to /home/dietpi/nltk_data...
 [nltk_data]   Package stopwords is already up-to-date!
 Narrativas detectadas correctamente
-CSV de emociones generado en ../data/processed/emotions_summary.csv
-CSV de polarización generado en ../data/processed/polarization_summary.csv
-CSV de red de actores generado en ../data/processed/actors_network.csv
-CSV de propagación generado en ../data/processed/propagation_summary.csv
-CSV de tendencias generado en ../data/processed/trends_summary.csv
-CSV de cobertura gobierno generado en ../data/processed/government_coverage.csv
+CSV de emociones generado en /home/dietpi/narrative-radar/data/processed/emotions_summary.csv (6 emociones, 388 titulares con emoción detectada)
+CSV de polarización generado en /home/dietpi/narrative-radar/data/processed/polarization_summary.csv (47 días)
+CSV de red de actores generado en /home/dietpi/narrative-radar/data/processed/actors_network.csv (30 relaciones)
+CSV de propagación generado en /home/dietpi/narrative-radar/data/processed/propagation_summary.csv (119 días)
+CSV de tendencias generado en /home/dietpi/narrative-radar/data/processed/trends_summary.csv (30 keywords)
+CSV de cobertura gobierno generado en /home/dietpi/narrative-radar/data/processed/government_coverage.csv (25 fuentes)
 
 --- Ejecutando collect_rss.py ---
 ✅ collect_rss.py completado
@@ -522,106 +161,2861 @@ CSV de cobertura gobierno generado en ../data/processed/government_coverage.csv
 ✅ government_coverage.py completado
 
 🎯 Todos los CSV generados en: /home/dietpi/narrative-radar/data/processed
-[2026-03-06 17:56:50] ✅ Pipeline ejecutado correctamente
-[2026-03-06 17:56:50] 🔹 Generando PDF guía
+[2026-03-07 01:01:10] ✅ Pipeline ejecutado correctamente
+[2026-03-07 01:01:10] 🔹 Generando PDF guía
 PDF generado correctamente por Python.
-[2026-03-06 17:56:51] ✅ PDF guía generado en data/processed/guia_dashboard.pdf
-[2026-03-06 17:56:51] 🔹 Rotando logs
-[2026-03-06 17:56:51] ✅ Logs rotados correctamente
-[2026-03-06 17:56:51] 🎯 Pipeline completo
+[2026-03-07 01:01:11] ✅ PDF guía generado en data/processed/guia_dashboard.pdf
+[2026-03-07 01:01:11] 🔹 Rotando logs
+[2026-03-07 01:01:11] ✅ Logs rotados correctamente
+[2026-03-07 01:01:11] 🎯 Pipeline completo
+[2026-03-07 01:01:11] 🔹 Sincronizando con GitHub...
+[main e07cf59] Auto-update: Datos frescos 2026-03-07 01:01
+ 14 files changed, 573 insertions(+), 258 deletions(-)
+To https://github.com/mcasrom/narrative-radar.git
+   587c1a6..e07cf59  main -> main
+[2026-03-07 01:01:13] ✅ GitHub actualizado
+[2026-03-07 01:30:01] 🔹 Inicio pipeline Narrative Radar
+[2026-03-07 01:30:01] ✅ Entorno virtual activado
+[2026-03-07 01:30:01] 🔹 Ejecutando pipeline de recolección y análisis
+[INFO] Iniciando collect_rss.py
+[INFO] 28 fuentes cargadas desde sources.yaml
+[INFO] Recolectando noticias de RSS...
+  OK elpais: 151 entradas
+  OK elmundo: 27 entradas
+  OK abc: 20 entradas
+  OK lavanguardia: 147 entradas
+  OK eldiario: 107 entradas
+  OK elconfidencial: 15 entradas
+  OK europapress: 10 entradas
+  OK 20minutos: 213 entradas
+  OK elespanol: 30 entradas
+  OK infolibre: 73 entradas
+  OK okdiario: 50 entradas
+  OK vozpopuli: 25 entradas
+  OK expansion: 76 entradas
+  OK eleconomista: 0 entradas
+  OK cinco_dias: 69 entradas
+  OK elmundo_espana: 54 entradas
+  OK maldita: 50 entradas
+  OK newtral: 10 entradas
+  OK bbc_mundo: 55 entradas
+  OK dw_es: 0 entradas
+  OK france24_es: 24 entradas
+  OK elpais_internacional: 24 entradas
+  OK elmundo_internacional: 40 entradas
+  OK google_news_es: 32 entradas
+  OK google_news_politica: 100 entradas
+  OK heraldo_aragon: 187 entradas
+  OK levante_emv: 20 entradas
+  OK el_norte_castilla: 0 entradas
+[INFO] CSV generado: /home/dietpi/narrative-radar/data/processed/news_summary.csv (1798 registros)
+[INFO] Finalizado.
+[nltk_data] Downloading package stopwords to /home/dietpi/nltk_data...
+[nltk_data]   Package stopwords is already up-to-date!
+Narrativas detectadas correctamente
+CSV de emociones generado en /home/dietpi/narrative-radar/data/processed/emotions_summary.csv (6 emociones, 393 titulares con emoción detectada)
+CSV de polarización generado en /home/dietpi/narrative-radar/data/processed/polarization_summary.csv (48 días)
+CSV de red de actores generado en /home/dietpi/narrative-radar/data/processed/actors_network.csv (30 relaciones)
+CSV de propagación generado en /home/dietpi/narrative-radar/data/processed/propagation_summary.csv (128 días)
+CSV de tendencias generado en /home/dietpi/narrative-radar/data/processed/trends_summary.csv (30 keywords)
+CSV de cobertura gobierno generado en /home/dietpi/narrative-radar/data/processed/government_coverage.csv (25 fuentes)
 
-Collecting usage statistics. To deactivate, set browser.gatherUsageStats to false.
+--- Ejecutando collect_rss.py ---
+✅ collect_rss.py completado
+
+--- Ejecutando detect_narratives.py ---
+✅ detect_narratives.py completado
+
+--- Ejecutando detect_emotions.py ---
+✅ detect_emotions.py completado
+
+--- Ejecutando detect_polarization.py ---
+✅ detect_polarization.py completado
+
+--- Ejecutando build_network.py ---
+✅ build_network.py completado
+
+--- Ejecutando propagation_analysis.py ---
+✅ propagation_analysis.py completado
+
+--- Ejecutando trends_analysis.py ---
+✅ trends_analysis.py completado
+
+--- Ejecutando government_coverage.py ---
+✅ government_coverage.py completado
+
+🎯 Todos los CSV generados en: /home/dietpi/narrative-radar/data/processed
+[2026-03-07 01:31:12] ✅ Pipeline ejecutado correctamente
+[2026-03-07 01:31:12] 🔹 Generando PDF guía
+PDF generado correctamente por Python.
+[2026-03-07 01:31:13] ✅ PDF guía generado en data/processed/guia_dashboard.pdf
+[2026-03-07 01:31:13] 🔹 Rotando logs
+[2026-03-07 01:31:13] ✅ Logs rotados correctamente
+[2026-03-07 01:31:13] 🎯 Pipeline completo
+[2026-03-07 01:31:13] 🔹 Sincronizando con GitHub...
+[main 713b9ab] Auto-update: Datos frescos 2026-03-07 01:31
+ 14 files changed, 561 insertions(+), 262 deletions(-)
+To https://github.com/mcasrom/narrative-radar.git
+   e07cf59..713b9ab  main -> main
+[2026-03-07 01:31:14] ✅ GitHub actualizado
+[2026-03-07 02:00:01] 🔹 Inicio pipeline Narrative Radar
+[2026-03-07 02:00:01] ✅ Entorno virtual activado
+[2026-03-07 02:00:01] 🔹 Ejecutando pipeline de recolección y análisis
+[INFO] Iniciando collect_rss.py
+[INFO] 28 fuentes cargadas desde sources.yaml
+[INFO] Recolectando noticias de RSS...
+  OK elpais: 151 entradas
+  OK elmundo: 27 entradas
+  OK abc: 20 entradas
+  OK lavanguardia: 147 entradas
+  OK eldiario: 107 entradas
+  OK elconfidencial: 15 entradas
+  OK europapress: 10 entradas
+  OK 20minutos: 213 entradas
+  OK elespanol: 30 entradas
+  OK infolibre: 73 entradas
+  OK okdiario: 50 entradas
+  OK vozpopuli: 25 entradas
+  OK expansion: 76 entradas
+  OK eleconomista: 0 entradas
+  OK cinco_dias: 69 entradas
+  OK elmundo_espana: 54 entradas
+  OK maldita: 50 entradas
+  OK newtral: 10 entradas
+  OK bbc_mundo: 55 entradas
+  OK dw_es: 0 entradas
+  OK france24_es: 24 entradas
+  OK elpais_internacional: 24 entradas
+  OK elmundo_internacional: 40 entradas
+  OK google_news_es: 31 entradas
+  OK google_news_politica: 100 entradas
+  OK heraldo_aragon: 187 entradas
+  OK levante_emv: 20 entradas
+  OK el_norte_castilla: 0 entradas
+[INFO] CSV generado: /home/dietpi/narrative-radar/data/processed/news_summary.csv (1807 registros)
+[INFO] Finalizado.
+[nltk_data] Downloading package stopwords to /home/dietpi/nltk_data...
+[nltk_data]   Package stopwords is already up-to-date!
+Narrativas detectadas correctamente
+CSV de emociones generado en /home/dietpi/narrative-radar/data/processed/emotions_summary.csv (6 emociones, 394 titulares con emoción detectada)
+CSV de polarización generado en /home/dietpi/narrative-radar/data/processed/polarization_summary.csv (48 días)
+CSV de red de actores generado en /home/dietpi/narrative-radar/data/processed/actors_network.csv (30 relaciones)
+CSV de propagación generado en /home/dietpi/narrative-radar/data/processed/propagation_summary.csv (128 días)
+CSV de tendencias generado en /home/dietpi/narrative-radar/data/processed/trends_summary.csv (30 keywords)
+CSV de cobertura gobierno generado en /home/dietpi/narrative-radar/data/processed/government_coverage.csv (25 fuentes)
+
+--- Ejecutando collect_rss.py ---
+✅ collect_rss.py completado
+
+--- Ejecutando detect_narratives.py ---
+✅ detect_narratives.py completado
+
+--- Ejecutando detect_emotions.py ---
+✅ detect_emotions.py completado
+
+--- Ejecutando detect_polarization.py ---
+✅ detect_polarization.py completado
+
+--- Ejecutando build_network.py ---
+✅ build_network.py completado
+
+--- Ejecutando propagation_analysis.py ---
+✅ propagation_analysis.py completado
+
+--- Ejecutando trends_analysis.py ---
+✅ trends_analysis.py completado
+
+--- Ejecutando government_coverage.py ---
+✅ government_coverage.py completado
+
+🎯 Todos los CSV generados en: /home/dietpi/narrative-radar/data/processed
+[2026-03-07 02:01:10] ✅ Pipeline ejecutado correctamente
+[2026-03-07 02:01:10] 🔹 Generando PDF guía
+PDF generado correctamente por Python.
+[2026-03-07 02:01:10] ✅ PDF guía generado en data/processed/guia_dashboard.pdf
+[2026-03-07 02:01:10] 🔹 Rotando logs
+[2026-03-07 02:01:10] ✅ Logs rotados correctamente
+[2026-03-07 02:01:10] 🎯 Pipeline completo
+[2026-03-07 02:01:10] 🔹 Sincronizando con GitHub...
+[main f03b6ea] Auto-update: Datos frescos 2026-03-07 02:01
+ 14 files changed, 548 insertions(+), 272 deletions(-)
+To https://github.com/mcasrom/narrative-radar.git
+   713b9ab..f03b6ea  main -> main
+[2026-03-07 02:01:12] ✅ GitHub actualizado
+[2026-03-07 02:30:01] 🔹 Inicio pipeline Narrative Radar
+[2026-03-07 02:30:01] ✅ Entorno virtual activado
+[2026-03-07 02:30:01] 🔹 Ejecutando pipeline de recolección y análisis
+[INFO] Iniciando collect_rss.py
+[INFO] 28 fuentes cargadas desde sources.yaml
+[INFO] Recolectando noticias de RSS...
+  OK elpais: 151 entradas
+  OK elmundo: 27 entradas
+  OK abc: 20 entradas
+  OK lavanguardia: 147 entradas
+  OK eldiario: 107 entradas
+  OK elconfidencial: 15 entradas
+  OK europapress: 10 entradas
+  OK 20minutos: 213 entradas
+  OK elespanol: 30 entradas
+  OK infolibre: 73 entradas
+  OK okdiario: 50 entradas
+  OK vozpopuli: 25 entradas
+  OK expansion: 76 entradas
+  OK eleconomista: 0 entradas
+  OK cinco_dias: 69 entradas
+  OK elmundo_espana: 54 entradas
+  OK maldita: 50 entradas
+  OK newtral: 10 entradas
+  OK bbc_mundo: 55 entradas
+  OK dw_es: 0 entradas
+  OK france24_es: 24 entradas
+  OK elpais_internacional: 24 entradas
+  OK elmundo_internacional: 40 entradas
+  OK google_news_es: 32 entradas
+  OK google_news_politica: 100 entradas
+  OK heraldo_aragon: 187 entradas
+  OK levante_emv: 20 entradas
+  OK el_norte_castilla: 0 entradas
+[INFO] CSV generado: /home/dietpi/narrative-radar/data/processed/news_summary.csv (1816 registros)
+[INFO] Finalizado.
+[nltk_data] Downloading package stopwords to /home/dietpi/nltk_data...
+[nltk_data]   Package stopwords is already up-to-date!
+Narrativas detectadas correctamente
+CSV de emociones generado en /home/dietpi/narrative-radar/data/processed/emotions_summary.csv (6 emociones, 395 titulares con emoción detectada)
+CSV de polarización generado en /home/dietpi/narrative-radar/data/processed/polarization_summary.csv (48 días)
+CSV de red de actores generado en /home/dietpi/narrative-radar/data/processed/actors_network.csv (30 relaciones)
+CSV de propagación generado en /home/dietpi/narrative-radar/data/processed/propagation_summary.csv (128 días)
+CSV de tendencias generado en /home/dietpi/narrative-radar/data/processed/trends_summary.csv (30 keywords)
+CSV de cobertura gobierno generado en /home/dietpi/narrative-radar/data/processed/government_coverage.csv (25 fuentes)
+
+--- Ejecutando collect_rss.py ---
+✅ collect_rss.py completado
+
+--- Ejecutando detect_narratives.py ---
+✅ detect_narratives.py completado
+
+--- Ejecutando detect_emotions.py ---
+✅ detect_emotions.py completado
+
+--- Ejecutando detect_polarization.py ---
+✅ detect_polarization.py completado
+
+--- Ejecutando build_network.py ---
+✅ build_network.py completado
+
+--- Ejecutando propagation_analysis.py ---
+✅ propagation_analysis.py completado
+
+--- Ejecutando trends_analysis.py ---
+✅ trends_analysis.py completado
+
+--- Ejecutando government_coverage.py ---
+✅ government_coverage.py completado
+
+🎯 Todos los CSV generados en: /home/dietpi/narrative-radar/data/processed
+[2026-03-07 02:31:11] ✅ Pipeline ejecutado correctamente
+[2026-03-07 02:31:11] 🔹 Generando PDF guía
+PDF generado correctamente por Python.
+[2026-03-07 02:31:12] ✅ PDF guía generado en data/processed/guia_dashboard.pdf
+[2026-03-07 02:31:12] 🔹 Rotando logs
+[2026-03-07 02:31:12] ✅ Logs rotados correctamente
+[2026-03-07 02:31:12] 🎯 Pipeline completo
+[2026-03-07 02:31:12] 🔹 Sincronizando con GitHub...
+[main e37fb81] Auto-update: Datos frescos 2026-03-07 02:31
+ 14 files changed, 548 insertions(+), 272 deletions(-)
+To https://github.com/mcasrom/narrative-radar.git
+   f03b6ea..e37fb81  main -> main
+[2026-03-07 02:31:13] ✅ GitHub actualizado
+[2026-03-07 03:00:01] 🔹 Inicio pipeline Narrative Radar
+[2026-03-07 03:00:01] ✅ Entorno virtual activado
+[2026-03-07 03:00:01] 🔹 Ejecutando pipeline de recolección y análisis
+[INFO] Iniciando collect_rss.py
+[INFO] 28 fuentes cargadas desde sources.yaml
+[INFO] Recolectando noticias de RSS...
+  OK elpais: 151 entradas
+  OK elmundo: 27 entradas
+  OK abc: 20 entradas
+  OK lavanguardia: 147 entradas
+  OK eldiario: 107 entradas
+  OK elconfidencial: 15 entradas
+  OK europapress: 10 entradas
+  OK 20minutos: 213 entradas
+  OK elespanol: 30 entradas
+  OK infolibre: 73 entradas
+  OK okdiario: 50 entradas
+  OK vozpopuli: 25 entradas
+  OK expansion: 76 entradas
+  OK eleconomista: 0 entradas
+  OK cinco_dias: 69 entradas
+  OK elmundo_espana: 54 entradas
+  OK maldita: 50 entradas
+  OK newtral: 10 entradas
+  OK bbc_mundo: 55 entradas
+  OK dw_es: 0 entradas
+  OK france24_es: 24 entradas
+  OK elpais_internacional: 24 entradas
+  OK elmundo_internacional: 40 entradas
+  OK google_news_es: 32 entradas
+  OK google_news_politica: 100 entradas
+  OK heraldo_aragon: 187 entradas
+  OK levante_emv: 20 entradas
+  OK el_norte_castilla: 0 entradas
+[INFO] CSV generado: /home/dietpi/narrative-radar/data/processed/news_summary.csv (1842 registros)
+[INFO] Finalizado.
+[nltk_data] Downloading package stopwords to /home/dietpi/nltk_data...
+[nltk_data]   Package stopwords is already up-to-date!
+Narrativas detectadas correctamente
+CSV de emociones generado en /home/dietpi/narrative-radar/data/processed/emotions_summary.csv (6 emociones, 397 titulares con emoción detectada)
+CSV de polarización generado en /home/dietpi/narrative-radar/data/processed/polarization_summary.csv (48 días)
+CSV de red de actores generado en /home/dietpi/narrative-radar/data/processed/actors_network.csv (30 relaciones)
+CSV de propagación generado en /home/dietpi/narrative-radar/data/processed/propagation_summary.csv (128 días)
+CSV de tendencias generado en /home/dietpi/narrative-radar/data/processed/trends_summary.csv (30 keywords)
+CSV de cobertura gobierno generado en /home/dietpi/narrative-radar/data/processed/government_coverage.csv (25 fuentes)
+
+--- Ejecutando collect_rss.py ---
+✅ collect_rss.py completado
+
+--- Ejecutando detect_narratives.py ---
+✅ detect_narratives.py completado
+
+--- Ejecutando detect_emotions.py ---
+✅ detect_emotions.py completado
+
+--- Ejecutando detect_polarization.py ---
+✅ detect_polarization.py completado
+
+--- Ejecutando build_network.py ---
+✅ build_network.py completado
+
+--- Ejecutando propagation_analysis.py ---
+✅ propagation_analysis.py completado
+
+--- Ejecutando trends_analysis.py ---
+✅ trends_analysis.py completado
+
+--- Ejecutando government_coverage.py ---
+✅ government_coverage.py completado
+
+🎯 Todos los CSV generados en: /home/dietpi/narrative-radar/data/processed
+[2026-03-07 03:01:08] ✅ Pipeline ejecutado correctamente
+[2026-03-07 03:01:08] 🔹 Generando PDF guía
+PDF generado correctamente por Python.
+[2026-03-07 03:01:09] ✅ PDF guía generado en data/processed/guia_dashboard.pdf
+[2026-03-07 03:01:09] 🔹 Rotando logs
+[2026-03-07 03:01:09] ✅ Logs rotados correctamente
+[2026-03-07 03:01:09] 🎯 Pipeline completo
+[2026-03-07 03:01:09] 🔹 Sincronizando con GitHub...
+[main 98b90c7] Auto-update: Datos frescos 2026-03-07 03:01
+ 14 files changed, 565 insertions(+), 272 deletions(-)
+To https://github.com/mcasrom/narrative-radar.git
+   e37fb81..98b90c7  main -> main
+[2026-03-07 03:01:11] ✅ GitHub actualizado
+[2026-03-07 03:30:01] 🔹 Inicio pipeline Narrative Radar
+[2026-03-07 03:30:01] ✅ Entorno virtual activado
+[2026-03-07 03:30:01] 🔹 Ejecutando pipeline de recolección y análisis
+[INFO] Iniciando collect_rss.py
+[INFO] 28 fuentes cargadas desde sources.yaml
+[INFO] Recolectando noticias de RSS...
+  OK elpais: 151 entradas
+  OK elmundo: 28 entradas
+  OK abc: 20 entradas
+  OK lavanguardia: 147 entradas
+  OK eldiario: 107 entradas
+  OK elconfidencial: 15 entradas
+  OK europapress: 10 entradas
+  OK 20minutos: 213 entradas
+  OK elespanol: 30 entradas
+  OK infolibre: 73 entradas
+  OK okdiario: 50 entradas
+  OK vozpopuli: 25 entradas
+  OK expansion: 76 entradas
+  OK eleconomista: 0 entradas
+  OK cinco_dias: 69 entradas
+  OK elmundo_espana: 54 entradas
+  OK maldita: 50 entradas
+  OK newtral: 10 entradas
+  OK bbc_mundo: 55 entradas
+  OK dw_es: 0 entradas
+  OK france24_es: 24 entradas
+  OK elpais_internacional: 24 entradas
+  OK elmundo_internacional: 40 entradas
+  OK google_news_es: 33 entradas
+  OK google_news_politica: 100 entradas
+  OK heraldo_aragon: 179 entradas
+  OK levante_emv: 20 entradas
+  OK el_norte_castilla: 0 entradas
+[INFO] CSV generado: /home/dietpi/narrative-radar/data/processed/news_summary.csv (1864 registros)
+[INFO] Finalizado.
+[nltk_data] Downloading package stopwords to /home/dietpi/nltk_data...
+[nltk_data]   Package stopwords is already up-to-date!
+Narrativas detectadas correctamente
+CSV de emociones generado en /home/dietpi/narrative-radar/data/processed/emotions_summary.csv (6 emociones, 399 titulares con emoción detectada)
+CSV de polarización generado en /home/dietpi/narrative-radar/data/processed/polarization_summary.csv (48 días)
+CSV de red de actores generado en /home/dietpi/narrative-radar/data/processed/actors_network.csv (30 relaciones)
+CSV de propagación generado en /home/dietpi/narrative-radar/data/processed/propagation_summary.csv (128 días)
+CSV de tendencias generado en /home/dietpi/narrative-radar/data/processed/trends_summary.csv (30 keywords)
+CSV de cobertura gobierno generado en /home/dietpi/narrative-radar/data/processed/government_coverage.csv (25 fuentes)
+
+--- Ejecutando collect_rss.py ---
+✅ collect_rss.py completado
+
+--- Ejecutando detect_narratives.py ---
+✅ detect_narratives.py completado
+
+--- Ejecutando detect_emotions.py ---
+✅ detect_emotions.py completado
+
+--- Ejecutando detect_polarization.py ---
+✅ detect_polarization.py completado
+
+--- Ejecutando build_network.py ---
+✅ build_network.py completado
+
+--- Ejecutando propagation_analysis.py ---
+✅ propagation_analysis.py completado
+
+--- Ejecutando trends_analysis.py ---
+✅ trends_analysis.py completado
+
+--- Ejecutando government_coverage.py ---
+✅ government_coverage.py completado
+
+🎯 Todos los CSV generados en: /home/dietpi/narrative-radar/data/processed
+[2026-03-07 03:31:10] ✅ Pipeline ejecutado correctamente
+[2026-03-07 03:31:10] 🔹 Generando PDF guía
+PDF generado correctamente por Python.
+[2026-03-07 03:31:11] ✅ PDF guía generado en data/processed/guia_dashboard.pdf
+[2026-03-07 03:31:11] 🔹 Rotando logs
+[2026-03-07 03:31:11] ✅ Logs rotados correctamente
+[2026-03-07 03:31:11] 🎯 Pipeline completo
+[2026-03-07 03:31:11] 🔹 Sincronizando con GitHub...
+[main ce79654] Auto-update: Datos frescos 2026-03-07 03:31
+ 14 files changed, 561 insertions(+), 272 deletions(-)
+To https://github.com/mcasrom/narrative-radar.git
+   98b90c7..ce79654  main -> main
+[2026-03-07 03:31:13] ✅ GitHub actualizado
+[2026-03-07 04:00:01] 🔹 Inicio pipeline Narrative Radar
+[2026-03-07 04:00:01] ✅ Entorno virtual activado
+[2026-03-07 04:00:02] 🔹 Ejecutando pipeline de recolección y análisis
+[INFO] Iniciando collect_rss.py
+[INFO] 28 fuentes cargadas desde sources.yaml
+[INFO] Recolectando noticias de RSS...
+  OK elpais: 151 entradas
+  OK elmundo: 28 entradas
+  OK abc: 20 entradas
+  OK lavanguardia: 147 entradas
+  OK eldiario: 107 entradas
+  OK elconfidencial: 15 entradas
+  OK europapress: 10 entradas
+  OK 20minutos: 213 entradas
+  OK elespanol: 30 entradas
+  OK infolibre: 73 entradas
+  OK okdiario: 50 entradas
+  OK vozpopuli: 25 entradas
+  OK expansion: 76 entradas
+  OK eleconomista: 0 entradas
+  OK cinco_dias: 69 entradas
+  OK elmundo_espana: 54 entradas
+  OK maldita: 50 entradas
+  OK newtral: 10 entradas
+  OK bbc_mundo: 55 entradas
+  OK dw_es: 0 entradas
+  OK france24_es: 24 entradas
+  OK elpais_internacional: 24 entradas
+  OK elmundo_internacional: 40 entradas
+  OK google_news_es: 32 entradas
+  OK google_news_politica: 100 entradas
+  OK heraldo_aragon: 179 entradas
+  OK levante_emv: 20 entradas
+  OK el_norte_castilla: 0 entradas
+[INFO] CSV generado: /home/dietpi/narrative-radar/data/processed/news_summary.csv (1867 registros)
+[INFO] Finalizado.
+[nltk_data] Downloading package stopwords to /home/dietpi/nltk_data...
+[nltk_data]   Package stopwords is already up-to-date!
+Narrativas detectadas correctamente
+CSV de emociones generado en /home/dietpi/narrative-radar/data/processed/emotions_summary.csv (6 emociones, 399 titulares con emoción detectada)
+CSV de polarización generado en /home/dietpi/narrative-radar/data/processed/polarization_summary.csv (48 días)
+CSV de red de actores generado en /home/dietpi/narrative-radar/data/processed/actors_network.csv (30 relaciones)
+CSV de propagación generado en /home/dietpi/narrative-radar/data/processed/propagation_summary.csv (128 días)
+CSV de tendencias generado en /home/dietpi/narrative-radar/data/processed/trends_summary.csv (30 keywords)
+CSV de cobertura gobierno generado en /home/dietpi/narrative-radar/data/processed/government_coverage.csv (25 fuentes)
+
+--- Ejecutando collect_rss.py ---
+✅ collect_rss.py completado
+
+--- Ejecutando detect_narratives.py ---
+✅ detect_narratives.py completado
+
+--- Ejecutando detect_emotions.py ---
+✅ detect_emotions.py completado
+
+--- Ejecutando detect_polarization.py ---
+✅ detect_polarization.py completado
+
+--- Ejecutando build_network.py ---
+✅ build_network.py completado
+
+--- Ejecutando propagation_analysis.py ---
+✅ propagation_analysis.py completado
+
+--- Ejecutando trends_analysis.py ---
+✅ trends_analysis.py completado
+
+--- Ejecutando government_coverage.py ---
+✅ government_coverage.py completado
+
+🎯 Todos los CSV generados en: /home/dietpi/narrative-radar/data/processed
+[2026-03-07 04:01:10] ✅ Pipeline ejecutado correctamente
+[2026-03-07 04:01:10] 🔹 Generando PDF guía
+PDF generado correctamente por Python.
+[2026-03-07 04:01:10] ✅ PDF guía generado en data/processed/guia_dashboard.pdf
+[2026-03-07 04:01:10] 🔹 Rotando logs
+[2026-03-07 04:01:10] ✅ Logs rotados correctamente
+[2026-03-07 04:01:10] 🎯 Pipeline completo
+[2026-03-07 04:01:10] 🔹 Sincronizando con GitHub...
+[main 7f84af3] Auto-update: Datos frescos 2026-03-07 04:01
+ 14 files changed, 542 insertions(+), 272 deletions(-)
+To https://github.com/mcasrom/narrative-radar.git
+   ce79654..7f84af3  main -> main
+[2026-03-07 04:01:12] ✅ GitHub actualizado
+[2026-03-07 04:30:01] 🔹 Inicio pipeline Narrative Radar
+[2026-03-07 04:30:01] ✅ Entorno virtual activado
+[2026-03-07 04:30:01] 🔹 Ejecutando pipeline de recolección y análisis
+[INFO] Iniciando collect_rss.py
+[INFO] 28 fuentes cargadas desde sources.yaml
+[INFO] Recolectando noticias de RSS...
+  OK elpais: 151 entradas
+  OK elmundo: 28 entradas
+  OK abc: 20 entradas
+  OK lavanguardia: 147 entradas
+  OK eldiario: 107 entradas
+  OK elconfidencial: 15 entradas
+  OK europapress: 10 entradas
+  OK 20minutos: 213 entradas
+  OK elespanol: 30 entradas
+  OK infolibre: 73 entradas
+  OK okdiario: 50 entradas
+  OK vozpopuli: 25 entradas
+  OK expansion: 76 entradas
+  OK eleconomista: 0 entradas
+  OK cinco_dias: 69 entradas
+  OK elmundo_espana: 54 entradas
+  OK maldita: 50 entradas
+  OK newtral: 10 entradas
+  OK bbc_mundo: 55 entradas
+  OK dw_es: 0 entradas
+  OK france24_es: 24 entradas
+  OK elpais_internacional: 24 entradas
+  OK elmundo_internacional: 40 entradas
+  OK google_news_es: 34 entradas
+  OK google_news_politica: 100 entradas
+  OK heraldo_aragon: 179 entradas
+  OK levante_emv: 20 entradas
+  OK el_norte_castilla: 0 entradas
+[INFO] CSV generado: /home/dietpi/narrative-radar/data/processed/news_summary.csv (1882 registros)
+[INFO] Finalizado.
+[nltk_data] Downloading package stopwords to /home/dietpi/nltk_data...
+[nltk_data]   Package stopwords is already up-to-date!
+Narrativas detectadas correctamente
+CSV de emociones generado en /home/dietpi/narrative-radar/data/processed/emotions_summary.csv (6 emociones, 405 titulares con emoción detectada)
+CSV de polarización generado en /home/dietpi/narrative-radar/data/processed/polarization_summary.csv (48 días)
+CSV de red de actores generado en /home/dietpi/narrative-radar/data/processed/actors_network.csv (30 relaciones)
+CSV de propagación generado en /home/dietpi/narrative-radar/data/processed/propagation_summary.csv (128 días)
+CSV de tendencias generado en /home/dietpi/narrative-radar/data/processed/trends_summary.csv (30 keywords)
+CSV de cobertura gobierno generado en /home/dietpi/narrative-radar/data/processed/government_coverage.csv (25 fuentes)
+
+--- Ejecutando collect_rss.py ---
+✅ collect_rss.py completado
+
+--- Ejecutando detect_narratives.py ---
+✅ detect_narratives.py completado
+
+--- Ejecutando detect_emotions.py ---
+✅ detect_emotions.py completado
+
+--- Ejecutando detect_polarization.py ---
+✅ detect_polarization.py completado
+
+--- Ejecutando build_network.py ---
+✅ build_network.py completado
+
+--- Ejecutando propagation_analysis.py ---
+✅ propagation_analysis.py completado
+
+--- Ejecutando trends_analysis.py ---
+✅ trends_analysis.py completado
+
+--- Ejecutando government_coverage.py ---
+✅ government_coverage.py completado
+
+🎯 Todos los CSV generados en: /home/dietpi/narrative-radar/data/processed
+[2026-03-07 04:31:07] ✅ Pipeline ejecutado correctamente
+[2026-03-07 04:31:07] 🔹 Generando PDF guía
+PDF generado correctamente por Python.
+[2026-03-07 04:31:08] ✅ PDF guía generado en data/processed/guia_dashboard.pdf
+[2026-03-07 04:31:08] 🔹 Rotando logs
+[2026-03-07 04:31:08] ✅ Logs rotados correctamente
+[2026-03-07 04:31:08] 🎯 Pipeline completo
+[2026-03-07 04:31:08] 🔹 Sincronizando con GitHub...
+[main 27a35b6] Auto-update: Datos frescos 2026-03-07 04:31
+ 14 files changed, 554 insertions(+), 272 deletions(-)
+To https://github.com/mcasrom/narrative-radar.git
+   7f84af3..27a35b6  main -> main
+[2026-03-07 04:31:10] ✅ GitHub actualizado
+[2026-03-07 05:00:01] 🔹 Inicio pipeline Narrative Radar
+[2026-03-07 05:00:01] ✅ Entorno virtual activado
+[2026-03-07 05:00:01] 🔹 Ejecutando pipeline de recolección y análisis
+[INFO] Iniciando collect_rss.py
+[INFO] 28 fuentes cargadas desde sources.yaml
+[INFO] Recolectando noticias de RSS...
+  OK elpais: 151 entradas
+  OK elmundo: 28 entradas
+  OK abc: 20 entradas
+  OK lavanguardia: 147 entradas
+  OK eldiario: 107 entradas
+  OK elconfidencial: 15 entradas
+  OK europapress: 10 entradas
+  OK 20minutos: 213 entradas
+  OK elespanol: 30 entradas
+  OK infolibre: 73 entradas
+  OK okdiario: 50 entradas
+  OK vozpopuli: 25 entradas
+  OK expansion: 76 entradas
+  OK eleconomista: 0 entradas
+  OK cinco_dias: 69 entradas
+  OK elmundo_espana: 54 entradas
+  OK maldita: 50 entradas
+  OK newtral: 10 entradas
+  OK bbc_mundo: 55 entradas
+  OK dw_es: 0 entradas
+  OK france24_es: 24 entradas
+  OK elpais_internacional: 24 entradas
+  OK elmundo_internacional: 40 entradas
+  OK google_news_es: 33 entradas
+  OK google_news_politica: 100 entradas
+  OK heraldo_aragon: 179 entradas
+  OK levante_emv: 20 entradas
+  OK el_norte_castilla: 0 entradas
+[INFO] CSV generado: /home/dietpi/narrative-radar/data/processed/news_summary.csv (1904 registros)
+[INFO] Finalizado.
+[nltk_data] Downloading package stopwords to /home/dietpi/nltk_data...
+[nltk_data]   Package stopwords is already up-to-date!
+Narrativas detectadas correctamente
+CSV de emociones generado en /home/dietpi/narrative-radar/data/processed/emotions_summary.csv (6 emociones, 408 titulares con emoción detectada)
+CSV de polarización generado en /home/dietpi/narrative-radar/data/processed/polarization_summary.csv (48 días)
+CSV de red de actores generado en /home/dietpi/narrative-radar/data/processed/actors_network.csv (30 relaciones)
+CSV de propagación generado en /home/dietpi/narrative-radar/data/processed/propagation_summary.csv (140 días)
+CSV de tendencias generado en /home/dietpi/narrative-radar/data/processed/trends_summary.csv (30 keywords)
+CSV de cobertura gobierno generado en /home/dietpi/narrative-radar/data/processed/government_coverage.csv (25 fuentes)
+
+--- Ejecutando collect_rss.py ---
+✅ collect_rss.py completado
+
+--- Ejecutando detect_narratives.py ---
+✅ detect_narratives.py completado
+
+--- Ejecutando detect_emotions.py ---
+✅ detect_emotions.py completado
+
+--- Ejecutando detect_polarization.py ---
+✅ detect_polarization.py completado
+
+--- Ejecutando build_network.py ---
+✅ build_network.py completado
+
+--- Ejecutando propagation_analysis.py ---
+✅ propagation_analysis.py completado
+
+--- Ejecutando trends_analysis.py ---
+✅ trends_analysis.py completado
+
+--- Ejecutando government_coverage.py ---
+✅ government_coverage.py completado
+
+🎯 Todos los CSV generados en: /home/dietpi/narrative-radar/data/processed
+[2026-03-07 05:01:10] ✅ Pipeline ejecutado correctamente
+[2026-03-07 05:01:10] 🔹 Generando PDF guía
+PDF generado correctamente por Python.
+[2026-03-07 05:01:11] ✅ PDF guía generado en data/processed/guia_dashboard.pdf
+[2026-03-07 05:01:11] 🔹 Rotando logs
+[2026-03-07 05:01:11] ✅ Logs rotados correctamente
+[2026-03-07 05:01:11] 🎯 Pipeline completo
+[2026-03-07 05:01:11] 🔹 Sincronizando con GitHub...
+[main e7aa0f1] Auto-update: Datos frescos 2026-03-07 05:01
+ 14 files changed, 585 insertions(+), 272 deletions(-)
+To https://github.com/mcasrom/narrative-radar.git
+   27a35b6..e7aa0f1  main -> main
+[2026-03-07 05:01:13] ✅ GitHub actualizado
+[2026-03-07 05:30:01] 🔹 Inicio pipeline Narrative Radar
+[2026-03-07 05:30:01] ✅ Entorno virtual activado
+[2026-03-07 05:30:01] 🔹 Ejecutando pipeline de recolección y análisis
+[INFO] Iniciando collect_rss.py
+[INFO] 28 fuentes cargadas desde sources.yaml
+[INFO] Recolectando noticias de RSS...
+  OK elpais: 151 entradas
+  OK elmundo: 28 entradas
+  OK abc: 20 entradas
+  OK lavanguardia: 147 entradas
+  OK eldiario: 107 entradas
+  OK elconfidencial: 15 entradas
+  OK europapress: 10 entradas
+  OK 20minutos: 213 entradas
+  OK elespanol: 30 entradas
+  OK infolibre: 73 entradas
+  OK okdiario: 50 entradas
+  OK vozpopuli: 25 entradas
+  OK expansion: 76 entradas
+  OK eleconomista: 0 entradas
+  OK cinco_dias: 69 entradas
+  OK elmundo_espana: 54 entradas
+  OK maldita: 50 entradas
+  OK newtral: 10 entradas
+  OK bbc_mundo: 55 entradas
+  OK dw_es: 0 entradas
+  OK france24_es: 24 entradas
+  OK elpais_internacional: 24 entradas
+  OK elmundo_internacional: 40 entradas
+  OK google_news_es: 34 entradas
+  OK google_news_politica: 100 entradas
+  OK heraldo_aragon: 168 entradas
+  OK levante_emv: 20 entradas
+  OK el_norte_castilla: 0 entradas
+[INFO] CSV generado: /home/dietpi/narrative-radar/data/processed/news_summary.csv (2012 registros)
+[INFO] Finalizado.
+[nltk_data] Downloading package stopwords to /home/dietpi/nltk_data...
+[nltk_data]   Package stopwords is already up-to-date!
+Narrativas detectadas correctamente
+CSV de emociones generado en /home/dietpi/narrative-radar/data/processed/emotions_summary.csv (6 emociones, 436 titulares con emoción detectada)
+CSV de polarización generado en /home/dietpi/narrative-radar/data/processed/polarization_summary.csv (48 días)
+CSV de red de actores generado en /home/dietpi/narrative-radar/data/processed/actors_network.csv (30 relaciones)
+CSV de propagación generado en /home/dietpi/narrative-radar/data/processed/propagation_summary.csv (140 días)
+CSV de tendencias generado en /home/dietpi/narrative-radar/data/processed/trends_summary.csv (30 keywords)
+CSV de cobertura gobierno generado en /home/dietpi/narrative-radar/data/processed/government_coverage.csv (25 fuentes)
+
+--- Ejecutando collect_rss.py ---
+✅ collect_rss.py completado
+
+--- Ejecutando detect_narratives.py ---
+✅ detect_narratives.py completado
+
+--- Ejecutando detect_emotions.py ---
+✅ detect_emotions.py completado
+
+--- Ejecutando detect_polarization.py ---
+✅ detect_polarization.py completado
+
+--- Ejecutando build_network.py ---
+✅ build_network.py completado
+
+--- Ejecutando propagation_analysis.py ---
+✅ propagation_analysis.py completado
+
+--- Ejecutando trends_analysis.py ---
+✅ trends_analysis.py completado
+
+--- Ejecutando government_coverage.py ---
+✅ government_coverage.py completado
+
+🎯 Todos los CSV generados en: /home/dietpi/narrative-radar/data/processed
+[2026-03-07 05:31:10] ✅ Pipeline ejecutado correctamente
+[2026-03-07 05:31:10] 🔹 Generando PDF guía
+PDF generado correctamente por Python.
+[2026-03-07 05:31:11] ✅ PDF guía generado en data/processed/guia_dashboard.pdf
+[2026-03-07 05:31:11] 🔹 Rotando logs
+[2026-03-07 05:31:11] ✅ Logs rotados correctamente
+[2026-03-07 05:31:11] 🎯 Pipeline completo
+[2026-03-07 05:31:11] 🔹 Sincronizando con GitHub...
+[main 66e3148] Auto-update: Datos frescos 2026-03-07 05:31
+ 14 files changed, 671 insertions(+), 284 deletions(-)
+To https://github.com/mcasrom/narrative-radar.git
+   e7aa0f1..66e3148  main -> main
+[2026-03-07 05:31:13] ✅ GitHub actualizado
+[2026-03-07 06:00:01] 🔹 Inicio pipeline Narrative Radar
+[2026-03-07 06:00:01] ✅ Entorno virtual activado
+[2026-03-07 06:00:01] 🔹 Ejecutando pipeline de recolección y análisis
+[INFO] Iniciando collect_rss.py
+[INFO] 28 fuentes cargadas desde sources.yaml
+[INFO] Recolectando noticias de RSS...
+  OK elpais: 151 entradas
+  OK elmundo: 28 entradas
+  OK abc: 20 entradas
+  OK lavanguardia: 147 entradas
+  OK eldiario: 113 entradas
+  OK elconfidencial: 15 entradas
+  OK europapress: 10 entradas
+  OK 20minutos: 213 entradas
+  OK elespanol: 30 entradas
+  OK infolibre: 73 entradas
+  OK okdiario: 50 entradas
+  OK vozpopuli: 25 entradas
+  OK expansion: 76 entradas
+  OK eleconomista: 0 entradas
+  OK cinco_dias: 69 entradas
+  OK elmundo_espana: 54 entradas
+  OK maldita: 50 entradas
+  OK newtral: 10 entradas
+  OK bbc_mundo: 55 entradas
+  OK dw_es: 0 entradas
+  OK france24_es: 24 entradas
+  OK elpais_internacional: 24 entradas
+  OK elmundo_internacional: 40 entradas
+  OK google_news_es: 34 entradas
+  OK google_news_politica: 100 entradas
+  OK heraldo_aragon: 168 entradas
+  OK levante_emv: 20 entradas
+  OK el_norte_castilla: 0 entradas
+[INFO] CSV generado: /home/dietpi/narrative-radar/data/processed/news_summary.csv (2073 registros)
+[INFO] Finalizado.
+[nltk_data] Downloading package stopwords to /home/dietpi/nltk_data...
+[nltk_data]   Package stopwords is already up-to-date!
+Narrativas detectadas correctamente
+CSV de emociones generado en /home/dietpi/narrative-radar/data/processed/emotions_summary.csv (6 emociones, 442 titulares con emoción detectada)
+CSV de polarización generado en /home/dietpi/narrative-radar/data/processed/polarization_summary.csv (48 días)
+CSV de red de actores generado en /home/dietpi/narrative-radar/data/processed/actors_network.csv (30 relaciones)
+CSV de propagación generado en /home/dietpi/narrative-radar/data/processed/propagation_summary.csv (142 días)
+CSV de tendencias generado en /home/dietpi/narrative-radar/data/processed/trends_summary.csv (30 keywords)
+CSV de cobertura gobierno generado en /home/dietpi/narrative-radar/data/processed/government_coverage.csv (25 fuentes)
+
+--- Ejecutando collect_rss.py ---
+✅ collect_rss.py completado
+
+--- Ejecutando detect_narratives.py ---
+✅ detect_narratives.py completado
+
+--- Ejecutando detect_emotions.py ---
+✅ detect_emotions.py completado
+
+--- Ejecutando detect_polarization.py ---
+✅ detect_polarization.py completado
+
+--- Ejecutando build_network.py ---
+✅ build_network.py completado
+
+--- Ejecutando propagation_analysis.py ---
+✅ propagation_analysis.py completado
+
+--- Ejecutando trends_analysis.py ---
+✅ trends_analysis.py completado
+
+--- Ejecutando government_coverage.py ---
+✅ government_coverage.py completado
+
+🎯 Todos los CSV generados en: /home/dietpi/narrative-radar/data/processed
+[2026-03-07 06:01:10] ✅ Pipeline ejecutado correctamente
+[2026-03-07 06:01:10] 🔹 Generando PDF guía
+PDF generado correctamente por Python.
+[2026-03-07 06:01:11] ✅ PDF guía generado en data/processed/guia_dashboard.pdf
+[2026-03-07 06:01:11] 🔹 Rotando logs
+[2026-03-07 06:01:11] ✅ Logs rotados correctamente
+[2026-03-07 06:01:11] 🎯 Pipeline completo
+[2026-03-07 06:01:11] 🔹 Sincronizando con GitHub...
+[main 8966f4c] Auto-update: Datos frescos 2026-03-07 06:01
+ 14 files changed, 628 insertions(+), 284 deletions(-)
+To https://github.com/mcasrom/narrative-radar.git
+   66e3148..8966f4c  main -> main
+[2026-03-07 06:01:13] ✅ GitHub actualizado
+[2026-03-07 06:30:01] 🔹 Inicio pipeline Narrative Radar
+[2026-03-07 06:30:01] ✅ Entorno virtual activado
+[2026-03-07 06:30:01] 🔹 Ejecutando pipeline de recolección y análisis
+[INFO] Iniciando collect_rss.py
+[INFO] 28 fuentes cargadas desde sources.yaml
+[INFO] Recolectando noticias de RSS...
+  OK elpais: 138 entradas
+  OK elmundo: 28 entradas
+  OK abc: 20 entradas
+  OK lavanguardia: 147 entradas
+  OK eldiario: 95 entradas
+  OK elconfidencial: 15 entradas
+  OK europapress: 10 entradas
+  OK 20minutos: 213 entradas
+  OK elespanol: 30 entradas
+  OK infolibre: 72 entradas
+  OK okdiario: 50 entradas
+  OK vozpopuli: 25 entradas
+  OK expansion: 76 entradas
+  OK eleconomista: 0 entradas
+  OK cinco_dias: 69 entradas
+  OK elmundo_espana: 54 entradas
+  OK maldita: 50 entradas
+  OK newtral: 10 entradas
+  OK bbc_mundo: 55 entradas
+  OK dw_es: 0 entradas
+  OK france24_es: 24 entradas
+  OK elpais_internacional: 24 entradas
+  OK elmundo_internacional: 40 entradas
+  OK google_news_es: 33 entradas
+  OK google_news_politica: 100 entradas
+  OK heraldo_aragon: 168 entradas
+  OK levante_emv: 20 entradas
+  OK el_norte_castilla: 0 entradas
+[INFO] CSV generado: /home/dietpi/narrative-radar/data/processed/news_summary.csv (2210 registros)
+[INFO] Finalizado.
+[nltk_data] Downloading package stopwords to /home/dietpi/nltk_data...
+[nltk_data]   Package stopwords is already up-to-date!
+Narrativas detectadas correctamente
+CSV de emociones generado en /home/dietpi/narrative-radar/data/processed/emotions_summary.csv (6 emociones, 462 titulares con emoción detectada)
+CSV de polarización generado en /home/dietpi/narrative-radar/data/processed/polarization_summary.csv (48 días)
+CSV de red de actores generado en /home/dietpi/narrative-radar/data/processed/actors_network.csv (30 relaciones)
+CSV de propagación generado en /home/dietpi/narrative-radar/data/processed/propagation_summary.csv (142 días)
+CSV de tendencias generado en /home/dietpi/narrative-radar/data/processed/trends_summary.csv (30 keywords)
+CSV de cobertura gobierno generado en /home/dietpi/narrative-radar/data/processed/government_coverage.csv (25 fuentes)
+
+--- Ejecutando collect_rss.py ---
+✅ collect_rss.py completado
+
+--- Ejecutando detect_narratives.py ---
+✅ detect_narratives.py completado
+
+--- Ejecutando detect_emotions.py ---
+✅ detect_emotions.py completado
+
+--- Ejecutando detect_polarization.py ---
+✅ detect_polarization.py completado
+
+--- Ejecutando build_network.py ---
+✅ build_network.py completado
+
+--- Ejecutando propagation_analysis.py ---
+✅ propagation_analysis.py completado
+
+--- Ejecutando trends_analysis.py ---
+✅ trends_analysis.py completado
+
+--- Ejecutando government_coverage.py ---
+✅ government_coverage.py completado
+
+🎯 Todos los CSV generados en: /home/dietpi/narrative-radar/data/processed
+[2026-03-07 06:31:09] ✅ Pipeline ejecutado correctamente
+[2026-03-07 06:31:09] 🔹 Generando PDF guía
+PDF generado correctamente por Python.
+[2026-03-07 06:31:10] ✅ PDF guía generado en data/processed/guia_dashboard.pdf
+[2026-03-07 06:31:10] 🔹 Rotando logs
+[2026-03-07 06:31:10] ✅ Logs rotados correctamente
+[2026-03-07 06:31:10] 🎯 Pipeline completo
+[2026-03-07 06:31:10] 🔹 Sincronizando con GitHub...
+[main 6c03a6d] Auto-update: Datos frescos 2026-03-07 06:31
+ 14 files changed, 704 insertions(+), 286 deletions(-)
+To https://github.com/mcasrom/narrative-radar.git
+   8966f4c..6c03a6d  main -> main
+[2026-03-07 06:31:12] ✅ GitHub actualizado
+[2026-03-07 07:00:01] 🔹 Inicio pipeline Narrative Radar
+[2026-03-07 07:00:01] ✅ Entorno virtual activado
+[2026-03-07 07:00:01] 🔹 Ejecutando pipeline de recolección y análisis
+[INFO] Iniciando collect_rss.py
+[INFO] 28 fuentes cargadas desde sources.yaml
+[INFO] Recolectando noticias de RSS...
+  OK elpais: 140 entradas
+  OK elmundo: 28 entradas
+  OK abc: 20 entradas
+  OK lavanguardia: 150 entradas
+  OK eldiario: 95 entradas
+  OK elconfidencial: 15 entradas
+  OK europapress: 10 entradas
+  OK 20minutos: 213 entradas
+  OK elespanol: 30 entradas
+  OK infolibre: 72 entradas
+  OK okdiario: 50 entradas
+  OK vozpopuli: 25 entradas
+  OK expansion: 76 entradas
+  OK eleconomista: 0 entradas
+  OK cinco_dias: 69 entradas
+  OK elmundo_espana: 54 entradas
+  OK maldita: 50 entradas
+  OK newtral: 10 entradas
+  OK bbc_mundo: 55 entradas
+  OK dw_es: 0 entradas
+  OK france24_es: 24 entradas
+  OK elpais_internacional: 24 entradas
+  OK elmundo_internacional: 40 entradas
+  OK google_news_es: 33 entradas
+  OK google_news_politica: 100 entradas
+  OK heraldo_aragon: 168 entradas
+  OK levante_emv: 20 entradas
+  OK el_norte_castilla: 0 entradas
+[INFO] CSV generado: /home/dietpi/narrative-radar/data/processed/news_summary.csv (2279 registros)
+[INFO] Finalizado.
+[nltk_data] Downloading package stopwords to /home/dietpi/nltk_data...
+[nltk_data]   Package stopwords is already up-to-date!
+Narrativas detectadas correctamente
+CSV de emociones generado en /home/dietpi/narrative-radar/data/processed/emotions_summary.csv (6 emociones, 466 titulares con emoción detectada)
+CSV de polarización generado en /home/dietpi/narrative-radar/data/processed/polarization_summary.csv (48 días)
+CSV de red de actores generado en /home/dietpi/narrative-radar/data/processed/actors_network.csv (30 relaciones)
+CSV de propagación generado en /home/dietpi/narrative-radar/data/processed/propagation_summary.csv (142 días)
+CSV de tendencias generado en /home/dietpi/narrative-radar/data/processed/trends_summary.csv (30 keywords)
+CSV de cobertura gobierno generado en /home/dietpi/narrative-radar/data/processed/government_coverage.csv (25 fuentes)
+
+--- Ejecutando collect_rss.py ---
+✅ collect_rss.py completado
+
+--- Ejecutando detect_narratives.py ---
+✅ detect_narratives.py completado
+
+--- Ejecutando detect_emotions.py ---
+✅ detect_emotions.py completado
+
+--- Ejecutando detect_polarization.py ---
+✅ detect_polarization.py completado
+
+--- Ejecutando build_network.py ---
+✅ build_network.py completado
+
+--- Ejecutando propagation_analysis.py ---
+✅ propagation_analysis.py completado
+
+--- Ejecutando trends_analysis.py ---
+✅ trends_analysis.py completado
+
+--- Ejecutando government_coverage.py ---
+✅ government_coverage.py completado
+
+🎯 Todos los CSV generados en: /home/dietpi/narrative-radar/data/processed
+[2026-03-07 07:01:10] ✅ Pipeline ejecutado correctamente
+[2026-03-07 07:01:10] 🔹 Generando PDF guía
+PDF generado correctamente por Python.
+[2026-03-07 07:01:11] ✅ PDF guía generado en data/processed/guia_dashboard.pdf
+[2026-03-07 07:01:11] 🔹 Rotando logs
+[2026-03-07 07:01:11] ✅ Logs rotados correctamente
+[2026-03-07 07:01:11] 🎯 Pipeline completo
+[2026-03-07 07:01:11] 🔹 Sincronizando con GitHub...
+[main 77e48fb] Auto-update: Datos frescos 2026-03-07 07:01
+ 14 files changed, 636 insertions(+), 286 deletions(-)
+To https://github.com/mcasrom/narrative-radar.git
+   6c03a6d..77e48fb  main -> main
+[2026-03-07 07:01:13] ✅ GitHub actualizado
+[2026-03-07 07:30:01] 🔹 Inicio pipeline Narrative Radar
+[2026-03-07 07:30:01] ✅ Entorno virtual activado
+[2026-03-07 07:30:01] 🔹 Ejecutando pipeline de recolección y análisis
+[INFO] Iniciando collect_rss.py
+[INFO] 28 fuentes cargadas desde sources.yaml
+[INFO] Recolectando noticias de RSS...
+  OK elpais: 142 entradas
+  OK elmundo: 28 entradas
+  OK abc: 20 entradas
+  OK lavanguardia: 145 entradas
+  OK eldiario: 95 entradas
+  OK elconfidencial: 15 entradas
+  OK europapress: 10 entradas
+  OK 20minutos: 213 entradas
+  OK elespanol: 30 entradas
+  OK infolibre: 72 entradas
+  OK okdiario: 50 entradas
+  OK vozpopuli: 25 entradas
+  OK expansion: 76 entradas
+  OK eleconomista: 0 entradas
+  OK cinco_dias: 69 entradas
+  OK elmundo_espana: 54 entradas
+  OK maldita: 50 entradas
+  OK newtral: 10 entradas
+  OK bbc_mundo: 55 entradas
+  OK dw_es: 0 entradas
+  OK france24_es: 24 entradas
+  OK elpais_internacional: 24 entradas
+  OK elmundo_internacional: 40 entradas
+  OK google_news_es: 34 entradas
+  OK google_news_politica: 100 entradas
+  OK heraldo_aragon: 168 entradas
+  OK levante_emv: 20 entradas
+  OK el_norte_castilla: 0 entradas
+[INFO] CSV generado: /home/dietpi/narrative-radar/data/processed/news_summary.csv (2349 registros)
+[INFO] Finalizado.
+[nltk_data] Downloading package stopwords to /home/dietpi/nltk_data...
+[nltk_data]   Package stopwords is already up-to-date!
+Narrativas detectadas correctamente
+CSV de emociones generado en /home/dietpi/narrative-radar/data/processed/emotions_summary.csv (6 emociones, 477 titulares con emoción detectada)
+CSV de polarización generado en /home/dietpi/narrative-radar/data/processed/polarization_summary.csv (48 días)
+CSV de red de actores generado en /home/dietpi/narrative-radar/data/processed/actors_network.csv (30 relaciones)
+CSV de propagación generado en /home/dietpi/narrative-radar/data/processed/propagation_summary.csv (142 días)
+CSV de tendencias generado en /home/dietpi/narrative-radar/data/processed/trends_summary.csv (30 keywords)
+CSV de cobertura gobierno generado en /home/dietpi/narrative-radar/data/processed/government_coverage.csv (25 fuentes)
+
+--- Ejecutando collect_rss.py ---
+✅ collect_rss.py completado
+
+--- Ejecutando detect_narratives.py ---
+✅ detect_narratives.py completado
+
+--- Ejecutando detect_emotions.py ---
+✅ detect_emotions.py completado
+
+--- Ejecutando detect_polarization.py ---
+✅ detect_polarization.py completado
+
+--- Ejecutando build_network.py ---
+✅ build_network.py completado
+
+--- Ejecutando propagation_analysis.py ---
+✅ propagation_analysis.py completado
+
+--- Ejecutando trends_analysis.py ---
+✅ trends_analysis.py completado
+
+--- Ejecutando government_coverage.py ---
+✅ government_coverage.py completado
+
+🎯 Todos los CSV generados en: /home/dietpi/narrative-radar/data/processed
+[2026-03-07 07:31:14] ✅ Pipeline ejecutado correctamente
+[2026-03-07 07:31:14] 🔹 Generando PDF guía
+PDF generado correctamente por Python.
+[2026-03-07 07:31:14] ✅ PDF guía generado en data/processed/guia_dashboard.pdf
+[2026-03-07 07:31:14] 🔹 Rotando logs
+[2026-03-07 07:31:14] ✅ Logs rotados correctamente
+[2026-03-07 07:31:14] 🎯 Pipeline completo
+[2026-03-07 07:31:14] 🔹 Sincronizando con GitHub...
+[main acbaf49] Auto-update: Datos frescos 2026-03-07 07:31
+ 14 files changed, 637 insertions(+), 286 deletions(-)
+To https://github.com/mcasrom/narrative-radar.git
+   77e48fb..acbaf49  main -> main
+[2026-03-07 07:31:16] ✅ GitHub actualizado
+[2026-03-07 08:00:01] 🔹 Inicio pipeline Narrative Radar
+[2026-03-07 08:00:01] ✅ Entorno virtual activado
+[2026-03-07 08:00:01] 🔹 Ejecutando pipeline de recolección y análisis
+[INFO] Iniciando collect_rss.py
+[INFO] 28 fuentes cargadas desde sources.yaml
+[INFO] Recolectando noticias de RSS...
+  OK elpais: 142 entradas
+  OK elmundo: 29 entradas
+  OK abc: 20 entradas
+  OK lavanguardia: 144 entradas
+  OK eldiario: 95 entradas
+  OK elconfidencial: 15 entradas
+  OK europapress: 10 entradas
+  OK 20minutos: 214 entradas
+  OK elespanol: 30 entradas
+  OK infolibre: 72 entradas
+  OK okdiario: 50 entradas
+  OK vozpopuli: 25 entradas
+  OK expansion: 76 entradas
+  OK eleconomista: 0 entradas
+  OK cinco_dias: 69 entradas
+  OK elmundo_espana: 54 entradas
+  OK maldita: 50 entradas
+  OK newtral: 10 entradas
+  OK bbc_mundo: 55 entradas
+  OK dw_es: 0 entradas
+  OK france24_es: 24 entradas
+  OK elpais_internacional: 24 entradas
+  OK elmundo_internacional: 40 entradas
+  OK google_news_es: 33 entradas
+  OK google_news_politica: 100 entradas
+  OK heraldo_aragon: 166 entradas
+  OK levante_emv: 20 entradas
+  OK el_norte_castilla: 0 entradas
+[INFO] CSV generado: /home/dietpi/narrative-radar/data/processed/news_summary.csv (2391 registros)
+[INFO] Finalizado.
+[nltk_data] Downloading package stopwords to /home/dietpi/nltk_data...
+[nltk_data]   Package stopwords is already up-to-date!
+Narrativas detectadas correctamente
+CSV de emociones generado en /home/dietpi/narrative-radar/data/processed/emotions_summary.csv (6 emociones, 485 titulares con emoción detectada)
+CSV de polarización generado en /home/dietpi/narrative-radar/data/processed/polarization_summary.csv (48 días)
+CSV de red de actores generado en /home/dietpi/narrative-radar/data/processed/actors_network.csv (30 relaciones)
+CSV de propagación generado en /home/dietpi/narrative-radar/data/processed/propagation_summary.csv (142 días)
+CSV de tendencias generado en /home/dietpi/narrative-radar/data/processed/trends_summary.csv (30 keywords)
+CSV de cobertura gobierno generado en /home/dietpi/narrative-radar/data/processed/government_coverage.csv (25 fuentes)
+
+--- Ejecutando collect_rss.py ---
+✅ collect_rss.py completado
+
+--- Ejecutando detect_narratives.py ---
+✅ detect_narratives.py completado
+
+--- Ejecutando detect_emotions.py ---
+✅ detect_emotions.py completado
+
+--- Ejecutando detect_polarization.py ---
+✅ detect_polarization.py completado
+
+--- Ejecutando build_network.py ---
+✅ build_network.py completado
+
+--- Ejecutando propagation_analysis.py ---
+✅ propagation_analysis.py completado
+
+--- Ejecutando trends_analysis.py ---
+✅ trends_analysis.py completado
+
+--- Ejecutando government_coverage.py ---
+✅ government_coverage.py completado
+
+🎯 Todos los CSV generados en: /home/dietpi/narrative-radar/data/processed
+[2026-03-07 08:01:11] ✅ Pipeline ejecutado correctamente
+[2026-03-07 08:01:11] 🔹 Generando PDF guía
+PDF generado correctamente por Python.
+[2026-03-07 08:01:12] ✅ PDF guía generado en data/processed/guia_dashboard.pdf
+[2026-03-07 08:01:12] 🔹 Rotando logs
+[2026-03-07 08:01:12] ✅ Logs rotados correctamente
+[2026-03-07 08:01:12] 🎯 Pipeline completo
+[2026-03-07 08:01:12] 🔹 Sincronizando con GitHub...
+[main 6970d45] Auto-update: Datos frescos 2026-03-07 08:01
+ 14 files changed, 609 insertions(+), 286 deletions(-)
+To https://github.com/mcasrom/narrative-radar.git
+   acbaf49..6970d45  main -> main
+[2026-03-07 08:01:14] ✅ GitHub actualizado
+[2026-03-07 08:30:02] 🔹 Inicio pipeline Narrative Radar
+[2026-03-07 08:30:02] ✅ Entorno virtual activado
+[2026-03-07 08:30:02] 🔹 Ejecutando pipeline de recolección y análisis
+[INFO] Iniciando collect_rss.py
+[INFO] 28 fuentes cargadas desde sources.yaml
+[INFO] Recolectando noticias de RSS...
+  OK elpais: 142 entradas
+  OK elmundo: 29 entradas
+  OK abc: 20 entradas
+  OK lavanguardia: 144 entradas
+  OK eldiario: 98 entradas
+  OK elconfidencial: 15 entradas
+  OK europapress: 10 entradas
+  OK 20minutos: 206 entradas
+  OK elespanol: 30 entradas
+  OK infolibre: 72 entradas
+  OK okdiario: 50 entradas
+  OK vozpopuli: 25 entradas
+  OK expansion: 76 entradas
+  OK eleconomista: 0 entradas
+  OK cinco_dias: 69 entradas
+  OK elmundo_espana: 54 entradas
+  OK maldita: 50 entradas
+  OK newtral: 10 entradas
+  OK bbc_mundo: 55 entradas
+  OK dw_es: 0 entradas
+  OK france24_es: 24 entradas
+  OK elpais_internacional: 24 entradas
+  OK elmundo_internacional: 40 entradas
+  OK google_news_es: 32 entradas
+  OK google_news_politica: 100 entradas
+  OK heraldo_aragon: 166 entradas
+  OK levante_emv: 20 entradas
+  OK el_norte_castilla: 0 entradas
+[INFO] CSV generado: /home/dietpi/narrative-radar/data/processed/news_summary.csv (2447 registros)
+[INFO] Finalizado.
+[nltk_data] Downloading package stopwords to /home/dietpi/nltk_data...
+[nltk_data]   Package stopwords is already up-to-date!
+Narrativas detectadas correctamente
+CSV de emociones generado en /home/dietpi/narrative-radar/data/processed/emotions_summary.csv (6 emociones, 498 titulares con emoción detectada)
+CSV de polarización generado en /home/dietpi/narrative-radar/data/processed/polarization_summary.csv (48 días)
+CSV de red de actores generado en /home/dietpi/narrative-radar/data/processed/actors_network.csv (30 relaciones)
+CSV de propagación generado en /home/dietpi/narrative-radar/data/processed/propagation_summary.csv (142 días)
+CSV de tendencias generado en /home/dietpi/narrative-radar/data/processed/trends_summary.csv (30 keywords)
+CSV de cobertura gobierno generado en /home/dietpi/narrative-radar/data/processed/government_coverage.csv (25 fuentes)
+
+--- Ejecutando collect_rss.py ---
+✅ collect_rss.py completado
+
+--- Ejecutando detect_narratives.py ---
+✅ detect_narratives.py completado
+
+--- Ejecutando detect_emotions.py ---
+✅ detect_emotions.py completado
+
+--- Ejecutando detect_polarization.py ---
+✅ detect_polarization.py completado
+
+--- Ejecutando build_network.py ---
+✅ build_network.py completado
+
+--- Ejecutando propagation_analysis.py ---
+✅ propagation_analysis.py completado
+
+--- Ejecutando trends_analysis.py ---
+✅ trends_analysis.py completado
+
+--- Ejecutando government_coverage.py ---
+✅ government_coverage.py completado
+
+🎯 Todos los CSV generados en: /home/dietpi/narrative-radar/data/processed
+[2026-03-07 08:31:15] ✅ Pipeline ejecutado correctamente
+[2026-03-07 08:31:15] 🔹 Generando PDF guía
+PDF generado correctamente por Python.
+[2026-03-07 08:31:15] ✅ PDF guía generado en data/processed/guia_dashboard.pdf
+[2026-03-07 08:31:15] 🔹 Rotando logs
+[2026-03-07 08:31:16] ✅ Logs rotados correctamente
+[2026-03-07 08:31:16] 🎯 Pipeline completo
+[2026-03-07 08:31:16] 🔹 Sincronizando con GitHub...
+[main 2339f00] Auto-update: Datos frescos 2026-03-07 08:31
+ 14 files changed, 623 insertions(+), 286 deletions(-)
+To https://github.com/mcasrom/narrative-radar.git
+   6970d45..2339f00  main -> main
+[2026-03-07 08:31:17] ✅ GitHub actualizado
+[2026-03-07 09:00:01] 🔹 Inicio pipeline Narrative Radar
+[2026-03-07 09:00:01] ✅ Entorno virtual activado
+[2026-03-07 09:00:01] 🔹 Ejecutando pipeline de recolección y análisis
+[INFO] Iniciando collect_rss.py
+[INFO] 28 fuentes cargadas desde sources.yaml
+[INFO] Recolectando noticias de RSS...
+  OK elpais: 145 entradas
+  OK elmundo: 28 entradas
+  OK abc: 20 entradas
+  OK lavanguardia: 143 entradas
+  OK eldiario: 99 entradas
+  OK elconfidencial: 15 entradas
+  OK europapress: 10 entradas
+  OK 20minutos: 206 entradas
+  OK elespanol: 30 entradas
+  OK infolibre: 72 entradas
+  OK okdiario: 50 entradas
+  OK vozpopuli: 25 entradas
+  OK expansion: 76 entradas
+  OK eleconomista: 0 entradas
+  OK cinco_dias: 69 entradas
+  OK elmundo_espana: 54 entradas
+  OK maldita: 50 entradas
+  OK newtral: 10 entradas
+  OK bbc_mundo: 55 entradas
+  OK dw_es: 0 entradas
+  OK france24_es: 24 entradas
+  OK elpais_internacional: 24 entradas
+  OK elmundo_internacional: 40 entradas
+  OK google_news_es: 32 entradas
+  OK google_news_politica: 100 entradas
+  OK heraldo_aragon: 166 entradas
+  OK levante_emv: 20 entradas
+  OK el_norte_castilla: 0 entradas
+[INFO] CSV generado: /home/dietpi/narrative-radar/data/processed/news_summary.csv (2503 registros)
+[INFO] Finalizado.
+[nltk_data] Downloading package stopwords to /home/dietpi/nltk_data...
+[nltk_data]   Package stopwords is already up-to-date!
+Narrativas detectadas correctamente
+CSV de emociones generado en /home/dietpi/narrative-radar/data/processed/emotions_summary.csv (6 emociones, 514 titulares con emoción detectada)
+CSV de polarización generado en /home/dietpi/narrative-radar/data/processed/polarization_summary.csv (48 días)
+CSV de red de actores generado en /home/dietpi/narrative-radar/data/processed/actors_network.csv (30 relaciones)
+CSV de propagación generado en /home/dietpi/narrative-radar/data/processed/propagation_summary.csv (145 días)
+CSV de tendencias generado en /home/dietpi/narrative-radar/data/processed/trends_summary.csv (30 keywords)
+CSV de cobertura gobierno generado en /home/dietpi/narrative-radar/data/processed/government_coverage.csv (25 fuentes)
+
+--- Ejecutando collect_rss.py ---
+✅ collect_rss.py completado
+
+--- Ejecutando detect_narratives.py ---
+✅ detect_narratives.py completado
+
+--- Ejecutando detect_emotions.py ---
+✅ detect_emotions.py completado
+
+--- Ejecutando detect_polarization.py ---
+✅ detect_polarization.py completado
+
+--- Ejecutando build_network.py ---
+✅ build_network.py completado
+
+--- Ejecutando propagation_analysis.py ---
+✅ propagation_analysis.py completado
+
+--- Ejecutando trends_analysis.py ---
+✅ trends_analysis.py completado
+
+--- Ejecutando government_coverage.py ---
+✅ government_coverage.py completado
+
+🎯 Todos los CSV generados en: /home/dietpi/narrative-radar/data/processed
+[2026-03-07 09:01:10] ✅ Pipeline ejecutado correctamente
+[2026-03-07 09:01:10] 🔹 Generando PDF guía
+PDF generado correctamente por Python.
+[2026-03-07 09:01:11] ✅ PDF guía generado en data/processed/guia_dashboard.pdf
+[2026-03-07 09:01:11] 🔹 Rotando logs
+[2026-03-07 09:01:11] ✅ Logs rotados correctamente
+[2026-03-07 09:01:11] 🎯 Pipeline completo
+[2026-03-07 09:01:11] 🔹 Sincronizando con GitHub...
+[main 56484ac] Auto-update: Datos frescos 2026-03-07 09:01
+ 14 files changed, 629 insertions(+), 286 deletions(-)
+To https://github.com/mcasrom/narrative-radar.git
+   2339f00..56484ac  main -> main
+[2026-03-07 09:01:12] ✅ GitHub actualizado
+[2026-03-07 09:30:01] 🔹 Inicio pipeline Narrative Radar
+[2026-03-07 09:30:01] ✅ Entorno virtual activado
+[2026-03-07 09:30:01] 🔹 Ejecutando pipeline de recolección y análisis
+[INFO] Iniciando collect_rss.py
+[INFO] 28 fuentes cargadas desde sources.yaml
+[INFO] Recolectando noticias de RSS...
+  OK elpais: 148 entradas
+  OK elmundo: 29 entradas
+  OK abc: 20 entradas
+  OK lavanguardia: 143 entradas
+  OK eldiario: 98 entradas
+  OK elconfidencial: 15 entradas
+  OK europapress: 10 entradas
+  OK 20minutos: 211 entradas
+  OK elespanol: 30 entradas
+  OK infolibre: 72 entradas
+  OK okdiario: 50 entradas
+  OK vozpopuli: 25 entradas
+  OK expansion: 76 entradas
+  OK eleconomista: 0 entradas
+  OK cinco_dias: 69 entradas
+  OK elmundo_espana: 54 entradas
+  OK maldita: 50 entradas
+  OK newtral: 10 entradas
+  OK bbc_mundo: 55 entradas
+  OK dw_es: 0 entradas
+  OK france24_es: 24 entradas
+  OK elpais_internacional: 24 entradas
+  OK elmundo_internacional: 40 entradas
+  OK google_news_es: 32 entradas
+  OK google_news_politica: 100 entradas
+  OK heraldo_aragon: 166 entradas
+  OK levante_emv: 20 entradas
+  OK el_norte_castilla: 0 entradas
+[INFO] CSV generado: /home/dietpi/narrative-radar/data/processed/news_summary.csv (2567 registros)
+[INFO] Finalizado.
+Narrativas detectadas correctamente (5 clusters, historico: 10 registros)
+CSV de emociones generado en /home/dietpi/narrative-radar/data/processed/emotions_summary.csv (6 emociones, 527 titulares con emoción detectada)
+CSV de polarización generado en /home/dietpi/narrative-radar/data/processed/polarization_summary.csv (48 días)
+CSV de red de actores generado en /home/dietpi/narrative-radar/data/processed/actors_network.csv (30 relaciones)
+CSV de propagación generado en /home/dietpi/narrative-radar/data/processed/propagation_summary.csv (145 días)
+CSV de tendencias generado en /home/dietpi/narrative-radar/data/processed/trends_summary.csv (30 keywords)
+CSV de cobertura gobierno generado en /home/dietpi/narrative-radar/data/processed/government_coverage.csv (25 fuentes)
+
+--- Ejecutando collect_rss.py ---
+✅ collect_rss.py completado
+
+--- Ejecutando detect_narratives.py ---
+✅ detect_narratives.py completado
+
+--- Ejecutando detect_emotions.py ---
+✅ detect_emotions.py completado
+
+--- Ejecutando detect_polarization.py ---
+✅ detect_polarization.py completado
+
+--- Ejecutando build_network.py ---
+✅ build_network.py completado
+
+--- Ejecutando propagation_analysis.py ---
+✅ propagation_analysis.py completado
+
+--- Ejecutando trends_analysis.py ---
+✅ trends_analysis.py completado
+
+--- Ejecutando government_coverage.py ---
+✅ government_coverage.py completado
+
+🎯 Todos los CSV generados en: /home/dietpi/narrative-radar/data/processed
+[2026-03-07 09:31:15] ✅ Pipeline ejecutado correctamente
+[2026-03-07 09:31:15] 🔹 Generando PDF guía
+PDF generado correctamente por Python.
+[2026-03-07 09:31:16] ✅ PDF guía generado en data/processed/guia_dashboard.pdf
+[2026-03-07 09:31:16] 🔹 Rotando logs
+[2026-03-07 09:31:16] ✅ Logs rotados correctamente
+[2026-03-07 09:31:16] 🎯 Pipeline completo
+[2026-03-07 09:31:16] 🔹 Sincronizando con GitHub...
+[main 2e853d9] Auto-update: Datos frescos 2026-03-07 09:31
+ 16 files changed, 699 insertions(+), 289 deletions(-)
+ create mode 100644 data/processed/audit_sources.csv
+To https://github.com/mcasrom/narrative-radar.git
+   eb589a1..2e853d9  main -> main
+[2026-03-07 09:31:18] ✅ GitHub actualizado
+[2026-03-07 10:00:01] 🔹 Inicio pipeline Narrative Radar
+[2026-03-07 10:00:01] ✅ Entorno virtual activado
+[2026-03-07 10:00:01] 🔹 Ejecutando pipeline de recolección y análisis
+[INFO] Iniciando collect_rss.py
+[INFO] 28 fuentes cargadas desde sources.yaml
+[INFO] Recolectando noticias de RSS...
+  OK elpais: 148 entradas
+  OK elmundo: 29 entradas
+  OK abc: 20 entradas
+  OK lavanguardia: 144 entradas
+  OK eldiario: 99 entradas
+  OK elconfidencial: 15 entradas
+  OK europapress: 10 entradas
+  OK 20minutos: 211 entradas
+  OK elespanol: 30 entradas
+  OK infolibre: 72 entradas
+  OK okdiario: 50 entradas
+  OK vozpopuli: 25 entradas
+  OK expansion: 76 entradas
+  OK eleconomista: 0 entradas
+  OK cinco_dias: 69 entradas
+  OK elmundo_espana: 54 entradas
+  OK maldita: 50 entradas
+  OK newtral: 10 entradas
+  OK bbc_mundo: 55 entradas
+  OK dw_es: 0 entradas
+  OK france24_es: 24 entradas
+  OK elpais_internacional: 24 entradas
+  OK elmundo_internacional: 40 entradas
+  OK google_news_es: 32 entradas
+  OK google_news_politica: 100 entradas
+  OK heraldo_aragon: 164 entradas
+  OK levante_emv: 20 entradas
+  OK el_norte_castilla: 0 entradas
+[INFO] CSV generado: /home/dietpi/narrative-radar/data/processed/news_summary.csv (2606 registros)
+[INFO] Finalizado.
+Narrativas detectadas correctamente (5 clusters, historico: 15 registros)
+CSV de emociones generado en /home/dietpi/narrative-radar/data/processed/emotions_summary.csv (6 emociones, 544 titulares con emoción detectada)
+CSV de polarización generado en /home/dietpi/narrative-radar/data/processed/polarization_summary.csv (48 días)
+CSV de red de actores generado en /home/dietpi/narrative-radar/data/processed/actors_network.csv (30 relaciones)
+CSV de propagación generado en /home/dietpi/narrative-radar/data/processed/propagation_summary.csv (145 días)
+CSV de tendencias generado en /home/dietpi/narrative-radar/data/processed/trends_summary.csv (30 keywords)
+CSV de cobertura gobierno generado en /home/dietpi/narrative-radar/data/processed/government_coverage.csv (25 fuentes)
+
+--- Ejecutando collect_rss.py ---
+✅ collect_rss.py completado
+
+--- Ejecutando detect_narratives.py ---
+✅ detect_narratives.py completado
+
+--- Ejecutando detect_emotions.py ---
+✅ detect_emotions.py completado
+
+--- Ejecutando detect_polarization.py ---
+✅ detect_polarization.py completado
+
+--- Ejecutando build_network.py ---
+✅ build_network.py completado
+
+--- Ejecutando propagation_analysis.py ---
+✅ propagation_analysis.py completado
+
+--- Ejecutando trends_analysis.py ---
+✅ trends_analysis.py completado
+
+--- Ejecutando government_coverage.py ---
+✅ government_coverage.py completado
+
+🎯 Todos los CSV generados en: /home/dietpi/narrative-radar/data/processed
+[2026-03-07 10:01:10] ✅ Pipeline ejecutado correctamente
+[2026-03-07 10:01:10] 🔹 Generando PDF guía
+PDF generado correctamente por Python.
+[2026-03-07 10:01:11] ✅ PDF guía generado en data/processed/guia_dashboard.pdf
+[2026-03-07 10:01:11] 🔹 Rotando logs
+[2026-03-07 10:01:11] ✅ Logs rotados correctamente
+[2026-03-07 10:01:11] 🎯 Pipeline completo
+[2026-03-07 10:01:11] 🔹 Sincronizando con GitHub...
+[main af0d8ce] Auto-update: Datos frescos 2026-03-07 10:01
+ 16 files changed, 645 insertions(+), 289 deletions(-)
+To https://github.com/mcasrom/narrative-radar.git
+   2e853d9..af0d8ce  main -> main
+[2026-03-07 10:01:13] ✅ GitHub actualizado
+[2026-03-07 10:30:01] 🔹 Inicio pipeline Narrative Radar
+[2026-03-07 10:30:01] ✅ Entorno virtual activado
+[2026-03-07 10:30:01] 🔹 Ejecutando pipeline de recolección y análisis
+[INFO] Iniciando collect_rss.py
+[INFO] 28 fuentes cargadas desde sources.yaml
+[INFO] Recolectando noticias de RSS...
+  OK elpais: 148 entradas
+  OK elmundo: 29 entradas
+  OK abc: 20 entradas
+  OK lavanguardia: 143 entradas
+  OK eldiario: 99 entradas
+  OK elconfidencial: 15 entradas
+  OK europapress: 10 entradas
+  OK 20minutos: 210 entradas
+  OK elespanol: 30 entradas
+  OK infolibre: 72 entradas
+  OK okdiario: 50 entradas
+  OK vozpopuli: 25 entradas
+  OK expansion: 76 entradas
+  OK eleconomista: 0 entradas
+  OK cinco_dias: 69 entradas
+  OK elmundo_espana: 54 entradas
+  OK maldita: 50 entradas
+  OK newtral: 10 entradas
+  OK bbc_mundo: 55 entradas
+  OK dw_es: 0 entradas
+  OK france24_es: 24 entradas
+  OK elpais_internacional: 24 entradas
+  OK elmundo_internacional: 40 entradas
+  OK google_news_es: 31 entradas
+  OK google_news_politica: 100 entradas
+  OK heraldo_aragon: 164 entradas
+  OK levante_emv: 20 entradas
+  OK el_norte_castilla: 0 entradas
+[INFO] CSV generado: /home/dietpi/narrative-radar/data/processed/news_summary.csv (2646 registros)
+[INFO] Finalizado.
+Narrativas detectadas correctamente (5 clusters, historico: 20 registros)
+CSV de emociones generado en /home/dietpi/narrative-radar/data/processed/emotions_summary.csv (6 emociones, 548 titulares con emoción detectada)
+CSV de polarización generado en /home/dietpi/narrative-radar/data/processed/polarization_summary.csv (48 días)
+CSV de red de actores generado en /home/dietpi/narrative-radar/data/processed/actors_network.csv (30 relaciones)
+CSV de propagación generado en /home/dietpi/narrative-radar/data/processed/propagation_summary.csv (145 días)
+CSV de tendencias generado en /home/dietpi/narrative-radar/data/processed/trends_summary.csv (30 keywords)
+CSV de cobertura gobierno generado en /home/dietpi/narrative-radar/data/processed/government_coverage.csv (25 fuentes)
+
+--- Ejecutando collect_rss.py ---
+✅ collect_rss.py completado
+
+--- Ejecutando detect_narratives.py ---
+✅ detect_narratives.py completado
+
+--- Ejecutando detect_emotions.py ---
+✅ detect_emotions.py completado
+
+--- Ejecutando detect_polarization.py ---
+✅ detect_polarization.py completado
+
+--- Ejecutando build_network.py ---
+✅ build_network.py completado
+
+--- Ejecutando propagation_analysis.py ---
+✅ propagation_analysis.py completado
+
+--- Ejecutando trends_analysis.py ---
+✅ trends_analysis.py completado
+
+--- Ejecutando government_coverage.py ---
+✅ government_coverage.py completado
+
+🎯 Todos los CSV generados en: /home/dietpi/narrative-radar/data/processed
+[2026-03-07 10:31:11] ✅ Pipeline ejecutado correctamente
+[2026-03-07 10:31:11] 🔹 Generando PDF guía
+PDF generado correctamente por Python.
+[2026-03-07 10:31:12] ✅ PDF guía generado en data/processed/guia_dashboard.pdf
+[2026-03-07 10:31:12] 🔹 Rotando logs
+[2026-03-07 10:31:12] ✅ Logs rotados correctamente
+[2026-03-07 10:31:12] 🎯 Pipeline completo
+[2026-03-07 10:31:12] 🔹 Sincronizando con GitHub...
+[main c1a4aa9] Auto-update: Datos frescos 2026-03-07 10:31
+ 16 files changed, 646 insertions(+), 289 deletions(-)
+To https://github.com/mcasrom/narrative-radar.git
+   af0d8ce..c1a4aa9  main -> main
+[2026-03-07 10:31:13] ✅ GitHub actualizado
+[2026-03-07 11:00:01] 🔹 Inicio pipeline Narrative Radar
+[2026-03-07 11:00:01] ✅ Entorno virtual activado
+[2026-03-07 11:00:01] 🔹 Ejecutando pipeline de recolección y análisis
+[INFO] Iniciando collect_rss.py
+[INFO] 28 fuentes cargadas desde sources.yaml
+[INFO] Recolectando noticias de RSS...
+  OK elpais: 83 entradas
+  OK elmundo: 29 entradas
+  OK abc: 20 entradas
+  OK lavanguardia: 143 entradas
+  OK eldiario: 100 entradas
+  OK elconfidencial: 15 entradas
+  OK europapress: 10 entradas
+  OK 20minutos: 210 entradas
+  OK elespanol: 30 entradas
+  OK infolibre: 72 entradas
+  OK okdiario: 50 entradas
+  OK vozpopuli: 25 entradas
+  OK expansion: 76 entradas
+  OK eleconomista: 0 entradas
+  OK cinco_dias: 69 entradas
+  OK elmundo_espana: 54 entradas
+  OK maldita: 50 entradas
+  OK newtral: 10 entradas
+  OK bbc_mundo: 55 entradas
+  OK dw_es: 0 entradas
+  OK france24_es: 24 entradas
+  OK elpais_internacional: 24 entradas
+  OK elmundo_internacional: 40 entradas
+  OK google_news_es: 33 entradas
+  OK google_news_politica: 100 entradas
+  OK heraldo_aragon: 165 entradas
+  OK levante_emv: 20 entradas
+  OK el_norte_castilla: 0 entradas
+[INFO] CSV generado: /home/dietpi/narrative-radar/data/processed/news_summary.csv (2683 registros)
+[INFO] Finalizado.
+Narrativas detectadas correctamente (5 clusters, historico: 25 registros)
+CSV de emociones generado en /home/dietpi/narrative-radar/data/processed/emotions_summary.csv (6 emociones, 558 titulares con emoción detectada)
+CSV de polarización generado en /home/dietpi/narrative-radar/data/processed/polarization_summary.csv (48 días)
+CSV de red de actores generado en /home/dietpi/narrative-radar/data/processed/actors_network.csv (30 relaciones)
+CSV de propagación generado en /home/dietpi/narrative-radar/data/processed/propagation_summary.csv (145 días)
+CSV de tendencias generado en /home/dietpi/narrative-radar/data/processed/trends_summary.csv (30 keywords)
+CSV de cobertura gobierno generado en /home/dietpi/narrative-radar/data/processed/government_coverage.csv (25 fuentes)
+
+--- Ejecutando collect_rss.py ---
+✅ collect_rss.py completado
+
+--- Ejecutando detect_narratives.py ---
+✅ detect_narratives.py completado
+
+--- Ejecutando detect_emotions.py ---
+✅ detect_emotions.py completado
+
+--- Ejecutando detect_polarization.py ---
+✅ detect_polarization.py completado
+
+--- Ejecutando build_network.py ---
+✅ build_network.py completado
+
+--- Ejecutando propagation_analysis.py ---
+✅ propagation_analysis.py completado
+
+--- Ejecutando trends_analysis.py ---
+✅ trends_analysis.py completado
+
+--- Ejecutando government_coverage.py ---
+✅ government_coverage.py completado
+
+🎯 Todos los CSV generados en: /home/dietpi/narrative-radar/data/processed
+[2026-03-07 11:01:06] ✅ Pipeline ejecutado correctamente
+[2026-03-07 11:01:06] 🔹 Generando PDF guía
+PDF generado correctamente por Python.
+[2026-03-07 11:01:06] ✅ PDF guía generado en data/processed/guia_dashboard.pdf
+[2026-03-07 11:01:06] 🔹 Rotando logs
+[2026-03-07 11:01:06] ✅ Logs rotados correctamente
+[2026-03-07 11:01:06] 🎯 Pipeline completo
+[2026-03-07 11:01:06] 🔹 Sincronizando con GitHub...
+[main 838ce39] Auto-update: Datos frescos 2026-03-07 11:01
+ 16 files changed, 643 insertions(+), 289 deletions(-)
+To https://github.com/mcasrom/narrative-radar.git
+   c1a4aa9..838ce39  main -> main
+[2026-03-07 11:01:08] ✅ GitHub actualizado
+[2026-03-07 11:30:01] 🔹 Inicio pipeline Narrative Radar
+[2026-03-07 11:30:01] ✅ Entorno virtual activado
+[2026-03-07 11:30:01] 🔹 Ejecutando pipeline de recolección y análisis
+[INFO] Iniciando collect_rss.py
+[INFO] 28 fuentes cargadas desde sources.yaml
+[INFO] Recolectando noticias de RSS...
+  OK elpais: 149 entradas
+  OK elmundo: 29 entradas
+  OK abc: 20 entradas
+  OK lavanguardia: 143 entradas
+  OK eldiario: 100 entradas
+  OK elconfidencial: 15 entradas
+  OK europapress: 10 entradas
+  OK 20minutos: 210 entradas
+  OK elespanol: 30 entradas
+  OK infolibre: 72 entradas
+  OK okdiario: 50 entradas
+  OK vozpopuli: 25 entradas
+  OK expansion: 76 entradas
+  OK eleconomista: 0 entradas
+  OK cinco_dias: 69 entradas
+  OK elmundo_espana: 54 entradas
+  OK maldita: 50 entradas
+  OK newtral: 10 entradas
+  OK bbc_mundo: 55 entradas
+  OK dw_es: 0 entradas
+  OK france24_es: 24 entradas
+  OK elpais_internacional: 23 entradas
+  OK elmundo_internacional: 40 entradas
+  OK google_news_es: 32 entradas
+  OK google_news_politica: 100 entradas
+  OK heraldo_aragon: 167 entradas
+  OK levante_emv: 20 entradas
+  OK el_norte_castilla: 0 entradas
+[INFO] CSV generado: /home/dietpi/narrative-radar/data/processed/news_summary.csv (2731 registros)
+[INFO] Finalizado.
+Narrativas detectadas correctamente (5 clusters, historico: 30 registros)
+CSV de emociones generado en /home/dietpi/narrative-radar/data/processed/emotions_summary.csv (6 emociones, 568 titulares con emoción detectada)
+CSV de polarización generado en /home/dietpi/narrative-radar/data/processed/polarization_summary.csv (48 días)
+CSV de red de actores generado en /home/dietpi/narrative-radar/data/processed/actors_network.csv (30 relaciones)
+CSV de propagación generado en /home/dietpi/narrative-radar/data/processed/propagation_summary.csv (145 días)
+CSV de tendencias generado en /home/dietpi/narrative-radar/data/processed/trends_summary.csv (30 keywords)
+CSV de cobertura gobierno generado en /home/dietpi/narrative-radar/data/processed/government_coverage.csv (25 fuentes)
+
+--- Ejecutando collect_rss.py ---
+✅ collect_rss.py completado
+
+--- Ejecutando detect_narratives.py ---
+✅ detect_narratives.py completado
+
+--- Ejecutando detect_emotions.py ---
+✅ detect_emotions.py completado
+
+--- Ejecutando detect_polarization.py ---
+✅ detect_polarization.py completado
+
+--- Ejecutando build_network.py ---
+✅ build_network.py completado
+
+--- Ejecutando propagation_analysis.py ---
+✅ propagation_analysis.py completado
+
+--- Ejecutando trends_analysis.py ---
+✅ trends_analysis.py completado
+
+--- Ejecutando government_coverage.py ---
+✅ government_coverage.py completado
+
+🎯 Todos los CSV generados en: /home/dietpi/narrative-radar/data/processed
+[2026-03-07 11:31:10] ✅ Pipeline ejecutado correctamente
+[2026-03-07 11:31:10] 🔹 Generando PDF guía
+PDF generado correctamente por Python.
+[2026-03-07 11:31:11] ✅ PDF guía generado en data/processed/guia_dashboard.pdf
+[2026-03-07 11:31:11] 🔹 Rotando logs
+[2026-03-07 11:31:11] ✅ Logs rotados correctamente
+[2026-03-07 11:31:11] 🎯 Pipeline completo
+[2026-03-07 11:31:11] 🔹 Sincronizando con GitHub...
+[main 42641da] Auto-update: Datos frescos 2026-03-07 11:31
+ 16 files changed, 654 insertions(+), 289 deletions(-)
+To https://github.com/mcasrom/narrative-radar.git
+   838ce39..42641da  main -> main
+[2026-03-07 11:31:13] ✅ GitHub actualizado
+[2026-03-07 12:00:01] 🔹 Inicio pipeline Narrative Radar
+[2026-03-07 12:00:01] ✅ Entorno virtual activado
+[2026-03-07 12:00:01] 🔹 Ejecutando pipeline de recolección y análisis
+[INFO] Iniciando collect_rss.py
+[INFO] 28 fuentes cargadas desde sources.yaml
+[INFO] Recolectando noticias de RSS...
+  OK elpais: 149 entradas
+  OK elmundo: 29 entradas
+  OK abc: 20 entradas
+  OK lavanguardia: 144 entradas
+  OK eldiario: 100 entradas
+  OK elconfidencial: 15 entradas
+  OK europapress: 10 entradas
+  OK 20minutos: 209 entradas
+  OK elespanol: 30 entradas
+  OK infolibre: 72 entradas
+  OK okdiario: 50 entradas
+  OK vozpopuli: 25 entradas
+  OK expansion: 76 entradas
+  OK eleconomista: 0 entradas
+  OK cinco_dias: 69 entradas
+  OK elmundo_espana: 54 entradas
+  OK maldita: 50 entradas
+  OK newtral: 10 entradas
+  OK bbc_mundo: 55 entradas
+  OK dw_es: 0 entradas
+  OK france24_es: 24 entradas
+  OK elpais_internacional: 23 entradas
+  OK elmundo_internacional: 40 entradas
+  OK google_news_es: 32 entradas
+  OK google_news_politica: 100 entradas
+  OK heraldo_aragon: 167 entradas
+  OK levante_emv: 20 entradas
+  OK el_norte_castilla: 0 entradas
+[INFO] CSV generado: /home/dietpi/narrative-radar/data/processed/news_summary.csv (2784 registros)
+[INFO] Finalizado.
+Narrativas detectadas correctamente (5 clusters, historico: 35 registros)
+CSV de emociones generado en /home/dietpi/narrative-radar/data/processed/emotions_summary.csv (6 emociones, 578 titulares con emoción detectada)
+CSV de polarización generado en /home/dietpi/narrative-radar/data/processed/polarization_summary.csv (48 días)
+CSV de red de actores generado en /home/dietpi/narrative-radar/data/processed/actors_network.csv (30 relaciones)
+CSV de propagación generado en /home/dietpi/narrative-radar/data/processed/propagation_summary.csv (145 días)
+CSV de tendencias generado en /home/dietpi/narrative-radar/data/processed/trends_summary.csv (30 keywords)
+CSV de cobertura gobierno generado en /home/dietpi/narrative-radar/data/processed/government_coverage.csv (25 fuentes)
+
+--- Ejecutando collect_rss.py ---
+✅ collect_rss.py completado
+
+--- Ejecutando detect_narratives.py ---
+✅ detect_narratives.py completado
+
+--- Ejecutando detect_emotions.py ---
+✅ detect_emotions.py completado
+
+--- Ejecutando detect_polarization.py ---
+✅ detect_polarization.py completado
+
+--- Ejecutando build_network.py ---
+✅ build_network.py completado
+
+--- Ejecutando propagation_analysis.py ---
+✅ propagation_analysis.py completado
+
+--- Ejecutando trends_analysis.py ---
+✅ trends_analysis.py completado
+
+--- Ejecutando government_coverage.py ---
+✅ government_coverage.py completado
+
+🎯 Todos los CSV generados en: /home/dietpi/narrative-radar/data/processed
+[2026-03-07 12:01:13] ✅ Pipeline ejecutado correctamente
+[2026-03-07 12:01:13] 🔹 Generando PDF guía
+PDF generado correctamente por Python.
+[2026-03-07 12:01:13] ✅ PDF guía generado en data/processed/guia_dashboard.pdf
+[2026-03-07 12:01:13] 🔹 Rotando logs
+[2026-03-07 12:01:13] ✅ Logs rotados correctamente
+[2026-03-07 12:01:13] 🎯 Pipeline completo
+[2026-03-07 12:01:13] 🔹 Sincronizando con GitHub...
+[main 4459e47] Auto-update: Datos frescos 2026-03-07 12:01
+ 16 files changed, 659 insertions(+), 289 deletions(-)
+To https://github.com/mcasrom/narrative-radar.git
+   42641da..4459e47  main -> main
+[2026-03-07 12:01:15] ✅ GitHub actualizado
+[2026-03-07 12:30:02] 🔹 Inicio pipeline Narrative Radar
+[2026-03-07 12:30:02] ✅ Entorno virtual activado
+[2026-03-07 12:30:02] 🔹 Ejecutando pipeline de recolección y análisis
+[INFO] Iniciando collect_rss.py
+[INFO] 28 fuentes cargadas desde sources.yaml
+[INFO] Recolectando noticias de RSS...
+  OK elpais: 149 entradas
+  OK elmundo: 29 entradas
+  OK abc: 20 entradas
+  OK lavanguardia: 144 entradas
+  OK eldiario: 99 entradas
+  OK elconfidencial: 15 entradas
+  OK europapress: 10 entradas
+  OK 20minutos: 209 entradas
+  OK elespanol: 30 entradas
+  OK infolibre: 72 entradas
+  OK okdiario: 50 entradas
+  OK vozpopuli: 25 entradas
+  OK expansion: 76 entradas
+  OK eleconomista: 76 entradas
+  OK cinco_dias: 69 entradas
+  OK elmundo_espana: 54 entradas
+  OK maldita: 50 entradas
+  OK newtral: 10 entradas
+  OK bbc_mundo: 55 entradas
+  OK huffington_es: 82 entradas
+  OK france24_es: 24 entradas
+  OK elpais_internacional: 23 entradas
+  OK elmundo_internacional: 40 entradas
+  OK google_news_es: 34 entradas
+  OK google_news_politica: 100 entradas
+  OK heraldo_aragon: 168 entradas
+  OK levante_emv: 20 entradas
+  OK elcorreo: 100 entradas
+[INFO] CSV generado: /home/dietpi/narrative-radar/data/processed/news_summary.csv (3019 registros)
+[INFO] Finalizado.
+Narrativas detectadas correctamente (5 clusters, historico: 45 registros)
+CSV de emociones generado en /home/dietpi/narrative-radar/data/processed/emotions_summary.csv (6 emociones, 616 titulares con emoción detectada)
+CSV de polarización generado en /home/dietpi/narrative-radar/data/processed/polarization_summary.csv (48 días)
+CSV de red de actores generado en /home/dietpi/narrative-radar/data/processed/actors_network.csv (30 relaciones)
+CSV de propagación generado en /home/dietpi/narrative-radar/data/processed/propagation_summary.csv (147 días)
+CSV de tendencias generado en /home/dietpi/narrative-radar/data/processed/trends_summary.csv (30 keywords)
+CSV de cobertura gobierno generado en /home/dietpi/narrative-radar/data/processed/government_coverage.csv (27 fuentes)
+Keywords emergentes: 15 | Decayentes: 0
+Top emergente: quot (+1611)
 
 
-  You can now view your Streamlit app in your browser.
+--- Ejecutando collect_rss.py ---
+✅ collect_rss.py completado
 
-  Local URL: http://localhost:8501
-  Network URL: http://192.168.1.147:8501
-  External URL: http://79.116.225.98:8501
+--- Ejecutando detect_narratives.py ---
+✅ detect_narratives.py completado
 
-2026-03-06 22:51:38.937 Please replace `use_container_width` with `width`.
+--- Ejecutando detect_emotions.py ---
+✅ detect_emotions.py completado
 
-`use_container_width` will be removed after 2025-12-31.
+--- Ejecutando detect_polarization.py ---
+✅ detect_polarization.py completado
 
-For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
-2026-03-06 22:51:38.950 Please replace `use_container_width` with `width`.
+--- Ejecutando build_network.py ---
+✅ build_network.py completado
 
-`use_container_width` will be removed after 2025-12-31.
+--- Ejecutando propagation_analysis.py ---
+✅ propagation_analysis.py completado
 
-For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
-2026-03-06 22:51:39.221 Please replace `use_container_width` with `width`.
+--- Ejecutando trends_analysis.py ---
+✅ trends_analysis.py completado
 
-`use_container_width` will be removed after 2025-12-31.
+--- Ejecutando government_coverage.py ---
+✅ government_coverage.py completado
 
-For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
-2026-03-06 22:51:39.235 Please replace `use_container_width` with `width`.
+--- Ejecutando keywords_analysis.py ---
+✅ keywords_analysis.py completado
 
-`use_container_width` will be removed after 2025-12-31.
+🎯 Todos los CSV generados en: /home/dietpi/narrative-radar/data/processed
+[2026-03-07 12:31:18] ✅ Pipeline ejecutado correctamente
+[2026-03-07 12:31:18] 🔹 Generando PDF guía
+PDF generado correctamente por Python.
+[2026-03-07 12:31:18] ✅ PDF guía generado en data/processed/guia_dashboard.pdf
+[2026-03-07 12:31:18] 🔹 Rotando logs
+[2026-03-07 12:31:18] ✅ Logs rotados correctamente
+[2026-03-07 12:31:18] 🎯 Pipeline completo
+[2026-03-07 12:31:18] 🔹 Sincronizando con GitHub...
+[main e9ab4a4] Auto-update: Datos frescos 2026-03-07 12:31
+ 18 files changed, 1181 insertions(+), 308 deletions(-)
+To https://github.com/mcasrom/narrative-radar.git
+   ebbb915..e9ab4a4  main -> main
+[2026-03-07 12:31:20] ✅ GitHub actualizado
+[2026-03-07 13:00:02] 🔹 Inicio pipeline Narrative Radar
+[2026-03-07 13:00:02] ✅ Entorno virtual activado
+[2026-03-07 13:00:02] 🔹 Ejecutando pipeline de recolección y análisis
+[INFO] Iniciando collect_rss.py
+[INFO] 28 fuentes cargadas desde sources.yaml
+[INFO] Recolectando noticias de RSS...
+  OK elpais: 149 entradas
+  OK elmundo: 29 entradas
+  OK abc: 20 entradas
+  OK lavanguardia: 144 entradas
+  OK eldiario: 99 entradas
+  OK elconfidencial: 15 entradas
+  OK europapress: 10 entradas
+  OK 20minutos: 210 entradas
+  OK elespanol: 30 entradas
+  OK infolibre: 72 entradas
+  OK okdiario: 50 entradas
+  OK vozpopuli: 25 entradas
+  OK expansion: 76 entradas
+  OK eleconomista: 76 entradas
+  OK cinco_dias: 69 entradas
+  OK elmundo_espana: 54 entradas
+  OK maldita: 50 entradas
+  OK newtral: 10 entradas
+  OK bbc_mundo: 55 entradas
+  OK huffington_es: 79 entradas
+  OK france24_es: 24 entradas
+  OK elpais_internacional: 23 entradas
+  OK elmundo_internacional: 40 entradas
+  OK google_news_es: 34 entradas
+  OK google_news_politica: 100 entradas
+  OK heraldo_aragon: 168 entradas
+  OK levante_emv: 20 entradas
+  OK elcorreo: 100 entradas
+[INFO] CSV generado: /home/dietpi/narrative-radar/data/processed/news_summary.csv (3069 registros)
+[INFO] Finalizado.
+Narrativas detectadas correctamente (5 clusters, historico: 55 registros)
+CSV de emociones generado en /home/dietpi/narrative-radar/data/processed/emotions_summary.csv (6 emociones, 636 titulares con emoción detectada)
+CSV de polarización generado en /home/dietpi/narrative-radar/data/processed/polarization_summary.csv (48 días)
+CSV de red de actores generado en /home/dietpi/narrative-radar/data/processed/actors_network.csv (30 relaciones)
+CSV de propagación generado en /home/dietpi/narrative-radar/data/processed/propagation_summary.csv (147 días)
+CSV de tendencias generado en /home/dietpi/narrative-radar/data/processed/trends_summary.csv (30 keywords)
+CSV de cobertura gobierno generado en /home/dietpi/narrative-radar/data/processed/government_coverage.csv (27 fuentes)
+Keywords emergentes: 15 | Decayentes: 6
+Top emergente: quot (+337)
+Top decayente: así (-33)
+PDF generado: /home/dietpi/narrative-radar/data/processed/guia_dashboard.pdf
+Archivado en: /home/dietpi/narrative-radar/data/processed/guia_history/guia_20260307_1301.pdf
 
-For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
-2026-03-06 22:51:39.382 Please replace `use_container_width` with `width`.
+--- Ejecutando collect_rss.py ---
+✅ collect_rss.py completado
 
-`use_container_width` will be removed after 2025-12-31.
+--- Ejecutando detect_narratives.py ---
+✅ detect_narratives.py completado
 
-For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
-2026-03-06 22:51:39.391 Please replace `use_container_width` with `width`.
+--- Ejecutando detect_emotions.py ---
+✅ detect_emotions.py completado
 
-`use_container_width` will be removed after 2025-12-31.
+--- Ejecutando detect_polarization.py ---
+✅ detect_polarization.py completado
 
-For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
-2026-03-06 22:51:39.650 Please replace `use_container_width` with `width`.
+--- Ejecutando build_network.py ---
+✅ build_network.py completado
 
-`use_container_width` will be removed after 2025-12-31.
+--- Ejecutando propagation_analysis.py ---
+✅ propagation_analysis.py completado
 
-For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
-2026-03-06 22:51:39.665 Please replace `use_container_width` with `width`.
+--- Ejecutando trends_analysis.py ---
+✅ trends_analysis.py completado
 
-`use_container_width` will be removed after 2025-12-31.
+--- Ejecutando government_coverage.py ---
+✅ government_coverage.py completado
 
-For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
-2026-03-06 22:51:39.816 Please replace `use_container_width` with `width`.
+--- Ejecutando keywords_analysis.py ---
+✅ keywords_analysis.py completado
 
-`use_container_width` will be removed after 2025-12-31.
+--- Ejecutando generate_guide_pdf.py ---
+✅ generate_guide_pdf.py completado
 
-For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
-2026-03-06 22:51:39.825 Please replace `use_container_width` with `width`.
+🎯 Todos los CSV generados en: /home/dietpi/narrative-radar/data/processed
+[2026-03-07 13:01:17] ✅ Pipeline ejecutado correctamente
+[2026-03-07 13:01:17] 🔹 Generando PDF guía
+PDF generado correctamente por Python.
+[2026-03-07 13:01:18] ✅ PDF guía generado en data/processed/guia_dashboard.pdf
+[2026-03-07 13:01:18] 🔹 Rotando logs
+[2026-03-07 13:01:18] ✅ Logs rotados correctamente
+[2026-03-07 13:01:18] 🎯 Pipeline completo
+[2026-03-07 13:01:18] 🔹 Sincronizando con GitHub...
+[main e17e741] Auto-update: Datos frescos 2026-03-07 13:01
+ 21 files changed, 741 insertions(+), 319 deletions(-)
+ create mode 100644 data/processed/disinfo_alerts.csv
+ create mode 100644 data/processed/disinfo_bulos.csv
+ create mode 100644 data/processed/disinfo_history.csv
+To https://github.com/mcasrom/narrative-radar.git
+   333c49e..e17e741  main -> main
+[2026-03-07 13:01:20] ✅ GitHub actualizado
+[2026-03-07 13:30:01] 🔹 Inicio pipeline Narrative Radar
+[2026-03-07 13:30:01] ✅ Entorno virtual activado
+[2026-03-07 13:30:01] 🔹 Ejecutando pipeline de recolección y análisis
+[INFO] Iniciando collect_rss.py
+[INFO] 28 fuentes cargadas desde sources.yaml
+[INFO] Recolectando noticias de RSS...
+  OK elpais: 149 entradas
+  OK elmundo: 29 entradas
+  OK abc: 20 entradas
+  OK lavanguardia: 144 entradas
+  OK eldiario: 99 entradas
+  OK elconfidencial: 15 entradas
+  OK europapress: 10 entradas
+  OK 20minutos: 210 entradas
+  OK elespanol: 30 entradas
+  OK infolibre: 73 entradas
+  OK okdiario: 50 entradas
+  OK vozpopuli: 25 entradas
+  OK expansion: 76 entradas
+  OK eleconomista: 76 entradas
+  OK cinco_dias: 69 entradas
+  OK elmundo_espana: 54 entradas
+  OK maldita: 50 entradas
+  OK newtral: 10 entradas
+  OK bbc_mundo: 55 entradas
+  OK huffington_es: 78 entradas
+  OK france24_es: 24 entradas
+  OK elpais_internacional: 23 entradas
+  OK elmundo_internacional: 40 entradas
+  OK google_news_es: 34 entradas
+  OK google_news_politica: 100 entradas
+  OK heraldo_aragon: 169 entradas
+  OK levante_emv: 20 entradas
+  OK elcorreo: 100 entradas
+[INFO] CSV generado: /home/dietpi/narrative-radar/data/processed/news_summary.csv (3131 registros)
+[INFO] Finalizado.
+Narrativas detectadas correctamente (5 clusters, historico: 60 registros)
+CSV de emociones generado en /home/dietpi/narrative-radar/data/processed/emotions_summary.csv (6 emociones, 650 titulares con emoción detectada)
+CSV de polarización generado en /home/dietpi/narrative-radar/data/processed/polarization_summary.csv (48 días)
+CSV de red de actores generado en /home/dietpi/narrative-radar/data/processed/actors_network.csv (30 relaciones)
+CSV de propagación generado en /home/dietpi/narrative-radar/data/processed/propagation_summary.csv (147 días)
+CSV de tendencias generado en /home/dietpi/narrative-radar/data/processed/trends_summary.csv (30 keywords)
+CSV de cobertura gobierno generado en /home/dietpi/narrative-radar/data/processed/government_coverage.csv (27 fuentes)
+Keywords emergentes: 15 | Decayentes: 3
+Top emergente: guerra (+292)
+Top decayente: quot (-46)
+PDF generado: /home/dietpi/narrative-radar/data/processed/guia_dashboard.pdf
+Archivado en: /home/dietpi/narrative-radar/data/processed/guia_history/guia_20260307_1331.pdf
 
-`use_container_width` will be removed after 2025-12-31.
+--- Ejecutando collect_rss.py ---
+✅ collect_rss.py completado
 
-For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
-2026-03-06 22:51:39.984 Please replace `use_container_width` with `width`.
+--- Ejecutando detect_narratives.py ---
+✅ detect_narratives.py completado
 
-`use_container_width` will be removed after 2025-12-31.
+--- Ejecutando detect_emotions.py ---
+✅ detect_emotions.py completado
 
-For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
-2026-03-06 22:51:39.993 Please replace `use_container_width` with `width`.
+--- Ejecutando detect_polarization.py ---
+✅ detect_polarization.py completado
 
-`use_container_width` will be removed after 2025-12-31.
+--- Ejecutando build_network.py ---
+✅ build_network.py completado
 
-For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
-2026-03-06 22:51:40.177 Please replace `use_container_width` with `width`.
+--- Ejecutando propagation_analysis.py ---
+✅ propagation_analysis.py completado
 
-`use_container_width` will be removed after 2025-12-31.
+--- Ejecutando trends_analysis.py ---
+✅ trends_analysis.py completado
 
-For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
-2026-03-06 22:51:40.188 Please replace `use_container_width` with `width`.
+--- Ejecutando government_coverage.py ---
+✅ government_coverage.py completado
 
-`use_container_width` will be removed after 2025-12-31.
+--- Ejecutando keywords_analysis.py ---
+✅ keywords_analysis.py completado
 
-For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
-2026-03-06 22:51:40.345 Please replace `use_container_width` with `width`.
+--- Ejecutando generate_guide_pdf.py ---
+✅ generate_guide_pdf.py completado
 
-`use_container_width` will be removed after 2025-12-31.
+🎯 Todos los CSV generados en: /home/dietpi/narrative-radar/data/processed
+[2026-03-07 13:31:18] ✅ Pipeline ejecutado correctamente
+[2026-03-07 13:31:18] 🔹 Generando PDF guía
+PDF generado correctamente por Python.
+[2026-03-07 13:31:19] ✅ PDF guía generado en data/processed/guia_dashboard.pdf
+[2026-03-07 13:31:19] 🔹 Rotando logs
+[2026-03-07 13:31:19] ✅ Logs rotados correctamente
+[2026-03-07 13:31:19] 🎯 Pipeline completo
+[2026-03-07 13:31:19] 🔹 Sincronizando con GitHub...
+[main 017abbc] Auto-update: Datos frescos 2026-03-07 13:31
+ 18 files changed, 694 insertions(+), 314 deletions(-)
+To https://github.com/mcasrom/narrative-radar.git
+   e17e741..017abbc  main -> main
+[2026-03-07 13:31:21] ✅ GitHub actualizado
+[2026-03-07 14:00:02] 🔹 Inicio pipeline Narrative Radar
+[2026-03-07 14:00:02] ✅ Entorno virtual activado
+[2026-03-07 14:00:02] 🔹 Ejecutando pipeline de recolección y análisis
+[INFO] Iniciando collect_rss.py
+[INFO] 28 fuentes cargadas desde sources.yaml
+[INFO] Recolectando noticias de RSS...
+  OK elpais: 149 entradas
+  OK elmundo: 29 entradas
+  OK abc: 20 entradas
+  OK lavanguardia: 145 entradas
+  OK eldiario: 101 entradas
+  OK elconfidencial: 15 entradas
+  OK europapress: 10 entradas
+  OK 20minutos: 210 entradas
+  OK elespanol: 30 entradas
+  OK infolibre: 73 entradas
+  OK okdiario: 50 entradas
+  OK vozpopuli: 25 entradas
+  OK expansion: 76 entradas
+  OK eleconomista: 76 entradas
+  OK cinco_dias: 69 entradas
+  OK elmundo_espana: 54 entradas
+  OK maldita: 50 entradas
+  OK newtral: 10 entradas
+  OK bbc_mundo: 55 entradas
+  OK huffington_es: 79 entradas
+  OK france24_es: 24 entradas
+  OK elpais_internacional: 23 entradas
+  OK elmundo_internacional: 40 entradas
+  OK google_news_es: 34 entradas
+  OK google_news_politica: 100 entradas
+  OK heraldo_aragon: 169 entradas
+  OK levante_emv: 20 entradas
+  OK elcorreo: 100 entradas
+[INFO] CSV generado: /home/dietpi/narrative-radar/data/processed/news_summary.csv (3176 registros)
+[INFO] Finalizado.
+Narrativas detectadas correctamente (5 clusters, historico: 65 registros)
+CSV de emociones generado en /home/dietpi/narrative-radar/data/processed/emotions_summary.csv (6 emociones, 659 titulares con emoción detectada)
+CSV de polarización generado en /home/dietpi/narrative-radar/data/processed/polarization_summary.csv (48 días)
+CSV de red de actores generado en /home/dietpi/narrative-radar/data/processed/actors_network.csv (30 relaciones)
+CSV de propagación generado en /home/dietpi/narrative-radar/data/processed/propagation_summary.csv (147 días)
+CSV de tendencias generado en /home/dietpi/narrative-radar/data/processed/trends_summary.csv (30 keywords)
+CSV de cobertura gobierno generado en /home/dietpi/narrative-radar/data/processed/government_coverage.csv (27 fuentes)
+Keywords emergentes: 15 | Decayentes: 1
+Top emergente: quot (+336)
+Top decayente: país (-32)
+PDF generado: /home/dietpi/narrative-radar/data/processed/guia_dashboard.pdf
+Archivado en: /home/dietpi/narrative-radar/data/processed/guia_history/guia_20260307_1401.pdf
 
-For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
-2026-03-06 22:51:40.354 Please replace `use_container_width` with `width`.
+--- Ejecutando collect_rss.py ---
+✅ collect_rss.py completado
 
-`use_container_width` will be removed after 2025-12-31.
+--- Ejecutando detect_narratives.py ---
+✅ detect_narratives.py completado
 
-For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
-2026-03-06 22:51:40.609 Please replace `use_container_width` with `width`.
+--- Ejecutando detect_emotions.py ---
+✅ detect_emotions.py completado
 
-`use_container_width` will be removed after 2025-12-31.
+--- Ejecutando detect_polarization.py ---
+✅ detect_polarization.py completado
 
-For `use_container_width=True`, use `width='stretch'`. For `use_container_width=False`, use `width='content'`.
-  Stopping...
+--- Ejecutando build_network.py ---
+✅ build_network.py completado
+
+--- Ejecutando propagation_analysis.py ---
+✅ propagation_analysis.py completado
+
+--- Ejecutando trends_analysis.py ---
+✅ trends_analysis.py completado
+
+--- Ejecutando government_coverage.py ---
+✅ government_coverage.py completado
+
+--- Ejecutando keywords_analysis.py ---
+✅ keywords_analysis.py completado
+
+--- Ejecutando generate_guide_pdf.py ---
+✅ generate_guide_pdf.py completado
+
+🎯 Todos los CSV generados en: /home/dietpi/narrative-radar/data/processed
+[2026-03-07 14:01:18] ✅ Pipeline ejecutado correctamente
+[2026-03-07 14:01:18] 🔹 Generando PDF guía
+PDF generado correctamente por Python.
+[2026-03-07 14:01:18] ✅ PDF guía generado en data/processed/guia_dashboard.pdf
+[2026-03-07 14:01:18] 🔹 Rotando logs
+[2026-03-07 14:01:18] ✅ Logs rotados correctamente
+[2026-03-07 14:01:18] 🎯 Pipeline completo
+[2026-03-07 14:01:18] 🔹 Sincronizando con GitHub...
+[main 453b32e] Auto-update: Datos frescos 2026-03-07 14:01
+ 18 files changed, 675 insertions(+), 311 deletions(-)
+To https://github.com/mcasrom/narrative-radar.git
+   017abbc..453b32e  main -> main
+[2026-03-07 14:01:20] ✅ GitHub actualizado
+[2026-03-07 14:30:01] 🔹 Inicio pipeline Narrative Radar
+[2026-03-07 14:30:01] ✅ Entorno virtual activado
+[2026-03-07 14:30:01] 🔹 Ejecutando pipeline de recolección y análisis
+[INFO] Iniciando collect_rss.py
+[INFO] 28 fuentes cargadas desde sources.yaml
+[INFO] Recolectando noticias de RSS...
+  OK elpais: 150 entradas
+  OK elmundo: 28 entradas
+  OK abc: 20 entradas
+  OK lavanguardia: 146 entradas
+  OK eldiario: 101 entradas
+  OK elconfidencial: 15 entradas
+  OK europapress: 10 entradas
+  OK 20minutos: 210 entradas
+  OK elespanol: 30 entradas
+  OK infolibre: 73 entradas
+  OK okdiario: 50 entradas
+  OK vozpopuli: 25 entradas
+  OK expansion: 76 entradas
+  OK eleconomista: 76 entradas
+  OK cinco_dias: 69 entradas
+  OK elmundo_espana: 54 entradas
+  OK maldita: 50 entradas
+  OK newtral: 10 entradas
+  OK bbc_mundo: 55 entradas
+  OK huffington_es: 79 entradas
+  OK france24_es: 24 entradas
+  OK elpais_internacional: 23 entradas
+  OK elmundo_internacional: 40 entradas
+  OK google_news_es: 34 entradas
+  OK google_news_politica: 100 entradas
+  OK heraldo_aragon: 169 entradas
+  OK levante_emv: 20 entradas
+  OK elcorreo: 100 entradas
+[INFO] CSV generado: /home/dietpi/narrative-radar/data/processed/news_summary.csv (3231 registros)
+[INFO] Finalizado.
+Narrativas detectadas correctamente (5 clusters, historico: 70 registros)
+CSV de emociones generado en /home/dietpi/narrative-radar/data/processed/emotions_summary.csv (6 emociones, 672 titulares con emoción detectada)
+CSV de polarización generado en /home/dietpi/narrative-radar/data/processed/polarization_summary.csv (48 días)
+CSV de red de actores generado en /home/dietpi/narrative-radar/data/processed/actors_network.csv (30 relaciones)
+CSV de propagación generado en /home/dietpi/narrative-radar/data/processed/propagation_summary.csv (149 días)
+CSV de tendencias generado en /home/dietpi/narrative-radar/data/processed/trends_summary.csv (30 keywords)
+CSV de cobertura gobierno generado en /home/dietpi/narrative-radar/data/processed/government_coverage.csv (27 fuentes)
+Keywords emergentes: 15 | Decayentes: 1
+Top emergente: nuevo (+214)
+Top decayente: ante (-27)
+PDF generado: /home/dietpi/narrative-radar/data/processed/guia_dashboard.pdf
+Archivado en: /home/dietpi/narrative-radar/data/processed/guia_history/guia_20260307_1431.pdf
+[DISINFO] 2026-03-07 14:31 — Iniciando detector
+[DISINFO] 3231 noticias cargadas
+[DISINFO] 16 bulos maldita
+[DISINFO] 5 bulos newtral
+[DISINFO] 21 bulos totales
+[DISINFO] 4 alertas generadas
+[DISINFO] Historico: 32 alertas acumuladas
+[DISINFO] Email enviado (4 alto riesgo)
+[DISINFO] Completado.
+[COORD] 2026-03-07 14:31 — Iniciando detector de narrativas coordinadas
+[COORD] 2830 noticias recientes (3 días)
+[COORD] Analizando 36 ventanas de 2h...
+[COORD] 13 narrativas coordinadas detectadas
+[COORD] Histórico: 13 eventos acumulados
+[COORD] Email enviado (7 alto score)
+
+Top 5 narrativas coordinadas:
+  [Score:79] 6 fuentes | 2026-03-06 06:00:00
+    Vox expulsa definitivamente a Ortega Smith y abre expediente a Antelo
+    Fuentes: elconfidencial, eldiario, elmundo_espana, elpais, google_news_politica, infolibre
+  [Score:67] 4 fuentes | 2026-03-06 16:00:00
+    La Audiencia Nacional rechaza una denuncia contra Puente por el accidente de Ada
+    Fuentes: elconfidencial, elpais, heraldo_aragon, lavanguardia
+  [Score:57] 4 fuentes | 2026-03-06 18:00:00
+    El PSOE expulsa al alcalde de Almussafes (Valencia) que fue denunciado por acoso
+    Fuentes: elmundo, huffington_es, infolibre, lavanguardia
+  [Score:54] 3 fuentes | 2026-03-06 16:00:00
+    El Gobierno de Trump dice que no puede devolver el dinero de los aranceles
+    Fuentes: elespanol, google_news_es, infolibre
+  [Score:51] 4 fuentes | 2026-03-07 08:00:00
+    La Policía Nacional detiene en Madrid a dos expertos en artes marciales por su v
+    Fuentes: elespanol, elmundo, lavanguardia, levante_emv
+[COORD] Completado.
+[AGENDA] 2026-03-07 14:31 — Iniciando score de agenda-setting
+[AGENDA] 2830 noticias recientes (3 días)
+[AGENDA] 179 temas analizados
+[AGENDA] Score calculado para 24 fuentes
+
+=== RANKING AGENDA-SETTING ===
+   75.0% | Marcador de agenda     | france24_es
+   68.8% | Marcador de agenda     | huffington_es
+   66.7% | Marcador de agenda     | newtral
+   62.1% | Marcador de agenda     | google_news_es
+   57.1% | Marcador de agenda     | elmundo_espana
+   57.1% | Marcador de agenda     | europapress
+   54.5% | Marcador de agenda     | google_news_politica
+   47.6% | Marcador de agenda     | lavanguardia
+   45.5% | Marcador de agenda     | elespanol
+   41.9% | Marcador de agenda     | eldiario
+[AGENDA] Completado.
+
+--- Ejecutando collect_rss.py ---
+✅ collect_rss.py completado
+
+--- Ejecutando detect_narratives.py ---
+✅ detect_narratives.py completado
+
+--- Ejecutando detect_emotions.py ---
+✅ detect_emotions.py completado
+
+--- Ejecutando detect_polarization.py ---
+✅ detect_polarization.py completado
+
+--- Ejecutando build_network.py ---
+✅ build_network.py completado
+
+--- Ejecutando propagation_analysis.py ---
+✅ propagation_analysis.py completado
+
+--- Ejecutando trends_analysis.py ---
+✅ trends_analysis.py completado
+
+--- Ejecutando government_coverage.py ---
+✅ government_coverage.py completado
+
+--- Ejecutando keywords_analysis.py ---
+✅ keywords_analysis.py completado
+
+--- Ejecutando generate_guide_pdf.py ---
+✅ generate_guide_pdf.py completado
+
+--- Ejecutando detect_disinfo.py ---
+✅ detect_disinfo.py completado
+
+--- Ejecutando detect_coordination.py ---
+✅ detect_coordination.py completado
+
+--- Ejecutando agenda_setting.py ---
+✅ agenda_setting.py completado
+
+🎯 Todos los CSV generados en: /home/dietpi/narrative-radar/data/processed
+[2026-03-07 14:31:55] ✅ Pipeline ejecutado correctamente
+[2026-03-07 14:31:55] 🔹 Generando PDF guía
+PDF generado correctamente por Python.
+[2026-03-07 14:31:56] ✅ PDF guía generado en data/processed/guia_dashboard.pdf
+[2026-03-07 14:31:56] 🔹 Rotando logs
+[2026-03-07 14:31:56] ✅ Logs rotados correctamente
+[2026-03-07 14:31:56] 🎯 Pipeline completo
+[2026-03-07 14:31:56] 🔹 Sincronizando con GitHub...
+[main e7d7ae6] Auto-update: Datos frescos 2026-03-07 14:31
+ 25 files changed, 792 insertions(+), 382 deletions(-)
+To https://github.com/mcasrom/narrative-radar.git
+   a311f3d..e7d7ae6  main -> main
+[2026-03-07 14:31:58] ✅ GitHub actualizado
+[2026-03-07 15:00:01] 🔹 Inicio pipeline Narrative Radar
+[2026-03-07 15:00:01] ✅ Entorno virtual activado
+[2026-03-07 15:00:01] 🔹 Ejecutando pipeline de recolección y análisis
+[INFO] Iniciando collect_rss.py
+[INFO] 28 fuentes cargadas desde sources.yaml
+[INFO] Recolectando noticias de RSS...
+  OK elpais: 150 entradas
+  OK elmundo: 28 entradas
+  OK abc: 20 entradas
+  OK lavanguardia: 145 entradas
+  OK eldiario: 100 entradas
+  OK elconfidencial: 15 entradas
+  OK europapress: 10 entradas
+  OK 20minutos: 210 entradas
+  OK elespanol: 30 entradas
+  OK infolibre: 73 entradas
+  OK okdiario: 50 entradas
+  OK vozpopuli: 25 entradas
+  OK expansion: 76 entradas
+  OK eleconomista: 76 entradas
+  OK cinco_dias: 69 entradas
+  OK elmundo_espana: 54 entradas
+  OK maldita: 50 entradas
+  OK newtral: 10 entradas
+  OK bbc_mundo: 55 entradas
+  OK huffington_es: 79 entradas
+  OK france24_es: 24 entradas
+  OK elpais_internacional: 23 entradas
+  OK elmundo_internacional: 40 entradas
+  OK google_news_es: 34 entradas
+  OK google_news_politica: 100 entradas
+  OK heraldo_aragon: 165 entradas
+  OK levante_emv: 20 entradas
+  OK elcorreo: 100 entradas
+[INFO] CSV generado: /home/dietpi/narrative-radar/data/processed/news_summary.csv (3291 registros)
+[INFO] Finalizado.
+Narrativas detectadas correctamente (5 clusters, historico: 75 registros)
+CSV de emociones generado en /home/dietpi/narrative-radar/data/processed/emotions_summary.csv (6 emociones, 688 titulares con emoción detectada)
+CSV de polarización generado en /home/dietpi/narrative-radar/data/processed/polarization_summary.csv (48 días)
+CSV de red de actores generado en /home/dietpi/narrative-radar/data/processed/actors_network.csv (30 relaciones)
+CSV de propagación generado en /home/dietpi/narrative-radar/data/processed/propagation_summary.csv (151 días)
+CSV de tendencias generado en /home/dietpi/narrative-radar/data/processed/trends_summary.csv (30 keywords)
+CSV de cobertura gobierno generado en /home/dietpi/narrative-radar/data/processed/government_coverage.csv (27 fuentes)
+Keywords emergentes: 15 | Decayentes: 4
+Top emergente: quot (+449)
+Top decayente: años (-95)
+PDF generado: /home/dietpi/narrative-radar/data/processed/guia_dashboard.pdf
+Archivado en: /home/dietpi/narrative-radar/data/processed/guia_history/guia_20260307_1501.pdf
+[DISINFO] 2026-03-07 15:01 — Iniciando detector
+[DISINFO] 3291 noticias cargadas
+[DISINFO] 16 bulos maldita
+[DISINFO] 5 bulos newtral
+[DISINFO] 21 bulos totales
+[DISINFO] 1 alertas generadas
+[DISINFO] Historico: 32 alertas acumuladas
+[DISINFO] Email enviado (1 alto riesgo)
+[DISINFO] Completado.
+[COORD] 2026-03-07 15:01 — Iniciando detector de narrativas coordinadas
+[COORD] 2884 noticias recientes (3 días)
+[COORD] Analizando 36 ventanas de 2h...
+[COORD] 13 narrativas coordinadas detectadas
+[COORD] Histórico: 13 eventos acumulados
+[COORD] Email enviado (7 alto score)
+
+Top 5 narrativas coordinadas:
+  [Score:79] 6 fuentes | 2026-03-06 06:00:00
+    Vox expulsa definitivamente a Ortega Smith y abre expediente a Antelo
+    Fuentes: elconfidencial, eldiario, elmundo_espana, elpais, google_news_politica, infolibre
+  [Score:67] 4 fuentes | 2026-03-06 16:00:00
+    La Audiencia Nacional rechaza una denuncia contra Puente por el accidente de Ada
+    Fuentes: elconfidencial, elpais, heraldo_aragon, lavanguardia
+  [Score:57] 4 fuentes | 2026-03-06 18:00:00
+    El PSOE expulsa al alcalde de Almussafes (Valencia) que fue denunciado por acoso
+    Fuentes: elmundo, huffington_es, infolibre, lavanguardia
+  [Score:54] 3 fuentes | 2026-03-06 16:00:00
+    El Gobierno de Trump dice que no puede devolver el dinero de los aranceles
+    Fuentes: elespanol, google_news_es, infolibre
+  [Score:51] 4 fuentes | 2026-03-07 08:00:00
+    La Policía Nacional detiene en Madrid a dos expertos en artes marciales por su v
+    Fuentes: elespanol, elmundo, lavanguardia, levante_emv
+[COORD] Completado.
+[AGENDA] 2026-03-07 15:01 — Iniciando score de agenda-setting
+[AGENDA] 2884 noticias recientes (3 días)
+[AGENDA] 183 temas analizados
+[AGENDA] Score calculado para 24 fuentes
+
+=== RANKING AGENDA-SETTING ===
+   66.7% | Marcador de agenda     | google_news_es
+   66.7% | Marcador de agenda     | newtral
+   62.5% | Marcador de agenda     | france24_es
+   57.1% | Marcador de agenda     | europapress
+   57.1% | Marcador de agenda     | huffington_es
+   52.4% | Marcador de agenda     | lavanguardia
+   50.0% | Marcador de agenda     | elmundo
+   45.5% | Marcador de agenda     | google_news_politica
+   45.2% | Marcador de agenda     | eldiario
+   42.9% | Marcador de agenda     | elmundo_espana
+[AGENDA] Completado.
+[SENTIMENT] 2026-03-07 15:02 — Iniciando análisis de sentimiento NLP
+[SENTIMENT] 3291 noticias cargadas
+[SENTIMENT] 3291 titulares analizados en 3.55s
+
+=== DISTRIBUCIÓN DE SENTIMIENTO ===
+  neutral     2486 ( 75.5%) █████████████████████████
+  negativo     555 ( 16.9%) █████
+  positivo     250 (  7.6%) ██
+
+=== TOP 5 FUENTES MÁS NEGATIVAS ===
+   57.1% negativo | europapress
+   42.3% negativo | elpais_internacional
+   35.0% negativo | elmundo_internacional
+   34.5% negativo | elmundo_espana
+   30.2% negativo | elconfidencial
+
+=== TOP 5 FUENTES MÁS POSITIVAS ===
+   16.0% positivo | maldita
+   15.4% positivo | newtral
+   14.6% positivo | huffington_es
+   13.7% positivo | expansion
+   13.0% positivo | cinco_dias
+
+[SENTIMENT] Completado.
+[GEO] 2026-03-07 15:02 — Iniciando análisis geográfico
+[GEO] 3291 noticias analizadas
+
+=== MENCIONES POR CCAA ===
+  Aragón                     123 ████████████████████████
+  Madrid                     118 ███████████████████████
+  Cataluña                    72 ██████████████
+  Andalucía                   59 ███████████
+  Castilla y León             37 ███████
+  Comunidad Valenciana        34 ██████
+  Baleares                    28 █████
+  Cantabria                   23 ████
+  Extremadura                 22 ████
+  Galicia                     21 ████
+  País Vasco                  20 ████
+  Murcia                      14 ██
+  Castilla-La Mancha          11 ██
+  Canarias                     8 █
+  Asturias                     5 █
+  Navarra                      4 
+  Ceuta                        4 
+  La Rioja                     2 
+
+[GEO] Completado — 605 menciones totales
+
+--- Ejecutando collect_rss.py ---
+✅ collect_rss.py completado
+
+--- Ejecutando detect_narratives.py ---
+✅ detect_narratives.py completado
+
+--- Ejecutando detect_emotions.py ---
+✅ detect_emotions.py completado
+
+--- Ejecutando detect_polarization.py ---
+✅ detect_polarization.py completado
+
+--- Ejecutando build_network.py ---
+✅ build_network.py completado
+
+--- Ejecutando propagation_analysis.py ---
+✅ propagation_analysis.py completado
+
+--- Ejecutando trends_analysis.py ---
+✅ trends_analysis.py completado
+
+--- Ejecutando government_coverage.py ---
+✅ government_coverage.py completado
+
+--- Ejecutando keywords_analysis.py ---
+✅ keywords_analysis.py completado
+
+--- Ejecutando generate_guide_pdf.py ---
+✅ generate_guide_pdf.py completado
+
+--- Ejecutando detect_disinfo.py ---
+✅ detect_disinfo.py completado
+
+--- Ejecutando detect_coordination.py ---
+✅ detect_coordination.py completado
+
+--- Ejecutando agenda_setting.py ---
+✅ agenda_setting.py completado
+
+--- Ejecutando detect_sentiment_nlp.py ---
+✅ detect_sentiment_nlp.py completado
+
+--- Ejecutando geo_analysis.py ---
+✅ geo_analysis.py completado
+
+🎯 Todos los CSV generados en: /home/dietpi/narrative-radar/data/processed
+[2026-03-07 15:02:09] ✅ Pipeline ejecutado correctamente
+[2026-03-07 15:02:09] 🔹 Generando PDF guía
+PDF generado correctamente por Python.
+[2026-03-07 15:02:10] ✅ PDF guía generado en data/processed/guia_dashboard.pdf
+[2026-03-07 15:02:10] 🔹 Rotando logs
+[2026-03-07 15:02:10] ✅ Logs rotados correctamente
+[2026-03-07 15:02:10] 🎯 Pipeline completo
+[2026-03-07 15:02:10] 🔹 Sincronizando con GitHub...
+[main 184b2fb] Auto-update: Datos frescos 2026-03-07 15:02
+ 32 files changed, 912 insertions(+), 417 deletions(-)
+ create mode 100644 data/processed/geo_history.csv
+ create mode 100644 data/processed/geo_summary.csv
+ create mode 100644 data/processed/viral_history.csv
+ create mode 100644 data/processed/viral_topics.csv
+To https://github.com/mcasrom/narrative-radar.git
+   a859bed..184b2fb  main -> main
+[2026-03-07 15:02:12] ✅ GitHub actualizado
+[2026-03-07 15:30:01] 🔹 Inicio pipeline Narrative Radar
+[2026-03-07 15:30:01] ✅ Entorno virtual activado
+[2026-03-07 15:30:01] 🔹 Ejecutando pipeline de recolección y análisis
+[INFO] Iniciando collect_rss.py
+[INFO] 28 fuentes cargadas desde sources.yaml
+[INFO] Recolectando noticias de RSS...
+  OK elpais: 149 entradas
+  OK elmundo: 28 entradas
+  OK abc: 20 entradas
+  OK lavanguardia: 146 entradas
+  OK eldiario: 99 entradas
+  OK elconfidencial: 15 entradas
+  OK europapress: 10 entradas
+  OK 20minutos: 210 entradas
+  OK elespanol: 30 entradas
+  OK infolibre: 72 entradas
+  OK okdiario: 50 entradas
+  OK vozpopuli: 25 entradas
+  OK expansion: 76 entradas
+  OK eleconomista: 76 entradas
+  OK cinco_dias: 69 entradas
+  OK elmundo_espana: 54 entradas
+  OK maldita: 50 entradas
+  OK newtral: 10 entradas
+  OK bbc_mundo: 55 entradas
+  OK huffington_es: 75 entradas
+  OK france24_es: 24 entradas
+  OK elpais_internacional: 23 entradas
+  OK elmundo_internacional: 40 entradas
+  OK google_news_es: 33 entradas
+  OK google_news_politica: 100 entradas
+  OK heraldo_aragon: 161 entradas
+  OK levante_emv: 20 entradas
+  OK elcorreo: 100 entradas
+[INFO] CSV generado: /home/dietpi/narrative-radar/data/processed/news_summary.csv (3322 registros)
+[INFO] Finalizado.
+Narrativas detectadas correctamente (5 clusters, historico: 80 registros)
+CSV de emociones generado en /home/dietpi/narrative-radar/data/processed/emotions_summary.csv (6 emociones, 699 titulares con emoción detectada)
+CSV de polarización generado en /home/dietpi/narrative-radar/data/processed/polarization_summary.csv (48 días)
+CSV de red de actores generado en /home/dietpi/narrative-radar/data/processed/actors_network.csv (30 relaciones)
+CSV de propagación generado en /home/dietpi/narrative-radar/data/processed/propagation_summary.csv (151 días)
+CSV de tendencias generado en /home/dietpi/narrative-radar/data/processed/trends_summary.csv (30 keywords)
+CSV de cobertura gobierno generado en /home/dietpi/narrative-radar/data/processed/government_coverage.csv (27 fuentes)
+Keywords emergentes: 15 | Decayentes: 0
+Top emergente: madrid (+182)
+
+PDF generado: /home/dietpi/narrative-radar/data/processed/guia_dashboard.pdf
+Archivado en: /home/dietpi/narrative-radar/data/processed/guia_history/guia_20260307_1531.pdf
+[DISINFO] 2026-03-07 15:31 — Iniciando detector
+[DISINFO] 3322 noticias cargadas
+[DISINFO] 16 bulos maldita
+[DISINFO] 5 bulos newtral
+[DISINFO] 21 bulos totales
+[DISINFO] 2 alertas generadas
+[DISINFO] Historico: 32 alertas acumuladas
+[DISINFO] Email enviado (2 alto riesgo)
+[DISINFO] Completado.
+[COORD] 2026-03-07 15:31 — Iniciando detector de narrativas coordinadas
+[COORD] 2914 noticias recientes (3 días)
+[COORD] Analizando 37 ventanas de 2h...
+[COORD] 13 narrativas coordinadas detectadas
+[COORD] Histórico: 13 eventos acumulados
+[COORD] Email enviado (7 alto score)
+
+Top 5 narrativas coordinadas:
+  [Score:79] 6 fuentes | 2026-03-06 06:00:00
+    Vox expulsa definitivamente a Ortega Smith y abre expediente a Antelo
+    Fuentes: elconfidencial, eldiario, elmundo_espana, elpais, google_news_politica, infolibre
+  [Score:67] 4 fuentes | 2026-03-06 16:00:00
+    La Audiencia Nacional rechaza una denuncia contra Puente por el accidente de Ada
+    Fuentes: elconfidencial, elpais, heraldo_aragon, lavanguardia
+  [Score:57] 4 fuentes | 2026-03-06 18:00:00
+    El PSOE expulsa al alcalde de Almussafes (Valencia) que fue denunciado por acoso
+    Fuentes: elmundo, huffington_es, infolibre, lavanguardia
+  [Score:54] 3 fuentes | 2026-03-06 16:00:00
+    El Gobierno de Trump dice que no puede devolver el dinero de los aranceles
+    Fuentes: elespanol, google_news_es, infolibre
+  [Score:51] 4 fuentes | 2026-03-07 08:00:00
+    La Policía Nacional detiene en Madrid a dos expertos en artes marciales por su v
+    Fuentes: elespanol, elmundo, lavanguardia, levante_emv
+[COORD] Completado.
+[AGENDA] 2026-03-07 15:31 — Iniciando score de agenda-setting
+[AGENDA] 2914 noticias recientes (3 días)
+[AGENDA] 193 temas analizados
+[AGENDA] Score calculado para 24 fuentes
+
+=== RANKING AGENDA-SETTING ===
+   75.0% | Marcador de agenda     | france24_es
+   66.7% | Marcador de agenda     | newtral
+   64.3% | Marcador de agenda     | huffington_es
+   58.3% | Marcador de agenda     | google_news_es
+   57.1% | Marcador de agenda     | elmundo_espana
+   50.0% | Marcador de agenda     | elmundo
+   47.7% | Marcador de agenda     | lavanguardia
+   46.2% | Marcador de agenda     | elcorreo
+   44.4% | Marcador de agenda     | eldiario
+   42.9% | Marcador de agenda     | europapress
+[AGENDA] Completado.
+[SENTIMENT] 2026-03-07 15:31 — Iniciando análisis de sentimiento NLP
+[SENTIMENT] 3322 noticias cargadas
+[SENTIMENT] 3322 titulares analizados en 3.60s
+
+=== DISTRIBUCIÓN DE SENTIMIENTO ===
+  neutral     2507 ( 75.5%) █████████████████████████
+  negativo     564 ( 17.0%) █████
+  positivo     251 (  7.6%) ██
+
+=== TOP 5 FUENTES MÁS NEGATIVAS ===
+   58.6% negativo | europapress
+   42.3% negativo | elpais_internacional
+   35.0% negativo | elmundo_internacional
+   34.5% negativo | elmundo_espana
+   30.2% negativo | elconfidencial
+
+=== TOP 5 FUENTES MÁS POSITIVAS ===
+   16.0% positivo | maldita
+   15.4% positivo | newtral
+   14.3% positivo | huffington_es
+   13.7% positivo | expansion
+   13.0% positivo | cinco_dias
+
+[SENTIMENT] Completado.
+[GEO] 2026-03-07 15:32 — Iniciando análisis geográfico
+[GEO] 3322 noticias analizadas
+
+=== MENCIONES POR CCAA ===
+  Aragón                     125 █████████████████████████
+  Madrid                     122 ████████████████████████
+  Cataluña                    72 ██████████████
+  Andalucía                   59 ███████████
+  Castilla y León             38 ███████
+  Comunidad Valenciana        34 ██████
+  Baleares                    29 █████
+  Cantabria                   23 ████
+  Extremadura                 22 ████
+  Galicia                     21 ████
+  País Vasco                  21 ████
+  Murcia                      14 ██
+  Castilla-La Mancha          11 ██
+  Canarias                     8 █
+  Asturias                     5 █
+  Navarra                      4 
+  Ceuta                        4 
+  La Rioja                     2 
+
+[GEO] Completado — 614 menciones totales
+[VIRAL] 2026-03-07 15:32 — Iniciando detector de temas virales
+[VIRAL] 3321 noticias cargadas
+[VIRAL] Ventana actual: 31 noticias (2h)
+[VIRAL] Ventana baseline: 500 noticias (6h)
+[VIRAL] 3 temas virales detectados
+[VIRAL] Email enviado (2 alto score)
+
+=== TOP 10 TEMAS VIRALES ===
+  [Score: 69] x3.46  'ataques' (3 veces) — google_news_es, bbc_mundo, france24_es
+  [Score: 61] x3.07  'madrid' (4 veces) — google_news_politica, lavanguardia, huffington_es
+  [Score: 56] x2.81  'contra' (4 veces) — google_news_politica, infolibre, elespanol, france24_es
+[VIRAL] Completado.
+[PERSONAS] 2026-03-07 15:32 — Iniciando seguimiento de personajes
+[PERSONAS] 3322 noticias analizadas
+
+=== RANKING DE PERSONAJES ===
+  ⚪ Trump            218 menciones | score: +0.02 | +12 -8
+  ⚪ Sánchez          155 menciones | score: -0.02 | +9 -12
+  ⚪ Illa              85 menciones | score: +0.02 | +5 -3
+  🔴 Feijóo            66 menciones | score: -0.15 | +1 -11
+  🔴 Abascal           65 menciones | score: -0.25 | +1 -17
+  ⚪ Ayuso             10 menciones | score: +0.10 | +2 -1
+  🔴 Yolanda Díaz       6 menciones | score: -0.33 | +0 -2
+  ⚪ Puigdemont         4 menciones | score: +0.00 | +0 -0
+  🟢 Zelenski           4 menciones | score: +0.25 | +1 -0
+  ⚪ Rajoy              1 menciones | score: +0.00 | +0 -0
+
+[PERSONAS] Completado.
+[DIVERSITY] 2026-03-07 15:32 — Iniciando índice de diversidad
+[DIVERSITY] 2914 noticias recientes (3 días)
+[DIVERSITY] 24 fuentes analizadas
+
+=== ÍNDICE DE DIVERSIDAD INFORMATIVA ===
+  Fuente                     Score  Original%  Div.Int  Noticias
+  ------------------------------------------------------------
+  maldita                    91.5      89.3%    0.949        28  █████████
+  heraldo_aragon             81.6      70.4%    0.985       372  ████████
+  newtral                    80.8      69.2%    0.981        13  ████████
+  elcorreo                   78.3      64.1%    0.996       128  ███████
+  okdiario                   78.2      64.4%    0.988       239  ███████
+  expansion                  78.2      64.2%    0.993       106  ███████
+  elmundo_internacional      77.8      64.1%    0.984        39  ███████
+  levante_emv                77.4      63.0%    0.990       146  ███████
+  20minutos                  77.3      62.5%    0.994       312  ███████
+  bbc_mundo                  76.5      62.9%    0.969        35  ███████
+  france24_es                75.4      60.6%    0.976        66  ███████
+  elmundo_espana             74.7      58.6%    0.989        58  ███████
+  huffington_es              74.5      59.3%    0.973        91  ███████
+  eldiario                   74.3      57.5%    0.994       160  ███████
+  google_news_politica       72.6      57.1%    0.958        70  ███████
+  google_news_es             72.1      53.9%    0.993       228  ███████
+  europapress                71.7      55.2%    0.965        29  ███████
+  elpais                     71.0      51.9%    0.996       237  ███████
+  elmundo                    70.2      50.7%    0.995        69  ███████
+  lavanguardia               69.5      49.5%    0.996       299  ██████
+  elespanol                  67.9      47.1%    0.990        68  ██████
+  infolibre                  67.8      46.7%    0.995        75  ██████
+  elpais_internacional       62.2      38.9%    0.972        18  ██████
+  elconfidencial             55.7      28.6%    0.963        28  █████
+
+[DIVERSITY] Completado — 24 fuentes indexadas
+
+--- Ejecutando collect_rss.py ---
+✅ collect_rss.py completado
+
+--- Ejecutando detect_narratives.py ---
+✅ detect_narratives.py completado
+
+--- Ejecutando detect_emotions.py ---
+✅ detect_emotions.py completado
+
+--- Ejecutando detect_polarization.py ---
+✅ detect_polarization.py completado
+
+--- Ejecutando build_network.py ---
+✅ build_network.py completado
+
+--- Ejecutando propagation_analysis.py ---
+✅ propagation_analysis.py completado
+
+--- Ejecutando trends_analysis.py ---
+✅ trends_analysis.py completado
+
+--- Ejecutando government_coverage.py ---
+✅ government_coverage.py completado
+
+--- Ejecutando keywords_analysis.py ---
+✅ keywords_analysis.py completado
+
+--- Ejecutando generate_guide_pdf.py ---
+✅ generate_guide_pdf.py completado
+
+--- Ejecutando detect_disinfo.py ---
+✅ detect_disinfo.py completado
+
+--- Ejecutando detect_coordination.py ---
+✅ detect_coordination.py completado
+
+--- Ejecutando agenda_setting.py ---
+✅ agenda_setting.py completado
+
+--- Ejecutando detect_sentiment_nlp.py ---
+✅ detect_sentiment_nlp.py completado
+
+--- Ejecutando geo_analysis.py ---
+✅ geo_analysis.py completado
+
+--- Ejecutando detect_viral.py ---
+✅ detect_viral.py completado
+
+--- Ejecutando personas_tracking.py ---
+✅ personas_tracking.py completado
+
+--- Ejecutando diversity_index.py ---
+✅ diversity_index.py completado
+
+🎯 Todos los CSV generados en: /home/dietpi/narrative-radar/data/processed
+[2026-03-07 15:32:31] ✅ Pipeline ejecutado correctamente
+[2026-03-07 15:32:31] 🔹 Generando PDF guía
+PDF generado correctamente por Python.
+[2026-03-07 15:32:32] ✅ PDF guía generado en data/processed/guia_dashboard.pdf
+[2026-03-07 15:32:32] 🔹 Rotando logs
+[2026-03-07 15:32:32] ✅ Logs rotados correctamente
+[2026-03-07 15:32:32] 🎯 Pipeline completo
+[2026-03-07 15:32:32] 🔹 Sincronizando con GitHub...
+[main 3dbc378] Auto-update: Datos frescos 2026-03-07 15:32
+ 36 files changed, 912 insertions(+), 478 deletions(-)
+To https://github.com/mcasrom/narrative-radar.git
+   2be6c2c..3dbc378  main -> main
+[2026-03-07 15:32:33] ✅ GitHub actualizado
