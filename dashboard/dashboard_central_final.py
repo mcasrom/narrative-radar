@@ -27,8 +27,15 @@ paths = {
     "Tendencias": os.path.join(base_dir, "trends_summary.csv"),
     "Cobertura Gobierno": os.path.join(base_dir, "government_coverage.csv"),
     "Análisis Masivos": os.path.join(base_dir, "mass_media_coverage.csv"),
+    "Keywords": None,
     "Histórico": None,
     "Guía / HowTo": None
+}
+
+keywords_paths = {
+    "emerging": os.path.join(base_dir, "keywords_emerging.csv"),
+    "decaying": os.path.join(base_dir, "keywords_decaying.csv"),
+    "history":  os.path.join(base_dir, "trends_history.csv"),
 }
 
 history_paths = {
@@ -41,6 +48,66 @@ history_paths = {
     "Propagación": os.path.join(base_dir, "propagation_history.csv"),
     "Análisis Masivos": os.path.join(base_dir, "mass_media_history.csv"),
 }
+
+def mostrar_keywords():
+    st.header("Keywords & Frases Clave")
+    st.markdown("Análisis profundo de palabras clave emergentes, decayentes y su evolución temporal.")
+
+    col1, col2 = st.columns(2)
+
+    with col1:
+        st.subheader("🚀 Keywords emergentes")
+        path = keywords_paths["emerging"]
+        if os.path.exists(path):
+            df = pd.read_csv(path)
+            fig = px.bar(df, x="keyword", y="delta", color="pct_change",
+                         title="Keywords con mayor subida (último ciclo)",
+                         labels={"keyword": "Keyword", "delta": "Incremento", "pct_change": "% cambio"},
+                         color_continuous_scale="Greens")
+            st.plotly_chart(fig, use_container_width=True)
+            st.dataframe(df[["keyword","count_last","count_prev","delta","pct_change"]], use_container_width=True)
+        else:
+            st.info("Sin datos de keywords emergentes aún.")
+
+    with col2:
+        st.subheader("📉 Keywords decayentes")
+        path = keywords_paths["decaying"]
+        if os.path.exists(path):
+            df = pd.read_csv(path)
+            fig = px.bar(df, x="keyword", y="delta", color="pct_change",
+                         title="Keywords con mayor bajada (último ciclo)",
+                         labels={"keyword": "Keyword", "delta": "Decremento", "pct_change": "% cambio"},
+                         color_continuous_scale="Reds")
+            st.plotly_chart(fig, use_container_width=True)
+            st.dataframe(df[["keyword","count_last","count_prev","delta","pct_change"]], use_container_width=True)
+        else:
+            st.info("Sin datos de keywords decayentes aún.")
+
+    st.subheader("📈 Evolución temporal de keywords")
+    path = keywords_paths["history"]
+    if os.path.exists(path):
+        df = pd.read_csv(path)
+        top_kw = df.groupby("keyword")["count"].sum().sort_values(ascending=False).head(20).index.tolist()
+        selected_kw = st.multiselect("Selecciona keywords a comparar:", top_kw, default=top_kw[:5])
+        if selected_kw:
+            df_sel = df[df["keyword"].isin(selected_kw)]
+            fig = px.line(df_sel, x="cycle", y="count", color="keyword", markers=True,
+                          title="Evolución temporal de keywords seleccionados",
+                          labels={"cycle": "Ciclo", "count": "Score TF-IDF", "keyword": "Keyword"})
+            st.plotly_chart(fig, use_container_width=True)
+
+    st.subheader("🏆 Top keywords acumulados")
+    path = keywords_paths["history"]
+    if os.path.exists(path):
+        df = pd.read_csv(path)
+        top = df.groupby("keyword")["count"].sum().reset_index()
+        top = top.sort_values("count", ascending=False).head(30)
+        fig = px.bar(top, x="keyword", y="count", color="count",
+                     title="Top 30 keywords por score acumulado",
+                     color_continuous_scale="Blues")
+        st.plotly_chart(fig, use_container_width=True)
+
+    st.caption(f"Actualizado cada 30 minutos · Odroid-C2 · © 2026 M. Castillo")
 
 def mostrar_historico():
     st.header("Histórico de ciclos")
@@ -252,6 +319,9 @@ python3 scripts/run_all.py""", language="bash")
     st.success("✅ Sistema operativo. Pipeline cada 30 min.")
 
 def mostrar_tab(tab_name, csv_path):
+    if tab_name == "Keywords":
+        mostrar_keywords()
+        return
     if tab_name == "Histórico":
         mostrar_historico()
         return
