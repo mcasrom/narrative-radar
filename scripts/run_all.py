@@ -39,7 +39,8 @@ scripts = [
     "keywords_analysis.py",
     "generate_guide_pdf.py",
     "detect_disinfo.py",
-    "detect_coordination.py"
+    "detect_coordination.py",
+    "agenda_setting.py"
 ]
 
 # -----------------------------

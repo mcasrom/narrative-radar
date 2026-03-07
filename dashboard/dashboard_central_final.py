@@ -29,6 +29,7 @@ paths = {
     "Análisis Masivos": os.path.join(base_dir, "mass_media_coverage.csv"),
     "Desinformación": os.path.join(base_dir, "disinfo_alerts.csv"),
     "Coordinación": os.path.join(base_dir, "coordination_alerts.csv"),
+    "Agenda-Setting": os.path.join(base_dir, "agenda_score.csv"),
     "Keywords": None,
     "Histórico": None,
     "Guía / HowTo": None
@@ -357,6 +358,51 @@ python3 scripts/run_all.py""", language="bash")
     st.success("✅ Sistema operativo. Pipeline cada 30 min.")
 
 def mostrar_tab(tab_name, csv_path):
+    if tab_name == "Agenda-Setting":
+        st.header("Score de Agenda-Setting 📡")
+        st.markdown("Mide qué medios **marcan agenda** (publican primero los temas) vs cuáles **siguen** la agenda de otros.")
+        if not os.path.exists(csv_path):
+            st.warning("Sin datos aún — se generarán en el próximo ciclo.")
+            return
+        try:
+            df = pd.read_csv(csv_path)
+        except Exception as e:
+            st.error(f"Error: {e}"); return
+        if df.empty:
+            st.warning("Sin datos disponibles."); return
+
+        col1, col2, col3 = st.columns(3)
+        marcadores = df[df["role"]=="Marcador de agenda"]
+        seguidores = df[df["role"]=="Seguidor"]
+        col1.metric("Marcadores de agenda", len(marcadores))
+        col2.metric("Seguidores", len(seguidores))
+        col3.metric("Temas analizados", int(df["topics_total"].sum()//2))
+
+        fig = px.bar(df.sort_values("agenda_score", ascending=True).tail(20),
+                     x="agenda_score", y="source", orientation="h",
+                     color="role",
+                     title="Score de agenda-setting por fuente",
+                     labels={"agenda_score":"Score (%)","source":"Fuente","role":"Rol"},
+                     color_discrete_map={
+                         "Marcador de agenda":"#C00000",
+                         "Mixto":"#FF9900",
+                         "Seguidor":"#1F77B4",
+                         "Independiente":"#888888"
+                     })
+        fig.update_layout(height=550)
+        st.plotly_chart(fig, use_container_width=True)
+
+        col_a, col_b = st.columns(2)
+        with col_a:
+            st.subheader("🔴 Marcadores de agenda")
+            st.dataframe(df[df["role"]=="Marcador de agenda"][["source","agenda_score","times_first","topics_total"]],
+                         use_container_width=True)
+        with col_b:
+            st.subheader("🔵 Seguidores")
+            st.dataframe(df[df["role"].isin(["Seguidor","Mixto"])][["source","agenda_score","follower_score","topics_total"]],
+                         use_container_width=True)
+        return
+
     if tab_name == "Coordinación":
         st.header("Narrativas Coordinadas 🔴")
         st.markdown("Detección de grupos de medios que publican titulares semánticamente similares en ventanas de **2 horas**.")
