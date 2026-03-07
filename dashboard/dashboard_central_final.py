@@ -471,18 +471,39 @@ def mostrar_tab(tab_name, csv_path):
         col2.metric("CCAs con menciones", int((df["mentions"]>0).sum()))
         col3.metric("CCAA líder", df.loc[df["mentions"].idxmax(),"ccaa"] if len(df)>0 else "-")
 
-        fig = px.choropleth(
-            df, locations="code", locationmode="ISO-3166-2",
-            color="mentions", hover_name="ccaa",
-            hover_data={"mentions":True,"code":False},
+        # Mapa usando scattergeo con coordenadas de capitales de CCAA
+        CCAA_COORDS = {
+            "Madrid":{"lat":40.42,"lon":-3.70},"Cataluña":{"lat":41.38,"lon":2.17},
+            "Andalucía":{"lat":37.39,"lon":-5.99},"Comunidad Valenciana":{"lat":39.47,"lon":-0.38},
+            "País Vasco":{"lat":43.26,"lon":-2.93},"Galicia":{"lat":42.88,"lon":-8.54},
+            "Castilla y León":{"lat":41.65,"lon":-4.72},"Aragón":{"lat":41.65,"lon":-0.89},
+            "Murcia":{"lat":37.98,"lon":-1.13},"Navarra":{"lat":42.82,"lon":-1.64},
+            "Asturias":{"lat":43.36,"lon":-5.85},"Extremadura":{"lat":39.47,"lon":-6.37},
+            "La Rioja":{"lat":42.47,"lon":-2.45},"Cantabria":{"lat":43.18,"lon":-3.99},
+            "Baleares":{"lat":39.57,"lon":2.65},"Canarias":{"lat":28.29,"lon":-15.63},
+            "Castilla-La Mancha":{"lat":39.86,"lon":-4.02},"Ceuta":{"lat":35.89,"lon":-5.32},
+            "Melilla":{"lat":35.29,"lon":-2.94},
+        }
+        df_map = df[df["mentions"]>0].copy()
+        df_map["lat"] = df_map["ccaa"].map(lambda x: CCAA_COORDS.get(x,{}).get("lat"))
+        df_map["lon"] = df_map["ccaa"].map(lambda x: CCAA_COORDS.get(x,{}).get("lon"))
+        df_map = df_map.dropna(subset=["lat","lon"])
+        fig = px.scatter_geo(
+            df_map, lat="lat", lon="lon",
+            size="mentions", color="mentions",
+            hover_name="ccaa", hover_data={"mentions":True,"lat":False,"lon":False},
             color_continuous_scale="Reds",
+            size_max=40,
             title="Intensidad informativa por Comunidad Autónoma",
-            scope="europe",
         )
-        fig.update_geos(center={"lat":40.4,"lon":-3.7}, projection_scale=8,
-                        visible=False, resolution=50,
-                        showland=True, landcolor="lightgray",
-                        showcoastlines=True, coastlinecolor="white")
+        fig.update_geos(
+            center={"lat":40.4,"lon":-3.7}, projection_scale=4,
+            scope="europe",
+            showland=True, landcolor="#f0f0f0",
+            showcoastlines=True, coastlinecolor="#cccccc",
+            showborders=True, bordercolor="#aaaaaa",
+            showcountries=True, countrycolor="#aaaaaa",
+        )
         fig.update_layout(height=500, margin={"r":0,"t":40,"l":0,"b":0})
         st.plotly_chart(fig, use_container_width=True)
 
