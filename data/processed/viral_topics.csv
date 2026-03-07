@@ -1,8 +1,23 @@
 keyword,count_now,count_base,ratio,viral_score,sources,n_sources,sample_title,detected_at
-embajada,3,0,5.0,100,"okdiario, 20minutos, levante_emv",3,España evacua su embajada en Teherán tras la guerra desatada por EEUU e Israel contra los ayatolás,2026-03-07 20:32
-ucrania,6,5,8.38,100,"okdiario, elcorreo, elpais, lavanguardia",4,España golea a Ucrania y ya mira al Mundial 2027,2026-03-07 20:32
-mundial,3,3,6.98,100,"okdiario, elcorreo",2,España golea a Ucrania y ya mira al Mundial 2027,2026-03-07 20:32
-athletic,5,4,8.73,100,"elpais, okdiario, elcorreo",3,Athletic - Barcelona en directo | Flick da descanso a Pedri y Raphinha,2026-03-07 20:32
-barcelona,4,3,9.31,100,"elpais, okdiario",2,Athletic - Barcelona en directo | Flick da descanso a Pedri y Raphinha,2026-03-07 20:32
-noche,3,0,5.0,100,"huffington_es, levante_emv",2,"Fabio, joven español viviendo en Luxemburgo: “Me levanto para ir al trabajo y es de noche y justo cuando salgo de la oficina es de noche otra vez; vivir fuera de España es vivir sin sol”",2026-03-07 20:32
-españa,10,23,3.04,60,"expansion, okdiario, 20minutos, elcorreo, levante_emv",5,"Felipe VI traslada la ""solidaridad"" de España a los ""países vecinos"" de Oriente Próximo",2026-03-07 20:32
+evacuada,3,0,5.0,100,"20minutos, lavanguardia, levante_emv",3,"Evacuada la embajada de España en Irán: ""Embajador y personal acaban de cruzar la frontera con Azerbaiyán y están a salvo""",2026-03-07 21:02
+raphinha,3,1,17.92,100,"lavanguardia, 20minutos, elpais",3,"Flick da descanso a Pedri, Fermín y Raphinha en San Mamés antes de la Champions",2026-03-07 21:02
+pedri,3,1,17.92,100,"lavanguardia, 20minutos, elpais",3,"Flick da descanso a Pedri, Fermín y Raphinha en San Mamés antes de la Champions",2026-03-07 21:02
+mundial,4,3,7.96,100,"heraldo_aragon, okdiario, elcorreo",3,España acaba con la resistencia de Ucrania y sigue invicta en el camino al Mundial,2026-03-07 21:02
+laliga,3,3,5.97,100,"expansion, levante_emv",2,El fútbol como palanca de dinamización local: objetivo común de LaLiga y Airbnb,2026-03-07 21:02
+mamés,3,2,8.96,100,"elcorreo, lavanguardia, 20minutos",3,La bisnieta de Mister Pentland acude a San Mamés con su peña: «El ambiente de Bilbao es fantástico»,2026-03-07 21:02
+bilbao,3,2,8.96,100,elcorreo,1,La bisnieta de Mister Pentland acude a San Mamés con su peña: «El ambiente de Bilbao es fantástico»,2026-03-07 21:02
+embajada,6,0,5.0,100,"elcorreo, google_news_politica, okdiario, 20minutos, lavanguardia",5,España evacúa su Embajada en Irán ante el agravamiento del conflicto en Oriente Medio,2026-03-07 21:02
+oriente,4,3,7.96,100,"elcorreo, google_news_politica, expansion",3,España evacúa su Embajada en Irán ante el agravamiento del conflicto en Oriente Medio,2026-03-07 21:02
+resultados,3,1,17.92,100,elcorreo,1,La Primitiva de este sábado: comprobar resultados del 7 de marzo,2026-03-07 21:02
+comprobar,3,4,4.48,89,elcorreo,1,La Primitiva de este sábado: comprobar resultados del 7 de marzo,2026-03-07 21:02
+athletic,6,8,4.48,89,"okdiario, elespanol, levante_emv, 20minutos, elpais",5,"Athletic – Barça: resultado, cómo va el partido y últimas noticias del encuentro de Liga hoy",2026-03-07 21:02
+barça,3,4,4.48,89,"okdiario, 20minutos",2,"Athletic – Barça: resultado, cómo va el partido y últimas noticias del encuentro de Liga hoy",2026-03-07 21:02
+ucrania,6,8,4.48,89,"heraldo_aragon, levante_emv, elmundo, okdiario, elcorreo",5,España acaba con la resistencia de Ucrania y sigue invicta en el camino al Mundial,2026-03-07 21:02
+españa,14,20,4.18,83,"heraldo_aragon, elcorreo, google_news_politica, levante_emv, expansion",5,España acaba con la resistencia de Ucrania y sigue invicta en el camino al Mundial,2026-03-07 21:02
+atlético,4,6,3.98,79,"levante_emv, okdiario, elmundo, heraldo_aragon",4,La insistencia de Nico González da la victoria al Atlético ante la Real Sociedad,2026-03-07 21:02
+barcelona,3,5,3.58,71,"elespanol, levante_emv, elpais",3,"Athletic - FC Barcelona, en directo La Liga: resultado, goleadores y estadísticas en vivo",2026-03-07 21:02
+sociedad,3,6,2.99,59,"levante_emv, okdiario, heraldo_aragon",3,La insistencia de Nico González da la victoria al Atlético ante la Real Sociedad,2026-03-07 21:02
+sábado,3,6,2.99,59,elcorreo,1,La Primitiva de este sábado: comprobar resultados del 7 de marzo,2026-03-07 21:02
+medio,3,7,2.56,51,"elcorreo, google_news_politica",2,España evacúa su Embajada en Irán ante el agravamiento del conflicto en Oriente Medio,2026-03-07 21:02
+países,3,7,2.56,51,"elmundo, expansion, heraldo_aragon",3,"Irán avisa ahora que mantendrá la escalada bélica en   países del Golfo ""hasta vengar  la muerte de Jamenei"" y Trump asegura que se ha destruido su fuerza aérea",2026-03-07 21:02
+marzo,3,8,2.24,44,elcorreo,1,La Primitiva de este sábado: comprobar resultados del 7 de marzo,2026-03-07 21:02
