@@ -27,6 +27,7 @@ paths = {
     "Tendencias": os.path.join(base_dir, "trends_summary.csv"),
     "Cobertura Gobierno": os.path.join(base_dir, "government_coverage.csv"),
     "Análisis Masivos": os.path.join(base_dir, "mass_media_coverage.csv"),
+    "Desinformación": os.path.join(base_dir, "disinfo_alerts.csv"),
     "Keywords": None,
     "Histórico": None,
     "Guía / HowTo": None
@@ -355,6 +356,32 @@ python3 scripts/run_all.py""", language="bash")
     st.success("✅ Sistema operativo. Pipeline cada 30 min.")
 
 def mostrar_tab(tab_name, csv_path):
+    if tab_name == "Desinformación":
+        st.header("Detector de Desinformación ⚠️")
+        st.markdown("Alertas generadas cruzando titulares con bulos verificados de **maldita.es** y **newtral.es** mediante similitud TF-IDF.")
+        if not os.path.exists(csv_path):
+            st.warning("Sin datos aún — se generarán en el próximo ciclo.")
+            return
+        try:
+            df = pd.read_csv(csv_path)
+        except Exception as e:
+            st.error(f"Error: {e}"); return
+        if df.empty:
+            st.success("✅ Sin alertas activas — no se detectó desinformación en este ciclo.")
+            return
+        col1, col2, col3 = st.columns(3)
+        col1.metric("Total alertas", len(df))
+        col2.metric("Alto riesgo (≥60)", len(df[df["risk_score"]>=60]))
+        col3.metric("Fuentes afectadas", df["news_source"].nunique())
+        fig = px.bar(df.head(20), x="news_source", y="risk_score", color="risk_score",
+                     title="Score de riesgo por fuente",
+                     color_continuous_scale="Reds",
+                     labels={"news_source":"Fuente","risk_score":"Score riesgo"})
+        st.plotly_chart(fig, use_container_width=True)
+        st.subheader("Detalle de alertas")
+        st.dataframe(df[["news_source","risk_score","similarity","news_title","bulo_source","bulo_title"]],
+                     use_container_width=True)
+        return
     if tab_name == "Keywords":
         mostrar_keywords()
         return
