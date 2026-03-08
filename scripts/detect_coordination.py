@@ -32,6 +32,23 @@ STOPWORDS = ["de","la","el","en","y","a","que","los","del","se","las","por",
              "este","esta","estos","estas","ese","esa","esos","esas"]
 
 os.makedirs(os.path.dirname(OUTPUT), exist_ok=True)
+
+def email_cooldown_ok(module_name, hours=4):
+    """Devuelve True si se puede enviar email (no se ha enviado en las ultimas N horas)"""
+    import time
+    lock_dir = os.path.join(BASE, "data/processed/.email_locks")
+    os.makedirs(lock_dir, exist_ok=True)
+    lock_file = os.path.join(lock_dir, f"{module_name}.lock")
+    now_ts = time.time()
+    if os.path.exists(lock_file):
+        last_sent = float(open(lock_file).read().strip())
+        if now_ts - last_sent < hours * 3600:
+            remaining = int((hours * 3600 - (now_ts - last_sent)) / 60)
+            print(f"[{module_name.upper()}] Email en cooldown — faltan {remaining} min")
+            return False
+    open(lock_file, "w").write(str(now_ts))
+    return True
+
 now = datetime.now()
 now_str = now.strftime("%Y-%m-%d %H:%M")
 print(f"[COORD] {now_str} — Iniciando detector de narrativas coordinadas")
@@ -136,7 +153,7 @@ print(f"[COORD] Histórico: {len(hist)} eventos acumulados")
 # Email si hay coordinación de alto score
 high = df_alerts[df_alerts["coord_score"] >= 50] if len(df_alerts) > 0 else pd.DataFrame()
 
-if len(high) > 0 and os.path.exists(EMAIL_CFG):
+if len(high) > 0 and os.path.exists(EMAIL_CFG) and email_cooldown_ok("COORD", hours=6):
     try:
         with open(EMAIL_CFG) as f:
             ecfg = yaml.safe_load(f)
