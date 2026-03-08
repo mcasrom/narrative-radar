@@ -1,17 +1,18 @@
 keyword,count_now,count_base,ratio,viral_score,sources,n_sources,sample_title,detected_at
-valencia,3,4,8.86,100,"levante_emv, google_news_es, 20minutos",3,Ocho detenidos por robar y extorsionar a empresarios asiáticos y planear un secuestro en Valencia,2026-03-08 11:32
-marcha,3,7,5.06,100,"okdiario, elpais",2,Manifestación 8M en Valladolid por el Día de la Mujer 2026: horario y recorrido de la marcha,2026-03-08 11:32
-carlos,4,4,11.81,100,"okdiario, 20minutos, heraldo_aragon",3,"Carlos Alcaraz – Rinderknech: cuándo es, a qué hora empieza y dónde ver por TV en directo el partido de Indian Wells 2026",2026-03-08 11:32
-alcaraz,3,4,8.86,100,"okdiario, heraldo_aragon, levante_emv",3,"Carlos Alcaraz – Rinderknech: cuándo es, a qué hora empieza y dónde ver por TV en directo el partido de Indian Wells 2026",2026-03-08 11:32
-indian,3,3,11.81,100,"okdiario, heraldo_aragon, levante_emv",3,"Carlos Alcaraz – Rinderknech: cuándo es, a qué hora empieza y dónde ver por TV en directo el partido de Indian Wells 2026",2026-03-08 11:32
-wells,3,3,11.81,100,"okdiario, heraldo_aragon, levante_emv",3,"Carlos Alcaraz – Rinderknech: cuándo es, a qué hora empieza y dónde ver por TV en directo el partido de Indian Wells 2026",2026-03-08 11:32
-nuevo,5,10,5.9,100,"elpais, google_news_es, elcorreo, 20minutos",4,"Última hora del ataque de EE UU e Israel contra Irán, en directo | Irán nombra nuevo líder supremo pero no revela el nombre",2026-03-08 11:32
-líder,4,4,11.81,100,"elpais, google_news_es, elcorreo, 20minutos",4,"Última hora del ataque de EE UU e Israel contra Irán, en directo | Irán nombra nuevo líder supremo pero no revela el nombre",2026-03-08 11:32
-supremo,4,4,11.81,100,"elpais, google_news_es, elcorreo, 20minutos",4,"Última hora del ataque de EE UU e Israel contra Irán, en directo | Irán nombra nuevo líder supremo pero no revela el nombre",2026-03-08 11:32
-revela,3,1,35.42,100,"elpais, google_news_es, okdiario",3,"Última hora del ataque de EE UU e Israel contra Irán, en directo | Irán nombra nuevo líder supremo pero no revela el nombre",2026-03-08 11:32
-nombre,3,2,17.71,100,"elpais, google_news_es, elcorreo",3,"Última hora del ataque de EE UU e Israel contra Irán, en directo | Irán nombra nuevo líder supremo pero no revela el nombre",2026-03-08 11:32
-comunidad,3,2,17.71,100,google_news_es,1,La Comunidad de Madrid aumenta un 7% las vacunas contra la gripe administradas en su red pública de Atención Primaria | Comunidad de Madrid - Comunidad de Madrid |,2026-03-08 11:32
-madrid,4,14,3.37,67,"google_news_es, 20minutos",2,La Comunidad de Madrid aumenta un 7% las vacunas contra la gripe administradas en su red pública de Atención Primaria | Comunidad de Madrid - Comunidad de Madrid |,2026-03-08 11:32
-última,5,20,2.95,59,"google_news_es, elpais, elcorreo, elconfidencial",4,"Última hora de la guerra de Irán, en directo: Irán suspende ataques a países vecinos y Trump amenaza con un - Onda Cero",2026-03-08 11:32
-contra,5,21,2.81,56,"elpais, google_news_es, elcorreo, huffington_es",4,"Última hora del ataque de EE UU e Israel contra Irán, en directo | Irán nombra nuevo líder supremo pero no revela el nombre",2026-03-08 11:32
-directo,5,24,2.46,49,"google_news_es, elpais, okdiario",3,"Última hora de la guerra de Irán, en directo: Irán suspende ataques a países vecinos y Trump amenaza con un - Onda Cero",2026-03-08 11:32
+manifestaciones,4,5,7.9,100,"elpais, levante_emv",2,"8M: Las manifestaciones del Día de las Mujeres 2026, en directo | Comienzan las manifestaciones del 8M en las principales ciudades españolas",2026-03-08 12:02
+anuncia,3,1,29.63,100,"elcorreo, heraldo_aragon",2,Última hora de la Guerra en Oriente Medio: Irán designa a un nuevo líder supremo pero no anuncia su nombre,2026-03-08 12:02
+indian,3,3,9.88,100,"okdiario, heraldo_aragon, levante_emv",3,"Carlos Alcaraz – Rinderknech: cuándo es, a qué hora empieza y dónde ver por TV en directo el partido de Indian Wells 2026",2026-03-08 12:02
+alcaraz,3,4,7.41,100,"okdiario, heraldo_aragon, levante_emv",3,"Carlos Alcaraz – Rinderknech: cuándo es, a qué hora empieza y dónde ver por TV en directo el partido de Indian Wells 2026",2026-03-08 12:02
+carlos,3,5,5.93,100,"okdiario, 20minutos, heraldo_aragon",3,"Carlos Alcaraz – Rinderknech: cuándo es, a qué hora empieza y dónde ver por TV en directo el partido de Indian Wells 2026",2026-03-08 12:02
+revela,3,2,14.82,100,"huffington_es, elpais, google_news_es",3,"Habemus líder supremo: Irán asegura haber designado un nuevo sustituto de Jamenei, aunque no revela el nombre",2026-03-08 12:02
+nombre,7,2,34.57,100,"elcorreo, huffington_es, levante_emv, elpais, google_news_es",5,Última hora de la Guerra en Oriente Medio: Irán designa a un nuevo líder supremo pero no anuncia su nombre,2026-03-08 12:02
+wells,3,3,9.88,100,"okdiario, heraldo_aragon, levante_emv",3,"Carlos Alcaraz – Rinderknech: cuándo es, a qué hora empieza y dónde ver por TV en directo el partido de Indian Wells 2026",2026-03-08 12:02
+supremo,7,6,11.52,100,"elcorreo, okdiario, huffington_es, elpais, google_news_es",5,Irán elige nuevo Líder Supremo mientras EE UU e Israel atacan plantas petrolíferas y desalinizadoras,2026-03-08 12:02
+líder,7,6,11.52,100,"elcorreo, okdiario, huffington_es, elpais, google_news_es",5,Irán elige nuevo Líder Supremo mientras EE UU e Israel atacan plantas petrolíferas y desalinizadoras,2026-03-08 12:02
+nuevo,8,11,7.18,100,"elcorreo, okdiario, expansion, huffington_es, elpais",5,Irán elige nuevo Líder Supremo mientras EE UU e Israel atacan plantas petrolíferas y desalinizadoras,2026-03-08 12:02
+elige,3,1,29.63,100,"elcorreo, okdiario, levante_emv",3,Irán elige nuevo Líder Supremo mientras EE UU e Israel atacan plantas petrolíferas y desalinizadoras,2026-03-08 12:02
+manifestación,4,5,7.9,100,"huffington_es, okdiario, newtral",3,Vídeo en directo: manifestación del 8M en Madrid,2026-03-08 12:02
+directo,8,21,3.76,75,"elpais, huffington_es, okdiario, google_news_es",4,"8M: Las manifestaciones del Día de las Mujeres 2026, en directo | Comienzan las manifestaciones del 8M en las principales ciudades españolas",2026-03-08 12:02
+oriente,3,12,2.47,49,"elcorreo, expansion",2,Última hora de la Guerra en Oriente Medio: Irán designa a un nuevo líder supremo pero no anuncia su nombre,2026-03-08 12:02
+israel,6,24,2.47,49,"levante_emv, elcorreo, okdiario, elmundo, elpais",5,Israel y EEUU atacan depósitos de petróleo e instalaciones de refinación en Teherán,2026-03-08 12:02
+última,5,21,2.35,47,"elcorreo, google_news_es, elpais",3,Última hora de la Guerra en Oriente Medio: Irán designa a un nuevo líder supremo pero no anuncia su nombre,2026-03-08 12:02
