@@ -39,6 +39,7 @@ paths = {
     "Personajes": os.path.join(base_dir, "personas_summary.csv"),
     "Diversidad": os.path.join(base_dir, "diversity_index.csv"),
     "Keywords": None,
+    "🔍 Auditoría": None,
     "Histórico": None,
     "Guía / HowTo": None
 }
