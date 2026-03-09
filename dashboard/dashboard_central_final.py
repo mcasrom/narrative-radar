@@ -86,12 +86,17 @@ def mostrar_keywords():
         path = keywords_paths["decaying"]
         if os.path.exists(path):
             df = pd.read_csv(path)
-            fig = px.bar(df, x="keyword", y="delta", color="pct_change",
-                         title="Keywords con mayor bajada (último ciclo)",
-                         labels={"keyword": "Keyword", "delta": "Decremento", "pct_change": "% cambio"},
-                         color_continuous_scale="Reds")
-            st.plotly_chart(fig, use_container_width=True)
-            st.dataframe(df[["keyword","count_last","count_prev","delta","pct_change"]], use_container_width=True)
+            if len(df) >= 5:
+                fig = px.bar(df, x="keyword", y="delta", color="pct_change",
+                             title="Keywords con mayor bajada (último ciclo)",
+                             labels={"keyword": "Keyword", "delta": "Decremento", "pct_change": "% cambio"},
+                             color_continuous_scale="Reds")
+                st.plotly_chart(fig, use_container_width=True)
+            elif len(df) > 0:
+                st.info(f"Solo {len(df)} keyword(s) decayente(s) detectada(s) — acumulando histórico (mín. 5 para gráfico)")
+                st.dataframe(df[["keyword","count_last","count_prev","delta","pct_change"]], use_container_width=True)
+            else:
+                st.info("Sin keywords decayentes en este ciclo — todas las palabras clave están en alza.")
         else:
             st.info("Sin datos de keywords decayentes aún.")
 
