@@ -59,7 +59,7 @@ for source_name, rss_url in RSS_FEEDS.items():
         print(f"  ERR {source_name}: {e}")
 
 conn.commit()
-df = pd.read_sql_query("SELECT title, link, source, date FROM news ORDER BY date DESC", conn)
+df = pd.read_sql_query("SELECT title, link, source, date FROM news WHERE date >= date('now', '-90 days') ORDER BY date DESC", conn)
 csv_path = os.path.join(PROCESSED_DIR, "news_summary.csv")
 df.to_csv(csv_path, index=False, encoding="utf-8-sig")
 print(f"[INFO] CSV generado: {csv_path} ({len(df)} registros)")

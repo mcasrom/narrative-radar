@@ -212,3 +212,23 @@ data/news.db
 data/processed/guia_dashboard.pdf
 config/email.yaml
 data/processed/guia_history/
+
+# Datos volátiles — no subir al repo
+data/processed/*.csv
+data/processed/*.bak*
+data/raw/
+database/
+*.bak_*
+audit_*.log
+briefing_*.log
+pipeline_*.log
+
+# Datos volátiles — no subir al repo
+data/processed/*.csv
+data/processed/*.bak*
+data/raw/
+database/
+*.bak_*
+audit_*.log
+briefing_*.log
+pipeline_*.log

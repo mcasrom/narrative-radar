@@ -50,6 +50,7 @@ result["cycle"] = now
 if os.path.exists(HISTORY):
     hist = pd.read_csv(HISTORY)
     hist = pd.concat([hist, result], ignore_index=True)
+    hist = hist[(pd.to_datetime(hist["date"], errors="coerce") >= (pd.Timestamp.now() - pd.Timedelta(days=90))) & (pd.to_datetime(hist["date"], errors="coerce") <= pd.Timestamp.now())]
     hist = hist.drop_duplicates(subset=["date","cycle"], keep="last")
 else:
     hist = result.copy()
