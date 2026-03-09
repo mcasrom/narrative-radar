@@ -1,21 +1,25 @@
 keyword,count_now,count_base,ratio,viral_score,sources,n_sources,sample_title,detected_at
-macron,3,2,14.09,100,"elcorreo, lavanguardia, 20minutos",3,Macron anuncia una misión «defensiva» para reabrir el estrecho de Ormuz,2026-03-09 15:02
-creación,5,0,5.0,100,"elpais, infolibre, elespanol, elconfidencial",4,La justicia ordena a la Comunidad de Madrid la creación del registro de objetores del aborto,2026-03-09 15:02
-abascal,4,3,12.53,100,"heraldo_aragon, elcorreo, lavanguardia, google_news_politica",4,Abascal redobla sus ataques a Feijóo y dice que Vox será &quot;el doble de exigente&quot; en Aragón,2026-03-09 15:02
-millones,4,4,9.4,100,"okdiario, elespanol",2,El descubrimiento que asusta a los científicos: el nivel del mar es mayor de lo que se pensaba y millones de personas podrían verse afectadas,2026-03-09 15:02
-feijóo,6,2,28.19,100,"elcorreo, heraldo_aragon, okdiario, lavanguardia, google_news_politica",5,Feijóo rememora viejos tiempos como jugador de balonmano en Segovia,2026-03-09 15:02
-ayuso,6,6,9.4,100,"elespanol, elconfidencial, huffington_es, eldiario, elpais",5,El Tribunal Superior de Justicia de Madrid ordena al Gobierno de Ayuso iniciar la creación del registro de objetores del aborto,2026-03-09 15:02
-carreras,3,1,28.19,100,"lavanguardia, 20minutos, elmundo",3,Carreras aumenta la plaga y es baja ante el City; Mbappé y Bellingham se mantienen al margen,2026-03-09 15:02
-española,3,5,5.64,100,"elpais, elcorreo",2,"El Gobierno lanza las becas Medrano, unas ayudas para estudiar en universidades de otra ciudad española como las que suprimió Rajoy",2026-03-09 15:02
-anuncia,3,5,5.64,100,"elcorreo, lavanguardia, 20minutos",3,Macron anuncia una misión «defensiva» para reabrir el estrecho de Ormuz,2026-03-09 15:02
-aborto,7,0,5.0,100,"elpais, infolibre, elespanol, elconfidencial, huffington_es",5,La justicia ordena a la Comunidad de Madrid la creación del registro de objetores del aborto,2026-03-09 15:02
-justicia,7,1,65.77,100,"elpais, infolibre, elespanol, elconfidencial, huffington_es",5,La justicia ordena a la Comunidad de Madrid la creación del registro de objetores del aborto,2026-03-09 15:02
-objetores,8,0,5.0,100,"europapress, elpais, infolibre, elespanol, elconfidencial",5,El TSJM ordena a Madrid iniciar trámites para un registro de sanitarios objetores de conciencia en IVE,2026-03-09 15:02
-registro,8,2,37.58,100,"europapress, elpais, infolibre, elespanol, elconfidencial",5,El TSJM ordena a Madrid iniciar trámites para un registro de sanitarios objetores de conciencia en IVE,2026-03-09 15:02
-iniciar,4,0,5.0,100,"europapress, infolibre, elespanol, elconfidencial",4,El TSJM ordena a Madrid iniciar trámites para un registro de sanitarios objetores de conciencia en IVE,2026-03-09 15:02
-ordena,8,0,5.0,100,"europapress, elpais, infolibre, elespanol, elconfidencial",5,El TSJM ordena a Madrid iniciar trámites para un registro de sanitarios objetores de conciencia en IVE,2026-03-09 15:02
-ormuz,3,0,5.0,100,"elcorreo, lavanguardia, 20minutos",3,Macron anuncia una misión «defensiva» para reabrir el estrecho de Ormuz,2026-03-09 15:02
-ciudad,3,6,4.7,93,elpais,1,"El Gobierno lanza las becas Medrano, unas ayudas para estudiar en universidades de otra ciudad española como las que suprimió Rajoy",2026-03-09 15:02
-gobierno,7,27,2.44,48,"elpais, elmundo, elespanol, okdiario, elmundo_espana",5,"El Gobierno lanza las becas Medrano, unas ayudas para estudiar en universidades de otra ciudad española como las que suprimió Rajoy",2026-03-09 15:02
-madrid,8,31,2.42,48,"europapress, elpais, infolibre, elespanol, levante_emv",5,El TSJM ordena a Madrid iniciar trámites para un registro de sanitarios objetores de conciencia en IVE,2026-03-09 15:02
-partido,3,14,2.01,40,"levante_emv, 20minutos",2,El alcalde de Sueca pone el foco en la líder local del PSOE que expresó su apoyo a Toni González y pide al partido que la aparte,2026-03-09 15:02
+justicia,5,4,15.25,100,"levante_emv, elpais, infolibre, elespanol, elconfidencial",5,La Justicia ordena a la Comunidad de Madrid iniciar ya la creación del registro de objetores del aborto,2026-03-09 15:32
+ordena,6,3,24.4,100,"levante_emv, europapress, elpais, infolibre, elespanol",5,La Justicia ordena a la Comunidad de Madrid iniciar ya la creación del registro de objetores del aborto,2026-03-09 15:32
+estudiar,3,1,36.59,100,"elpais, huffington_es",2,El Gobierno recupera las becas de 900 euros al mes para estudiar en universidades de otra ciudad española que suprimió Rajoy,2026-03-09 15:32
+becas,3,1,36.59,100,"elpais, huffington_es",2,El Gobierno recupera las becas de 900 euros al mes para estudiar en universidades de otra ciudad española que suprimió Rajoy,2026-03-09 15:32
+macron,4,4,12.2,100,"levante_emv, elcorreo, google_news_es, lavanguardia",4,"Macron anuncia una futura ""misión ""defensiva"" francesa para reabrir el Estrecho de Ormuz",2026-03-09 15:32
+ormuz,4,1,48.79,100,"levante_emv, elcorreo, lavanguardia",3,Croacia impone un tope a los precios del combustible tras el cierre del estrecho de Ormuz,2026-03-09 15:32
+estrecho,3,1,36.59,100,"levante_emv, elcorreo",2,Croacia impone un tope a los precios del combustible tras el cierre del estrecho de Ormuz,2026-03-09 15:32
+abril,3,2,18.3,100,"europapress, elpais, levante_emv",3,"El Supremo fija el 28 de abril la declaración de Ábalos, Koldo y Aldama en el juicio por las mascarillas",2026-03-09 15:32
+anuncia,5,5,12.2,100,"okdiario, levante_emv, elcorreo, huffington_es, lavanguardia",5,Ayuso anuncia ayudas pioneras en España de hasta 150.000 euros para apoyar a las micropymes y autónomos,2026-03-09 15:32
+española,3,7,5.23,100,"elpais, elcorreo",2,El Gobierno recupera las becas de 900 euros al mes para estudiar en universidades de otra ciudad española que suprimió Rajoy,2026-03-09 15:32
+ábalos,3,0,5.0,100,"elcorreo, europapress, elpais",3,El juicio contra Ábalos empezará con el interrogatorio de su hijo y de su exnovia Jésica,2026-03-09 15:32
+aborto,5,3,20.33,100,"levante_emv, elpais, infolibre, elespanol, elconfidencial",5,La Justicia ordena a la Comunidad de Madrid iniciar ya la creación del registro de objetores del aborto,2026-03-09 15:32
+objetores,6,3,24.4,100,"levante_emv, europapress, elpais, infolibre, elespanol",5,La Justicia ordena a la Comunidad de Madrid iniciar ya la creación del registro de objetores del aborto,2026-03-09 15:32
+registro,6,5,14.64,100,"levante_emv, europapress, elpais, infolibre, elespanol",5,La Justicia ordena a la Comunidad de Madrid iniciar ya la creación del registro de objetores del aborto,2026-03-09 15:32
+creación,5,1,60.99,100,"levante_emv, elpais, infolibre, elespanol, elconfidencial",5,La Justicia ordena a la Comunidad de Madrid iniciar ya la creación del registro de objetores del aborto,2026-03-09 15:32
+iniciar,5,0,5.0,100,"levante_emv, europapress, infolibre, elespanol, elconfidencial",5,La Justicia ordena a la Comunidad de Madrid iniciar ya la creación del registro de objetores del aborto,2026-03-09 15:32
+ayuso,4,10,4.88,97,"eldiario, okdiario, elespanol, elconfidencial",4,"Ayuso defiende su viaje a Nueva York: ""Preferimos fomentar las alianzas entre España y EEUU que romper""",2026-03-09 15:32
+juicio,3,8,4.57,91,"elcorreo, europapress, elpais",3,El juicio contra Ábalos empezará con el interrogatorio de su hijo y de su exnovia Jésica,2026-03-09 15:32
+semana,3,9,4.07,81,"elcorreo, 20minutos",2,El factor humano y las salidas de vía marcan un fin de semana trágico en las carreteras,2026-03-09 15:32
+madrid,9,34,3.23,64,"levante_emv, elcorreo, elpais, google_news_es, europapress",5,La Justicia ordena a la Comunidad de Madrid iniciar ya la creación del registro de objetores del aborto,2026-03-09 15:32
+europa,3,12,3.05,60,"expansion, google_news_es, lavanguardia",3,Nscale cierra la mayor ronda de financiación en inteligencia artificial de Europa,2026-03-09 15:32
+gobierno,6,29,2.52,50,"elpais, elmundo, lavanguardia, elespanol, okdiario",5,El Gobierno recupera las becas de 900 euros al mes para estudiar en universidades de otra ciudad española que suprimió Rajoy,2026-03-09 15:32
+fallas,3,16,2.29,45,"levante_emv, lavanguardia",2,Feria de Fallas 2026 en València: Todos los matadores (incluido Roca Rey) y los días que torearán en la plaza de toros,2026-03-09 15:32
+euros,3,18,2.03,40,"okdiario, elpais, huffington_es",3,Ayuso anuncia ayudas pioneras en España de hasta 150.000 euros para apoyar a las micropymes y autónomos,2026-03-09 15:32
