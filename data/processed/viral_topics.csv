@@ -1,17 +1,31 @@
 keyword,count_now,count_base,ratio,viral_score,sources,n_sources,sample_title,detected_at
-‘paquita,3,0,5.0,100,"okdiario, levante_emv",2,Por qué es importante que vuelva ‘Paquita Salas’,2026-03-09 17:02
-salas’,3,0,5.0,100,"okdiario, levante_emv",2,Por qué es importante que vuelva ‘Paquita Salas’,2026-03-09 17:02
-lista,3,3,9.27,100,"levante_emv, elcorreo, okdiario",3,Anthropic demanda al Pentágono por poner su IA en la lista negra de Estados Unidos,2026-03-09 17:02
-colegio,3,2,13.9,100,"levante_emv, heraldo_aragon",2,"Dejó el colegio para cuidar de su familia: la historia de Lola, la mujer de 92 años que ha decidido volver a clase",2026-03-09 17:02
-defiende,3,2,13.9,100,"levante_emv, elconfidencial, 20minutos",3,"Ayuso defiende en Nueva York fomentar alianzas ""en lugar de romper lo que tantos han construido"" en plena tensión de las relaciones bilaterales entre España y EEUU",2026-03-09 17:02
-avala,3,0,5.0,100,"expansion, eldiario, heraldo_aragon",3,Omán limita vuelos de jets privados ante la avalancha de salidas de millonarios del Golfo,2026-03-09 17:02
-disfrute,3,0,5.0,100,"eldiario, heraldo_aragon",2,El Supremo avala el disfrute simultáneo del complemento de maternidad en las pensiones de los funcionarios,2026-03-09 17:02
-complemento,3,1,27.8,100,"eldiario, heraldo_aragon",2,El Supremo avala el disfrute simultáneo del complemento de maternidad en las pensiones de los funcionarios,2026-03-09 17:02
-maternidad,3,0,5.0,100,"eldiario, heraldo_aragon",2,El Supremo avala el disfrute simultáneo del complemento de maternidad en las pensiones de los funcionarios,2026-03-09 17:02
-funcionarios,3,1,27.8,100,"eldiario, heraldo_aragon",2,El Supremo avala el disfrute simultáneo del complemento de maternidad en las pensiones de los funcionarios,2026-03-09 17:02
-detenidos,3,6,4.63,92,"lavanguardia, levante_emv, okdiario",3,Detenidos diez miembros de Núcleo Nacional por desórdenes públicos en la manifestación del 8-M,2026-03-09 17:02
-precio,4,12,3.09,61,"elcorreo, huffington_es, france24_es",3,El precio de la luz sigue disparado para este martes 10 de marzo: el kilovatio alcanza los 247 euros por hora,2026-03-09 17:02
-elecciones,3,9,3.09,61,"huffington_es, france24_es, elpais",3,Quiénes son los candidatos de las elecciones en Castilla y León: todos los partidos que se presentan,2026-03-09 17:02
-euros,6,19,2.93,58,"elcorreo, okdiario, elpais",3,El precio de la luz sigue disparado para este martes 10 de marzo: el kilovatio alcanza los 247 euros por hora,2026-03-09 17:02
-nueva,6,20,2.78,55,"levante_emv, elcorreo, elconfidencial, okdiario",4,El Colegio del Arte Mayor de la Seda de València inicia una nueva etapa con Alberto Catalá al frente,2026-03-09 17:02
-supremo,3,11,2.53,50,"okdiario, france24_es, eldiario",3,"Últimas noticias de la guerra de Irán, EEUU e Israel en directo | Bombardeos, ataques y situación del nuevo líder supremo",2026-03-09 17:02
+fiscalía,11,0,5.0,100,"okdiario, elcorreo, 20minutos, elmundo, huffington_es",5,La Fiscalía se opone a imputar a Mazón por la DANA: «No hay indicios con suficiente solidez»,2026-03-09 17:32
+alzira,3,2,11.94,100,levante_emv,1,Desaparece el último vestigio del imperio Suñer en Alzira,2026-03-09 17:32
+demanda,4,1,31.84,100,"20minutos, eldiario, okdiario, levante_emv",4,La dueña de Ticketmaster llega a un acuerdo con Estados Unidos para cerrar la demanda antimonopolio,2026-03-09 17:32
+llega,3,3,7.96,100,"levante_emv, 20minutos, elcorreo, heraldo_aragon",4,Llegada y salida de viajeros en la Estación del Norte antes y después de la mascletà de hoy,2026-03-09 17:32
+catarroja,3,4,5.97,100,"lavanguardia, levante_emv",2,Fiscalía aún no ve indicios para imputar a Mazón y propone que siga la instrucción en Catarroja,2026-03-09 17:32
+residencia,3,1,23.88,100,"france24_es, maldita, huffington_es, elespanol",4,Legislativas en Colombia: ¿qué panorama queda para las elecciones presidenciales?,2026-03-09 17:32
+suficientes,4,0,5.0,100,"20minutos, elpais, elespanol, eldiario",4,"La Fiscalía se opone a imputar a Carlos Mazón ""en este momento"" al no ver indicios suficientes",2026-03-09 17:32
+momento,3,2,11.94,100,"20minutos, huffington_es, elpais, elespanol",4,"La Fiscalía se opone a imputar a Carlos Mazón ""en este momento"" al no ver indicios suficientes",2026-03-09 17:32
+fallera,3,1,23.88,100,levante_emv,1,"""Estáis precisas"", el mensaje de Jordi Sabaté a las falleras mayores y cortes de honor",2026-03-09 17:32
+seguir,3,0,5.0,100,"elcorreo, bbc_mundo, google_news_es, huffington_es",4,"Julián López: «Si el Athletic fichara extranjeros, seguiría siendo mi equipo»",2026-03-09 17:32
+jueza,4,3,10.61,100,"elcorreo, elpais, heraldo_aragon, levante_emv",4,La Fiscalía sostiene que no hay indicios para investigar a Mazón y pide que la causa vuelva a la jueza de la dana,2026-03-09 17:32
+opone,3,0,5.0,100,"okdiario, 20minutos, lavanguardia, levante_emv, elpais",5,La Fiscalía se opone a imputar a Mazón por la DANA: «No hay indicios con suficiente solidez»,2026-03-09 17:32
+causa,6,8,5.97,100,"elcorreo, huffington_es, elmundo, elespanol, levante_emv",5,La Fiscalía sostiene que no hay indicios para investigar a Mazón y pide que la causa vuelva a la jueza de la dana,2026-03-09 17:32
+colegio,3,2,11.94,100,"levante_emv, heraldo_aragon",2,"Dejó el colegio para cuidar de su familia: la historia de Lola, la mujer de 92 años que ha decidido volver a clase",2026-03-09 17:32
+unidos,5,6,6.63,100,"elcorreo, levante_emv, maldita, 20minutos",4,Tubos Reunidos mejora de nuevo su oferta y retomará la negociación del ERE con los sindicatos el viernes,2026-03-09 17:32
+estados,5,4,9.95,100,"levante_emv, maldita, 20minutos",3,China ya estudia dónde aterrizará su primera misión tripulada en la Luna mientras Estados Unidos hace tambalear su programa lunar,2026-03-09 17:32
+imputar,8,1,63.69,100,"okdiario, 20minutos, elmundo, huffington_es, lavanguardia",5,La Fiscalía se opone a imputar a Mazón por la DANA: «No hay indicios con suficiente solidez»,2026-03-09 17:32
+mensaje,3,3,7.96,100,"levante_emv, 20minutos",2,"""Estáis precisas"", el mensaje de Jordi Sabaté a las falleras mayores y cortes de honor",2026-03-09 17:32
+fiesta,3,2,11.94,100,"okdiario, levante_emv",2,Belén Rueda cuenta por qué no fue a la fiesta de los Oscar por ‘Mar adentro’: «Ese es Javier Bardem»,2026-03-09 17:32
+mazón,10,12,6.63,100,"okdiario, elcorreo, 20minutos, elmundo, huffington_es",5,La Fiscalía se opone a imputar a Mazón por la DANA: «No hay indicios con suficiente solidez»,2026-03-09 17:32
+suficiente,3,0,5.0,100,"okdiario, 20minutos, elmundo, huffington_es, elpais",5,La Fiscalía se opone a imputar a Mazón por la DANA: «No hay indicios con suficiente solidez»,2026-03-09 17:32
+indicios,9,0,5.0,100,"okdiario, elcorreo, 20minutos, elmundo, huffington_es",5,La Fiscalía se opone a imputar a Mazón por la DANA: «No hay indicios con suficiente solidez»,2026-03-09 17:32
+mayor,3,5,4.78,95,"levante_emv, huffington_es, elcorreo",3,"""Estáis precisas"", el mensaje de Jordi Sabaté a las falleras mayores y cortes de honor",2026-03-09 17:32
+acuerdo,3,5,4.78,95,"20minutos, huffington_es, elpais",3,La dueña de Ticketmaster llega a un acuerdo con Estados Unidos para cerrar la demanda antimonopolio,2026-03-09 17:32
+ahora,3,6,3.98,79,"elmundo, eldiario",2,"La Fiscalía descarta por ahora imputar a Mazón por la dana ante la falta de ""indicios con suficiente solidez""",2026-03-09 17:32
+trump,4,10,3.18,63,"europapress, huffington_es, eldiario",3,"Trump afirma que ""no está contento"" con el nombramiento de Mojtaba Jamenei como nuevo líder supremo en Irán",2026-03-09 17:32
+jamenei,3,8,2.99,59,"okdiario, bbc_mundo, europapress",3,Putin garantiza el «apoyo total» al nuevo líder supremo Mojtaba Jamenei tras la eliminación de su padre,2026-03-09 17:32
+nuevo,9,29,2.47,49,"elcorreo, okdiario, elpais, europapress, eldiario",5,Tubos Reunidos mejora de nuevo su oferta y retomará la negociación del ERE con los sindicatos el viernes,2026-03-09 17:32
+líder,4,13,2.45,48,"okdiario, europapress, eldiario",3,Putin garantiza el «apoyo total» al nuevo líder supremo Mojtaba Jamenei tras la eliminación de su padre,2026-03-09 17:32
+primera,3,11,2.17,43,"levante_emv, 20minutos, elcorreo",3,China ya estudia dónde aterrizará su primera misión tripulada en la Luna mientras Estados Unidos hace tambalear su programa lunar,2026-03-09 17:32
