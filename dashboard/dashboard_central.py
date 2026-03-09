@@ -7,6 +7,7 @@ import os
 import streamlit as st
 import pandas as pd
 import plotly.express as px
+from audit_tab import render_audit_tab
 from datetime import datetime, timedelta
 import random
 
@@ -249,12 +250,14 @@ def mostrar_howto_tab():
 # -----------------------------
 # Render tabs
 # -----------------------------
-visual_tabs = [t for t in paths if t != "Guía / HowTo PDF"] + ["Guía / HowTo"]
+visual_tabs = [t for t in paths if t != "Guía / HowTo PDF"] + ["Guía / HowTo", "🔍 Auditoría"]
 tabs = st.tabs(visual_tabs)
 
 for tab, tab_name in zip(tabs, visual_tabs):
     with tab:
         if tab_name == "Guía / HowTo":
             mostrar_howto_tab()
+        elif tab_name == "🔍 Auditoría":
+            render_audit_tab()
         else:
             mostrar_tab(tab_name, paths[tab_name])

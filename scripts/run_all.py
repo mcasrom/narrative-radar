@@ -45,7 +45,8 @@ scripts = [
     "geo_analysis.py",
     "detect_viral.py",
     "personas_tracking.py",
-    "diversity_index.py"
+    "diversity_index.py",
+    "audit_quality.py"
 ]
 
 # -----------------------------
