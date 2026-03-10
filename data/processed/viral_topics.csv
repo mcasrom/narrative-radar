@@ -1,18 +1,14 @@
 keyword,count_now,count_base,ratio,viral_score,sources,n_sources,sample_title,detected_at
-peruano,3,5,6.2,100,"levante_emv, heraldo_aragon, elcorreo",3,"Fallece el peruano Bryce Echenique, una figura de la literatura latinoamericana",2026-03-10 17:32
-bruselas,3,3,10.33,100,"expansion, okdiario, elespanol",3,Bruselas insta a los países de la UE a bajar al mínimo los impuestos de la electricidad,2026-03-10 17:32
-imagen,3,1,31.0,100,"elcorreo, maldita",2,Familia y amigos de Robe Iniesta muestra su indignación por el uso de su imagen en una procesión por Plasencia,2026-03-10 17:32
-petróleo,4,8,5.17,100,"huffington_es, okdiario, levante_emv, heraldo_aragon",4,De pedir a los funcionarios apagar el ordenador en la hora de la comida a imponer la semana laboral de 4 días: qué están haciendo los países para ahorrar gasolina por la subida del petróleo,2026-03-10 17:32
-bryce,8,6,13.78,100,"levante_emv, elmundo, bbc_mundo, okdiario, google_news_es",5,"Fallece el peruano Bryce Echenique, una figura de la literatura latinoamericana",2026-03-10 17:32
-ciudadanos,3,3,10.33,100,"okdiario, maldita, elconfidencial",3,Bruselas pide rebajar impuestos en la factura de la luz y facilitar a los ciudadanos el autoconsumo,2026-03-10 17:32
-alfredo,7,4,18.08,100,"elmundo, bbc_mundo, okdiario, google_news_es, heraldo_aragon",5,"Muere Alfredo Bryce Echenique, el hermano pequeño, zumbón y brillante del Boom Latinoamericano",2026-03-10 17:32
-echenique,8,6,13.78,100,"levante_emv, elmundo, bbc_mundo, okdiario, google_news_es",5,"Fallece el peruano Bryce Echenique, una figura de la literatura latinoamericana",2026-03-10 17:32
-antes,4,8,5.17,100,"france24_es, okdiario, levante_emv, google_news_politica",4,Cuba prevé apagón que afectará hasta al 60% del país este martes; estudiantes se manifiestan ante crisis energética,2026-03-10 17:32
-quién,4,9,4.59,91,"okdiario, huffington_es, levante_emv",3,"Quién es Alfonso Fernández Mañueco: su esposa, hijos, qué edad tiene, estudios y su trayectoria en el PP",2026-03-10 17:32
-carlos,3,7,4.43,88,"okdiario, levante_emv",2,"Así es Carlos Martínez Mínguez: su edad, pareja y sus hijos, estudios y desde cuándo es alcalde de Soria",2026-03-10 17:32
-muere,9,23,4.04,80,"elmundo, bbc_mundo, elconfidencial, okdiario, elcorreo",5,"Muere Alfredo Bryce Echenique, el hermano pequeño, zumbón y brillante del Boom Latinoamericano",2026-03-10 17:32
-escritor,4,11,3.76,75,"bbc_mundo, heraldo_aragon, elcorreo",3,"Muere a los 87 años Alfredo Bryce Echenique, el escritor que retrató con acidez a la élite de Perú en ""Un mundo para Julius""",2026-03-10 17:32
-primera,3,9,3.44,68,"20minutos, okdiario, elpais",3,"Los embalses pierden agua por primera vez desde noviembre, pero las reservas se sitúan más de 20 puntos por encima de 2025",2026-03-10 17:32
-israel,7,23,3.14,62,"lavanguardia, maldita, newtral, elpais",4,"Ataques de Israel impactan cerca de Beirut, última hora de la guerra en Irán y los ataques de EE.UU e Israel",2026-03-10 17:32
-ataques,5,18,2.87,57,"heraldo_aragon, lavanguardia, okdiario, elcorreo",4,La OMS alerta: la lluvia ácida puede tener riesgos para la salud tras los ataques a refinerías,2026-03-10 17:32
-ataque,3,13,2.38,47,"elespanol, heraldo_aragon, lavanguardia, okdiario, elcorreo",5,Al menos 12 personas heridas en la ciudad rusa de Briansk por un ataque masivo con misiles lanzado por Ucrania,2026-03-10 17:32
+bruselas,3,4,8.83,100,"levante_emv, expansion, okdiario",3,Bruselas insta a los países a reducir los impuestos de la factura de la luz para aliviar el bolsillo de los consumidores,2026-03-10 18:02
+países,3,2,17.66,100,"levante_emv, expansion, huffington_es",3,Bruselas insta a los países a reducir los impuestos de la factura de la luz para aliviar el bolsillo de los consumidores,2026-03-10 18:02
+impuestos,3,2,17.66,100,"levante_emv, expansion, okdiario",3,Bruselas insta a los países a reducir los impuestos de la factura de la luz para aliviar el bolsillo de los consumidores,2026-03-10 18:02
+visita,3,3,11.77,100,"heraldo_aragon, okdiario, levante_emv",3,Así ha sido la visita de la FIFA a Zaragoza: la ciudad hace los deberes para la decisión final,2026-03-10 18:02
+ciudad,3,3,11.77,100,"heraldo_aragon, elespanol, okdiario, maldita",4,Así ha sido la visita de la FIFA a Zaragoza: la ciudad hace los deberes para la decisión final,2026-03-10 18:02
+petróleo,3,8,4.41,88,"expansion, huffington_es, okdiario",3,El Ibex se dispara un 3% con el desplome del precio del petróleo,2026-03-10 18:02
+bryce,4,12,3.92,78,"elcorreo, levante_emv, elmundo, bbc_mundo",4,"Muere Alfredo Bryce Echenique, el renglón torcido del 'boom'",2026-03-10 18:02
+echenique,4,12,3.92,78,"elcorreo, levante_emv, elmundo, bbc_mundo",4,"Muere Alfredo Bryce Echenique, el renglón torcido del 'boom'",2026-03-10 18:02
+puede,3,9,3.92,78,"elmundo, heraldo_aragon, okdiario",3,"Irán desafía a Trump, le advierte de que ""puede ser eliminado"" y EEUU responde con el bombardeo ""más intenso""",2026-03-10 18:02
+alfredo,3,10,3.53,70,"elcorreo, elmundo, bbc_mundo",3,"Muere Alfredo Bryce Echenique, el renglón torcido del 'boom'",2026-03-10 18:02
+ataques,5,18,3.27,65,"europapress, heraldo_aragon, lavanguardia, okdiario",4,"Israel lanza nuevos ataques contra ""infraestructura de Hezbolá"" en el sur de Beirut",2026-03-10 18:02
+zaragoza,4,16,2.94,58,heraldo_aragon,1,Así ha sido la visita de la FIFA a Zaragoza: la ciudad hace los deberes para la decisión final,2026-03-10 18:02
+israel,5,23,2.56,51,"elcorreo, europapress, lavanguardia, maldita",4,Última hora de la guerra en Oriente Medio: Trump a Israel: «La guerra no terminará esta semana»,2026-03-10 18:02
