@@ -1,13 +1,22 @@
 keyword,count_now,count_base,ratio,viral_score,sources,n_sources,sample_title,detected_at
-última,4,4,5.54,100,"elcorreo, elpais, google_news_es, lavanguardia",4,Última hora de la guerra en Oriente Medio: Irán contesta a Trump y dice que están «dispuestos a expandir» el conflicto,2026-03-10 08:02
-ataque,3,1,16.62,100,"france24_es, elpais, google_news_es, lavanguardia",4,🔴 En directo: Israel ordena evacuar el sur del Líbano mientras milicia proiraní atribuye a EE. UU. un ataque en Irak,2026-03-10 08:02
-aemet,7,0,5.0,100,okdiario,1,Zaragoza: AEMET prevé nubes y posibilidad de lluvia débil con brumas matutinas y viento variable,2026-03-10 08:02
-brumas,3,0,5.0,100,okdiario,1,Zaragoza: AEMET prevé nubes y posibilidad de lluvia débil con brumas matutinas y viento variable,2026-03-10 08:02
-predicción,3,3,5.54,100,okdiario,1,"Predicción del horóscopo para Virgo hoy, martes 10 de marzo de 2026",2026-03-10 08:02
-israel,5,6,4.62,92,"france24_es, elpais, google_news_es, lavanguardia",4,🔴 En directo: Israel ordena evacuar el sur del Líbano mientras milicia proiraní atribuye a EE. UU. un ataque en Irak,2026-03-10 08:02
-directo,3,4,4.16,83,"france24_es, elpais, lavanguardia, huffington_es",4,🔴 En directo: Israel ordena evacuar el sur del Líbano mientras milicia proiraní atribuye a EE. UU. un ataque en Irak,2026-03-10 08:02
-horóscopo,3,4,4.16,83,okdiario,1,"Predicción del horóscopo para Virgo hoy, martes 10 de marzo de 2026",2026-03-10 08:02
-crisis,4,9,2.46,49,"elespanol, levante_emv",2,La crisis climática pone en peligro la economía española: eleva la deuda 81 puntos sobre las previsiones para 2050,2026-03-10 08:02
-zaragoza,3,7,2.38,47,"okdiario, heraldo_aragon",2,Zaragoza: AEMET prevé nubes y posibilidad de lluvia débil con brumas matutinas y viento variable,2026-03-10 08:02
-trump,5,12,2.31,46,"elcorreo, elpais, levante_emv, eldiario",4,Última hora de la guerra en Oriente Medio: Irán contesta a Trump y dice que están «dispuestos a expandir» el conflicto,2026-03-10 08:02
-martes,3,8,2.08,41,okdiario,1,"Predicción del horóscopo para Virgo hoy, martes 10 de marzo de 2026",2026-03-10 08:02
+hombre,3,1,17.84,100,"huffington_es, elcorreo, elpais",3,"¿Ejecutado el &quot;hombre de las nueve vidas&quot;? La incógnita del general iraní Qaani, señalado como agente del Mossad",2026-03-10 08:32
+ataque,3,2,8.92,100,"europapress, france24_es, elpais",3,Al menos doce muertos en ataque israelíes en dos gobernaciones del sur de Líbano,2026-03-10 08:32
+aemet,5,5,5.95,100,"elconfidencial, elespanol, okdiario",3,"Seguirán las lluvias, pero por poco y la Aemet avisa: llega un giro radical en el tiempo y así afectará a estas zonas de España",2026-03-10 08:32
+medio,3,3,5.95,100,"okdiario, elcorreo, lavanguardia",3,"Guerra de EEUU e Israel contra Irán, en directo | Últimas noticias de la situación en Oriente Medio",2026-03-10 08:32
+petróleo,3,3,5.95,100,"expansion, huffington_es",2,El Ibex respira con el petróleo y apunta a los 17.000,2026-03-10 08:32
+precio,3,2,8.92,100,"huffington_es, okdiario, europapress",3,"Guerra entre Irán, Israel y EEUU, en directo: última hora y novedades del precio del petróleo",2026-03-10 08:32
+directo,4,5,4.76,95,"huffington_es, okdiario, france24_es, elpais",4,"Guerra entre Irán, Israel y EEUU, en directo: última hora y novedades del precio del petróleo",2026-03-10 08:32
+menos,3,4,4.46,89,"eldiario, europapress, elcorreo",3,¿Aporta tanto que haya menos alumnos por clase?,2026-03-10 08:32
+horóscopo,3,5,3.57,71,okdiario,1,"Predicción del horóscopo para Escorpio hoy, martes 10 de marzo de 2026",2026-03-10 08:32
+lluvias,3,5,3.57,71,"elconfidencial, elespanol, okdiario",3,"Seguirán las lluvias, pero por poco y la Aemet avisa: llega un giro radical en el tiempo y así afectará a estas zonas de España",2026-03-10 08:32
+predicción,3,5,3.57,71,okdiario,1,"Predicción del horóscopo para Escorpio hoy, martes 10 de marzo de 2026",2026-03-10 08:32
+oriente,3,6,2.97,59,"okdiario, elcorreo, lavanguardia",3,"Guerra de EEUU e Israel contra Irán, en directo | Últimas noticias de la situación en Oriente Medio",2026-03-10 08:32
+dónde,3,6,2.97,59,"okdiario, levante_emv",2,A qué hora es el Newcastle – Barcelona y dónde ver el partido de octavos de final de la Champions League hoy en vivo,2026-03-10 08:32
+tiempo,3,6,2.97,59,"elconfidencial, elespanol, okdiario",3,"Seguirán las lluvias, pero por poco y la Aemet avisa: llega un giro radical en el tiempo y así afectará a estas zonas de España",2026-03-10 08:32
+última,3,6,2.97,59,"huffington_es, okdiario, elcorreo, elpais",4,"Guerra entre Irán, Israel y EEUU, en directo: última hora y novedades del precio del petróleo",2026-03-10 08:32
+marzo,5,11,2.7,54,"okdiario, heraldo_aragon",2,"Predicción del horóscopo para Escorpio hoy, martes 10 de marzo de 2026",2026-03-10 08:32
+ahora,3,7,2.55,50,"expansion, levante_emv, okdiario",3,"Los dos escenarios más ""plausibles"" ahora en el petróleo",2026-03-10 08:32
+israel,4,10,2.38,47,"huffington_es, okdiario, europapress, france24_es, elpais",5,"Guerra entre Irán, Israel y EEUU, en directo: última hora y novedades del precio del petróleo",2026-03-10 08:32
+madrid,4,10,2.38,47,okdiario,1,Madrid da marcha atrás y autorizará la circulación de coches sin etiqueta ambiental,2026-03-10 08:32
+trump,5,13,2.29,45,"europapress, elcorreo, elpais, levante_emv",4,El senador republicano Lindsey Graham pide a Trump retirar las bases de EEUU de España,2026-03-10 08:32
+nueva,3,8,2.23,44,"okdiario, levante_emv",2,Giro radical en los teléfonos Android: la nueva función que va a cambiar para siempre las llamadas,2026-03-10 08:32
