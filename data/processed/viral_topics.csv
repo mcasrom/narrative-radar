@@ -1,9 +1,15 @@
 keyword,count_now,count_base,ratio,viral_score,sources,n_sources,sample_title,detected_at
-muere,6,5,17.14,100,"elcorreo, okdiario, elpais, 20minutos, elespanol",5,"Muere a los 89 años Raúl del Pozo, periodista de raza",2026-03-10 16:02
-periodista,4,4,14.29,100,"elcorreo, okdiario, elpais, elespanol",4,"Muere a los 89 años Raúl del Pozo, periodista de raza",2026-03-10 16:02
-llega,3,4,10.71,100,"maldita, expansion, okdiario, levante_emv, lavanguardia",5,"Este vídeo de Emiliano, un niño sin piernas ni brazos que pide ayuda para llegar a 5 millones de visualizaciones y conseguir sus prótesis, no es real: tiene indicios de haber sido creado con IA",2026-03-10 16:02
-hombre,3,13,3.3,65,"levante_emv, okdiario, lavanguardia",3,Bomberos rescatan a un hombre de 29 años tras caer con su coche por un barranco de 15 metros en Sot de Chera,2026-03-10 16:02
-medio,3,14,3.06,61,"elcorreo, heraldo_aragon, france24_es",3,Un año y medio de sanción al futbolista del San Luis que agredió a un árbitro,2026-03-10 16:02
-energía,3,16,2.68,53,"france24_es, elpais, 20minutos",3,La UE anuncia 200 millones de euros para energía nuclear tras señalar que reducirla fue un “error estratégico”,2026-03-10 16:02
-euros,5,32,2.23,44,"elcorreo, france24_es",2,Durango ofrecerá ayudas de hasta 5.000 euros para rehabilitar casas vacías,2026-03-10 16:02
-nuclear,3,20,2.14,42,"france24_es, elpais, 20minutos",3,La UE anuncia 200 millones de euros para energía nuclear tras señalar que reducirla fue un “error estratégico”,2026-03-10 16:02
+muere,13,5,29.57,100,"elespanol, okdiario, elpais, europapress, heraldo_aragon",5,"Muere a los 87 años el escritor peruano Bryce Echenique, uno de los grandes de las letras latinoamericanas",2026-03-10 16:32
+escritor,5,0,5.0,100,"elespanol, elpais, 20minutos",3,"Muere a los 87 años el escritor peruano Bryce Echenique, uno de los grandes de las letras latinoamericanas",2026-03-10 16:32
+fallas,3,6,5.69,100,levante_emv,1,Buenas noticias para las Fallas 2026: la Aemet anuncia una mejoría del tiempo en València y el fin de la lluvia,2026-03-10 16:32
+audrey,3,6,5.69,100,"google_news_es, elpais, heraldo_aragon",3,"Tercera medalla, segundo Oro para Audrey Pascual en la Combinada Alpina de los Juegos Paralímpicos - RFEDI - Real Federación Española Deportes de Invierno",2026-03-10 16:32
+pascual,3,6,5.69,100,"google_news_es, elpais, heraldo_aragon",3,"Tercera medalla, segundo Oro para Audrey Pascual en la Combinada Alpina de los Juegos Paralímpicos - RFEDI - Real Federación Española Deportes de Invierno",2026-03-10 16:32
+paralímpicos,3,5,6.82,100,"google_news_es, elpais, heraldo_aragon",3,"Tercera medalla, segundo Oro para Audrey Pascual en la Combinada Alpina de los Juegos Paralímpicos - RFEDI - Real Federación Española Deportes de Invierno",2026-03-10 16:32
+invierno,3,4,8.53,100,"google_news_es, elpais, heraldo_aragon",3,"Tercera medalla, segundo Oro para Audrey Pascual en la Combinada Alpina de los Juegos Paralímpicos - RFEDI - Real Federación Española Deportes de Invierno",2026-03-10 16:32
+periodista,6,2,34.12,100,"europapress, heraldo_aragon, elcorreo, okdiario, elpais",5,Muere el periodista Raúl del Pozo a los 89 años,2026-03-10 16:32
+vuelve,3,9,3.79,75,"huffington_es, levante_emv, google_news_es",3,Harvey Weinstein vuelve a defender su inocencia y describe la cárcel como un &quot;infierno&quot;,2026-03-10 16:32
+juegos,3,9,3.79,75,"google_news_es, elpais, heraldo_aragon",3,"Tercera medalla, segundo Oro para Audrey Pascual en la Combinada Alpina de los Juegos Paralímpicos - RFEDI - Real Federación Española Deportes de Invierno",2026-03-10 16:32
+valència,4,14,3.25,65,levante_emv,1,Buenas noticias para las Fallas 2026: la Aemet anuncia una mejoría del tiempo en València y el fin de la lluvia,2026-03-10 16:32
+cinco,3,11,3.1,62,"heraldo_aragon, levante_emv, elcorreo",3,El Casademont Zaragoza aspira a todos los premios de la Euroliga: cinco jugadoras y el entrenador,2026-03-10 16:32
+zaragoza,3,14,2.44,48,heraldo_aragon,1,El Casademont Zaragoza aspira a todos los premios de la Euroliga: cinco jugadoras y el entrenador,2026-03-10 16:32
+anuncia,3,14,2.44,48,"levante_emv, heraldo_aragon, france24_es",3,Buenas noticias para las Fallas 2026: la Aemet anuncia una mejoría del tiempo en València y el fin de la lluvia,2026-03-10 16:32
