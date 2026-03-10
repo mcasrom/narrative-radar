@@ -1,17 +1,26 @@
 keyword,count_now,count_base,ratio,viral_score,sources,n_sources,sample_title,detected_at
-costa,3,1,21.95,100,"europapress, eldiario, elcorreo, heraldo_aragon",4,"Costa se desmarca de Von der Leyen y aboga por ""garantizar que el mundo siga basado en reglas""",2026-03-10 10:32
-leyen,3,2,10.98,100,"europapress, eldiario",2,"Costa se desmarca de Von der Leyen y aboga por ""garantizar que el mundo siga basado en reglas""",2026-03-10 10:32
-política,3,4,5.49,100,"google_news_politica, europapress",2,La IA imagina 'La Velada Política de España' inspirada en el evento de Ibai Llanos: estos son los combates - MARCA,2026-03-10 10:32
-banco,3,1,21.95,100,"heraldo_aragon, infolibre, okdiario",3,Cuánto dinero puedo ingresar en el banco sin tener que declarar a Hacienda,2026-03-10 10:32
-confirma,3,2,10.98,100,"okdiario, heraldo_aragon",2,La lista de enfermedades con las que podrías jubilarte a los 56 años: el INSS lo confirma,2026-03-10 10:32
-teherán,3,4,5.49,100,"lavanguardia, 20minutos",2,"Guerra en Irán, en directo | Nuevos ataques de Israel y EE.UU. y última hora de la situación en Teherán y el precio del petróleo",2026-03-10 10:32
-negociará,3,0,5.0,100,"elmundo, europapress",2,"La CEOE planta a Yolanda Díaz y no negociará la ""democratización"" de las empresas: ""Es un ataque populista y de profunda carga ideológica""",2026-03-10 10:32
-empresas,4,2,14.64,100,"elmundo, europapress, elpais",3,"La CEOE planta a Yolanda Díaz y no negociará la ""democratización"" de las empresas: ""Es un ataque populista y de profunda carga ideológica""",2026-03-10 10:32
-estos,3,6,3.66,73,"google_news_politica, heraldo_aragon, elcorreo, okdiario, 20minutos",5,La IA imagina 'La Velada Política de España' inspirada en el evento de Ibai Llanos: estos son los combates - MARCA,2026-03-10 10:32
-dinero,3,6,3.66,73,"heraldo_aragon, okdiario",2,Cuánto dinero puedo dar a un familiar sin tener que pagar impuestos: límite de Hacienda en las transferencias,2026-03-10 10:32
-tener,4,8,3.66,73,"heraldo_aragon, elcorreo, okdiario",3,Cuánto dinero puedo dar a un familiar sin tener que pagar impuestos: límite de Hacienda en las transferencias,2026-03-10 10:32
-situación,3,6,3.66,73,"lavanguardia, maldita",2,"Guerra en Irán, en directo | Nuevos ataques de Israel y EE.UU. y última hora de la situación en Teherán y el precio del petróleo",2026-03-10 10:32
-sigue,3,7,3.14,62,"elpais, levante_emv, elcorreo",3,"La inversión en España encadena cinco años de crecimiento, pero sigue por debajo de los máximos de principios de siglo",2026-03-10 10:32
-mundo,3,8,2.74,54,"europapress, elcorreo, levante_emv, lavanguardia",4,"Costa se desmarca de Von der Leyen y aboga por ""garantizar que el mundo siga basado en reglas""",2026-03-10 10:32
-precio,3,8,2.74,54,"lavanguardia, eldiario",2,"Guerra en Irán, en directo | Nuevos ataques de Israel y EE.UU. y última hora de la situación en Teherán y el precio del petróleo",2026-03-10 10:32
-nuevo,3,10,2.2,43,"lavanguardia, levante_emv, europapress",3,"Guerra en Irán, en directo | Nuevos ataques de Israel y EE.UU. y última hora de la situación en Teherán y el precio del petróleo",2026-03-10 10:32
+hacienda,3,1,19.8,100,"okdiario, heraldo_aragon",2,Hacienda confirma la norma: te van a devolver hasta 840 euros si has ido al dentista este año,2026-03-10 11:02
+partido,4,2,13.2,100,"okdiario, google_news_es, elcorreo",3,"Todo sobre Miguel Ángel Llamas: edad, de dónde es, trayectoria, estudios y partido político",2026-03-10 11:02
+basado,4,0,5.0,100,"elpais, lavanguardia, europapress, google_news_es",4,Costa discrepa de Von der Leyen sobre el ataque a Irán: “La UE debe defender el orden internacional basado en normas”,2026-03-10 11:02
+internacional,5,2,16.5,100,"elpais, lavanguardia, 20minutos, google_news_es, eldiario",5,Costa discrepa de Von der Leyen sobre el ataque a Irán: “La UE debe defender el orden internacional basado en normas”,2026-03-10 11:02
+orden,5,0,5.0,100,"elpais, lavanguardia, 20minutos, google_news_es, eldiario",5,Costa discrepa de Von der Leyen sobre el ataque a Irán: “La UE debe defender el orden internacional basado en normas”,2026-03-10 11:02
+defender,3,0,5.0,100,"elpais, google_news_es, eldiario",3,Costa discrepa de Von der Leyen sobre el ataque a Irán: “La UE debe defender el orden internacional basado en normas”,2026-03-10 11:02
+costa,6,2,19.8,100,"elpais, lavanguardia, europapress, 20minutos, google_news_es",5,Costa discrepa de Von der Leyen sobre el ataque a Irán: “La UE debe defender el orden internacional basado en normas”,2026-03-10 11:02
+congreso,3,1,19.8,100,"heraldo_aragon, google_news_politica, eldiario",3,Pantomima Full se alza con el Premio Blasillo del Congreso de Periodismo de Huesca,2026-03-10 11:02
+leyen,8,3,17.6,100,"elmundo, elcorreo, elpais, lavanguardia, europapress",5,"Ribera critica a Von der Leyen por su posición en la guerra de Irán y advierte de que se excede en sus funciones: ""No me parece acertada""",2026-03-10 11:02
+caída,3,2,9.9,100,"eldiario, levante_emv",2,La caída de los hermanos Alexander: condena a los agentes inmobiliarios más famosos de EEUU por decenas de violaciones,2026-03-10 11:02
+policía,4,4,6.6,100,"levante_emv, okdiario, elcorreo, elespanol",4,La Policía registra mansiones en Mallorca sospechosas de pertenecer a un oligarca ruso cercano a Putin,2026-03-10 11:02
+ribera,3,2,9.9,100,"huffington_es, elmundo, 20minutos",3,Teresa Ribera:,2026-03-10 11:02
+fútbol,3,1,19.8,100,"levante_emv, elcorreo",2,"La FIFA mira al Nou Mestalla para ser sede del Mundial:  ""Valencia va a tener el estadio más moderno del fútbol español""",2026-03-10 11:02
+planta,3,2,9.9,100,"elespanol, elcorreo, levante_emv",3,Hallan el cadáver de una persona con las piernas seccionadas en una planta de reciclaje de Paterna (Valencia),2026-03-10 11:02
+presión,3,0,5.0,100,"levante_emv, okdiario",2,Volkswagen anuncia 50.000 despidos en Alemania hasta 2030 ante la caída de ganancias y presión global,2026-03-10 11:02
+también,3,4,4.95,99,"levante_emv, okdiario, lavanguardia",3,Peramato inicia el proceso para que la Fiscalía también pida el amparo contra la condena a García Ortiz ante el Constitucional,2026-03-10 11:02
+volkswagen,3,4,4.95,99,"elpais, levante_emv",2,La guerra arancelaria pasa factura al grupo Volkswagen y su beneficio cae casi a la mitad,2026-03-10 11:02
+carlos,3,4,4.95,99,"20minutos, okdiario, google_news_es",3,"Carlos Alcaraz: ""Me canso de sentir que juego contra Federer en cada ronda, todos juegan a un nivel increíblemente alto contra mí""",2026-03-10 11:02
+ataque,4,8,3.3,66,"google_news_es, elespanol, lavanguardia, elpais, eldiario",5,"Última hora del ataque de EE UU e Israel contra Irán, en directo | La Guardia Revolucionaria responde a Trump: “Somos nosotros los que determinaremos el fin de la guerra” - EL PAÍS",2026-03-10 11:02
+gobierno,4,9,2.93,58,"levante_emv, elcorreo, 20minutos",3,Tesseo: los ciudadanos de Ceuta y Melilla suspenden la gestión sanitaria del Gobierno central,2026-03-10 11:02
+estos,3,7,2.83,56,"elcorreo, google_news_politica, heraldo_aragon",3,Elimina la suciedad de todo tipo de superficies con estos limpiadores a vapor,2026-03-10 11:02
+contra,10,26,2.54,50,"okdiario, google_news_es, 20minutos, levante_emv, newtral",5,"Guerra de EEUU e Israel contra Irán hoy, en directo | Última hora de la situación en Oriente Medio",2026-03-10 11:02
+sigue,3,8,2.48,49,"elcorreo, elpais, levante_emv",3,El presidente del Consejo Europeo rebate a Von der Leyen y afirma que la UE debe «asegurar que el mundo sigue basándose en reglas»,2026-03-10 11:02
+última,4,11,2.4,48,"okdiario, google_news_es, lavanguardia, levante_emv",4,"Guerra de EEUU e Israel contra Irán hoy, en directo | Última hora de la situación en Oriente Medio",2026-03-10 11:02
+directo,6,19,2.08,41,"okdiario, google_news_es, lavanguardia",3,"Guerra de EEUU e Israel contra Irán hoy, en directo | Última hora de la situación en Oriente Medio",2026-03-10 11:02
