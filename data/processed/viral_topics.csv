@@ -1,22 +1,29 @@
 keyword,count_now,count_base,ratio,viral_score,sources,n_sources,sample_title,detected_at
-agresión,3,2,15.0,100,"elcorreo, heraldo_aragon",2,Detenido en Bilbao por un intento de agresión sexual a una mujer,2026-03-11 15:33
-imágenes,3,2,15.0,100,"maldita, elcorreo",2,"No, este vídeo no muestra una manifestación reciente en Madrid en apoyo a Irán: son imágenes de 2025 de una protesta por Palestina",2026-03-11 15:33
-nuevas,3,6,5.0,100,"elcorreo, expansion",2,Leioa suma tres nuevas estaciones de alquiler de bicicletas públicas,2026-03-11 15:33
-repartidores,3,0,5.0,100,"20minutos, expansion, elpais",3,Glovo inicia un ERE para 750 repartidores de 60 localidades de toda España,2026-03-11 15:33
-glovo,3,0,5.0,100,"20minutos, expansion, elpais",3,Glovo inicia un ERE para 750 repartidores de 60 localidades de toda España,2026-03-11 15:33
-unido,3,2,15.0,100,"elcorreo, newtral, levante_emv, france24_es",4,Los sindicatos convocan huelga indefinida en la planta de Tubos Reunidos de Amurrio,2026-03-11 15:33
-reino,3,2,15.0,100,"levante_emv, france24_es",2,Revolut lanza su banco en Reino Unido tras cuatro años de negociaciones,2026-03-11 15:33
-acuerda,3,1,30.0,100,"elmundo, elcorreo, elpais, levante_emv",4,"Más de 30 países, incluido España, acuerdan la mayor liberación de reservas de petróleo de la historia para frenar el 'shock´ de precios y suministro",2026-03-11 15:33
-mujer,4,8,5.0,100,"elcorreo, levante_emv, lavanguardia",3,Detenido en Bilbao por un intento de agresión sexual a una mujer,2026-03-11 15:33
-destruido,3,0,5.0,100,"elpais, google_news_es, levante_emv",3,Los errores de Antonin Kinsky y la gestión de la portería del Tottenham desatan el escándalo en Inglaterra: “Han destruido su carrera”,2026-03-11 15:33
-barriles,4,1,40.0,100,"huffington_es, elcorreo, elpais, elespanol",4,"La Agencia Internacional de la Energia aprueba la mayor liberación de barriles de petróleo de su reserva en la historia, con 400 millones",2026-03-11 15:33
-liberación,4,8,5.0,100,"huffington_es, elmundo, elcorreo, elespanol",4,"La Agencia Internacional de la Energia aprueba la mayor liberación de barriles de petróleo de su reserva en la historia, con 400 millones",2026-03-11 15:33
-mayor,6,9,6.67,100,"huffington_es, elmundo, elcorreo, elpais, okdiario",5,"La Agencia Internacional de la Energia aprueba la mayor liberación de barriles de petróleo de su reserva en la historia, con 400 millones",2026-03-11 15:33
-reivindica,3,1,30.0,100,levante_emv,1,Ciudadanos Vilamarxant reivindica su trabajo tras un año de ser expulsados del gobierno municipal,2026-03-11 15:33
-gestión,3,2,15.0,100,"elcorreo, elpais, google_news_es",3,Las empresas comienzan a incluir la desinformaciónen sus sistemas de gestión del riesgo,2026-03-11 15:33
-historia,5,13,3.85,76,"huffington_es, elmundo, elcorreo, elpais, elespanol",5,"La Agencia Internacional de la Energia aprueba la mayor liberación de barriles de petróleo de su reserva en la historia, con 400 millones",2026-03-11 15:33
-denuncia,3,8,3.75,75,"elcorreo, okdiario",2,El PNV denuncia el «abandono» de parques y zonas verdes en Zaldibar,2026-03-11 15:33
-reservas,4,12,3.33,66,"elmundo, elcorreo, elpais, google_news_es",4,"Más de 30 países, incluido España, acuerdan la mayor liberación de reservas de petróleo de la historia para frenar el 'shock´ de precios y suministro",2026-03-11 15:33
-valència,3,11,2.73,54,levante_emv,1,El Ayuntamiento de València acogerá la presentación de la obra póstuma del exalcalde Ricard Pérez Casado,2026-03-11 15:33
-petróleo,6,24,2.5,50,"newtral, huffington_es, elmundo, elcorreo, elpais",5,"Estados Unidos no ha levantado “todas las sanciones” al petróleo ruso, ha autorizado a India comprar crudo a Moscú durante 30 días",2026-03-11 15:33
-ataque,4,16,2.5,50,"france24_es, elpais, maldita, levante_emv",4,Rusia acusa a Reino Unido de participar en un ataque que mató a seis civiles,2026-03-11 15:33
+acosar,3,0,5.0,100,"eldiario, levante_emv",2,Detenidos dos hombres por acosar y amenazar de muerte a Ione Belarra,2026-03-11 16:03
+trenes,3,2,14.07,100,"maldita, levante_emv",2,"No, Ayuso no habla en este vídeo de trenes ni Puente responde “los trenes puede que lleguen tarde, pero el retraso lo tiene Ayuso”: es un “montaje”",2026-03-11 16:03
+barriles,7,1,65.67,100,"huffington_es, lavanguardia, elcorreo, 20minutos, elpais",5,"La Agencia Internacional de la Energia aprueba la mayor liberación de barriles de petróleo de su reserva en la historia, con 400 millones",2026-03-11 16:03
+aprueba,4,2,18.76,100,"infolibre, huffington_es, elespanol",3,La AIE aprueba la mayor liberación de reservas estratégicas de petróleo de la historia,2026-03-11 16:03
+riesgo,3,2,14.07,100,"elcorreo, eldiario",2,Las empresas comienzan a incluir la desinformación en sus sistemas de gestión del riesgo,2026-03-11 16:03
+historia,9,13,6.49,100,"levante_emv, infolibre, huffington_es, elmundo, elcorreo",5,La AIE libera el 33% de las reservas estratégicas en la mayor descarga de su historia para compensar el parón en el Golfo Pérsico,2026-03-11 16:03
+mayor,10,9,10.42,100,"levante_emv, infolibre, huffington_es, elmundo, elcorreo",5,La AIE libera el 33% de las reservas estratégicas en la mayor descarga de su historia para compensar el parón en el Golfo Pérsico,2026-03-11 16:03
+repartidores,6,2,28.14,100,"levante_emv, 20minutos, eldiario, lavanguardia, expansion",5,Glovo inicia un ere para despedir a 750 repartidores en España,2026-03-11 16:03
+glovo,7,2,32.83,100,"levante_emv, elcorreo, 20minutos, eldiario, lavanguardia",5,Glovo inicia un ere para despedir a 750 repartidores en España,2026-03-11 16:03
+reservas,11,13,7.94,100,"france24_es, google_news_es, levante_emv, infolibre, lavanguardia",5,"AIE hará liberación récord de reservas petroleras, mientras Irán pide prepararse para un barril de USD 200",2026-03-11 16:03
+liberación,10,8,11.73,100,"france24_es, google_news_es, infolibre, huffington_es, elmundo",5,"AIE hará liberación récord de reservas petroleras, mientras Irán pide prepararse para un barril de USD 200",2026-03-11 16:03
+amenazar,3,0,5.0,100,"eldiario, levante_emv",2,Detenidos dos hombres por acosar y amenazar de muerte a Ione Belarra,2026-03-11 16:03
+directora,3,2,14.07,100,"huffington_es, levante_emv",2,"Isabel Coixet, directora de cine: &quot;La ignorancia ya no se disimula; se exhibe y se monetiza&quot;",2026-03-11 16:03
+puente,6,5,11.26,100,"levante_emv, maldita, eldiario",3,Óscar Puente sobre la polémica de las Cercanías en fallas,2026-03-11 16:03
+óscar,3,2,14.07,100,"levante_emv, eldiario",2,Óscar Puente sobre la polémica de las Cercanías en fallas,2026-03-11 16:03
+basura,3,1,28.14,100,"levante_emv, okdiario",2,La ausencia de acuerdo tras el arbitraje aboca a una huelga en la recogida de basura en plenas Fallas en Carcaixent,2026-03-11 16:03
+huelga,3,3,9.38,100,"levante_emv, elcorreo",2,La ausencia de acuerdo tras el arbitraje aboca a una huelga en la recogida de basura en plenas Fallas en Carcaixent,2026-03-11 16:03
+contratos,3,3,9.38,100,"eldiario, okdiario, levante_emv",3,"Hacienda detecta incrementos de precio que ""incumplen la normativa"" en contratos de obra investigados en el caso contra Cerdán",2026-03-11 16:03
+hacienda,4,3,12.51,100,"eldiario, okdiario, elcorreo, levante_emv",4,"Hacienda detecta incrementos de precio que ""incumplen la normativa"" en contratos de obra investigados en el caso contra Cerdán",2026-03-11 16:03
+belarra,4,0,5.0,100,"eldiario, levante_emv, elcorreo",3,Detenidos dos hombres por acosar y amenazar de muerte a Ione Belarra,2026-03-11 16:03
+acuerda,3,1,28.14,100,"elmundo, elcorreo, elpais, levante_emv",4,"Más de 30 países, incluido España, acuerdan la mayor liberación de reservas de petróleo de la historia para frenar el 'shock´ de precios y suministro",2026-03-11 16:03
+petróleo,12,23,4.89,97,"google_news_es, infolibre, newtral, huffington_es, lavanguardia",5,Irán no quiere que el petróleo siga fluyendo. ¿Qué está planeando? - XTB.com,2026-03-11 16:03
+muerte,3,7,4.02,80,"eldiario, levante_emv",2,Detenidos dos hombres por acosar y amenazar de muerte a Ione Belarra,2026-03-11 16:03
+millones,10,24,3.91,78,"levante_emv, eldiario, okdiario, huffington_es, lavanguardia",5,El gigante de la limpieza ISS Iberia supera los 775 millones de facturación y crece a doble dígito,2026-03-11 16:03
+estratégicas,3,8,3.52,70,"levante_emv, infolibre, heraldo_aragon",3,La AIE libera el 33% de las reservas estratégicas en la mayor descarga de su historia para compensar el parón en el Golfo Pérsico,2026-03-11 16:03
+vídeo,4,13,2.89,57,"maldita, levante_emv, eldiario",3,"No, Ayuso no habla en este vídeo de trenes ni Puente responde “los trenes puede que lleguen tarde, pero el retraso lo tiene Ayuso”: es un “montaje”",2026-03-11 16:03
+precio,3,10,2.81,56,"eldiario, levante_emv, elmundo, newtral",4,"Hacienda detecta incrementos de precio que ""incumplen la normativa"" en contratos de obra investigados en el caso contra Cerdán",2026-03-11 16:03
+fallas,3,12,2.35,46,levante_emv,1,La ausencia de acuerdo tras el arbitraje aboca a una huelga en la recogida de basura en plenas Fallas en Carcaixent,2026-03-11 16:03
