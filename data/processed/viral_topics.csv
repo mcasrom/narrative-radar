@@ -1,19 +1,27 @@
 keyword,count_now,count_base,ratio,viral_score,sources,n_sources,sample_title,detected_at
-canet,3,0,5.0,100,levante_emv,1,TM construirá 2 torres de 19 plantas en Canet a rebufo de la gigafactoría de Sagunt,2026-03-11 12:33
-netanyahu,3,1,16.92,100,"elcorreo, 20minutos, elespanol",3,El Gobierno cesa a la embajadora en Israel tras el último choque con Netanyahu,2026-03-11 12:33
-banda,3,2,8.46,100,"levante_emv, okdiario",2,Desarticulan una banda que robaba coches en Alicante y Valencia para venderlos en Francia,2026-03-11 12:33
-forinvest,3,0,5.0,100,levante_emv,1,Aznar analiza la relación entre la Unión Europea y Estados Unidos en Forinvest,2026-03-11 12:33
-padre,3,1,16.92,100,"elpais, lavanguardia",2,"El espionaje israelí cree que el nuevo líder de Irán, Mojtaba Jameneí, resultó herido en el bombardeo que mató a su padre",2026-03-11 12:33
-europea,3,3,5.64,100,"elcorreo, levante_emv",2,Bruselas lleva a España ante la Justicia europea por no trasponer al derecho nacional la normativa europea sobre el IVA,2026-03-11 12:33
-embajadora,3,1,16.92,100,"elcorreo, 20minutos, elespanol",3,El Gobierno cesa a la embajadora en Israel tras el último choque con Netanyahu,2026-03-11 12:33
-aznar,5,0,5.0,100,"elconfidencial, elcorreo, levante_emv",3,"Aznar y el ‘No a la guerra’ de Sánchez: ""El ataque a Irán está justificado y España tiene que estar con sus aliados""",2026-03-11 12:33
-cadena,3,2,8.46,100,"levante_emv, elpais",2,"Inditex descarta que la guerra de Irán impacte en su negocio, precios o cadena de suministro: ""Si algo nos han enseñado los últimos tiempos es que tenemos capacidad de reacción""",2026-03-11 12:33
-mujer,3,4,4.23,84,"levante_emv, elpais, elcorreo, heraldo_aragon, 20minutos",5,"El Real de Gandia reconoce a Isabel Sanfélix, Isa Fayos y Rosa María Bertomeu con motivo del Día de la Mujer",2026-03-11 12:33
-china,3,5,3.38,67,"okdiario, infolibre",2,Fernando Alonso adelanta que Aston Martin tampoco será competitivo en China: «No hay tiempo»,2026-03-11 12:33
-frente,3,5,3.38,67,"huffington_es, elcorreo, eldiario",3,Ventajas de trabajar con un bróker frente a negociar con el banco,2026-03-11 12:33
-antes,3,5,3.38,67,"okdiario, heraldo_aragon, lavanguardia",3,Hacer búlgaras está bien pero hay un ejercicio mucho mejor para marcar músculo antes del verano,2026-03-11 12:33
-gandia,3,7,2.42,48,levante_emv,1,"""El asesino de TikTok"", la docuserie de Netflix que se adentra en la historia de Esther Estepa, desaparecida en Gandia",2026-03-11 12:33
-gobierno,6,14,2.42,48,"levante_emv, elcorreo, 20minutos, elespanol",4,Yolanda Díaz avanza que el Gobierno aprobará la semana que viene medidas contra los efectos de la guerra,2026-03-11 12:33
-valencia,4,10,2.26,45,levante_emv,1,Desarticulan una banda que robaba coches en Alicante y Valencia para venderlos en Francia,2026-03-11 12:33
-precios,3,8,2.12,42,"levante_emv, elmundo, expansion",3,"Inditex descarta que la guerra de Irán impacte en su negocio, precios o cadena de suministro: ""Si algo nos han enseñado los últimos tiempos es que tenemos capacidad de reacción""",2026-03-11 12:33
-nuevo,5,14,2.01,40,"huffington_es, elcorreo, elpais, eldiario",4,OPPO pone fin al gran dilema de los móviles plegables: así es como ha dicho adiós al pliegue de su nuevo Find N6,2026-03-11 12:33
+renfe,3,0,5.0,100,"levante_emv, elpais",2,Renfe incorporará a 550 maquinistas a su oferta pública de empleo para este año,2026-03-11 13:03
+último,4,1,22.69,100,"elmundo_espana, levante_emv, elcorreo, 20minutos, lavanguardia",5,El Gobierno rebaja su representación en Israel con el cese de la embajadora tras el último choque con Netanyahu,2026-03-11 13:03
+investigadores,4,1,22.69,100,"okdiario, expansion",2,Terremoto en la ciencia europea: investigadores del CERN transforman plomo en oro (pero solo durante 10⁻²³ segundos),2026-03-11 13:03
+europea,5,3,9.46,100,"okdiario, eldiario, elcorreo",3,Terremoto en la ciencia europea: investigadores del CERN transforman plomo en oro (pero solo durante 10⁻²³ segundos),2026-03-11 13:03
+planes,4,0,5.0,100,levante_emv,1,"Muere a los 91 años el valenciano Luis Planes, fundador de Pollos Planes",2026-03-11 13:03
+mejora,3,0,5.0,100,"levante_emv, expansion",2,Cortes nocturnos en la carretera de la Gombalda entre Museros y Massamagrell por obras de mejora del firme,2026-03-11 13:03
+descarta,4,2,11.35,100,"elcorreo, elespanol, levante_emv",3,Robles descarta que la fragata española destacada en Chipre participe en una misión en Ormuz,2026-03-11 13:03
+netanyahu,4,2,11.35,100,"elmundo_espana, elcorreo, 20minutos, lavanguardia",4,El Gobierno rebaja su representación en Israel con el cese de la embajadora tras el último choque con Netanyahu,2026-03-11 13:03
+choque,4,1,22.69,100,"elmundo_espana, elcorreo, 20minutos, lavanguardia",4,El Gobierno rebaja su representación en Israel con el cese de la embajadora tras el último choque con Netanyahu,2026-03-11 13:03
+aznar,5,3,9.46,100,"elespanol, expansion, lavanguardia, elconfidencial, elcorreo",5,"Aznar pide que España esté ""del lado de sus aliados"" pero se desmarca de Trump: ""Ni me gusta él, ni Sánchez ni Abascal""",2026-03-11 13:03
+embajadora,4,2,11.35,100,"elmundo_espana, elcorreo, 20minutos, lavanguardia",4,El Gobierno rebaja su representación en Israel con el cese de la embajadora tras el último choque con Netanyahu,2026-03-11 13:03
+bruselas,4,2,11.35,100,"okdiario, elespanol, elcorreo",3,Almaraz se postula como pieza clave para la soberanía energética tras admitir Bruselas su «error» con las nucleares,2026-03-11 13:03
+periodismo,3,0,5.0,100,"elmundo, elespanol, heraldo_aragon",3,"La despedida de Raúl del Pozo en la Casa de la Villa de Madrid: ""Es muy difícil entender la Transición y el periodismo sin él""",2026-03-11 13:03
+trasponer,3,0,5.0,100,"eldiario, elcorreo",2,La Comisión Europea lleva a España a los tribunales por no trasponer la directiva que exime del IVA a los autónomos,2026-03-11 13:03
+nacional,4,5,4.54,90,"expansion, 20minutos, elespanol, elcorreo, levante_emv",5,"Aznar: ""El valor de las alianzas internacionales es lo que hay que poner ahora encima de la mesa""",2026-03-11 13:03
+sarah,3,4,4.25,85,"levante_emv, huffington_es, google_news_politica",3,"Nacho Abad lanza un comunicado después de la salida de Sarah Santaolalla de 'En boca de todos': ""Sentimos una profunda decepción""",2026-03-11 13:03
+mojtaba,3,4,4.25,85,"okdiario, elpais, google_news_es",3,Irán anuncia que el ayatolá Mojtaba Jamenei se encuentra «sano y salvo» tras el ataque de EEUU e Israel,2026-03-11 13:03
+santaolalla,3,4,4.25,85,"levante_emv, huffington_es, google_news_politica",3,"Nacho Abad lanza un comunicado después de la salida de Sarah Santaolalla de 'En boca de todos': ""Sentimos una profunda decepción""",2026-03-11 13:03
+denuncia,3,4,4.25,85,"okdiario, eldiario, elcorreo, 20minutos",4,Bolaño ridiculiza a Ada Lluch por denunciar la inseguridad en un barrio árabe: «He estado y no me han violado»,2026-03-11 13:03
+lleva,3,5,3.4,68,"levante_emv, eldiario, elcorreo",3,La JLF de Carcaixent depurará responsabilidades por el amaño de los premios y llevará a partir ahora las votaciones a un notario,2026-03-11 13:03
+gobierno,7,13,3.05,61,"elmundo_espana, elpais, levante_emv, elcorreo, 20minutos",5,El Gobierno rebaja su representación en Israel con el cese de la embajadora tras el último choque con Netanyahu,2026-03-11 13:03
+ahora,5,10,2.84,56,"levante_emv, expansion, okdiario, elcorreo",4,La JLF de Carcaixent depurará responsabilidades por el amaño de los premios y llevará a partir ahora las votaciones a un notario,2026-03-11 13:03
+frente,3,6,2.84,56,"google_news_politica, elcorreo, huffington_es",3,"El alegato de Sarah Santaolalla frente al acoso de los ultras: ""No hay que dejar que ninguna voz no importe"" - ElPlural.com",2026-03-11 13:03
+siempre,3,7,2.43,48,"huffington_es, okdiario, elcorreo, levante_emv",4,"Henar Álvarez, presentadora de televisión: &quot;A nosotras nos quieren siempre y cuando no hagamos sombra a nadie&quot;",2026-03-11 13:03
+crisis,3,8,2.13,42,"elpais, levante_emv, elespanol",3,El Gobierno reúne este jueves a sindicatos y patronal para plantear medidas contra la crisis energética,2026-03-11 13:03
+israel,9,25,2.04,40,"maldita, elmundo_espana, okdiario, levante_emv, elcorreo",5,Este vídeo no muestra a un general iraní suicidándose en directo por traicionar a su país por dar posiciones exactas al enemigo durante los ataques de EEUU e Israel contra Irán,2026-03-11 13:03
