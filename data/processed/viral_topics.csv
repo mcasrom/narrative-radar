@@ -1,16 +1,22 @@
 keyword,count_now,count_base,ratio,viral_score,sources,n_sources,sample_title,detected_at
-collserola,3,5,6.98,100,"levante_emv, elmundo, eldiario",3,Barcelona cierra los accesos a Collserola tras detectarse el primer caso de peste porcina en el municipio,2026-03-11 15:03
-peste,4,5,9.31,100,"levante_emv, elmundo, infolibre, eldiario",4,Barcelona cierra los accesos a Collserola tras detectarse el primer caso de peste porcina en el municipio,2026-03-11 15:03
-porcina,4,5,9.31,100,"levante_emv, elmundo, infolibre, eldiario",4,Barcelona cierra los accesos a Collserola tras detectarse el primer caso de peste porcina en el municipio,2026-03-11 15:03
-valència,5,10,5.82,100,levante_emv,1,El Ayuntamiento de València acogerá la presentación de la obra póstuma del exalcalde Ricard Pérez Casado,2026-03-11 15:03
-blanca,3,2,17.45,100,"elpais, elmundo, 20minutos",3,Detenido un conductor tras embestir contra una barricada protectora de la Casa Blanca,2026-03-11 15:03
-inflación,3,0,5.0,100,"elcorreo, okdiario",2,Las diputaciones vascas anuncian que ajustarán los impuestos a la baja si la guerra dispara la inflación,2026-03-11 15:03
-mujer,3,6,5.82,100,"elcorreo, lavanguardia",2,"Andrazko, la nueva marca de ropa deportiva para mujeres pelotaris",2026-03-11 15:03
-obliga,3,6,5.82,100,"elmundo, infolibre, eldiario",3,El primer positivo en Barcelona de un jabalí con peste porcina africana obliga a cerrar todo el Parque Natural de Collserola,2026-03-11 15:03
-cerrar,3,4,8.73,100,"elmundo, levante_emv, eldiario",3,El primer positivo en Barcelona de un jabalí con peste porcina africana obliga a cerrar todo el Parque Natural de Collserola,2026-03-11 15:03
-barcelona,4,13,3.58,71,"levante_emv, elmundo, infolibre, eldiario",4,Barcelona cierra los accesos a Collserola tras detectarse el primer caso de peste porcina en el municipio,2026-03-11 15:03
-antes,3,10,3.49,69,"okdiario, lavanguardia",2,"La inflación de EEUU se estancó en el 2,4% en febrero, justo antes de la guerra de Irán",2026-03-11 15:03
-primer,3,13,2.68,53,"levante_emv, elmundo, eldiario",3,Barcelona cierra los accesos a Collserola tras detectarse el primer caso de peste porcina en el municipio,2026-03-11 15:03
-ayuso,3,14,2.49,49,"eldiario, infolibre, google_news_es",3,El Constitucional censura el procedimiento de Ayuso para la reforma que permitió al PP controlar Telemadrid,2026-03-11 15:03
-nueva,4,22,2.12,42,"elcorreo, expansion, levante_emv, 20minutos, okdiario",5,"Andrazko, la nueva marca de ropa deportiva para mujeres pelotaris",2026-03-11 15:03
-contra,7,39,2.09,41,"elpais, elcorreo, infolibre, elmundo, 20minutos",5,Detenido un conductor tras embestir contra una barricada protectora de la Casa Blanca,2026-03-11 15:03
+agresión,3,2,15.0,100,"elcorreo, heraldo_aragon",2,Detenido en Bilbao por un intento de agresión sexual a una mujer,2026-03-11 15:33
+imágenes,3,2,15.0,100,"maldita, elcorreo",2,"No, este vídeo no muestra una manifestación reciente en Madrid en apoyo a Irán: son imágenes de 2025 de una protesta por Palestina",2026-03-11 15:33
+nuevas,3,6,5.0,100,"elcorreo, expansion",2,Leioa suma tres nuevas estaciones de alquiler de bicicletas públicas,2026-03-11 15:33
+repartidores,3,0,5.0,100,"20minutos, expansion, elpais",3,Glovo inicia un ERE para 750 repartidores de 60 localidades de toda España,2026-03-11 15:33
+glovo,3,0,5.0,100,"20minutos, expansion, elpais",3,Glovo inicia un ERE para 750 repartidores de 60 localidades de toda España,2026-03-11 15:33
+unido,3,2,15.0,100,"elcorreo, newtral, levante_emv, france24_es",4,Los sindicatos convocan huelga indefinida en la planta de Tubos Reunidos de Amurrio,2026-03-11 15:33
+reino,3,2,15.0,100,"levante_emv, france24_es",2,Revolut lanza su banco en Reino Unido tras cuatro años de negociaciones,2026-03-11 15:33
+acuerda,3,1,30.0,100,"elmundo, elcorreo, elpais, levante_emv",4,"Más de 30 países, incluido España, acuerdan la mayor liberación de reservas de petróleo de la historia para frenar el 'shock´ de precios y suministro",2026-03-11 15:33
+mujer,4,8,5.0,100,"elcorreo, levante_emv, lavanguardia",3,Detenido en Bilbao por un intento de agresión sexual a una mujer,2026-03-11 15:33
+destruido,3,0,5.0,100,"elpais, google_news_es, levante_emv",3,Los errores de Antonin Kinsky y la gestión de la portería del Tottenham desatan el escándalo en Inglaterra: “Han destruido su carrera”,2026-03-11 15:33
+barriles,4,1,40.0,100,"huffington_es, elcorreo, elpais, elespanol",4,"La Agencia Internacional de la Energia aprueba la mayor liberación de barriles de petróleo de su reserva en la historia, con 400 millones",2026-03-11 15:33
+liberación,4,8,5.0,100,"huffington_es, elmundo, elcorreo, elespanol",4,"La Agencia Internacional de la Energia aprueba la mayor liberación de barriles de petróleo de su reserva en la historia, con 400 millones",2026-03-11 15:33
+mayor,6,9,6.67,100,"huffington_es, elmundo, elcorreo, elpais, okdiario",5,"La Agencia Internacional de la Energia aprueba la mayor liberación de barriles de petróleo de su reserva en la historia, con 400 millones",2026-03-11 15:33
+reivindica,3,1,30.0,100,levante_emv,1,Ciudadanos Vilamarxant reivindica su trabajo tras un año de ser expulsados del gobierno municipal,2026-03-11 15:33
+gestión,3,2,15.0,100,"elcorreo, elpais, google_news_es",3,Las empresas comienzan a incluir la desinformaciónen sus sistemas de gestión del riesgo,2026-03-11 15:33
+historia,5,13,3.85,76,"huffington_es, elmundo, elcorreo, elpais, elespanol",5,"La Agencia Internacional de la Energia aprueba la mayor liberación de barriles de petróleo de su reserva en la historia, con 400 millones",2026-03-11 15:33
+denuncia,3,8,3.75,75,"elcorreo, okdiario",2,El PNV denuncia el «abandono» de parques y zonas verdes en Zaldibar,2026-03-11 15:33
+reservas,4,12,3.33,66,"elmundo, elcorreo, elpais, google_news_es",4,"Más de 30 países, incluido España, acuerdan la mayor liberación de reservas de petróleo de la historia para frenar el 'shock´ de precios y suministro",2026-03-11 15:33
+valència,3,11,2.73,54,levante_emv,1,El Ayuntamiento de València acogerá la presentación de la obra póstuma del exalcalde Ricard Pérez Casado,2026-03-11 15:33
+petróleo,6,24,2.5,50,"newtral, huffington_es, elmundo, elcorreo, elpais",5,"Estados Unidos no ha levantado “todas las sanciones” al petróleo ruso, ha autorizado a India comprar crudo a Moscú durante 30 días",2026-03-11 15:33
+ataque,4,16,2.5,50,"france24_es, elpais, maldita, levante_emv",4,Rusia acusa a Reino Unido de participar en un ataque que mató a seis civiles,2026-03-11 15:33
