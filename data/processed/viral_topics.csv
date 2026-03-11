@@ -1,37 +1,24 @@
 keyword,count_now,count_base,ratio,viral_score,sources,n_sources,sample_title,detected_at
-mascletà,3,3,6.53,100,levante_emv,1,Búscate en la mascletà de las fallas de València de este 11 de marzo,2026-03-11 14:03
-grave,3,0,5.0,100,"elcorreo, okdiario, levante_emv, elmundo",4,"Tres niños heridos, dos graves, por quemaduras durante un experimento escolar en Girona",2026-03-11 14:03
-girona,4,5,5.22,100,"elcorreo, levante_emv, huffington_es, elmundo",4,"Tres niños heridos, dos graves, por quemaduras durante un experimento escolar en Girona",2026-03-11 14:03
-fallas,7,6,7.61,100,"levante_emv, elconfidencial",2,Búscate en la mascletà de las fallas de València de este 11 de marzo,2026-03-11 14:03
-peste,3,0,5.0,100,"lavanguardia, 20minutos, elpais",3,Otro caso de peste porcina en Barcelona obliga a volver a cerrar el Parque de Collserola,2026-03-11 14:03
-puente,3,0,5.0,100,"okdiario, newtral, huffington_es",3,Éste es el vídeo real de Puente diciendo que Ayuso no tiene «un estado mental mínimamente normal»,2026-03-11 14:03
-porcina,3,0,5.0,100,"lavanguardia, 20minutos, elpais",3,Otro caso de peste porcina en Barcelona obliga a volver a cerrar el Parque de Collserola,2026-03-11 14:03
-parque,3,0,5.0,100,"lavanguardia, 20minutos, elpais",3,Otro caso de peste porcina en Barcelona obliga a volver a cerrar el Parque de Collserola,2026-03-11 14:03
-collserola,3,0,5.0,100,"lavanguardia, 20minutos, elpais",3,Otro caso de peste porcina en Barcelona obliga a volver a cerrar el Parque de Collserola,2026-03-11 14:03
-oviedo,3,1,19.58,100,"elcorreo, levante_emv, elpais",3,Los padres de la 'casa de los horrores' de Oviedo alegan un «trastorno mental leve» por el «miedo» a salir de casa en la pandemia,2026-03-11 14:03
-explosión,4,3,8.7,100,"okdiario, levante_emv, elmundo",3,Dos niños en estado grave tras la explosión en el laboratorio en un colegio de Gerona,2026-03-11 14:03
-experimento,4,5,5.22,100,"elcorreo, levante_emv, huffington_es, elmundo",4,"Tres niños heridos, dos graves, por quemaduras durante un experimento escolar en Girona",2026-03-11 14:03
-colegio,3,2,9.79,100,"okdiario, huffington_es",2,Dos niños en estado grave tras la explosión en el laboratorio en un colegio de Gerona,2026-03-11 14:03
-bolaños,4,3,8.7,100,"elcorreo, elmundo_espana, 20minutos, elpais",4,Bolaños realiza una ronda exprés por teléfono para pedir sus propuestas a los grupos,2026-03-11 14:03
-advierte,3,2,9.79,100,"levante_emv, google_news_politica, elmundo_espana",3,"Gandia advierte: ""Tolerancia cero"" ante las conductas incívicas estas Fallas",2026-03-11 14:03
-ayuso,6,6,6.53,100,"levante_emv, okdiario, newtral, huffington_es, elpais",5,El Constitucional ampara al PSOE y establece que Ayuso vulneró derechos políticos al suprimir la posibilidad de enmiendas a la ley de Telemadrid,2026-03-11 14:03
-constitucional,3,0,5.0,100,"levante_emv, infolibre, elpais",3,El Constitucional ampara al PSOE y establece que Ayuso vulneró derechos políticos al suprimir la posibilidad de enmiendas a la ley de Telemadrid,2026-03-11 14:03
-feijóo,3,1,19.58,100,"okdiario, elcorreo",2,"Feijóo sobre ‘Hodio’, la nueva herramienta de Sánchez: «Sienta cátedra sobre lo que sí domina, el odio»",2026-03-11 14:03
-xàtiva,3,2,9.79,100,levante_emv,1,Mudanzas en las Fallas de Xàtiva: tres monumentos y cinco carpas cambian de ubicación,2026-03-11 14:03
-grupos,4,2,13.05,100,"elcorreo, elmundo_espana, 20minutos, lavanguardia",4,Bolaños realiza una ronda exprés por teléfono para pedir sus propuestas a los grupos,2026-03-11 14:03
-quemaduras,3,1,19.58,100,"elcorreo, huffington_es, elmundo",3,"Tres niños heridos, dos graves, por quemaduras durante un experimento escolar en Girona",2026-03-11 14:03
-niños,6,8,4.89,97,"elcorreo, okdiario, levante_emv, lavanguardia",4,"Tres niños heridos, dos graves, por quemaduras durante un experimento escolar en Girona",2026-03-11 14:03
-hecho,3,4,4.89,97,"20minutos, okdiario, elcorreo",3,"Koldo declara que ""la verdad se conocerá"" con el tiempo: ""No pensé que fueran a hacer el daño que han hecho a mi entorno""",2026-03-11 14:03
-menores,5,7,4.66,93,"okdiario, levante_emv, lavanguardia, huffington_es, elmundo",5,Aedas Homes vende el 25% de sus viviendas a jóvenes menores de 35 años,2026-03-11 14:03
-estado,4,6,4.35,87,"okdiario, google_news_politica, lavanguardia, elmundo",4,Éste es el vídeo real de Puente diciendo que Ayuso no tiene «un estado mental mínimamente normal»,2026-03-11 14:03
-barcelona,5,8,4.08,81,"lavanguardia, 20minutos, elpais, levante_emv",4,Otro caso de peste porcina en Barcelona obliga a volver a cerrar el Parque de Collserola,2026-03-11 14:03
-valència,4,7,3.73,74,levante_emv,1,Búscate en la mascletà de las fallas de València de este 11 de marzo,2026-03-11 14:03
-graves,4,8,3.26,65,"elcorreo, levante_emv, okdiario",3,"Tres niños heridos, dos graves, por quemaduras durante un experimento escolar en Girona",2026-03-11 14:03
-mundial,5,10,3.26,65,"elcorreo, google_news_es, lavanguardia, 20minutos, levante_emv",5,Irán prácticamente descarta su participación en el Mundial,2026-03-11 14:03
-viviendas,3,6,3.26,65,"okdiario, elcorreo",2,Aedas Homes vende el 25% de sus viviendas a jóvenes menores de 35 años,2026-03-11 14:03
-koldo,3,6,3.26,65,"20minutos, elmundo_espana, elpais",3,"Koldo declara que ""la verdad se conocerá"" con el tiempo: ""No pensé que fueran a hacer el daño que han hecho a mi entorno""",2026-03-11 14:03
-gobierno,11,23,3.12,62,"infolibre, elcorreo, newtral, google_news_politica, levante_emv",5,El Gobierno amenaza con llevar al Constitucional la derogación de la ley de memoria balear,2026-03-11 14:03
-víctimas,3,7,2.8,55,"levante_emv, elmundo, huffington_es",3,La macro causa de Adamuz se organiza en 50 piezas separadas para responder a las víctimas del accidente ferroviario,2026-03-11 14:03
-vídeo,3,8,2.45,48,"okdiario, newtral, levante_emv",3,Éste es el vídeo real de Puente diciendo que Ayuso no tiene «un estado mental mínimamente normal»,2026-03-11 14:03
-descarta,3,8,2.45,48,"elcorreo, google_news_es, lavanguardia",3,Irán prácticamente descarta su participación en el Mundial,2026-03-11 14:03
-cadena,3,8,2.45,48,"okdiario, google_news_es, 20minutos",3,Archivos desclasificados revelan que una cadena de fallos provocó el peor desastre submarino de Estados Unidos,2026-03-11 14:03
+puente,3,1,25.98,100,"okdiario, newtral",2,Éste es el vídeo real de Puente diciendo que Ayuso no tiene «un estado mental mínimamente normal»,2026-03-11 14:33
+constitucional,3,1,25.98,100,"levante_emv, lavanguardia, infolibre",3,El Constitucional ampara al PSOE y establece que Ayuso vulneró derechos políticos al suprimir la posibilidad de enmiendas a la ley de Telemadrid,2026-03-11 14:33
+porcina,4,4,8.66,100,"elmundo, infolibre, eldiario, huffington_es",4,El primer positivo en Barcelona de un jabalí con peste porcina africana obliga a cerrar todo el Parque Natural de Collserola,2026-03-11 14:33
+obliga,4,5,6.93,100,"elmundo, infolibre, eldiario, elcorreo",4,El primer positivo en Barcelona de un jabalí con peste porcina africana obliga a cerrar todo el Parque Natural de Collserola,2026-03-11 14:33
+parque,3,4,6.49,100,"elmundo, eldiario, huffington_es",3,El primer positivo en Barcelona de un jabalí con peste porcina africana obliga a cerrar todo el Parque Natural de Collserola,2026-03-11 14:33
+collserola,3,4,6.49,100,"elmundo, eldiario, huffington_es",3,El primer positivo en Barcelona de un jabalí con peste porcina africana obliga a cerrar todo el Parque Natural de Collserola,2026-03-11 14:33
+festival,3,5,5.2,100,"levante_emv, okdiario, lavanguardia",3,Llíria acoge la VIII edición del Festival de Patrimonio Histórico y Música Antigua “eMe” 2026 en la iglesia de la Sang,2026-03-11 14:33
+mental,3,0,5.0,100,"levante_emv, elcorreo, okdiario",3,Maratón de cortos documentales en el Centre del Carme,2026-03-11 14:33
+fallas,7,8,7.58,100,"levante_emv, elconfidencial",2,Pirotecnia Tomás brilla en València con un disparo excelente en una plaza a rebosar: la mascletà de Fallas triunfa a pleno sol,2026-03-11 14:33
+palma,3,3,8.66,100,"okdiario, lavanguardia",2,El Ayuntamiento blindará la Playa de Palma con 21 cámaras durante la nueva temporada turística,2026-03-11 14:33
+quedar,3,0,5.0,100,"lavanguardia, elcorreo, okdiario",3,Nacho Abad responde a Santaolalla tras su dimisión: “Va a quedar siempre en tu conciencia”,2026-03-11 14:33
+peste,4,4,8.66,100,"elmundo, infolibre, eldiario, huffington_es",4,El primer positivo en Barcelona de un jabalí con peste porcina africana obliga a cerrar todo el Parque Natural de Collserola,2026-03-11 14:33
+feijóo,3,2,12.99,100,"elcorreo, okdiario",2,"Feijóo, Yolanda Díaz y Mañueco... Las muestras de «cariño, solidaridad y pésame» se suceden por la tragedia de Miranda",2026-03-11 14:33
+horrores,3,1,25.98,100,"elcorreo, lavanguardia",2,Los padres de la 'casa de los horrores' de Oviedo alegan «miedo» a salir de casa en la pandemia,2026-03-11 14:33
+padres,3,4,6.49,100,"elcorreo, lavanguardia",2,Los padres de la 'casa de los horrores' de Oviedo alegan «miedo» a salir de casa en la pandemia,2026-03-11 14:33
+puede,4,7,4.95,98,"google_news_es, eldiario, elcorreo, lavanguardia",4,La huella de los antibióticos en tu intestino puede durar hasta ocho años - ABC,2026-03-11 14:33
+ayuso,5,10,4.33,86,"levante_emv, expansion, okdiario, newtral",4,El Constitucional ampara al PSOE y establece que Ayuso vulneró derechos políticos al suprimir la posibilidad de enmiendas a la ley de Telemadrid,2026-03-11 14:33
+valència,4,9,3.85,76,levante_emv,1,Pirotecnia Tomás brilla en València con un disparo excelente en una plaza a rebosar: la mascletà de Fallas triunfa a pleno sol,2026-03-11 14:33
+responde,3,7,3.71,74,"20minutos, lavanguardia, newtral",3,"Nacho Abad responde a Sarah Santaolalla: ""No te hemos tratado de forma inhumana ni somos machistas ni mentirosos""",2026-03-11 14:33
+pedro,3,8,3.25,64,"maldita, huffington_es, okdiario",3,"No, esta imagen de ""Pedro Sánchez tras desplomarse por agotamiento severo"" en el Congreso no es real: ha sido creada con Gemini, la IA de Google",2026-03-11 14:33
+estado,3,9,2.89,57,"okdiario, elpais_internacional, 20minutos",3,Los policías advierten: el atestado de la fiesta de Sicilia sólo pudo desaparecer por «orden expresa» de Interior,2026-03-11 14:33
+vídeo,3,9,2.89,57,"okdiario, newtral",2,Éste es el vídeo real de Puente diciendo que Ayuso no tiene «un estado mental mínimamente normal»,2026-03-11 14:33
+barcelona,4,13,2.66,53,"elmundo, infolibre, eldiario, huffington_es",4,El primer positivo en Barcelona de un jabalí con peste porcina africana obliga a cerrar todo el Parque Natural de Collserola,2026-03-11 14:33
