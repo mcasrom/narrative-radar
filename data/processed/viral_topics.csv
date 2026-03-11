@@ -1,26 +1,15 @@
 keyword,count_now,count_base,ratio,viral_score,sources,n_sources,sample_title,detected_at
-cuidado,3,0,5.0,100,maldita,1,Cuidado con este vídeo de un supuesto soldado estadounidense llorando tras un ataque iraní: presenta indicios de haber sido generado con IA,2026-03-11 11:33
-mujeres,4,5,5.56,100,"elmundo, elpais, elcorreo",3,Detenido un hombre por la muerte de tres mujeres en un incendio provocado en Miranda de Ebro (Burgos),2026-03-11 11:33
-muerto,3,4,5.21,100,"elpais, elcorreo",2,Detenido un hombre acusado de provocar el incendio de una vivienda en Miranda de Ebro en el que han muerto tres personas,2026-03-11 11:33
-guindos,3,0,5.0,100,"okdiario, expansion, 20minutos",3,Guindos admite que la guerra de Irán lastrará el crecimiento y subirá los precios,2026-03-11 11:33
-proyectos,3,1,20.85,100,"eldiario, europapress, maldita",3,Aagesen anuncia la suspensión los proyectos de Forestalia bajo investigación judicial y pide una auditoría en el Miteco,2026-03-11 11:33
-aagesen,4,2,13.9,100,"eldiario, levante_emv, europapress, lavanguardia",4,Aagesen anuncia la suspensión los proyectos de Forestalia bajo investigación judicial y pide una auditoría en el Miteco,2026-03-11 11:33
-comparativa,3,0,5.0,100,okdiario,1,Las mejores plataformas de streaming de vídeo: comparativa de precio y catálogo,2026-03-11 11:33
-plataformas,3,1,20.85,100,"okdiario, lavanguardia",2,Las mejores plataformas de streaming de vídeo: comparativa de precio y catálogo,2026-03-11 11:33
-mejores,6,8,5.21,100,"okdiario, elcorreo",2,Las mejores plataformas de streaming de vídeo: comparativa de precio y catálogo,2026-03-11 11:33
-horario,3,2,10.42,100,"20minutos, expansion, heraldo_aragon",3,Horario y dónde ver el debut del español Hecher Sosa en UFC,2026-03-11 11:33
-vídeo,5,3,11.58,100,"maldita, okdiario",2,Cuidado con este vídeo de un supuesto soldado estadounidense llorando tras un ataque iraní: presenta indicios de haber sido generado con IA,2026-03-11 11:33
-provocado,3,3,6.95,100,"elmundo, elcorreo",2,Detenido un hombre por la muerte de tres mujeres en un incendio provocado en Miranda de Ebro (Burgos),2026-03-11 11:33
-pedro,3,3,6.95,100,"elpais, google_news_es, 20minutos",3,"Pedro Sánchez lanza HODIO, una herramienta contra la polarización en las redes sociales: “Tendrán que rendir cuentas”",2026-03-11 11:33
-detenido,5,9,3.86,77,"elmundo, elpais, lavanguardia",3,Detenido un hombre por la muerte de tres mujeres en un incendio provocado en Miranda de Ebro (Burgos),2026-03-11 11:33
-derecho,3,6,3.47,69,"lavanguardia, infolibre, elcorreo",3,Meloni reitera que la operación en Irán estuvo fuera del derecho internacional pero con matices,2026-03-11 11:33
-israel,7,15,3.24,64,"lavanguardia, elmundo, 20minutos, maldita",4,"Guerra de EE.UU. e Israel contra Irán | Última hora de las represalias iranís, los ataques a barcos en Ormuz y la reacción de Trump",2026-03-11 11:33
-hombre,7,16,3.04,60,"elmundo, elespanol, elpais, 20minutos, lavanguardia",5,Detenido un hombre por la muerte de tres mujeres en un incendio provocado en Miranda de Ebro (Burgos),2026-03-11 11:33
-trump,4,12,2.32,46,"lavanguardia, levante_emv",2,"Guerra de EE.UU. e Israel contra Irán | Última hora de las represalias iranís, los ataques a barcos en Ormuz y la reacción de Trump",2026-03-11 11:33
-herramienta,3,9,2.32,46,"elpais, google_news_es, huffington_es",3,"Pedro Sánchez lanza HODIO, una herramienta contra la polarización en las redes sociales: “Tendrán que rendir cuentas”",2026-03-11 11:33
-personas,3,9,2.32,46,"elpais, elmundo, elcorreo",3,Detenido un hombre acusado de provocar el incendio de una vivienda en Miranda de Ebro en el que han muerto tres personas,2026-03-11 11:33
-sánchez,6,19,2.19,43,"elpais, google_news_es, huffington_es, infolibre, lavanguardia",5,"Pedro Sánchez lanza HODIO, una herramienta contra la polarización en las redes sociales: “Tendrán que rendir cuentas”",2026-03-11 11:33
-última,3,10,2.08,41,"lavanguardia, 20minutos",2,"Guerra de EE.UU. e Israel contra Irán | Última hora de las represalias iranís, los ataques a barcos en Ormuz y la reacción de Trump",2026-03-11 11:33
-adebayo,3,10,2.08,41,"okdiario, heraldo_aragon, elcorreo",3,Bam Adebayo anota la segunda marca anotadora más alta en la historia de la NBA: ¡83 puntos!,2026-03-11 11:33
-ataque,3,10,2.08,41,"maldita, lavanguardia, elmundo",3,Cuidado con este vídeo de un supuesto soldado estadounidense llorando tras un ataque iraní: presenta indicios de haber sido generado con IA,2026-03-11 11:33
-ortega,3,10,2.08,41,"eldiario, huffington_es",2,El Grupo Mixto del Congreso no se plantea ceder tiempos de intervención a Ortega Smith cuando Vox lo eche,2026-03-11 11:33
+rendir,3,0,5.0,100,"levante_emv, elpais, google_news_es",3,"El PP surfea entre el rendir cuentas, el estado de El Hierro y la sesión de control a Pedro Sánchez",2026-03-11 12:03
+pedro,3,3,7.73,100,"levante_emv, elpais, google_news_es",3,"El PP surfea entre el rendir cuentas, el estado de El Hierro y la sesión de control a Pedro Sánchez",2026-03-11 12:03
+antes,4,3,10.31,100,"heraldo_aragon, lavanguardia, levante_emv, 20minutos, elcorreo",5,Qué enfermedad tiene la zaragozana Teresa Perales: &quot;No hubo un antes y un después&quot;,2026-03-11 12:03
+jamenei,3,3,7.73,100,"lavanguardia, elmundo, google_news_es",3,"Última hora de la guerra en Irán, en directo: ataques de EE.UU. en el estrecho de Ormuz, Jamenei y represalias de Israel",2026-03-11 12:03
+salud,3,2,11.6,100,"huffington_es, bbc_mundo, elespanol",3,Este móvil de TCL cuida de tu salud: he probado el nuevo NXTPAPER 70 Pro y tengo muchas cosas que contarte,2026-03-11 12:03
+juicio,3,3,7.73,100,"20minutos, elpais, elcorreo",3,"Kevin Spacey desbarata el juicio por su despido de 'House of Cards': ""Pensaban que estaba casado con una mujer""",2026-03-11 12:03
+tiempo,3,3,7.73,100,"levante_emv, okdiario, elcorreo",3,"El tiempo en Gandia: previsión meteorológica para hoy, miércoles 11 de marzo",2026-03-11 12:03
+herido,3,3,7.73,100,"elcorreo, elmundo, google_news_es",3,"El Líder Supremo se encuentra herido, pero «sano y salvo» en un refugio de la Guardia Revolucionaria",2026-03-11 12:03
+valencia,4,8,3.87,77,"levante_emv, elconfidencial",2,Un lance del juego cambió el destino de Carlos Llorens: de fichar por el Valencia CF a no volver a Mestalla,2026-03-11 12:03
+herramienta,3,9,2.58,51,"elpais, google_news_es, huffington_es",3,"Pedro Sánchez lanza HODIO, una herramienta contra la polarización en las redes sociales: “Tendrán que rendir cuentas”",2026-03-11 12:03
+carlos,3,10,2.32,46,"okdiario, levante_emv, heraldo_aragon",3,Horario del Carlos Alcaraz- Ruud hoy: a qué hora es y dónde ver en directo por TV y online gratis el partido de octavos de Indian Wells 2026,2026-03-11 12:03
+ataque,3,10,2.32,46,"lavanguardia, maldita, elmundo, google_news_es",4,"Última hora de la guerra en Irán, en directo: ataques de EE.UU. en el estrecho de Ormuz, Jamenei y represalias de Israel",2026-03-11 12:03
+contra,7,25,2.17,43,"heraldo_aragon, elpais, lavanguardia, levante_emv, google_news_es",5,Zaragoza impulsa el contrato de Zonas Verdes: 31 millones para gestionar 100 parques,2026-03-11 12:03
+lanza,3,11,2.11,42,"elpais, google_news_es, elcorreo",3,"Pedro Sánchez lanza HODIO, una herramienta contra la polarización en las redes sociales: “Tendrán que rendir cuentas”",2026-03-11 12:03
