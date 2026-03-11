@@ -1,25 +1,39 @@
 keyword,count_now,count_base,ratio,viral_score,sources,n_sources,sample_title,detected_at
-aemet,6,1,34.09,100,okdiario,1,Nubosidad y brumas en Zaragoza: AEMET prevé cambios de temperatura y viento flojo,2026-03-11 08:03
-estrecho,3,2,8.52,100,"20minutos, europapress, elpais",3,EEUU destruye 16 barcos con minas iraníes en el estrecho de Ormuz,2026-03-11 08:03
-lluvias,3,3,5.68,100,okdiario,1,"Cielos nubosos y lluvias débiles en Bilbao, según AEMET",2026-03-11 08:03
-predicción,3,3,5.68,100,okdiario,1,"Predicción del horóscopo para Virgo hoy, miércoles 11 de marzo de 2026",2026-03-11 08:03
-millones,8,5,9.09,100,"20minutos, levante_emv, expansion, elpais, google_news_es",5,Inditex disparó un 6% su beneficio el año pasado hasta el récord de 6.220 millones,2026-03-11 08:03
-6.220,5,0,5.0,100,"20minutos, expansion, elpais, google_news_es, okdiario",5,Inditex disparó un 6% su beneficio el año pasado hasta el récord de 6.220 millones,2026-03-11 08:03
-récord,4,2,11.36,100,"20minutos, expansion, elpais, okdiario",4,Inditex disparó un 6% su beneficio el año pasado hasta el récord de 6.220 millones,2026-03-11 08:03
-beneficio,4,1,22.72,100,"20minutos, levante_emv, expansion, okdiario",4,Inditex disparó un 6% su beneficio el año pasado hasta el récord de 6.220 millones,2026-03-11 08:03
-viento,3,0,5.0,100,okdiario,1,Nubosidad y brumas en Zaragoza: AEMET prevé cambios de temperatura y viento flojo,2026-03-11 08:03
-directo,4,1,22.72,100,"elcorreo, europapress, elpais, france24_es",4,"Sigue en directo la guerra en Oriente Medio: Irán intensifica los ataques contra Israel, Qatar, Kuwait y Arabia Saudí",2026-03-11 08:03
-inditex,7,0,5.0,100,"expansion, 20minutos, levante_emv, elpais, google_news_es",5,"La Primera de Expansión sobre Inditex, Repsol, Mañueco, Chile, OpenClaw y guerra en Irán",2026-03-11 08:03
-reservas,3,1,17.04,100,"okdiario, expansion, huffington_es",3,La Agencia Internacional de la Energía propone vaciar las reservas de petróleo para controlar los precios,2026-03-11 08:03
-propone,3,1,17.04,100,"okdiario, expansion, huffington_es",3,La Agencia Internacional de la Energía propone vaciar las reservas de petróleo para controlar los precios,2026-03-11 08:03
-miranda,3,1,17.04,100,"elmundo, elcorreo, elconfidencial",3,"Tres muertos y cuatro heridos, entre ellos dos niños, en el incendio de un edificio en Miranda de Ebro (Burgos)",2026-03-11 08:03
-incendio,3,1,17.04,100,"elmundo, elcorreo, elconfidencial",3,"Tres muertos y cuatro heridos, entre ellos dos niños, en el incendio de un edificio en Miranda de Ebro (Burgos)",2026-03-11 08:03
-heridos,3,0,5.0,100,"elmundo, elcorreo, elconfidencial",3,"Tres muertos y cuatro heridos, entre ellos dos niños, en el incendio de un edificio en Miranda de Ebro (Burgos)",2026-03-11 08:03
-cuatro,3,0,5.0,100,"elmundo, elcorreo, elconfidencial",3,"Tres muertos y cuatro heridos, entre ellos dos niños, en el incendio de un edificio en Miranda de Ebro (Burgos)",2026-03-11 08:03
-ormuz,4,5,4.54,90,"20minutos, europapress, elpais, elcorreo",4,EEUU destruye 16 barcos con minas iraníes en el estrecho de Ormuz,2026-03-11 08:03
-petróleo,3,4,4.26,85,"okdiario, expansion, huffington_es",3,La Agencia Internacional de la Energía propone vaciar las reservas de petróleo para controlar los precios,2026-03-11 08:03
-horóscopo,3,4,4.26,85,okdiario,1,"Predicción del horóscopo para Virgo hoy, miércoles 11 de marzo de 2026",2026-03-11 08:03
-marzo,3,6,2.84,56,okdiario,1,"Predicción del horóscopo para Virgo hoy, miércoles 11 de marzo de 2026",2026-03-11 08:03
-euros,3,6,2.84,56,"okdiario, elcorreo",2,Inditex aumenta su beneficio un 6% en 2025 y gana un récord de  6.220 millones de euros,2026-03-11 08:03
-israel,3,7,2.43,48,"elcorreo, elpais, france24_es",3,"Sigue en directo la guerra en Oriente Medio: Irán intensifica los ataques contra Israel, Qatar, Kuwait y Arabia Saudí",2026-03-11 08:03
-miércoles,3,7,2.43,48,okdiario,1,"Predicción del horóscopo para Virgo hoy, miércoles 11 de marzo de 2026",2026-03-11 08:03
+récord,7,3,9.95,100,"elcorreo, elmundo, lavanguardia, europapress, 20minutos",5,"Inditex rompe los 6.200 millones de beneficio, un 6% más, en su cuarto año de resultados récord",2026-03-11 08:32
+vivienda,3,0,5.0,100,"elespanol, elpais, europapress",3,Conmoción en Miranda de Ebro: tres muertos y cuatro heridos en el incendio de una vivienda,2026-03-11 08:32
+cuatro,10,0,5.0,100,"elcorreo, elespanol, levante_emv, elmundo, eldiario",5,"Tres muertos y cuatro heridos, dos de ellos menores, en un incendio en Miranda",2026-03-11 08:32
+heridos,11,1,46.91,100,"elcorreo, elespanol, levante_emv, 20minutos, elmundo",5,"Tres muertos y cuatro heridos, dos de ellos menores, en un incendio en Miranda",2026-03-11 08:32
+ellos,4,2,8.53,100,"elcorreo, elmundo, europapress",3,"Tres muertos y cuatro heridos, dos de ellos menores, en un incendio en Miranda",2026-03-11 08:32
+incendio,14,1,59.71,100,"elcorreo, elespanol, elpais, levante_emv, 20minutos",5,"Tres muertos y cuatro heridos, dos de ellos menores, en un incendio en Miranda",2026-03-11 08:32
+miranda,13,1,55.44,100,"elcorreo, elespanol, elpais, levante_emv, 20minutos",5,"Tres muertos y cuatro heridos, dos de ellos menores, en un incendio en Miranda",2026-03-11 08:32
+6.220,8,1,34.12,100,"elmundo, lavanguardia, heraldo_aragon, europapress, 20minutos",5,Inditex bate récords por cuarto año consecutivo con un beneficio de 6.220 millones de euros,2026-03-11 08:32
+burgos,6,0,5.0,100,"elpais, elmundo, europapress, huffington_es, google_news_es",5,Tres muertos en un incendio en una vivienda en Miranda de Ebro (Burgos),2026-03-11 08:32
+beneficio,7,2,14.93,100,"elcorreo, elmundo, europapress, 20minutos, levante_emv",5,"Inditex rompe los 6.200 millones de beneficio, un 6% más, en su cuarto año de resultados récord",2026-03-11 08:32
+fallecidos,5,1,21.32,100,"levante_emv, elcorreo, europapress, lavanguardia, huffington_es",5,Tres fallecidos y cuatro heridos en el incendio de un edificio en Miranda de Ebro,2026-03-11 08:32
+edificio,8,1,34.12,100,"levante_emv, 20minutos, elmundo, eldiario, lavanguardia",5,Tres fallecidos y cuatro heridos en el incendio de un edificio en Miranda de Ebro,2026-03-11 08:32
+truco,3,1,12.79,100,okdiario,1,El sencillo truco de un chef para que no se peguen los huevos en la sartén nunca más,2026-03-11 08:32
+sigue,3,0,5.0,100,"levante_emv, heraldo_aragon, elcorreo",3,DIRECTO | Sigue en directo la segunda jornada del Debate sobre el Estado de la Nacionalidad Canaria,2026-03-11 08:32
+propone,3,1,12.79,100,"okdiario, expansion, huffington_es",3,La Agencia Internacional de la Energía propone vaciar las reservas de petróleo para controlar los precios,2026-03-11 08:32
+ventas,3,0,5.0,100,"lavanguardia, heraldo_aragon, europapress, elespanol",4,Amazon hunde el precio de los superventas de Samsung,2026-03-11 08:32
+muertos,8,2,17.06,100,"elcorreo, elespanol, elpais, 20minutos, elmundo",5,"Tres muertos y cuatro heridos, dos de ellos menores, en un incendio en Miranda",2026-03-11 08:32
+estrecho,4,3,5.69,100,"20minutos, europapress",2,EEUU destruye 16 barcos con minas iraníes en el estrecho de Ormuz,2026-03-11 08:32
+millones,15,6,10.66,100,"elcorreo, elmundo, expansion, lavanguardia, heraldo_aragon",5,"Inditex rompe los 6.200 millones de beneficio, un 6% más, en su cuarto año de resultados récord",2026-03-11 08:32
+liberación,3,0,5.0,100,"levante_emv, expansion, huffington_es",3,La Agencia Internacional de la Energía plantea la mayor liberación de reservas de petróleo de la historia para frenar la crisis energética,2026-03-11 08:32
+directo,7,3,9.95,100,"okdiario, levante_emv, elcorreo, europapress",4,"Guerra en Irán en directo hoy | Última hora de la situación en Oriente Medio, reacciones de Trump y precio del petróleo",2026-03-11 08:32
+petróleo,6,4,6.4,100,"okdiario, levante_emv, expansion, huffington_es",4,"Guerra en Irán en directo hoy | Última hora de la situación en Oriente Medio, reacciones de Trump y precio del petróleo",2026-03-11 08:32
+inditex,13,1,55.44,100,"expansion, elcorreo, elmundo, lavanguardia, heraldo_aragon",5,El Ibex asimila la tregua del exterior y los resultados de Inditex,2026-03-11 08:32
+agencia,3,1,12.79,100,"levante_emv, okdiario, huffington_es",3,La Agencia Internacional de la Energía plantea la mayor liberación de reservas de petróleo de la historia para frenar la crisis energética,2026-03-11 08:32
+internacional,3,2,6.4,100,"levante_emv, okdiario, huffington_es",3,La Agencia Internacional de la Energía plantea la mayor liberación de reservas de petróleo de la historia para frenar la crisis energética,2026-03-11 08:32
+reservas,4,1,17.06,100,"levante_emv, okdiario, expansion, huffington_es",4,La Agencia Internacional de la Energía plantea la mayor liberación de reservas de petróleo de la historia para frenar la crisis energética,2026-03-11 08:32
+historia,3,2,6.4,100,"levante_emv, expansion, huffington_es",3,La Agencia Internacional de la Energía plantea la mayor liberación de reservas de petróleo de la historia para frenar la crisis energética,2026-03-11 08:32
+barcos,3,1,12.79,100,"levante_emv, 20minutos",2,Tensión en Ormuz: EEUU afirma haber destruido 16 barcos minadores de Irán y el Reino Unido reporta un ataque a un carguero,2026-03-11 08:32
+energía,3,3,4.26,85,"levante_emv, okdiario, huffington_es",3,La Agencia Internacional de la Energía plantea la mayor liberación de reservas de petróleo de la historia para frenar la crisis energética,2026-03-11 08:32
+mejor,3,3,4.26,85,"levante_emv, okdiario, elcorreo",3,"Adebayo anota 83 puntos y firma la segunda mejor marca anotadora de la NBA, superando a Kobe Bryant",2026-03-11 08:32
+mayor,3,4,3.2,63,"levante_emv, okdiario, expansion, huffington_es",4,La Agencia Internacional de la Energía plantea la mayor liberación de reservas de petróleo de la historia para frenar la crisis energética,2026-03-11 08:32
+precio,3,4,3.2,63,"okdiario, europapress, lavanguardia",3,"Guerra en Irán en directo hoy | Última hora de la situación en Oriente Medio, reacciones de Trump y precio del petróleo",2026-03-11 08:32
+ormuz,5,7,3.05,60,"levante_emv, 20minutos, europapress",3,Tensión en Ormuz: EEUU afirma haber destruido 16 barcos minadores de Irán y el Reino Unido reporta un ataque a un carguero,2026-03-11 08:32
+horóscopo,3,5,2.56,51,okdiario,1,"Predicción del horóscopo para Escorpio hoy, miércoles 11 de marzo de 2026",2026-03-11 08:32
+aemet,3,5,2.56,51,okdiario,1,Giro del tiempo en Andalucía: la AEMET avisa de lluvias en estas zonas y no es normal,2026-03-11 08:32
+predicción,3,5,2.56,51,okdiario,1,"Predicción del horóscopo para Escorpio hoy, miércoles 11 de marzo de 2026",2026-03-11 08:32
+marzo,4,7,2.44,48,"okdiario, levante_emv",2,"Predicción del horóscopo para Escorpio hoy, miércoles 11 de marzo de 2026",2026-03-11 08:32
+fallas,3,6,2.13,42,"levante_emv, lavanguardia",2,Programa de las Fallas de València para el 11 y 12 de marzo: la Infanta Elena recibe a las falleras mayores y cortes,2026-03-11 08:32
