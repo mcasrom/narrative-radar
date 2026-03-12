@@ -46,6 +46,7 @@ scripts = [
     "detect_viral.py",
     "personas_tracking.py",
     "diversity_index.py",
+    "mass_media_analysis.py",
     "audit_quality.py"
 ]
 
