@@ -89,6 +89,17 @@ def mostrar_keywords_gestion():
     st.markdown("---")
     st.header("Gestion de Keywords")
 
+    # Proteccion con password
+    import streamlit as _st
+    try:
+        _admin_pw = _st.secrets["admin"]["password"]
+    except Exception:
+        _admin_pw = "narrativeradar2026"
+    _pw_input = st.text_input("Password de administrador:", type="password", key="admin_pw_kw")
+    if _pw_input != _admin_pw:
+        st.warning("Introduce la password de administrador para acceder al panel de gestion.")
+        return
+
     tab_act, tab_blq, tab_stop, tab_auto = st.tabs([
         "Activas & Fijadas",
         "Bloqueadas (inutiles)",
