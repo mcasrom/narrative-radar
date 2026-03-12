@@ -37,6 +37,17 @@ CORTE_6H  = NOW - timedelta(hours=6)
 # Umbrales
 UMBRAL_FILAS_OK      = 50
 UMBRAL_FILAS_WARN    = 10
+# CSVs summary que por naturaleza tienen pocas filas — no alertar
+CSVS_SUMMARY = {
+    "narratives_summary.csv",
+    "emotions_summary.csv",
+    "sentiment_summary.csv",
+    "polarization_summary.csv",
+    "government_coverage.csv",
+    "diversity_index.csv",
+    "geo_summary.csv",
+    "audit_global_summary.csv",
+}
 UMBRAL_FECHAS_OK     = 0.80   # 80% filas dentro de 90d
 UMBRAL_FECHAS_WARN   = 0.50
 UMBRAL_FUENTES_OK    = 20
@@ -174,7 +185,8 @@ def validar_csvs():
 
             # Alertas
             alertas = []
-            if entrada["filas"] < UMBRAL_FILAS_WARN:
+            _csv_name = os.path.basename(entrada.get("csv",""))
+            if entrada["filas"] < UMBRAL_FILAS_WARN and _csv_name not in CSVS_SUMMARY:
                 alertas.append(f"Pocas filas ({entrada['filas']})")
             if entrada["pct_fechas_recientes"] < UMBRAL_FECHAS_WARN:
                 alertas.append(f"Fechas antiguas ({entrada['pct_fechas_recientes']*100:.0f}% recientes)")

@@ -82,8 +82,10 @@ def render_audit_tab():
     # ── Score global ────────────────────────────────────────
     score_global   = int(df_latest["score_global"].iloc[0]) if "score_global" in df_latest else 0
     score_datos    = int(df_latest["score_datos"].mean()) if "score_datos" in df_latest else 0
-    score_nlp      = int(df_latest["score_nlp"].iloc[0]) if "score_nlp" in df_latest else 0
-    score_rss      = int(df_latest["score_rss"].iloc[0]) if "score_rss" in df_latest else 0
+    _nlp_val = df_latest["score_nlp"].iloc[0] if "score_nlp" in df_latest else 0
+    _rss_val = df_latest["score_rss"].iloc[0] if "score_rss" in df_latest else 0
+    score_nlp = int(_nlp_val) if _nlp_val == _nlp_val else 0  # nan check
+    score_rss = int(_rss_val) if _rss_val == _rss_val else 0  # nan check
     ts_ultimo      = df_latest["timestamp"].iloc[0] if "timestamp" in df_latest else "N/D"
     fuentes_act    = int(df_latest["fuentes_activas_6h"].iloc[0]) if "fuentes_activas_6h" in df_latest else 0
     fuentes_tot    = int(df_latest["fuentes_total"].iloc[0]) if "fuentes_total" in df_latest else 0
@@ -225,10 +227,10 @@ def render_audit_tab():
     alerta_rss = df_latest["alerta_rss"].iloc[0] if "alerta_rss" in df_latest.columns else ""
 
     if str(alerta_nlp).strip():
-        st.warning(f"🧠 NLP — {alerta_nlp}")
+        if str(alerta_nlp) != "nan": st.warning(f"🧠 NLP — {alerta_nlp}")
         alertas_mostradas += 1
     if str(alerta_rss).strip():
-        st.warning(f"📡 RSS — {alerta_rss}")
+        if str(alerta_rss) != "nan": st.warning(f"📡 RSS — {alerta_rss}")
         alertas_mostradas += 1
 
     if alertas_mostradas == 0:
