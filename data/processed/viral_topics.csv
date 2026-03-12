@@ -1,10 +1,17 @@
 keyword,count_now,count_base,ratio,viral_score,sources,n_sources,sample_title,detected_at
-abril,5,3,21.01,100,"huffington_es, levante_emv, elmundo, elespanol, elpais",5,La &#039;vuelta&#039; a la Luna ya tiene fecha: el 1 de abril,2026-03-12 21:03
-misión,4,2,25.21,100,"levante_emv, elmundo, elespanol, elpais",4,"La NASA fija el 1 de abril para el lanzamiento de Artemis II, la misión tripulada que volará hacia la Luna",2026-03-12 21:03
-jueves,5,5,12.61,100,elcorreo,1,La Bonoloto de este jueves: comprobar resultados del 12 de marzo,2026-03-12 21:03
-comprobar,5,5,12.61,100,elcorreo,1,La Bonoloto de este jueves: comprobar resultados del 12 de marzo,2026-03-12 21:03
-resultados,5,1,63.03,100,elcorreo,1,La Bonoloto de este jueves: comprobar resultados del 12 de marzo,2026-03-12 21:03
-marzo,5,12,5.25,100,elcorreo,1,La Bonoloto de este jueves: comprobar resultados del 12 de marzo,2026-03-12 21:03
-feijóo,3,4,9.45,100,"eldiario, okdiario, levante_emv",3,"Feijóo responde a Abascal: ""A mí me daría vergüenza votar con el PSOE y Podemos en Extremadura""",2026-03-12 21:03
-primera,3,12,3.15,63,"elespanol, elpais, heraldo_aragon",3,La NASA programa para el 1 de abril el despegue de Artemis II a la Luna con cuatro astronautas: la primera misión en 54 años,2026-03-12 21:03
-primer,3,13,2.91,58,"levante_emv, elcorreo, elespanol, france24_es, elpais",5,Los primeros ninots falleros llegan a las calles de Sagunt,2026-03-12 21:03
+betis,3,0,5.0,100,"google_news_es, levante_emv, okdiario",3,Betis cae en su visita al Panathinaikos; Fidalgo no jugó - ESPN Deportes,2026-03-12 21:33
+panathinaikos,3,0,5.0,100,"google_news_es, levante_emv, okdiario",3,Betis cae en su visita al Panathinaikos; Fidalgo no jugó - ESPN Deportes,2026-03-12 21:33
+misión,4,3,20.88,100,"elmundo, levante_emv, elespanol",3,"La NASA intentará lanzar su misión lunar Artemisa 2 el próximo 1 de abril: ""No está exenta de riesgos pero estamos listos""",2026-03-12 21:33
+próximo,3,3,15.66,100,"elmundo, google_news_es",2,"La NASA intentará lanzar su misión lunar Artemisa 2 el próximo 1 de abril: ""No está exenta de riesgos pero estamos listos""",2026-03-12 21:33
+abril,6,3,31.32,100,"elmundo, huffington_es, google_news_es, levante_emv, elespanol",5,"La NASA intentará lanzar su misión lunar Artemisa 2 el próximo 1 de abril: ""No está exenta de riesgos pero estamos listos""",2026-03-12 21:33
+lotería,3,2,23.49,100,"elcorreo, elespanol",2,"La Lotería Nacional del jueves rocía con 1,8 millones tres municipios y da una alegría en Bilbao",2026-03-12 21:33
+jueves,7,5,21.92,100,"elcorreo, elespanol",2,"La Lotería Nacional del jueves rocía con 1,8 millones tres municipios y da una alegría en Bilbao",2026-03-12 21:33
+unidos,4,8,7.83,100,"infolibre, elcorreo, elpais, france24_es",4,"""Unidos somos más fuertes y eso no va a cambiar”: infoLibre recuerda la dignidad de la lucha obrera",2026-03-12 21:33
+comprobar,6,5,18.79,100,"elespanol, elcorreo",2,"Comprobar Lotería Nacional, hoy jueves, en directo | Resultados y números premiados del sorteo del 12 de marzo",2026-03-12 21:33
+resultados,6,1,93.96,100,"elespanol, elcorreo",2,"Comprobar Lotería Nacional, hoy jueves, en directo | Resultados y números premiados del sorteo del 12 de marzo",2026-03-12 21:33
+marzo,6,11,8.54,100,"elespanol, elcorreo",2,"Comprobar Lotería Nacional, hoy jueves, en directo | Resultados y números premiados del sorteo del 12 de marzo",2026-03-12 21:33
+artemis,3,0,5.0,100,"elmundo, google_news_es, levante_emv, elespanol",4,"La NASA intentará lanzar su misión lunar Artemisa 2 el próximo 1 de abril: ""No está exenta de riesgos pero estamos listos""",2026-03-12 21:33
+estados,3,8,5.87,100,"elpais, france24_es",2,Un grupo de clientes demanda a Costco la devolución de los aranceles anulados por el Supremo de Estados Unidos,2026-03-12 21:33
+nacional,3,12,3.91,78,"elcorreo, elespanol",2,"La Lotería Nacional del jueves rocía con 1,8 millones tres municipios y da una alegría en Bilbao",2026-03-12 21:33
+gobierno,4,25,2.51,50,"elmundo, elcorreo, levante_emv, okdiario",4,"Netanyahu advierte al Gobierno libanés de que o ""toman su destino con sus manos"" contra Hizbulá o lo hará Israel",2026-03-12 21:33
+israel,3,21,2.24,44,"elmundo, huffington_es, france24_es, levante_emv",4,"Netanyahu advierte al Gobierno libanés de que o ""toman su destino con sus manos"" contra Hizbulá o lo hará Israel",2026-03-12 21:33
