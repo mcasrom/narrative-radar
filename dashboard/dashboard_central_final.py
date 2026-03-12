@@ -94,7 +94,7 @@ def mostrar_keywords_gestion():
     try:
         _admin_pw = _st.secrets["admin"]["password"]
     except Exception:
-        _admin_pw = "narrativeradar2026"
+        _admin_pw = "yuuwwsjibbuzalnc"
     _pw_input = st.text_input("Password de administrador:", type="password", key="admin_pw_kw")
     if _pw_input != _admin_pw:
         st.warning("Introduce la password de administrador para acceder al panel de gestion.")
