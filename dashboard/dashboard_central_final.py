@@ -1003,3 +1003,4 @@ with col2:
         last_ingestion = "Archivo no encontrado"
     st.write(f"**Última ingestión de datos (Real):** {last_ingestion}")
     st.write("© 2026 M. Castillo | mybloggingnotes@gmail.com")
+# kofi Thu Mar 12 20:58:24 CET 2026
