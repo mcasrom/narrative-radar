@@ -301,6 +301,22 @@ def mostrar_keywords():
 
 
 
+    st.markdown("---")
+    st.markdown("### Apoya Narrative Radar")
+    st.markdown(
+        """
+        <div style="text-align:center; padding:10px;">
+            <a href="https://ko-fi.com/m_castillo" target="_blank">
+                <img src="https://ko-fi.com/img/githubbutton_sm.svg" style="height:40px;">
+            </a><br><br>
+            <a href="https://ko-fi.com/m_castillo" target="_blank"
+               style="background:#FF5E5B;color:white;padding:10px 24px;border-radius:6px;font-weight:bold;text-decoration:none;font-size:15px;">
+                Invitame a un cafe - 1 EUR
+            </a><br><br>
+            <small style="color:#888;">Briefing diario PDF - Analisis narrativas</small>
+        </div>""",
+        unsafe_allow_html=True
+    )
     mostrar_keywords_gestion()
 
 def mostrar_historico():
