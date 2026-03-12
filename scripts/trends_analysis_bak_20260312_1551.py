@@ -3,7 +3,7 @@
 trends_analysis.py
 Extrae tendencias reales de palabras clave desde titulares usando TF-IDF.
 Lee:     data/processed/news_summary.csv
-         data/processed/keywords_config.json
+         data/processed/keywords_config.json  (stopwords custom + bloqueadas)
 Genera:  data/processed/trends_summary.csv
          data/processed/trends_history.csv
 """
@@ -19,20 +19,20 @@ CONFIG  = os.path.abspath(os.path.join(BASE_DIR, "../data/processed/keywords_con
 
 STOPWORDS_BASE = [
     "de","la","el","en","y","a","que","los","del","se","las","por","un","con","una","su","al","es","para",
-    "como","mas","pero","sus","le","ya","o","este","fue","ha","lo","si","sobre","entre","cuando","hasta",
-    "sin","no","te","le","da","hay","muy","bien","tambien","despues","antes","donde","desde","segun"
+    "como","más","pero","sus","le","ya","o","este","fue","ha","lo","si","sobre","entre","cuando","hasta",
+    "sin","no","te","le","da","hay","muy","bien","también","después","antes","donde","desde","según"
 ]
 
+# Cargar config
 cfg = {}
 if os.path.exists(CONFIG):
     try:
         cfg = json.loads(open(CONFIG).read())
     except Exception:
         cfg = {}
-
-stopwords_custom = cfg.get("stopwords_custom", [])
-keywords_blocked = set(cfg.get("keywords_blocked", []))
-keywords_pinned  = cfg.get("keywords_pinned", [])
+stopwords_custom  = cfg.get("stopwords_custom", [])
+keywords_blocked  = set(cfg.get("keywords_blocked", []))
+keywords_pinned   = cfg.get("keywords_pinned", [])
 STOPWORDS = list(set(STOPWORDS_BASE + stopwords_custom))
 
 try:
@@ -58,20 +58,22 @@ for i in top_idx:
     if len(rows) >= 30:
         break
 
-pinned_rows = [{"keyword": kw, "count": 999, "last_update": now}
-               for kw in keywords_pinned if kw not in [r["keyword"] for r in rows]]
+# Insertar pinned al principio si no están ya
+pinned_rows = [{"keyword": kw, "count": 999, "last_update": now} for kw in keywords_pinned
+               if kw not in [r["keyword"] for r in rows]]
 result = pd.DataFrame(pinned_rows + rows)
 result.to_csv(OUTPUT, index=False)
 
+# Histórico
 result["cycle"] = now
 if os.path.exists(HISTORY):
     hist = pd.concat([pd.read_csv(HISTORY), result], ignore_index=True)
 else:
     hist = result.copy()
 hist.to_csv(HISTORY, index=False)
-print(f"Tendencias: {len(result)} keywords | {len(keywords_blocked)} bloqueadas | {len(keywords_pinned)} fijadas")
+print(f"CSV de tendencias generado en {OUTPUT} ({len(result)} keywords, {len(keywords_blocked)} bloqueadas)")
 
-# Autolearn
+# ── Autolearn: detectar keywords inactivas y sugerirlas para bloqueo ──
 al = cfg.get("autolearn", {})
 if al.get("enabled") and os.path.exists(HISTORY):
     hist_full = pd.read_csv(HISTORY)
@@ -81,7 +83,7 @@ if al.get("enabled") and os.path.exists(HISTORY):
     if len(cycles) >= min_cycles:
         recent = hist_full[hist_full["cycle"].isin(cycles[-min_cycles:])]
         kw_counts = recent.groupby("keyword")["count"].agg(["mean","std"]).reset_index()
-        kw_counts["cv"] = (kw_counts["std"] / kw_counts["mean"].replace(0, 1)) * 100
+        kw_counts["cv"] = (kw_counts["std"] / kw_counts["mean"].replace(0,1)) * 100
         inactive = kw_counts[kw_counts["cv"] < threshold]["keyword"].tolist()
         suggestions = cfg.get("autolearn_suggestions", [])
         new_sugg = [kw for kw in inactive if kw not in suggestions and kw not in keywords_blocked]
@@ -89,4 +91,4 @@ if al.get("enabled") and os.path.exists(HISTORY):
             cfg["autolearn_suggestions"] = suggestions + new_sugg
             cfg["last_updated"] = now
             open(CONFIG, "w").write(json.dumps(cfg, indent=2, ensure_ascii=False))
-            print(f"Autolearn: {len(new_sugg)} keywords sugeridas para revision")
+            print(f"Autolearn: {len(new_sugg)} keywords sugeridas para revisión: {new_sugg[:5]}")
