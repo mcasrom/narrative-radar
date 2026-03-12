@@ -230,3 +230,6 @@ database/
 audit_*.log
 briefing_*.log
 pipeline_*.log
+dashboard/dashboard_central_final_bak_*.py
+scripts/trends_analysis_bak_*.py
+patch_*.py
