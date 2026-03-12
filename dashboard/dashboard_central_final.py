@@ -747,28 +747,29 @@ def _mostrar_tab_inner(tab_name, csv_path):
     st.dataframe(df, use_container_width=True)
 
 def generar_pdf():
-    pdf = FPDF()
-    pdf.add_page()
-    font_path = os.path.join(current_dir, "DejaVuSans.ttf")
-    if os.path.exists(font_path):
-        pdf.add_font("DejaVu", "", font_path, uni=True)
-        pdf.set_font("DejaVu", size=12)
-    else:
-        pdf.set_font("Arial", size=12)
-    testigo = paths["Tendencias"]
-    fecha_pdf = datetime.fromtimestamp(os.path.getmtime(testigo)).strftime("%Y-%m-%d %H:%M:%S") if os.path.exists(testigo) else "N/A"
-    texto = f"""
-Centro de Mando Narrativo España
-Autor: M. Castillo <mybloggingnotes@gmail.com>
-Fecha de datos: {fecha_pdf}
-
-Este dashboard analiza la narrativa mediatica usando fuentes RSS.
-CSV almacenados en: data/processed/
-"""
-    pdf.multi_cell(0, 10, texto)
-    output_pdf = os.path.join(base_dir, "guia_dashboard.pdf")
-    pdf.output(output_pdf)
-    return output_pdf
+    try:
+        from gen_guia_narrativa import generar_pdf_completo
+        return generar_pdf_completo(base_dir, current_dir, paths)
+    except ImportError:
+        # Fallback: generador mínimo original (fpdf)
+        from fpdf import FPDF
+        import os
+        from datetime import datetime
+        pdf = FPDF()
+        pdf.add_page()
+        font_path = os.path.join(current_dir, "DejaVuSans.ttf")
+        if os.path.exists(font_path):
+            pdf.add_font("DejaVu", "", font_path, uni=True)
+            pdf.set_font("DejaVu", size=12)
+        else:
+            pdf.set_font("Arial", size=12)
+        testigo = paths["Tendencias"]
+        fecha_pdf = datetime.fromtimestamp(os.path.getmtime(testigo)).strftime("%Y-%m-%d %H:%M:%S") if os.path.exists(testigo) else "N/A"
+        texto = f"Centro de Mando Narrativo España\nAutor: M. Castillo\nFecha: {fecha_pdf}\nCSV: data/processed/"
+        pdf.multi_cell(0, 10, texto)
+        output_pdf = os.path.join(base_dir, "guia_dashboard.pdf")
+        pdf.output(output_pdf)
+        return output_pdf
 
 tab_names = list(paths.keys())
 tabs = st.tabs(tab_names)
@@ -777,6 +778,22 @@ for i, tab_name in enumerate(tab_names):
         mostrar_tab(tab_name, paths[tab_name])
 
 st.markdown("---")
+# ── Briefing diario descargable ──────────────────────────────────
+briefing_pdf = os.path.join(base_dir, "briefing_diario.pdf")
+if os.path.exists(briefing_pdf):
+    with open(briefing_pdf, "rb") as _f:
+        _pdf_bytes = _f.read()
+    _mtime = datetime.fromtimestamp(os.path.getmtime(briefing_pdf)).strftime("%Y-%m-%d %H:%M")
+    st.download_button(
+        label=f"📥 Descargar Briefing Diario (PDF) — {_mtime}",
+        data=_pdf_bytes,
+        file_name=f"briefing_{datetime.now().strftime('%Y%m%d')}.pdf",
+        mime="application/pdf",
+        use_container_width=True
+    )
+else:
+    st.info("Briefing diario no disponible aún — se genera a las 07:08 y 19:08.")
+
 st.subheader("📄 Guía y Metadatos")
 col1, col2 = st.columns(2)
 with col1:
