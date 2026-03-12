@@ -1,20 +1,25 @@
 keyword,count_now,count_base,ratio,viral_score,sources,n_sources,sample_title,detected_at
-primavera,3,3,5.18,100,"elpais, lavanguardia",2,"Fiesta de Ofertas de Primavera de Amazon: chollos en grandes marcas como Sony, L’Oréal o Skechers",2026-03-12 07:33
-campo,3,1,15.54,100,"levante_emv, okdiario",2,"Un gran trabajo de campo (y de campo de verdad): Roser Cabrera salva las palabras y el mundo de ""l'olivera i l'oli""",2026-03-12 07:33
-brumas,3,0,5.0,100,okdiario,1,Castilla y León: AEMET prevé un día de nubes y brumas con temperaturas en ligero cambio,2026-03-12 07:33
-predicción,3,2,7.77,100,okdiario,1,"Predicción del horóscopo para Leo hoy, jueves 12 de marzo de 2026",2026-03-12 07:33
-horóscopo,3,3,5.18,100,okdiario,1,"Predicción del horóscopo para Leo hoy, jueves 12 de marzo de 2026",2026-03-12 07:33
-euros,5,4,6.48,100,"okdiario, lavanguardia, eldiario, huffington_es",4,Buenas noticias si vives en un pueblo pequeño: la ayuda de 66.000 euros para reformar tu casa y es oficial,2026-03-12 07:33
-barcelona,3,3,5.18,100,"okdiario, lavanguardia",2,"Previsión AEMET: Barcelona con brumas matutinas y tarde mayormente soleada, heladas en el Prepirineo",2026-03-12 07:33
-ataque,3,1,15.54,100,"levante_emv, france24_es, okdiario",3,Irán responde a las bombas de Israel y EEUU con una ofensiva de ataques en el ciberespacio,2026-03-12 07:33
-siete,4,1,20.72,100,"france24_es, lavanguardia",2,🔴 En directo: Siete muertos en un nuevo ataque israelí en Beirut mientras el petróleo Brent supera los 100 dólares,2026-03-12 07:33
-aemet,3,0,5.0,100,okdiario,1,Castilla y León: AEMET prevé un día de nubes y brumas con temperaturas en ligero cambio,2026-03-12 07:33
-brent,3,0,5.0,100,"france24_es, okdiario",2,🔴 En directo: Siete muertos en un nuevo ataque israelí en Beirut mientras el petróleo Brent supera los 100 dólares,2026-03-12 07:33
-supera,3,3,5.18,100,"france24_es, okdiario",2,🔴 En directo: Siete muertos en un nuevo ataque israelí en Beirut mientras el petróleo Brent supera los 100 dólares,2026-03-12 07:33
-dólares,4,5,4.14,82,"france24_es, okdiario, lavanguardia",3,🔴 En directo: Siete muertos en un nuevo ataque israelí en Beirut mientras el petróleo Brent supera los 100 dólares,2026-03-12 07:33
-mundo,3,4,3.89,77,"levante_emv, 20minutos, lavanguardia",3,"Un gran trabajo de campo (y de campo de verdad): Roser Cabrera salva las palabras y el mundo de ""l'olivera i l'oli""",2026-03-12 07:33
-nuevo,5,8,3.24,64,"france24_es, okdiario, google_news_politica, 20minutos",4,🔴 En directo: Siete muertos en un nuevo ataque israelí en Beirut mientras el petróleo Brent supera los 100 dólares,2026-03-12 07:33
-jueves,3,6,2.59,51,okdiario,1,"Predicción del horóscopo para Leo hoy, jueves 12 de marzo de 2026",2026-03-12 07:33
-trump,4,9,2.3,46,"eldiario, levante_emv, google_news_politica, lavanguardia",4,🎙 PODCAST | La Europa de Trump: otra crisis de identidad,2026-03-12 07:33
-petróleo,3,7,2.22,44,"france24_es, lavanguardia",2,🔴 En directo: Siete muertos en un nuevo ataque israelí en Beirut mientras el petróleo Brent supera los 100 dólares,2026-03-12 07:33
-marzo,3,7,2.22,44,okdiario,1,"Predicción del horóscopo para Leo hoy, jueves 12 de marzo de 2026",2026-03-12 07:33
+petróleo,8,9,5.74,100,"20minutos, okdiario, elpais, elespanol, france24_es",5,El petróleo toca de nuevo los 100 dólares con los ataques a barcos en el estrecho de Ormuz,2026-03-12 08:03
+última,3,1,19.36,100,"elcorreo, okdiario, elpais",3,Última hora de la guerra en Oriente Medio | Israel anuncia un bombardeo «a gran escala» en el sur de Beirut e Irán ataca infraestructuras petroleras en el Golfo,2026-03-12 08:03
+brumas,3,0,5.0,100,okdiario,1,Castilla y León: AEMET prevé un día de nubes y brumas con temperaturas en ligero cambio,2026-03-12 08:03
+ataque,4,2,12.91,100,"20minutos, okdiario, elpais, elespanol, levante_emv",5,El petróleo toca de nuevo los 100 dólares con los ataques a barcos en el estrecho de Ormuz,2026-03-12 08:03
+petroleros,5,3,10.76,100,"okdiario, 20minutos, levante_emv, huffington_es",4,El petróleo se dispara y supera los 100 dólares tras aumentar los ataques a barcos y puertos petroleros,2026-03-12 08:03
+barcos,4,2,12.91,100,"20minutos, okdiario",2,El petróleo toca de nuevo los 100 dólares con los ataques a barcos en el estrecho de Ormuz,2026-03-12 08:03
+ataques,7,3,15.06,100,"20minutos, okdiario, elespanol, levante_emv, google_news_es",5,El petróleo toca de nuevo los 100 dólares con los ataques a barcos en el estrecho de Ormuz,2026-03-12 08:03
+dólares,7,7,6.45,100,"20minutos, okdiario, elespanol, france24_es, google_news_es",5,El petróleo toca de nuevo los 100 dólares con los ataques a barcos en el estrecho de Ormuz,2026-03-12 08:03
+aemet,5,0,5.0,100,okdiario,1,AEMET prevé un día de nubes y claros en Zaragoza con temperaturas en ascenso y viento suave,2026-03-12 08:03
+vuelve,3,3,6.45,100,"elespanol, google_news_es, elpais",3,El precio del petróleo vuelve a superar los 100 dólares en medio de los ataques en el estrecho de Ormuz,2026-03-12 08:03
+predicción,3,3,6.45,100,okdiario,1,"Predicción del horóscopo para Virgo hoy, jueves 12 de marzo de 2026",2026-03-12 08:03
+temperaturas,3,3,6.45,100,okdiario,1,AEMET prevé un día de nubes y claros en Zaragoza con temperaturas en ascenso y viento suave,2026-03-12 08:03
+prevé,3,0,5.0,100,okdiario,1,AEMET prevé un día de nubes y claros en Zaragoza con temperaturas en ascenso y viento suave,2026-03-12 08:03
+ofensiva,3,4,4.84,96,"levante_emv, elpais",2,"Trump dice que la guerra contra Irán ""está ganada"", pero sugiere que continuará la ofensiva",2026-03-12 08:03
+horóscopo,3,4,4.84,96,okdiario,1,"Predicción del horóscopo para Virgo hoy, jueves 12 de marzo de 2026",2026-03-12 08:03
+supera,3,4,4.84,96,"okdiario, elespanol, france24_es, google_news_es",4,El petróleo se dispara y supera los 100 dólares tras aumentar los ataques a barcos y puertos petroleros,2026-03-12 08:03
+estrecho,6,9,4.3,86,"20minutos, elpais, levante_emv, elespanol, okdiario",5,El petróleo toca de nuevo los 100 dólares con los ataques a barcos en el estrecho de Ormuz,2026-03-12 08:03
+ormuz,7,12,3.76,75,"20minutos, elpais, levante_emv, huffington_es, elespanol",5,El petróleo toca de nuevo los 100 dólares con los ataques a barcos en el estrecho de Ormuz,2026-03-12 08:03
+jueves,4,7,3.69,73,okdiario,1,"Predicción del horóscopo para Virgo hoy, jueves 12 de marzo de 2026",2026-03-12 08:03
+nuevo,4,9,2.87,57,"20minutos, france24_es, okdiario, google_news_politica",4,El petróleo toca de nuevo los 100 dólares con los ataques a barcos en el estrecho de Ormuz,2026-03-12 08:03
+medio,3,7,2.77,55,"elcorreo, elpais, elespanol",3,Última hora de la guerra en Oriente Medio | Israel anuncia un bombardeo «a gran escala» en el sur de Beirut e Irán ataca infraestructuras petroleras en el Golfo,2026-03-12 08:03
+contra,6,14,2.77,55,"levante_emv, elpais, google_news_es",3,"Trump dice que la guerra contra Irán ""está ganada"", pero sugiere que continuará la ofensiva",2026-03-12 08:03
+trump,4,10,2.58,51,"eldiario, levante_emv, google_news_politica",3,🎙 PODCAST | La Europa de Trump: otra crisis de identidad,2026-03-12 08:03
+marzo,3,8,2.42,48,okdiario,1,"Predicción del horóscopo para Virgo hoy, jueves 12 de marzo de 2026",2026-03-12 08:03
