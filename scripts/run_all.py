@@ -29,6 +29,7 @@ def run_script(script_name):
 # -----------------------------
 scripts = [
     "collect_rss.py",
+    "preprocess_csvs.py",
     "detect_narratives.py",
     "detect_emotions.py",
     "detect_polarization.py",
