@@ -1,11 +1,13 @@
 keyword,count_now,count_base,ratio,viral_score,sources,n_sources,sample_title,detected_at
-castilla,3,6,5.1,100,"newtral, elcorreo",2,Así funciona el sistema electoral en Castilla y León: por qué Segovia elegirá un diputado más en 2026,2026-03-12 17:03
-valenciana,3,3,10.21,100,"levante_emv, elpais",2,Utiel acoge el pleno del Consell Jurídic Consultiu de la Comunitat Valenciana por primera vez en 30 años,2026-03-12 17:03
-preguntas,3,1,30.62,100,"okdiario, maldita",2,Marlaska blinda al nuevo DAO en su toma de posesión para evitar las preguntas de la prensa,2026-03-12 17:03
-mensaje,3,7,4.37,87,"okdiario, newtral",2,"Última hora de la guerra de Irán contra EEUU e Israel, en directo hoy | Reacciones y el primer mensaje del nuevo líder supremo de Iran",2026-03-12 17:03
-horas,5,12,4.25,85,"elcorreo, elpais, huffington_es, okdiario",4,Vuelve a bajar el precio de la luz este viernes 13 de marzo: consulta las siete horas valle a 0 euros el kilovatio,2026-03-12 17:03
-ayuntamiento,3,8,3.83,76,levante_emv,1,El Ayuntamiento de Torrent actúa en la Avenida Reina Sofía tras el cambio de pago en el parking de Las Américas,2026-03-12 17:03
-valència,4,14,2.92,58,levante_emv,1,Melani se emociona escuchando su nueva canción en el Balcón de las Fallas de València,2026-03-12 17:03
-primera,3,11,2.78,55,"levante_emv, expansion, okdiario",3,Utiel acoge el pleno del Consell Jurídic Consultiu de la Comunitat Valenciana por primera vez en 30 años,2026-03-12 17:03
-fallas,5,20,2.55,51,levante_emv,1,Melani se emociona escuchando su nueva canción en el Balcón de las Fallas de València,2026-03-12 17:03
-nueva,4,19,2.15,42,"levante_emv, elcorreo, okdiario, 20minutos",4,Melani se emociona escuchando su nueva canción en el Balcón de las Fallas de València,2026-03-12 17:03
+israel,6,11,5.3,100,"google_news_es, elpais, okdiario, huffington_es",4,"Última hora del ataque de EE UU e Israel contra Irán, en directo | El nuevo líder supremo de Irán afirma que debe mantener el cierre de Ormuz para “presionar al enemigo” - EL PAÍS",2026-03-12 17:33
+directo,4,4,9.71,100,"google_news_es, elpais, okdiario, expansion",4,"Última hora del ataque de EE UU e Israel contra Irán, en directo | El nuevo líder supremo de Irán afirma que debe mantener el cierre de Ormuz para “presionar al enemigo” - EL PAÍS",2026-03-12 17:33
+animales,3,0,5.0,100,"eldiario, okdiario, elpais",3,Adiós a Churchill o Jane Austen en el dinero británico: el rediseño apuesta por animales en los billetes,2026-03-12 17:33
+machado,3,6,4.85,97,"elmundo, elespanol, huffington_es",3,"María Corina Machado elogia al Rey, critica a Sánchez y pide a Kast que ""proteja"" a los venezolanos en Chile",2026-03-12 17:33
+castilla,3,6,4.85,97,"newtral, elcorreo",2,Así funciona el sistema electoral en Castilla y León: por qué Segovia elegirá un diputado más en 2026,2026-03-12 17:33
+trump,5,11,4.41,88,"okdiario, huffington_es, elpais, levante_emv, lavanguardia",5,"Última hora de la guerra de Irán contra EEUU e Israel, en directo hoy | Reacciones de Trump y el primer mensaje del nuevo líder supremo de Iran",2026-03-12 17:33
+última,4,11,3.53,70,"google_news_es, elpais, okdiario",3,"Última hora del ataque de EE UU e Israel contra Irán, en directo | El nuevo líder supremo de Irán afirma que debe mantener el cierre de Ormuz para “presionar al enemigo” - EL PAÍS",2026-03-12 17:33
+fallas,7,22,3.09,61,"levante_emv, okdiario",2,Tormenta perfecta de trenes en Fallas: los maquinistas de Metrovalencia confirman una huelga los mismos días que el Cercanías no llegará a la ciudad,2026-03-12 17:33
+contra,10,33,2.94,58,"google_news_es, okdiario, levante_emv, elpais, huffington_es",5,"Última hora del ataque de EE UU e Israel contra Irán, en directo | El nuevo líder supremo de Irán afirma que debe mantener el cierre de Ormuz para “presionar al enemigo” - EL PAÍS",2026-03-12 17:33
+nacional,3,10,2.91,58,"levante_emv, heraldo_aragon",2,"La Policía Nacional incorporará estas Fallas un vehículo VIPA 6x6, sistemas antidrones y barricadas antiembestida",2026-03-12 17:33
+valència,3,14,2.08,41,levante_emv,1,"""Voy cada día a trabajar desde Alzira a València a las 14 horas y el tren es el único medio que tengo para llegar""",2026-03-12 17:33
+líder,4,19,2.04,40,"google_news_es, okdiario, elpais_internacional",3,"Última hora del ataque de EE UU e Israel contra Irán, en directo | El nuevo líder supremo de Irán afirma que debe mantener el cierre de Ormuz para “presionar al enemigo” - EL PAÍS",2026-03-12 17:33
