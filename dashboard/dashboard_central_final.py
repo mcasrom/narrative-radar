@@ -967,6 +967,33 @@ if os.path.exists(briefing_pdf):
 else:
     st.info("Briefing diario no disponible aún — se genera a las 07:08 y 19:08.")
 
+
+# ── Ko-fi — Apoya el proyecto ─────────────────────────────────────
+st.markdown("---")
+st.markdown("### ☕ Apoya Narrative Radar")
+st.markdown(
+    """
+    <div style="text-align:center; padding: 10px;">
+        <p style="color:#555; font-size:14px;">
+        Si este dashboard te resulta util, puedes apoyar el proyecto.<br>
+        Cada contribucion ayuda a mantener el Odroid encendido y el pipeline activo.
+        </p>
+        <a href="https://ko-fi.com/m_castillo" target="_blank">
+            <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Ko-fi" style="height:40px;">
+        </a>
+        <br><br>
+        <a href="https://ko-fi.com/m_castillo" target="_blank"
+           style="background:#FF5E5B; color:white; padding:10px 24px; border-radius:6px;
+                  font-weight:bold; text-decoration:none; font-size:15px;">
+            ☕ Invitame a un cafe — 1€
+        </a>
+        <br><br>
+        <small style="color:#888;">Briefing diario PDF · Analisis narrativas · Datos en tiempo real</small>
+    </div>
+    """,
+    unsafe_allow_html=True
+)
+
 st.subheader("📄 Guía y Metadatos")
 col1, col2 = st.columns(2)
 with col1:
