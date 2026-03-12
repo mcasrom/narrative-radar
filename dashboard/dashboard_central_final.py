@@ -125,6 +125,7 @@ def mostrar_keywords():
         st.plotly_chart(fig, use_container_width=True)
 
     st.caption(f"Actualizado cada 30 minutos · Odroid-C2 · © 2026 M. Castillo")
+    mostrar_keywords_gestion()
 
 def mostrar_historico():
     st.header("Histórico de ciclos")

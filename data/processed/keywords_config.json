@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "stopwords_custom": [],
+  "keywords_pinned": [],
+  "keywords_blocked": [],
+  "autolearn": {
+    "enabled": true,
+    "min_cycles_inactive": 10,
+    "max_pct_change_threshold": 5
+  },
+  "last_updated": ""
+}
