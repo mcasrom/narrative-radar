@@ -1,7 +1,11 @@
 keyword,count_now,count_base,ratio,viral_score,sources,n_sources,sample_title,detected_at
-final,3,3,15.88,100,"elcorreo, okdiario, huffington_es",3,Largo y tortuoso camino hasta el final,2026-03-12 23:33
-madrid,3,9,5.29,100,"elpais, elmundo, elespanol",3,El Real Madrid impone ante el Valencia la ley del más fuerte,2026-03-12 23:33
-mundo,3,5,9.53,100,"elpais, bbc_mundo, okdiario",3,"Duplantis bate su decimoquinto récord del mundo e inicia la escalada hacia los 6,40m",2026-03-12 23:33
-valencia,3,10,4.76,95,"elpais, elmundo, elespanol",3,El Real Madrid impone ante el Valencia la ley del más fuerte,2026-03-12 23:33
-ataque,3,12,3.97,79,"elpais, 20minutos",2,"Última hora del ataque de EE UU e Israel contra Irán, en directo | Una coalición internacional liderada por EE UU podrá escoltar buques petroleros por el estrecho de Ormuz",2026-03-12 23:33
-última,3,13,3.66,73,"elpais, levante_emv",2,"Última hora del ataque de EE UU e Israel contra Irán, en directo | Una coalición internacional liderada por EE UU podrá escoltar buques petroleros por el estrecho de Ormuz",2026-03-12 23:33
+electoral,4,0,5.0,100,okdiario,1,Cómo librarse de estar en una mesa electoral en las elecciones Castilla y León 2026: las excusas legales,2026-03-13 00:03
+elecciones,5,4,14.68,100,okdiario,1,Cómo librarse de estar en una mesa electoral en las elecciones Castilla y León 2026: las excusas legales,2026-03-13 00:03
+castilla,5,9,6.53,100,okdiario,1,Cómo librarse de estar en una mesa electoral en las elecciones Castilla y León 2026: las excusas legales,2026-03-13 00:03
+heridos,5,3,19.58,100,"levante_emv, elcorreo, google_news_es, 20minutos, lavanguardia",5,Heridos seis soldados franceses en un ataque con drones en una base en el norte de Irak,2026-03-13 00:03
+soldados,5,0,5.0,100,"levante_emv, elcorreo, google_news_es, 20minutos, lavanguardia",5,Heridos seis soldados franceses en un ataque con drones en una base en el norte de Irak,2026-03-13 00:03
+franceses,5,0,5.0,100,"levante_emv, elcorreo, google_news_es, 20minutos, lavanguardia",5,Heridos seis soldados franceses en un ataque con drones en una base en el norte de Irak,2026-03-13 00:03
+ataque,7,13,6.32,100,"levante_emv, google_news_politica, elcorreo, elpais, google_news_es",5,Heridos seis soldados franceses en un ataque con drones en una base en el norte de Irak,2026-03-13 00:03
+drones,3,1,35.24,100,"levante_emv, elcorreo, google_news_es, lavanguardia",4,Heridos seis soldados franceses en un ataque con drones en una base en el norte de Irak,2026-03-13 00:03
+celta,3,2,17.62,100,"elpais, 20minutos, levante_emv",3,El Celta se sostiene con diez ante el Lyon,2026-03-13 00:03
+última,3,14,2.52,50,"elcorreo, elpais",2,Última hora de la guerra en Oriente Medio | Seis soldados franceses heridos en un «ataque con drones» en el Kurdistán iraquí,2026-03-13 00:03
