@@ -833,6 +833,31 @@ def _mostrar_tab_inner(tab_name, csv_path):
             st.subheader("Sentimiento por fuente")
             st.dataframe(df_source[["source","avg_score","positivity_pct","negativity_pct","total"]].sort_values("avg_score", ascending=False),
                          use_container_width=True)
+
+        # ── Lenguaje agresivo ──────────────────────────────────
+        st.markdown("---")
+        st.subheader("Lenguaje agresivo en titulares 🔥")
+        hate_path = os.path.join(base_dir, "hate_alerts.csv")
+        if os.path.exists(hate_path):
+            try:
+                df_hate = pd.read_csv(hate_path)
+                if len(df_hate) > 0:
+                    col1, col2 = st.columns(2)
+                    col1.metric("Titulares agresivos", len(df_hate))
+                    col2.metric("Fuentes afectadas", df_hate["source"].nunique())
+                    by_src = df_hate.groupby("source").agg(total=("hate_score","count"), avg=("hate_score","mean")).reset_index().sort_values("total", ascending=True).tail(10)
+                    fig_hate = px.bar(by_src, x="total", y="source", orientation="h",
+                                     color="avg", color_continuous_scale="Reds",
+                                     title="Fuentes con más lenguaje agresivo",
+                                     labels={"total":"Nº titulares","source":"Fuente","avg":"Score medio"})
+                    st.plotly_chart(fig_hate, use_container_width=True)
+                    st.dataframe(df_hate[["source","title","hate_words","hate_score"]].head(10), use_container_width=True)
+                else:
+                    st.success("✅ Sin lenguaje agresivo detectado en este ciclo.")
+            except Exception as e:
+                st.error(f"Error: {e}")
+        else:
+            st.info("Sin datos aún — se generarán en el próximo ciclo.")
         return
 
     if tab_name == "Agenda-Setting":
