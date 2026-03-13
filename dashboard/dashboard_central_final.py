@@ -996,10 +996,33 @@ def _mostrar_tab_inner(tab_name, csv_path):
                      title="Distribución emocional")
         st.plotly_chart(fig, use_container_width=True)
     elif tab_name == "Polarización" and "date" in df.columns:
+        st.markdown("""
+**Cómo leer este gráfico:**
+- **0.0** = equilibrio total entre medios progresistas y conservadores
+- **1.0** = un solo bloque domina (máxima polarización)
+- Se miden fuentes únicas activas cada día, no número de noticias
+        """)
+        last = df.iloc[-1] if len(df) > 0 else None
+        if last is not None:
+            col1, col2, col3 = st.columns(3)
+            col1.metric("Índice hoy", f"{last["polarization_index"]:.3f}")
+            col2.metric("Fuentes progresistas", int(last["progressive_count"]))
+            col3.metric("Fuentes conservadoras", int(last["conservative_count"]))
         fig = px.line(df, x="date", y="polarization_index", markers=True,
-                      title="Índice de polarización",
-                      labels={"date": "Fecha", "polarization_index": "Índice"})
+                      title="Índice de polarización mediática",
+                      labels={"date": "Fecha", "polarization_index": "Índice (0=equilibrio, 1=máx polarización)"})
+        fig.add_hline(y=0.3, line_dash="dash", line_color="orange", annotation_text="Alerta moderada")
+        fig.add_hline(y=0.6, line_dash="dash", line_color="red", annotation_text="Alta polarización")
         st.plotly_chart(fig, use_container_width=True)
+        col_a, col_b = st.columns(2)
+        with col_a:
+            fig2 = px.bar(df.tail(14), x="date", y=["progressive_count","conservative_count"],
+                          title="Fuentes activas últimas 2 semanas",
+                          labels={"date":"Fecha","value":"Fuentes","variable":"Bloque"},
+                          color_discrete_map={"progressive_count":"#2196F3","conservative_count":"#F44336"})
+            st.plotly_chart(fig2, use_container_width=True)
+        with col_b:
+            st.dataframe(df[["date","polarization_index","progressive_count","conservative_count"]].tail(14).sort_values("date", ascending=False), use_container_width=True)
     elif tab_name == "Red de Actores" and "source" in df.columns:
         fig = px.bar(df, x="source", y="weight", color="target",
                      title="Red de actores — peso de relaciones",
