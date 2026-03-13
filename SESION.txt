@@ -2,19 +2,27 @@
 ═══════════════════════════════════════════════
 
 HECHO HOY:
-- kofi_notify.py → envía password automática a suscriptores
-- data/app_password.txt → password actual: CMNE-MARZO-2026
+- kofi_notify.py → instalado en scripts/ (pendiente Ko-fi API 403)
+- data/app_password.txt → password: CMNE-MARZO-2026
 - cron recordatorio día 1 cada mes → email a mcasrom@gmail.com
-- Ko-fi configuración → pendiente para otro día
+- ssmtp configurado → email funcionando
 
-PENDIENTE:
-- HuggingFace sentimiento → aparcado, API no funciona bien
-- Stripe informes de pago → código generado, sin instalar
-- Guía de usuario → pendiente
-- Ko-fi tiers (3€/mes) → pendiente
+PENDIENTE POR ORDEN:
+1. Terminar configuración Ko-fi (tiers 3€, membership)
+2. Solucionar Ko-fi API 403 → webhook o leer Gmail
+3. Briefing PDF automático por email a suscriptores
+4. HuggingFace sentimiento → aparcado
+5. Stripe informes de pago → aparcado
+6. Guía de usuario → aparcado
 
 FICHEROS CLAVE:
 - dashboard/dashboard_central_final.py
 - scripts/detect_sentiment_nlp.py
 - scripts/kofi_notify.py
 - data/app_password.txt
+- data/kofi_sent.json (se crea cuando haya suscriptores)
+
+CREDENCIALES — solo tú:
+- Ko-fi: ko-fi.com/m_castillo
+- Gmail: mcasrom@gmail.com
+- App: https://fake-news-narrative.streamlit.app/
