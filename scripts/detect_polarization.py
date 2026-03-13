@@ -31,8 +31,8 @@ now = datetime.now().strftime("%Y-%m-%d %H:%M")
 records = []
 
 for day, group in df.groupby("day"):
-    prog = group["source"].isin(PROGRESSIVE).sum()
-    cons = group["source"].isin(CONSERVATIVE).sum()
+    prog = group[group["source"].isin(PROGRESSIVE)]["source"].nunique()
+    cons = group[group["source"].isin(CONSERVATIVE)]["source"].nunique()
     total = prog + cons
     if total == 0:
         continue
