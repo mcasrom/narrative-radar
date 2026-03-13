@@ -791,7 +791,7 @@ def _mostrar_tab_inner(tab_name, csv_path):
 
     if tab_name == "Sentimiento NLP":
         st.header("Análisis de Sentimiento NLP 🧠")
-        st.markdown("Sentimiento real de titulares usando léxico expandido español — **3200+ titulares analizados en < 4 segundos**.")
+        st.markdown("Sentimiento real de titulares usando léxico expandido español — **21.000+ titulares analizados con léxico expandido**.")
         if not os.path.exists(csv_path):
             st.warning("Sin datos aún — se generarán en el próximo ciclo.")
             return
