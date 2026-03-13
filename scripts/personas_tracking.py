@@ -25,6 +25,12 @@ PERSONAS = {
     "Rajoy":        ["rajoy","mariano rajoy"],
     "Trump":        ["trump","donald trump"],
     "Zelenski":     ["zelenski","zelensky","volodímir","volodimir"],
+    "Mazón":        ["mazón","mazon","carlos mazón","carlos mazon"],
+    "Puente":       ["puente","óscar puente","oscar puente"],
+    "Montero MJ":   ["maría jesús montero","maria jesus montero","montero hacienda"],
+    "Irene Montero": ["irene montero","montero podemos","montero igualdad"],
+    "Milei":        ["milei","javier milei"],
+    "Macron":       ["macron","emmanuel macron"],
 }
 
 POSITIVE_WORDS = {"victoria","acuerdo","apoya","celebra","gana","logra","anuncia",
