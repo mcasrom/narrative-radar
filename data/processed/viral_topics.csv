@@ -1,12 +1,20 @@
 keyword,count_now,count_base,ratio,viral_score,sources,n_sources,sample_title,detected_at
-nuevo,3,3,6.81,100,"expansion, okdiario, google_news_es",3,"El Ibex, en tensión de nuevo por el petróleo",2026-03-13 08:03
-aemet,4,2,13.62,100,okdiario,1,"AEMET prevé cielo despejado y lluvias en Zaragoza al final del día, con viento variable",2026-03-13 08:03
-mejores,4,3,9.08,100,"elcorreo, okdiario",2,"Las mejores aceiteras que combinan diseño, limpieza y precisión en tu cocina",2026-03-13 08:03
-padre,3,1,20.44,100,"elcorreo, okdiario, heraldo_aragon",3,Las mejores carteras de hombre con protección RFID para regalar el próximo Día del Padre,2026-03-13 08:03
-confirma,3,2,10.22,100,okdiario,1,El BOE lo confirma: se adelanta el nuevo cambio de hora de 2026 y es inminente,2026-03-13 08:03
-predicción,3,3,6.81,100,okdiario,1,"Predicción del horóscopo para Virgo hoy, viernes 13 de marzo de 2026",2026-03-13 08:03
-horóscopo,3,4,5.11,100,okdiario,1,"Predicción del horóscopo para Virgo hoy, viernes 13 de marzo de 2026",2026-03-13 08:03
-viernes,3,6,3.41,68,okdiario,1,"Predicción del horóscopo para Virgo hoy, viernes 13 de marzo de 2026",2026-03-13 08:03
-ataque,3,6,3.41,68,"elcorreo, elpais, levante_emv",3,Última hora de la guerra en Oriente Medio | EE UU autoriza la compra temporal de petróleo ruso para frenar la subida de precios e Israel intensifica los ataques en Líbano,2026-03-13 08:03
-marzo,4,11,2.48,49,"okdiario, levante_emv",2,"Predicción del horóscopo para Virgo hoy, viernes 13 de marzo de 2026",2026-03-13 08:03
-petróleo,4,13,2.1,41,"expansion, elcorreo, google_news_es",3,"El Ibex, en tensión de nuevo por el petróleo",2026-03-13 08:03
+europeo,3,0,5.0,100,"okdiario, lavanguardia",2,Muere un soldado francés en una base de Irak: es el primer militar europeo asesinado en la guerra contra Irán,2026-03-13 08:33
+tensión,3,1,19.12,100,"heraldo_aragon, expansion, 20minutos",3,El petróleo Brent roza los 101 dólares en plena tensión,2026-03-13 08:33
+militar,3,2,9.56,100,"okdiario, lavanguardia",2,Muere un soldado francés en una base de Irak: es el primer militar europeo asesinado en la guerra contra Irán,2026-03-13 08:33
+nuevo,4,4,6.37,100,"okdiario, expansion",2,José Luis Santafé toma posesión como nuevo DAO de la Policía Nacional y refuerza el compromiso con las víctimas,2026-03-13 08:33
+estos,3,1,19.12,100,elcorreo,1,La Fiesta de Ofertas de Primavera de Amazon sigue el fin de semana y estos son los mejores chollos,2026-03-13 08:33
+mejores,4,5,5.1,100,elcorreo,1,La Fiesta de Ofertas de Primavera de Amazon sigue el fin de semana y estos son los mejores chollos,2026-03-13 08:33
+llegan,3,1,19.12,100,"levante_emv, heraldo_aragon, elcorreo",3,Esta es la única manera de ir a la mascletà desde Albal si los Cercanías no llegan a València,2026-03-13 08:33
+última,3,3,6.37,100,"elpais, okdiario, elcorreo",3,"Última hora del ataque de EE UU e Israel contra Irán, en directo | Trump presume de “ganar la guerra en Irán” y carga contra el régimen:  “¡Qué gran honor es matar a los líderes trastornados iraníes!",2026-03-13 08:33
+primer,4,3,8.5,100,"levante_emv, okdiario, lavanguardia",3,Este es el primer país que se planta frente a las manetas enrasadas de los coches,2026-03-13 08:33
+confirma,4,4,6.37,100,"okdiario, lavanguardia",2,La UE confirma el palo a España y anuncia: va a ir a los tribunales por no acatar la norma del «tamaño de las empresas»,2026-03-13 08:33
+directo,4,4,6.37,100,"elpais, levante_emv, okdiario, france24_es",4,"Última hora del ataque de EE UU e Israel contra Irán, en directo | Trump presume de “ganar la guerra en Irán” y carga contra el régimen:  “¡Qué gran honor es matar a los líderes trastornados iraníes!",2026-03-13 08:33
+aemet,3,4,4.78,95,"eldiario, okdiario",2,🎙 PODCAST | De la AEMET a la DGT: la derecha y la baliza,2026-03-13 08:33
+precio,4,6,4.25,84,"heraldo_aragon, okdiario, elcorreo, europapress",4,"El precio de la luz cae un 46,8% y se sitúa en 37,89 euros",2026-03-13 08:33
+predicción,3,5,3.82,76,okdiario,1,"Predicción del horóscopo para Escorpio hoy, viernes 13 de marzo de 2026",2026-03-13 08:33
+horóscopo,3,5,3.82,76,okdiario,1,"Predicción del horóscopo para Escorpio hoy, viernes 13 de marzo de 2026",2026-03-13 08:33
+trump,5,9,3.54,70,"heraldo_aragon, elpais, 20minutos, okdiario, france24_es",5,Donald Trump afirma que tiene “munición ilimitada” para combatir a la &quot;escoria demente&quot; de Irán,2026-03-13 08:33
+israel,3,6,3.19,63,"elpais, okdiario, elcorreo",3,"Última hora del ataque de EE UU e Israel contra Irán, en directo | Trump presume de “ganar la guerra en Irán” y carga contra el régimen:  “¡Qué gran honor es matar a los líderes trastornados iraníes!",2026-03-13 08:33
+contra,6,15,2.55,50,"elpais, okdiario, elespanol",3,"Última hora del ataque de EE UU e Israel contra Irán, en directo | Trump presume de “ganar la guerra en Irán” y carga contra el régimen:  “¡Qué gran honor es matar a los líderes trastornados iraníes!",2026-03-13 08:33
+viernes,3,8,2.39,47,okdiario,1,"Predicción del horóscopo para Escorpio hoy, viernes 13 de marzo de 2026",2026-03-13 08:33
