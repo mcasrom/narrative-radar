@@ -1,15 +1,22 @@
 keyword,count_now,count_base,ratio,viral_score,sources,n_sources,sample_title,detected_at
-feijóo,5,3,20.05,100,"elmundo, elespanol, europapress, eldiario, okdiario",5,"Feijóo se lanza contra Vox en el cierre de campaña: ""Estafar al ciudadano merece un castigo de la gente, espero que les vaya mal""",2026-03-13 21:03
-campaña,5,3,20.05,100,"elmundo, eldiario, europapress, google_news_es",4,"Feijóo se lanza contra Vox en el cierre de campaña: ""Estafar al ciudadano merece un castigo de la gente, espero que les vaya mal""",2026-03-13 21:03
-castigo,3,0,5.0,100,"elmundo, europapress, eldiario",3,"Feijóo se lanza contra Vox en el cierre de campaña: ""Estafar al ciudadano merece un castigo de la gente, espero que les vaya mal""",2026-03-13 21:03
-mañueco,4,3,16.04,100,"okdiario, elespanol, europapress",3,Mañueco pide concentrar el voto en el PP para que Castilla y León «esté libre del sanchismo» tras el 15-M,2026-03-13 21:03
-castilla,8,2,48.12,100,"okdiario, elespanol, eldiario, levante_emv, elmundo",5,Mañueco pide concentrar el voto en el PP para que Castilla y León «esté libre del sanchismo» tras el 15-M,2026-03-13 21:03
-libre,3,1,36.09,100,"okdiario, huffington_es, elespanol, europapress",4,Mañueco pide concentrar el voto en el PP para que Castilla y León «esté libre del sanchismo» tras el 15-M,2026-03-13 21:03
-ofrece,3,6,6.02,100,"elcorreo, huffington_es, 20minutos",3,Última hora de la guerra en Oriente Medio | EE UU ofrece una recompensa de 10 millones de dólares por información sobre dirigentes iraníes,2026-03-13 21:03
-sánchez,9,6,18.05,100,"europapress, elespanol, eldiario, google_news_es, elmundo",5,"Sánchez promete ""todos los recursos del Estado"" para paliar los efectos de la guerra de Irán",2026-03-13 21:03
-derecha,3,2,18.05,100,"levante_emv, eldiario, elmundo",3,Detenidos en Málaga dos jóvenes de extrema derecha por agredir e intentar estrangular a otro por ser de ideología contraria,2026-03-13 21:03
-mayor,3,6,6.02,100,"elespanol, okdiario, 20minutos",3,"Feijóo pide darle ""el mayor susto de su vida"" a Sánchez en Castilla y León y un Gobierno ""libre y sólido"" de Mañueco",2026-03-13 21:03
-reivindica,4,1,48.12,100,"eldiario, elmundo",2,"Sánchez, en el cierre de campaña en Castilla y León: ""Hoy España reivindica la paz y la derecha reivindica a Aznar""",2026-03-13 21:03
-dólares,3,10,3.61,72,"elcorreo, okdiario, 20minutos",3,Última hora de la guerra en Oriente Medio | EE UU ofrece una recompensa de 10 millones de dólares por información sobre dirigentes iraníes,2026-03-13 21:03
-españa,6,36,2.01,40,"elcorreo, okdiario, huffington_es, eldiario, elmundo",5,El atleta vasco que renuncia al Europeo para no defender la camiseta de España,2026-03-13 21:03
-millones,3,18,2.01,40,"elcorreo, okdiario, 20minutos",3,Última hora de la guerra en Oriente Medio | EE UU ofrece una recompensa de 10 millones de dólares por información sobre dirigentes iraníes,2026-03-13 21:03
+madre,5,1,62.03,100,"elcorreo, okdiario, elpais, 20minutos, heraldo_aragon",5,Detienen a un hombre tras retener a su madre y a una cuidadora con un machete y un arma de fuego en un pueblo de Burgos,2026-03-13 21:33
+marzo,5,12,5.17,100,elcorreo,1,El Eurojackpot de la ONCE del viernes: comprobar resultados del 13 de marzo,2026-03-13 21:33
+federal,4,1,49.63,100,"elespanol, eldiario, levante_emv, lavanguardia",4,"Un juez anula las citaciones a presidente de la Reserva Federal Jerome Powell al entender que la causa contra él es ""infundada""",2026-03-13 21:33
+reserva,3,1,37.22,100,"elespanol, eldiario, lavanguardia",3,"Un juez anula las citaciones a presidente de la Reserva Federal Jerome Powell al entender que la causa contra él es ""infundada""",2026-03-13 21:33
+anula,4,0,5.0,100,"elespanol, eldiario, levante_emv, lavanguardia",4,"Un juez anula las citaciones a presidente de la Reserva Federal Jerome Powell al entender que la causa contra él es ""infundada""",2026-03-13 21:33
+oreja,3,1,37.22,100,"elpais, 20minutos, heraldo_aragon",3,La policía detiene a una madre y su hijo por pegar y arrancar un trozo de oreja a un profesor en Alcoi,2026-03-13 21:33
+trozo,3,0,5.0,100,"elpais, 20minutos, heraldo_aragon",3,La policía detiene a una madre y su hijo por pegar y arrancar un trozo de oreja a un profesor en Alcoi,2026-03-13 21:33
+profesor,4,1,49.63,100,"okdiario, elpais, 20minutos, heraldo_aragon",4,Detenidos una madre y su hijo por golpear a un profesor en un instituto de Alcoy (Alicante),2026-03-13 21:33
+ganar,3,0,5.0,100,"levante_emv, huffington_es",2,"Pedro Sánchez llama a la movilización de ""todos los progresistas"" en torno al PSOE y al voto de las mujeres para ganar en Castilla y León",2026-03-13 21:33
+resultados,4,0,5.0,100,elcorreo,1,El Eurojackpot de la ONCE del viernes: comprobar resultados del 13 de marzo,2026-03-13 21:33
+comprobar,4,3,16.54,100,elcorreo,1,El Eurojackpot de la ONCE del viernes: comprobar resultados del 13 de marzo,2026-03-13 21:33
+viernes,4,5,9.93,100,elcorreo,1,El Eurojackpot de la ONCE del viernes: comprobar resultados del 13 de marzo,2026-03-13 21:33
+citaciones,5,1,62.03,100,"okdiario, elespanol, eldiario, levante_emv, lavanguardia",5,Powell gana la batalla a Trump: un juez tumba las citaciones de los sobrecostes del edificio de la Fed,2026-03-13 21:33
+powell,5,0,5.0,100,"okdiario, elespanol, expansion, levante_emv, lavanguardia",5,Powell gana la batalla a Trump: un juez tumba las citaciones de los sobrecostes del edificio de la Fed,2026-03-13 21:33
+castilla,7,8,10.86,100,"elcorreo, levante_emv, elespanol, infolibre, google_news_es",5,"Sánchez, Feijóo y Abascal echan el resto en el final de la atípica campaña en Castilla y León",2026-03-13 21:33
+campaña,7,7,12.41,100,"elcorreo, okdiario, levante_emv, infolibre, google_news_es",5,"Sánchez, Feijóo y Abascal echan el resto en el final de la atípica campaña en Castilla y León",2026-03-13 21:33
+abascal,4,5,9.93,100,"elcorreo, elespanol, europapress, lavanguardia",4,"Sánchez, Feijóo y Abascal echan el resto en el final de la atípica campaña en Castilla y León",2026-03-13 21:33
+feijóo,3,7,5.32,100,"elcorreo, lavanguardia, elmundo",3,"Sánchez, Feijóo y Abascal echan el resto en el final de la atípica campaña en Castilla y León",2026-03-13 21:33
+sánchez,5,13,4.77,95,"elcorreo, levante_emv, infolibre, lavanguardia, europapress",5,"Sánchez, Feijóo y Abascal echan el resto en el final de la atípica campaña en Castilla y León",2026-03-13 21:33
+cierre,3,8,4.65,93,"infolibre, google_news_es, elmundo",3,Sánchez y Zapatero hilvanan con el “No a la guerra” pasado y presente del PSOE en el cierre de campaña en Castilla y León,2026-03-13 21:33
+contra,7,30,2.89,57,"okdiario, elespanol, eldiario, expansion, levante_emv",5,Un eufórico Laporta cierra la campaña electoral cargando contra Font: «¡Estás desacreditado!»,2026-03-13 21:33
