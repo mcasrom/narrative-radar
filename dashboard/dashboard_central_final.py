@@ -1084,7 +1084,7 @@ with col2:
         try:
             with open(meta_path) as _f:
                 _meta = _json.load(_f)
-            last_ingestion = _meta.get("last_ingestion", "N/A")
+            last_ingestion = _meta.get("generated_at", "N/A")
             total_news = _meta.get("total_news", "N/A")
         except:
             last_ingestion = "Error leyendo metadata"
