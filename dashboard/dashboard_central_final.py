@@ -7,6 +7,39 @@ import os
 import sys
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import streamlit as st
+
+# ─────────────────────────────────────────────
+# PAYWALL — Acceso por password
+# ─────────────────────────────────────────────
+import hashlib as _hashlib
+
+def _check_password():
+    """Devuelve True si el usuario introduce la password correcta"""
+    FREE_TABS  = [0,1,2]   # tabs visibles sin password (Radar, Emocional, Tendencias)
+    PASS_HASH  = "1b22a27d292e9f379433bd7c86abb6573e35d84f02dcd772226fe6ccc00b1ccd021d31936e9d7c0e636305886261c3da1fcd417cea59a00ab32166d05227d2cc"  # cambia esto
+
+    def _hash(p): return _hashlib.sha512(p.encode()).hexdigest()
+
+    if "auth_ok" not in st.session_state:
+        st.session_state.auth_ok = False
+
+    if not st.session_state.auth_ok:
+        st.sidebar.markdown("---")
+        st.sidebar.markdown("### 🔐 Acceso Premium")
+        pwd = st.sidebar.text_input("Password", type="password", key="pwd_input")
+        if st.sidebar.button("Entrar"):
+            if _hash(pwd) == PASS_HASH:
+                st.session_state.auth_ok = True
+                st.rerun()
+            else:
+                st.sidebar.error("Password incorrecta")
+        st.sidebar.markdown("---")
+        st.sidebar.markdown("☕ [Apoya el proyecto](https://ko-fi.com/mcasrom)")
+        st.sidebar.markdown("*Acceso gratuito: 3 módulos*")
+        return False
+    return True
+
+_AUTH_OK = _check_password()
 import pandas as pd
 import plotly.express as px
 from fpdf import FPDF
