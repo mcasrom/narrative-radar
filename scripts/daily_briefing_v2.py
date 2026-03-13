@@ -542,6 +542,62 @@ pdf = BriefingPDF(preview=PREVIEW_MODE)
 pdf.set_auto_page_break(auto=True, margin=15)
 pdf.add_page()
 
+# ══════════════════════════════════════════
+# PORTADA DEDICADA
+# ══════════════════════════════════════════
+pdf.ln(15)
+pdf.set_font(pdf._F, style="B", size=32)
+pdf.set_text_color(192, 0, 0)
+pdf.cell(0, 16, "C.M.N.E.", new_x="LMARGIN", new_y="NEXT", align="C")
+pdf.set_font(pdf._F, style="B", size=14)
+pdf.set_text_color(44, 62, 80)
+pdf.cell(0, 8, "Centro de Mando Narrativo Espana", new_x="LMARGIN", new_y="NEXT", align="C")
+pdf.ln(3)
+pdf.set_draw_color(192, 0, 0)
+pdf.set_line_width(1.0)
+pdf.line(30, pdf.get_y(), 180, pdf.get_y())
+pdf.ln(6)
+pdf.set_font(pdf._F, size=11)
+pdf.set_text_color(80, 80, 80)
+pdf.cell(0, 7, f"Briefing Diario - {today_str}", new_x="LMARGIN", new_y="NEXT", align="C")
+pdf.cell(0, 7, f"Generado: {now_str}", new_x="LMARGIN", new_y="NEXT", align="C")
+pdf.ln(8)
+kpi_portada = [
+    ("Noticias 24h",      str(n_news_hoy),       (192,0,0)),
+    ("Fuentes activas",   str(n_fuentes),         (44,62,80)),
+    ("Riesgo informativo",f"{score_riesgo}/100",  (192,57,43) if score_riesgo>=60 else (39,174,96)),
+    ("Calidad pipeline",  f"{audit_score}/100",   (39,174,96)),
+]
+x0, y0 = 20, pdf.get_y()
+for idx, (label, val, color) in enumerate(kpi_portada):
+    col = idx % 2
+    row = idx // 2
+    cx = x0 + col * 92
+    cy = y0 + row * 38
+    pdf.set_fill_color(248, 248, 248)
+    pdf.set_draw_color(*color)
+    pdf.set_line_width(0.5)
+    pdf.rect(cx, cy, 87, 33, style="FD")
+    pdf.set_xy(cx + 2, cy + 4)
+    pdf.set_font(pdf._F, size=8)
+    pdf.set_text_color(120, 120, 120)
+    pdf.cell(83, 5, label, align="C")
+    pdf.set_xy(cx + 2, cy + 11)
+    pdf.set_font(pdf._F, style="B", size=20)
+    pdf.set_text_color(*color)
+    pdf.cell(83, 14, val, align="C")
+pdf.set_y(y0 + 82)
+pdf.ln(6)
+pdf.set_draw_color(192, 0, 0)
+pdf.set_line_width(0.5)
+pdf.line(30, pdf.get_y(), 180, pdf.get_y())
+pdf.ln(5)
+pdf.set_font(pdf._F, size=8)
+pdf.set_text_color(150, 150, 150)
+pdf.cell(0, 5, "narrative-radar.streamlit.app  |  M. Castillo  |  mybloggingnotes@gmail.com", new_x="LMARGIN", new_y="NEXT", align="C")
+pdf.cell(0, 5, "Odroid-C2 · DietPi · 28 fuentes RSS · Actualizacion cada 30 min", new_x="LMARGIN", new_y="NEXT", align="C")
+pdf.add_page()
+
 # ── KPIs principales ──
 def _delta_txt(val, val_prev, invert=False):
     if val_prev is None: return ""

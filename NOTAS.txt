@@ -1,0 +1,26 @@
+═══════════════════════════════════════════════
+   NARRATIVE RADAR — GUÍA RÁPIDA
+═══════════════════════════════════════════════
+
+── CADA MES (día 1) ────────────────────────────
+Cambiar password de suscriptores:
+  echo "CMNE-ABRIL-2026" > ~/narrative-radar/data/app_password.txt
+
+── SUSCRIPTORES KO-FI ──────────────────────────
+El script kofi_notify.py corre cada 15 min (cron)
+Detecta nuevos suscriptores y les envía email con password
+Log: ~/narrative-radar/data/kofi.log
+
+── SCRIPTS PRINCIPALES ─────────────────────────
+dashboard   : dashboard/dashboard_central_final.py
+sentimiento : scripts/detect_sentiment_nlp.py
+kofi/email  : scripts/kofi_notify.py
+
+── BACKUPS ─────────────────────────────────────
+detect_sentiment_nlp.py.bak  ← backup 13 Mar 2026
+
+── CREDENCIALES (no compartir) ─────────────────
+Ko-fi       : ko-fi.com/m_castillo
+Gmail envío : mcasrom@gmail.com
+App URL     : https://fake-news-narrative.streamlit.app/
+

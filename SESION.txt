@@ -1,0 +1,20 @@
+ÚLTIMA SESIÓN: 13 Mar 2026
+═══════════════════════════════════════════════
+
+HECHO HOY:
+- kofi_notify.py → envía password automática a suscriptores
+- data/app_password.txt → password actual: CMNE-MARZO-2026
+- cron recordatorio día 1 cada mes → email a mcasrom@gmail.com
+- Ko-fi configuración → pendiente para otro día
+
+PENDIENTE:
+- HuggingFace sentimiento → aparcado, API no funciona bien
+- Stripe informes de pago → código generado, sin instalar
+- Guía de usuario → pendiente
+- Ko-fi tiers (3€/mes) → pendiente
+
+FICHEROS CLAVE:
+- dashboard/dashboard_central_final.py
+- scripts/detect_sentiment_nlp.py
+- scripts/kofi_notify.py
+- data/app_password.txt
