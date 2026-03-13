@@ -81,3 +81,4 @@ if [ $? -eq 0 ]; then
 else
     echo "[$(timestamp)] ⚠️ Error en GitHub push (posiblemente sin cambios)" >> "$LOG_FILE"
 fi
+source /home/dietpi/narrative-radar/env/bin/activate && python3 /home/dietpi/narrative-radar/scripts/generate_metadata.py
