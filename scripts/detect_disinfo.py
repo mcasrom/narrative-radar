@@ -20,7 +20,7 @@ HISTORY     = os.path.join(BASE, "data/processed/disinfo_history.csv")
 BULOS_DB    = os.path.join(BASE, "data/processed/disinfo_bulos.csv")
 EMAIL_CFG   = os.path.join(BASE, "config/email.yaml")
 
-SIMILARITY_THRESHOLD = 0.40
+SIMILARITY_THRESHOLD = 0.55
 EXCLUDE_SOURCES = {"maldita", "newtral"}
 MALDITA_PATTERNS = ["No, ", "Ni es ", "No es ", "Falso:", "Bulo:"]
 NEWTRAL_FAKE_TAGS = ["Fakes", "Bulos", "Fake"]
@@ -116,7 +116,7 @@ for i in range(len(news_titles)):
             "bulo_source": bulo["source"],
             "bulo_link":   bulo["link"],
             "similarity":  round(max_sim,3),
-            "risk_score":  min(100, int(max_sim*200)),
+            "risk_score":  min(100, int((max_sim - 0.65) * 285 + 40)),
             "detected_at": now
         })
 
