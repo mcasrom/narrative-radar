@@ -455,7 +455,7 @@ def mostrar_howto():
     if os.path.exists(pdf_current):
         mtime = os.path.getmtime(pdf_current)
         fecha_pdf = datetime.fromtimestamp(mtime).strftime("%Y-%m-%d %H:%M:%S")
-        st.success(f"📄 Guía v1.2 — Última actualización: {fecha_pdf}")
+        st.success(f"📄 Guía v1.3 — Última actualización: {fecha_pdf}")
 
         with open(pdf_current, "rb") as f:
             pdf_bytes = f.read()
@@ -466,7 +466,7 @@ def mostrar_howto():
             unsafe_allow_html=True
         )
         st.download_button("⬇️ Descargar guía PDF", data=pdf_bytes,
-                           file_name="CMNE_Guia_v1.2.pdf", mime="application/pdf")
+                           file_name="CMNE_Guia_v1.3.pdf", mime="application/pdf")
     else:
         st.warning("PDF de guía no generado aún — se generará en el próximo ciclo.")
 
@@ -1012,7 +1012,14 @@ with col1:
 with col2:
     testigo = paths["Tendencias"]
     if os.path.exists(testigo):
-        last_ingestion = datetime.fromtimestamp(os.path.getmtime(testigo)).strftime("%Y-%m-%d %H:%M:%S")
+        try:
+            import pandas as _pd
+            _df = _pd.read_csv(os.path.join(base_dir, "news_summary.csv"))
+            _df["date"] = _pd.to_datetime(_df["date"], errors="coerce")
+            _df = _df[_df["date"] < _pd.Timestamp("2026-04-01")]  # filtrar fechas espurias
+            last_ingestion = _df["date"].max().strftime("%Y-%m-%d %H:%M:%S")
+        except:
+            last_ingestion = datetime.fromtimestamp(os.path.getmtime(testigo)).strftime("%Y-%m-%d %H:%M:%S")
     else:
         last_ingestion = "Archivo no encontrado"
     st.write(f"**Última ingestión de datos (Real):** {last_ingestion}")
