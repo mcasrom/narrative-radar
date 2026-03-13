@@ -32,6 +32,22 @@ POSITIVE = {
     # Acuerdos y paz
     "paz","pacto","pactan","negocia","negocian","colabora","colaboran","alianza",
     "cooperación","coopera","unidos","unión","integración","libre","libertad",
+    # Política española positiva
+    "apoya","apoyan","respalda","respaldan","consolida","consolidan","refuerza",
+    "refuerzan","impulsa","impulsan","lidera","lideran","garantiza","garantizan",
+    "protege","protegen","defiende","defienden","moderniza","digitaliza","digitalizan",
+    "financia","financian","subvenciona","subvencionan",
+    # Economía y empleo
+    "contratación","contrataciones","oportunidad","oportunidades","creciente",
+    "rentable","rentabilidad","superávit","ahorro","ahorran","rebaja","rebajas",
+    "bonificación","gratuito","gratuita","gratis","reducción","baja","bajan",
+    # Sociedad positiva
+    "hito","pionero","pionera","innovador","innovadora","solidario","solidaria",
+    "voluntario","voluntaria","donación","consenso","diálogo","dialogan","solución",
+    "resuelve","resuelven","progresa","progresan","acuerdan","pactan",
+    # Justicia y derechos
+    "absuelto","absuelta","inocente","rehabilitado","liberado","liberada",
+    "aprobado","aprobada","legalizado","reconocido","reconocida","amnistía",
 }
 
 NEGATIVE = {
@@ -43,26 +59,58 @@ NEGATIVE = {
     # Crisis y desastres
     "crisis","colapsa","colapsan","hunde","hunden","cae","caen","desploma",
     "desploman","pierde","pierden","perdida","tragedia","catástrofe","desastre",
-    "incendio","inundación","terremoto","accidente","choque","colisión",
+    "incendio","inundación","terremoto","accidente","colisión",
     # Política negativa
     "escándalo","corrupción","fraude","denuncia","denuncian","condena","condenan",
     "dimite","dimiten","expulsa","expulsan","suspende","suspenden","rechaza",
     "rechazan","protesta","protestan","huelga","manifestación","bloquea","bloquean",
     # Economía negativa
     "pérdidas","despide","despiden","cierra","cierran","quiebra","deuda","déficit",
-    "recorte","recortan","sube impuestos","inflación","paro","desempleo","pobreza",
+    "recorte","recortan","inflación","paro","desempleo","pobreza",
     # Amenazas
     "amenaza","amenazan","alerta","peligro","riesgo","emergencia","alarma",
-    "advierte","advierten","condena","condenan","acusa","acusan","investigado",
+    "advierte","advierten","acusa","acusan","investigado",
+    # Política española negativa
+    "polémica","polémico","reprocha","reprochan","critica","critican",
+    "cuestiona","cuestionan","exige","exigen","reclama","reclaman",
+    "impugna","impugnan","recurre","recurren","paraliza","paralizan",
+    "censura","censuran","veta","vetan","obstaculiza","obstaculizan",
+    # Crisis institucional
+    "dimisión","destitución","destituido","destituida","cesado","cesada",
+    "expediente","imputado","imputada","procesado","procesada","juicio",
+    "multa","sanción","inhabilitado","suspendido","suspendida",
+    # Violencia y crimen
+    "asesinato","asesinado","asesinada","violación","agresión","agredido",
+    "agredida","robo","robado","estafa","estafado","secuestro","secuestrado",
+    "tráfico","narcotráfico","terrorismo","terrorista","yihadista",
+    # Desastres y emergencias
+    "fallecidos","fallecidas","evacuados","evacuadas","afectados","afectadas",
+    "damnificados","devastado","devastada","arrasado","destruido","destruida",
+    "colapso","derrumbe","naufragio","hundimiento",
+    # Economía negativa ampliada
+    "encarecimiento","carestía","escasez","desabastecimiento","especulación",
+    "burbuja","crash","desplome","embargo","represalia","represalias","boicot",
+    "subida","subidas","recesión","estancamiento","contracción",
 }
 
 INTENSIFIERS = {
     "muy","gran","grave","severo","severa","enorme","masivo","masiva",
     "histórico","histórica","sin precedentes","récord","brutal","dramático",
-    "dramática","crítico","crítica","urgente","inmediato","inminente"
+    "dramática","crítico","crítica","urgente","inmediato","inminente",
+    # Nuevos intensificadores
+    "extremo","extrema","máximo","máxima","total","absoluto","absoluta",
+    "completo","completa","devastador","devastadora","catastrófico","catastrófica",
+    "excepcional","extraordinario","extraordinaria","alarmante","preocupante",
+    "significativo","significativa","relevante","importante","clave","crucial",
 }
 
-NEGATORS = {"no","ni","nunca","jamás","sin","falso","falsa","mentira","bulo"}
+NEGATORS = {
+    "no","ni","nunca","jamás","sin","falso","falsa","mentira","bulo",
+    # Nuevos negadores
+    "tampoco","nada","nadie","ningún","ninguna","ninguno","imposible",
+    "descarta","descartan","niega","niegan","desmiente","desmienten",
+    "rechaza","rechazan","cancela","cancelan",
+}
 
 os.makedirs(os.path.dirname(OUTPUT), exist_ok=True)
 now = datetime.now().strftime("%Y-%m-%d %H:%M")
@@ -84,15 +132,12 @@ def analyze_sentiment(title):
     intensify = 1.0
 
     for i, word in enumerate(words):
-        # Detectar negadores
         if word in NEGATORS:
             negated = True
             continue
-        # Detectar intensificadores
         if word in INTENSIFIERS:
             intensify = 1.5
             continue
-        # Puntuar
         if word in POSITIVE:
             score += (1.0 * intensify) * (-1 if negated else 1)
             negated = False; intensify = 1.0
@@ -100,11 +145,9 @@ def analyze_sentiment(title):
             score += (-1.0 * intensify) * (-1 if negated else 1)
             negated = False; intensify = 1.0
 
-    # Normalizar por longitud
     if len(words) > 0:
         score = score / (1 + np.log1p(len(words)))
 
-    # Clasificar
     if score > 0.15:
         label = "positivo"
     elif score < -0.15:
