@@ -81,6 +81,26 @@ try:
 except Exception as e:
     print(f"[DISINFO] ERROR newtral: {e}")
 
+# EFE Verifica
+n_before = len(bulos)
+try:
+    for entry in feedparser.parse("https://verifica.efe.com/feed/").entries:
+        title = entry.get("title","").strip()
+        if title:
+            bulos.append({"source":"efe_verifica","title":title,"claim":title,"link":entry.get("link",""),"date":entry.get("published",now)})
+    print(f"[DISINFO] {len(bulos)-n_before} bulos efe_verifica")
+except Exception as e:
+    print(f"[DISINFO] ERROR efe_verifica: {e}")
+# Maldita bulos especifico
+n_before = len(bulos)
+try:
+    for entry in feedparser.parse("https://maldita.es/malditobulo/feed/").entries:
+        title = entry.get("title","").strip()
+        if title:
+            bulos.append({"source":"maldita_bulos","title":title,"claim":title,"link":entry.get("link",""),"date":entry.get("published",now)})
+    print(f"[DISINFO] {len(bulos)-n_before} bulos maldita_bulos")
+except Exception as e:
+    print(f"[DISINFO] ERROR maldita_bulos: {e}")
 if not bulos:
     print("[DISINFO] Sin bulos — abortando"); exit(0)
 
