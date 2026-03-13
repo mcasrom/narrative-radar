@@ -161,12 +161,15 @@ if not df_geo.empty:
 # ── 10. Auditoría de fuentes ─────────────────────────────────────
 df_audit = load("audit_sources.csv")
 if not df_audit.empty:
-    if "checked_at" in df_audit.columns:
-        last_cycle = df_audit.sort_values("checked_at").groupby("source").last().reset_index()
+    # Usar solo el último ciclo de auditoría
+    ts_col = "timestamp" if "timestamp" in df_audit.columns else "checked_at" if "checked_at" in df_audit.columns else None
+    if ts_col:
+        last_ts = df_audit[ts_col].max()
+        last_cycle = df_audit[df_audit[ts_col]==last_ts]
     else:
-        last_cycle = df_audit
-    ok   = len(last_cycle[last_cycle["status"]=="ok"]) if "status" in last_cycle.columns else 0
-    fail = len(last_cycle[last_cycle["status"]!="ok"]) if "status" in last_cycle.columns else 0
+        last_cycle = df_audit.tail(28)
+    ok   = len(last_cycle[last_cycle["status"].str.upper()=="OK"]) if "status" in last_cycle.columns else 0
+    fail = len(last_cycle[last_cycle["status"].str.upper()!="OK"]) if "status" in last_cycle.columns else 0
     body = f"  Fuentes activas:       {len(df_news['source'].unique()) if not df_news.empty else 28:>5}\n"
     body += f"  Último audit OK:       {ok:>5}\n"
     body += f"  Fuentes con problemas: {fail:>5}\n"
