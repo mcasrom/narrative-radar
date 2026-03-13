@@ -16,9 +16,15 @@ import hashlib as _hashlib
 def _check_password():
     """Devuelve True si el usuario introduce la password correcta"""
     FREE_TABS  = [0,1,5,14]  # tabs gratuitos: Radar, Emocional, Tendencias, Personajes
-    PASS_HASH  = "1b22a27d292e9f379433bd7c86abb6573e35d84f02dcd772226fe6ccc00b1ccd021d31936e9d7c0e636305886261c3da1fcd417cea59a00ab32166d05227d2cc"  # cambia esto
-
     def _hash(p): return _hashlib.sha512(p.encode()).hexdigest()
+
+    # Hashes válidos — admin permanente + suscriptor mensual desde secrets
+    VALID_HASHES = set()
+    try:
+        VALID_HASHES.add(st.secrets["ADMIN_HASH"])
+        VALID_HASHES.add(st.secrets["MONTHLY_HASH"])
+    except:
+        VALID_HASHES.add("1b22a27d292e9f379433bd7c86abb6573e35d84f02dcd772226fe6ccc00b1ccd021d31936e9d7c0e636305886261c3da1fcd417cea59a00ab32166d05227d2cc")
 
     if "auth_ok" not in st.session_state:
         st.session_state.auth_ok = False
@@ -26,16 +32,18 @@ def _check_password():
     if not st.session_state.auth_ok:
         st.sidebar.markdown("---")
         st.sidebar.markdown("### 🔐 Acceso Premium")
+        st.sidebar.markdown("**3€/mes** — acceso completo a los 19 módulos")
         pwd = st.sidebar.text_input("Password", type="password", key="pwd_input")
         if st.sidebar.button("Entrar"):
-            if _hash(pwd) == PASS_HASH:
+            if _hash(pwd) in VALID_HASHES:
                 st.session_state.auth_ok = True
                 st.rerun()
             else:
                 st.sidebar.error("Password incorrecta")
         st.sidebar.markdown("---")
-        st.sidebar.markdown("☕ [Apoya el proyecto](https://ko-fi.com/mcasrom)")
-        st.sidebar.markdown("*Acceso gratuito: 3 módulos*")
+        st.sidebar.markdown("☕ [Suscríbete en Ko-fi](https://ko-fi.com/mcasrom)")
+        st.sidebar.markdown("*Recibirás la password por email*")
+        st.sidebar.markdown("*Acceso gratuito: 4 módulos*")
         return False
     return True
 
