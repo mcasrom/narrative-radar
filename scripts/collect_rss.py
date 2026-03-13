@@ -61,6 +61,9 @@ for source_name, rss_url in RSS_FEEDS.items():
 conn.commit()
 df = pd.read_sql_query("SELECT title, link, source, date FROM news WHERE date >= date('now', '-90 days') ORDER BY date DESC", conn)
 csv_path = os.path.join(PROCESSED_DIR, "news_summary.csv")
+# Filtrar fechas espurias antes de guardar
+df["date"] = pd.to_datetime(df["date"], errors="coerce")
+df = df[df["date"] < pd.Timestamp("2026-04-01")]
 df.to_csv(csv_path, index=False, encoding="utf-8-sig")
 print(f"[INFO] CSV generado: {csv_path} ({len(df)} registros)")
 conn.close()
