@@ -1,17 +1,22 @@
 keyword,count_now,count_base,ratio,viral_score,sources,n_sources,sample_title,detected_at
-febrero,7,0,5.0,100,"okdiario, levante_emv, elpais, europapress, eldiario",5,"Los alimentos se dispararon en febrero: la inflación aguantó en el 2,6% pero llega la subida de energía",2026-03-13 09:16
-inflación,4,0,5.0,100,"okdiario, elpais, expansion, lavanguardia",4,"Los alimentos se dispararon en febrero: la inflación aguantó en el 2,6% pero llega la subida de energía",2026-03-13 09:16
-indian,3,5,4.94,98,"levante_emv, okdiario, elespanol",3,Alcaraz supera a Norrie y se jugará ante Medvedev el pase a la final de Indian Wells,2026-03-13 09:16
-wells,3,5,4.94,98,"levante_emv, okdiario, elespanol",3,Alcaraz supera a Norrie y se jugará ante Medvedev el pase a la final de Indian Wells,2026-03-13 09:16
-trump,7,13,4.44,88,"elpais, levante_emv, lavanguardia, huffington_es, heraldo_aragon",5,"Última hora del ataque de EE UU e Israel contra Irán, en directo | Trump presume de “ganar la guerra en Irán” y carga contra el régimen:  “¡Qué gran honor es matar a los líderes trastornados iraníes!""",2026-03-13 09:16
-norrie,3,6,4.12,82,"levante_emv, okdiario, elespanol",3,Alcaraz supera a Norrie y se jugará ante Medvedev el pase a la final de Indian Wells,2026-03-13 09:16
-ataque,5,11,3.74,74,"europapress, elpais, lavanguardia, france24_es, heraldo_aragon",5,Ucrania y Rusia destruyen cerca de 300 drones en una nueva noche de intercambio de ataques aéreos,2026-03-13 09:16
-directo,3,7,3.53,70,"elpais, france24_es",2,"Última hora del ataque de EE UU e Israel contra Irán, en directo | Trump presume de “ganar la guerra en Irán” y carga contra el régimen:  “¡Qué gran honor es matar a los líderes trastornados iraníes!""",2026-03-13 09:16
-mujer,3,7,3.53,70,"levante_emv, elconfidencial, elcorreo",3,Detenida una mujer por prender fuego a su pareja en Chiva,2026-03-13 09:16
-euros,3,7,3.53,70,"heraldo_aragon, okdiario, levante_emv",3,"Dos spas municipales de Zaragoza por solo 8 euros la entrada más económica: relajación, calma y bienestar",2026-03-13 09:16
-alcaraz,3,7,3.53,70,"levante_emv, okdiario, elespanol",3,Alcaraz supera a Norrie y se jugará ante Medvedev el pase a la final de Indian Wells,2026-03-13 09:16
-mejores,3,8,3.09,61,"eldiario, okdiario, elcorreo",3,Este compositor iraní está detrás de una de las mejores bandas sonoras de la historia de la televisión,2026-03-13 09:16
-israel,3,8,3.09,61,"elpais, france24_es",2,"Última hora del ataque de EE UU e Israel contra Irán, en directo | Trump presume de “ganar la guerra en Irán” y carga contra el régimen:  “¡Qué gran honor es matar a los líderes trastornados iraníes!""",2026-03-13 09:16
-marzo,5,17,2.42,48,"levante_emv, elpais, okdiario",3,La bajada de la electricidad moderó el IPC en febrero pendiente de la escalada inflacionista prevista para marzo,2026-03-13 09:16
-contra,6,21,2.35,47,"elpais, lavanguardia, france24_es",3,"Última hora del ataque de EE UU e Israel contra Irán, en directo | Trump presume de “ganar la guerra en Irán” y carga contra el régimen:  “¡Qué gran honor es matar a los líderes trastornados iraníes!""",2026-03-13 09:16
-zaragoza,4,15,2.2,43,"heraldo_aragon, elconfidencial",2,"Dos spas municipales de Zaragoza por solo 8 euros la entrada más económica: relajación, calma y bienestar",2026-03-13 09:16
+pareja,3,0,5.0,100,"okdiario, levante_emv, elconfidencial",3,"Quién es Edu Aguirre: edad, pareja e hijos, de dónde es y todo sobre el peleador en La Velada del Año 6",2026-03-13 09:21
+alimentos,3,1,22.64,100,"okdiario, huffington_es, europapress",3,"Los alimentos se dispararon en febrero: la inflación aguantó en el 2,6% pero llega la subida de energía",2026-03-13 09:21
+mantuvo,3,0,5.0,100,"huffington_es, europapress, lavanguardia",3,"Confirmado por el INE: el IPC se mantuvo en el 2,3% en febrero, pese a subir el precio de los alimentos un 3,2%",2026-03-13 09:21
+febrero,8,0,5.0,100,"okdiario, huffington_es, levante_emv, elpais, europapress",5,"Los alimentos se dispararon en febrero: la inflación aguantó en el 2,6% pero llega la subida de energía",2026-03-13 09:21
+inflación,4,0,5.0,100,"okdiario, elpais, expansion, lavanguardia",4,"Los alimentos se dispararon en febrero: la inflación aguantó en el 2,6% pero llega la subida de energía",2026-03-13 09:21
+trump,8,13,4.64,92,"huffington_es, elpais, levante_emv, lavanguardia, heraldo_aragon",5,Uno de los periódicos más prestigiosos del mundo lleva a su portada lo de Sánchez y Trump: nadie en España ha ido tan lejos,2026-03-13 09:21
+ataque,5,10,3.77,75,"europapress, elpais, lavanguardia, france24_es, heraldo_aragon",5,Ucrania y Rusia destruyen cerca de 300 drones en una nueva noche de intercambio de ataques aéreos,2026-03-13 09:21
+directo,3,6,3.77,75,"elpais, france24_es",2,"Última hora del ataque de EE UU e Israel contra Irán, en directo | Trump presume de “ganar la guerra en Irán” y carga contra el régimen:  “¡Qué gran honor es matar a los líderes trastornados iraníes!""",2026-03-13 09:21
+predicción,3,7,3.23,64,okdiario,1,"Predicción del horóscopo para Capricornio hoy, viernes 13 de marzo de 2026",2026-03-13 09:21
+horóscopo,3,7,3.23,64,okdiario,1,"Predicción del horóscopo para Capricornio hoy, viernes 13 de marzo de 2026",2026-03-13 09:21
+israel,3,7,3.23,64,"elpais, france24_es",2,"Última hora del ataque de EE UU e Israel contra Irán, en directo | Trump presume de “ganar la guerra en Irán” y carga contra el régimen:  “¡Qué gran honor es matar a los líderes trastornados iraníes!""",2026-03-13 09:21
+mujer,3,7,3.23,64,"levante_emv, elconfidencial, elcorreo",3,Detenida una mujer por prender fuego a su pareja en Chiva,2026-03-13 09:21
+euros,3,7,3.23,64,"heraldo_aragon, okdiario, levante_emv",3,"Dos spas municipales de Zaragoza por solo 8 euros la entrada más económica: relajación, calma y bienestar",2026-03-13 09:21
+mejores,3,8,2.83,56,"eldiario, okdiario, elcorreo",3,Este compositor iraní está detrás de una de las mejores bandas sonoras de la historia de la televisión,2026-03-13 09:21
+marzo,6,17,2.66,53,"okdiario, levante_emv, elpais",3,"Predicción del horóscopo para Capricornio hoy, viernes 13 de marzo de 2026",2026-03-13 09:21
+españa,4,13,2.32,46,"huffington_es, okdiario, google_news_es",3,Uno de los periódicos más prestigiosos del mundo lleva a su portada lo de Sánchez y Trump: nadie en España ha ido tan lejos,2026-03-13 09:21
+viernes,3,10,2.26,45,okdiario,1,"Predicción del horóscopo para Capricornio hoy, viernes 13 de marzo de 2026",2026-03-13 09:21
+precio,3,10,2.26,45,"france24_es, huffington_es, europapress, google_news_es, elespanol",5,EE. UU. permite la venta de petróleo ruso en el mar mientras la guerra en Medio Oriente dispara los precios de la energía,2026-03-13 09:21
+contra,6,20,2.26,45,"elconfidencial, elpais, lavanguardia, france24_es",4,"El padre de Marta del Castillo, después de que la UCO encontrase los restos de Francisca Cadenas en Hornachos: ""Yo pedí esa unidad y me dijeron que veía muchas películas""",2026-03-13 09:21
+guerra,7,25,2.11,42,"france24_es, okdiario, eldiario, elpais, levante_emv",5,EE. UU. permite la venta de petróleo ruso en el mar mientras la guerra en Medio Oriente dispara los precios de la energía,2026-03-13 09:21
+zaragoza,4,15,2.01,40,"heraldo_aragon, elconfidencial",2,"Dos spas municipales de Zaragoza por solo 8 euros la entrada más económica: relajación, calma y bienestar",2026-03-13 09:21
