@@ -1010,18 +1010,21 @@ with col1:
         generar_pdf()
         st.success("PDF generado exitosamente")
 with col2:
-    testigo = paths["Tendencias"]
-    if os.path.exists(testigo):
+    import json as _json
+    meta_path = os.path.join(base_dir, "metadata.json")
+    if os.path.exists(meta_path):
         try:
-            import pandas as _pd
-            _df = _pd.read_csv(os.path.join(base_dir, "news_summary.csv"))
-            _df["date"] = _pd.to_datetime(_df["date"], errors="coerce")
-            _df = _df[_df["date"] < _pd.Timestamp("2026-04-01")]  # filtrar fechas espurias
-            last_ingestion = _df["date"].max().strftime("%Y-%m-%d %H:%M:%S")
+            with open(meta_path) as _f:
+                _meta = _json.load(_f)
+            last_ingestion = _meta.get("last_ingestion", "N/A")
+            total_news = _meta.get("total_news", "N/A")
         except:
-            last_ingestion = datetime.fromtimestamp(os.path.getmtime(testigo)).strftime("%Y-%m-%d %H:%M:%S")
+            last_ingestion = "Error leyendo metadata"
+            total_news = "N/A"
     else:
-        last_ingestion = "Archivo no encontrado"
+        last_ingestion = "Sin metadata"
+        total_news = "N/A"
     st.write(f"**Última ingestión de datos (Real):** {last_ingestion}")
+    st.write(f"**Total noticias en histórico:** {total_news}")
     st.write("© 2026 M. Castillo | mybloggingnotes@gmail.com")
 # kofi Thu Mar 12 20:58:24 CET 2026
