@@ -15,7 +15,7 @@ import hashlib as _hashlib
 
 def _check_password():
     """Devuelve True si el usuario introduce la password correcta"""
-    FREE_TABS  = [0,1,2]   # tabs visibles sin password (Radar, Emocional, Tendencias)
+    FREE_TABS  = [0,1,5,14]  # tabs gratuitos: Radar, Emocional, Tendencias, Personajes
     PASS_HASH  = "1b22a27d292e9f379433bd7c86abb6573e35d84f02dcd772226fe6ccc00b1ccd021d31936e9d7c0e636305886261c3da1fcd417cea59a00ab32166d05227d2cc"  # cambia esto
 
     def _hash(p): return _hashlib.sha512(p.encode()).hexdigest()
@@ -39,6 +39,7 @@ def _check_password():
         return False
     return True
 
+FREE_TABS = [0,1,5,14]  # Radar, Emocional, Tendencias, Personajes
 _AUTH_OK = _check_password()
 import pandas as pd
 import plotly.express as px
@@ -1015,7 +1016,17 @@ tab_names = list(paths.keys())
 tabs = st.tabs(tab_names)
 for i, tab_name in enumerate(tab_names):
     with tabs[i]:
-        mostrar_tab(tab_name, paths[tab_name])
+        if _AUTH_OK or i in FREE_TABS:
+            mostrar_tab(tab_name, paths[tab_name])
+        else:
+            st.markdown("### 🔐 Contenido Premium")
+            st.info("Este módulo requiere acceso premium. Introduce la password en el panel izquierdo.")
+            st.markdown("☕ ¿Quieres apoyar el proyecto? [Ko-fi](https://ko-fi.com/mcasrom)")
+            col1, col2 = st.columns(2)
+            with col1:
+                st.metric("Módulos gratuitos", "4")
+            with col2:
+                st.metric("Módulos premium", "15")
 
 st.markdown("---")
 # ── Briefing diario descargable ──────────────────────────────────
