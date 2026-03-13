@@ -391,13 +391,15 @@ print(f"[BRIEFING v2] {len(graficos)} gráficos generados")
 # ══════════════════════════════════════════════════════════════════
 # 4. GENERAR PDF
 # ══════════════════════════════════════════════════════════════════
+PREVIEW_MODE = True  # True = marca agua PREVIEW, False = PDF completo sin marca
 print("[BRIEFING v2] Generando PDF...")
 
 FONT_PATH = os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "dashboard", "DejaVuSans.ttf")
 
 class BriefingPDF(FPDF):
-    def __init__(self):
+    def __init__(self, preview=False):
         super().__init__()
+        self._preview = preview
         if os.path.exists(FONT_PATH):
             self.add_font("DejaVu", style="", fname=FONT_PATH)
             self.add_font("DejaVu", style="B", fname=FONT_PATH)
@@ -406,6 +408,13 @@ class BriefingPDF(FPDF):
             self._F = "Helvetica"
 
     def header(self):
+        if self._preview:
+            self.set_font(self._F, size=48)
+            self.set_text_color(220, 220, 220)
+            self.rotate(45, x=60, y=160)
+            self.text(20, 180, "PREVIEW")
+            self.rotate(0)
+            self.set_text_color(0, 0, 0)
         self.set_font(self._F, style="B", size=14)
         self.set_fill_color(44, 62, 80)
         self.set_text_color(255, 255, 255)
@@ -429,6 +438,16 @@ class BriefingPDF(FPDF):
         self.cell(0, 7, f"  {title}", fill=True, new_x="LMARGIN", new_y="NEXT")
         self.set_text_color(0, 0, 0)
         self.ln(2)
+
+    def watermark(self, text="PREVIEW"):
+        self.set_font(self._F, size=48)
+        self.set_text_color(220, 220, 220)
+        with self.local_context():
+            self.set_xy(30, 120)
+            self.rotate(45)
+            self.cell(0, 10, text)
+            self.rotate(0)
+        self.set_text_color(0, 0, 0)
 
     def body_text(self, text, size=9):
         text = text
@@ -473,7 +492,7 @@ class BriefingPDF(FPDF):
         try: os.remove(tmp)
         except: pass
 
-pdf = BriefingPDF()
+pdf = BriefingPDF(preview=PREVIEW_MODE)
 pdf.set_auto_page_break(auto=True, margin=15)
 pdf.add_page()
 
