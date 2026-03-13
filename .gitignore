@@ -233,3 +233,6 @@ pipeline_*.log
 dashboard/dashboard_central_final_bak_*.py
 scripts/trends_analysis_bak_*.py
 patch_*.py
+data/processed/briefing_history/
+data/processed/.email_locks/
+nohup.out

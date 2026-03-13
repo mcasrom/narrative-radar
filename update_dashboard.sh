@@ -56,56 +56,7 @@ cd "$BASE_DIR"
 # ------------------------------------------------------------------
 # Generar PDF guía del dashboard
 # ------------------------------------------------------------------
-echo "[$(timestamp)] 🔹 Generando PDF guía" >> "$LOG_FILE"
-
-# Pasamos el timestamp de Bash a una variable para Python
-CURRENT_TIME=$(timestamp)
-
-python3 - <<END >> "$LOG_FILE" 2>&1
-import os
-import sys
-from fpdf import FPDF
-
-base_dir = "$BASE_DIR"
-output_pdf = os.path.join(base_dir, "data/processed/guia_dashboard.pdf")
-font_path = os.path.join(base_dir, "dashboard/DejaVuSans.ttf")
-fecha_ingesta = "$CURRENT_TIME"
-
-try:
-    if not os.path.exists(font_path):
-        raise FileNotFoundError(f"No se encuentra la fuente en: {font_path}")
-
-    pdf = FPDF()
-    pdf.add_page()
-    pdf.add_font("DejaVu", "", font_path, uni=True)
-    pdf.set_font("DejaVu", size=12)
-    
-    texto = f"""
-Centro de Mando Narrativo España
-
-Autor: M. Castillo <mybloggingnotes@gmail.com>
-Fecha de ingesta: {fecha_ingesta}
-
-Este dashboard analiza la narrativa mediática usando fuentes RSS.
-Indicadores incluidos: Radar Narrativo, Radar Emocional, Polarización, Red de Actores, 
-Propagación, Tendencias, Cobertura del Gobierno, Análisis Masivo de Medios.
-
-Los CSV se almacenan en: data/processed/
-"""
-    pdf.multi_cell(0, 10, texto)
-    pdf.output(output_pdf)
-    print("PDF generado correctamente por Python.")
-except Exception as e:
-    print(f"ERROR en generación de PDF: {str(e)}")
-    sys.exit(1)
-END
-
-# Ahora el log dirá la verdad según el exit code de Python
-if [ $? -eq 0 ]; then
-    echo "[$(timestamp)] ✅ PDF guía generado en data/processed/guia_dashboard.pdf" >> "$LOG_FILE"
-else
-    echo "[$(timestamp)] ❌ Falló la creación del PDF guía" >> "$LOG_FILE"
-fi
+echo "[$(timestamp)] 🔹 PDF ya generado por generate_guide_pdf.py en pipeline" >> "$LOG_FILE"
 
 # ------------------------------------------------------------------
 # Rotar log automáticamente
