@@ -1,14 +1,29 @@
 keyword,count_now,count_base,ratio,viral_score,sources,n_sources,sample_title,detected_at
-mascletà,3,3,8.85,100,"levante_emv, lavanguardia",2,"Los últimos en llegar a la mascletà: ""Se ha quedado gente sin poder subir al tren. Es una vergüenza que nos dejen fuera a nosotros, que también somos valencianos""",2026-03-13 12:03
-fuera,3,1,26.54,100,"levante_emv, elcorreo, heraldo_aragon",3,"Los últimos en llegar a la mascletà: ""Se ha quedado gente sin poder subir al tren. Es una vergüenza que nos dejen fuera a nosotros, que también somos valencianos""",2026-03-13 12:03
-gandia,3,3,8.85,100,levante_emv,1,Miles de pasajeros llegan a la estación del Norte de València desde Gandia y Xàtiva antes del cierre por la mascletà,2026-03-13 12:03
-xàtiva,3,2,13.27,100,levante_emv,1,Miles de pasajeros llegan a la estación del Norte de València desde Gandia y Xàtiva antes del cierre por la mascletà,2026-03-13 12:03
-ayuntamiento,3,3,8.85,100,"lavanguardia, google_news_es",2,Renfe aconseja adelantar el trayecto a la “mascletà” y carga contra el Ayuntamiento,2026-03-13 12:03
-intercepta,3,3,8.85,100,"europapress, huffington_es, elcorreo",3,La OTAN intercepta un tercer misil lanzado desde Irán en espacio aéreo de Turquía,2026-03-13 12:03
-tercer,4,4,8.85,100,"europapress, okdiario, huffington_es, elcorreo",4,La OTAN intercepta un tercer misil lanzado desde Irán en espacio aéreo de Turquía,2026-03-13 12:03
-misil,4,5,7.08,100,"europapress, okdiario, huffington_es, elcorreo",4,La OTAN intercepta un tercer misil lanzado desde Irán en espacio aéreo de Turquía,2026-03-13 12:03
-norte,3,6,4.42,88,"levante_emv, elconfidencial",2,Miles de pasajeros llegan a la estación del Norte de València desde Gandia y Xàtiva antes del cierre por la mascletà,2026-03-13 12:03
-turquía,4,8,4.42,88,"europapress, okdiario, huffington_es, elcorreo",4,La OTAN intercepta un tercer misil lanzado desde Irán en espacio aéreo de Turquía,2026-03-13 12:03
-puede,3,9,2.95,58,"levante_emv, bbc_mundo",2,Cuenta atrás para los Premios Óscar más polémicos: cuándo y dónde se puede ver,2026-03-13 12:03
-antes,3,10,2.65,53,"levante_emv, elcorreo, europapress",3,Miles de pasajeros llegan a la estación del Norte de València desde Gandia y Xàtiva antes del cierre por la mascletà,2026-03-13 12:03
-avión,3,10,2.65,53,"eldiario, elcorreo, europapress",3,"Avión presidencial y un vuelo privado de lujo: Milei, arrinconado por la presunta malversación de su jefe de gabinete",2026-03-13 12:03
+funciones,3,1,19.78,100,"levante_emv, elmundo, infolibre",3,PP y Vox aprueban un decreto-ley en Extremadura para blindar los servicios públicos y sortear el bloqueo de un gobierno en funciones,2026-03-13 12:33
+servicios,3,0,5.0,100,"levante_emv, heraldo_aragon, elespanol",3,PP y Vox aprueban un decreto-ley en Extremadura para blindar los servicios públicos y sortear el bloqueo de un gobierno en funciones,2026-03-13 12:33
+denunció,3,2,9.89,100,"heraldo_aragon, infolibre, elcorreo",3,"La segunda mujer que denunció a Errejón no se ratifica, lo que aboca a archivar la causa",2026-03-13 12:33
+buena,3,2,9.89,100,"elpais, google_news_es, 20minutos",3,El director de orquesta Juanjo Mena se despide de los conciertos por su alzhéimer: “Disfrutamos mucho haciendo buena música”,2026-03-13 12:33
+alzhéimer,3,0,5.0,100,"elpais, google_news_es, elcorreo",3,El director de orquesta Juanjo Mena se despide de los conciertos por su alzhéimer: “Disfrutamos mucho haciendo buena música”,2026-03-13 12:33
+juanjo,4,0,5.0,100,"elpais, google_news_es, elcorreo",3,El director de orquesta Juanjo Mena se despide de los conciertos por su alzhéimer: “Disfrutamos mucho haciendo buena música”,2026-03-13 12:33
+ilegalización,3,1,19.78,100,"elpais, eldiario",2,La Justicia deniega a la Fundación Francisco Franco cautelarísimas para paralizar su ilegalización,2026-03-13 12:33
+franco,3,3,6.59,100,"elpais, eldiario",2,La Justicia deniega a la Fundación Francisco Franco cautelarísimas para paralizar su ilegalización,2026-03-13 12:33
+francisco,3,1,19.78,100,"elpais, eldiario",2,La Justicia deniega a la Fundación Francisco Franco cautelarísimas para paralizar su ilegalización,2026-03-13 12:33
+fundación,4,2,13.19,100,"elpais, eldiario",2,La Justicia deniega a la Fundación Francisco Franco cautelarísimas para paralizar su ilegalización,2026-03-13 12:33
+justicia,3,1,19.78,100,"elpais, eldiario",2,La Justicia deniega a la Fundación Francisco Franco cautelarísimas para paralizar su ilegalización,2026-03-13 12:33
+mascletà,5,2,16.48,100,"levante_emv, lavanguardia",2,"El último tren a la mascletà de València desde Gandia, a las 11:35 h: “Si los trenes ya van colapsados, no sabemos qué va a pasar""",2026-03-13 12:33
+poder,3,3,6.59,100,"lavanguardia, levante_emv, google_news_es",3,"Ainara, superviviente de El Bocal: “El puente se hundió antes de poder dar marcha atrás”",2026-03-13 12:33
+extremadura,3,3,6.59,100,"levante_emv, elmundo, infolibre",3,PP y Vox aprueban un decreto-ley en Extremadura para blindar los servicios públicos y sortear el bloqueo de un gobierno en funciones,2026-03-13 12:33
+alicante,3,2,9.89,100,"europapress, eldiario, levante_emv",3,"Detenido el presidente de la Cámara de Comercio de Alicante, Carlos Baño, en la investigación de los bonos comercio",2026-03-13 12:33
+comercio,4,1,26.37,100,"europapress, eldiario, levante_emv",3,"Detenido el presidente de la Cámara de Comercio de Alicante, Carlos Baño, en la investigación de los bonos comercio",2026-03-13 12:33
+ayuntamiento,4,5,5.27,100,"levante_emv, lavanguardia",2,El Castell d'Alaquàs acogerá la III jornada por Palestina tras la denegación del Ayuntamiento de Valencia,2026-03-13 12:33
+cámara,4,1,26.37,100,"okdiario, europapress, eldiario, levante_emv",4,Blink Cámara Exterior 2K+: vigilancia doméstica sencilla con vídeo de alta resolución,2026-03-13 12:33
+gandia,4,3,8.79,100,levante_emv,1,"El último tren a la mascletà de València desde Gandia, a las 11:35 h: “Si los trenes ya van colapsados, no sabemos qué va a pasar""",2026-03-13 12:33
+presidente,3,4,4.95,98,"europapress, eldiario, lavanguardia, heraldo_aragon, levante_emv",5,"Detenido el presidente de la Cámara de Comercio de Alicante, Carlos Baño, en la investigación de los bonos comercio",2026-03-13 12:33
+evitar,3,4,4.95,98,"levante_emv, elmundo, infolibre",3,Govern i Generalitat pacten per a evitar el Constitucional per una llei sobre avaluació ambiental,2026-03-13 12:33
+quién,3,5,3.96,79,"bbc_mundo, 20minutos, eldiario",3,Oscar 2026: las predicciones de los críticos de la BBC sobre quién ganará (y quién debería ganar),2026-03-13 12:33
+valència,6,10,3.96,79,levante_emv,1,"El último tren a la mascletà de València desde Gandia, a las 11:35 h: “Si los trenes ya van colapsados, no sabemos qué va a pasar""",2026-03-13 12:33
+último,3,5,3.96,79,"levante_emv, lavanguardia, 20minutos",3,"El último tren a la mascletà de València desde Gandia, a las 11:35 h: “Si los trenes ya van colapsados, no sabemos qué va a pasar""",2026-03-13 12:33
+fallas,4,7,3.77,75,levante_emv,1,Ama las Fallas como puedas,2026-03-13 12:33
+mundo,4,8,3.3,65,"levante_emv, okdiario, google_news_es",3,Vivir viajando en un mundo en llamas,2026-03-13 12:33
+antes,4,10,2.64,52,"okdiario, lavanguardia, heraldo_aragon, levante_emv",4,Ya es oficial: el mejor aceite de oliva del mundo está en un pequeño pueblo cordobés de 2.500 habitantes,2026-03-13 12:33
+carlos,4,13,2.03,40,"europapress, levante_emv, huffington_es",3,"Detenido el presidente de la Cámara de Comercio de Alicante, Carlos Baño, en la investigación de los bonos comercio",2026-03-13 12:33
