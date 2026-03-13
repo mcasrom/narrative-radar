@@ -1055,11 +1055,27 @@ def _mostrar_tab_inner(tab_name, csv_path):
                      labels={"source": "Actor origen", "weight": "Peso", "target": "Actor destino"})
         st.plotly_chart(fig, use_container_width=True)
     elif tab_name == "Propagación" and "date" in df.columns:
+        st.markdown("""
+**Cómo leer este gráfico:**
+- Mide la velocidad de propagación de noticias entre medios cada día
+- **Alto (>70)** = día de alta actividad, muchas fuentes cubriendo los mismos temas
+- **Medio (30-70)** = actividad normal
+- **Bajo (<30)** = día tranquilo, pocas noticias o pocas fuentes activas
+        """)
+        last = df.iloc[-1] if len(df) > 0 else None
+        if last is not None:
+            col1, col2, col3 = st.columns(3)
+            col1.metric("Índice hoy", f"{last["spread_index"]:.1f}")
+            col2.metric("Noticias hoy", int(last["news_count"]))
+            col3.metric("Fuentes activas", int(last["sources_active"]))
         fig = px.line(df, x="date", y="spread_index", markers=True,
                       title="Índice de propagación narrativa",
-                      labels={"date": "Fecha", "spread_index": "Índice"})
+                      labels={"date": "Fecha", "spread_index": "Índice (0=bajo, 100=alto)"})
         fig.update_traces(line_color="#e05c00", line_width=2)
+        fig.add_hline(y=30, line_dash="dash", line_color="green", annotation_text="Actividad baja")
+        fig.add_hline(y=70, line_dash="dash", line_color="red", annotation_text="Actividad alta")
         st.plotly_chart(fig, use_container_width=True)
+        st.dataframe(df[["date","spread_index","news_count","sources_active"]].tail(14).sort_values("date", ascending=False), use_container_width=True)
     elif tab_name == "Tendencias" and "keyword" in df.columns:
         fig = px.bar(df, x="keyword", y="count", color="count",
                      title="Tendencias de palabras clave")
