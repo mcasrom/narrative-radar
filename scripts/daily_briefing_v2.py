@@ -27,6 +27,17 @@ from fpdf import FPDF
 BASE      = os.path.abspath(os.path.join(os.path.dirname(os.path.abspath(__file__)), ".."))
 PROC      = os.path.join(BASE, "data/processed")
 EMAIL_CFG = os.path.join(BASE, "config/email.yaml")
+SUBS_CFG  = os.path.join(BASE, "config/subscribers.yaml")
+
+def load_subscribers():
+    """Carga lista de suscriptores activos"""
+    try:
+        import yaml
+        with open(SUBS_CFG) as f:
+            cfg = yaml.safe_load(f)
+        return [s for s in cfg.get("subscribers", []) if s.get("active", False)]
+    except:
+        return []
 PDF_OUT   = os.path.join(PROC, "briefing_diario.pdf")
 HIST_DIR  = os.path.join(PROC, "briefing_history")
 os.makedirs(HIST_DIR, exist_ok=True)
@@ -384,6 +395,41 @@ ax.spines["polar"].set_visible(False)
 ax.set_title(f"Riesgo Informativo: {score_riesgo}/100\n{nivel_riesgo}", fontweight="bold", pad=15)
 plt.tight_layout()
 graficos["riesgo"] = fig_to_base64(fig)
+
+# Gráfico tendencias top keywords
+try:
+    df_trend = pd.read_csv(os.path.join(PROC, "trends_summary.csv"))
+    if not df_trend.empty and "keyword" in df_trend.columns and "count" in df_trend.columns:
+        top = df_trend.nlargest(15, "count")
+        fig, ax = plt.subplots(figsize=(10, 5))
+        bars = ax.barh(top["keyword"][::-1], top["count"][::-1], color="#C00000")
+        ax.set_xlabel("Frecuencia")
+        ax.set_title("Top 15 Keywords del día", fontsize=13, fontweight="bold")
+        ax.spines["top"].set_visible(False)
+        ax.spines["right"].set_visible(False)
+        plt.tight_layout()
+        graficos["tendencias"] = fig_to_base64(fig)
+        plt.close(fig)
+except Exception as e:
+    print(f"[BRIEFING] Tendencias graf error: {e}")
+
+# Gráfico diversidad fuentes
+try:
+    df_div = pd.read_csv(os.path.join(PROC, "diversity_index.csv"))
+    if not df_div.empty and "source" in df_div.columns and "diversity_score" in df_div.columns:
+        top_div = df_div.nlargest(10, "diversity_score")
+        fig, ax = plt.subplots(figsize=(8, 4))
+        colors = ["#27AE60" if v >= 70 else "#F39C12" if v >= 50 else "#C0392B" for v in top_div["diversity_score"]]
+        ax.bar(top_div["source"], top_div["diversity_score"], color=colors)
+        ax.set_ylabel("Score diversidad")
+        ax.set_title("Índice de Diversidad por Fuente", fontsize=11, fontweight="bold")
+        ax.axhline(70, color="green", linestyle="--", alpha=0.5, label="Umbral alto")
+        plt.xticks(rotation=30, ha="right", fontsize=8)
+        plt.tight_layout()
+        graficos["diversidad"] = fig_to_base64(fig)
+        plt.close(fig)
+except Exception as e:
+    print(f"[BRIEFING] Diversidad graf error: {e}")
 plt.close(fig)
 
 print(f"[BRIEFING v2] {len(graficos)} gráficos generados")
@@ -576,6 +622,16 @@ if "geo" in graficos:
     pdf.add_image_b64(graficos["geo"], w=170)
 
 # ── Virales ──
+# ── Tendencias ──
+if "tendencias" in graficos:
+    pdf.section_title("TOP KEYWORDS DEL DIA", color=(41, 128, 185))
+    pdf.add_image_b64(graficos["tendencias"], w=180)
+
+# ── Diversidad ──
+if "diversidad" in graficos:
+    pdf.section_title("DIVERSIDAD INFORMATIVA", color=(39, 174, 96))
+    pdf.add_image_b64(graficos["diversidad"], w=170)
+
 pdf.section_title("TEMAS VIRALES", color=(231, 76, 60))
 if not df_viral.empty and "keyword" in df_viral.columns:
     top5 = df_viral.nlargest(5, "viral_score") if "viral_score" in df_viral.columns else df_viral.head(5)

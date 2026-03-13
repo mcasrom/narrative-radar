@@ -18,9 +18,39 @@ HISTORY = os.path.abspath(os.path.join(BASE_DIR, "../data/processed/trends_histo
 CONFIG  = os.path.abspath(os.path.join(BASE_DIR, "../data/processed/keywords_config.json"))
 
 STOPWORDS_BASE = [
+    # Artículos, preposiciones, conjunciones
     "de","la","el","en","y","a","que","los","del","se","las","por","un","con","una","su","al","es","para",
     "como","mas","pero","sus","le","ya","o","este","fue","ha","lo","si","sobre","entre","cuando","hasta",
-    "sin","no","te","le","da","hay","muy","bien","tambien","despues","antes","donde","desde","segun"
+    "sin","no","te","da","hay","muy","bien","tambien","despues","antes","donde","desde","segun",
+    # Palabras vacías frecuentes en noticias
+    "tras","ante","este","esta","esto","estos","estas","ese","esa","esos","esas",
+    "aquel","aquella","aquellos","aquellas","ser","sido","han","haber","era","son",
+    "mas","menos","aunque","sino","porque","mientras","durante","mediante","hacia",
+    "quot","amp","nbsp","http","https","www","com","es","html","php",
+    # Verbos auxiliares y comunes
+    "dice","dijo","afirma","asegura","señala","indica","explica","destaca","apunta",
+    "podria","puede","pueden","podran","sera","seran","seria","fueron","estan","esta",
+    "tiene","tienen","tenia","tenian","hace","hacen","hecho","hizo","haran",
+    # Palabras de tiempo y cantidad
+    "años","año","meses","mes","dias","dia","horas","hora","vez","veces",
+    "nuevo","nueva","nuevos","nuevas","gran","grande","primer","primera","ultimo","ultima",
+    "dos","tres","cuatro","cinco","mil","millon","millones","ciento","cien",
+    # Conectores informativos
+    "segun","debido","cabo","parte","caso","vez","tipo","nivel","forma","punto",
+    "tanto","solo","cada","todo","toda","todos","todas","mismo","misma","otros","otras",
+    # Palabras con tilde frecuentes sin valor
+    "más","qué","cómo","cuál","cuáles","quién","quiénes","dónde","cuándo","también",
+    "así","está","están","aún","sí","él","éste","ésta","éstos","éstas",
+    # Temporales y números sin valor
+    "hoy","ayer","mañana","2025","2026","enero","febrero","marzo","abril","mayo",
+    "junio","julio","agosto","septiembre","octubre","noviembre","diciembre",
+    "lunes","martes","miercoles","jueves","viernes","sabado","domingo",
+    # Palabras informativas genéricas
+    "casa","nuevo","nueva","vez","veces","hoy","ayer","poco","mucho","nada",
+    "algo","alguien","nadie","nunca","siempre","quizas","acaso","incluso",
+    # Residuos numéricos y partículas
+    "000","00","contra","directo","dia","dias","vez","me","mi","tu","su","nos","les",
+    "pro","ex","via","vs","non","per","app","web"
 ]
 
 cfg = {}

@@ -1,0 +1,7 @@
+# Lista de suscriptores premium C.M.N.E.
+# Formato: - {email: "...", name: "...", since: "YYYY-MM", active: true}
+subscribers:
+  - email: "mybloggingnotes@gmail.com"
+    name: "Admin"
+    since: "2026-03"
+    active: true
