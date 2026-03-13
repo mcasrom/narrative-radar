@@ -992,9 +992,35 @@ def _mostrar_tab_inner(tab_name, csv_path):
                      title="Clusters de narrativas detectadas")
         st.plotly_chart(fig, use_container_width=True)
     elif tab_name == "Radar Emocional" and "emotion" in df.columns:
-        fig = px.bar(df, x="emotion", y="count", color="emotion",
-                     title="Distribución emocional")
-        st.plotly_chart(fig, use_container_width=True)
+        st.markdown("""
+**Cómo leer este gráfico:**
+- Emociones detectadas en titulares mediante léxico expandido español
+- **Neutral** excluido para ver mejor las emociones activas
+- Datos desde el **6 de marzo 2026**
+        """)
+        df_vis = df[df["emotion"] != "Neutral"]
+        col1, col2, col3 = st.columns(3)
+        miedo = df[df["emotion"]=="Miedo"]["count"].sum()
+        ira   = df[df["emotion"]=="Ira"]["count"].sum()
+        alegria = df[df["emotion"]=="Alegría"]["count"].sum()
+        col1.metric("Miedo", int(miedo))
+        col2.metric("Ira", int(ira))
+        col3.metric("Alegría", int(alegria))
+        col_a, col_b = st.columns(2)
+        with col_a:
+            fig = px.bar(df_vis, x="emotion", y="count", color="emotion",
+                         title="Distribución emocional actual",
+                         color_discrete_map={"Miedo":"#9C27B0","Ira":"#F44336","Tristeza":"#2196F3","Sorpresa":"#FF9800","Alegría":"#4CAF50"})
+            st.plotly_chart(fig, use_container_width=True)
+        with col_b:
+            hist_path = os.path.join(base_dir, "emotions_history.csv")
+            if os.path.exists(hist_path):
+                df_hist = pd.read_csv(hist_path)
+                df_hist = df_hist[df_hist["emotion"] != "Neutral"]
+                fig2 = px.line(df_hist, x="cycle", y="count", color="emotion", markers=True,
+                               title="Evolución emocional desde 6 marzo",
+                               labels={"cycle":"Ciclo","count":"Noticias","emotion":"Emoción"})
+                st.plotly_chart(fig2, use_container_width=True)
     elif tab_name == "Polarización" and "date" in df.columns:
         st.markdown("""
 **Cómo leer este gráfico:**
