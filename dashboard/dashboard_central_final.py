@@ -41,9 +41,17 @@ def _check_password():
             else:
                 st.sidebar.error("Password incorrecta")
         st.sidebar.markdown("---")
-        st.sidebar.markdown("☕ [Suscríbete en Ko-fi](https://ko-fi.com/mcasrom)")
-        st.sidebar.markdown("*Recibirás la password por email*")
-        st.sidebar.markdown("*Acceso gratuito: 4 módulos*")
+        st.sidebar.markdown("""
+<div style='background:#1A1D24;border:1px solid #C00000;border-radius:8px;padding:12px;text-align:center'>
+<div style='font-size:1.1em;font-weight:bold;color:#C00000'>🔐 Acceso Premium</div>
+<div style='font-size:0.85em;color:#aaa;margin:6px 0'>19 módulos completos<br>Briefing PDF diario<br>Alertas en tiempo real</div>
+<div style='font-size:1.3em;font-weight:bold;color:#fff;margin:8px 0'>3€ / mes</div>
+<a href='https://ko-fi.com/m_castillo' target='_blank' style='display:inline-block;background:#C00000;color:white;padding:8px 18px;border-radius:6px;text-decoration:none;font-weight:bold;font-size:0.9em'>☕ Suscribirse en Ko-fi</a>
+<div style='font-size:0.75em;color:#888;margin-top:8px'>Recibirás la password por email</div>
+</div>
+""", unsafe_allow_html=True)
+        st.sidebar.markdown("---")
+        st.sidebar.markdown("*✅ Acceso gratuito: 4 módulos*")
         return False
     return True
 
@@ -1027,14 +1035,22 @@ for i, tab_name in enumerate(tab_names):
         if _AUTH_OK or i in FREE_TABS:
             mostrar_tab(tab_name, paths[tab_name])
         else:
-            st.markdown("### 🔐 Contenido Premium")
-            st.info("Este módulo requiere acceso premium. Introduce la password en el panel izquierdo.")
-            st.markdown("☕ ¿Quieres apoyar el proyecto? [Ko-fi](https://ko-fi.com/mcasrom)")
-            col1, col2 = st.columns(2)
+            st.markdown("""
+<div style='text-align:center;padding:40px 20px'>
+<div style='font-size:2em'>🔐</div>
+<div style='font-size:1.3em;font-weight:bold;margin:10px 0'>Contenido Premium</div>
+<div style='color:#aaa;margin-bottom:20px'>Este módulo requiere acceso premium.<br>Introduce la password en el panel izquierdo.</div>
+<a href='https://ko-fi.com/m_castillo' target='_blank' style='display:inline-block;background:#C00000;color:white;padding:10px 24px;border-radius:8px;text-decoration:none;font-weight:bold;font-size:1em'>☕ Suscribirse — 3€/mes</a>
+<div style='color:#888;font-size:0.8em;margin-top:12px'>Recibirás la password por email tras la suscripción</div>
+</div>
+""", unsafe_allow_html=True)
+            col1, col2, col3 = st.columns(3)
             with col1:
                 st.metric("Módulos gratuitos", "4")
             with col2:
                 st.metric("Módulos premium", "15")
+            with col3:
+                st.metric("Precio", "3€/mes")
 
 st.markdown("---")
 # ── Briefing diario descargable ──────────────────────────────────
