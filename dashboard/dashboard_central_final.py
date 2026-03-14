@@ -797,7 +797,6 @@ def _mostrar_tab_inner(tab_name, csv_path):
             coloraxis_colorbar=dict(
                 title="Menciones",
                 tickfont=dict(color="white"),
-                titlefont=dict(color="white"),
             )
         )
         st.plotly_chart(fig, use_container_width=True)
