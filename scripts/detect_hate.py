@@ -18,7 +18,7 @@ OUTPUT  = os.path.join(BASE, "data/processed/hate_alerts.csv")
 HISTORY = os.path.join(BASE, "data/processed/hate_history.csv")
 EMAIL_CFG = os.path.join(BASE, "config/email.yaml")
 
-HATE_THRESHOLD = 1  # mínimo de palabras agresivas para generar alerta
+HATE_THRESHOLD = 2  # mínimo 2 palabras agresivas para alertar
 
 # ── Léxico de lenguaje agresivo/violento en titulares españoles ──
 HATE_WORDS = {
@@ -62,8 +62,18 @@ try:
 except Exception as e:
     print(f"[HATE] ERROR: {e}"); exit(1)
 
+# Contexto bélico — no genera alerta de odio
+WAR_CONTEXT = {"irán","iran","israel","ucrania","ukraine","rusia","russia",
+               "gaza","líbano","libano","siria","syria","palestina","hamas","hezbollah",
+               "pakistán","pakistan","afganistán","afganistan","kabul","ormuz","jark",
+               "irak","iraq","yemen","sudán","sudan","libia","somalia","myanmar"}
+
 def analyze_hate(title):
     if not title or not isinstance(title, str):
+        return 0, [], False
+    # Excluir titulares de conflictos bélicos conocidos
+    words_lower = set(title.lower().split())
+    if words_lower & WAR_CONTEXT:
         return 0, [], False
     words = title.lower().split()
     hits = []
