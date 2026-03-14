@@ -12,7 +12,7 @@ import os
 INPUT_FILE = os.path.abspath(os.path.join(os.path.dirname(os.path.abspath(__file__)), "../data/processed/news_summary.csv"))
 OUTPUT_FILE = os.path.abspath(os.path.join(os.path.dirname(os.path.abspath(__file__)), "../data/processed/narratives_summary.csv"))
 HISTORY_FILE = os.path.abspath(os.path.join(os.path.dirname(os.path.abspath(__file__)), "../data/processed/narratives_history.csv"))
-N_CLUSTERS = 5
+N_CLUSTERS = 15
 
 nltk.download("stopwords", quiet=True)
 SPANISH_STOPWORDS = stopwords.words("spanish")
@@ -39,9 +39,15 @@ def main():
     if "title" not in df.columns:
         print("news_summary.csv no tiene columna title"); return
 
-    titles = df["title"].fillna("")
     now = datetime.now().strftime("%Y-%m-%d %H:%M")
-
+    # Usar solo últimos 14 días para narrativas más actuales
+    df["date"] = pd.to_datetime(df["date"], errors="coerce")
+    cutoff = pd.Timestamp.now() - pd.Timedelta(days=14)
+    df_recent = df[df["date"] >= cutoff].copy()
+    if len(df_recent) < 100:
+        df_recent = df.copy()
+    titles = df_recent["title"].fillna("")
+    df = df_recent
     vectorizer = TfidfVectorizer(stop_words=SPANISH_STOPWORDS, max_features=1000)
     X = vectorizer.fit_transform(titles)
 
