@@ -31,6 +31,17 @@ PERSONAS = {
     "Irene Montero": ["irene montero","montero podemos","montero igualdad"],
     "Milei":        ["milei","javier milei"],
     "Macron":       ["macron","emmanuel macron"],
+    # ── Líderes G20 ──────────────────────────────────────
+    "Putin":        ["putin","vladimir putin","vladímir putin"],
+    "Xi Jinping":   ["xi jinping","xi","jinping"],
+    "Modi":         ["modi","narendra modi"],
+    "Scholz":       ["scholz","olaf scholz"],
+    "Meloni":       ["meloni","giorgia meloni"],
+    "Erdogan":      ["erdogan","erdoğan","recep tayyip"],
+    "Lula":         ["lula","lula da silva","luiz inácio"],
+    "Starmer":      ["starmer","keir starmer"],
+    "Trudeau":      ["trudeau","justin trudeau"],
+    "Jamenei":      ["jamenei","khamenei","líder supremo","ayatolá"],
 }
 
 POSITIVE_WORDS = {"victoria","acuerdo","apoya","celebra","gana","logra","anuncia",
