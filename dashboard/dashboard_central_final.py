@@ -767,19 +767,39 @@ def _mostrar_tab_inner(tab_name, csv_path):
         fig = px.scatter_geo(
             df_map, lat="lat", lon="lon",
             size="mentions", color="mentions",
-            hover_name="ccaa", hover_data={"mentions":True,"lat":False,"lon":False},
+            hover_name="ccaa",
+            hover_data={"mentions":True,"lat":False,"lon":False},
             color_continuous_scale="Reds",
-            size_max=40,
+            size_max=50,
             title="Intensidad informativa por Comunidad Autónoma",
+            text="ccaa",
+        )
+        fig.update_traces(
+            textposition="top center",
+            textfont=dict(size=10, color="white"),
+            marker=dict(opacity=0.8, line=dict(width=1, color="white")),
         )
         fig.update_geos(
-            center={"lat":40.4,"lon":-3.7}, projection_scale=4,
+            center={"lat":40.4,"lon":-3.7}, projection_scale=5,
             scope="europe",
-            showland=True, landcolor="#f0f0f0",
-            showcoastlines=True, coastlinecolor="#cccccc",
-            showcountries=True, countrycolor="#aaaaaa",
+            showland=True, landcolor="#2a2a3e",
+            showcoastlines=True, coastlinecolor="#555577",
+            showcountries=True, countrycolor="#555577",
+            showocean=True, oceancolor="#1a1a2e",
+            showrivers=False, showlakes=False,
+            bgcolor="#1a1a2e",
         )
-        fig.update_layout(height=500, margin={"r":0,"t":40,"l":0,"b":0})
+        fig.update_layout(
+            height=550,
+            margin={"r":0,"t":40,"l":0,"b":0},
+            paper_bgcolor="#1a1a2e",
+            font=dict(color="white"),
+            coloraxis_colorbar=dict(
+                title="Menciones",
+                tickfont=dict(color="white"),
+                titlefont=dict(color="white"),
+            )
+        )
         st.plotly_chart(fig, use_container_width=True)
 
         fig2 = px.bar(df[df["mentions"]>0].sort_values("mentions"),
