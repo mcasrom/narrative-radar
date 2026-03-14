@@ -1,15 +1,11 @@
 keyword,count_now,count_base,ratio,viral_score,sources,n_sources,sample_title,detected_at
-biznaga,4,0,5.0,100,"elcorreo, eldiario, 20minutos, elmundo, elpais",5,Diez años de cuidados a una madre y una Biznaga de Oro en Málaga,2026-03-14 13:33
-málaga,8,1,60.25,100,"elcorreo, eldiario, 20minutos, huffington_es, levante_emv",5,Diez años de cuidados a una madre y una Biznaga de Oro en Málaga,2026-03-14 13:33
-derrumba,3,3,7.53,100,"levante_emv, lavanguardia, elmundo",3,Se derrumba una torre del castillo de Escalona (Toledo) sin causar heridos,2026-03-14 13:33
-torre,4,0,5.0,100,"levante_emv, elcorreo, lavanguardia, elmundo",4,Se derrumba una torre del castillo de Escalona (Toledo) sin causar heridos,2026-03-14 13:33
-escalona,3,3,7.53,100,"levante_emv, lavanguardia, elmundo",3,Se derrumba una torre del castillo de Escalona (Toledo) sin causar heridos,2026-03-14 13:33
-toledo,4,2,15.06,100,"levante_emv, elcorreo, lavanguardia, elmundo",4,Se derrumba una torre del castillo de Escalona (Toledo) sin causar heridos,2026-03-14 13:33
-causar,3,1,22.59,100,"levante_emv, elcorreo, lavanguardia",3,Se derrumba una torre del castillo de Escalona (Toledo) sin causar heridos,2026-03-14 13:33
-festival,6,0,5.0,100,"eldiario, 20minutos, levante_emv, elmundo, elpais",5,Marta Matute se hace con el Biznaga de Oro del Festival de Málaga con 'Yo no moriré de amor',2026-03-14 13:33
-moriré,7,0,5.0,100,"eldiario, 20minutos, huffington_es, levante_emv, elmundo",5,Marta Matute se hace con el Biznaga de Oro del Festival de Málaga con 'Yo no moriré de amor',2026-03-14 13:33
-primera,3,3,7.53,100,"levante_emv, bbc_mundo, okdiario",3,"València, a reventar desde primera hora en el supersábado de las fallas 2026",2026-03-14 13:33
-castillo,4,7,4.3,86,"levante_emv, elcorreo, lavanguardia, elmundo",4,Se derrumba una torre del castillo de Escalona (Toledo) sin causar heridos,2026-03-14 13:33
-tiempo,4,8,3.77,75,"huffington_es, 20minutos, elcorreo",3,"Eeva, 38 años, hace 10 años que no duerme con su marido: &quot;El tiempo apremia y eso no nos salvará&quot;",2026-03-14 13:33
-madrid,4,11,2.74,54,"elpais, google_news_es, elcorreo",3,Milei se reúne con Abascal en Madrid vestido con un mono de trabajo de la petrolífera argentina YPF,2026-03-14 13:33
-valència,3,11,2.05,41,levante_emv,1,"La mascletà de hoy 14 de marzo en València, en directo: Pirotecnia Aitana dispara al límite de lo permitido con 274 kg de pólvora",2026-03-14 13:33
+personas,4,7,5.38,100,"okdiario, levante_emv, huffington_es, google_news_es",4,Pinchazo del ‘no a la guerra’ de Sánchez: la protesta por la paz reúne sólo a 5.000 personas en Madrid,2026-03-14 14:03
+mascletà,3,1,28.27,100,levante_emv,1,Búscate en la mascletà de las fallas de València 2026 del 14 de marzo,2026-03-14 14:03
+moriré,3,5,5.65,100,"heraldo_aragon, eldiario, 20minutos",3,&#039;Yo no moriré de amor&#039; y &#039;El jardín que soñamos&#039; ganan el Festival de Cine de Málaga,2026-03-14 14:03
+festival,3,4,7.07,100,"heraldo_aragon, eldiario, 20minutos",3,&#039;Yo no moriré de amor&#039; y &#039;El jardín que soñamos&#039; ganan el Festival de Cine de Málaga,2026-03-14 14:03
+málaga,4,6,6.28,100,"heraldo_aragon, elcorreo, eldiario, 20minutos",4,&#039;Yo no moriré de amor&#039; y &#039;El jardín que soñamos&#039; ganan el Festival de Cine de Málaga,2026-03-14 14:03
+biznaga,3,1,28.27,100,"elcorreo, eldiario, 20minutos",3,Diez años de cuidados a una madre y una Biznaga de Oro en Málaga,2026-03-14 14:03
+sánchez,3,6,4.71,94,"okdiario, elmundo, huffington_es",3,Pinchazo del ‘no a la guerra’ de Sánchez: la protesta por la paz reúne sólo a 5.000 personas en Madrid,2026-03-14 14:03
+valència,5,11,4.28,85,"levante_emv, eldiario",2,La gran afluencia de personas al centro de València obliga a la Policía Local a adelantar los cortes de tráfico,2026-03-14 14:03
+millones,3,11,2.57,51,"elcorreo, google_news_es",2,Los 6 millones del primer premio de la Lotería Nacional bañan una turística localidad costera,2026-03-14 14:03
+fallas,3,14,2.02,40,levante_emv,1,Las asociaciones de Torrent celebran sus Fallas: Espurna y el CAS del Círculo Católico se suman a la fiesta con la cremà,2026-03-14 14:03
