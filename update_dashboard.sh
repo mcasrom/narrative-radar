@@ -81,6 +81,7 @@ if [ $? -eq 0 ]; then
 else
     echo "[$(timestamp)] ⚠️ Error en GitHub push (posiblemente sin cambios)" >> "$LOG_FILE"
 fi
-source /home/dietpi/narrative-radar/env/bin/activate && python3 /home/dietpi/narrative-radar/scripts/generate_metadata.py
 cd /home/dietpi/narrative-radar && source env/bin/activate && python3 scripts/detect_disinfo.py >> /home/dietpi/narrative-radar/pipeline.log 2>&1
 cd /home/dietpi/narrative-radar && source env/bin/activate && python3 scripts/detect_hate.py >> /home/dietpi/narrative-radar/pipeline.log 2>&1
+cd /home/dietpi/narrative-radar && source env/bin/activate && python3 scripts/generate_metadata.py >> /home/dietpi/narrative-radar/pipeline.log 2>&1
+cd /home/dietpi/narrative-radar && git add data/processed/metadata.json && git commit -m "auto: metadata 2026-03-14 11:59" && git push >> /home/dietpi/narrative-radar/pipeline.log 2>&1
