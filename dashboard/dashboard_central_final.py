@@ -684,6 +684,7 @@ def _mostrar_tab_inner(tab_name, csv_path):
                          color_continuous_midpoint=0,
                          title="Menciones por personaje",
                          labels={"mentions":"Menciones","persona":"Personaje","sentiment_score":"Sentimiento"})
+            fig.update_layout(height=max(400, len(df)*30), yaxis=dict(tickfont=dict(size=12)))
             st.plotly_chart(fig, use_container_width=True)
         with col2:
             fig2 = px.bar(df.sort_values("sentiment_score"),
@@ -693,6 +694,7 @@ def _mostrar_tab_inner(tab_name, csv_path):
                           color_continuous_midpoint=0,
                           title="Score de sentimiento por personaje",
                           labels={"sentiment_score":"Score","persona":"Personaje"})
+            fig2.update_layout(height=max(400, len(df)*30), yaxis=dict(tickfont=dict(size=12)))
             st.plotly_chart(fig2, use_container_width=True)
         st.dataframe(df[["persona","mentions","positive","negative","neutral","sentiment_score","last_title"]],
                      use_container_width=True)
