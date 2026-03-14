@@ -988,9 +988,23 @@ def _mostrar_tab_inner(tab_name, csv_path):
         st.warning("El CSV está vacío."); return
 
     if tab_name == "Radar Narrativo" and "cluster" in df.columns:
-        fig = px.bar(df, x="cluster", y="count", color="cluster",
-                     title="Clusters de narrativas detectadas")
+        st.markdown("""
+**Cómo leer este gráfico:**
+- Cada barra es un **cluster temático** — grupo de noticias que comparten las mismas palabras clave
+- El **eje Y** muestra cuántas noticias pertenecen a ese cluster
+- Clusters más altos = narrativas más dominantes en los medios
+- Las etiquetas muestran las palabras más frecuentes del cluster
+- Un cluster muy dominante indica una narrativa que acapara la agenda mediática
+        """)
+        col1, col2 = st.columns(2)
+        col1.metric("Narrativas detectadas", len(df))
+        col2.metric("Narrativa dominante", df.sort_values("count", ascending=False).iloc[0]["cluster_label"][:40] if len(df) > 0 else "N/A")
+        fig = px.bar(df.sort_values("count", ascending=False), x="cluster", y="count", color="count",
+                     title="Clusters de narrativas detectadas",
+                     color_continuous_scale="Reds",
+                     labels={"cluster":"Cluster","count":"Noticias"})
         st.plotly_chart(fig, use_container_width=True)
+        st.dataframe(df[["cluster_label","count"]].sort_values("count", ascending=False), use_container_width=True)
     elif tab_name == "Radar Emocional" and "emotion" in df.columns:
         st.markdown("""
 **Cómo leer este gráfico:**
@@ -1050,10 +1064,22 @@ def _mostrar_tab_inner(tab_name, csv_path):
         with col_b:
             st.dataframe(df[["date","polarization_index","progressive_count","conservative_count"]].tail(14).sort_values("date", ascending=False), use_container_width=True)
     elif tab_name == "Red de Actores" and "source" in df.columns:
-        fig = px.bar(df, x="source", y="weight", color="target",
-                     title="Red de actores — peso de relaciones",
-                     labels={"source": "Actor origen", "weight": "Peso", "target": "Actor destino"})
+        st.markdown("""
+**Cómo leer este gráfico:**
+- Muestra qué medios **comparten noticias o se citan mutuamente** con más frecuencia
+- El **eje X** es el medio origen, el **color** es el medio destino
+- El **peso** indica cuántas noticias en común tienen dos medios
+- Peso alto = dos medios cubren los mismos temas o se influyen mutuamente
+- Útil para detectar **ecosistemas mediáticos** — grupos de medios que se mueven juntos
+        """)
+        col1, col2 = st.columns(2)
+        col1.metric("Relaciones detectadas", len(df))
+        col2.metric("Par más conectado", f"{df.sort_values('weight', ascending=False).iloc[0]['source']} ↔ {df.sort_values('weight', ascending=False).iloc[0]['target']}" if len(df) > 0 else "N/A")
+        fig = px.bar(df.sort_values("weight", ascending=False).head(20), x="source", y="weight", color="target",
+                     title="Red de actores — peso de relaciones (top 20)",
+                     labels={"source": "Medio origen", "weight": "Peso", "target": "Medio destino"})
         st.plotly_chart(fig, use_container_width=True)
+        st.dataframe(df[["source","target","weight"]].sort_values("weight", ascending=False).head(15), use_container_width=True)
     elif tab_name == "Propagación" and "date" in df.columns:
         st.markdown("""
 **Cómo leer este gráfico:**
