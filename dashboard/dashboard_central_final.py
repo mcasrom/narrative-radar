@@ -1128,6 +1128,24 @@ def _mostrar_tab_inner(tab_name, csv_path):
                      color_continuous_scale="Blues",
                      labels={"keyword":"Keyword","count":"Menciones"})
         st.plotly_chart(fig, use_container_width=True)
+        # ── Nube de palabras ──────────────────────────────
+        st.subheader("☁️ Nube de palabras")
+        try:
+            from wordcloud import WordCloud
+            import matplotlib.pyplot as plt
+            freq = dict(zip(df["keyword"], df["count"]))
+            wc = WordCloud(width=900, height=400, background_color="black",
+                           colormap="Reds", max_words=50,
+                           prefer_horizontal=0.9)
+            wc.generate_from_frequencies(freq)
+            fig_wc, ax = plt.subplots(figsize=(10, 4))
+            ax.imshow(wc, interpolation="bilinear")
+            ax.axis("off")
+            fig_wc.patch.set_facecolor("black")
+            st.pyplot(fig_wc)
+            plt.close()
+        except Exception as e:
+            st.warning(f"Nube de palabras no disponible: {e}")
     elif tab_name == "Cobertura Gobierno" and "source" in df.columns:
         st.markdown("""
 **Cómo leer este gráfico:**
