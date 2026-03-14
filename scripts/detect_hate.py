@@ -136,11 +136,11 @@ if len(high) > 0 and os.path.exists(EMAIL_CFG):
             body += f"  Palabras: {row['hate_words']}\n\n"
         msg = MIMEText(body, "plain", "utf-8")
         msg["Subject"] = f"⚠️ Lenguaje agresivo detectado — {len(high)} alertas"
-        msg["From"]    = cfg["smtp"]["user"]
-        msg["To"]      = cfg["smtp"]["user"]
-        with smtplib.SMTP_SSL(cfg["smtp"]["host"], cfg["smtp"]["port"]) as s:
-            s.login(cfg["smtp"]["user"], cfg["smtp"]["password"])
-            s.sendmail(cfg["smtp"]["user"], cfg["smtp"]["user"], msg.as_string())
+        msg["From"]    = cfg["user"]
+        msg["To"]      = cfg["to"]
+        with smtplib.SMTP_SSL(cfg["smtp_host"], cfg["smtp_port"]) as s:
+            s.login(cfg["user"], cfg["password"])
+            s.sendmail(cfg["user"], cfg["to"], msg.as_string())
         print(f"[HATE] Email enviado ({len(high)} alertas alto score)")
     except Exception as e:
         print(f"[HATE] Email error: {e}")
