@@ -70,12 +70,21 @@ try:
 except Exception as e:
     print(f"Error leyendo {INPUT}: {e}"); exit(1)
 
-titles = df["title"].fillna("").tolist()
 now = datetime.now().strftime("%Y-%m-%d %H:%M")
-
+# Ponderar por recencia
+df["date"] = pd.to_datetime(df["date"], errors="coerce")
+cutoff_48h = pd.Timestamp.now() - pd.Timedelta(hours=48)
+cutoff_7d  = pd.Timestamp.now() - pd.Timedelta(days=7)
+df["weight"] = 1.0
+df.loc[df["date"] >= cutoff_7d,  "weight"] = 2.0
+df.loc[df["date"] >= cutoff_48h, "weight"] = 4.0
+titles  = df["title"].fillna("").tolist()
+weights = df["weight"].tolist()
+import numpy as np
 vectorizer = TfidfVectorizer(stop_words=STOPWORDS, max_features=200, ngram_range=(1,2), min_df=2)
 X = vectorizer.fit_transform(titles)
-scores = X.sum(axis=0).A1
+W = np.array(weights)
+scores = X.multiply(W[:,None]).sum(axis=0).A1
 words  = vectorizer.get_feature_names_out()
 top_idx = scores.argsort()[::-1][:50]
 
