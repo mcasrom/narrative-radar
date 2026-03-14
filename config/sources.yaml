@@ -83,3 +83,21 @@ sources:
 - name: elcorreo
   type: news
   url: https://www.elcorreo.com/rss/2.0/
+- name: efe
+  type: news
+  url: https://efeverde.com/feed/
+- name: el_confidencial_economia
+  type: news
+  url: https://rss.elconfidencial.com/economia
+- name: el_confidencial_tech
+  type: news
+  url: https://rss.elconfidencial.com/tecnologia
+- name: google_news_economia
+  type: aggregator
+  url: https://news.google.com/rss/search?q=economia+espana&hl=es&gl=ES&ceid=ES:es
+- name: google_news_internacional
+  type: aggregator
+  url: https://news.google.com/rss/search?q=internacional&hl=es&gl=ES&ceid=ES:es
+- name: sur
+  type: news
+  url: https://www.diariosur.es/rss/2.0/
