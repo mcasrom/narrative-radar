@@ -939,7 +939,14 @@ def _mostrar_tab_inner(tab_name, csv_path):
 
     if tab_name == "Desinformación":
         st.header("Detector de Desinformación ⚠️")
-        st.markdown("Alertas generadas cruzando titulares con bulos verificados de **maldita.es** y **newtral.es** mediante similitud TF-IDF.")
+        st.markdown("Alertas generadas cruzando titulares con bulos verificados de **maldita.es**, **newtral.es** y **efe verifica** mediante similitud TF-IDF.")
+        st.markdown("""
+**Cómo leer este panel:**
+- Cada alerta indica que un titular es **similar** a un bulo verificado
+- **Similitud** (0-1): cuanto más alto, más parecido al bulo — por encima de 0.7 es relevante
+- **Score riesgo** (0-100): combina similitud y contexto — por encima de 60 es alto riesgo
+- ⚠️ No significa que el titular sea falso — indica que merece verificación
+        """)
         if not os.path.exists(csv_path):
             st.warning("Sin datos aún — se generarán en el próximo ciclo.")
             return
@@ -1103,18 +1110,60 @@ def _mostrar_tab_inner(tab_name, csv_path):
         st.plotly_chart(fig, use_container_width=True)
         st.dataframe(df[["date","spread_index","news_count","sources_active"]].tail(14).sort_values("date", ascending=False), use_container_width=True)
     elif tab_name == "Tendencias" and "keyword" in df.columns:
-        fig = px.bar(df, x="keyword", y="count", color="count",
-                     title="Tendencias de palabras clave")
+        st.markdown("""
+**Cómo leer este gráfico:**
+- Muestra las **palabras clave más frecuentes** en todos los titulares analizados
+- El eje Y indica cuántas veces aparece cada palabra en el histórico
+- Palabras muy altas = temas que dominan la agenda mediática
+- Útil para detectar qué narrativas están siendo amplificadas
+        """)
+        col1, col2 = st.columns(2)
+        top = df.sort_values("count", ascending=False).iloc[0] if len(df) > 0 else None
+        col1.metric("Keywords analizadas", len(df))
+        col2.metric("Más frecuente", top["keyword"] if top is not None else "N/A")
+        fig = px.bar(df.sort_values("count", ascending=False).head(20), x="keyword", y="count", color="count",
+                     title="Top 20 palabras clave más frecuentes",
+                     color_continuous_scale="Blues",
+                     labels={"keyword":"Keyword","count":"Menciones"})
         st.plotly_chart(fig, use_container_width=True)
     elif tab_name == "Cobertura Gobierno" and "source" in df.columns:
-        fig = px.bar(df, x="source", y="alignment_score", color="alignment",
+        st.markdown("""
+**Cómo leer este gráfico:**
+- Mide si cada medio cubre al gobierno de forma **favorable o crítica**
+- **Score positivo** = cobertura favorable al gobierno
+- **Score negativo** = cobertura crítica o contraria al gobierno
+- **Score 0** = cobertura neutra o equilibrada
+- Basado en análisis de sentimiento de titulares sobre acción gubernamental
+        """)
+        col1, col2, col3 = st.columns(3)
+        favor = len(df[df["alignment"]=="Pro-Gobierno"]) if "alignment" in df.columns else 0
+        contra = len(df[df["alignment"]=="Contra-Gobierno"]) if "alignment" in df.columns else 0
+        neutro = len(df) - favor - contra
+        col1.metric("Pro-Gobierno", favor)
+        col2.metric("Contra-Gobierno", contra)
+        col3.metric("Neutros", neutro)
+        fig = px.bar(df.sort_values("alignment_score"), x="source", y="alignment_score", color="alignment",
                      title="Alineamiento mediático por fuente",
-                     labels={"source": "Medio", "alignment_score": "Score"})
+                     labels={"source": "Medio", "alignment_score": "Score"},
+                     color_discrete_map={"Pro-Gobierno":"#2196F3","Contra-Gobierno":"#F44336","Neutral":"#9E9E9E"})
+        fig.add_hline(y=0, line_dash="dash", line_color="gray")
         st.plotly_chart(fig, use_container_width=True)
     elif tab_name == "Análisis Masivos" and "source" in df.columns:
-        fig = px.bar(df, x="source", y="intensity_index", color="intensity_index",
+        st.markdown("""
+**Cómo leer este gráfico:**
+- Mide la **intensidad de cobertura** de cada medio — cuánto publica en relación a los demás
+- **Índice alto** = medio muy activo, publica muchas noticias
+- **Índice bajo** = medio con cobertura limitada o selectiva
+- Útil para detectar medios que amplifican masivamente ciertas narrativas
+        """)
+        col1, col2 = st.columns(2)
+        top = df.sort_values("intensity_index", ascending=False).iloc[0] if len(df) > 0 else None
+        col1.metric("Medios analizados", len(df))
+        col2.metric("Mayor intensidad", top["source"] if top is not None else "N/A")
+        fig = px.bar(df.sort_values("intensity_index", ascending=False), x="source", y="intensity_index", color="intensity_index",
                      title="Intensidad de cobertura por medio",
-                     color_continuous_scale="Reds")
+                     color_continuous_scale="Reds",
+                     labels={"source":"Medio","intensity_index":"Índice intensidad"})
         st.plotly_chart(fig, use_container_width=True)
 
     st.dataframe(df, use_container_width=True)
