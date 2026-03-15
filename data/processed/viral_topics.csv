@@ -1,19 +1,20 @@
 keyword,count_now,count_base,ratio,viral_score,sources,n_sources,sample_title,detected_at
-ganado,4,0,5.0,100,"20minutos, okdiario, europapress",3,Resultados de Salamanca en las elecciones de Castilla y León 2026: consulta quién ha ganado,2026-03-15 20:34
-ganaría,4,0,5.0,100,"heraldo_aragon, newtral, eldiario, expansion",4,"El PP ganaría las elecciones en Castilla y León con hasta 35 escaños, según un sondeo",2026-03-15 20:34
-laporta,4,6,5.16,100,"okdiario, elpais",2,"Elecciones a la presidencia del Barcelona hoy en directo | Cómo van, resultados y última hora de las votaciones a Laporta y Font",2026-03-15 20:34
-castilla,23,34,5.23,100,"levante_emv, elpais, 20minutos, elcorreo, heraldo_aragon",5,Última encuesta de las elecciones en Castilla y León 2026: sondeos a pie de urna,2026-03-15 20:34
-sondeos,6,1,46.42,100,"levante_emv, 20minutos, newtral, eldiario, expansion",5,Última encuesta de las elecciones en Castilla y León 2026: sondeos a pie de urna,2026-03-15 20:34
-recuento,3,0,5.0,100,"elpais, elcorreo, sur",3,"Resultados elecciones en Castilla y León 15M, en directo | Cierran las urnas y comienza el recuento con todas las miradas sobre Mañueco y la probable subida de Vox",2026-03-15 20:34
-mañueco,3,1,23.21,100,"elpais, newtral, 20minutos",3,"Resultados elecciones en Castilla y León 15M, en directo | Cierran las urnas y comienza el recuento con todas las miradas sobre Mañueco y la probable subida de Vox",2026-03-15 20:34
-consulta,5,4,9.67,100,20minutos,1,Resultados de Salamanca en las elecciones de Castilla y León 2026: consulta quién ha ganado,2026-03-15 20:34
-quién,6,4,11.61,100,"20minutos, europapress",2,Resultados de Salamanca en las elecciones de Castilla y León 2026: consulta quién ha ganado,2026-03-15 20:34
-resultados,14,6,18.05,100,"okdiario, elpais, 20minutos, levante_emv, google_news_es",5,"Elecciones a la presidencia del Barcelona hoy en directo | Cómo van, resultados y última hora de las votaciones a Laporta y Font",2026-03-15 20:34
-escaños,4,1,30.95,100,"20minutos, heraldo_aragon, europapress, expansion",4,"Así sería el reparto de escaños en Castilla y León, según los sondeos",2026-03-15 20:34
-flick,3,1,23.21,100,"okdiario, lavanguardia",2,Flick dice en rueda de prensa que su voto es secreto y aparece minutos después votando abrazado a Laporta,2026-03-15 20:34
-precios,3,1,23.21,100,"okdiario, 20minutos, elmundo",3,La AIE anuncia la liberación «inmediata» de 400 millones de barriles para frenar los precios del petróleo,2026-03-15 20:34
-elecciones,24,39,4.76,95,"okdiario, levante_emv, elpais, 20minutos, elcorreo",5,"Elecciones a la presidencia del Barcelona hoy en directo | Cómo van, resultados y última hora de las votaciones a Laporta y Font",2026-03-15 20:34
-heridos,3,6,3.87,77,"google_news_internacional, elpais, lavanguardia",3,Irak.- Cinco heridos por el impacto de cohetes contra el Aeropuerto Internacional de Bagdad - Notimérica,2026-03-15 20:34
-petróleo,3,7,3.32,66,"elcorreo, okdiario, elmundo",3,La AIE liberará «de forma inmediata» sus primeras reservas de petróleo,2026-03-15 20:34
-cuatro,3,8,2.9,58,"france24_es, 20minutos, lavanguardia",3,Ecuador inicia operaciones antinarco con apoyo de EE. UU: así regirá el toque de queda en cuatro provincias,2026-03-15 20:34
-marzo,3,9,2.58,51,"sur, google_news_es",2,Santoral del 16 de marzo de 2026: Descubre qué santos se celebran hoy,2026-03-15 20:34
+resultados,19,12,11.55,100,"okdiario, elpais, elespanol, eldiario, 20minutos",5,"Resultados de las elecciones en Castilla y León 2026 en directo hoy | Quién ha ganado, mayoría absoluta y escrutinio",2026-03-15 21:04
+elecciones,32,39,5.99,100,"okdiario, elpais, elespanol, lavanguardia, levante_emv",5,"Resultados de las elecciones en Castilla y León 2026 en directo hoy | Quién ha ganado, mayoría absoluta y escrutinio",2026-03-15 21:04
+laporta,5,7,5.21,100,"okdiario, 20minutos, elpais, lavanguardia",4,"Elecciones a la presidencia del Barcelona hoy en directo | Cómo van, resultados y última hora de las votaciones a Laporta y Font",2026-03-15 21:04
+derecha,3,2,10.94,100,"levante_emv, eldiario, elmundo, google_news_internacional",4,La ultraderecha reivindica una subida en las municipales francesas con baja participación,2026-03-15 21:04
+extrema,3,1,21.88,100,"google_news_internacional, eldiario, elmundo",3,Coria despide la X Feria Internacional del Toro con saltos imposibles de los recortadores - Canal Extremadura,2026-03-15 21:04
+sondeos,7,4,12.77,100,"lavanguardia, levante_emv, 20minutos, newtral, eldiario",5,"El PP ganaría las elecciones, pero dependería más de un Vox que crece con fuerza, según los sondeos",2026-03-15 21:04
+escaños,5,1,36.47,100,"okdiario, elpais, 20minutos, heraldo_aragon, europapress",5,Cuántos escaños son necesarios para la mayoría absoluta en las elecciones de Castilla y León,2026-03-15 21:04
+ganaría,5,1,36.47,100,"elespanol, lavanguardia, heraldo_aragon, newtral, eldiario",5,"Elecciones Castilla y León 2026, resultados y escrutinio en directo: PP ganaría las elecciones y Vox rompería la barrera psicológica del 20%",2026-03-15 21:04
+consulta,5,6,6.08,100,"levante_emv, 20minutos",2,Premios Fallas infantiles 2026: Consulta la lista completa,2026-03-15 21:04
+francesas,3,0,5.0,100,"levante_emv, elmundo, google_news_internacional",3,La ultraderecha reivindica una subida en las municipales francesas con baja participación,2026-03-15 21:04
+recuento,3,1,21.88,100,"elcorreo, elpais",2,La lucha por el escaño en Castilla y León: así avanza el recuento de votos,2026-03-15 21:04
+necesitaría,3,0,5.0,100,"elpais, newtral, eldiario",3,"Resultados elecciones en Castilla y León 15M, en directo | El PP gana las elecciones en Castilla y León, pero necesitaría a Vox para gobernar, con el 11% escrutado",2026-03-15 21:04
+escrutinio,3,2,10.94,100,"okdiario, elespanol, elpais",3,"Resultados de las elecciones en Castilla y León 2026 en directo hoy | Quién ha ganado, mayoría absoluta y escrutinio",2026-03-15 21:04
+ganado,6,1,43.77,100,"okdiario, 20minutos",2,"Resultados de las elecciones en Castilla y León 2026 en directo hoy | Quién ha ganado, mayoría absoluta y escrutinio",2026-03-15 21:04
+castilla,32,41,5.69,100,"okdiario, elpais, elcorreo, elespanol, levante_emv",5,"Resultados de las elecciones en Castilla y León 2026 en directo hoy | Quién ha ganado, mayoría absoluta y escrutinio",2026-03-15 21:04
+provincia,3,0,5.0,100,"20minutos, levante_emv, france24_es",3,Resultados de Palencia en las elecciones de Castilla y León 2026: quién ha ganado en la provincia,2026-03-15 21:04
+quién,6,9,4.86,97,"okdiario, 20minutos",2,"Resultados de las elecciones en Castilla y León 2026 en directo hoy | Quién ha ganado, mayoría absoluta y escrutinio",2026-03-15 21:04
+premios,4,7,4.17,83,"okdiario, levante_emv, google_news_es, 20minutos",4,A qué hora empiezan los premios Oscar 2026 y dónde ver la gala desde España en directo por TV y online en streaming,2026-03-15 21:04
+municipio,4,12,2.43,48,"elpais, europapress, levante_emv, elmundo, google_news_es",5,"Los resultados de las elecciones en Castilla y León, en tiempo real y en cada municipio",2026-03-15 21:04
