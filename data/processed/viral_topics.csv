@@ -1,20 +1,23 @@
 keyword,count_now,count_base,ratio,viral_score,sources,n_sources,sample_title,detected_at
-indultat,3,1,27.95,100,"lavanguardia, levante_emv",2,"Una figura contra la guerra, ninot indultat de las Fallas 2026",2026-03-15 18:33
-ninot,3,3,9.32,100,"lavanguardia, levante_emv",2,"Una figura contra la guerra, ninot indultat de las Fallas 2026",2026-03-15 18:33
-cancelo,4,2,18.64,100,"google_news_es, elpais, elcorreo",3,Barcelona - Sevilla en directo | Cancelo sentencia el encuentro - EL PAÍS,2026-03-15 18:33
-sentencia,3,1,27.95,100,"google_news_es, elpais",2,Barcelona - Sevilla en directo | Cancelo sentencia el encuentro - EL PAÍS,2026-03-15 18:33
-encuentro,3,1,27.95,100,"google_news_es, elpais",2,Barcelona - Sevilla en directo | Cancelo sentencia el encuentro - EL PAÍS,2026-03-15 18:33
-18.00,4,1,37.27,100,"elpais, elmundo, eldiario, elcorreo",4,"Elecciones en Castilla y León 15M, en directo | La participación a las 18.00 sube un punto y medio y se sitúa en el 53,18%",2026-03-15 18:33
-punto,4,7,5.32,100,"elpais, elmundo, elcorreo, eldiario",4,"Elecciones en Castilla y León 15M, en directo | La participación a las 18.00 sube un punto y medio y se sitúa en el 53,18%",2026-03-15 18:33
-horas,5,10,4.66,93,"elmundo, eldiario, elcorreo, huffington_es",4,"La participación a las 18.00 horas en Castilla y León se sitúa en el 53%, un punto y medio más que en 2022",2026-03-15 18:33
-primer,3,6,4.66,93,levante_emv,1,"Exposición pone toda su ""Alma"" para alzarse con el primer premio Infantil",2026-03-15 18:33
-última,6,12,4.66,93,"okdiario, elpais, lavanguardia, elcorreo, google_news_internacional",5,"Resultado Barcelona – Sevilla: resumen, goles y última hora del partido de la Liga hoy",2026-03-15 18:33
-festival,4,9,4.14,82,google_news_internacional,1,El Festival Internacional de Música de Festa de Castelló cierra su XXV edición con un concierto memorable - El Periódico Mediterráneo,2026-03-15 18:33
-barça,6,14,3.99,79,"elcorreo, elpais, elespanol, okdiario",4,Fiesta completa del Barça ante el Sevilla,2026-03-15 18:33
-premio,3,7,3.99,79,levante_emv,1,"Exposición pone toda su ""Alma"" para alzarse con el primer premio Infantil",2026-03-15 18:33
-sevilla,11,32,3.2,64,"google_news_es, elcorreo, elpais, okdiario, elespanol",5,Barcelona - Sevilla en directo | Cancelo sentencia el encuentro - EL PAÍS,2026-03-15 18:33
-contra,6,23,2.43,48,"elcorreo, elpais, levante_emv, lavanguardia, okdiario",5,Aparecen nuevas pintadas contra la Ertzaintza y Zupiria en Hernani,2026-03-15 18:33
-internacional,7,28,2.33,46,google_news_internacional,1,El Festival Internacional de Música de Festa de Castelló cierra su XXV edición con un concierto memorable - El Periódico Mediterráneo,2026-03-15 18:33
-barcelona,7,29,2.25,44,"google_news_es, elpais, okdiario",3,Barcelona - Sevilla en directo | Cancelo sentencia el encuentro - EL PAÍS,2026-03-15 18:33
-medio,3,13,2.15,43,"elpais, elmundo, eldiario",3,"Elecciones en Castilla y León 15M, en directo | La participación a las 18.00 sube un punto y medio y se sitúa en el 53,18%",2026-03-15 18:33
-directo,7,32,2.04,40,"google_news_es, elpais, lavanguardia",3,Barcelona - Sevilla en directo | Cancelo sentencia el encuentro - EL PAÍS,2026-03-15 18:33
+ataque,3,4,7.04,100,"elpais, google_news_internacional, france24_es",3,"Última hora del ataque de Estados Unidos e Israel contra Irán, en directo | Trump: “Puede que ataquemos unas cuantas veces más la isla de Jarg, solo por diversión”",2026-03-15 19:04
+punto,5,2,23.48,100,"elcorreo, elpais, elmundo, eldiario",4,"La participación electoral en Castilla y León rozaba el 53,2% a las 18:00 horas, un punto y medio más",2026-03-15 19:04
+18.00,4,2,18.78,100,"elcorreo, elpais, elmundo, eldiario",4,"La participación electoral en Castilla y León rozaba el 53,2% a las 18:00 horas, un punto y medio más",2026-03-15 19:04
+golea,3,0,5.0,100,"google_news_es, elpais, lavanguardia, elespanol",4,Barcelona - Sevilla en directo | El Barça golea al Sevilla en la vuelta de Gavi al césped 204 días después - EL PAÍS,2026-03-15 19:04
+después,4,5,7.51,100,"google_news_es, elpais, okdiario",3,Barcelona - Sevilla en directo | El Barça golea al Sevilla en la vuelta de Gavi al césped 204 días después - EL PAÍS,2026-03-15 19:04
+triunfo,3,3,9.39,100,"levante_emv, elcorreo",2,La falla Sueca-Literato Azorín celebra el triunfo de su ninot indultat,2026-03-15 19:04
+cuantas,3,0,5.0,100,"google_news_internacional, elpais",2,Trump amenaza con volver a atacar la isla de Kharg «unas cuantas veces más solo por diversión» - El Debate,2026-03-15 19:04
+veces,3,1,28.17,100,"google_news_internacional, elpais",2,Trump amenaza con volver a atacar la isla de Kharg «unas cuantas veces más solo por diversión» - El Debate,2026-03-15 19:04
+accidente,3,1,28.17,100,"europapress, heraldo_aragon",2,Muere en un accidente de tráfico el candidato presidencial peruano Napoleón Becerra,2026-03-15 19:04
+horas,5,8,5.87,100,"elcorreo, elmundo, eldiario",3,"La participación electoral en Castilla y León rozaba el 53,2% a las 18:00 horas, un punto y medio más",2026-03-15 19:04
+trump,4,10,3.76,75,"google_news_internacional, elpais, 20minutos",3,Trump amenaza con volver a atacar la isla de Kharg «unas cuantas veces más solo por diversión» - El Debate,2026-03-15 19:04
+sevilla,14,35,3.76,75,"elpais, google_news_es, elmundo, elcorreo, okdiario",5,Barcelona - Sevilla en directo | Gavi: “Flick siempre ha estado conmigo como un padre”,2026-03-15 19:04
+unidos,3,8,3.52,70,"google_news_es, elpais, google_news_internacional",3,Yolanda Díaz viaja a Estados Unidos para asistir a la ceremonia de los Oscar - ABC,2026-03-15 19:04
+estados,3,8,3.52,70,"google_news_es, elpais, google_news_internacional",3,Yolanda Díaz viaja a Estados Unidos para asistir a la ceremonia de los Oscar - ABC,2026-03-15 19:04
+medio,4,12,3.13,62,"elcorreo, elpais, elmundo, eldiario",4,"La participación electoral en Castilla y León rozaba el 53,2% a las 18:00 horas, un punto y medio más",2026-03-15 19:04
+barcelona,10,30,3.13,62,"elpais, google_news_es, okdiario, lavanguardia",4,Barcelona - Sevilla en directo | Gavi: “Flick siempre ha estado conmigo como un padre”,2026-03-15 19:04
+participación,9,27,3.13,62,"france24_es, lavanguardia, elcorreo, elpais, elmundo",5,"Francia elige alcaldes en elecciones municipales con 48,9 % de participación",2026-03-15 19:04
+barça,6,18,3.13,62,"google_news_es, elmundo, elcorreo, elpais, elespanol",5,Barcelona - Sevilla en directo | El Barça golea al Sevilla en la vuelta de Gavi al césped 204 días después - EL PAÍS,2026-03-15 19:04
+castilla,7,28,2.35,46,"lavanguardia, elcorreo, elpais, elmundo, eldiario",5,"Elecciones Castilla y León 2026, hoy en directo: votaciones, participación y candidatos",2026-03-15 19:04
+electoral,3,12,2.35,46,"elpais, elcorreo",2,La jornada en las urnas: de la aldea donde el primer vecino votó una hora después a la mesa electoral a la que no acudió nadie,2026-03-15 19:04
+directo,8,33,2.28,45,"elpais, google_news_es, lavanguardia, google_news_internacional",4,Barcelona - Sevilla en directo | Gavi: “Flick siempre ha estado conmigo como un padre”,2026-03-15 19:04
+última,3,14,2.01,40,"okdiario, elpais, google_news_internacional",3,"Resultado Barcelona – Sevilla: resumen, goles y última hora del partido de la Liga hoy",2026-03-15 19:04
