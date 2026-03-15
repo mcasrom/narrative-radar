@@ -88,6 +88,7 @@ paths = {
     "Temas Virales": os.path.join(base_dir, "viral_topics.csv"),
     "Personajes": os.path.join(base_dir, "personas_summary.csv"),
     "Diversidad": os.path.join(base_dir, "diversity_index.csv"),
+    "Narrativas Ideológicas": os.path.join(base_dir, "ideology_summary.csv"),
     "Keywords": None,
     "🔍 Auditoría": None,
     "Histórico": None,
@@ -700,6 +701,56 @@ def _mostrar_tab_inner(tab_name, csv_path):
                      use_container_width=True)
         return
 
+    if tab_name == "Narrativas Ideológicas":
+        st.header("Narrativas Ideológicas 🧭")
+        st.markdown("""
+**Cómo leer este panel:**
+- Detecta el **posicionamiento mediático** respecto a bloques geopolíticos e ideológicos
+- **Score positivo (🟢)** = cobertura favorable al bloque (pro-OTAN, pro-UE...)
+- **Score negativo (🔴)** = cobertura crítica o contraria al bloque (anti-EEUU, anti-Rusia...)
+- **Score 0 (⚪)** = cobertura equilibrada o neutral
+- Los porcentajes muestran qué proporción de titulares son pro vs anti
+- ⚠️ Basado en léxico — no detecta ironía ni contexto complejo
+        """)
+        if not os.path.exists(csv_path):
+            st.warning("Sin datos aún — se generarán en el próximo ciclo."); return
+        try:
+            df = pd.read_csv(csv_path)
+        except Exception as e:
+            st.error(f"Error: {e}"); return
+        if df.empty:
+            st.warning("Sin datos disponibles."); return
+        col1, col2, col3 = st.columns(3)
+        mas_pro  = df.sort_values("avg_score", ascending=False).iloc[0]
+        mas_anti = df.sort_values("avg_score").iloc[0]
+        mas_men  = df.sort_values("total", ascending=False).iloc[0]
+        col1.metric("Más pro 🟢", f"{mas_pro['block']} ({mas_pro['avg_score']:+.2f})")
+        col2.metric("Más anti 🔴", f"{mas_anti['block']} ({mas_anti['avg_score']:+.2f})")
+        col3.metric("Más mencionado", f"{mas_men['block']} ({int(mas_men['total'])})")
+        col_a, col_b = st.columns(2)
+        with col_a:
+            fig = px.bar(df.sort_values("avg_score"),
+                         x="avg_score", y="block", orientation="h",
+                         color="avg_score",
+                         color_continuous_scale="RdYlGn",
+                         color_continuous_midpoint=0,
+                         title="Score ideológico por bloque",
+                         labels={"avg_score":"Score (-1=anti, +1=pro)","block":"Bloque"})
+            fig.add_vline(x=0, line_dash="dash", line_color="white", opacity=0.5)
+            fig.update_layout(height=350)
+            st.plotly_chart(fig, use_container_width=True)
+        with col_b:
+            fig2 = px.bar(df.sort_values("total", ascending=False),
+                          x="block", y=["pro","anti","neutral"],
+                          title="Distribución pro/anti/neutral por bloque",
+                          labels={"value":"Menciones","block":"Bloque","variable":"Posición"},
+                          color_discrete_map={"pro":"#4CAF50","anti":"#F44336","neutral":"#9E9E9E"})
+            fig2.update_layout(height=350)
+            st.plotly_chart(fig2, use_container_width=True)
+        st.subheader("Detalle por bloque")
+        st.dataframe(df[["block","total","pro_pct","anti_pct","avg_score","dominant"]].sort_values("avg_score", ascending=False),
+                     use_container_width=True)
+        return
     if tab_name == "Diversidad":
         st.header("Índice de Diversidad Informativa 📊")
         st.markdown("Mide cuántos temas **únicos** publica cada medio vs cuántos **replica** de otros.")
