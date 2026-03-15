@@ -85,3 +85,4 @@ cd /home/dietpi/narrative-radar && source env/bin/activate && python3 scripts/de
 cd /home/dietpi/narrative-radar && source env/bin/activate && python3 scripts/detect_hate.py >> /home/dietpi/narrative-radar/pipeline.log 2>&1
 cd /home/dietpi/narrative-radar && source env/bin/activate && python3 scripts/generate_metadata.py >> /home/dietpi/narrative-radar/pipeline.log 2>&1
 cd /home/dietpi/narrative-radar && git add data/processed/metadata.json && git commit -m "auto: metadata 2026-03-14 11:59" && git push >> /home/dietpi/narrative-radar/pipeline.log 2>&1
+cd /home/dietpi/narrative-radar && source env/bin/activate && python3 scripts/detect_ideology.py >> /home/dietpi/narrative-radar/pipeline.log 2>&1
