@@ -1,21 +1,16 @@
 keyword,count_now,count_base,ratio,viral_score,sources,n_sources,sample_title,detected_at
-directo,13,17,7.05,100,"okdiario, google_news_es, 20minutos, levante_emv, lavanguardia",5,"Guerra de Irán contra EEUU e Israel, en directo | Últimas noticias de Donald Trump y resumen del conflicto",2026-03-15 09:03
-última,7,11,5.87,100,"okdiario, lavanguardia, 20minutos, levante_emv",4,"Guerra de Irán contra EEUU e Israel, en directo | Últimas noticias de Donald Trump y resumen del conflicto",2026-03-15 09:03
-electoral,3,4,6.92,100,"lavanguardia, okdiario, levante_emv",3,"Última hora de las elecciones del FC Barcelona, hoy en directo: jornada electoral del Barça con Víctor Font y Joan Laporta",2026-03-15 09:03
-cuánto,4,1,36.9,100,okdiario,1,Todos los premios del Sorteo Extraordinario de la Lotería del Día del Padre 2026: cuánto ganan los números premiados,2026-03-15 09:03
-premios,4,6,6.15,100,okdiario,1,Todos los premios del Sorteo Extraordinario de la Lotería del Día del Padre 2026: cuánto ganan los números premiados,2026-03-15 09:03
-jornada,4,1,36.9,100,"20minutos, lavanguardia, okdiario, levante_emv",4,"Elecciones de Castilla y León 2026, en directo | Más de dos millones llamados a votar en una jornada con el PP favorito, pendiente del resultado de Vox, y el PSOE buscando resistir",2026-03-15 09:03
-online,3,5,5.53,100,okdiario,1,"F1 GP de China 2026 streaming en vivo gratis | Resultado de la carrera de Fórmula 1, cómo van Alonso y Sainz y última hora en directo online",2026-03-15 09:03
-dónde,5,8,5.77,100,"okdiario, heraldo_aragon",2,F1 2026 en el GP de China: dónde ver gratis online y por televisión en directo la carrera de Fórmula 1 hoy,2026-03-15 09:03
-carrera,5,9,5.12,100,"okdiario, google_news_es",2,"F1 GP de China 2026 streaming en vivo gratis | Resultado de la carrera de Fórmula 1, cómo van Alonso y Sainz y última hora en directo online",2026-03-15 09:03
-resultado,4,1,36.9,100,"okdiario, 20minutos",2,"F1 GP de China 2026 streaming en vivo gratis | Resultado de la carrera de Fórmula 1, cómo van Alonso y Sainz y última hora en directo online",2026-03-15 09:03
-gratis,3,3,9.22,100,okdiario,1,"F1 GP de China 2026 streaming en vivo gratis | Resultado de la carrera de Fórmula 1, cómo van Alonso y Sainz y última hora en directo online",2026-03-15 09:03
-streaming,3,0,5.0,100,okdiario,1,"F1 GP de China 2026 streaming en vivo gratis | Resultado de la carrera de Fórmula 1, cómo van Alonso y Sainz y última hora en directo online",2026-03-15 09:03
-fórmula,4,8,4.61,92,"okdiario, google_news_es",2,"F1 GP de China 2026 streaming en vivo gratis | Resultado de la carrera de Fórmula 1, cómo van Alonso y Sainz y última hora en directo online",2026-03-15 09:03
-predicción,3,6,4.61,92,okdiario,1,"Predicción del horóscopo para Sagitario hoy, domingo 15 de marzo de 2026",2026-03-15 09:03
-horóscopo,3,6,4.61,92,okdiario,1,"Predicción del horóscopo para Sagitario hoy, domingo 15 de marzo de 2026",2026-03-15 09:03
-china,5,15,3.07,61,"okdiario, google_news_es",2,"F1 GP de China 2026 streaming en vivo gratis | Resultado de la carrera de Fórmula 1, cómo van Alonso y Sainz y última hora en directo online",2026-03-15 09:03
-oscar,4,12,3.07,61,"okdiario, huffington_es",2,¿Cuánto dura la gala de los premios Oscar 2026 y cuál es el orden de entrega?,2026-03-15 09:03
-elecciones,5,16,2.88,57,"20minutos, lavanguardia, okdiario, levante_emv",4,"Elecciones de Castilla y León 2026, en directo | Más de dos millones llamados a votar en una jornada con el PP favorito, pendiente del resultado de Vox, y el PSOE buscando resistir",2026-03-15 09:03
-domingo,3,12,2.31,46,okdiario,1,"Predicción del horóscopo para Sagitario hoy, domingo 15 de marzo de 2026",2026-03-15 09:03
-castilla,4,16,2.31,46,"20minutos, lavanguardia, okdiario, levante_emv",4,"Elecciones de Castilla y León 2026, en directo | Más de dos millones llamados a votar en una jornada con el PP favorito, pendiente del resultado de Vox, y el PSOE buscando resistir",2026-03-15 09:03
+directo,14,25,5.6,100,"okdiario, google_news_es, elpais, 20minutos, levante_emv",5,"Elecciones Castilla y León 2026 en directo hoy | Sondeos, partidos políticos, candidatos y última hora de los resultados",2026-03-15 09:33
+última,8,16,5.0,100,"okdiario, google_news_es, lavanguardia",3,"Elecciones Castilla y León 2026 en directo hoy | Sondeos, partidos políticos, candidatos y última hora de los resultados",2026-03-15 09:33
+víctor,3,2,15.0,100,"lavanguardia, heraldo_aragon",2,"Última hora de las elecciones del FC Barcelona, hoy en directo: jornada electoral del Barça con Víctor Font y Joan Laporta",2026-03-15 09:33
+elecciones,9,20,4.5,90,"okdiario, elpais, lavanguardia, google_news_es, 20minutos",5,"Elecciones Castilla y León 2026 en directo hoy | Sondeos, partidos políticos, candidatos y última hora de los resultados",2026-03-15 09:33
+predicción,3,7,4.29,85,okdiario,1,"Predicción del horóscopo para Capricornio hoy, domingo 15 de marzo de 2026",2026-03-15 09:33
+horóscopo,3,7,4.29,85,okdiario,1,"Predicción del horóscopo para Capricornio hoy, domingo 15 de marzo de 2026",2026-03-15 09:33
+carrera,4,12,3.33,66,"google_news_es, okdiario, levante_emv",3,"Carrera GP China F1, en directo: última hora de Alonso y Sainz hoy en Shanghái, en vivo - Diario AS",2026-03-15 09:33
+israel,3,9,3.33,66,"lavanguardia, okdiario, eldiario, 20minutos",4,Fuerzas israelíes matan a dos niños y a sus padres en Cisjordania,2026-03-15 09:33
+premios,3,9,3.33,66,okdiario,1,Todos los premios del Sorteo Extraordinario de la Lotería del Día del Padre 2026: cuánto ganan los números premiados,2026-03-15 09:33
+domingo,4,13,3.08,61,"okdiario, google_news_economia",2,"Predicción del horóscopo para Capricornio hoy, domingo 15 de marzo de 2026",2026-03-15 09:33
+castilla,6,20,3.0,60,"okdiario, elpais, lavanguardia, 20minutos",4,"Elecciones Castilla y León 2026 en directo hoy | Sondeos, partidos políticos, candidatos y última hora de los resultados",2026-03-15 09:33
+fórmula,3,10,3.0,60,"okdiario, google_news_es",2,"F1 GP de China 2026 streaming en vivo gratis | Resultado de la carrera de Fórmula 1, cómo van Alonso y Sainz y última hora en directo online",2026-03-15 09:33
+dónde,3,11,2.73,54,"20minutos, okdiario, heraldo_aragon",3,Dónde se juegan las elecciones de CYL: estos son los feudos clave que podrían decidir el futuro Gobierno de la autonomía,2026-03-15 09:33
+marzo,5,22,2.27,45,"okdiario, google_news_economia, heraldo_aragon",3,"Predicción del horóscopo para Capricornio hoy, domingo 15 de marzo de 2026",2026-03-15 09:33
+china,4,18,2.22,44,"google_news_es, okdiario",2,"Carrera GP China F1, en directo: última hora de Alonso y Sainz hoy en Shanghái, en vivo - Diario AS",2026-03-15 09:33
