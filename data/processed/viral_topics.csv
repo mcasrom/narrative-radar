@@ -1,10 +1,19 @@
 keyword,count_now,count_base,ratio,viral_score,sources,n_sources,sample_title,detected_at
-resultados,5,3,14.03,100,"okdiario, elespanol, google_news_es",3,"Resultados de las elecciones autonómicas de Castilla y León 2026 en directo | Escrutinio, sondeos y ganador",2026-03-15 20:04
-lasexta,3,1,25.26,100,"google_news_internacional, google_news_es",2,"Joaquim Bosch ve ""bastante improbable"" una sanción jurídica internacional a Trump por sus acciones en Irán - LaSexta",2026-03-15 20:04
-votación,3,1,25.26,100,"lavanguardia, eldiario",2,Elecciones en Castilla y León: los colegios viven los últimos minutos de la votación con todo por definir,2026-03-15 20:04
-petróleo,3,5,5.05,100,"elmundo, elpais, elcorreo",3,"La AIE anuncia la liberación ""inmediata"" de las primeras reservas de petróleo para frenar la escalada de precios ante la guerra en Oriente Próximo",2026-03-15 20:04
-próximo,4,3,11.23,100,"elmundo, elpais, google_news_es, elpais_internacional",4,"La AIE anuncia la liberación ""inmediata"" de las primeras reservas de petróleo para frenar la escalada de precios ante la guerra en Oriente Próximo",2026-03-15 20:04
-flick,3,0,5.0,100,"lavanguardia, okdiario",2,"Elecciones en el Barcelona: Flick, Raphinha, Fermín, Olmo o Pedri votan tras el partido",2026-03-15 20:04
-oriente,4,7,4.81,96,"elmundo, elpais, google_news_es, elpais_internacional",4,"La AIE anuncia la liberación ""inmediata"" de las primeras reservas de petróleo para frenar la escalada de precios ante la guerra en Oriente Próximo",2026-03-15 20:04
-semana,3,7,3.61,72,"google_news_internacional, elpais, google_news_es",3,Segundo equipo suspendido por dopaje en una semana - Ciclismo Internacional,2026-03-15 20:04
-elecciones,10,35,2.41,48,"okdiario, elespanol, lavanguardia",3,"Resultados de las elecciones autonómicas de Castilla y León 2026 en directo | Escrutinio, sondeos y ganador",2026-03-15 20:04
+ganado,4,0,5.0,100,"20minutos, okdiario, europapress",3,Resultados de Salamanca en las elecciones de Castilla y León 2026: consulta quién ha ganado,2026-03-15 20:34
+ganaría,4,0,5.0,100,"heraldo_aragon, newtral, eldiario, expansion",4,"El PP ganaría las elecciones en Castilla y León con hasta 35 escaños, según un sondeo",2026-03-15 20:34
+laporta,4,6,5.16,100,"okdiario, elpais",2,"Elecciones a la presidencia del Barcelona hoy en directo | Cómo van, resultados y última hora de las votaciones a Laporta y Font",2026-03-15 20:34
+castilla,23,34,5.23,100,"levante_emv, elpais, 20minutos, elcorreo, heraldo_aragon",5,Última encuesta de las elecciones en Castilla y León 2026: sondeos a pie de urna,2026-03-15 20:34
+sondeos,6,1,46.42,100,"levante_emv, 20minutos, newtral, eldiario, expansion",5,Última encuesta de las elecciones en Castilla y León 2026: sondeos a pie de urna,2026-03-15 20:34
+recuento,3,0,5.0,100,"elpais, elcorreo, sur",3,"Resultados elecciones en Castilla y León 15M, en directo | Cierran las urnas y comienza el recuento con todas las miradas sobre Mañueco y la probable subida de Vox",2026-03-15 20:34
+mañueco,3,1,23.21,100,"elpais, newtral, 20minutos",3,"Resultados elecciones en Castilla y León 15M, en directo | Cierran las urnas y comienza el recuento con todas las miradas sobre Mañueco y la probable subida de Vox",2026-03-15 20:34
+consulta,5,4,9.67,100,20minutos,1,Resultados de Salamanca en las elecciones de Castilla y León 2026: consulta quién ha ganado,2026-03-15 20:34
+quién,6,4,11.61,100,"20minutos, europapress",2,Resultados de Salamanca en las elecciones de Castilla y León 2026: consulta quién ha ganado,2026-03-15 20:34
+resultados,14,6,18.05,100,"okdiario, elpais, 20minutos, levante_emv, google_news_es",5,"Elecciones a la presidencia del Barcelona hoy en directo | Cómo van, resultados y última hora de las votaciones a Laporta y Font",2026-03-15 20:34
+escaños,4,1,30.95,100,"20minutos, heraldo_aragon, europapress, expansion",4,"Así sería el reparto de escaños en Castilla y León, según los sondeos",2026-03-15 20:34
+flick,3,1,23.21,100,"okdiario, lavanguardia",2,Flick dice en rueda de prensa que su voto es secreto y aparece minutos después votando abrazado a Laporta,2026-03-15 20:34
+precios,3,1,23.21,100,"okdiario, 20minutos, elmundo",3,La AIE anuncia la liberación «inmediata» de 400 millones de barriles para frenar los precios del petróleo,2026-03-15 20:34
+elecciones,24,39,4.76,95,"okdiario, levante_emv, elpais, 20minutos, elcorreo",5,"Elecciones a la presidencia del Barcelona hoy en directo | Cómo van, resultados y última hora de las votaciones a Laporta y Font",2026-03-15 20:34
+heridos,3,6,3.87,77,"google_news_internacional, elpais, lavanguardia",3,Irak.- Cinco heridos por el impacto de cohetes contra el Aeropuerto Internacional de Bagdad - Notimérica,2026-03-15 20:34
+petróleo,3,7,3.32,66,"elcorreo, okdiario, elmundo",3,La AIE liberará «de forma inmediata» sus primeras reservas de petróleo,2026-03-15 20:34
+cuatro,3,8,2.9,58,"france24_es, 20minutos, lavanguardia",3,Ecuador inicia operaciones antinarco con apoyo de EE. UU: así regirá el toque de queda en cuatro provincias,2026-03-15 20:34
+marzo,3,9,2.58,51,"sur, google_news_es",2,Santoral del 16 de marzo de 2026: Descubre qué santos se celebran hoy,2026-03-15 20:34
