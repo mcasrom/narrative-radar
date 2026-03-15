@@ -1,14 +1,18 @@
 keyword,count_now,count_base,ratio,viral_score,sources,n_sources,sample_title,detected_at
-barcelona,7,14,5.74,100,"okdiario, google_news_es, lavanguardia",3,"Barcelona – Sevilla, en directo | Dónde ver online gratis, pronóstico y última hora del partido de la Liga en vivo hoy",2026-03-15 15:34
-sevilla,7,6,13.4,100,"okdiario, google_news_es, 20minutos, lavanguardia",4,"Barcelona – Sevilla, en directo | Dónde ver online gratis, pronóstico y última hora del partido de la Liga en vivo hoy",2026-03-15 15:34
-partido,5,5,11.48,100,"okdiario, 20minutos, elcorreo, lavanguardia",4,"Barcelona – Sevilla, en directo | Dónde ver online gratis, pronóstico y última hora del partido de la Liga en vivo hoy",2026-03-15 15:34
-vídeo,3,0,5.0,100,"newtral, elcorreo, google_news_internacional",3,Este vídeo de edificios reducidos a escombros y coches destruidos no muestra un ataque iraní reciente contra Tel Aviv,2026-03-15 15:34
-israelí,3,3,11.48,100,"eldiario, elpais",2,La policía israelí asesina a tiros a dos niños palestinos y a sus padres en Cisjordania,2026-03-15 15:34
-tiros,3,1,34.45,100,"eldiario, elpais",2,La policía israelí asesina a tiros a dos niños palestinos y a sus padres en Cisjordania,2026-03-15 15:34
-cisjordania,3,3,11.48,100,"eldiario, elpais",2,La policía israelí asesina a tiros a dos niños palestinos y a sus padres en Cisjordania,2026-03-15 15:34
-falta,3,2,17.22,100,"huffington_es, heraldo_aragon, elcorreo",3,"Danny Orbach, historiador militar: &quot;Para recuperar el uranio iraní harían falta miles de soldados durante varios días; la última vez que EEUU intentó algo así en Irán murieron ocho militares americanos&quot;",2026-03-15 15:34
-favor,3,0,5.0,100,okdiario,1,Un ministro del Gobierno de Sánchez vota a favor de Laporta en las elecciones del Barcelona,2026-03-15 15:34
-hijos,3,6,5.74,100,"20minutos, elpais",2,"Los hijos de Gemma Cuervo, rotos en el tanatorio, la despiden y dan la causa de su muerte: ""Se la ha llevado""",2026-03-15 15:34
-menos,3,7,4.92,98,"20minutos, huffington_es, europapress",3,"Israel confirma que la guerra se alargará, al menos, tres semanas más: ""Contamos con planes más ambiciosos y miles de objetivos""",2026-03-15 15:34
-laporta,3,9,3.83,76,okdiario,1,Un ministro del Gobierno de Sánchez vota a favor de Laporta en las elecciones del Barcelona,2026-03-15 15:34
-contra,5,23,2.5,49,"levante_emv, newtral, okdiario, elcorreo, europapress",5,"EEUU recupera el avión ""matatanques"" para sus ataques contra Irán",2026-03-15 15:34
+detenido,3,6,6.71,100,"heraldo_aragon, elpais, europapress",3,Detenido un hombre por el presunto asesinato de su pareja en Cantabria,2026-03-15 16:03
+hombre,6,3,26.83,100,"heraldo_aragon, elpais, elcorreo, elmundo, europapress",5,Detenido un hombre por el presunto asesinato de su pareja en Cantabria,2026-03-15 16:03
+tensión,3,1,40.25,100,"google_news_es, elcorreo, google_news_economia",3,Un 44% de empresarios españoles optan por cambiar su estrategia de crecimiento ante la tensión geopolítica - El Diario Vasco,2026-03-15 16:03
+crecimiento,3,1,40.25,100,"google_news_es, elcorreo, google_news_economia",3,Un 44% de empresarios españoles optan por cambiar su estrategia de crecimiento ante la tensión geopolítica - El Diario Vasco,2026-03-15 16:03
+estrategia,3,4,10.06,100,"google_news_es, elcorreo, google_news_economia",3,Un 44% de empresarios españoles optan por cambiar su estrategia de crecimiento ante la tensión geopolítica - El Diario Vasco,2026-03-15 16:03
+cambiar,3,3,13.42,100,"google_news_es, elcorreo, google_news_economia",3,Un 44% de empresarios españoles optan por cambiar su estrategia de crecimiento ante la tensión geopolítica - El Diario Vasco,2026-03-15 16:03
+optan,3,0,5.0,100,"google_news_es, elcorreo, google_news_economia",3,Un 44% de empresarios españoles optan por cambiar su estrategia de crecimiento ante la tensión geopolítica - El Diario Vasco,2026-03-15 16:03
+empresarios,3,7,5.75,100,"google_news_es, elcorreo, google_news_economia",3,Un 44% de empresarios españoles optan por cambiar su estrategia de crecimiento ante la tensión geopolítica - El Diario Vasco,2026-03-15 16:03
+sevilla,4,10,5.37,100,"okdiario, google_news_es, lavanguardia",3,"Barcelona – Sevilla, en directo | Dónde ver online gratis, pronóstico y última hora del partido de la Liga en vivo hoy",2026-03-15 16:03
+pedreña,3,0,5.0,100,"elpais, elmundo, europapress",3,Detenido un hombre por el presunto asesinato de su pareja en Pedreña (Cantabria),2026-03-15 16:03
+cantabria,4,0,5.0,100,"heraldo_aragon, elpais, elcorreo, elmundo",4,Detenido un hombre por el presunto asesinato de su pareja en Cantabria,2026-03-15 16:03
+pareja,5,2,33.54,100,"heraldo_aragon, elpais, elcorreo, elmundo, europapress",5,Detenido un hombre por el presunto asesinato de su pareja en Cantabria,2026-03-15 16:03
+asesinato,4,0,5.0,100,"heraldo_aragon, elpais, elcorreo, europapress",4,Detenido un hombre por el presunto asesinato de su pareja en Cantabria,2026-03-15 16:03
+presunto,4,2,26.83,100,"heraldo_aragon, elpais, elcorreo, europapress",4,Detenido un hombre por el presunto asesinato de su pareja en Cantabria,2026-03-15 16:03
+geopolítica,3,3,13.42,100,"google_news_es, elcorreo, google_news_economia",3,Un 44% de empresarios españoles optan por cambiar su estrategia de crecimiento ante la tensión geopolítica - El Diario Vasco,2026-03-15 16:03
+españoles,3,9,4.47,89,"google_news_es, elcorreo, google_news_economia",3,Un 44% de empresarios españoles optan por cambiar su estrategia de crecimiento ante la tensión geopolítica - El Diario Vasco,2026-03-15 16:03
+fallas,4,22,2.44,48,levante_emv,1,Maestro Gozalbo busca conquistar un triunfo en Infantil que se le resiste dentro de las Fallas de València,2026-03-15 16:03
