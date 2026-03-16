@@ -1,16 +1,11 @@
 keyword,count_now,count_base,ratio,viral_score,sources,n_sources,sample_title,detected_at
-madigan,4,0,5.0,100,"bbc_mundo, elmundo, lavanguardia, elpais",4,Amy Madigan gana el primer premio Oscar 2026 de la noche por su papel en Weapons,2026-03-16 01:04
-sinner,5,3,10.53,100,"elmundo, okdiario, elpais",3,Sinner frena a Medvedev y conquista su primer Indian Wells,2026-03-16 01:04
-medvedev,4,2,12.64,100,"elmundo, elpais, okdiario",3,Sinner frena a Medvedev y conquista su primer Indian Wells,2026-03-16 01:04
-indian,4,4,6.32,100,"elmundo, okdiario, elpais",3,Sinner frena a Medvedev y conquista su primer Indian Wells,2026-03-16 01:04
-wells,4,4,6.32,100,"elmundo, okdiario, elpais",3,Sinner frena a Medvedev y conquista su primer Indian Wells,2026-03-16 01:04
-medio,4,5,5.05,100,"france24_es, heraldo_aragon, 20minutos, infolibre",4,🔴Siga en directo: Bardem carga en los Óscar contra el conflicto en Medio Oriente,2026-03-16 01:04
-estrategia,4,2,12.64,100,"elmundo, google_news_economia, google_news_es",3,"El 'boss' Martínez, outsider del sanchismo, insufla oxígeno a Sánchez y afianza la estrategia de aglutinar el voto de izquierdas: ""El 'no a la guerra' nos ha venido bien""",2026-03-16 01:04
-cinco,3,3,6.32,100,"expansion, elpais, huffington_es",3,"Joan Laporta, reelegido presidente del FC Barcelona para los próximos cinco años",2026-03-16 01:04
-calle,8,0,5.0,100,"elpais, elmundo, eldiario, elconfidencial",4,"Los resultados de las elecciones en Castilla y León, calle a calle",2026-03-16 01:04
-techo,3,4,4.74,94,"elmundo, eldiario",2,La nueva victoria del PP aleja al PSOE e impone su techo a Abascal,2026-03-16 01:04
-bardem,4,6,4.21,84,"france24_es, heraldo_aragon, elpais, levante_emv",4,🔴Siga en directo: Bardem carga en los Óscar contra el conflicto en Medio Oriente,2026-03-16 01:04
-javier,3,5,3.79,75,"heraldo_aragon, elpais, levante_emv",3,Javier Bardem critica el conflicto en Oriente Medio y lo tacha de &quot;guerra ilegal&quot;,2026-03-16 01:04
-primer,4,9,2.81,56,"bbc_mundo, elmundo, elpais, google_news_internacional, okdiario",5,Amy Madigan gana el primer premio Oscar 2026 de la noche por su papel en Weapons,2026-03-16 01:04
-premios,9,23,2.47,49,"bbc_mundo, elpais, 20minutos, huffington_es, levante_emv",5,2 premios Oscar artísticos para el Frankenstein del director mexicano Guillermo del Toro,2026-03-16 01:04
-oriente,3,8,2.37,47,"france24_es, heraldo_aragon, 20minutos",3,🔴Siga en directo: Bardem carga en los Óscar contra el conflicto en Medio Oriente,2026-03-16 01:04
+mejor,5,13,6.52,100,"bbc_mundo, elpais, france24_es, lavanguardia",4,Sean Penn gana el premio a mejor actor de reparto pero no asiste a la ceremonia; sigue la entrega de los Oscar,2026-03-16 01:34
+actor,3,0,5.0,100,"bbc_mundo, elpais, france24_es",3,Sean Penn gana el premio a mejor actor de reparto pero no asiste a la ceremonia; sigue la entrega de los Oscar,2026-03-16 01:34
+reparto,3,4,12.72,100,"bbc_mundo, elpais, france24_es",3,Sean Penn gana el premio a mejor actor de reparto pero no asiste a la ceremonia; sigue la entrega de los Oscar,2026-03-16 01:34
+óscar,3,3,16.96,100,"france24_es, heraldo_aragon",2,Sean Penn gana el Óscar al mejor actor de reparto por 'One battle after another',2026-03-16 01:34
+sinner,4,7,9.69,100,"elpais, levante_emv, google_news_es, elmundo",4,Así te hemos contado la victoria de Sinner en la final de Indian Wells ante Medvedev,2026-03-16 01:34
+indian,4,7,9.69,100,"elpais, levante_emv, google_news_es, elmundo",4,Así te hemos contado la victoria de Sinner en la final de Indian Wells ante Medvedev,2026-03-16 01:34
+wells,4,7,9.69,100,"elpais, levante_emv, google_news_es, elmundo",4,Así te hemos contado la victoria de Sinner en la final de Indian Wells ante Medvedev,2026-03-16 01:34
+bardem,3,8,6.36,100,"france24_es, heraldo_aragon, lavanguardia",3,🔴Siga en directo: Bardem carga en los Óscar contra el conflicto en Medio Oriente,2026-03-16 01:34
+premios,7,29,4.09,81,"bbc_mundo, elpais, 20minutos",3,2 premios Oscar artísticos para el Frankenstein del director mexicano Guillermo del Toro,2026-03-16 01:34
+oscar,12,57,3.57,71,"bbc_mundo, elpais, 20minutos, lavanguardia",4,Sean Penn gana el premio a mejor actor de reparto pero no asiste a la ceremonia; sigue la entrega de los Oscar,2026-03-16 01:34
