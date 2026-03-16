@@ -1,22 +1,27 @@
 keyword,count_now,count_base,ratio,viral_score,sources,n_sources,sample_title,detected_at
-medio,5,11,5.5,100,"levante_emv, google_news_internacional, huffington_es, elcorreo",4,"Cuba sufre un nuevo apagón nacional, el sexto en año y medio",2026-03-16 19:37
-afirma,3,4,9.08,100,"google_news_internacional, elcorreo, okdiario",3,"Última hora de la guerra en Irán y los ataques de EE.UU. e Israel, en directo | Trump afirma que Mojtaba Jamenei podría estar muerto - La Vanguardia",2026-03-16 19:37
-lunes,3,4,9.08,100,okdiario,1,"Comprobar La Primitiva: resultado y número premiado hoy, lunes 16 de marzo de 2026",2026-03-16 19:37
-comprobar,3,0,5.0,100,okdiario,1,"Comprobar La Primitiva: resultado y número premiado hoy, lunes 16 de marzo de 2026",2026-03-16 19:37
-miguel,3,3,12.11,100,"levante_emv, huffington_es",2,Abren juicio contra el humorista Héctor de Miguel 'Quequé' por acoso a la presidenta de Abogados Cristianos,2026-03-16 19:37
-final,3,6,6.05,100,"elcorreo, okdiario, lavanguardia",3,La Cultural de Durango es ambicioso y aspira a más en la recta final de liga,2026-03-16 19:37
-ataque,4,5,9.68,100,"google_news_internacional, elpais, levante_emv, elespanol",4,"Última hora de la guerra en Irán y los ataques de EE.UU. e Israel, en directo | Trump afirma que Mojtaba Jamenei podría estar muerto - La Vanguardia",2026-03-16 19:37
-francia,4,5,9.68,100,"huffington_es, google_news_economia, okdiario, lavanguardia",4,"La UE cambia las normas ante la guerra de Irán: Grecia limita el margen de las gasolineras a 12 céntimos, Francia multa al 5% de las inspeccionadas y España sopesa medidas",2026-03-16 19:37
-prepara,3,2,18.16,100,"el_confidencial_tech, huffington_es",2,Un cargamento de antimateria se prepara para salir a la calle. Y tiene en vilo a la ciencia,2026-03-16 19:37
-leyen,3,1,36.32,100,"sur, eldiario, expansion",3,La leyenda de Eurovisión Johnny Logan hace parada en Málaga,2026-03-16 19:37
-horas,4,10,4.84,96,"levante_emv, europapress, elcorreo, heraldo_aragon",4,Un informe técnico sobre el accidente de Adamuz apunta a una caída de tensión compatible con la rotura de la vía 22 horas antes,2026-03-16 19:37
-resultado,3,8,4.54,90,"okdiario, huffington_es, google_news_politica",3,"Comprobar La Primitiva: resultado y número premiado hoy, lunes 16 de marzo de 2026",2026-03-16 19:37
-europa,3,9,4.04,80,"okdiario, elpais, europapress, huffington_es, elcorreo",5,"Cuando atacan una sinagoga, atacan a Europa",2026-03-16 19:37
-antes,3,10,3.63,72,"levante_emv, europapress",2,Un informe técnico sobre el accidente de Adamuz apunta a una caída de tensión compatible con la rotura de la vía 22 horas antes,2026-03-16 19:37
-historia,4,14,3.46,69,"eldiario, france24_es, elcorreo, sur",4,San Patricio no solo se celebra en Irlanda: esta la historia de su fiesta arraigada en España,2026-03-16 19:37
-trump,10,46,2.63,52,"google_news_internacional, elpais, levante_emv, elcorreo, okdiario",5,"Última hora de la guerra en Irán y los ataques de EE.UU. e Israel, en directo | Trump afirma que Mojtaba Jamenei podría estar muerto - La Vanguardia",2026-03-16 19:37
-marzo,4,19,2.55,50,"levante_emv, okdiario",2,Feria de Fallas del 16 de marzo,2026-03-16 19:37
-estrecho,5,24,2.52,50,"levante_emv, elcorreo, elpais, huffington_es",4,Trump arremete contra aliados por desatender sus llamadas a proteger el estrecho de Ormuz a la vez que dice: “No necesitamos a nadie”,2026-03-16 19:37
-guerra,12,62,2.34,46,"huffington_es, google_news_economia, google_news_internacional, eldiario, elpais",5,"La UE cambia las normas ante la guerra de Irán: Grecia limita el margen de las gasolineras a 12 céntimos, Francia multa al 5% de las inspeccionadas y España sopesa medidas",2026-03-16 19:37
-última,4,23,2.11,42,"google_news_internacional, elpais, elcorreo",3,"Última hora de la guerra en Irán y los ataques de EE.UU. e Israel, en directo | Trump afirma que Mojtaba Jamenei podría estar muerto - La Vanguardia",2026-03-16 19:37
-ormuz,6,35,2.08,41,"levante_emv, elcorreo, okdiario, elpais, huffington_es",5,Trump arremete contra aliados por desatender sus llamadas a proteger el estrecho de Ormuz a la vez que dice: “No necesitamos a nadie”,2026-03-16 19:37
+sistema,5,3,20.69,100,"europapress, okdiario, elpais, france24_es, google_news_es",5,Cuba sufre un apagón total del sistema eléctrico,2026-03-16 20:04
+total,5,2,31.04,100,"europapress, okdiario, elespanol, france24_es, google_news_es",5,Cuba sufre un apagón total del sistema eléctrico,2026-03-16 20:04
+laporta,3,6,6.21,100,"levante_emv, okdiario",2,"Los 10 retos de Laporta en su último mandato: acabar el Espai Barça, rehacer puentes con Messi, el 'fair play' financiero...",2026-03-16 20:04
+afirma,3,5,7.45,100,"levante_emv, google_news_internacional, elcorreo",3,Trump afirma que Mojtaba Jameneí podría estar muerto y que no sabe quién gobierna Irán,2026-03-16 20:04
+medio,6,12,6.21,100,"20minutos, elespanol, levante_emv, elcorreo, france24_es",5,Cuba sufre un nuevo apagón nacional: es el sexto en año y medio,2026-03-16 20:04
+sexto,4,0,5.0,100,"20minutos, levante_emv, france24_es, google_news_es",4,Cuba sufre un nuevo apagón nacional: es el sexto en año y medio,2026-03-16 20:04
+nacional,4,2,24.83,100,"google_news_internacional, 20minutos, levante_emv, france24_es, google_news_es",5,Apertura del II Congreso Internacional de Cooperación al Desarrollo. Gabinete de la rectora - ua.es,2026-03-16 20:04
+bajas,3,0,5.0,100,"elpais, elcorreo, eldiario",3,Tubos Reunidos logra cubrir el ERE de 301 despidos con bajas voluntarias,2026-03-16 20:04
+queda,4,7,7.09,100,"levante_emv, okdiario, france24_es, elpais",4,"Una valenciana con esclerosis pide más control sobre los petardos: ""puedo quedarme inmovilizada durante horas""",2026-03-16 20:04
+quién,4,3,16.55,100,"levante_emv, okdiario, heraldo_aragon",3,El tecnooligarca libertario Peter Thiel promete revelar en los próximos días quién es el Anticristo,2026-03-16 20:04
+eléctrico,5,2,31.04,100,"europapress, okdiario, elpais, france24_es, google_news_es",5,Cuba sufre un apagón total del sistema eléctrico,2026-03-16 20:04
+francia,3,6,6.21,100,"huffington_es, google_news_economia, okdiario",3,"La UE cambia las normas ante la guerra de Irán: Grecia limita el margen de las gasolineras a 12 céntimos, Francia multa al 5% de las inspeccionadas y España sopesa medidas",2026-03-16 20:04
+apagón,7,1,86.91,100,"elcorreo, europapress, 20minutos, elespanol, levante_emv",5,Cuba sufre un nuevo apagón en plena crisis energética,2026-03-16 20:04
+sufre,4,1,49.66,100,"elcorreo, europapress, 20minutos, levante_emv",4,Cuba sufre un nuevo apagón en plena crisis energética,2026-03-16 20:04
+muerto,3,1,37.25,100,"google_news_internacional, levante_emv, elpais",3,"La guerra en Irán y los ataques de EE.UU. e Israel hoy, en directo | Trump dice que no sabe si el líder supremo de Irán “está muerto o no” - La Vanguardia",2026-03-16 20:04
+supremo,3,4,9.31,100,"google_news_internacional, elpais",2,"La guerra en Irán y los ataques de EE.UU. e Israel hoy, en directo | Trump dice que no sabe si el líder supremo de Irán “está muerto o no” - La Vanguardia",2026-03-16 20:04
+líder,3,5,7.45,100,"google_news_internacional, elpais",2,"La guerra en Irán y los ataques de EE.UU. e Israel hoy, en directo | Trump dice que no sabe si el líder supremo de Irán “está muerto o no” - La Vanguardia",2026-03-16 20:04
+denuncia,3,8,4.66,93,"elpais, infolibre, eldiario",3,El papa León XIV se reúne 40 minutos con el autor de un libro de investigación y denuncia sobre el Opus Dei,2026-03-16 20:04
+horas,4,11,4.51,90,"levante_emv, europapress, elcorreo",3,"Una valenciana con esclerosis pide más control sobre los petardos: ""puedo quedarme inmovilizada durante horas""",2026-03-16 20:04
+última,5,21,2.96,59,"google_news_internacional, elcorreo, elpais",3,"Última hora del ataque de Estados Unidos e Israel contra Irán, en directo | Trump: “No sabemos si el líder supremo de Irán está muerto” - EL PAÍS",2026-03-16 20:04
+trump,11,47,2.91,58,"google_news_internacional, elmundo, levante_emv, france24_es, elpais",5,"La guerra en Irán y los ataques de EE.UU. e Israel hoy, en directo | Trump dice que no sabe si el líder supremo de Irán “está muerto o no” - La Vanguardia",2026-03-16 20:04
+mejor,3,13,2.87,57,"okdiario, levante_emv, elpais",3,Apple presenta los AirPods Max 2 con mejor sonido y nuevas funciones inteligentes,2026-03-16 20:04
+directo,6,27,2.76,55,"google_news_internacional, levante_emv, elpais",3,"La guerra en Irán y los ataques de EE.UU. e Israel hoy, en directo | Trump dice que no sabe si el líder supremo de Irán “está muerto o no” - La Vanguardia",2026-03-16 20:04
+estrecho,5,25,2.48,49,"levante_emv, elmundo, france24_es, elcorreo",4,¿Qué es la operación Aspides de la UE? ¿Puede ayudar a reabrir el tráfico naval en el estrecho de Ormuz?,2026-03-16 20:04
+guerra,10,62,2.0,40,"google_news_internacional, elmundo, elcorreo, huffington_es, google_news_economia",5,"La guerra en Irán y los ataques de EE.UU. e Israel hoy, en directo | Trump dice que no sabe si el líder supremo de Irán “está muerto o no” - La Vanguardia",2026-03-16 20:04
+ormuz,6,37,2.01,40,"levante_emv, elmundo, france24_es, elcorreo, okdiario",5,¿Qué es la operación Aspides de la UE? ¿Puede ayudar a reabrir el tráfico naval en el estrecho de Ormuz?,2026-03-16 20:04
