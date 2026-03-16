@@ -1,20 +1,16 @@
 keyword,count_now,count_base,ratio,viral_score,sources,n_sources,sample_title,detected_at
-medvedev,3,2,8.23,100,"elpais, okdiario",2,"Medvedev - Sinner, en directo | Sinner gana su primer Indian Wells tras superar a Medvedev en dos ‘tie-break’ (6-7(6) y 6-7(4)",2026-03-16 00:34
-sinner,3,3,5.49,100,"elpais, okdiario",2,"Medvedev - Sinner, en directo | Sinner gana su primer Indian Wells tras superar a Medvedev en dos ‘tie-break’ (6-7(6) y 6-7(4)",2026-03-16 00:34
-miranda,3,0,5.0,100,elcorreo,1,Miranda,2026-03-16 00:34
-mucho,3,2,8.23,100,"levante_emv, huffington_es",2,"Oliver Laxe, director de 'Sirat', llega a la gala de los Oscar: ""Ahora tengo mucho peligro""",2026-03-16 00:34
-pedro,3,2,8.23,100,"sur, google_news_internacional, 20minutos",3,El Ayuntamiento de Marbella pone en marcha un plan para las zonas verdes del bulevar y el sur de San Pedro,2026-03-16 00:34
-techo,3,2,8.23,100,"eldiario, elmundo, infolibre",3,"Gana el PP, se recupera el PSOE, Vox toca techo",2026-03-16 00:34
-euros,3,3,5.49,100,"elcorreo, sur",2,Hacienda hace caja con la subida del diésel y la gasolina apuntando a los dos euros por litro,2026-03-16 00:34
-gasolina,3,1,16.46,100,"elcorreo, sur",2,Hacienda hace caja con la subida del diésel y la gasolina apuntando a los dos euros por litro,2026-03-16 00:34
-diésel,3,0,5.0,100,"elcorreo, sur",2,Hacienda hace caja con la subida del diésel y la gasolina apuntando a los dos euros por litro,2026-03-16 00:34
-hacienda,3,0,5.0,100,"elcorreo, 20minutos, sur",3,Hacienda hace caja con la subida del diésel y la gasolina apuntando a los dos euros por litro,2026-03-16 00:34
-bardem,5,0,5.0,100,"levante_emv, 20minutos, huffington_es, eldiario",4,Javier Bardem luce el lema 'No a la guerra' en la alfombra roja de los premios Oscar,2026-03-16 00:34
-javier,4,1,21.95,100,"levante_emv, 20minutos, huffington_es, eldiario",4,Javier Bardem luce el lema 'No a la guerra' en la alfombra roja de los premios Oscar,2026-03-16 00:34
-calle,4,1,21.95,100,"eldiario, elconfidencial",2,"MAPA | ¿Qué han votado tus vecinos? Los resultados de las elecciones en Castilla y León 2026, calle a calle",2026-03-16 00:34
-estrategia,3,2,8.23,100,"elmundo, google_news_economia, google_news_es",3,Mañueco apuntala la estrategia de Feijóo y da un paso crucial para el futuro de la derecha,2026-03-16 00:34
-alternativa,4,1,21.95,100,"20minutos, elcorreo, elmundo_espana, levante_emv",4,"Pedro Sánchez, tras las elecciones en Castilla y León: ""Nuestro partido es la única alternativa para el cambio en Castilla y León""",2026-03-16 00:34
-martínez,5,6,4.57,91,"elpais, 20minutos, europapress, levante_emv, huffington_es",5,Jan Martínez Ahrens: “A Vox le ha afectado su negativa a entrar en los Gobiernos”,2026-03-16 00:34
-sánchez,5,7,3.92,78,"elcorreo, elespanol, google_news_internacional, 20minutos",4,Quique Sánchez Flores verticaliza al Alavés para romper con la 'era Coudet',2026-03-16 00:34
-puede,3,6,2.74,54,"sur, expansion, huffington_es",3,La ruta de la Serranía de Ronda que recuerda al Torcal que ya no se puede completar,2026-03-16 00:34
-feijóo,3,6,2.74,54,"elmundo, infolibre, 20minutos",3,Mañueco apuntala la estrategia de Feijóo y da un paso crucial para el futuro de la derecha,2026-03-16 00:34
+madigan,4,0,5.0,100,"bbc_mundo, elmundo, lavanguardia, elpais",4,Amy Madigan gana el primer premio Oscar 2026 de la noche por su papel en Weapons,2026-03-16 01:04
+sinner,5,3,10.53,100,"elmundo, okdiario, elpais",3,Sinner frena a Medvedev y conquista su primer Indian Wells,2026-03-16 01:04
+medvedev,4,2,12.64,100,"elmundo, elpais, okdiario",3,Sinner frena a Medvedev y conquista su primer Indian Wells,2026-03-16 01:04
+indian,4,4,6.32,100,"elmundo, okdiario, elpais",3,Sinner frena a Medvedev y conquista su primer Indian Wells,2026-03-16 01:04
+wells,4,4,6.32,100,"elmundo, okdiario, elpais",3,Sinner frena a Medvedev y conquista su primer Indian Wells,2026-03-16 01:04
+medio,4,5,5.05,100,"france24_es, heraldo_aragon, 20minutos, infolibre",4,🔴Siga en directo: Bardem carga en los Óscar contra el conflicto en Medio Oriente,2026-03-16 01:04
+estrategia,4,2,12.64,100,"elmundo, google_news_economia, google_news_es",3,"El 'boss' Martínez, outsider del sanchismo, insufla oxígeno a Sánchez y afianza la estrategia de aglutinar el voto de izquierdas: ""El 'no a la guerra' nos ha venido bien""",2026-03-16 01:04
+cinco,3,3,6.32,100,"expansion, elpais, huffington_es",3,"Joan Laporta, reelegido presidente del FC Barcelona para los próximos cinco años",2026-03-16 01:04
+calle,8,0,5.0,100,"elpais, elmundo, eldiario, elconfidencial",4,"Los resultados de las elecciones en Castilla y León, calle a calle",2026-03-16 01:04
+techo,3,4,4.74,94,"elmundo, eldiario",2,La nueva victoria del PP aleja al PSOE e impone su techo a Abascal,2026-03-16 01:04
+bardem,4,6,4.21,84,"france24_es, heraldo_aragon, elpais, levante_emv",4,🔴Siga en directo: Bardem carga en los Óscar contra el conflicto en Medio Oriente,2026-03-16 01:04
+javier,3,5,3.79,75,"heraldo_aragon, elpais, levante_emv",3,Javier Bardem critica el conflicto en Oriente Medio y lo tacha de &quot;guerra ilegal&quot;,2026-03-16 01:04
+primer,4,9,2.81,56,"bbc_mundo, elmundo, elpais, google_news_internacional, okdiario",5,Amy Madigan gana el primer premio Oscar 2026 de la noche por su papel en Weapons,2026-03-16 01:04
+premios,9,23,2.47,49,"bbc_mundo, elpais, 20minutos, huffington_es, levante_emv",5,2 premios Oscar artísticos para el Frankenstein del director mexicano Guillermo del Toro,2026-03-16 01:04
+oriente,3,8,2.37,47,"france24_es, heraldo_aragon, 20minutos",3,🔴Siga en directo: Bardem carga en los Óscar contra el conflicto en Medio Oriente,2026-03-16 01:04
