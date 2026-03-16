@@ -1,24 +1,25 @@
 keyword,count_now,count_base,ratio,viral_score,sources,n_sources,sample_title,detected_at
-horas,4,3,8.7,100,"okdiario, expansion, google_news_es",3,Los expertos instan a cerrar las cortinas de casa a partir de las 19:45 horas: la razón que debes saber,2026-03-16 08:04
-líbano,3,1,19.57,100,"elcorreo, google_news_internacional, elpais",3,Última hora de la guerra en Oriente Medio | El ejército israelí lanza una ofensiva terrestre en el sur de Líbano,2026-03-16 08:04
-aemet,9,1,58.72,100,"levante_emv, okdiario",2,"Enero y febrero, los meses más lluviosos en casi medio siglo en España, según AEMET",2026-03-16 08:04
-prevé,4,0,5.0,100,okdiario,1,Zaragoza: AEMET prevé cielo poco nuboso y aumento de temperaturas con viento moderado del noroeste,2026-03-16 08:04
-predicción,3,3,6.52,100,okdiario,1,"Predicción del horóscopo para Virgo hoy, lunes 16 de marzo de 2026",2026-03-16 08:04
-ceremonia,3,2,9.79,100,"levante_emv, lavanguardia",2,"Sean Penn gana el Oscar a mejor actor de reparto, pero no acude a la ceremonia: “No pudo estar aquí esta noche, o no quiso”",2026-03-16 08:04
-teherán,3,1,19.57,100,google_news_internacional,1,Incendio en el aeropuerto internacional de Mehrabad en Teherán - Hoy,2026-03-16 08:04
-terrestre,3,1,19.57,100,"elcorreo, google_news_internacional, elpais",3,Última hora de la guerra en Oriente Medio | El ejército israelí lanza una ofensiva terrestre en el sur de Líbano,2026-03-16 08:04
-resultados,4,1,26.1,100,"huffington_es, efe, lavanguardia",3,Javier Escartín analiza los resultados de las elecciones autonómicas de Castilla y León,2026-03-16 08:04
-mehrabad,3,0,5.0,100,google_news_internacional,1,Incendio en el aeropuerto internacional de Mehrabad en Teherán - Hoy,2026-03-16 08:04
-escaños,3,1,19.57,100,"elcorreo, lavanguardia",2,De Castilla y León al Congreso: PP y PSOE perderían escaños en beneficio de Vox,2026-03-16 08:04
-incendio,3,4,4.89,97,google_news_internacional,1,Incendio en el aeropuerto internacional de Mehrabad en Teherán - Hoy,2026-03-16 08:04
-israel,3,4,4.89,97,"elcorreo, google_news_internacional, elpais",3,Última hora de la guerra en Oriente Medio | El ejército israelí lanza una ofensiva terrestre en el sur de Líbano,2026-03-16 08:04
-horóscopo,3,4,4.89,97,okdiario,1,"Predicción del horóscopo para Virgo hoy, lunes 16 de marzo de 2026",2026-03-16 08:04
-aeropuerto,3,4,4.89,97,google_news_internacional,1,Incendio en el aeropuerto internacional de Mehrabad en Teherán - Hoy,2026-03-16 08:04
-directo,5,7,4.66,93,"google_news_internacional, elpais, lavanguardia",3,"Última hora de la guerra en Irán y los ataques de EE.UU. e Israel, en directo | Israel anuncia una operación terrestre “limitada” contra posiciones de Hizbulah en el sur de Líbano - La Vanguardia",2026-03-16 08:04
-última,3,5,3.91,78,"elcorreo, google_news_internacional, elpais",3,Última hora de la guerra en Oriente Medio | El ejército israelí lanza una ofensiva terrestre en el sur de Líbano,2026-03-16 08:04
-castilla,6,10,3.91,78,"huffington_es, elcorreo, expansion, okdiario, lavanguardia",5,Javier Escartín analiza los resultados de las elecciones autonómicas de Castilla y León,2026-03-16 08:04
-ganadores,4,7,3.73,74,"heraldo_aragon, levante_emv, lavanguardia",3,Listado de ganadores de los Óscar 2026,2026-03-16 08:04
-millones,3,7,2.8,55,"okdiario, 20minutos",2,Los paleontólogos se tiran de los pelos: subastan un importante esqueleto de dinosaurio valorado en 5 millones de €,2026-03-16 08:04
-elecciones,4,10,2.61,52,"huffington_es, elespanol, lavanguardia",3,Javier Escartín analiza los resultados de las elecciones autonómicas de Castilla y León,2026-03-16 08:04
-marzo,4,10,2.61,52,"okdiario, levante_emv",2,"Predicción del horóscopo para Virgo hoy, lunes 16 de marzo de 2026",2026-03-16 08:04
-lunes,3,8,2.45,48,okdiario,1,"Predicción del horóscopo para Virgo hoy, lunes 16 de marzo de 2026",2026-03-16 08:04
+fiscalía,3,2,9.0,100,"elconfidencial, eldiario, elespanol",3,La Fiscalía pide archivar la querella contra la jueza de la dana y su marido al no ver delito,2026-03-16 08:34
+líbano,3,2,9.0,100,"google_news_internacional, elcorreo",2,"Guerra de Irán y ataques de EE.UU. e Israel, en directo | Israel anuncia una operación terrestre “limitada” contra posiciones de Hizbulah en el sur de Líbano - La Vanguardia",2026-03-16 08:34
+medio,3,3,6.0,100,"google_news_internacional, okdiario, elcorreo, levante_emv",4,Un ranking de excelencia en medios - Anuncios.com,2026-03-16 08:34
+falla,3,0,5.0,100,levante_emv,1,La falla de L’Albufera de Catarroja se rehace contrarreloj tras la fallida del artista Pepe Gómez,2026-03-16 08:34
+avanzada,3,0,5.0,100,elcorreo,1,Colapso en el Txorierri y La Avanzada por un accidente múltiple en Erandio,2026-03-16 08:34
+jueza,4,0,5.0,100,"elconfidencial, eldiario, elcorreo, elespanol",4,La Fiscalía pide archivar la querella contra la jueza de la dana y su marido al no ver delito,2026-03-16 08:34
+querella,3,0,5.0,100,"elconfidencial, eldiario, elespanol",3,La Fiscalía pide archivar la querella contra la jueza de la dana y su marido al no ver delito,2026-03-16 08:34
+viento,3,1,18.0,100,"okdiario, eldiario",2,Zaragoza: AEMET prevé cielo poco nuboso y aumento de temperaturas con viento moderado del noroeste,2026-03-16 08:34
+terrestre,3,2,9.0,100,"google_news_internacional, elcorreo",2,"Guerra de Irán y ataques de EE.UU. e Israel, en directo | Israel anuncia una operación terrestre “limitada” contra posiciones de Hizbulah en el sur de Líbano - La Vanguardia",2026-03-16 08:34
+israel,4,5,4.8,96,"google_news_internacional, elcorreo",2,"Guerra de Irán y ataques de EE.UU. e Israel, en directo | Israel anuncia una operación terrestre “limitada” contra posiciones de Hizbulah en el sur de Líbano - La Vanguardia",2026-03-16 08:34
+fallas,3,4,4.5,90,levante_emv,1,Verbenas y tardeos de Fallas en València: listado con todas las propuestas de hoy lunes 16 de marzo,2026-03-16 08:34
+última,4,6,4.0,80,"lavanguardia, okdiario, elcorreo, google_news_internacional",4,"Elecciones Barça 2026, en directo: Laporta, nuevo presidente del FC Barcelona, y última hora hoy de las reacciones",2026-03-16 08:34
+estas,3,5,3.6,72,"elcorreo, levante_emv, elpais",3,Decora las paredes de casa con estas láminas que aportarán personalidad a tu hogar sin gastarte mucho,2026-03-16 08:34
+ayudan,3,5,3.6,72,"levante_emv, 20minutos, google_news_internacional",3,"Trump avisa a la OTAN de ""un futuro muy malo"" si los aliados no ayudan a EEUU en Irán",2026-03-16 08:34
+marzo,6,11,3.27,65,"okdiario, levante_emv",2,"Predicción del horóscopo para Libra hoy, lunes 16 de marzo de 2026",2026-03-16 08:34
+contra,6,12,3.0,60,"google_news_internacional, elconfidencial, elespanol, levante_emv, eldiario",5,"Guerra de Irán y ataques de EE.UU. e Israel, en directo | Israel anuncia una operación terrestre “limitada” contra posiciones de Hizbulah en el sur de Líbano - La Vanguardia",2026-03-16 08:34
+historia,3,6,3.0,60,"eldiario, okdiario, elespanol",3,🎙 PODCAST | Historias de ‘la mili’: víctimas de un mundo para la guerra,2026-03-16 08:34
+directo,5,11,2.73,54,"google_news_internacional, lavanguardia, 20minutos",3,"Guerra de Irán y ataques de EE.UU. e Israel, en directo | Israel anuncia una operación terrestre “limitada” contra posiciones de Hizbulah en el sur de Líbano - La Vanguardia",2026-03-16 08:34
+aliados,3,7,2.57,51,"levante_emv, 20minutos, google_news_internacional",3,"Trump avisa a la OTAN de ""un futuro muy malo"" si los aliados no ayudan a EEUU en Irán",2026-03-16 08:34
+aemet,3,7,2.57,51,"levante_emv, okdiario",2,"Enero y febrero, los meses más lluviosos en casi medio siglo en España, según AEMET",2026-03-16 08:34
+ormuz,5,12,2.5,50,"huffington_es, lavanguardia, google_news_es, 20minutos, google_news_internacional",5,Calabazas a Trump sobre Ormuz y Dubái suspendiendo vuelos: así arranca la tercera semana de guerra,2026-03-16 08:34
+lunes,4,10,2.4,48,"okdiario, levante_emv",2,"Predicción del horóscopo para Libra hoy, lunes 16 de marzo de 2026",2026-03-16 08:34
+futuro,4,10,2.4,48,"levante_emv, lavanguardia, 20minutos, google_news_internacional",4,"Trump avisa a la OTAN de ""un futuro muy malo"" si los aliados no ayudan a EEUU en Irán",2026-03-16 08:34
+mundo,3,9,2.0,40,"eldiario, okdiario, expansion",3,🎙 PODCAST | Historias de ‘la mili’: víctimas de un mundo para la guerra,2026-03-16 08:34
