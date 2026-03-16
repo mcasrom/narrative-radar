@@ -1,28 +1,36 @@
 keyword,count_now,count_base,ratio,viral_score,sources,n_sources,sample_title,detected_at
-conquista,6,2,37.06,100,"huffington_es, elmundo, eldiario, elespanol, elpais",5,&quot;Hubo mucho abuso y controversias éticas&quot;: las palabras de Felipe VI sobre la Conquista de América,2026-03-16 15:35
-mucho,3,3,12.35,100,"okdiario, huffington_es, elmundo, eldiario, elespanol",5,Felipe VI reconoce ante México que «hubo muchos abusos» durante el descubrimiento de América,2026-03-16 15:35
-ministros,3,7,5.29,100,"europapress, google_news_es, elmundo",3,Los ministros de Exteriores de la UE descartan enviar fragatas para reabrir el estrecho de Ormuz,2026-03-16 15:35
-temporada,3,2,18.53,100,"elcorreo, eldiario",2,El Barakaldo iguala el ritmo de puntuación de la temporada  pasada,2026-03-16 15:35
-investigan,3,5,7.41,100,"elmundo, huffington_es, elpais",3,Investigan la muerte de una mujer de 53 años en Barbastro (Huesca) por violencia de género a manos de su marido,2026-03-16 15:35
-mascletà,5,5,12.35,100,levante_emv,1,Pirotecnia Tamarit retumba en Xàtiva con una 'mascletà' de 92 kilos de pólvora,2026-03-16 15:35
-amistoso,3,0,5.0,100,"elpais, okdiario, lavanguardia",3,España cambia la Finalissima por un amistoso contra Serbia en La Cerámica,2026-03-16 15:35
-cambia,3,3,12.35,100,"elpais, okdiario, lavanguardia",3,España cambia la Finalissima por un amistoso contra Serbia en La Cerámica,2026-03-16 15:35
-barbastro,4,6,8.23,100,"elmundo, lavanguardia, huffington_es, 20minutos",4,Investigan la muerte de una mujer de 53 años en Barbastro (Huesca) por violencia de género a manos de su marido,2026-03-16 15:35
-abuso,4,0,5.0,100,"okdiario, huffington_es, elmundo, eldiario, elespanol",5,Felipe VI reconoce ante México que «hubo muchos abusos» durante el descubrimiento de América,2026-03-16 15:35
-muerte,3,4,9.26,100,"google_news_internacional, elmundo, 20minutos",3,"El programa que arrasa a nivel internacional llega a Antena 3: Este es el casting de 'Una fiesta de muerte', el 'Cluedo' de los famosos - SensaCine",2026-03-16 15:35
-presunto,3,3,12.35,100,"levante_emv, lavanguardia, huffington_es",3,Detenido el presunto autor del apuñalamiento al conductor de un autobús en Asturias,2026-03-16 15:35
-ucrania,3,5,7.41,100,"france24_es, el_confidencial_tech",2,"Una ola de ataques con drones, reaviva la incertidumbre sobre un alto el fuego entre Rusia y Ucrania",2026-03-16 15:35
-serbia,5,0,5.0,100,"levante_emv, elpais, okdiario, lavanguardia, elcorreo",5,La Federación ya tiene alternativa para la 'Finalissima': un partido contra Serbia en Villarreal,2026-03-16 15:35
-violencia,5,12,5.15,100,"elmundo, lavanguardia, elpais, 20minutos, levante_emv",5,Investigan la muerte de una mujer de 53 años en Barbastro (Huesca) por violencia de género a manos de su marido,2026-03-16 15:35
-finalissima,5,0,5.0,100,"levante_emv, elpais, okdiario, lavanguardia, elcorreo",5,La Federación ya tiene alternativa para la 'Finalissima': un partido contra Serbia en Villarreal,2026-03-16 15:35
-américa,7,1,86.47,100,"okdiario, huffington_es, elmundo, eldiario, elespanol",5,Felipe VI reconoce ante México que «hubo muchos abusos» durante el descubrimiento de América,2026-03-16 15:35
-méxico,3,5,7.41,100,"okdiario, eldiario, elespanol",3,Felipe VI reconoce ante México que «hubo muchos abusos» durante el descubrimiento de América,2026-03-16 15:35
-reconoce,6,0,5.0,100,"okdiario, elmundo, eldiario, elespanol, elpais",5,Felipe VI reconoce ante México que «hubo muchos abusos» durante el descubrimiento de América,2026-03-16 15:35
-felipe,7,2,43.23,100,"okdiario, huffington_es, elmundo, eldiario, elespanol",5,Felipe VI reconoce ante México que «hubo muchos abusos» durante el descubrimiento de América,2026-03-16 15:35
-huesca,3,9,4.12,82,"elmundo, huffington_es, elpais",3,Investigan la muerte de una mujer de 53 años en Barbastro (Huesca) por violencia de género a manos de su marido,2026-03-16 15:35
-machista,3,10,3.71,74,"huffington_es, elpais, 20minutos",3,Investigan un presunto crimen machista en Barbastro (Huesca),2026-03-16 15:35
-marido,3,13,2.85,57,"elpais, elmundo, lavanguardia",3,El Tribunal Superior valenciano rechaza la querella contra la jueza de la dana y su marido,2026-03-16 15:35
-contra,8,42,2.35,47,"levante_emv, elpais, okdiario, lavanguardia, google_news_internacional",5,La Federación ya tiene alternativa para la 'Finalissima': un partido contra Serbia en Villarreal,2026-03-16 15:35
-europa,3,16,2.32,46,"google_news_economia, expansion",2,Amazon se une a las cámaras de comercio de España y Madrid para impulsar la internacionalización de las pymes - Europa Press,2026-03-16 15:35
-nueva,3,17,2.18,43,"elespanol, elcorreo, levante_emv",3,"La identidad del grafitero Banksy, al fin al descubierto según una nueva investigación",2026-03-16 15:35
-madrid,6,35,2.12,42,"google_news_economia, google_news_internacional, elcorreo, elespanol, google_news_es",5,Amazon se une a las cámaras de comercio de España y Madrid para impulsar la internacionalización de las pymes - Europa Press,2026-03-16 15:35
+comercio,3,0,5.0,100,"google_news_economia, expansion",2,Amazon se une a las cámaras de comercio de España y Madrid para impulsar la internacionalización de las pymes - Notimérica,2026-03-16 16:04
+impulsar,3,3,11.07,100,"elcorreo, google_news_economia",2,El rey Felipe VI entrega las becas de formación de Iberdrola para impulsar el talento y la empleabilidad,2026-03-16 16:04
+torneo,3,2,16.6,100,"heraldo_aragon, google_news_internacional",2,El Real Zaragoza Club de Tenis celebra la 10ª edición del torneo internacional ITF Sénior,2026-03-16 16:04
+tenis,3,1,33.2,100,"heraldo_aragon, google_news_internacional",2,El Real Zaragoza Club de Tenis celebra la 10ª edición del torneo internacional ITF Sénior,2026-03-16 16:04
+amistoso,3,1,33.2,100,"elpais, google_news_es, okdiario",3,España cambia la Finalissima por un amistoso contra Serbia en La Cerámica,2026-03-16 16:04
+serbia,4,2,22.13,100,"levante_emv, elpais, google_news_es, okdiario",4,La Federación ya tiene alternativa para la 'Finalissima': un partido contra Serbia en Villarreal,2026-03-16 16:04
+finalissima,4,2,22.13,100,"levante_emv, elpais, google_news_es, okdiario",4,La Federación ya tiene alternativa para la 'Finalissima': un partido contra Serbia en Villarreal,2026-03-16 16:04
+méxico,5,5,11.07,100,"lavanguardia, okdiario, eldiario, elespanol",4,El Rey reconoce “abusos” y “controversias” en el México colonial,2026-03-16 16:04
+prorroga,3,0,5.0,100,"elcorreo, levante_emv, lavanguardia",3,La jueza de la dana prorroga otros seis meses la investigación,2026-03-16 16:04
+jueza,4,8,5.53,100,"elcorreo, levante_emv, elpais, lavanguardia",4,La jueza de la dana prorroga otros seis meses la investigación,2026-03-16 16:04
+tribunal,3,6,5.53,100,"elpais, google_news_internacional",2,Vídeo | El Tribunal Penal Internacional reta a los poderosos,2026-03-16 16:04
+descubrimiento,3,1,33.2,100,okdiario,1,Descubrimiento insólito en la Isla de Pascua: aparece un nuevo moai en un lago (y es el primero de la historia),2026-03-16 16:04
+pymes,3,2,16.6,100,"google_news_economia, okdiario",2,Amazon se une a las cámaras de comercio de España y Madrid para impulsar la internacionalización de las pymes - Notimérica,2026-03-16 16:04
+amazon,3,4,8.3,100,"google_news_economia, expansion",2,Amazon se une a las cámaras de comercio de España y Madrid para impulsar la internacionalización de las pymes - Notimérica,2026-03-16 16:04
+sénior,3,0,5.0,100,"heraldo_aragon, google_news_internacional",2,El Real Zaragoza Club de Tenis celebra la 10ª edición del torneo internacional ITF Sénior,2026-03-16 16:04
+américa,12,3,44.26,100,"elcorreo, levante_emv, infolibre, sur, elconfidencial",5,Felipe VI reconoce que en la conquista de América hubo «mucho abuso y controversias éticas»,2026-03-16 16:04
+felipe,13,4,35.96,100,"elcorreo, levante_emv, infolibre, sur, elconfidencial",5,Felipe VI reconoce que en la conquista de América hubo «mucho abuso y controversias éticas»,2026-03-16 16:04
+otros,4,4,11.07,100,"elcorreo, bbc_mundo, 20minutos",3,"Así afecta la huelga de este martes al tranvía, los autobuses y a otros servicios en Vitoria y Álava",2026-03-16 16:04
+mucho,8,3,29.51,100,"elcorreo, levante_emv, infolibre, sur, elconfidencial",5,Felipe VI reconoce que en la conquista de América hubo «mucho abuso y controversias éticas»,2026-03-16 16:04
+admite,3,1,33.2,100,"levante_emv, elconfidencial, europapress",3,"Felipe VI admite que hubo ""mucho abuso"" en la conquista de América",2026-03-16 16:04
+controversias,3,1,33.2,100,"elcorreo, sur, lavanguardia, huffington_es",4,Felipe VI reconoce que en la conquista de América hubo «mucho abuso y controversias éticas»,2026-03-16 16:04
+abuso,9,1,99.59,100,"elcorreo, levante_emv, infolibre, sur, elconfidencial",5,Felipe VI reconoce que en la conquista de América hubo «mucho abuso y controversias éticas»,2026-03-16 16:04
+muchos,3,3,11.07,100,"infolibre, okdiario, elespanol",3,"Felipe VI reconoce que durante la conquista de América hubo ""muchos abusos""",2026-03-16 16:04
+conquista,11,4,30.43,100,"elcorreo, levante_emv, infolibre, sur, elconfidencial",5,Felipe VI reconoce que en la conquista de América hubo «mucho abuso y controversias éticas»,2026-03-16 16:04
+reconoce,11,2,60.86,100,"elcorreo, infolibre, levante_emv, sur, lavanguardia",5,Felipe VI reconoce que en la conquista de América hubo «mucho abuso y controversias éticas»,2026-03-16 16:04
+centro,4,9,4.92,98,"elcorreo, sur, okdiario",3,Los vecinos de Abanto diseñarán el futuro centro social de Sanfuentes,2026-03-16 16:04
+edición,3,8,4.15,82,"heraldo_aragon, google_news_internacional",2,El Real Zaragoza Club de Tenis celebra la 10ª edición del torneo internacional ITF Sénior,2026-03-16 16:04
+primera,3,10,3.32,66,"google_news_internacional, okdiario, eldiario",3,"La antigua promesa del Chelsea, Carney Chukwuemeka, recibe su primera convocatoria internacional tras cambiar de selección para tener opciones de jugar el Mundial bajo las órdenes del exentrenador del Manchester United - Goal.com",2026-03-16 16:04
+celebra,3,11,3.02,60,"heraldo_aragon, google_news_internacional",2,El Real Zaragoza Club de Tenis celebra la 10ª edición del torneo internacional ITF Sénior,2026-03-16 16:04
+próximo,3,12,2.77,55,"elpais, eldiario, elcorreo",3,El riesgo de seguir en directo el conflicto de Oriente Próximo en plataformas hechas con IA: “Hacen que parezca casi como un videojuego”,2026-03-16 16:04
+marzo,4,17,2.6,52,"eldiario, levante_emv, google_news_internacional, okdiario",4,"Los sindicatos de Caixabank convocan huelga el próximo 27 de marzo por la ""elevada presión"" sobre sus trabajadores",2026-03-16 16:04
+huelga,5,21,2.63,52,"elpais, elcorreo, eldiario",3,"Miguel Lázaro, presidente de CESM: “El problema de la huelga de médicos no es de la ministra de Sanidad, es del Gobierno de Sánchez”",2026-03-16 16:04
+huesca,3,14,2.37,47,"elcorreo, heraldo_aragon",2,Dos detenidos por la supuesta muerte machista de una mujer desaparecida en enero en Huesca,2026-03-16 16:04
+ataques,3,16,2.07,41,"google_news_internacional, 20minutos, france24_es",3,"Guerra de Irán y los ataques de EE.UU e Israel, en directo: última hora sobre los bombardeos en Beirut y Teherán - La Vanguardia",2026-03-16 16:04
+málaga,4,22,2.01,40,sur,1,Así queda el calendario para la vuelta de la alta velocidad entre Málaga y Madrid,2026-03-16 16:04
