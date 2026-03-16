@@ -1,18 +1,15 @@
 keyword,count_now,count_base,ratio,viral_score,sources,n_sources,sample_title,detected_at
-tierra,3,3,12.26,100,"elpais, eldiario, 20minutos",3,"Hindou Oumaru Ibrahim, activista climática: “No podemos aceptar que aquellos que destruyen la tierra vengan y hagan ecopostureo”",2026-03-16 16:34
-abuso,6,5,14.71,100,"heraldo_aragon, elcorreo, levante_emv, infolibre, sur",5,Felipe VI dice que hubo &quot;mucho abuso y controversias éticas&quot; en la conquista de América que &quot;no pueden hacernos sentirnos orgullosos&quot;,2026-03-16 16:34
-admite,3,1,36.78,100,"levante_emv, elconfidencial, europapress",3,"Felipe VI admite que hubo ""mucho abuso"" en la conquista de América",2026-03-16 16:34
-malaga,3,2,18.39,100,sur,1,Malaga AVE: Andalusian regional government maintains legal threats following new delay,2026-03-16 16:34
-récord,3,2,18.39,100,"huffington_es, levante_emv, expansion",3,La Aemet confirma el récord de borrascas: así afectará Therese a España,2026-03-16 16:34
-tribunal,3,7,5.25,100,"okdiario, elpais, google_news_internacional",3,El Tribunal Superior desmonta a la juez de la DANA: el retraso del ‘Es Alert’ no causó las muertes,2026-03-16 16:34
-américa,6,11,6.69,100,"heraldo_aragon, elcorreo, levante_emv, infolibre, sur",5,Felipe VI dice que hubo &quot;mucho abuso y controversias éticas&quot; en la conquista de América que &quot;no pueden hacernos sentirnos orgullosos&quot;,2026-03-16 16:34
-conquista,7,10,8.58,100,"heraldo_aragon, elcorreo, levante_emv, infolibre, sur",5,Felipe VI dice que hubo &quot;mucho abuso y controversias éticas&quot; en la conquista de América que &quot;no pueden hacernos sentirnos orgullosos&quot;,2026-03-16 16:34
-controversias,3,2,18.39,100,"heraldo_aragon, elcorreo, sur",3,Felipe VI dice que hubo &quot;mucho abuso y controversias éticas&quot; en la conquista de América que &quot;no pueden hacernos sentirnos orgullosos&quot;,2026-03-16 16:34
-felipe,7,12,7.15,100,"heraldo_aragon, elcorreo, levante_emv, infolibre, sur",5,Felipe VI dice que hubo &quot;mucho abuso y controversias éticas&quot; en la conquista de América que &quot;no pueden hacernos sentirnos orgullosos&quot;,2026-03-16 16:34
-mucho,3,8,4.6,91,"heraldo_aragon, elcorreo, levante_emv, infolibre, sur",5,Felipe VI dice que hubo &quot;mucho abuso y controversias éticas&quot; en la conquista de América que &quot;no pueden hacernos sentirnos orgullosos&quot;,2026-03-16 16:34
-reconoce,4,11,4.46,89,"elcorreo, infolibre, levante_emv, sur",4,Felipe VI reconoce que en la conquista de América hubo «mucho abuso y controversias éticas»,2026-03-16 16:34
-bombardeos,3,9,4.09,81,"google_news_internacional, okdiario",2,"Guerra de Irán y los ataques de EE.UU. e Israel, en directo: última hora sobre los bombardeos en Beirut y Teherán - La Vanguardia",2026-03-16 16:34
-marzo,5,16,3.83,76,"levante_emv, maldita, eldiario, google_news_internacional",4,"Búscate en la mascletà de Xàtiva de hoy, lunes 16 de marzo",2026-03-16 16:34
-petróleo,4,13,3.77,75,"okdiario, elcorreo, maldita, google_news_internacional",4,"Últimas noticias de la guerra de Irán en directo | Precio del petróleo hoy, últimos ataques y bombardeos y reacciones de Trump",2026-03-16 16:34
-mundo,3,14,2.63,52,"heraldo_aragon, elmundo, lavanguardia",3,Un esquiador cruza borracho los 50 km de la Copa del Mundo: &quot;Me ofrecieron mucha cerveza&quot;,2026-03-16 16:34
-ataques,3,18,2.04,40,"google_news_internacional, okdiario",2,"Guerra de Irán y los ataques de EE.UU. e Israel, en directo: última hora sobre los bombardeos en Beirut y Teherán - La Vanguardia",2026-03-16 16:34
+futuro,3,6,6.86,100,"levante_emv, 20minutos, google_news_politica",3,Seis despachos de toda España optan a diseñar el proyecto del futuro hospital de Veterinaria en Ontinyent,2026-03-16 17:04
+iraní,3,5,8.23,100,"france24_es, elespanol, okdiario",3,Falso: no impactó un misil iraní en la residencia de Netanyahu en Israel,2026-03-16 17:04
+vanguardia,3,5,8.23,100,google_news_internacional,1,La vanguardia del circo internacional protagoniza la tercera semana de Teatralia - Masescena,2026-03-16 17:04
+beirut,3,4,10.29,100,"google_news_internacional, france24_es",2,"Guerra de Irán y los ataques de EE.UU. e Israel, hoy en directo: última hora de los bombardeos en Beirut y Teherán, en vivo - La Vanguardia",2026-03-16 17:04
+poder,3,2,20.58,100,"google_news_economia, levante_emv, google_news_internacional",3,"Aumenta en España el número de mataderos que cumplen con las normas ""halal"" para poder vender a los musulmanes - La Razón",2026-03-16 17:04
+bizkaia,3,5,8.23,100,elcorreo,1,Bizkaia pierde más de 1.000 vacas al año,2026-03-16 17:04
+bombardeos,3,9,4.57,91,"google_news_internacional, okdiario",2,"Guerra de Irán y los ataques de EE.UU. e Israel, hoy en directo: última hora de los bombardeos en Beirut y Teherán, en vivo - La Vanguardia",2026-03-16 17:04
+falla,3,11,3.74,74,levante_emv,1,Llega la visita más esperada a las Fallas de Sagunt,2026-03-16 17:04
+huelga,4,20,2.74,54,"elcorreo, elpais, levante_emv",3,El equipo de gobierno de Arrigorriaga se suma a la huelga general,2026-03-16 17:04
+israel,6,34,2.42,48,"france24_es, elespanol, google_news_internacional, eldiario",4,Falso: no impactó un misil iraní en la residencia de Netanyahu en Israel,2026-03-16 17:04
+santa,3,17,2.42,48,"elconfidencial, okdiario, heraldo_aragon",3,Los destinos rurales costeros arrasan en España esta Semana Santa,2026-03-16 17:04
+ataques,3,17,2.42,48,"google_news_internacional, okdiario",2,"Guerra de Irán y los ataques de EE.UU. e Israel, hoy en directo: última hora de los bombardeos en Beirut y Teherán, en vivo - La Vanguardia",2026-03-16 17:04
+elecciones,3,18,2.29,45,"france24_es, newtral, eldiario",3,¿Qué deja la primera vuelta de las elecciones municipales en Francia?,2026-03-16 17:04
+felipe,3,20,2.06,41,"huffington_es, elcorreo, 20minutos",3,Felipe VI reconoce que hubo &quot;mucho abuso&quot; en la Conquista de América: Xabier Fortes cuenta lo que le pasó por decir lo mismo,2026-03-16 17:04
