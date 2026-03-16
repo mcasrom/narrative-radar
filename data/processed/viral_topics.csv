@@ -1,15 +1,21 @@
 keyword,count_now,count_base,ratio,viral_score,sources,n_sources,sample_title,detected_at
-futuro,3,6,6.86,100,"levante_emv, 20minutos, google_news_politica",3,Seis despachos de toda España optan a diseñar el proyecto del futuro hospital de Veterinaria en Ontinyent,2026-03-16 17:04
-iraní,3,5,8.23,100,"france24_es, elespanol, okdiario",3,Falso: no impactó un misil iraní en la residencia de Netanyahu en Israel,2026-03-16 17:04
-vanguardia,3,5,8.23,100,google_news_internacional,1,La vanguardia del circo internacional protagoniza la tercera semana de Teatralia - Masescena,2026-03-16 17:04
-beirut,3,4,10.29,100,"google_news_internacional, france24_es",2,"Guerra de Irán y los ataques de EE.UU. e Israel, hoy en directo: última hora de los bombardeos en Beirut y Teherán, en vivo - La Vanguardia",2026-03-16 17:04
-poder,3,2,20.58,100,"google_news_economia, levante_emv, google_news_internacional",3,"Aumenta en España el número de mataderos que cumplen con las normas ""halal"" para poder vender a los musulmanes - La Razón",2026-03-16 17:04
-bizkaia,3,5,8.23,100,elcorreo,1,Bizkaia pierde más de 1.000 vacas al año,2026-03-16 17:04
-bombardeos,3,9,4.57,91,"google_news_internacional, okdiario",2,"Guerra de Irán y los ataques de EE.UU. e Israel, hoy en directo: última hora de los bombardeos en Beirut y Teherán, en vivo - La Vanguardia",2026-03-16 17:04
-falla,3,11,3.74,74,levante_emv,1,Llega la visita más esperada a las Fallas de Sagunt,2026-03-16 17:04
-huelga,4,20,2.74,54,"elcorreo, elpais, levante_emv",3,El equipo de gobierno de Arrigorriaga se suma a la huelga general,2026-03-16 17:04
-israel,6,34,2.42,48,"france24_es, elespanol, google_news_internacional, eldiario",4,Falso: no impactó un misil iraní en la residencia de Netanyahu en Israel,2026-03-16 17:04
-santa,3,17,2.42,48,"elconfidencial, okdiario, heraldo_aragon",3,Los destinos rurales costeros arrasan en España esta Semana Santa,2026-03-16 17:04
-ataques,3,17,2.42,48,"google_news_internacional, okdiario",2,"Guerra de Irán y los ataques de EE.UU. e Israel, hoy en directo: última hora de los bombardeos en Beirut y Teherán, en vivo - La Vanguardia",2026-03-16 17:04
-elecciones,3,18,2.29,45,"france24_es, newtral, eldiario",3,¿Qué deja la primera vuelta de las elecciones municipales en Francia?,2026-03-16 17:04
-felipe,3,20,2.06,41,"huffington_es, elcorreo, 20minutos",3,Felipe VI reconoce que hubo &quot;mucho abuso&quot; en la Conquista de América: Xabier Fortes cuenta lo que le pasó por decir lo mismo,2026-03-16 17:04
+izquierda,3,4,8.75,100,"france24_es, okdiario, eldiario",3,Primera vuelta de las municipales en Francia: avance de la ultraderecha y extrema izquierda,2026-03-16 17:34
+francia,3,2,17.49,100,"france24_es, eldiario",2,Primera vuelta de las municipales en Francia: avance de la ultraderecha y extrema izquierda,2026-03-16 17:34
+ministra,3,2,17.49,100,"maldita, elpais, levante_emv",3,"Qué sabemos sobre la presencia de la ministra de Trabajo, Yolanda Díaz, en la gala de los Óscar 2026",2026-03-16 17:34
+retirar,3,2,17.49,100,levante_emv,1,¿Cómo retirar los iconos que envejecen? El dilema biológico de Resident Evil,2026-03-16 17:34
+estados,3,4,8.75,100,"eldiario, google_news_es",2,Estados Unidos pone en marcha taxis aéreos eléctricos en 26 estados tras la aprobación de la FAA,2026-03-16 17:34
+ultraderecha,3,0,5.0,100,"france24_es, eldiario, lavanguardia",3,Primera vuelta de las municipales en Francia: avance de la ultraderecha y extrema izquierda,2026-03-16 17:34
+avance,3,2,17.49,100,"france24_es, okdiario, eldiario",3,Primera vuelta de las municipales en Francia: avance de la ultraderecha y extrema izquierda,2026-03-16 17:34
+municipales,3,2,17.49,100,"france24_es, eldiario",2,Primera vuelta de las municipales en Francia: avance de la ultraderecha y extrema izquierda,2026-03-16 17:34
+mejores,3,6,5.83,100,"huffington_es, 20minutos, lavanguardia",3,"El experto de Google que descubrió espías norcoreanos en empresas europeas: &quot;Cuando avisamos al cliente, respondió: &#039;¿Estás seguro? Era uno de nuestros mejores empleados&quot;",2026-03-16 17:34
+países,4,6,7.77,100,"elcorreo, lavanguardia, 20minutos, france24_es",4,"Última hora de la guerra en Oriente Medio | Trump: «Muchos países están ya de camino a Ormuz, y otros a los que hemos ayudado, no muestran entusiasmo»",2026-03-16 17:34
+beirut,3,5,7.0,100,"huffington_es, google_news_internacional, france24_es",3,"Noura, siria de 45 años desplazada en Beirut: &quot;Llevamos una semana durmiendo en la calle; los libaneses tienen tiendas de campaña pero a nosotros no nos dejan entrar en las escuelas porque somos sirios&quot;",2026-03-16 17:34
+anuncia,5,14,4.16,83,"elespanol, eldiario, heraldo_aragon, france24_es",4,"Trump anuncia que Susie Wiles, su jefa de Gabinete, tiene cáncer de mama: ""Seguirá trabajando""",2026-03-16 17:34
+porque,3,9,3.89,77,"huffington_es, google_news_internacional, elpais",3,"Noura, siria de 45 años desplazada en Beirut: &quot;Llevamos una semana durmiendo en la calle; los libaneses tienen tiendas de campaña pero a nosotros no nos dejan entrar en las escuelas porque somos sirios&quot;",2026-03-16 17:34
+israel,7,29,2.81,56,"france24_es, elespanol, google_news_internacional, google_news_es",4,"El norte de Israel clama, otra vez, el fin de Hezbolá mientras el ejército invade el sur de Líbano",2026-03-16 17:34
+huelga,4,17,2.74,54,"elcorreo, elpais, levante_emv",3,El equipo de gobierno de Arrigorriaga se suma a la huelga general,2026-03-16 17:34
+primera,3,13,2.69,53,"france24_es, sur",2,Primera vuelta de las municipales en Francia: avance de la ultraderecha y extrema izquierda,2026-03-16 17:34
+trump,6,30,2.33,46,"elcorreo, elespanol, eldiario, 20minutos, google_news_es",5,"Última hora de la guerra en Oriente Medio | Trump: «Muchos países están ya de camino a Ormuz, y otros a los que hemos ayudado, no muestran entusiasmo»",2026-03-16 17:34
+última,5,26,2.24,44,"elcorreo, elespanol, google_news_internacional, google_news_es",4,"Última hora de la guerra en Oriente Medio | Trump: «Muchos países están ya de camino a Ormuz, y otros a los que hemos ayudado, no muestran entusiasmo»",2026-03-16 17:34
+euros,4,22,2.12,42,"levante_emv, elcorreo, google_news_economia, sur",4,Ròtova recupera el antiguo cine Cervantes tras invertir más de un millón de euros,2026-03-16 17:34
+elecciones,3,17,2.06,41,"france24_es, newtral, eldiario",3,¿Qué deja la primera vuelta de las elecciones municipales en Francia?,2026-03-16 17:34
