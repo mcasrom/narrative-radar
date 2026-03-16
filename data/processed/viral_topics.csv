@@ -1,13 +1,22 @@
 keyword,count_now,count_base,ratio,viral_score,sources,n_sources,sample_title,detected_at
-ataque,3,5,8.19,100,"levante_emv, elespanol, elpais, google_news_internacional",4,Desmontan la exposición de bocetos de las Fallas de Gandia antes de lo previsto tras sufrir un segundo ataque,2026-03-16 19:04
-leyen,3,0,5.0,100,"eldiario, expansion, elmundo",3,Von der Leyen pide que se retrase el cierre de las centrales nucleares,2026-03-16 19:04
-falta,5,6,11.38,100,"elespanol, newtral, levante_emv, europapress",4,"Antelo achaca a ""las purgas"" de Abascal el ""pinchazo"" de Vox en Castilla y León: ""Falta una organización profesional""",2026-03-16 19:04
-critica,3,1,40.97,100,"levante_emv, europapress",2,"Trump critica falta de ""entusiasmo"" de algunos aliados para desbloquear el estrecho de Ormuz",2026-03-16 19:04
-entusiasmo,3,2,20.48,100,"levante_emv, europapress",2,"Trump critica falta de ""entusiasmo"" de algunos aliados para desbloquear el estrecho de Ormuz",2026-03-16 19:04
-aliados,3,4,10.24,100,"levante_emv, europapress",2,"Trump critica falta de ""entusiasmo"" de algunos aliados para desbloquear el estrecho de Ormuz",2026-03-16 19:04
-primer,4,15,3.64,72,"heraldo_aragon, levante_emv, google_news_economia, elcorreo",4,Así han sido las primeras horas del nuevo entrenador de la SD Huesca,2026-03-16 19:04
-estrecho,6,24,3.41,68,"elpais, huffington_es, levante_emv, europapress",4,"Última hora del ataque de Estados Unidos e Israel contra Irán, en directo | Bruselas se resiste a la petición de ayuda de Trump en el estrecho de Ormuz: “Esta no es la guerra de Europa”",2026-03-16 19:04
-premio,3,12,3.41,68,"google_news_internacional, levante_emv",2,El concierto de Arde Bogota en Sonorama recibe un premio internacional - BURGOSconecta,2026-03-16 19:04
-historia,3,13,3.15,63,"france24_es, elpais, huffington_es",3,¿Cuáles son las mayores interrupciones de suministro petrolero mundial en la historia?,2026-03-16 19:04
-trump,9,48,2.56,51,"okdiario, elpais, huffington_es, levante_emv, google_news_internacional",5,Trump afirma que Mojtaba Jamenei podría estar muerto y que no sabe quién lidera la dictadura iraní,2026-03-16 19:04
-ormuz,6,38,2.16,43,"elpais, huffington_es, levante_emv, europapress",4,"Última hora del ataque de Estados Unidos e Israel contra Irán, en directo | Bruselas se resiste a la petición de ayuda de Trump en el estrecho de Ormuz: “Esta no es la guerra de Europa”",2026-03-16 19:04
+medio,5,11,5.5,100,"levante_emv, google_news_internacional, huffington_es, elcorreo",4,"Cuba sufre un nuevo apagón nacional, el sexto en año y medio",2026-03-16 19:37
+afirma,3,4,9.08,100,"google_news_internacional, elcorreo, okdiario",3,"Última hora de la guerra en Irán y los ataques de EE.UU. e Israel, en directo | Trump afirma que Mojtaba Jamenei podría estar muerto - La Vanguardia",2026-03-16 19:37
+lunes,3,4,9.08,100,okdiario,1,"Comprobar La Primitiva: resultado y número premiado hoy, lunes 16 de marzo de 2026",2026-03-16 19:37
+comprobar,3,0,5.0,100,okdiario,1,"Comprobar La Primitiva: resultado y número premiado hoy, lunes 16 de marzo de 2026",2026-03-16 19:37
+miguel,3,3,12.11,100,"levante_emv, huffington_es",2,Abren juicio contra el humorista Héctor de Miguel 'Quequé' por acoso a la presidenta de Abogados Cristianos,2026-03-16 19:37
+final,3,6,6.05,100,"elcorreo, okdiario, lavanguardia",3,La Cultural de Durango es ambicioso y aspira a más en la recta final de liga,2026-03-16 19:37
+ataque,4,5,9.68,100,"google_news_internacional, elpais, levante_emv, elespanol",4,"Última hora de la guerra en Irán y los ataques de EE.UU. e Israel, en directo | Trump afirma que Mojtaba Jamenei podría estar muerto - La Vanguardia",2026-03-16 19:37
+francia,4,5,9.68,100,"huffington_es, google_news_economia, okdiario, lavanguardia",4,"La UE cambia las normas ante la guerra de Irán: Grecia limita el margen de las gasolineras a 12 céntimos, Francia multa al 5% de las inspeccionadas y España sopesa medidas",2026-03-16 19:37
+prepara,3,2,18.16,100,"el_confidencial_tech, huffington_es",2,Un cargamento de antimateria se prepara para salir a la calle. Y tiene en vilo a la ciencia,2026-03-16 19:37
+leyen,3,1,36.32,100,"sur, eldiario, expansion",3,La leyenda de Eurovisión Johnny Logan hace parada en Málaga,2026-03-16 19:37
+horas,4,10,4.84,96,"levante_emv, europapress, elcorreo, heraldo_aragon",4,Un informe técnico sobre el accidente de Adamuz apunta a una caída de tensión compatible con la rotura de la vía 22 horas antes,2026-03-16 19:37
+resultado,3,8,4.54,90,"okdiario, huffington_es, google_news_politica",3,"Comprobar La Primitiva: resultado y número premiado hoy, lunes 16 de marzo de 2026",2026-03-16 19:37
+europa,3,9,4.04,80,"okdiario, elpais, europapress, huffington_es, elcorreo",5,"Cuando atacan una sinagoga, atacan a Europa",2026-03-16 19:37
+antes,3,10,3.63,72,"levante_emv, europapress",2,Un informe técnico sobre el accidente de Adamuz apunta a una caída de tensión compatible con la rotura de la vía 22 horas antes,2026-03-16 19:37
+historia,4,14,3.46,69,"eldiario, france24_es, elcorreo, sur",4,San Patricio no solo se celebra en Irlanda: esta la historia de su fiesta arraigada en España,2026-03-16 19:37
+trump,10,46,2.63,52,"google_news_internacional, elpais, levante_emv, elcorreo, okdiario",5,"Última hora de la guerra en Irán y los ataques de EE.UU. e Israel, en directo | Trump afirma que Mojtaba Jamenei podría estar muerto - La Vanguardia",2026-03-16 19:37
+marzo,4,19,2.55,50,"levante_emv, okdiario",2,Feria de Fallas del 16 de marzo,2026-03-16 19:37
+estrecho,5,24,2.52,50,"levante_emv, elcorreo, elpais, huffington_es",4,Trump arremete contra aliados por desatender sus llamadas a proteger el estrecho de Ormuz a la vez que dice: “No necesitamos a nadie”,2026-03-16 19:37
+guerra,12,62,2.34,46,"huffington_es, google_news_economia, google_news_internacional, eldiario, elpais",5,"La UE cambia las normas ante la guerra de Irán: Grecia limita el margen de las gasolineras a 12 céntimos, Francia multa al 5% de las inspeccionadas y España sopesa medidas",2026-03-16 19:37
+última,4,23,2.11,42,"google_news_internacional, elpais, elcorreo",3,"Última hora de la guerra en Irán y los ataques de EE.UU. e Israel, en directo | Trump afirma que Mojtaba Jamenei podría estar muerto - La Vanguardia",2026-03-16 19:37
+ormuz,6,35,2.08,41,"levante_emv, elcorreo, okdiario, elpais, huffington_es",5,Trump arremete contra aliados por desatender sus llamadas a proteger el estrecho de Ormuz a la vez que dice: “No necesitamos a nadie”,2026-03-16 19:37
