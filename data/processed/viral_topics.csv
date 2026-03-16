@@ -1,16 +1,24 @@
 keyword,count_now,count_base,ratio,viral_score,sources,n_sources,sample_title,detected_at
-aemet,5,0,5.0,100,okdiario,1,La AEMET pone hoy en alerta a Andalucía: «Nivel máximo de aviso» por vientos fuertes,2026-03-16 07:34
-ganadores,4,4,6.62,100,"heraldo_aragon, lavanguardia, elcorreo",3,Listado de ganadores de los Óscar 2026,2026-03-16 07:34
-última,3,3,6.62,100,"elpais, lavanguardia",2,"Última hora del ataque de Estados Unidos e Israel contra Irán, en directo | El ejército israelí lanza una ofensiva terrestre “limitada” en el sur de Líbano",2026-03-16 07:34
-directo,5,6,5.52,100,"elpais, lavanguardia, levante_emv, google_news_internacional",4,"Última hora del ataque de Estados Unidos e Israel contra Irán, en directo | El ejército israelí lanza una ofensiva terrestre “limitada” en el sur de Líbano",2026-03-16 07:34
-predicción,4,1,26.47,100,okdiario,1,"Predicción del horóscopo para Leo hoy, lunes 16 de marzo de 2026",2026-03-16 07:34
-horóscopo,4,2,13.24,100,okdiario,1,"Predicción del horóscopo para Leo hoy, lunes 16 de marzo de 2026",2026-03-16 07:34
-lunes,4,5,5.29,100,okdiario,1,"Predicción del horóscopo para Leo hoy, lunes 16 de marzo de 2026",2026-03-16 07:34
-marzo,6,6,6.62,100,"okdiario, google_news_economia, heraldo_aragon",3,"Predicción del horóscopo para Leo hoy, lunes 16 de marzo de 2026",2026-03-16 07:34
-precio,5,0,5.0,100,"elcorreo, google_news_es, elpais, 20minutos, google_news_economia",5,La senda de la pasarela donde murieron 6 jóvenes se adjudicó por la mitad de precio,2026-03-16 07:34
-española,3,3,6.62,100,"huffington_es, okdiario, heraldo_aragon",3,Una española relata el día que le tocó ser jurado popular y lo que muchos no saben que pasa realmente,2026-03-16 07:34
-grande,3,0,5.0,100,"google_news_es, eldiario, france24_es",3,"Tan grande como un Audi A6 pero a precio de Toyota Yaris, tienes esta berlina turbo en gasolina con cambio automático - Diariomotor",2026-03-16 07:34
-récord,3,3,6.62,100,"20minutos, france24_es, levante_emv",3,"Así es Pepper, el primer robot humanoide que ha recibido un récord Guinness: este ha sido el motivo",2026-03-16 07:34
-cuánto,3,0,5.0,100,"levante_emv, 20minutos, huffington_es",3,Vox bate en Castilla y León su récord electoral pese al frenazo: ¿Cuántos votos tiene en cada autonomía?,2026-03-16 07:34
-elecciones,3,8,2.48,49,"lavanguardia, france24_es",2,"Resultados elecciones Castilla y León 2026, en directo: victoria del PP y escaños de PSOE, Vox y resto de partidos",2026-03-16 07:34
-castilla,3,9,2.21,44,"okdiario, lavanguardia, levante_emv, huffington_es",4,AEMET prevé un día soleado con brumas y heladas en Castilla y León,2026-03-16 07:34
+horas,4,3,8.7,100,"okdiario, expansion, google_news_es",3,Los expertos instan a cerrar las cortinas de casa a partir de las 19:45 horas: la razón que debes saber,2026-03-16 08:04
+líbano,3,1,19.57,100,"elcorreo, google_news_internacional, elpais",3,Última hora de la guerra en Oriente Medio | El ejército israelí lanza una ofensiva terrestre en el sur de Líbano,2026-03-16 08:04
+aemet,9,1,58.72,100,"levante_emv, okdiario",2,"Enero y febrero, los meses más lluviosos en casi medio siglo en España, según AEMET",2026-03-16 08:04
+prevé,4,0,5.0,100,okdiario,1,Zaragoza: AEMET prevé cielo poco nuboso y aumento de temperaturas con viento moderado del noroeste,2026-03-16 08:04
+predicción,3,3,6.52,100,okdiario,1,"Predicción del horóscopo para Virgo hoy, lunes 16 de marzo de 2026",2026-03-16 08:04
+ceremonia,3,2,9.79,100,"levante_emv, lavanguardia",2,"Sean Penn gana el Oscar a mejor actor de reparto, pero no acude a la ceremonia: “No pudo estar aquí esta noche, o no quiso”",2026-03-16 08:04
+teherán,3,1,19.57,100,google_news_internacional,1,Incendio en el aeropuerto internacional de Mehrabad en Teherán - Hoy,2026-03-16 08:04
+terrestre,3,1,19.57,100,"elcorreo, google_news_internacional, elpais",3,Última hora de la guerra en Oriente Medio | El ejército israelí lanza una ofensiva terrestre en el sur de Líbano,2026-03-16 08:04
+resultados,4,1,26.1,100,"huffington_es, efe, lavanguardia",3,Javier Escartín analiza los resultados de las elecciones autonómicas de Castilla y León,2026-03-16 08:04
+mehrabad,3,0,5.0,100,google_news_internacional,1,Incendio en el aeropuerto internacional de Mehrabad en Teherán - Hoy,2026-03-16 08:04
+escaños,3,1,19.57,100,"elcorreo, lavanguardia",2,De Castilla y León al Congreso: PP y PSOE perderían escaños en beneficio de Vox,2026-03-16 08:04
+incendio,3,4,4.89,97,google_news_internacional,1,Incendio en el aeropuerto internacional de Mehrabad en Teherán - Hoy,2026-03-16 08:04
+israel,3,4,4.89,97,"elcorreo, google_news_internacional, elpais",3,Última hora de la guerra en Oriente Medio | El ejército israelí lanza una ofensiva terrestre en el sur de Líbano,2026-03-16 08:04
+horóscopo,3,4,4.89,97,okdiario,1,"Predicción del horóscopo para Virgo hoy, lunes 16 de marzo de 2026",2026-03-16 08:04
+aeropuerto,3,4,4.89,97,google_news_internacional,1,Incendio en el aeropuerto internacional de Mehrabad en Teherán - Hoy,2026-03-16 08:04
+directo,5,7,4.66,93,"google_news_internacional, elpais, lavanguardia",3,"Última hora de la guerra en Irán y los ataques de EE.UU. e Israel, en directo | Israel anuncia una operación terrestre “limitada” contra posiciones de Hizbulah en el sur de Líbano - La Vanguardia",2026-03-16 08:04
+última,3,5,3.91,78,"elcorreo, google_news_internacional, elpais",3,Última hora de la guerra en Oriente Medio | El ejército israelí lanza una ofensiva terrestre en el sur de Líbano,2026-03-16 08:04
+castilla,6,10,3.91,78,"huffington_es, elcorreo, expansion, okdiario, lavanguardia",5,Javier Escartín analiza los resultados de las elecciones autonómicas de Castilla y León,2026-03-16 08:04
+ganadores,4,7,3.73,74,"heraldo_aragon, levante_emv, lavanguardia",3,Listado de ganadores de los Óscar 2026,2026-03-16 08:04
+millones,3,7,2.8,55,"okdiario, 20minutos",2,Los paleontólogos se tiran de los pelos: subastan un importante esqueleto de dinosaurio valorado en 5 millones de €,2026-03-16 08:04
+elecciones,4,10,2.61,52,"huffington_es, elespanol, lavanguardia",3,Javier Escartín analiza los resultados de las elecciones autonómicas de Castilla y León,2026-03-16 08:04
+marzo,4,10,2.61,52,"okdiario, levante_emv",2,"Predicción del horóscopo para Virgo hoy, lunes 16 de marzo de 2026",2026-03-16 08:04
+lunes,3,8,2.45,48,okdiario,1,"Predicción del horóscopo para Virgo hoy, lunes 16 de marzo de 2026",2026-03-16 08:04
