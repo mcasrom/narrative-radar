@@ -2,6 +2,15 @@
 # dashboard_central_final.py
 # Centro de Mando Narrativo España 🇪🇸
 # Autor: M. Castillo <mybloggingnotes@gmail.com>
+#
+# CHANGELOG 2026-03-16:
+#   - FIX: use_container_width= reemplazado por width= (deprecado en ST 1.55)
+#         use_container_width=True  → width="stretch"
+#         use_container_width=False → width="content"  (no había ninguno)
+#   - FIX: MediaFileStorageError — eliminado st.image() con URL externa de Ko-fi;
+#           el botón Ko-fi ya se renderiza como HTML puro vía st.markdown() en todos los bloques.
+#           La imagen .jpg que fallaba era la del githubbutton de Ko-fi cargada en memoria
+#           por Streamlit al procesar st.image() con URL remota entre reruns.
 
 import os
 import sys
@@ -18,7 +27,6 @@ def _check_password():
     FREE_TABS  = [0,1,5,14]  # tabs gratuitos: Radar, Emocional, Tendencias, Personajes
     def _hash(p): return _hashlib.sha512(p.encode()).hexdigest()
 
-    # Hashes válidos — admin permanente + suscriptor mensual desde secrets
     VALID_HASHES = set()
     try:
         VALID_HASHES.add(st.secrets["ADMIN_HASH"])
@@ -140,7 +148,6 @@ def mostrar_keywords_gestion():
     st.markdown("---")
     st.header("Gestion de Keywords")
 
-    # Proteccion con password
     import streamlit as _st
     try:
         _admin_pw = _st.secrets["admin"]["password"]
@@ -169,7 +176,7 @@ def mostrar_keywords_gestion():
             df_top["bloqueada"] = df_top["keyword"].isin(cfg.get("keywords_blocked", []))
             df_top = df_top[~df_top["bloqueada"]].sort_values("score_total", ascending=False)
             st.dataframe(df_top[["keyword", "score_total", "score_medio", "n_ciclos", "pinned"]],
-                         use_container_width=True, height=300)
+                         width="stretch", height=300)
             st.caption(f"{len(df_top)} keywords activas | {len(cycles)} ciclos acumulados")
             st.subheader("Fijar keywords prioritarias")
             all_kws = df_top["keyword"].tolist()
@@ -188,7 +195,7 @@ def mostrar_keywords_gestion():
         st.subheader("Keywords bloqueadas (excluidas del pipeline)")
         blocked = cfg.get("keywords_blocked", [])
         if blocked:
-            st.dataframe(pd.DataFrame({"keyword": blocked}), use_container_width=True)
+            st.dataframe(pd.DataFrame({"keyword": blocked}), width="stretch")
         else:
             st.info("No hay keywords bloqueadas.")
         st.subheader("Bloquear keywords manualmente")
@@ -215,7 +222,7 @@ def mostrar_keywords_gestion():
         st.info("Stopwords base: 27 palabras (articulos, preposiciones, etc.)")
         st.write(f"Stopwords custom anadidas: **{len(sw)}**")
         if sw:
-            st.dataframe(pd.DataFrame({"stopword": sw}), use_container_width=True)
+            st.dataframe(pd.DataFrame({"stopword": sw}), width="stretch")
         new_sw = st.text_input("Anadir stopword:", key="sw_input")
         if st.button("Anadir stopword", key="btn_sw"):
             if new_sw.strip() and new_sw.strip() not in sw:
@@ -253,7 +260,7 @@ def mostrar_keywords_gestion():
         if suggestions:
             st.warning(f"{len(suggestions)} keywords detectadas como poco utiles")
             st.dataframe(pd.DataFrame({"keyword_sugerida_para_bloqueo": suggestions}),
-                         use_container_width=True)
+                         width="stretch")
             col_a, col_b = st.columns(2)
             with col_a:
                 if st.button("Bloquear TODAS las sugeridas", key="block_all_sugg"):
@@ -284,6 +291,22 @@ def mostrar_keywords_gestion():
             st.caption(f"Config actualizada: {last}")
 
 
+# ─── BLOQUE Ko-fi reutilizable ───────────────────────────────────────────────
+_KOFI_HTML = """
+<div style="text-align:center; padding:10px;">
+    <a href="https://ko-fi.com/m_castillo" target="_blank"
+       style="display:inline-block;background:#FF5E5B;color:white;padding:10px 24px;
+              border-radius:6px;font-weight:bold;text-decoration:none;font-size:15px;">
+        ☕ Invítame a un café — 1 EUR
+    </a><br><br>
+    <small style="color:#888;">Briefing diario PDF · Análisis de narrativas</small>
+</div>
+"""
+# NOTA: Se eliminó el <img src="https://ko-fi.com/img/githubbutton_sm.svg"> que
+# Streamlit cachea como fichero en memoria y lanza MediaFileStorageError en reruns.
+# El HTML puro de arriba es equivalente y no tiene ese problema.
+
+
 def mostrar_keywords():
     st.header("Keywords & Frases Clave")
     st.markdown("Análisis profundo de palabras clave emergentes, decayentes y su evolución temporal.")
@@ -299,8 +322,8 @@ def mostrar_keywords():
                          title="Keywords con mayor subida (último ciclo)",
                          labels={"keyword": "Keyword", "delta": "Incremento", "pct_change": "% cambio"},
                          color_continuous_scale="Greens")
-            st.plotly_chart(fig, use_container_width=True)
-            st.dataframe(df[["keyword","count_last","count_prev","delta","pct_change"]], use_container_width=True)
+            st.plotly_chart(fig, width="stretch")
+            st.dataframe(df[["keyword","count_last","count_prev","delta","pct_change"]], width="stretch")
         else:
             st.info("Sin datos de keywords emergentes aún.")
 
@@ -314,10 +337,10 @@ def mostrar_keywords():
                              title="Keywords con mayor bajada (último ciclo)",
                              labels={"keyword": "Keyword", "delta": "Decremento", "pct_change": "% cambio"},
                              color_continuous_scale="Reds")
-                st.plotly_chart(fig, use_container_width=True)
+                st.plotly_chart(fig, width="stretch")
             elif len(df) > 0:
                 st.info(f"Solo {len(df)} keyword(s) decayente(s) detectada(s) — acumulando histórico (mín. 5 para gráfico)")
-                st.dataframe(df[["keyword","count_last","count_prev","delta","pct_change"]], use_container_width=True)
+                st.dataframe(df[["keyword","count_last","count_prev","delta","pct_change"]], width="stretch")
             else:
                 st.info("Sin keywords decayentes en este ciclo — todas las palabras clave están en alza.")
         else:
@@ -334,7 +357,7 @@ def mostrar_keywords():
             fig = px.line(df_sel, x="cycle", y="count", color="keyword", markers=True,
                           title="Evolución temporal de keywords seleccionados",
                           labels={"cycle": "Ciclo", "count": "Score TF-IDF", "keyword": "Keyword"})
-            st.plotly_chart(fig, use_container_width=True)
+            st.plotly_chart(fig, width="stretch")
 
     st.subheader("🏆 Top keywords acumulados")
     path = keywords_paths["history"]
@@ -345,36 +368,19 @@ def mostrar_keywords():
         fig = px.bar(top, x="keyword", y="count", color="count",
                      title="Top 30 keywords por score acumulado",
                      color_continuous_scale="Blues")
-        st.plotly_chart(fig, use_container_width=True)
+        st.plotly_chart(fig, width="stretch")
 
     st.caption(f"Actualizado cada 30 minutos · Odroid-C2 · © 2026 M. Castillo")
 
-
-
-
     st.markdown("---")
     st.markdown("### Apoya Narrative Radar")
-    st.markdown(
-        """
-        <div style="text-align:center; padding:10px;">
-            <a href="https://ko-fi.com/m_castillo" target="_blank">
-                <img src="https://ko-fi.com/img/githubbutton_sm.svg" style="height:40px;">
-            </a><br><br>
-            <a href="https://ko-fi.com/m_castillo" target="_blank"
-               style="background:#FF5E5B;color:white;padding:10px 24px;border-radius:6px;font-weight:bold;text-decoration:none;font-size:15px;">
-                Invitame a un cafe - 1 EUR
-            </a><br><br>
-            <small style="color:#888;">Briefing diario PDF - Analisis narrativas</small>
-        </div>""",
-        unsafe_allow_html=True
-    )
+    st.markdown(_KOFI_HTML, unsafe_allow_html=True)
     mostrar_keywords_gestion()
 
 def mostrar_historico():
     st.header("Histórico de ciclos")
     st.markdown("Evolución temporal de cada módulo a lo largo de los ciclos de ingestión.")
 
-    # ── Narrativas ─────────────────────────────────────────
     st.subheader("🧩 Narrativas — evolución de clusters por ciclo")
     path = history_paths["Narrativas"]
     if os.path.exists(path):
@@ -382,11 +388,10 @@ def mostrar_historico():
         fig = px.line(df, x="cycle", y="count", color="cluster_label", markers=True,
                       title="Evolución de clusters narrativos por ciclo",
                       labels={"cycle": "Ciclo", "count": "Noticias", "cluster_label": "Cluster"})
-        st.plotly_chart(fig, use_container_width=True)
+        st.plotly_chart(fig, width="stretch")
     else:
         st.info("Sin histórico de narrativas aún.")
 
-    # ── Emociones ──────────────────────────────────────────
     st.subheader("📊 Emociones — evolución por ciclo")
     path = history_paths["Emociones"]
     if os.path.exists(path):
@@ -395,11 +400,10 @@ def mostrar_historico():
         fig = px.line(df, x="cycle", y="count", color="emotion", markers=True,
                       title="Evolución emocional por ciclo de ingestión",
                       labels={"cycle": "Ciclo", "count": "Noticias", "emotion": "Emoción"})
-        st.plotly_chart(fig, use_container_width=True)
+        st.plotly_chart(fig, width="stretch")
     else:
         st.info("Sin histórico de emociones aún.")
 
-    # ── Polarización ───────────────────────────────────────
     st.subheader("📈 Polarización — evolución por ciclo")
     path = history_paths["Polarización"]
     if os.path.exists(path):
@@ -410,11 +414,10 @@ def mostrar_historico():
                       title="Índice de polarización medio por ciclo",
                       labels={"cycle": "Ciclo", "polarization_media": "Polarización media"})
         fig.update_traces(line_color="#e05c00", line_width=2)
-        st.plotly_chart(fig, use_container_width=True)
+        st.plotly_chart(fig, width="stretch")
     else:
         st.info("Sin histórico de polarización aún.")
 
-    # ── Tendencias ─────────────────────────────────────────
     st.subheader("🔑 Tendencias — top keywords por ciclo")
     path = history_paths["Tendencias"]
     if os.path.exists(path):
@@ -425,11 +428,10 @@ def mostrar_historico():
         fig = px.bar(df_sel, x="keyword", y="count", color="count",
                      title=f"Top keywords — {selected}",
                      color_continuous_scale="Blues")
-        st.plotly_chart(fig, use_container_width=True)
+        st.plotly_chart(fig, width="stretch")
     else:
         st.info("Sin histórico de tendencias aún.")
 
-    # ── Cobertura Gobierno ─────────────────────────────────
     st.subheader("🏛️ Cobertura Gobierno — alineamiento por ciclo")
     path = history_paths["Cobertura Gobierno"]
     if os.path.exists(path):
@@ -438,11 +440,10 @@ def mostrar_historico():
         fig = px.bar(df_agg, x="cycle", y="count", color="alignment", barmode="stack",
                      title="Distribución de alineamiento mediático por ciclo",
                      labels={"cycle": "Ciclo", "count": "Fuentes", "alignment": "Alineamiento"})
-        st.plotly_chart(fig, use_container_width=True)
+        st.plotly_chart(fig, width="stretch")
     else:
         st.info("Sin histórico de cobertura gobierno aún.")
 
-    # ── Propagación ────────────────────────────────────────
     st.subheader("📡 Propagación — spread index por ciclo")
     path = history_paths["Propagación"]
     if os.path.exists(path):
@@ -453,11 +454,10 @@ def mostrar_historico():
                       title="Spread index medio por ciclo",
                       labels={"cycle": "Ciclo", "spread_medio": "Spread medio"})
         fig.update_traces(line_color="#1f77b4", line_width=2)
-        st.plotly_chart(fig, use_container_width=True)
+        st.plotly_chart(fig, width="stretch")
     else:
         st.info("Sin histórico de propagación aún.")
 
-    # ── Red de Actores ─────────────────────────────────────
     st.subheader("🕸️ Red de Actores — relaciones por ciclo")
     path = history_paths["Red de Actores"]
     if os.path.exists(path):
@@ -466,15 +466,14 @@ def mostrar_historico():
         fig = px.bar(df_agg, x="cycle", y="weight",
                      title="Peso total de relaciones por ciclo",
                      labels={"cycle": "Ciclo", "weight": "Peso total"})
-        st.plotly_chart(fig, use_container_width=True)
+        st.plotly_chart(fig, width="stretch")
         st.markdown("**Top relaciones acumuladas:**")
         top = df.groupby(["source","target"])["weight"].sum().reset_index()
         top = top.sort_values("weight", ascending=False).head(10)
-        st.dataframe(top, use_container_width=True)
+        st.dataframe(top, width="stretch")
     else:
         st.info("Sin histórico de red de actores aún.")
 
-    # ── Análisis Masivos ───────────────────────────────────
     st.subheader("📰 Análisis Masivos — intensidad por ciclo")
     path = history_paths["Análisis Masivos"]
     if os.path.exists(path):
@@ -485,7 +484,7 @@ def mostrar_historico():
         fig = px.bar(df_sel, x="source", y="intensity_index", color="intensity_index",
                      title=f"Intensidad por medio — {selected}",
                      color_continuous_scale="Reds")
-        st.plotly_chart(fig, use_container_width=True)
+        st.plotly_chart(fig, width="stretch")
     else:
         st.info("Sin histórico de análisis masivos aún — disponible en próximo ciclo.")
 
@@ -499,7 +498,6 @@ def mostrar_howto():
     Este tab contiene instrucciones para entender y operar el dashboard.
     """)
 
-    # ── PDF embebido ─────────────────────────────────────────────
     pdf_current = os.path.join(base_dir, "guia_dashboard.pdf")
     history_dir = os.path.join(base_dir, "guia_history")
 
@@ -507,7 +505,6 @@ def mostrar_howto():
         mtime = os.path.getmtime(pdf_current)
         fecha_pdf = datetime.fromtimestamp(mtime).strftime("%Y-%m-%d %H:%M:%S")
         st.success(f"📄 Guía v1.3 — Última actualización: {fecha_pdf}")
-
         with open(pdf_current, "rb") as f:
             pdf_bytes = f.read()
         import base64
@@ -521,7 +518,6 @@ def mostrar_howto():
     else:
         st.warning("PDF de guía no generado aún — se generará en el próximo ciclo.")
 
-    # ── Versiones anteriores ─────────────────────────────────────
     if os.path.exists(history_dir):
         versions = sorted(os.listdir(history_dir), reverse=True)
         if versions:
@@ -587,7 +583,7 @@ python3 scripts/run_all.py""", language="bash")
         import yaml
         with open(sources_path, "r") as f:
             config = yaml.safe_load(f)
-        st.dataframe(pd.DataFrame(config["sources"]), use_container_width=True)
+        st.dataframe(pd.DataFrame(config["sources"]), width="stretch")
     except Exception as e:
         st.warning(f"No se pudo cargar sources.yaml: {e}")
 
@@ -616,17 +612,7 @@ python3 scripts/run_all.py""", language="bash")
 
     st.markdown("---")
     st.markdown("### Apoya Narrative Radar")
-    st.markdown(
-        """<div style=\"text-align:center;padding:10px;\">
-        <a href=\"https://ko-fi.com/m_castillo\" target=\"_blank\">
-        <img src=\"https://ko-fi.com/img/githubbutton_sm.svg\" style=\"height:40px;\"></a><br><br>
-        <a href=\"https://ko-fi.com/m_castillo\" target=\"_blank\"
-        style=\"background:#FF5E5B;color:white;padding:10px 24px;border-radius:6px;font-weight:bold;text-decoration:none;font-size:15px;\">
-        Invitame a un cafe - 1 EUR</a><br><br>
-        <small style=\"color:#888;\">Briefing diario PDF - Analisis narrativas</small>
-        </div>""",
-        unsafe_allow_html=True
-    )
+    st.markdown(_KOFI_HTML, unsafe_allow_html=True)
     st.success("✅ Sistema operativo. Pipeline cada 30 min.")
 
 def mostrar_tab(tab_name, csv_path):
@@ -659,9 +645,9 @@ def _mostrar_tab_inner(tab_name, csv_path):
                      title="Score viral por keyword",
                      labels={"viral_score":"Score viral","keyword":"Keyword","ratio":"Multiplicador"})
         fig.update_layout(height=450)
-        st.plotly_chart(fig, use_container_width=True)
+        st.plotly_chart(fig, width="stretch")
         st.dataframe(df[["keyword","viral_score","ratio","count_now","count_base","sources"]],
-                     use_container_width=True)
+                     width="stretch")
         return
 
     if tab_name == "Personajes":
@@ -686,7 +672,7 @@ def _mostrar_tab_inner(tab_name, csv_path):
                          title="Menciones por personaje",
                          labels={"mentions":"Menciones","persona":"Personaje","sentiment_score":"Sentimiento"})
             fig.update_layout(height=max(400, len(df)*30), yaxis=dict(tickfont=dict(size=12)))
-            st.plotly_chart(fig, use_container_width=True)
+            st.plotly_chart(fig, width="stretch")
         with col2:
             fig2 = px.bar(df.sort_values("sentiment_score"),
                           x="sentiment_score", y="persona", orientation="h",
@@ -696,9 +682,9 @@ def _mostrar_tab_inner(tab_name, csv_path):
                           title="Score de sentimiento por personaje",
                           labels={"sentiment_score":"Score","persona":"Personaje"})
             fig2.update_layout(height=max(400, len(df)*30), yaxis=dict(tickfont=dict(size=12)))
-            st.plotly_chart(fig2, use_container_width=True)
+            st.plotly_chart(fig2, width="stretch")
         st.dataframe(df[["persona","mentions","positive","negative","neutral","sentiment_score","last_title"]],
-                     use_container_width=True)
+                     width="stretch")
         return
 
     if tab_name == "Narrativas Ideológicas":
@@ -738,7 +724,7 @@ def _mostrar_tab_inner(tab_name, csv_path):
                          labels={"avg_score":"Score (-1=anti, +1=pro)","block":"Bloque"})
             fig.add_vline(x=0, line_dash="dash", line_color="white", opacity=0.5)
             fig.update_layout(height=350)
-            st.plotly_chart(fig, use_container_width=True)
+            st.plotly_chart(fig, width="stretch")
         with col_b:
             fig2 = px.bar(df.sort_values("total", ascending=False),
                           x="block", y=["pro","anti","neutral"],
@@ -746,11 +732,12 @@ def _mostrar_tab_inner(tab_name, csv_path):
                           labels={"value":"Menciones","block":"Bloque","variable":"Posición"},
                           color_discrete_map={"pro":"#4CAF50","anti":"#F44336","neutral":"#9E9E9E"})
             fig2.update_layout(height=350)
-            st.plotly_chart(fig2, use_container_width=True)
+            st.plotly_chart(fig2, width="stretch")
         st.subheader("Detalle por bloque")
         st.dataframe(df[["block","total","pro_pct","anti_pct","avg_score","dominant"]].sort_values("avg_score", ascending=False),
-                     use_container_width=True)
+                     width="stretch")
         return
+
     if tab_name == "Diversidad":
         st.header("Índice de Diversidad Informativa 📊")
         st.markdown("Mide cuántos temas **únicos** publica cada medio vs cuántos **replica** de otros.")
@@ -771,16 +758,16 @@ def _mostrar_tab_inner(tab_name, csv_path):
                      title="Índice de diversidad por fuente",
                      labels={"diversity_score":"Score diversidad","source":"Fuente","originality":"Originalidad"})
         fig.update_layout(height=600)
-        st.plotly_chart(fig, use_container_width=True)
+        st.plotly_chart(fig, width="stretch")
         col_a, col_b = st.columns(2)
         with col_a:
             st.subheader("🏆 Más diversos")
             st.dataframe(df.head(5)[["source","diversity_score","originality","news_count"]],
-                         use_container_width=True)
+                         width="stretch")
         with col_b:
             st.subheader("📋 Menos originales")
             st.dataframe(df.tail(5)[["source","diversity_score","originality","repeated_news"]],
-                         use_container_width=True)
+                         width="stretch")
         return
 
     if tab_name == "Mapa Geográfico":
@@ -792,13 +779,10 @@ def _mostrar_tab_inner(tab_name, csv_path):
             df = pd.read_csv(csv_path)
         except Exception as e:
             st.error(f"Error: {e}"); return
-
         col1, col2, col3 = st.columns(3)
         col1.metric("Total menciones", int(df["mentions"].sum()))
         col2.metric("CCAs con menciones", int((df["mentions"]>0).sum()))
         col3.metric("CCAA líder", df.loc[df["mentions"].idxmax(),"ccaa"] if len(df)>0 else "-")
-
-        # Mapa usando scattergeo con coordenadas de capitales de CCAA
         CCAA_COORDS = {
             "Madrid":{"lat":40.42,"lon":-3.70},"Cataluña":{"lat":41.38,"lon":2.17},
             "Andalucía":{"lat":37.39,"lon":-5.99},"Comunidad Valenciana":{"lat":39.47,"lon":-0.38},
@@ -845,20 +829,16 @@ def _mostrar_tab_inner(tab_name, csv_path):
             margin={"r":0,"t":40,"l":0,"b":0},
             paper_bgcolor="#1a1a2e",
             font=dict(color="white"),
-            coloraxis_colorbar=dict(
-                title="Menciones",
-                tickfont=dict(color="white"),
-            )
+            coloraxis_colorbar=dict(title="Menciones", tickfont=dict(color="white"))
         )
-        st.plotly_chart(fig, use_container_width=True)
-
+        st.plotly_chart(fig, width="stretch")
         fig2 = px.bar(df[df["mentions"]>0].sort_values("mentions"),
                       x="mentions", y="ccaa", orientation="h",
                       color="mentions", color_continuous_scale="Reds",
                       title="Ranking de menciones por CCAA",
                       labels={"mentions":"Menciones","ccaa":"CCAA"})
         fig2.update_layout(height=450)
-        st.plotly_chart(fig2, use_container_width=True)
+        st.plotly_chart(fig2, width="stretch")
         return
 
     if tab_name == "Sentimiento NLP":
@@ -873,7 +853,6 @@ def _mostrar_tab_inner(tab_name, csv_path):
             df_source = pd.read_csv(by_source_path) if os.path.exists(by_source_path) else pd.DataFrame()
         except Exception as e:
             st.error(f"Error: {e}"); return
-
         col1, col2, col3 = st.columns(3)
         if len(df) > 0:
             pos = df[df["sentiment"]=="positivo"]["count"].sum() if "count" in df.columns else 0
@@ -882,15 +861,13 @@ def _mostrar_tab_inner(tab_name, csv_path):
             col1.metric("Positivos", f"{pos} ({pos/(pos+neg+neu)*100:.1f}%)" if pos+neg+neu>0 else "0")
             col2.metric("Negativos", f"{neg} ({neg/(pos+neg+neu)*100:.1f}%)" if pos+neg+neu>0 else "0")
             col3.metric("Neutrales", f"{neu} ({neu/(pos+neg+neu)*100:.1f}%)" if pos+neg+neu>0 else "0")
-
         col_a, col_b = st.columns(2)
         with col_a:
             fig = px.pie(df, values="count", names="sentiment",
                          title="Distribución global de sentimiento",
                          color="sentiment",
                          color_discrete_map={"positivo":"#2ECC71","negativo":"#E74C3C","neutral":"#95A5A6"})
-            st.plotly_chart(fig, use_container_width=True)
-
+            st.plotly_chart(fig, width="stretch")
         with col_b:
             if len(df_source) > 0:
                 fig2 = px.bar(df_source.sort_values("negativity_pct", ascending=True).tail(15),
@@ -899,14 +876,11 @@ def _mostrar_tab_inner(tab_name, csv_path):
                               title="% negativo por fuente",
                               labels={"negativity_pct":"% negativo","source":"Fuente"},
                               color_continuous_scale="RdYlGn")
-                st.plotly_chart(fig2, use_container_width=True)
-
+                st.plotly_chart(fig2, width="stretch")
         if len(df_source) > 0:
             st.subheader("Sentimiento por fuente")
             st.dataframe(df_source[["source","avg_score","positivity_pct","negativity_pct","total"]].sort_values("avg_score", ascending=False),
-                         use_container_width=True)
-
-        # ── Lenguaje agresivo ──────────────────────────────────
+                         width="stretch")
         st.markdown("---")
         st.subheader("Lenguaje agresivo en titulares 🔥")
         hate_path = os.path.join(base_dir, "hate_alerts.csv")
@@ -922,8 +896,8 @@ def _mostrar_tab_inner(tab_name, csv_path):
                                      color="avg", color_continuous_scale="Reds",
                                      title="Fuentes con más lenguaje agresivo",
                                      labels={"total":"Nº titulares","source":"Fuente","avg":"Score medio"})
-                    st.plotly_chart(fig_hate, use_container_width=True)
-                    st.dataframe(df_hate[["source","title","hate_words","hate_score"]].head(10), use_container_width=True)
+                    st.plotly_chart(fig_hate, width="stretch")
+                    st.dataframe(df_hate[["source","title","hate_words","hate_score"]].head(10), width="stretch")
                 else:
                     st.success("✅ Sin lenguaje agresivo detectado en este ciclo.")
             except Exception as e:
@@ -944,14 +918,12 @@ def _mostrar_tab_inner(tab_name, csv_path):
             st.error(f"Error: {e}"); return
         if df.empty:
             st.warning("Sin datos disponibles."); return
-
         col1, col2, col3 = st.columns(3)
         marcadores = df[df["role"]=="Marcador de agenda"]
         seguidores = df[df["role"]=="Seguidor"]
         col1.metric("Marcadores de agenda", len(marcadores))
         col2.metric("Seguidores", len(seguidores))
         col3.metric("Temas analizados", int(df["topics_total"].sum()//2))
-
         fig = px.bar(df.sort_values("agenda_score", ascending=True).tail(20),
                      x="agenda_score", y="source", orientation="h",
                      color="role",
@@ -964,17 +936,16 @@ def _mostrar_tab_inner(tab_name, csv_path):
                          "Independiente":"#888888"
                      })
         fig.update_layout(height=550)
-        st.plotly_chart(fig, use_container_width=True)
-
+        st.plotly_chart(fig, width="stretch")
         col_a, col_b = st.columns(2)
         with col_a:
             st.subheader("🔴 Marcadores de agenda")
             st.dataframe(df[df["role"]=="Marcador de agenda"][["source","agenda_score","times_first","topics_total"]],
-                         use_container_width=True)
+                         width="stretch")
         with col_b:
             st.subheader("🔵 Seguidores")
             st.dataframe(df[df["role"].isin(["Seguidor","Mixto"])][["source","agenda_score","follower_score","topics_total"]],
-                         use_container_width=True)
+                         width="stretch")
         return
 
     if tab_name == "Coordinación":
@@ -990,23 +961,20 @@ def _mostrar_tab_inner(tab_name, csv_path):
         if df.empty:
             st.info("Sin narrativas coordinadas detectadas en este ciclo.")
             return
-
         col1, col2, col3 = st.columns(3)
         col1.metric("Eventos detectados", len(df))
         col2.metric("Alto score (≥50)", len(df[df["coord_score"]>=50]))
         col3.metric("Max fuentes coordinadas", int(df["n_sources"].max()) if len(df)>0 else 0)
-
         fig = px.bar(df.head(15), x="coord_score", y="representative",
                      orientation="h", color="n_sources",
                      title="Narrativas coordinadas por score",
                      labels={"coord_score":"Score coordinación","representative":"Titular","n_sources":"Nº fuentes"},
                      color_continuous_scale="Reds")
         fig.update_layout(yaxis={"categoryorder":"total ascending"}, height=500)
-        st.plotly_chart(fig, use_container_width=True)
-
+        st.plotly_chart(fig, width="stretch")
         st.subheader("Detalle de eventos")
         st.dataframe(df[["window","coord_score","n_sources","sources","representative"]],
-                     use_container_width=True)
+                     width="stretch")
         return
 
     if tab_name == "Desinformación":
@@ -1037,11 +1005,12 @@ def _mostrar_tab_inner(tab_name, csv_path):
                      title="Score de riesgo por fuente",
                      color_continuous_scale="Reds",
                      labels={"news_source":"Fuente","risk_score":"Score riesgo"})
-        st.plotly_chart(fig, use_container_width=True)
+        st.plotly_chart(fig, width="stretch")
         st.subheader("Detalle de alertas")
         st.dataframe(df[["news_source","risk_score","similarity","news_title","bulo_source","bulo_title"]],
-                     use_container_width=True)
+                     width="stretch")
         return
+
     if tab_name == "Keywords":
         mostrar_keywords()
         return
@@ -1082,8 +1051,8 @@ def _mostrar_tab_inner(tab_name, csv_path):
                      title="Clusters de narrativas detectadas",
                      color_continuous_scale="Reds",
                      labels={"cluster":"Cluster","count":"Noticias"})
-        st.plotly_chart(fig, use_container_width=True)
-        st.dataframe(df[["cluster_label","count"]].sort_values("count", ascending=False), use_container_width=True)
+        st.plotly_chart(fig, width="stretch")
+        st.dataframe(df[["cluster_label","count"]].sort_values("count", ascending=False), width="stretch")
     elif tab_name == "Radar Emocional" and "emotion" in df.columns:
         st.markdown("""
 **Cómo leer este gráfico:**
@@ -1104,7 +1073,7 @@ def _mostrar_tab_inner(tab_name, csv_path):
             fig = px.bar(df_vis, x="emotion", y="count", color="emotion",
                          title="Distribución emocional actual",
                          color_discrete_map={"Miedo":"#9C27B0","Ira":"#F44336","Tristeza":"#2196F3","Sorpresa":"#FF9800","Alegría":"#4CAF50"})
-            st.plotly_chart(fig, use_container_width=True)
+            st.plotly_chart(fig, width="stretch")
         with col_b:
             hist_path = os.path.join(base_dir, "emotions_history.csv")
             if os.path.exists(hist_path):
@@ -1113,7 +1082,7 @@ def _mostrar_tab_inner(tab_name, csv_path):
                 fig2 = px.line(df_hist, x="cycle", y="count", color="emotion", markers=True,
                                title="Evolución emocional desde 6 marzo",
                                labels={"cycle":"Ciclo","count":"Noticias","emotion":"Emoción"})
-                st.plotly_chart(fig2, use_container_width=True)
+                st.plotly_chart(fig2, width="stretch")
     elif tab_name == "Polarización" and "date" in df.columns:
         st.markdown("""
 **Cómo leer este gráfico:**
@@ -1124,7 +1093,7 @@ def _mostrar_tab_inner(tab_name, csv_path):
         last = df.iloc[-1] if len(df) > 0 else None
         if last is not None:
             col1, col2, col3 = st.columns(3)
-            col1.metric("Índice hoy", f"{last["polarization_index"]:.3f}")
+            col1.metric("Índice hoy", f"{last['polarization_index']:.3f}")
             col2.metric("Fuentes progresistas", int(last["progressive_count"]))
             col3.metric("Fuentes conservadoras", int(last["conservative_count"]))
         fig = px.line(df, x="date", y="polarization_index", markers=True,
@@ -1132,16 +1101,16 @@ def _mostrar_tab_inner(tab_name, csv_path):
                       labels={"date": "Fecha", "polarization_index": "Índice (0=equilibrio, 1=máx polarización)"})
         fig.add_hline(y=0.3, line_dash="dash", line_color="orange", annotation_text="Alerta moderada")
         fig.add_hline(y=0.6, line_dash="dash", line_color="red", annotation_text="Alta polarización")
-        st.plotly_chart(fig, use_container_width=True)
+        st.plotly_chart(fig, width="stretch")
         col_a, col_b = st.columns(2)
         with col_a:
             fig2 = px.bar(df.tail(14), x="date", y=["progressive_count","conservative_count"],
                           title="Fuentes activas últimas 2 semanas",
                           labels={"date":"Fecha","value":"Fuentes","variable":"Bloque"},
                           color_discrete_map={"progressive_count":"#2196F3","conservative_count":"#F44336"})
-            st.plotly_chart(fig2, use_container_width=True)
+            st.plotly_chart(fig2, width="stretch")
         with col_b:
-            st.dataframe(df[["date","polarization_index","progressive_count","conservative_count"]].tail(14).sort_values("date", ascending=False), use_container_width=True)
+            st.dataframe(df[["date","polarization_index","progressive_count","conservative_count"]].tail(14).sort_values("date", ascending=False), width="stretch")
     elif tab_name == "Red de Actores" and "source" in df.columns:
         st.markdown("""
 **Cómo leer este gráfico:**
@@ -1157,8 +1126,8 @@ def _mostrar_tab_inner(tab_name, csv_path):
         fig = px.bar(df.sort_values("weight", ascending=False).head(20), x="source", y="weight", color="target",
                      title="Red de actores — peso de relaciones (top 20)",
                      labels={"source": "Medio origen", "weight": "Peso", "target": "Medio destino"})
-        st.plotly_chart(fig, use_container_width=True)
-        st.dataframe(df[["source","target","weight"]].sort_values("weight", ascending=False).head(15), use_container_width=True)
+        st.plotly_chart(fig, width="stretch")
+        st.dataframe(df[["source","target","weight"]].sort_values("weight", ascending=False).head(15), width="stretch")
     elif tab_name == "Propagación" and "date" in df.columns:
         st.markdown("""
 **Cómo leer este gráfico:**
@@ -1170,7 +1139,7 @@ def _mostrar_tab_inner(tab_name, csv_path):
         last = df.iloc[-1] if len(df) > 0 else None
         if last is not None:
             col1, col2, col3 = st.columns(3)
-            col1.metric("Índice hoy", f"{last["spread_index"]:.1f}")
+            col1.metric("Índice hoy", f"{last['spread_index']:.1f}")
             col2.metric("Noticias hoy", int(last["news_count"]))
             col3.metric("Fuentes activas", int(last["sources_active"]))
         fig = px.line(df, x="date", y="spread_index", markers=True,
@@ -1179,8 +1148,8 @@ def _mostrar_tab_inner(tab_name, csv_path):
         fig.update_traces(line_color="#e05c00", line_width=2)
         fig.add_hline(y=30, line_dash="dash", line_color="green", annotation_text="Actividad baja")
         fig.add_hline(y=70, line_dash="dash", line_color="red", annotation_text="Actividad alta")
-        st.plotly_chart(fig, use_container_width=True)
-        st.dataframe(df[["date","spread_index","news_count","sources_active"]].tail(14).sort_values("date", ascending=False), use_container_width=True)
+        st.plotly_chart(fig, width="stretch")
+        st.dataframe(df[["date","spread_index","news_count","sources_active"]].tail(14).sort_values("date", ascending=False), width="stretch")
     elif tab_name == "Tendencias" and "keyword" in df.columns:
         st.markdown("""
 **Cómo leer este gráfico:**
@@ -1197,8 +1166,7 @@ def _mostrar_tab_inner(tab_name, csv_path):
                      title="Top 20 palabras clave más frecuentes",
                      color_continuous_scale="Blues",
                      labels={"keyword":"Keyword","count":"Menciones"})
-        st.plotly_chart(fig, use_container_width=True)
-        # ── Nube de palabras ──────────────────────────────
+        st.plotly_chart(fig, width="stretch")
         st.subheader("☁️ Nube de palabras")
         try:
             from wordcloud import WordCloud
@@ -1212,7 +1180,7 @@ def _mostrar_tab_inner(tab_name, csv_path):
             buf = io.BytesIO()
             img.save(buf, format="PNG")
             buf.seek(0)
-            st.image(buf, use_container_width=True)
+            st.image(buf, width="stretch")
         except Exception as e:
             st.warning(f"Nube de palabras no disponible: {e}")
     elif tab_name == "Cobertura Gobierno" and "source" in df.columns:
@@ -1236,7 +1204,7 @@ def _mostrar_tab_inner(tab_name, csv_path):
                      labels={"source": "Medio", "alignment_score": "Score"},
                      color_discrete_map={"Pro-Gobierno":"#2196F3","Contra-Gobierno":"#F44336","Neutral":"#9E9E9E"})
         fig.add_hline(y=0, line_dash="dash", line_color="gray")
-        st.plotly_chart(fig, use_container_width=True)
+        st.plotly_chart(fig, width="stretch")
     elif tab_name == "Análisis Masivos" and "source" in df.columns:
         st.markdown("""
 **Cómo leer este gráfico:**
@@ -1253,16 +1221,15 @@ def _mostrar_tab_inner(tab_name, csv_path):
                      title="Intensidad de cobertura por medio",
                      color_continuous_scale="Reds",
                      labels={"source":"Medio","intensity_index":"Índice intensidad"})
-        st.plotly_chart(fig, use_container_width=True)
+        st.plotly_chart(fig, width="stretch")
 
-    st.dataframe(df, use_container_width=True)
+    st.dataframe(df, width="stretch")
 
 def generar_pdf():
     try:
         from gen_guia_narrativa import generar_pdf_completo
         return generar_pdf_completo(base_dir, current_dir, paths)
     except ImportError:
-        # Fallback: generador mínimo original (fpdf)
         from fpdf import FPDF
         import os
         from datetime import datetime
@@ -1318,12 +1285,10 @@ if os.path.exists(briefing_pdf):
         data=_pdf_bytes,
         file_name=f"briefing_{datetime.now().strftime('%Y%m%d')}.pdf",
         mime="application/pdf",
-        use_container_width=True
+        width="stretch"
     )
 else:
     st.info("Briefing diario no disponible aún — se genera a las 07:08 y 19:08.")
-
-
 
 st.subheader("📄 Guía y Metadatos")
 col1, col2 = st.columns(2)
