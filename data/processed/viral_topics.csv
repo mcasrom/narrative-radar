@@ -1,13 +1,25 @@
 keyword,count_now,count_base,ratio,viral_score,sources,n_sources,sample_title,detected_at
-sigue,3,1,20.23,100,"elcorreo, okdiario",2,Sigue en directo la última hora de la guerra en Oriente Medio | Nueva oleada de ataques de Israel contra Irán y Líbano,2026-03-17 07:34
-directo,3,2,10.11,100,"elcorreo, 20minutos",2,Sigue en directo la última hora de la guerra en Oriente Medio | Nueva oleada de ataques de Israel contra Irán y Líbano,2026-03-17 07:34
-parece,3,3,6.74,100,"elcorreo, okdiario",2,El exDAO acusado de violar a una subordinada y su presunta víctima comparecen hoy ante el juez,2026-03-17 07:34
-santa,3,4,5.06,100,"okdiario, elpais",2,Parece Mánchester pero está en el País Vasco y es el pueblo Medieval favorito para ir en Semana Santa: con una reserva natural y mirador para disfrutar de panorámicas,2026-03-17 07:34
-predicción,3,1,20.23,100,okdiario,1,"Predicción del horóscopo para Cáncer hoy, martes 17 de marzo de 2026",2026-03-17 07:34
-horóscopo,3,2,10.11,100,okdiario,1,"Predicción del horóscopo para Cáncer hoy, martes 17 de marzo de 2026",2026-03-17 07:34
-oscar,3,1,20.23,100,20minutos,1,"Javier Bardem lleva el recuerdo de los Goya del 'No a la guerra' a los Oscar: ""Las mismas mentiras""",2026-03-17 07:34
-contra,3,5,4.05,80,"elcorreo, huffington_es, lavanguardia",3,Sigue en directo la última hora de la guerra en Oriente Medio | Nueva oleada de ataques de Israel contra Irán y Líbano,2026-03-17 07:34
-menos,3,5,4.05,80,"huffington_es, okdiario, elpais",3,Al menos 400 muertos y 250 heridos en el bombardeo de Pakistán contra un hospital de Kabul,2026-03-17 07:34
-semana,5,9,3.75,74,"elcorreo, okdiario, elpais, lavanguardia",4,Incidentes en el centro de menores de Castro: «Lo del fin de semana ha sido una batalla campal»,2026-03-17 07:34
-martes,3,6,3.37,67,okdiario,1,"Predicción del horóscopo para Cáncer hoy, martes 17 de marzo de 2026",2026-03-17 07:34
-euros,4,11,2.45,49,"okdiario, 20minutos, elpais",3,Parece de Zara Home pero es de Carrefour: la vajilla más elegante de esta primavera que ya puedes comprar por menos de 40 euros,2026-03-17 07:34
+bilbao,3,1,15.82,100,"elcorreo, okdiario",2,Suede sudando la camisa blanca en un Bilbao entregado,2026-03-17 08:04
+rosalía,3,1,15.82,100,"elespanol, huffington_es, heraldo_aragon",3,Rosalía hace del escenario su templo y su teatro en el inicio de la gira de 'Lux' en Lyon,2026-03-17 08:04
+soleado,3,0,5.0,100,okdiario,1,AEMET prevé un día soleado y cálido en Bilbao con viento suave del sur,2026-03-17 08:04
+prevé,3,0,5.0,100,okdiario,1,AEMET prevé un día soleado y cálido en Bilbao con viento suave del sur,2026-03-17 08:04
+heridos,3,1,15.82,100,"elmundo, google_news_internacional, huffington_es",3,Afganistán acusa a Pakistán del bombardeo al hospital de los adictos a la heroína con 400 muertos y 250 heridos,2026-03-17 08:04
+muertos,3,3,5.27,100,"elmundo, google_news_internacional, huffington_es",3,Afganistán acusa a Pakistán del bombardeo al hospital de los adictos a la heroína con 400 muertos y 250 heridos,2026-03-17 08:04
+bombardeo,3,3,5.27,100,"elmundo, google_news_internacional, huffington_es",3,Afganistán acusa a Pakistán del bombardeo al hospital de los adictos a la heroína con 400 muertos y 250 heridos,2026-03-17 08:04
+confirma,3,1,15.82,100,"okdiario, levante_emv",2,Alerta de Jorge Rey: la nieve vuelve a España en Semana Santa y las cabañuelas lo han confirmado,2026-03-17 08:04
+seguridad,3,3,5.27,100,"okdiario, heraldo_aragon, google_news_internacional",3,Cambio histórico en la Seguridad Social: el BOE confirma que ya no hace falta esperar a los 65 para jubilarse,2026-03-17 08:04
+predicción,3,3,5.27,100,okdiario,1,"Predicción del horóscopo para Virgo hoy, martes 17 de marzo de 2026",2026-03-17 08:04
+aemet,5,0,5.0,100,okdiario,1,"Cielo despejado y temperaturas en ascenso hoy en Zaragoza, según AEMET",2026-03-17 08:04
+directo,3,3,5.27,100,elcorreo,1,"Sigue en directo la jornada de huelga general | Piquetes en las grandes empresas, tranquilidad en el transporte público y cortes en los accesos a Bilbao",2026-03-17 08:04
+sigue,3,2,7.91,100,elcorreo,1,"Sigue en directo la jornada de huelga general | Piquetes en las grandes empresas, tranquilidad en el transporte público y cortes en los accesos a Bilbao",2026-03-17 08:04
+acusa,3,0,5.0,100,"expansion, elmundo, google_news_internacional, elcorreo",4,El Ibex acusa el nuevo giro alcista del petróleo,2026-03-17 08:04
+colombia,3,0,5.0,100,"elespanol, elmundo, google_news_es",3,"Petro denuncia que Ecuador está bombardeando Colombia en la frontera: hallan una bomba ""tirada desde un avión""",2026-03-17 08:04
+ecuador,3,3,5.27,100,"elespanol, elmundo, google_news_es",3,"Petro denuncia que Ecuador está bombardeando Colombia en la frontera: hallan una bomba ""tirada desde un avión""",2026-03-17 08:04
+horóscopo,3,4,3.96,79,okdiario,1,"Predicción del horóscopo para Virgo hoy, martes 17 de marzo de 2026",2026-03-17 08:04
+primera,3,4,3.96,79,"expansion, 20minutos",2,"La Primera de Expansión sobre Repsol, Brookfield, defensa, Santander, Leapmotor y Nvidia",2026-03-17 08:04
+hospital,3,4,3.96,79,"elmundo, google_news_internacional, huffington_es",3,Afganistán acusa a Pakistán del bombardeo al hospital de los adictos a la heroína con 400 muertos y 250 heridos,2026-03-17 08:04
+contra,4,6,3.52,70,"el_confidencial_tech, lavanguardia, elcorreo, huffington_es, 20minutos",5,La NASA fotografía un objeto geométrico en Marte y la ciencia trata de encontrar una explicación,2026-03-17 08:04
+castilla,4,6,3.52,70,"okdiario, google_news_politica, levante_emv",3,Castilla y León: AEMET prevé un día soleado con brumas y ligero ascenso de temperaturas,2026-03-17 08:04
+pakistán,3,5,3.16,63,"elmundo, google_news_internacional, huffington_es",3,Afganistán acusa a Pakistán del bombardeo al hospital de los adictos a la heroína con 400 muertos y 250 heridos,2026-03-17 08:04
+andalucía,3,5,3.16,63,"google_news_internacional, okdiario, levante_emv",3,La alfarería de Úbeda gana proyección internacional en las jornadas Ars Textum de Zamora - Andalucía Información,2026-03-17 08:04
+denuncia,3,6,2.64,52,"elespanol, elmundo, google_news_es",3,"Petro denuncia que Ecuador está bombardeando Colombia en la frontera: hallan una bomba ""tirada desde un avión""",2026-03-17 08:04
