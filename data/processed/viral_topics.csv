@@ -1,13 +1,24 @@
 keyword,count_now,count_base,ratio,viral_score,sources,n_sources,sample_title,detected_at
-manchester,5,9,9.53,100,"google_news_es, elespanol, elpais",3,Manchester City - Real Madrid en directo | Vinicius adelanta al Madrid de penalti y el City se queda con diez - EL PAÍS,2026-03-17 22:04
-directo,8,23,5.97,100,"google_news_es, elespanol, elcorreo, elpais, france24_es",5,Manchester City - Real Madrid en directo | Vinicius adelanta al Madrid de penalti y el City se queda con diez - EL PAÍS,2026-03-17 22:04
-vinicius,5,0,5.0,100,"google_news_es, elespanol, elpais, elcorreo",4,Manchester City - Real Madrid en directo | Vinicius adelanta al Madrid de penalti y el City se queda con diez - EL PAÍS,2026-03-17 22:04
-adelanta,3,2,25.73,100,"google_news_es, elpais, elespanol, elcorreo",4,Manchester City - Real Madrid en directo | Vinicius adelanta al Madrid de penalti y el City se queda con diez - EL PAÍS,2026-03-17 22:04
-penalti,4,1,68.62,100,"google_news_es, 20minutos, elpais, elcorreo",4,Manchester City - Real Madrid en directo | Vinicius adelanta al Madrid de penalti y el City se queda con diez - EL PAÍS,2026-03-17 22:04
-partido,3,7,7.35,100,"elespanol, eldiario, elpais",3,"Manchester City - Real Madrid, fútbol hoy en directo | Gol de Vinicius y Haaland en el partido de octavos de Champions League",2026-03-17 22:04
-marta,3,3,17.15,100,levante_emv,1,"La madre de Marta Calvo: ""¿Legislar en caliente es hacerlo seis años y medio después de que mataran a mi hija Marta?""",2026-03-17 22:04
-etihad,3,0,5.0,100,"elcorreo, elpais, sur",3,Directo | Igualdad en el Etihad al descanso y el City con diez,2026-03-17 22:04
-sorteo,3,3,17.15,100,"levante_emv, elpais",2,Sorteo Bonoloto del martes 17 de marzo de 2026,2026-03-17 22:04
-martes,3,9,5.72,100,"levante_emv, elpais",2,Sorteo Bonoloto del martes 17 de marzo de 2026,2026-03-17 22:04
-madrid,10,36,4.76,95,"google_news_es, elespanol, elpais, 20minutos, elcorreo",5,Manchester City - Real Madrid en directo | Vinicius adelanta al Madrid de penalti y el City se queda con diez - EL PAÍS,2026-03-17 22:04
-marzo,7,27,4.45,88,"elcorreo, levante_emv, sur, elpais",4,"La Bonoloto deja un ganador que se lleva 1,5 millones de euros: comprobar resultados del 17 de marzo",2026-03-17 22:04
+regresa,4,1,54.25,100,"sur, elpais, google_news_es, elespanol",4,Rodríguez Zapatero regresa a Venezuela para seguir de cerca el proceso de amnistía,2026-03-17 22:34
+zapatero,4,1,54.25,100,"sur, elpais, google_news_es, elespanol",4,Rodríguez Zapatero regresa a Venezuela para seguir de cerca el proceso de amnistía,2026-03-17 22:34
+sorteo,4,4,13.56,100,"okdiario, levante_emv",2,"Bonoloto: comprobar el resultado del sorteo de hoy, martes 17 de marzo de 2026",2026-03-17 22:34
+marta,3,3,13.56,100,levante_emv,1,"La madre de Marta Calvo: ""¿Legislar en caliente es hacerlo seis años y medio después de que mataran a mi hija Marta?""",2026-03-17 22:34
+bonoloto,4,3,18.08,100,"20minutos, elcorreo, okdiario, levante_emv",4,La Bonoloto deja un nuevo millonario en España que gana un bote de más de un millón y medio de euros,2026-03-17 22:34
+etihad,3,1,40.69,100,"elcorreo, elpais",2,"Directo | Igualdad en el Etihad, el City con diez y Courtois lesionado",2026-03-17 22:34
+medio,4,9,6.03,100,"elcorreo, 20minutos, levante_emv, france24_es",4,Sigue en directo la última hora de la guerra en Oriente Medio | Irán confirma la muerte de Alí Larijani en el ataque de Israel,2026-03-17 22:34
+haaland,3,1,40.69,100,"sur, elespanol, elpais",3,Directo | Lunin niega el gol a Haaland,2026-03-17 22:34
+amnistía,4,1,54.25,100,"sur, elpais, google_news_es, elespanol",4,Rodríguez Zapatero regresa a Venezuela para seguir de cerca el proceso de amnistía,2026-03-17 22:34
+manchester,6,11,7.4,100,"elpais, google_news_es, levante_emv, elespanol",4,Manchester City - Real Madrid en directo | Courtois se retira lesionado; entra Lunin,2026-03-17 22:34
+martes,4,10,5.42,100,"okdiario, levante_emv",2,"Bonoloto: comprobar el resultado del sorteo de hoy, martes 17 de marzo de 2026",2026-03-17 22:34
+niega,3,5,8.14,100,"france24_es, sur, elespanol",3,"""27 cuerpos calcinados"": Petro eleva el tono de sus denuncias contra Ecuador; Noboa niega bombardeos",2026-03-17 22:34
+secretario,3,2,20.34,100,"heraldo_aragon, okdiario, europapress",3,"Israel mata a Alí Lariyani, secretario del Consejo Supremo de Seguridad Nacional de Irán",2026-03-17 22:34
+defensa,3,1,40.69,100,"20minutos, huffington_es",2,El Gobierno destinará casi 30 millones de euros a tres sistemas de defensa para buques de la Armada,2026-03-17 22:34
+comprobar,3,9,4.52,90,"elcorreo, okdiario",2,"La Bonoloto deja un ganador que se lleva 1,5 millones de euros: comprobar resultados del 17 de marzo",2026-03-17 22:34
+directo,8,26,4.17,83,"elpais, sur, elcorreo, google_news_es, elespanol",5,Manchester City - Real Madrid en directo | Courtois se retira lesionado; entra Lunin,2026-03-17 22:34
+confirma,3,10,4.07,81,"france24_es, elcorreo, europapress",3,"Irán confirma la muerte del jefe de seguridad nacional, Ali Larijani",2026-03-17 22:34
+marzo,9,30,4.07,81,"levante_emv, 20minutos, sur, elcorreo, okdiario",5,Todas las fotos de la Ofrenda del 17 de marzo por la calle de la Paz hasta las 21:30 horas,2026-03-17 22:34
+seguridad,3,11,3.7,73,"heraldo_aragon, france24_es, europapress",3,"Israel mata a Alí Lariyani, secretario del Consejo Supremo de Seguridad Nacional de Irán",2026-03-17 22:34
+muerte,3,12,3.39,67,"france24_es, elcorreo, europapress",3,"Irán confirma la muerte del jefe de seguridad nacional, Ali Larijani",2026-03-17 22:34
+nacional,3,13,3.13,62,"heraldo_aragon, france24_es, europapress",3,"Israel mata a Alí Lariyani, secretario del Consejo Supremo de Seguridad Nacional de Irán",2026-03-17 22:34
+madrid,9,40,3.05,61,"elpais, google_news_es, levante_emv, huffington_es, elespanol",5,Manchester City - Real Madrid en directo | Courtois se retira lesionado; entra Lunin,2026-03-17 22:34
+euros,5,23,2.95,58,"20minutos, europapress, elcorreo, huffington_es",4,El Gobierno destinará casi 30 millones de euros a tres sistemas de defensa para buques de la Armada,2026-03-17 22:34
