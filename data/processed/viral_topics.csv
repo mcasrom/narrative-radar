@@ -1,20 +1,15 @@
 keyword,count_now,count_base,ratio,viral_score,sources,n_sources,sample_title,detected_at
-muertos,3,3,10.66,100,"infolibre, france24_es, elmundo",3,Suben a 912 los muertos y a 2.221 los heridos por la ofensiva aérea israelí contra el Líbano,2026-03-17 18:34
-apoyar,3,0,5.0,100,"levante_emv, europapress",2,"Yolanda Díaz justifica su viaje a EEUU para ver los Oscar y dice que acudió para ""apoyar al cine español""",2026-03-17 18:34
-partidos,3,6,5.33,100,"okdiario, elcorreo, bbc_mundo",3,"Partidos de Champions League hoy: a qué hora empiezan, en qué canal de TV los echan y quién juega",2026-03-17 18:34
-error,3,2,16.0,100,"levante_emv, google_news_internacional",2,"Trump dice que la OTAN comete ""un error muy tonto"" por no apoyarlo en la guerra de Irán",2026-03-17 18:34
-expertos,3,3,10.66,100,"okdiario, heraldo_aragon",2,"La agricultura española absorbe el doble de CO₂ del que libera a la atmósfera, según los expertos",2026-03-17 18:34
-meningitis,3,2,16.0,100,"eldiario, france24_es, elmundo",3,Un brote de meningitis en Reino Unido provoca dos muertes y obliga a suspender los exámenes en la universidad de Kent,2026-03-17 18:34
-cambiar,3,0,5.0,100,"okdiario, bbc_mundo, levante_emv",3,Aston Martin pide a la FIA una excepción de «fuerza mayor» para cambiar el motor de Alonso sin sanción,2026-03-17 18:34
-valencia,3,5,6.4,100,"eldiario, levante_emv",2,Las Fallas no son solo en Valencia: estos son otros lugares que celebran esta fiesta tradicional,2026-03-17 18:34
-ángel,3,2,16.0,100,"google_news_economia, elcorreo, okdiario",3,Indra cae con fuerza por la presión del gobierno para tumbar a Ángel Escribano de la presidencia - El Cronista,2026-03-17 18:34
-escribano,3,4,8.0,100,"google_news_economia, 20minutos, elcorreo",3,Indra cae con fuerza por la presión del gobierno para tumbar a Ángel Escribano de la presidencia - El Cronista,2026-03-17 18:34
-mundo,5,12,4.44,88,"google_news_internacional, 20minutos",2,"Guerra en Irán, última hora hoy, en directo | El máximo asesor antiterrorista de Trump dimite, afirma que Irán no era ""una amenaza inminente"" y acusa al lobby israelí de arrastrar a EEUU a la guerra - El Mundo",2026-03-17 18:34
-oscar,4,10,4.27,85,"levante_emv, eldiario, okdiario, huffington_es",4,"Yolanda Díaz justifica su viaje a EEUU para ver los Oscar y dice que acudió para ""apoyar al cine español""",2026-03-17 18:34
-indra,3,9,3.55,71,"google_news_economia, 20minutos, elcorreo",3,Indra cae con fuerza por la presión del gobierno para tumbar a Ángel Escribano de la presidencia - El Cronista,2026-03-17 18:34
-puede,4,13,3.28,65,"lavanguardia, okdiario, huffington_es",3,El Amazfit T-Rex pro entra en oferta en el aniversario de AliExpress y demuestra que un reloj deportivo puede ser muy resistente,2026-03-17 18:34
-ormuz,4,14,3.05,60,"levante_emv, europapress, google_news_internacional",3,Trump dice que “la OTAN está cometiendo un error estúpido” al no apoyar militarmente la protección de Ormuz,2026-03-17 18:34
-oriente,3,11,2.91,58,"levante_emv, google_news_economia",2,La guerra en Oriente Próximo enfría los recortes de tipos del BCE y la Fed y reaviva el temor a un alza de la inflación,2026-03-17 18:34
-nuevo,5,22,2.42,48,"elpais, elcorreo, 20minutos, heraldo_aragon",4,"Jose Manuel Albesa, nuevo CEO de Puig con Marc Puig como presidente ejecutivo",2026-03-17 18:34
-trump,8,39,2.19,43,"levante_emv, google_news_internacional, elmundo, europapress",4,"Trump dice que la OTAN comete ""un error muy tonto"" por no apoyarlo en la guerra de Irán",2026-03-17 18:34
-marzo,3,15,2.13,42,levante_emv,1,Benitatxell se prepara para la IX Volta a Peu este domingo 22 de marzo,2026-03-17 18:34
+cambiar,3,2,18.21,100,"google_news_internacional, levante_emv, okdiario",3,"El gobierno argentino reacciona ante el mensaje de Irán tras la soflama de Milei: ""Ninguna amenaza va a cambiar la posición del presidente"" - El Mundo",2026-03-17 19:04
+presidente,3,7,5.2,100,"google_news_internacional, elpais, lavanguardia",3,"El gobierno argentino reacciona ante el mensaje de Irán tras la soflama de Milei: ""Ninguna amenaza va a cambiar la posición del presidente"" - El Mundo",2026-03-17 19:04
+guardia,5,2,30.35,100,"heraldo_aragon, levante_emv, elmundo, google_news_internacional, elespanol",5,La Guardia Civil refuerza su presencia en el Jiloca con cuatro jinetes,2026-03-17 19:04
+civil,4,4,12.14,100,"heraldo_aragon, levante_emv, huffington_es, elespanol",4,La Guardia Civil refuerza su presencia en el Jiloca con cuatro jinetes,2026-03-17 19:04
+premios,3,4,9.11,100,"levante_emv, elcorreo",2,"Una ""gran sorpresa"" como consuelo en los premios falleros de Sagunt",2026-03-17 19:04
+albesa,3,1,36.42,100,"okdiario, elpais, lavanguardia",3,Puig nombra a José Manuel Albesa nuevo consejero delegado: es el primero ajeno a la familia,2026-03-17 19:04
+españoles,3,0,5.0,100,"huffington_es, google_news_economia",2,El CIS asegura que el 48% de los españoles tiene miedo a una guerra civil: salimos a preguntar y nos encontramos con más calma,2026-03-17 19:04
+consejo,3,9,4.05,80,"elmundo, google_news_internacional",2,"La conversación telefónica entre Costa y Orban para desbloquear el crédito de 90.000 millones a Ucrania: ""Respete el compromiso asumido en el Consejo Europeo""",2026-03-17 19:04
+mundo,4,16,3.04,60,"google_news_internacional, levante_emv",2,"El gobierno argentino reacciona ante el mensaje de Irán tras la soflama de Milei: ""Ninguna amenaza va a cambiar la posición del presidente"" - El Mundo",2026-03-17 19:04
+fallas,5,20,3.04,60,"levante_emv, eldiario",2,Visitamos en La Victoria la mejor ornamentación de las Fallas de Sagunt,2026-03-17 19:04
+oscar,3,12,3.04,60,"eldiario, elcorreo, levante_emv",3,El primer tráiler de ‘Dune 3’ llega tras los Oscars: el cambio de Timothee Chalamet y el debut de Robert Pattinson,2026-03-17 19:04
+falla,3,16,2.28,45,"levante_emv, eldiario",2,La falla más pequeña del mundo despierta la curiosidad en Xàtiva,2026-03-17 19:04
+barcelona,3,17,2.14,42,"okdiario, eldiario, expansion",3,Barcelona – Newcastle: horario y dónde ver por TV en directo y en streaming online el partido del Barça en la Champions League,2026-03-17 19:04
+larijani,3,18,2.02,40,"france24_es, elmundo, google_news_internacional",3,"“El poder detrás del tono”: Alí Larijani, una muerte que asestaría un duro golpe a la estructura gobernante de Irán",2026-03-17 19:04
