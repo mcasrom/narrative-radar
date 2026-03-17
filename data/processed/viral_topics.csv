@@ -1,15 +1,18 @@
 keyword,count_now,count_base,ratio,viral_score,sources,n_sources,sample_title,detected_at
-carreteras,3,3,11.28,100,"levante_emv, elcorreo, elmundo_espana",3,La UCO detecta que el ex director de Carreteras cobró 25.440 euros de una empresa a la que otorgó una obra de 92 millones,2026-03-17 20:04
-oficial,3,2,16.93,100,"levante_emv, google_news_es",2,Búscate en la visita oficial a las fallas por las diferentes comisiones de Xàtiva,2026-03-17 20:04
-xàtiva,3,6,5.64,100,levante_emv,1,Búscate en la visita oficial a las fallas por las diferentes comisiones de Xàtiva,2026-03-17 20:04
-ayuntamiento,5,10,5.64,100,"google_news_internacional, levante_emv, elcorreo",3,El Ayuntamiento patrocina un año más el Concurso Nacional e Internacional de Cante y Baile ‘Aniya La Gitana de Ronda’ – Ayuntamiento de Ronda - Ayuntamiento de Ronda,2026-03-17 20:04
-nacional,5,11,5.13,100,"google_news_internacional, elcorreo, infolibre, elespanol",4,El Ayuntamiento patrocina un año más el Concurso Nacional e Internacional de Cante y Baile ‘Aniya La Gitana de Ronda’ – Ayuntamiento de Ronda - Ayuntamiento de Ronda,2026-03-17 20:04
-carlos,3,6,5.64,100,"levante_emv, okdiario, google_news_internacional",3,Auren refuerza su área de Derecho Tecnológico con la incorporación de Carlos Rivadulla como nuevo socio,2026-03-17 20:04
-ópera,3,0,5.0,100,"elpais, google_news_es, heraldo_aragon",3,Nueva York resucita a Frida Kahlo y Diego Rivera con una ópera y una exposición,2026-03-17 20:04
-vasco,4,9,5.02,100,"elcorreo, expansion",2,El Gobierno vasco presiona a la Sepi para dar una salida a Tubos Reunidos,2026-03-17 20:04
-sanciones,3,0,5.0,100,"google_news_economia, levante_emv, okdiario",3,La Comisión alerta de sanciones a España si se confirma mal uso de los fondos en Adamuz - El Debate,2026-03-17 20:04
-detecta,3,7,4.84,96,"levante_emv, elmundo_espana, google_news_economia",3,La UCO detecta que el ex director de Carreteras cobró 25.440 euros de una empresa a la que otorgó una obra de 92 millones,2026-03-17 20:04
-frente,3,8,4.23,84,"levante_emv, google_news_economia",2,"Acciona Construcción cifra sus pagos a la empresa vinculada a Santos Cerdán en 6,8 millones frente a los 10,2 identificados por la UCO como abonos",2026-03-17 20:04
-ofrenda,3,8,4.23,84,levante_emv,1,El tiempo en València para los días de Ofrenda 2026: tregua meteorológica con incertidumbre contenida,2026-03-17 20:04
-zaragoza,4,11,4.1,82,"heraldo_aragon, elespanol",2,"Crítica de ópera en Zaragoza: 'La bohème', pasión sin anestesia",2026-03-17 20:04
-niega,3,14,2.42,48,"elpais, google_news_internacional, levante_emv",3,Gerry Adams niega con firmeza la acusación de pertenencia al IRA,2026-03-17 20:04
+civil,3,8,5.28,100,"okdiario, levante_emv, huffington_es",3,La Guardia Civil recupera de la basura los teléfonos de los detenidos por el asesinato de Francisca Cadenas,2026-03-17 20:34
+valldigna,3,1,42.2,100,levante_emv,1,Consulta todos los premios de las Fallas 2026 en Tavernes de la Valldigna,2026-03-17 20:34
+exposición,3,0,5.0,100,"elpais, google_news_es",2,Gaudí en chocolate: una exposición de 10 huevos de pascua inspirados en el Park Güell,2026-03-17 20:34
+xàtiva,3,6,7.03,100,levante_emv,1,Búscate en la visita oficial a las fallas por las diferentes comisiones de Xàtiva,2026-03-17 20:34
+primer,3,8,5.28,100,"levante_emv, huffington_es",2,"Micheál Martin, primer ministro de Irlanda, defiende a Europa y la inmigración ante Trump",2026-03-17 20:34
+comisiones,3,0,5.0,100,levante_emv,1,La Ofrenda Floral de Torrent reúne a 28 comisiones falleras y casas regionales en un emotivo desfile a la Virgen,2026-03-17 20:34
+alzira,3,4,10.55,100,levante_emv,1,Camí Nou pasa de la desolación tras caer la falla a la euforia por ganar en la Especial de Alzira 14 años después,2026-03-17 20:34
+tavernes,3,1,42.2,100,levante_emv,1,Consulta todos los premios de las Fallas 2026 en Tavernes de la Valldigna,2026-03-17 20:34
+ópera,3,0,5.0,100,"elpais, google_news_es, heraldo_aragon",3,Nueva York resucita a Frida Kahlo y Diego Rivera con una ópera y una exposición,2026-03-17 20:34
+ayuntamiento,4,12,4.69,93,"elmundo, google_news_internacional",2,"La mascletá rompe los cristales de la oficina de turismo del Ayuntamiento de Valencia y deja ""aturdidos"" a los asistentes: ""Ha sido brutal""",2026-03-17 20:34
+muerte,3,11,3.84,76,"google_news_internacional, infolibre, levante_emv",3,"Guerra en Irán, última hora hoy, en directo | Irán confirma la muerte del líder de la organización paramilitar Basij pero todavía no la del jefe de seguridad Ali Larijani - El Mundo",2026-03-17 20:34
+fallas,4,17,3.31,66,levante_emv,1,Consulta todos los premios de las Fallas 2026 en Tavernes de la Valldigna,2026-03-17 20:34
+zaragoza,3,13,3.25,64,heraldo_aragon,1,Desalojo de una vivienda de cuatro plantas en La Magdalena de Zaragoza,2026-03-17 20:34
+falla,3,16,2.64,52,levante_emv,1,Consulta todos los premios de las Fallas 2026 en Tavernes de la Valldigna,2026-03-17 20:34
+directo,3,16,2.64,52,"google_news_internacional, france24_es, google_news_es, elcorreo, levante_emv",5,"Guerra en Irán, última hora hoy, en directo | Irán confirma la muerte del líder de la organización paramilitar Basij pero todavía no la del jefe de seguridad Ali Larijani - El Mundo",2026-03-17 20:34
+euros,4,24,2.34,46,"levante_emv, elcorreo, huffington_es",3,GVC Gaesco lanza un fondo de 70 millones de euros para invertir en empresas de 'infratech',2026-03-17 20:34
+mundo,3,19,2.22,44,"google_news_internacional, huffington_es",2,"Guerra en Irán, última hora hoy, en directo | Irán confirma la muerte del líder de la organización paramilitar Basij pero todavía no la del jefe de seguridad Ali Larijani - El Mundo",2026-03-17 20:34
