@@ -1,17 +1,25 @@
 keyword,count_now,count_base,ratio,viral_score,sources,n_sources,sample_title,detected_at
-hombre,3,3,7.16,100,"elconfidencial, elespanol, okdiario, elpais",4,Muere un hombre en el incendio de una vivienda en Valencia de Don Juan (León),2026-03-17 09:34
-terremoto,4,2,14.33,100,"levante_emv, google_news_internacional, okdiario, lavanguardia",4,Un terremoto de magnitud 6 sacude el este de Cuba en medio del apagón,2026-03-17 09:34
-magnitud,3,1,21.49,100,"levante_emv, okdiario, lavanguardia",3,Un terremoto de magnitud 6 sacude el este de Cuba en medio del apagón,2026-03-17 09:34
-sacude,3,1,21.49,100,"levante_emv, google_news_internacional, lavanguardia",3,Un terremoto de magnitud 6 sacude el este de Cuba en medio del apagón,2026-03-17 09:34
-apagón,3,1,21.49,100,"levante_emv, okdiario, lavanguardia",3,Un terremoto de magnitud 6 sacude el este de Cuba en medio del apagón,2026-03-17 09:34
-nacional,3,3,7.16,100,"google_news_internacional, okdiario, google_news_economia",3,Un terremoto sacude Cuba horas después del colapso del sistema eléctrico nacional - Artículo 14,2026-03-17 09:34
-jerusalén,3,1,21.49,100,"levante_emv, elcorreo, maldita",3,"El presidente de Convento Jerusalén: ""Esta falla es una obra maestra que pasará a la historia""",2026-03-17 09:34
-programa,3,3,7.16,100,"elmundo_internacional, google_news_internacional",2,"Las claves sobre el estrecho y el programa nuclear iraní que Trump infravaloró: ""Basta una mina, un dron o un cohete para bloquear Ormuz""",2026-03-17 09:34
-toledo,3,0,5.0,100,"google_news_internacional, huffington_es",2,"Desarticulan en Toledo un grupo criminal internacional por el robo de 58 vehículos valorados en 1,5 millones de euros - COPE",2026-03-17 09:34
-vehículos,3,1,21.49,100,"google_news_internacional, heraldo_aragon",2,"Desarticulan en Toledo un grupo criminal internacional por el robo de 58 vehículos valorados en 1,5 millones de euros - COPE",2026-03-17 09:34
-contra,8,13,4.41,88,"okdiario, elcorreo, levante_emv, huffington_es, google_news_es",5,"Últimas noticias de la guerra de Irán, en directo | Reacciones de Trump, Europa y nueva oleada de ataques contra Irán y Hezbolá",2026-03-17 09:34
-nueva,5,9,3.98,79,"okdiario, levante_emv, huffington_es, google_news_es, efe",5,"Últimas noticias de la guerra de Irán, en directo | Reacciones de Trump, Europa y nueva oleada de ataques contra Irán y Hezbolá",2026-03-17 09:34
-israel,4,8,3.58,71,"elcorreo, maldita, huffington_es, google_news_es",4,Sigue en directo la última hora de la guerra en Oriente Medio | Irán ataca por primera vez la ciudad vieja de Jerusalén e Israel intensifica los bombardeos contra Teherán y Beirut,2026-03-17 09:34
-kabul,3,7,3.07,61,"eldiario, infolibre, elpais",3,Más de 400 muertos en el bombardeo de un hospital en Kabul,2026-03-17 09:34
-directo,4,10,2.87,57,"okdiario, elcorreo, google_news_es",3,"Últimas noticias de la guerra de Irán, en directo | Reacciones de Trump, Europa y nueva oleada de ataques contra Irán y Hezbolá",2026-03-17 09:34
-denuncia,3,9,2.39,47,"levante_emv, huffington_es, elconfidencial",3,Archivada la denuncia por presunto acoso sexual contra el alcalde de La Algaba (Sevilla),2026-03-17 09:34
+gandia,3,2,9.34,100,levante_emv,1,"Gorka Belda, del Club de Córrer el Garbí de Gandia, 5º de España sub18 en salto de longitud",2026-03-17 10:04
+petróleo,3,3,6.22,100,"levante_emv, okdiario",2,El Ibex 35 inicia la jornada con altibajos y con el petróleo Brent en 103 dólares,2026-03-17 10:04
+incendio,3,0,5.0,100,"elconfidencial, elespanol",2,Muere un hombre en el incendio de una vivienda en Valencia de Don Juan (León),2026-03-17 10:04
+jerusalén,4,1,24.9,100,"huffington_es, levante_emv, elcorreo, maldita",4,"Fragmentos de un misil caen cerca del Santo Sepulcro, en la Ciudad Vieja de Jerusalén",2026-03-17 10:04
+imágenes,3,1,18.67,100,"google_news_internacional, levante_emv, maldita",3,"El bombardeo contra un centro sanitario en Kabul, en imágenes | Fotos | Internacional - EL PAÍS",2026-03-17 10:04
+sacude,4,2,12.45,100,"elpais, google_news_internacional, levante_emv",3,Un terremoto de magnitud 6 sacude el este de Cuba,2026-03-17 10:04
+magnitud,4,2,12.45,100,"elpais, google_news_internacional, levante_emv, okdiario",4,Un terremoto de magnitud 6 sacude el este de Cuba,2026-03-17 10:04
+terremoto,5,3,10.37,100,"elpais, google_news_internacional, levante_emv, okdiario",4,Un terremoto de magnitud 6 sacude el este de Cuba,2026-03-17 10:04
+después,4,1,24.9,100,"expansion, 20minutos, google_news_internacional, okdiario",4,La inversión en 'insurtech' rebota después de tres años en caída,2026-03-17 10:04
+iraní,3,2,9.34,100,"elpais, elmundo_internacional, google_news_internacional",3,"Última hora del ataque de Estados Unidos e Israel contra Irán, en directo | Israel intenta matar a Ali Larijaní, uno de los hombres fuertes del régimen iraní",2026-03-17 10:04
+hombre,3,4,4.67,93,"elpais, elconfidencial, elespanol, okdiario",4,"Última hora del ataque de Estados Unidos e Israel contra Irán, en directo | Israel intenta matar a Ali Larijaní, uno de los hombres fuertes del régimen iraní",2026-03-17 10:04
+cinco,3,5,3.73,74,"google_news_economia, google_news_internacional, okdiario",3,El salario medio en España se sitúa en 2.531 euros y acumula ya cinco años consecutivos de subidas - El Economista,2026-03-17 10:04
+mundo,3,5,3.73,74,google_news_internacional,1,"Guerra en Irán, última hora hoy, en directo | Irán ataca la embajada de EEUU en Bagdad - El Mundo",2026-03-17 10:04
+bilbao,4,7,3.56,71,"google_news_internacional, 20minutos, elcorreo",3,El mundo en cinco minutos: la información internacional de este martes 17 - Radio Popular de Bilbao,2026-03-17 10:04
+valencia,3,6,3.11,62,"elconfidencial, elespanol",2,Muere un hombre en el incendio de una vivienda en Valencia de Don Juan (León),2026-03-17 10:04
+israel,5,11,2.83,56,"elpais, europapress, elcorreo, maldita",4,"Última hora del ataque de Estados Unidos e Israel contra Irán, en directo | Israel intenta matar a Ali Larijaní, uno de los hombres fuertes del régimen iraní",2026-03-17 10:04
+última,3,7,2.67,53,"elpais, google_news_internacional, okdiario, elcorreo",4,"Última hora del ataque de Estados Unidos e Israel contra Irán, en directo | Israel intenta matar a Ali Larijaní, uno de los hombres fuertes del régimen iraní",2026-03-17 10:04
+nueva,5,12,2.59,51,"europapress, heraldo_aragon, google_news_internacional, okdiario, levante_emv",5,"Israel despliega ""tropas adicionales"" en el sur de Líbano en el marco de su nueva invasión del país vecino",2026-03-17 10:04
+directo,5,12,2.59,51,"elpais, google_news_internacional, okdiario, elcorreo",4,"Última hora del ataque de Estados Unidos e Israel contra Irán, en directo | Israel intenta matar a Ali Larijaní, uno de los hombres fuertes del régimen iraní",2026-03-17 10:04
+historia,4,10,2.49,49,"elpais, heraldo_aragon, levante_emv",3,"Un acertante de La Primitiva gana más de 126 millones de euros, el mayor premio en la historia del sorteo",2026-03-17 10:04
+contra,8,20,2.49,49,"elpais, okdiario, google_news_internacional, 20minutos, levante_emv",5,"Última hora del ataque de Estados Unidos e Israel contra Irán, en directo | Israel intenta matar a Ali Larijaní, uno de los hombres fuertes del régimen iraní",2026-03-17 10:04
+internacional,11,31,2.21,44,google_news_internacional,1,"Matchmaking Internacional: Colaboración en Tecnologías Emergentes (IA, Robótica y Espacio) - Portal Horizonte Europa",2026-03-17 10:04
+predicción,3,9,2.07,41,okdiario,1,"Predicción del horóscopo para Piscis hoy, martes 17 de marzo de 2026",2026-03-17 10:04
+horóscopo,3,9,2.07,41,okdiario,1,"Predicción del horóscopo para Piscis hoy, martes 17 de marzo de 2026",2026-03-17 10:04
