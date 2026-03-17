@@ -1,42 +1,17 @@
 keyword,count_now,count_base,ratio,viral_score,sources,n_sources,sample_title,detected_at
-sanitario,3,0,5.0,100,"elpais, google_news_internacional",2,Decenas de muertos en un ataque aéreo contra un centro sanitario de Kabul,2026-03-17 09:04
-kabul,7,4,8.53,100,"infolibre, elpais, sur, google_news_es, google_news_internacional",5,Los talibanes elevan a 400 los muertos por el bombardeo de Pakistán a un hospital de Kabul,2026-03-17 09:04
-crece,3,1,14.62,100,"levante_emv, google_news_internacional, google_news_politica",3,"Lectura del mapa político tras las elecciones de Castilla y León: ""España es una excepción internacional, ya que cuando el partido de centroderecha crece, su derecha también lo hace""",2026-03-17 09:04
-centroderecha,3,0,5.0,100,"levante_emv, google_news_internacional, google_news_politica",3,"Lectura del mapa político tras las elecciones de Castilla y León: ""España es una excepción internacional, ya que cuando el partido de centroderecha crece, su derecha también lo hace""",2026-03-17 09:04
-excepción,3,0,5.0,100,"levante_emv, google_news_internacional, google_news_politica",3,"Lectura del mapa político tras las elecciones de Castilla y León: ""España es una excepción internacional, ya que cuando el partido de centroderecha crece, su derecha también lo hace""",2026-03-17 09:04
-político,3,0,5.0,100,"levante_emv, google_news_internacional, google_news_politica",3,"Lectura del mapa político tras las elecciones de Castilla y León: ""España es una excepción internacional, ya que cuando el partido de centroderecha crece, su derecha también lo hace""",2026-03-17 09:04
-lectura,3,0,5.0,100,"levante_emv, google_news_internacional, google_news_politica",3,"Lectura del mapa político tras las elecciones de Castilla y León: ""España es una excepción internacional, ya que cuando el partido de centroderecha crece, su derecha también lo hace""",2026-03-17 09:04
-suicidas,3,0,5.0,100,"lavanguardia, elmundo_internacional, google_news_internacional",3,Al menos 23 muertos en Nigeria tras varios ataques de suicidas en Maiduguri,2026-03-17 09:04
-nigeria,3,0,5.0,100,"lavanguardia, elmundo_internacional, google_news_internacional",3,Al menos 23 muertos en Nigeria tras varios ataques de suicidas en Maiduguri,2026-03-17 09:04
-derecha,4,3,6.5,100,"google_news_politica, levante_emv, google_news_internacional",3,La extrema derecha multiplica su guerra con el rey tras su perdón por los abusos de la conquista de América - ElPlural.com,2026-03-17 09:04
-mucho,3,2,7.31,100,"okdiario, elconfidencial, levante_emv",3,"Aviso de los expertos a los dueños de perros: «Si llueve mucho, la mejor alternativa son los juguetes interactivos»",2026-03-17 09:04
-partido,4,1,19.5,100,"heraldo_aragon, levante_emv, google_news_internacional, google_news_politica",4,Horario y dónde ver gratis el partido Estados Unidos-España con Mariona Ortiz y Helena Pueyo,2026-03-17 09:04
-decenas,3,0,5.0,100,"elpais, google_news_internacional",2,Decenas de muertos en un ataque aéreo contra un centro sanitario de Kabul,2026-03-17 09:04
-también,4,2,9.75,100,"levante_emv, google_news_internacional, google_news_politica, elcorreo",4,"Lectura del mapa político tras las elecciones de Castilla y León: ""España es una excepción internacional, ya que cuando el partido de centroderecha crece, su derecha también lo hace""",2026-03-17 09:04
-líbano,3,2,7.31,100,"huffington_es, google_news_internacional, elcorreo",3,Israel lanza una nueva ofensiva contra Irán y Líbano y un nuevo buque atacado en Ormuz: lo último de la guerra,2026-03-17 09:04
-talibanes,3,2,7.31,100,"infolibre, sur, 20minutos",3,Los talibanes elevan a 400 los muertos por el bombardeo de Pakistán a un hospital de Kabul,2026-03-17 09:04
-dinero,3,1,14.62,100,"sur, elespanol, levante_emv",3,La UCO vigiló por Madrid al expresidente de la Diputación de Almería en un viaje «personal» pagado con dinero público,2026-03-17 09:04
-almería,3,0,5.0,100,"sur, levante_emv, heraldo_aragon",3,La UCO vigiló por Madrid al expresidente de la Diputación de Almería en un viaje «personal» pagado con dinero público,2026-03-17 09:04
-mientras,3,3,4.87,97,"google_news_internacional, huffington_es, elmundo_internacional",3,"Última hora del ataque de Estados Unidos e Israel contra Irán, en directo | Teherán recrudece los ataques en el Golfo mientras Israel bombardea Irán y Líbano - EL PAÍS",2026-03-17 09:04
-muertos,9,9,4.87,97,"infolibre, elpais, google_news_es, lavanguardia, google_news_internacional",5,Los talibanes elevan a 400 los muertos por el bombardeo de Pakistán a un hospital de Kabul,2026-03-17 09:04
-elecciones,5,5,4.87,97,"eldiario, levante_emv, google_news_internacional, google_news_politica",4,"🎙 PODCAST | Tres meses, tres elecciones: ¿y ahora qué?",2026-03-17 09:04
-empieza,3,3,4.87,97,"okdiario, levante_emv",2,Cuándo empieza el juicio a Nicolas Maduro en Estados Unidos: qué día es y por qué se ha retrasado,2026-03-17 09:04
-primer,3,3,4.87,97,"huffington_es, elcorreo, okdiario",3,De &#039;Lux&#039; a recuperar temas de su primer disco pasando por &#039;Motomami&#039; pero con un sonado ninguneo: el &#039;setlist&#039; del primer concierto de la gira de Rosalía,2026-03-17 09:04
-contra,8,9,4.33,86,"huffington_es, elconfidencial, elpais, sur, google_news_internacional",5,Israel lanza una nueva ofensiva contra Irán y Líbano y un nuevo buque atacado en Ormuz: lo último de la guerra,2026-03-17 09:04
-israel,4,5,3.9,77,"huffington_es, google_news_internacional, elcorreo",3,Israel lanza una nueva ofensiva contra Irán y Líbano y un nuevo buque atacado en Ormuz: lo último de la guerra,2026-03-17 09:04
-expertos,3,4,3.66,73,okdiario,1,Preocupación total entre los expertos: lo que pasa en un embalse en La Rioja con las especies protegidas en riesgo,2026-03-17 09:04
-renovables,3,4,3.66,73,"levante_emv, google_news_economia",2,"Alfredo Boné, exconsejero de Medio Ambiente, niega ""el supuesto sobreprecio"" en la venta de su consultora de renovables a Forestalia",2026-03-17 09:04
-estados,3,4,3.66,73,"heraldo_aragon, google_news_internacional, okdiario",3,Horario y dónde ver gratis el partido Estados Unidos-España con Mariona Ortiz y Helena Pueyo,2026-03-17 09:04
-aéreo,3,4,3.66,73,"elpais, google_news_internacional",2,Decenas de muertos en un ataque aéreo contra un centro sanitario de Kabul,2026-03-17 09:04
-personas,3,5,2.92,58,"okdiario, sur, heraldo_aragon",3,El Gobierno y la Seguridad Social coinciden: adelantan 10 años la jubilación para las personas que cumplan con éste requisito,2026-03-17 09:04
-ataque,4,7,2.79,55,"elpais, google_news_internacional, lavanguardia, elcorreo",4,Decenas de muertos en un ataque aéreo contra un centro sanitario de Kabul,2026-03-17 09:04
-internacional,9,16,2.74,54,"google_news_internacional, levante_emv, google_news_politica",3,Golpe al robo de coches en Toledo: cae una red internacional que desguazaba vehículos por piezas - infoCLM,2026-03-17 09:04
-hospital,5,9,2.71,54,"infolibre, sur, google_news_es, 20minutos",4,Los talibanes elevan a 400 los muertos por el bombardeo de Pakistán a un hospital de Kabul,2026-03-17 09:04
-menos,4,8,2.44,48,"heraldo_aragon, lavanguardia, elmundo_internacional, google_news_internacional",4,"El portavoz de Podemos: ""He dormido menos que Morrissey en las Fallas",2026-03-17 09:04
-predicción,3,6,2.44,48,okdiario,1,"Predicción del horóscopo para Sagitario hoy, martes 17 de marzo de 2026",2026-03-17 09:04
-pakistán,4,8,2.44,48,"infolibre, sur, google_news_es, 20minutos",4,Los talibanes elevan a 400 los muertos por el bombardeo de Pakistán a un hospital de Kabul,2026-03-17 09:04
-centro,3,6,2.44,48,"elpais, google_news_internacional, levante_emv, google_news_politica",4,Decenas de muertos en un ataque aéreo contra un centro sanitario de Kabul,2026-03-17 09:04
-horóscopo,3,6,2.44,48,okdiario,1,"Predicción del horóscopo para Sagitario hoy, martes 17 de marzo de 2026",2026-03-17 09:04
-castilla,4,9,2.17,43,"levante_emv, google_news_internacional, google_news_politica",3,"Elecciones Castilla y León: Los incendios, la sanidad y el biogás no pasan factura a un PP sólido en el medio rural",2026-03-17 09:04
-ataques,3,7,2.09,41,"google_news_internacional, lavanguardia, elcorreo",3,"Última hora del ataque de Estados Unidos e Israel contra Irán, en directo | Teherán recrudece los ataques en el Golfo mientras Israel bombardea Irán y Líbano - EL PAÍS",2026-03-17 09:04
-directo,3,7,2.09,41,"google_news_internacional, levante_emv, elcorreo",3,"Última hora del ataque de Estados Unidos e Israel contra Irán, en directo | Teherán recrudece los ataques en el Golfo mientras Israel bombardea Irán y Líbano - EL PAÍS",2026-03-17 09:04
+hombre,3,3,7.16,100,"elconfidencial, elespanol, okdiario, elpais",4,Muere un hombre en el incendio de una vivienda en Valencia de Don Juan (León),2026-03-17 09:34
+terremoto,4,2,14.33,100,"levante_emv, google_news_internacional, okdiario, lavanguardia",4,Un terremoto de magnitud 6 sacude el este de Cuba en medio del apagón,2026-03-17 09:34
+magnitud,3,1,21.49,100,"levante_emv, okdiario, lavanguardia",3,Un terremoto de magnitud 6 sacude el este de Cuba en medio del apagón,2026-03-17 09:34
+sacude,3,1,21.49,100,"levante_emv, google_news_internacional, lavanguardia",3,Un terremoto de magnitud 6 sacude el este de Cuba en medio del apagón,2026-03-17 09:34
+apagón,3,1,21.49,100,"levante_emv, okdiario, lavanguardia",3,Un terremoto de magnitud 6 sacude el este de Cuba en medio del apagón,2026-03-17 09:34
+nacional,3,3,7.16,100,"google_news_internacional, okdiario, google_news_economia",3,Un terremoto sacude Cuba horas después del colapso del sistema eléctrico nacional - Artículo 14,2026-03-17 09:34
+jerusalén,3,1,21.49,100,"levante_emv, elcorreo, maldita",3,"El presidente de Convento Jerusalén: ""Esta falla es una obra maestra que pasará a la historia""",2026-03-17 09:34
+programa,3,3,7.16,100,"elmundo_internacional, google_news_internacional",2,"Las claves sobre el estrecho y el programa nuclear iraní que Trump infravaloró: ""Basta una mina, un dron o un cohete para bloquear Ormuz""",2026-03-17 09:34
+toledo,3,0,5.0,100,"google_news_internacional, huffington_es",2,"Desarticulan en Toledo un grupo criminal internacional por el robo de 58 vehículos valorados en 1,5 millones de euros - COPE",2026-03-17 09:34
+vehículos,3,1,21.49,100,"google_news_internacional, heraldo_aragon",2,"Desarticulan en Toledo un grupo criminal internacional por el robo de 58 vehículos valorados en 1,5 millones de euros - COPE",2026-03-17 09:34
+contra,8,13,4.41,88,"okdiario, elcorreo, levante_emv, huffington_es, google_news_es",5,"Últimas noticias de la guerra de Irán, en directo | Reacciones de Trump, Europa y nueva oleada de ataques contra Irán y Hezbolá",2026-03-17 09:34
+nueva,5,9,3.98,79,"okdiario, levante_emv, huffington_es, google_news_es, efe",5,"Últimas noticias de la guerra de Irán, en directo | Reacciones de Trump, Europa y nueva oleada de ataques contra Irán y Hezbolá",2026-03-17 09:34
+israel,4,8,3.58,71,"elcorreo, maldita, huffington_es, google_news_es",4,Sigue en directo la última hora de la guerra en Oriente Medio | Irán ataca por primera vez la ciudad vieja de Jerusalén e Israel intensifica los bombardeos contra Teherán y Beirut,2026-03-17 09:34
+kabul,3,7,3.07,61,"eldiario, infolibre, elpais",3,Más de 400 muertos en el bombardeo de un hospital en Kabul,2026-03-17 09:34
+directo,4,10,2.87,57,"okdiario, elcorreo, google_news_es",3,"Últimas noticias de la guerra de Irán, en directo | Reacciones de Trump, Europa y nueva oleada de ataques contra Irán y Hezbolá",2026-03-17 09:34
+denuncia,3,9,2.39,47,"levante_emv, huffington_es, elconfidencial",3,Archivada la denuncia por presunto acoso sexual contra el alcalde de La Algaba (Sevilla),2026-03-17 09:34
