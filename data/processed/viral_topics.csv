@@ -1,32 +1,40 @@
 keyword,count_now,count_base,ratio,viral_score,sources,n_sources,sample_title,detected_at
-estas,3,4,5.04,100,"okdiario, huffington_es",2,Confirmado por Hacienda: si has ido al dentista en alguna de estas comunidades te corresponde una deducción del IRPF,2026-03-17 14:04
-ee.uu,3,4,5.04,100,"lavanguardia, bbc_mundo",2,"Guerra en Irán contra EE.UU. e Israel, en directo | Última hora de Larijani, jefe de seguridad de Irán, y de la reacción de Trump",2026-03-17 14:04
-sanidad,3,3,6.72,100,"infolibre, okdiario, sur",3,‘Salud frente al bulo’: infoLibre analiza la amenaza de la desinformación en sanidad,2026-03-17 14:04
-inversión,5,1,33.59,100,"maldita, google_news_economia",2,Cuidado con esta web que suplanta a El Mundo y usa a Jordi Évole y Rodrigo Rato para promocionar la supuesta plataforma de inversión Alta Préstório: es un timo,2026-03-17 14:04
-évole,3,1,20.16,100,"maldita, huffington_es",2,Cuidado con esta web que suplanta a El Mundo y usa a Jordi Évole y Rodrigo Rato para promocionar la supuesta plataforma de inversión Alta Préstório: es un timo,2026-03-17 14:04
-jordi,3,2,10.08,100,"maldita, huffington_es",2,Cuidado con esta web que suplanta a El Mundo y usa a Jordi Évole y Rodrigo Rato para promocionar la supuesta plataforma de inversión Alta Préstório: es un timo,2026-03-17 14:04
-atención,3,1,20.16,100,"levante_emv, europapress, okdiario",3,Casi la mitad de los ciudadanos de Ceuta y Melilla tienen que salir de sus ciudades para recibir atención sanitaria,2026-03-17 14:04
-falla,4,5,5.38,100,"levante_emv, efe",2,Rajan la carpa de la falla Plaça El·líptica de Gandia para robar un altavoz,2026-03-17 14:04
-precios,5,1,33.59,100,"elcorreo, google_news_economia, 20minutos, expansion",4,España pone en el mercado casi el 3% de sus reservas estratégicas para frenar la subida de precios del petróleo,2026-03-17 14:04
-subida,5,2,16.8,100,"elcorreo, google_news_economia, elmundo, expansion",4,España pone en el mercado casi el 3% de sus reservas estratégicas para frenar la subida de precios del petróleo,2026-03-17 14:04
-frenar,3,3,6.72,100,"elcorreo, google_news_economia",2,España pone en el mercado casi el 3% de sus reservas estratégicas para frenar la subida de precios del petróleo,2026-03-17 14:04
-estratégicas,3,0,5.0,100,"elcorreo, google_news_economia",2,España pone en el mercado casi el 3% de sus reservas estratégicas para frenar la subida de precios del petróleo,2026-03-17 14:04
-mercado,3,3,6.72,100,"elcorreo, google_news_economia",2,España pone en el mercado casi el 3% de sus reservas estratégicas para frenar la subida de precios del petróleo,2026-03-17 14:04
-pilar,3,0,5.0,100,"levante_emv, heraldo_aragon",2,"""Raje"" del artista del Pilar: ""no plantaré en Especial mientras continúe esta Junta Central Fallera""",2026-03-17 14:04
-libera,4,0,5.0,100,"elpais, levante_emv, elespanol, huffington_es, google_news_economia",5,"Última hora de la actualidad política | Aagesen anuncia la liberación de 11,5 millones de barriles de petróleo de las reservas españolas",2026-03-17 14:04
-robar,4,2,13.44,100,"sur, okdiario, levante_emv, heraldo_aragon, expansion",5,Detenido en Estepona por robar en gasolineras el dinero de las máquinas de aire comprimido,2026-03-17 14:04
-impacto,3,4,5.04,100,"eldiario, google_news_economia, elcorreo",3,El Gobierno asegura que España tiene “los deberes hechos” para afrontar el impacto económico de la guerra en Irán,2026-03-17 14:04
-mensajes,3,1,20.16,100,"maldita, google_news_es, levante_emv",3,CaixaBank alerta de “nuevos intentos de fraude”: SMS o mensajes de WhatsApp con enlaces para descargar una aplicación o números de teléfono para contactar,2026-03-17 14:04
-reservas,9,1,60.47,100,"elpais, levante_emv, europapress, google_news_economia, elcorreo",5,"Última hora de la actualidad política | Aagesen anuncia la liberación de 11,5 millones de barriles de petróleo de las reservas españolas",2026-03-17 14:04
-petróleo,12,10,8.06,100,"elpais, levante_emv, huffington_es, google_news_economia, europapress",5,"Última hora de la actualidad política | Aagesen anuncia la liberación de 11,5 millones de barriles de petróleo de las reservas españolas",2026-03-17 14:04
-barriles,11,0,5.0,100,"elpais, levante_emv, elespanol, huffington_es, google_news_economia",5,"Última hora de la actualidad política | Aagesen anuncia la liberación de 11,5 millones de barriles de petróleo de las reservas españolas",2026-03-17 14:04
-liberación,3,0,5.0,100,"elpais, huffington_es, google_news_economia",3,"Última hora de la actualidad política | Aagesen anuncia la liberación de 11,5 millones de barriles de petróleo de las reservas españolas",2026-03-17 14:04
-extremo,4,2,13.44,100,"google_news_es, levante_emv",2,Golpe a la privacidad: Instagram eliminará el cifrado de extremo a extremo de tus mensajes - El Correo Gallego,2026-03-17 14:04
-gobierno,14,19,4.95,99,"eldiario, google_news_economia, sur, elcorreo, elespanol",5,El Gobierno asegura que España tiene “los deberes hechos” para afrontar el impacto económico de la guerra en Irán,2026-03-17 14:04
-andalucía,5,7,4.8,95,"newtral, okdiario, google_news_internacional, sur",4,"Andalucía es la segunda comunidad con más empresas en total, aunque no por habitante",2026-03-17 14:04
-frente,3,5,4.03,80,"elcorreo, infolibre",2,El Gobierno vasco reivindica el diálogo social frente a «la confrontación» del paro,2026-03-17 14:04
-salamanca,3,5,4.03,80,google_news_internacional,1,"Salamanca será la capital internacional de la innovación, la tecnología y el emprendimiento con la tercera edición de Salamanca Tech Summit - Ayto Salamanca",2026-03-17 14:04
-precio,4,8,3.36,67,"levante_emv, elcorreo, google_news_economia, 20minutos, elmundo",5,El precio del desastre en Oviedo: vuelven los fantasmas de descenso,2026-03-17 14:04
-millones,14,29,3.24,64,"elpais, levante_emv, elespanol, huffington_es, google_news_economia",5,"Última hora de la actualidad política | Aagesen anuncia la liberación de 11,5 millones de barriles de petróleo de las reservas españolas",2026-03-17 14:04
-vasco,4,13,2.07,41,"elcorreo, google_news_economia",2,El Gobierno vasco reivindica el diálogo social frente a «la confrontación» del paro,2026-03-17 14:04
-diario,3,10,2.02,40,"google_news_economia, google_news_internacional, google_news_es",3,El Gobierno asegura que España tiene “los deberes hechos” para afrontar el impacto económico de la guerra en Irán - elDiario.es,2026-03-17 14:04
+subida,4,4,6.49,100,"elcorreo, google_news_economia",2,España pone en el mercado casi el 3% de sus reservas estratégicas para frenar la subida de precios del petróleo,2026-03-17 14:34
+reservas,10,3,21.65,100,"lavanguardia, elpais, levante_emv, google_news_es, europapress",5,El Gobierno liberará cuatro días de consumo de petróleo de las reservas estratégicas en una primera fase,2026-03-17 14:34
+liberará,5,0,5.0,100,"lavanguardia, heraldo_aragon, levante_emv, google_news_es, google_news_economia",5,El Gobierno liberará cuatro días de consumo de petróleo de las reservas estratégicas en una primera fase,2026-03-17 14:34
+estratégicas,5,0,5.0,100,"lavanguardia, elcorreo, google_news_economia",3,El Gobierno liberará cuatro días de consumo de petróleo de las reservas estratégicas en una primera fase,2026-03-17 14:34
+semanas,4,2,12.99,100,"elespanol, levante_emv, google_news_es, google_news_economia",4,"Andalucía estalla contra el Gobierno por el AVE: ""Si pasara en Cataluña o el País Vasco, en dos semanas estaría arreglado""",2026-03-17 14:34
+sumar,4,1,25.98,100,"20minutos, europapress, elcorreo, elmundo",4,"IU pide a Sumar, Comuns y Más Madrid acelerar tiempos para elegir al sustituto de Díaz como líder de la alianza",2026-03-17 14:34
+bueno,3,0,5.0,100,"okdiario, heraldo_aragon",2,Todo el mundo sabe que el té matcha es bueno pero lo que acaban de descubrir lo cambia todo: «Supresión de mecanismos neuronales»,2026-03-17 14:34
+barriles,12,4,19.48,100,"heraldo_aragon, elpais, levante_emv, google_news_es, elespanol",5,"El Gobierno liberará hasta 11,5 millones de barriles de petróleo para bajar los precios del combustible",2026-03-17 14:34
+combustible,3,2,9.74,100,"google_news_politica, heraldo_aragon, huffington_es",3,"Sánchez detallará el viernes el escudo para paliar los efectos del ataque contra Irán: electricidad, combustible y personas vulnerables - ElPlural.com",2026-03-17 14:34
+información,3,3,6.49,100,"maldita, elcorreo, google_news_internacional",3,La Gran Retirada: cómo los grandes  gigantes tecnológicos han abandonado la causa de la información fiable,2026-03-17 14:34
+whatsapp,3,0,5.0,100,"elcorreo, maldita",2,Más de 144.000 vascos han autorizado a Osakidetza el envío de información por WhatsApp,2026-03-17 14:34
+aagesen,3,0,5.0,100,"elpais, google_news_economia",2,"Última hora de la actualidad política | Aagesen anuncia la liberación de 11,5 millones de barriles de petróleo de las reservas españolas",2026-03-17 14:34
+ayudas,3,0,5.0,100,"google_news_economia, sur, eldiario",3,Confirmado y oficial | El Gobierno prepara nuevos cambios en las ayudas al alquiler y millones de inquilinos podrían beneficiarse - El Cronista,2026-03-17 14:34
+liberación,4,0,5.0,100,"elpais, huffington_es, google_news_economia",3,"Última hora de la actualidad política | Aagesen anuncia la liberación de 11,5 millones de barriles de petróleo de las reservas españolas",2026-03-17 14:34
+económico,3,1,19.48,100,"20minutos, eldiario, google_news_economia, google_news_internacional",4,La Guardia Civil apunta a un acuerdo económico entre la pareja y el exmarido de la mujer asesinada en Colungo,2026-03-17 14:34
+precios,7,4,11.36,100,"expansion, heraldo_aragon, lavanguardia, elcorreo, google_news_economia",5,España advierte a la UE contra la suspensión del mercado de carbono para intentar bajar los precios de la energía,2026-03-17 14:34
+mercado,5,3,10.82,100,"expansion, elcorreo, google_news_economia",3,España advierte a la UE contra la suspensión del mercado de carbono para intentar bajar los precios de la energía,2026-03-17 14:34
+frenar,4,3,8.66,100,"elcorreo, google_news_economia",2,España pone en el mercado casi el 3% de sus reservas estratégicas para frenar la subida de precios del petróleo,2026-03-17 14:34
+malaga,4,4,6.49,100,sur,1,Malaga hospital pioneers new coordinated approach for pelvic pain sufferers,2026-03-17 14:34
+industria,4,2,12.99,100,"google_news_internacional, europapress",2,Andalucía TRADE impulsa la proyección internacional de la industria aeronáutica andaluza en Alemania - Tribuna de Andalucía,2026-03-17 14:34
+andalucía,8,7,7.42,100,"google_news_internacional, sur, elespanol, eldiario, newtral",5,Andalucía TRADE impulsa la proyección internacional de la industria aeronáutica andaluza en Alemania - Tribuna de Andalucía,2026-03-17 14:34
+petróleo,16,12,8.66,100,"lavanguardia, heraldo_aragon, elpais, levante_emv, google_news_es",5,El Gobierno liberará cuatro días de consumo de petróleo de las reservas estratégicas en una primera fase,2026-03-17 14:34
+cambia,3,4,4.87,97,"okdiario, elmundo",2,Todo el mundo sabe que el té matcha es bueno pero lo que acaban de descubrir lo cambia todo: «Supresión de mecanismos neuronales»,2026-03-17 14:34
+presupuestos,3,4,4.87,97,"elcorreo, lavanguardia, elconfidencial",3,Reunión sin acuerdos entre la Generalitat y ERC para salvar los presupuestos de Illa,2026-03-17 14:34
+robar,3,4,4.87,97,"maldita, sur, okdiario, levante_emv",4,“Su Bizum está temporalmente suspendido por seguridad”: cuidado con este SMS porque pretende robar tus datos personales y claves de acceso de tu banco,2026-03-17 14:34
+impacto,3,5,3.9,77,"elcorreo, eldiario, google_news_economia",3,Las empresas apenas notan el impacto de la huelga general de ELA y LAB que ha tomado las calles,2026-03-17 14:34
+nuevos,3,5,3.9,77,"google_news_economia, sur, maldita",3,Confirmado y oficial | El Gobierno prepara nuevos cambios en las ayudas al alquiler y millones de inquilinos podrían beneficiarse - El Cronista,2026-03-17 14:34
+gobierno,15,25,3.9,77,"elcorreo, google_news_economia, elespanol, levante_emv, lavanguardia",5,El Gobierno descarta rebajar el IVA a los alimentos y centrará su plan anticrisis en la factura energética del campo y el transporte,2026-03-17 14:34
+alerta,4,7,3.71,74,"levante_emv, maldita",2,Tavernes de la Valldigna alerta del peligro del cloretilo tras incautar varios envases,2026-03-17 14:34
+millones,16,35,2.97,59,"google_news_economia, elcorreo, levante_emv, heraldo_aragon, expansion",5,Confirmado y oficial | El Gobierno prepara nuevos cambios en las ayudas al alquiler y millones de inquilinos podrían beneficiarse - El Cronista,2026-03-17 14:34
+anuncia,4,9,2.89,57,"elcorreo, elpais, google_news_economia",3,Basquevolt anuncia la entrada en su capital del fondo Axon Partners,2026-03-17 14:34
+maría,3,7,2.78,55,"okdiario, heraldo_aragon, elpais",3,"Qué hay detrás de la identidad ‘therian’, según la psicóloga María Huertas: «Un deterioro significativo»",2026-03-17 14:34
+antes,6,15,2.6,51,"maldita, eldiario, okdiario, levante_emv, heraldo_aragon",5,La Gran Retirada: cómo los grandes  gigantes tecnológicos han abandonado la causa de la información fiable,2026-03-17 14:34
+semana,6,16,2.44,48,"elespanol, levante_emv, okdiario, google_news_internacional, heraldo_aragon",5,"Andalucía estalla contra el Gobierno por el AVE: ""Si pasara en Cataluña o el País Vasco, en dos semanas estaría arreglado""",2026-03-17 14:34
+acuerdo,3,8,2.44,48,"elcorreo, heraldo_aragon, 20minutos, elespanol",4,Reunión sin acuerdos entre la Generalitat y ERC para salvar los presupuestos de Illa,2026-03-17 14:34
+santa,3,8,2.44,48,"okdiario, elpais, sur",3,Carmen Lomana tiene el traje de Zara ideal que van a llevar las mujeres de +50 en Semana Santa 2026,2026-03-17 14:34
+confirmado,3,8,2.44,48,"google_news_economia, okdiario",2,Confirmado y oficial | El Gobierno prepara nuevos cambios en las ayudas al alquiler y millones de inquilinos podrían beneficiarse - El Cronista,2026-03-17 14:34
+sánchez,3,9,2.16,43,"infolibre, google_news_politica, okdiario",3,El Supremo rechaza la querella de Vox contra Sánchez y cinco presidentes por los incendios,2026-03-17 14:34
+acusa,3,9,2.16,43,"okdiario, elmundo, elpais",3,Polémica por el AVE en Málaga: el PP acusa a Sánchez de «aislar» a la provincia,2026-03-17 14:34
