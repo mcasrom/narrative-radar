@@ -1,27 +1,35 @@
 keyword,count_now,count_base,ratio,viral_score,sources,n_sources,sample_title,detected_at
-andalucía,4,5,5.51,100,"levante_emv, google_news_es, sur, google_news_internacional",4,"El PP carga contra María Jesús Montero por no presentar los Presupuestos antes de que vaya ""al matadero electoral de Andalucía""",2026-03-18 11:34
-denuncia,4,4,6.89,100,"elcorreo, okdiario, google_news_politica, levante_emv",4,El Ayuntamiento de Vitoria pone una denuncia por los daños en el Monumento a la Batalla,2026-03-18 11:34
-dónde,3,4,5.17,100,okdiario,1,A qué hora es el Tottenham – Atlético de Madrid y dónde ver en directo y en vivo online la Champions League,2026-03-18 11:34
-inicio,3,2,10.34,100,google_news_economia,1,"España roza los 14 millones de viajeros aéreos internacionales al inicio de 2026, un 5,2% más - democrata.es",2026-03-18 11:34
-internacionales,3,1,20.67,100,google_news_economia,1,"España roza los 14 millones de viajeros aéreos internacionales al inicio de 2026, un 5,2% más - democrata.es",2026-03-18 11:34
-aéreos,3,0,5.0,100,google_news_economia,1,"España roza los 14 millones de viajeros aéreos internacionales al inicio de 2026, un 5,2% más - democrata.es",2026-03-18 11:34
-espinosa,3,1,20.67,100,"google_news_politica, 20minutos, eldiario",3,Espinosa de los Monteros lidera a los díscolos y lanza un manifiesto para reclamar a Abascal un congreso interno en Vox - ElPlural.com,2026-03-18 11:34
-futuro,3,1,20.67,100,"efe, 20minutos, eldiario",3,Los votantes que podrían decidir el futuro climático de Europa y de España. Por Iván Savin (ESCP Business School),2026-03-18 11:34
-malaga,3,2,10.34,100,sur,1,2.5-magnitude earthquake registered in Malaga province's Axarquia area,2026-03-18 11:34
-mucho,3,3,6.89,100,"20minutos, okdiario",2,"Santiago Segura: ""Torrente es un personaje odioso. Me esfuerzo mucho para que España lo ame""",2026-03-18 11:34
-sexual,4,5,5.51,100,"huffington_es, levante_emv, elespanol",3,Una menor logra huir de una agresión sexual por el balcón de un hotel en Torremolinos,2026-03-18 11:34
-ayuntamiento,3,2,10.34,100,"elcorreo, google_news_internacional",2,El Ayuntamiento de Vitoria pone una denuncia por los daños en el Monumento a la Batalla,2026-03-18 11:34
-consultar,3,0,5.0,100,"20minutos, el_confidencial_economia",2,Retrasos en la alta velocidad en Madrid: cómo consultar los trenes afectados y solicitar una indemnización,2026-03-18 11:34
-press,3,1,20.67,100,"google_news_internacional, google_news_economia",2,Ensayo internacional muestra que un nuevo medicamento reduce un 30% el riesgo de avance de tumores neuroendocrinos - Europa Press,2026-03-18 11:34
-conoce,3,0,5.0,100,"elconfidencial, huffington_es, okdiario",3,Así es el lugar histórico de Madrid que casi nadie conoce y ahora podrás visitar gratis por su 175 aniversario,2026-03-18 11:34
-nadie,3,4,5.17,100,"elconfidencial, huffington_es, okdiario",3,Así es el lugar histórico de Madrid que casi nadie conoce y ahora podrás visitar gratis por su 175 aniversario,2026-03-18 11:34
-celebra,4,4,6.89,100,"elcorreo, 20minutos, google_news_internacional, levante_emv",4,"Junqueras celebra la marcha atrás de Illa y advierte: «Si las próximas cuentas son insuficientes, no tendrán nuestro apoyo»",2026-03-18 11:34
-rosalía,3,2,10.34,100,"okdiario, huffington_es, google_news_es",3,Setlist de Rosalía para la gira ‘LUX Tour’: este es el orden de las canciones,2026-03-18 11:34
-mujer,3,2,10.34,100,"eldiario, google_news_politica",2,"""Era como un amigo"": la Justicia ordena indemnizar con 3.100 euros a una mujer cuyo perro murió tras el ataque de un pitbull",2026-03-18 11:34
-europa,4,6,4.59,91,"google_news_internacional, efe, google_news_economia, google_news_es",4,Ensayo internacional muestra que un nuevo medicamento reduce un 30% el riesgo de avance de tumores neuroendocrinos - Europa Press,2026-03-18 11:34
-partido,3,5,4.13,82,"20minutos, eldiario, okdiario",3,"Críticos de Vox liderados por Espinosa de los Monteros piden un congreso para ""abrir el debate sobre el futuro"" del partido",2026-03-18 11:34
-agresión,3,5,4.13,82,"huffington_es, levante_emv, elespanol",3,Una menor logra huir de una agresión sexual por el balcón de un hotel en Torremolinos,2026-03-18 11:34
-elplural.com,3,7,2.95,59,google_news_politica,1,¿Hay ‘efecto frenazo’ en Vox o es todo un relato interesado del PP y su brazo mediático? - ElPlural.com,2026-03-18 11:34
-trenes,4,12,2.3,45,"okdiario, heraldo_aragon, 20minutos, levante_emv",4,La gestión de Puente y el desastre con los trenes ya ponen en riesgo cientos de empleos en Málaga,2026-03-18 11:34
-internacional,10,32,2.15,43,"google_news_internacional, google_news_economia",2,Marí arranca una medalla más para Ibiza en el Gran Internacional de Jesolo - Noudiari.es,2026-03-18 11:34
-millones,7,22,2.19,43,"google_news_internacional, huffington_es, google_news_economia, elcorreo, levante_emv",5,"El Ayuntamiento de Pamplona celebra los 30 años del Programa Municipal de Cooperación Internacional, que ha destinado 41,5 millones a más de 3.000 proyectos solidarios - Ayuntamiento de Pamplona",2026-03-18 11:34
+cúpula,3,1,17.92,100,"elpais, google_news_internacional, lavanguardia",3,"Última hora del ataque de Estados Unidos e Israel contra Irán, en directo | Israel dice que ha matado al ministro de Inteligencia iraní en un nuevo golpe a la cúpula del régimen",2026-03-18 12:04
+ministro,8,3,15.93,100,"infolibre, elpais, google_news_internacional, huffington_es, sur",5,"Israel informa del asesinato del ministro de Inteligencia iraní, Ismail Jatib",2026-03-18 12:04
+dejar,3,3,5.97,100,"okdiario, elmundo_espana, elpais",3,El PP desafía a Montero a dejar su escaño en el Congreso y augura su final: sufrirá un «batacazo en las urnas»,2026-03-18 12:04
+ayuntamiento,5,2,14.93,100,"google_news_internacional, levante_emv, elcorreo",3,El Palacio de Deportes será escenario del Encuentro Internacional Cartagena 2026 de Giwakempo - Ayuntamiento de Cartagena,2026-03-18 12:04
+colaboración,3,0,5.0,100,"google_news_internacional, expansion",2,Óscar Puente defiende en París la colaboración internacional en la toma de decisiones en el transporte - Europa Press,2026-03-18 12:04
+puente,3,2,8.96,100,"google_news_internacional, okdiario",2,Óscar Puente defiende en París la colaboración internacional en la toma de decisiones en el transporte - Europa Press,2026-03-18 12:04
+consultar,4,0,5.0,100,"heraldo_aragon, 20minutos, el_confidencial_economia",3,Aviso para los alérgicos: ya se pueden consultar los niveles de polen a diario,2026-03-18 12:04
+iraníes,3,2,8.96,100,"bbc_mundo, 20minutos, lavanguardia",3,Cómo los medios del régimen de los ayatolás les cuentan a los iraníes la guerra con EE.UU. e Israel,2026-03-18 12:04
+inteligencia,8,4,11.95,100,"infolibre, elpais, google_news_internacional, huffington_es, sur",5,"Israel informa del asesinato del ministro de Inteligencia iraní, Ismail Jatib",2026-03-18 12:04
+riesgo,3,2,8.96,100,"google_news_es, okdiario, google_news_internacional",3,Ensayo internacional muestra que un nuevo medicamento reduce un 30% el riesgo de avance de tumores neuroendocrinos - Infosalus,2026-03-18 12:04
+celebra,5,5,5.97,100,"levante_emv, elcorreo, 20minutos, google_news_internacional",4,"La Siamesa celebra el seu 20é aniversari amb una commemoració multidisciplinària: dos funcions, un llibre, una exposició i laboratori escènic",2026-03-18 12:04
+malaga,3,3,5.97,100,sur,1,Spectacular springs and waterfalls worth visiting in Malaga after the recent rains,2026-03-18 12:04
+press,4,3,7.96,100,"google_news_economia, google_news_internacional",2,Telefónica se adjudica un contrato del Banco de España por casi un millón para equipos de red en Madrid - Europa Press,2026-03-18 12:04
+israel,15,19,4.72,94,"infolibre, elpais, google_news_internacional, levante_emv, bbc_mundo",5,"Israel informa del asesinato del ministro de Inteligencia iraní, Ismail Jatib",2026-03-18 12:04
+fecha,3,4,4.48,89,"levante_emv, okdiario, eldiario, heraldo_aragon",4,Jorge Azcón es el candidato a presidir el Gobierno de Aragón sin fecha de investidura,2026-03-18 12:04
+haber,3,4,4.48,89,"okdiario, huffington_es, sur",3,La madre acusada de arrojar a su bebé a un contenedor de Mallorca: «Lo tenía que haber echado al campo»,2026-03-18 12:04
+misiles,5,7,4.27,85,"levante_emv, google_news_internacional, 20minutos, lavanguardia",4,Irán ataca Israel con misiles para vengar la muerte de Lariyani,2026-03-18 12:04
+iraní,4,6,3.98,79,"infolibre, elpais, google_news_internacional, bbc_mundo, 20minutos",5,"Israel informa del asesinato del ministro de Inteligencia iraní, Ismail Jatib",2026-03-18 12:04
+asesinato,3,5,3.58,71,"infolibre, google_news_internacional, europapress",3,"Israel informa del asesinato del ministro de Inteligencia iraní, Ismail Jatib",2026-03-18 12:04
+respuesta,4,7,3.41,68,"expansion, 20minutos, google_news_internacional, elpais",4,La elevada deuda limita la respuesta a la crisis,2026-03-18 12:04
+europa,4,7,3.41,68,"google_news_economia, google_news_internacional",2,Telefónica se adjudica un contrato del Banco de España por casi un millón para equipos de red en Madrid - Europa Press,2026-03-18 12:04
+lanza,3,6,2.99,59,"20minutos, google_news_economia, expansion",3,"EEUU lanza bombas antibúnker contra ""emplazamientos reforzados de misiles"" iraníes cerca de Ormuz",2026-03-18 12:04
+cambio,3,6,2.99,59,"heraldo_aragon, okdiario",2,Cambio de horario en España 2026: fecha exacta y hora del ajuste para el verano,2026-03-18 12:04
+régimen,3,6,2.99,59,"elpais, google_news_internacional, bbc_mundo",3,"Última hora del ataque de Estados Unidos e Israel contra Irán, en directo | Israel dice que ha matado al ministro de Inteligencia iraní en un nuevo golpe a la cúpula del régimen",2026-03-18 12:04
+bustinduy,4,8,2.99,59,"infolibre, google_news_politica, elpais, lavanguardia",4,"Bustinduy se descarta para liderar el espacio a la izquierda del PSOE, que sigue buscando líder",2026-03-18 12:04
+izquierda,3,6,2.99,59,"levante_emv, infolibre, google_news_politica",3,Irene de Miguel: el espejo en el que se mira la izquierda alternativa,2026-03-18 12:04
+andalucía,3,7,2.56,51,"google_news_internacional, levante_emv, google_news_es",3,"La nueva edición de Auténtica 2026 acogerá Oleum Expo, la gran feria internacional del aceite de oliva - Revista Andalucía Económica",2026-03-18 12:04
+nuevo,9,21,2.56,51,"elpais, google_news_internacional, google_news_es, google_news_politica, 20minutos",5,"Última hora del ataque de Estados Unidos e Israel contra Irán, en directo | Israel dice que ha matado al ministro de Inteligencia iraní en un nuevo golpe a la cúpula del régimen",2026-03-18 12:04
+málaga,3,7,2.56,51,"sur, okdiario",2,Cinco procesiones toman las calles de Málaga en el tramo más intenso de la Cuaresma,2026-03-18 12:04
+medio,3,7,2.56,51,"bbc_mundo, sur, el_confidencial_economia, elcorreo",4,Cómo los medios del régimen de los ayatolás les cuentan a los iraníes la guerra con EE.UU. e Israel,2026-03-18 12:04
+nueva,5,12,2.49,49,"google_news_internacional, heraldo_aragon, elcorreo, elpais, expansion",5,"La nueva edición de Auténtica 2026 acogerá Oleum Expo, la gran feria internacional del aceite de oliva - Revista Andalucía Económica",2026-03-18 12:04
+última,7,17,2.46,49,"elpais, google_news_internacional, sur, okdiario, elcorreo",5,"Última hora de la actualidad política, en directo | El Gobierno y los socios discrepan sobre si incluir medidas de vivienda en las ayudas por la guerra de Irán",2026-03-18 12:04
+sigue,3,8,2.24,44,"infolibre, sur, elcorreo",3,"Bustinduy se descarta para liderar el espacio a la izquierda del PSOE, que sigue buscando líder",2026-03-18 12:04
+crisis,4,11,2.17,43,"elpais, expansion, el_confidencial_economia",3,"En plena crisis informativa de Rodalies, la seguridad de Adif impide grabar imágenes en la estación de Sants",2026-03-18 12:04
