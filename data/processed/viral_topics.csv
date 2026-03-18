@@ -1,14 +1,38 @@
 keyword,count_now,count_base,ratio,viral_score,sources,n_sources,sample_title,detected_at
-tragsa,3,3,10.67,100,"okdiario, europapress, levante_emv",3,"Un nuevo informe de Tragsa admite que Jésica no fichó nunca: «Dejadla en paz», es la «sobrina de Koldo»",2026-03-18 17:35
-calle,3,1,32.01,100,"elcorreo, levante_emv",2,"El piloto de Miranda, Alan Calle, refuerza sus opciones al campeonato vasco de motocross",2026-03-18 17:35
-alzira,3,2,16.0,100,levante_emv,1,Alzira estrena reglamento fallero: Estos son los principales cambios en la fiesta,2026-03-18 17:35
-talento,3,1,32.01,100,"google_news_internacional, google_news_economia",2,La Universidad Isabel I destaca su impulso al talento investigador y a la proyección internacional de la Comunidad - Radio Intereconomía,2026-03-18 17:35
-falta,3,5,6.4,100,"europapress, levante_emv",2,"Tragsa confirma ""irregularidades"" en la contratación de la ex de Ábalos y falta de control por ""presión"" de Adif",2026-03-18 17:35
-control,3,2,16.0,100,"europapress, newtral, levante_emv",3,"Tragsa confirma ""irregularidades"" en la contratación de la ex de Ábalos y falta de control por ""presión"" de Adif",2026-03-18 17:35
-caída,3,7,4.57,91,"elcorreo, lavanguardia, 20minutos",3,X recupera su servicio en España tras una leve caída,2026-03-18 17:35
-precios,3,8,4.0,80,"levante_emv, elmundo, eldiario",3,Repsol abre la batalla comercial de los descuentos en gasolineras en plena subida de precios de los carburantes,2026-03-18 17:35
-ofrenda,3,8,4.0,80,levante_emv,1,Todas las fotos de la Ofrenda del 18 de marzo por la calle de la Paz hasta las 16:30 horas,2026-03-18 17:35
-horas,4,12,3.56,71,"levante_emv, huffington_es",2,Todas las fotos de la Ofrenda del 18 de marzo por la calle de la Paz hasta las 16:30 horas,2026-03-18 17:35
-congreso,4,14,3.05,60,"elespanol, google_news_politica, elpais, okdiario",4,"El Congreso tumba la bajada de la tasa de alcohol del 0,5 g/l a 0,2 con los votos en contra de PP, Vox y ERC",2026-03-18 17:35
-marzo,5,21,2.54,50,"levante_emv, newtral",2,Todas las fotos de la Ofrenda del 18 de marzo por la calle de la Paz hasta las 16:30 horas,2026-03-18 17:35
-celebra,3,14,2.29,45,"okdiario, google_news_internacional",2,OKDIARIO celebra la jornada ‘Turismo con los pies en la tierra’ en el Teatro Mar i Terra de Palma,2026-03-18 17:35
+corte,3,3,8.38,100,"levante_emv, okdiario, eldiario",3,"Una paloma defeca sobre la cabeza de Almeida en pleno discurso: ""Ha aterrizado en el corte de pelo que me hice ayer""",2026-03-18 18:04
+discurso,3,2,12.56,100,"levante_emv, heraldo_aragon, eldiario",3,"Una paloma defeca sobre la cabeza de Almeida en pleno discurso: ""Ha aterrizado en el corte de pelo que me hice ayer""",2026-03-18 18:04
+therese,3,4,6.28,100,"elmundo_espana, 20minutos, lavanguardia",3,"Tenerife recomienda el teletrabajo, suspende las clases y cierra el Teide ante la borrasca Therese, que dejará fuertes lluvias y vientos",2026-03-18 18:04
+borrasca,3,5,5.02,100,"elmundo_espana, 20minutos, lavanguardia",3,"Tenerife recomienda el teletrabajo, suspende las clases y cierra el Teide ante la borrasca Therese, que dejará fuertes lluvias y vientos",2026-03-18 18:04
+clases,3,0,5.0,100,"elmundo_espana, 20minutos, lavanguardia",3,"Tenerife recomienda el teletrabajo, suspende las clases y cierra el Teide ante la borrasca Therese, que dejará fuertes lluvias y vientos",2026-03-18 18:04
+tumban,3,0,5.0,100,"levante_emv, elpais, eldiario",3,"PP, ERC y Vox tumban la ley que rebaja la tasa de alcohol permitida al volante",2026-03-18 18:04
+libre,3,0,5.0,100,"lavanguardia, elmundo_internacional, google_news_internacional",3,"¿Alérgico al polen? No seque la ropa al aire libre y ventile la casa 20 minutos, (salvo si vive en un 5º piso)",2026-03-18 18:04
+volante,5,0,5.0,100,"europapress, expansion, levante_emv, elcorreo, eldiario",5,El Congreso tumba la ley del PSOE para rebajar la tasa máxima de alcohol al volante,2026-03-18 18:04
+alcohol,7,0,5.0,100,"okdiario, europapress, expansion, huffington_es, levante_emv",5,"El Congreso tumba el proyecto del Gobierno para rebajar la tasa de alcoholemia de 0,5 a 0,2 g/l",2026-03-18 18:04
+máxima,3,0,5.0,100,"europapress, expansion, elcorreo",3,El Congreso tumba la ley del PSOE para rebajar la tasa máxima de alcohol al volante,2026-03-18 18:04
+marruecos,4,5,6.7,100,"20minutos, elpais, okdiario",3,"Senegal se rebela y rechaza que proclamen campeón de la Copa África a Marruecos: ""Es gravemente ilegal""",2026-03-18 18:04
+calle,3,1,25.12,100,"elcorreo, levante_emv",2,"El piloto de Miranda, Alan Calle, refuerza sus opciones al campeonato vasco de motocross",2026-03-18 18:04
+gasolineras,4,1,33.5,100,"elcorreo, heraldo_aragon, levante_emv",3,Consulta en este mapa los precios de todas las gasolineras de Álava,2026-03-18 18:04
+rebaja,4,2,16.75,100,"okdiario, europapress, expansion, huffington_es, levante_emv",5,"El Congreso tumba el proyecto del Gobierno para rebajar la tasa de alcoholemia de 0,5 a 0,2 g/l",2026-03-18 18:04
+almeida,5,1,41.88,100,"levante_emv, heraldo_aragon, okdiario, huffington_es, eldiario",5,"Una paloma defeca sobre la cabeza de Almeida en pleno discurso: ""Ha aterrizado en el corte de pelo que me hice ayer""",2026-03-18 18:04
+talento,3,2,12.56,100,"google_news_internacional, google_news_economia",2,La Universidad Isabel I destaca su impulso al talento investigador y a la proyección internacional de la Comunidad - Radio Intereconomía,2026-03-18 18:04
+queremos,3,0,5.0,100,"huffington_es, okdiario",2,"Nafise, diseñadora de joyas en Teherán, 30 años: &quot;No queremos esta guerra. Queremos cambio, pero no así&quot;",2026-03-18 18:04
+partido,4,4,8.38,100,okdiario,1,¿A qué hora juega el Barcelona hoy? Horario del partido contra el Newcastle y canal de TV del partido de Champions League,2026-03-18 18:04
+newcastle,7,0,5.0,100,"okdiario, lavanguardia",2,¿A qué hora juega el Barcelona hoy? Horario del partido contra el Newcastle y canal de TV del partido de Champions League,2026-03-18 18:04
+champions,6,4,12.56,100,"okdiario, heraldo_aragon, lavanguardia",3,¿A qué hora juega el Barcelona hoy? Horario del partido contra el Newcastle y canal de TV del partido de Champions League,2026-03-18 18:04
+league,5,0,5.0,100,"okdiario, lavanguardia",2,¿A qué hora juega el Barcelona hoy? Horario del partido contra el Newcastle y canal de TV del partido de Champions League,2026-03-18 18:04
+tumba,4,0,5.0,100,"okdiario, europapress, expansion, huffington_es, levante_emv",5,"El Congreso tumba el proyecto del Gobierno para rebajar la tasa de alcoholemia de 0,5 a 0,2 g/l",2026-03-18 18:04
+paloma,5,2,20.94,100,"levante_emv, heraldo_aragon, okdiario, huffington_es, eldiario",5,"Una paloma defeca sobre la cabeza de Almeida en pleno discurso: ""Ha aterrizado en el corte de pelo que me hice ayer""",2026-03-18 18:04
+defeca,4,0,5.0,100,"levante_emv, heraldo_aragon, okdiario, huffington_es",4,"Una paloma defeca sobre la cabeza de Almeida en pleno discurso: ""Ha aterrizado en el corte de pelo que me hice ayer""",2026-03-18 18:04
+cabeza,3,3,8.38,100,"sur, levante_emv, heraldo_aragon, okdiario",4,"Piedad Bonnett, Héctor Abad Faciolince y Fernando León de Aranoa encabezan una nueva edición de Marpoética",2026-03-18 18:04
+militares,3,6,4.19,83,"okdiario, sur, google_news_politica",3,Vox plantea introducir un 20% de militares como agentes de la Policía Local en Baleares,2026-03-18 18:04
+después,3,6,4.19,83,"expansion, 20minutos",2,Openbank supera el millón de clientes en México un año después de su lanzamiento,2026-03-18 18:04
+congreso,6,13,3.87,77,"okdiario, europapress, expansion, elpais, elespanol",5,"El Congreso tumba el proyecto del Gobierno para rebajar la tasa de alcoholemia de 0,5 a 0,2 g/l",2026-03-18 18:04
+empresas,5,11,3.81,76,"google_news_economia, levante_emv",2,La Cámara de Comercio Brasil-España recibe a 22 empresas de retail brasileñas en el marco de la misión Panco - Europa Press,2026-03-18 18:04
+precios,4,9,3.72,74,"elcorreo, levante_emv, elmundo",3,Consulta en este mapa los precios de todas las gasolineras de Álava,2026-03-18 18:04
+muere,3,7,3.59,71,"elmundo_internacional, google_news_internacional, elpais",3,Una persona muere en los Alpes suizos tras desprenderse y caer el teleférico en el que viajaba,2026-03-18 18:04
+ofrenda,3,7,3.59,71,levante_emv,1,Todas las fotos de la Ofrenda del 18 de marzo por la calle de la Paz hasta las 16:30 horas,2026-03-18 18:04
+áfrica,3,8,3.14,62,"20minutos, okdiario",2,"Senegal se rebela y rechaza que proclamen campeón de la Copa África a Marruecos: ""Es gravemente ilegal""",2026-03-18 18:04
+senegal,3,9,2.79,55,"20minutos, elpais",2,"Senegal se rebela y rechaza que proclamen campeón de la Copa África a Marruecos: ""Es gravemente ilegal""",2026-03-18 18:04
+padre,3,10,2.51,50,"huffington_es, lavanguardia, heraldo_aragon",3,"Le pide a una pasajera del avión cambiar el asiento para que el padre esté con su bebé, acepta y el gesto de agradecimiento arrasa",2026-03-18 18:04
+estos,3,10,2.51,50,"google_news_politica, levante_emv, heraldo_aragon, okdiario, 20minutos",5,La crisis con Irán tensiona la política española y retrasa los Presupuestos - MUNDIARIO,2026-03-18 18:04
+régimen,3,12,2.09,41,"europapress, lavanguardia, 20minutos",3,"EEUU estima que el régimen iraní ""permanece intacto"", si bien está ""muy debilitado"" por los ataques a su cúpula",2026-03-18 18:04
