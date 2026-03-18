@@ -1,15 +1,18 @@
 keyword,count_now,count_base,ratio,viral_score,sources,n_sources,sample_title,detected_at
-acusa,6,6,6.07,100,"levante_emv, huffington_es, infolibre, heraldo_aragon, google_news_politica",5,"Feijóo acusa a Sánchez de ""aprovecharse de la guerra"" y el presidente le pide que ""rectifique"" su actitud respecto al conflicto de Irán",2026-03-18 10:34
-izquierda,4,3,8.1,100,"elpais_internacional, levante_emv, elmundo",3,La izquierda francesa se enfrenta al dilema de pactar con Mélenchon para ganar las elecciones en las grandes ciudades,2026-03-18 10:34
-perdedor,4,1,24.3,100,"infolibre, heraldo_aragon, elmundo, google_news_politica, lavanguardia",5,"Feijóo acusa a Sánchez de ""perdedor"" y el presidente defiende la respuesta ante la crisis por la guerra de Irán",2026-03-18 10:34
-programa,3,1,18.22,100,"elcorreo, google_news_internacional, maldita",3,'La isla de las tentaciones 10' llega a Telecinco: esto es lo que se sabe del programa (y los rumores),2026-03-18 10:34
-descarta,3,0,5.0,100,"levante_emv, elmundo",2,Bustinduy se descarta como líder de consenso de la izquierda,2026-03-18 10:34
-extremos,3,0,5.0,100,"efe, google_news_es, levante_emv",3,Los eventos climáticos extremos disparan las epidemias como el dengue,2026-03-18 10:34
-podrían,3,0,5.0,100,"okdiario, google_news_es, levante_emv",3,Los expertos en coches coinciden: los sensores de presión de los neumáticos podrían ser una trampa con GPS,2026-03-18 10:34
-digital,3,4,4.56,91,"google_news_economia, google_news_internacional",2,[Gob. nacional/Min. de Transformación Digital y F.P.] 'El Gobierno invertirá 40 millones de euros para facilitar el acceso de startups y pymes a casos de uso de inteligencia artificial adaptados a su actividad . La secretaria de Estado de Digitalización e Inteligen - APISCAM,2026-03-18 10:34
-mientras,7,11,3.87,77,"huffington_es, heraldo_aragon, sur, google_news_internacional, levante_emv",5,"Irán aprieta en su razia contra la oposición, mientras acusa el ataque a una central nuclear",2026-03-18 10:34
-central,3,5,3.64,72,"huffington_es, okdiario, levante_emv",3,"Irán aprieta en su razia contra la oposición, mientras acusa el ataque a una central nuclear",2026-03-18 10:34
-feijóo,10,18,3.37,67,"levante_emv, infolibre, heraldo_aragon, google_news_politica, eldiario",5,"Feijóo acusa a Sánchez de ""aprovecharse de la guerra"" y el presidente le pide que ""rectifique"" su actitud respecto al conflicto de Irán",2026-03-18 10:34
-internacional,10,19,3.2,63,google_news_internacional,1,Desfile Internacional de Animación Castellón Noticias Castellón y provincia - Vivecastellón,2026-03-18 10:34
-presidente,4,8,3.04,60,"levante_emv, infolibre, lavanguardia",3,"Feijóo acusa a Sánchez de ""aprovecharse de la guerra"" y el presidente le pide que ""rectifique"" su actitud respecto al conflicto de Irán",2026-03-18 10:34
-sánchez,11,23,2.91,58,"levante_emv, okdiario, infolibre, heraldo_aragon, google_news_politica",5,"Feijóo acusa a Sánchez de ""aprovecharse de la guerra"" y el presidente le pide que ""rectifique"" su actitud respecto al conflicto de Irán",2026-03-18 10:34
+dónde,3,4,5.5,100,okdiario,1,A qué hora es el Tottenham – Atlético de Madrid y dónde ver en directo y en vivo online la Champions League,2026-03-18 11:04
+malaga,3,0,5.0,100,sur,1,Malaga volunteers with Down syndrome brighten up day for children with cancer at Hospital Materno,2026-03-18 11:04
+cartagena,3,0,5.0,100,google_news_internacional,1,Carmen Palomo recibe en Cartagena el 39º Premio Internacional Antonio Oliver por su poemario 'Monstruos y prodigios' - Ayuntamiento de Cartagena,2026-03-18 11:04
+izquierda,3,4,5.5,100,"elpais_internacional, levante_emv, elmundo",3,La izquierda francesa se enfrenta al dilema de pactar con Mélenchon para ganar las elecciones en las grandes ciudades,2026-03-18 11:04
+hombre,3,1,21.98,100,"heraldo_aragon, lavanguardia, elpais",3,"Tales de Mileto, filósofo griego: ""Alcanza la felicidad el hombre que tiene un cuerpo sano, fortuna y un alma bien educada""",2026-03-18 11:04
+balcón,3,3,7.33,100,"elespanol, 20minutos, elconfidencial",3,Detienen a tres jóvenes por retener a una menor en un hotel de Torremolinos: escapó por el balcón de una agresión sexual,2026-03-18 11:04
+hotel,4,2,14.65,100,"elespanol, 20minutos, sur, elconfidencial",4,Detienen a tres jóvenes por retener a una menor en un hotel de Torremolinos: escapó por el balcón de una agresión sexual,2026-03-18 11:04
+menor,3,2,10.99,100,"elespanol, 20minutos, elconfidencial",3,Detienen a tres jóvenes por retener a una menor en un hotel de Torremolinos: escapó por el balcón de una agresión sexual,2026-03-18 11:04
+andalucía,4,3,9.77,100,"sur, google_news_internacional, elespanol, elpais",4,Iberian lynx in Andalucía: baby boom in Doñana,2026-03-18 11:04
+sexual,6,2,21.98,100,"levante_emv, elespanol, 20minutos, google_news_es, elconfidencial",5,Errejón busca que la Audiencia reconsidere la renuncia de Mouliaá antes de revisar su procesamiento por agresión sexual,2026-03-18 11:04
+agresión,5,2,18.32,100,"levante_emv, elespanol, 20minutos, google_news_es, elconfidencial",5,Errejón busca que la Audiencia reconsidere la renuncia de Mouliaá antes de revisar su procesamiento por agresión sexual,2026-03-18 11:04
+acusa,5,8,4.58,91,"levante_emv, infolibre, huffington_es, heraldo_aragon",4,"Feijóo acusa a Sánchez de ""aprovecharse de la guerra"" y el presidente le pide que ""rectifique"" su actitud respecto al conflicto de Irán",2026-03-18 11:04
+estado,3,6,3.66,73,"20minutos, eldiario, google_news_economia, elconfidencial",4,"Un niño de dos años, en estado crítico tras caer desde un cuarto piso en Catarroja",2026-03-18 11:04
+anuncia,3,6,3.66,73,"elpais, okdiario",2,"‘Grand Prix 2026′ anuncia sus 12 pueblos participantes, procedentes de regiones como Asturias, Andalucía, Islas Canarias y País Vasco",2026-03-18 11:04
+barcelona,4,9,3.26,65,"okdiario, google_news_economia",2,Alineación del Barcelona contra el Newcastle hoy: Lamine lidera un once sin rotaciones,2026-03-18 11:04
+horas,3,7,3.14,62,"okdiario, google_news_economia",2,Drama en el Bayern Múnich: su portero 16 años no tiene permiso para jugar pasadas las 23 horas,2026-03-18 11:04
+internacional,10,25,2.93,58,"google_news_economia, google_news_internacional",2,"España recibió casi 14 millones de pasajeros aéreos internacionales al inicio de 2026, un 5,2% más - Europa Press",2026-03-18 11:04
