@@ -1,38 +1,43 @@
 keyword,count_now,count_base,ratio,viral_score,sources,n_sources,sample_title,detected_at
-atrevia,3,0,5.0,100,"levante_emv, google_news_economia",2,"Las empresas cotizadas en España podrían llegar al 40% de paridad de género en 2027, según Atrevia e IESE",2026-03-18 18:35
-comercio,3,1,28.03,100,"heraldo_aragon, google_news_economia",2,Ocho condenados en Zaragoza por utilizar datos de tarjetas de clientes de un gran comercio para hacer casi 500 compras online,2026-03-18 18:35
-corte,3,3,9.34,100,"levante_emv, 20minutos, okdiario",3,"Una paloma defeca sobre la cabeza de Almeida en pleno discurso: ""Ha aterrizado en el corte de pelo que me hice ayer""",2026-03-18 18:35
-almeida,4,3,12.46,100,"levante_emv, heraldo_aragon, 20minutos, okdiario",4,"Una paloma defeca sobre la cabeza de Almeida en pleno discurso: ""Ha aterrizado en el corte de pelo que me hice ayer""",2026-03-18 18:35
-cabeza,3,3,9.34,100,"sur, levante_emv, heraldo_aragon, okdiario",4,"Piedad Bonnett, Héctor Abad Faciolince y Fernando León de Aranoa encabezan una nueva edición de Marpoética",2026-03-18 18:35
-defeca,3,1,28.03,100,"levante_emv, heraldo_aragon, okdiario",3,"Una paloma defeca sobre la cabeza de Almeida en pleno discurso: ""Ha aterrizado en el corte de pelo que me hice ayer""",2026-03-18 18:35
-paloma,4,4,9.34,100,"levante_emv, heraldo_aragon, 20minutos, okdiario",4,"Una paloma defeca sobre la cabeza de Almeida en pleno discurso: ""Ha aterrizado en el corte de pelo que me hice ayer""",2026-03-18 18:35
-restaurantes,3,1,28.03,100,google_news_economia,1,Burger King logra 1.000 restaurantes en España y planea sumar 300 locales más en los próximos años - democrata.es,2026-03-18 18:35
-tumba,4,1,37.38,100,"lavanguardia, okdiario, europapress, expansion",4,El Congreso tumba el proyecto del Gobierno para rebajar la tasa de alcohol al volante,2026-03-18 18:35
-locales,4,1,37.38,100,google_news_economia,1,Burger King alcanza los 1.000 locales y se consolida como el 'rey' de la restauración en España - vozpopuli.com,2026-03-18 18:35
-momento,3,3,9.34,100,"20minutos, okdiario",2,"El divertido momento de Almeida con una paloma: ""Ha aterrizado sobre el corte de pelo que me hice ayer""",2026-03-18 18:35
-newcastle,8,5,14.95,100,"okdiario, sur, levante_emv, lavanguardia",4,"Barcelona – Newcastle, en directo | Alineaciones, a qué hora juega el Barça y última hora del partido de la Champions League hoy",2026-03-18 18:35
-burger,3,4,7.01,100,google_news_economia,1,Burger King alcanza los 1.000 locales y se consolida como el 'rey' de la restauración en España - vozpopuli.com,2026-03-18 18:35
-llegar,4,4,9.34,100,"okdiario, levante_emv, google_news_economia",3,"Acaba de llegar a Netflix y todo el mundo habla ya de ella: la serie de 6 capítulos, con giros de guion y basada en una novela superventas que atrapa desde el primer minuto",2026-03-18 18:35
-datos,3,4,7.01,100,"heraldo_aragon, levante_emv, elpais",3,Ocho condenados en Zaragoza por utilizar datos de tarjetas de clientes de un gran comercio para hacer casi 500 compras online,2026-03-18 18:35
-libre,3,0,5.0,100,"lavanguardia, elmundo_internacional, google_news_internacional",3,"¿Alérgico al polen? No seque la ropa al aire libre y ventile la casa 20 minutos, (salvo si vive en un 5º piso)",2026-03-18 18:35
-cotizadas,3,0,5.0,100,"levante_emv, google_news_economia",2,"Las empresas cotizadas en España podrían llegar al 40% de paridad de género en 2027, según Atrevia e IESE",2026-03-18 18:35
-volante,4,4,9.34,100,"elmundo, lavanguardia, europapress, expansion",4,"El Congreso rechaza rebajar la tasa máxima de alcohol al volante con el voto en contra de PP, VOX y ERC",2026-03-18 18:35
-alcohol,4,6,6.23,100,"elmundo, lavanguardia, okdiario, europapress, expansion",5,"El Congreso rechaza rebajar la tasa máxima de alcohol al volante con el voto en contra de PP, VOX y ERC",2026-03-18 18:35
-máxima,3,1,28.03,100,"elmundo, europapress, expansion",3,"El Congreso rechaza rebajar la tasa máxima de alcohol al volante con el voto en contra de PP, VOX y ERC",2026-03-18 18:35
-rebajar,4,0,5.0,100,"elmundo, lavanguardia, okdiario, europapress",4,"El Congreso rechaza rebajar la tasa máxima de alcohol al volante con el voto en contra de PP, VOX y ERC",2026-03-18 18:35
-podrían,3,0,5.0,100,"levante_emv, google_news_economia",2,"Las empresas cotizadas en España podrían llegar al 40% de paridad de género en 2027, según Atrevia e IESE",2026-03-18 18:35
-fernando,3,5,5.61,100,"okdiario, elpais, sur",3,Felipe Massa se rinde a Fernando Alonso: «Podría ganar a Stroll hasta con 65 años»,2026-03-18 18:35
-league,4,3,12.46,100,okdiario,1,"Barcelona – Newcastle, en directo | Alineaciones, a qué hora juega el Barça y última hora del partido de la Champions League hoy",2026-03-18 18:35
-paridad,3,0,5.0,100,"levante_emv, google_news_economia",2,"Las empresas cotizadas en España podrían llegar al 40% de paridad de género en 2027, según Atrevia e IESE",2026-03-18 18:35
-partido,4,6,6.23,100,"okdiario, heraldo_aragon",2,"Barcelona – Newcastle, en directo | Alineaciones, a qué hora juega el Barça y última hora del partido de la Champions League hoy",2026-03-18 18:35
-juega,4,0,5.0,100,okdiario,1,"Barcelona – Newcastle, en directo | Alineaciones, a qué hora juega el Barça y última hora del partido de la Champions League hoy",2026-03-18 18:35
-marruecos,3,5,5.61,100,"20minutos, elpais",2,"Senegal se rebela y rechaza que proclamen campeón de la Copa África a Marruecos: ""Es gravemente ilegal""",2026-03-18 18:35
-senegal,3,6,4.67,93,"20minutos, elpais",2,"Senegal se rebela y rechaza que proclamen campeón de la Copa África a Marruecos: ""Es gravemente ilegal""",2026-03-18 18:35
-alcanza,3,6,4.67,93,google_news_economia,1,Burger King alcanza los 1.000 locales y se consolida como el 'rey' de la restauración en España - vozpopuli.com,2026-03-18 18:35
-champions,4,8,4.67,93,okdiario,1,"Barcelona – Newcastle, en directo | Alineaciones, a qué hora juega el Barça y última hora del partido de la Champions League hoy",2026-03-18 18:35
-piden,3,7,4.0,80,"okdiario, huffington_es, elcorreo",3,"Los agricultores murcianos, en jaque: la plaga del pulgón arrasa 6.100 hectáreas de frutales y piden medidas urgentes",2026-03-18 18:35
-empresas,5,13,3.59,71,"google_news_economia, levante_emv",2,La Cámara de Comercio Brasil-España recibe a 22 empresas de retail brasileñas en el marco de la misión Panco - Europa Press,2026-03-18 18:35
-congreso,5,15,3.11,62,"elmundo, lavanguardia, okdiario, europapress, expansion",5,"El Congreso rechaza rebajar la tasa máxima de alcohol al volante con el voto en contra de PP, VOX y ERC",2026-03-18 18:35
-1.000,4,14,2.67,53,google_news_economia,1,Burger King alcanza los 1.000 locales y se consolida como el 'rey' de la restauración en España - vozpopuli.com,2026-03-18 18:35
-europa,3,11,2.55,50,"google_news_internacional, google_news_economia",2,GOL anuncia expansión internacional con nuevas rutas a EE.UU. y Europa - Avion Revue,2026-03-18 18:35
-barcelona,6,24,2.34,46,"okdiario, sur, levante_emv",3,"Barcelona – Newcastle, en directo | Alineaciones, a qué hora juega el Barça y última hora del partido de la Champions League hoy",2026-03-18 18:35
+sheinbaum,6,0,5.0,100,"elcorreo, europapress, elconfidencial, elmundo_espana, huffington_es",5,Sheinbaum invita al Rey al mundial de fútbol de México,2026-03-18 19:04
+década,3,0,5.0,100,"levante_emv, elcorreo, elespanol, huffington_es",4,Delcy Rodríguez destituye a Padrino López tras más de una década como ministro de Defensa,2026-03-18 19:04
+investigadores,3,0,5.0,100,"huffington_es, levante_emv, sur",3,"Los investigadores del Alzheimer coinciden: dos de cada tres enfermos son mujeres y el 57% de los cuidadores también son mujeres, y la ciencia lleva décadas ignorando esta diferencia",2026-03-18 19:04
+cuerpo,4,2,19.46,100,"google_news_economia, huffington_es, levante_emv",3,Cuerpo sostiene que España está preparada para amortiguar el encarecimiento del gas en la factura eléctrica - democrata.es,2026-03-18 19:04
+vladimir,3,0,5.0,100,"elespanol, france24_es, elpais",3,Delcy Rodríguez destituye a Vladimir Padrino como ministro de Defensa tras más de una década en el cargo,2026-03-18 19:04
+felipe,5,5,9.73,100,"elconfidencial, elmundo_espana, huffington_es, elpais, okdiario",5,"Sheinbaum invita a Felipe VI a asistir al mundial de fútbol después de que el monarca reconociese ""mucho abuso""",2026-03-18 19:04
+dónde,3,3,9.73,100,okdiario,1,¿A qué hora juega el Barça hoy? Dónde ver el partido contra el Newcastle en TV gratis de Champions League hoy,2026-03-18 19:04
+juega,3,3,9.73,100,okdiario,1,¿A qué hora juega el Barça hoy? Dónde ver el partido contra el Newcastle en TV gratis de Champions League hoy,2026-03-18 19:04
+calle,4,4,9.73,100,levante_emv,1,Todas las fotos de la Ofrenda del 18 de marzo por la calle de la Paz hasta las 18:30 horas,2026-03-18 19:04
+ofrenda,5,9,5.41,100,levante_emv,1,Todas las fotos de la Ofrenda del 18 de marzo por la calle de la Paz hasta las 18:30 horas,2026-03-18 19:04
+fotos,4,3,12.97,100,levante_emv,1,Todas las fotos de la Ofrenda del 18 de marzo por la calle de la Paz hasta las 18:30 horas,2026-03-18 19:04
+méxico,4,5,7.78,100,"elcorreo, europapress, elmundo_espana, elpais",4,Sheinbaum invita al Rey al mundial de fútbol de México,2026-03-18 19:04
+mundial,6,7,8.34,100,"elcorreo, europapress, elconfidencial, huffington_es, okdiario",5,Sheinbaum invita al Rey al mundial de fútbol de México,2026-03-18 19:04
+invita,4,1,38.92,100,"elcorreo, elconfidencial, huffington_es, elpais",4,Sheinbaum invita al Rey al mundial de fútbol de México,2026-03-18 19:04
+defensa,7,6,11.35,100,"levante_emv, elcorreo, elmundo, elespanol, france24_es",5,Delcy Rodríguez destituye a Padrino López tras más de una década como ministro de Defensa,2026-03-18 19:04
+parque,3,3,9.73,100,"sur, elpais, elcorreo",3,"La costa, un parque y el Casco Histórico: Marbella y la Junta organizan rutas a pie para fomentar la actividad",2026-03-18 19:04
+lópez,4,0,5.0,100,"levante_emv, elcorreo, elmundo, newtral",4,Delcy Rodríguez destituye a Padrino López tras más de una década como ministro de Defensa,2026-03-18 19:04
+barça,5,3,16.22,100,"okdiario, elpais, elcorreo",3,"Cómo va el Barça – Newcastle, en directo: goles, resultado y últimas noticias del partido de Champions League hoy",2026-03-18 19:04
+padrino,6,0,5.0,100,"levante_emv, elcorreo, elmundo, elespanol, france24_es",5,Delcy Rodríguez destituye a Padrino López tras más de una década como ministro de Defensa,2026-03-18 19:04
+newcastle,7,13,5.24,100,"elespanol, okdiario, elpais, sur, levante_emv",5,"Barcelona - Newcastle, fútbol hoy en directo | Gol de Raphinha para adelantar el partido",2026-03-18 19:04
+directo,12,23,5.08,100,"elespanol, okdiario, elpais, google_news_internacional, elcorreo",5,"Barcelona - Newcastle, fútbol hoy en directo | Gol de Raphinha para adelantar el partido",2026-03-18 19:04
+raphinha,3,2,14.59,100,"elespanol, elpais, elcorreo",3,"Barcelona - Newcastle, fútbol hoy en directo | Gol de Raphinha para adelantar el partido",2026-03-18 19:04
+destituye,6,0,5.0,100,"levante_emv, elcorreo, elmundo, elespanol, france24_es",5,Delcy Rodríguez destituye a Padrino López tras más de una década como ministro de Defensa,2026-03-18 19:04
+rodríguez,6,4,14.59,100,"levante_emv, elcorreo, elmundo, elespanol, france24_es",5,Delcy Rodríguez destituye a Padrino López tras más de una década como ministro de Defensa,2026-03-18 19:04
+delcy,5,1,48.65,100,"levante_emv, elcorreo, elmundo, elespanol, france24_es",5,Delcy Rodríguez destituye a Padrino López tras más de una década como ministro de Defensa,2026-03-18 19:04
+league,5,7,6.95,100,okdiario,1,"Cómo va el Barça – Newcastle, en directo: goles, resultado y últimas noticias del partido de Champions League hoy",2026-03-18 19:04
+partido,5,11,4.42,88,"elespanol, okdiario",2,"Barcelona - Newcastle, fútbol hoy en directo | Gol de Raphinha para adelantar el partido",2026-03-18 19:04
+abusos,3,7,4.17,83,"levante_emv, elespanol, europapress, huffington_es",4,El Opus Dei aparta a un profesor de un colegio de Madrid por presuntos abusos a menores,2026-03-18 19:04
+champions,4,10,3.89,77,okdiario,1,"Cómo va el Barça – Newcastle, en directo: goles, resultado y últimas noticias del partido de Champions League hoy",2026-03-18 19:04
+después,3,9,3.24,64,"elmundo_espana, elconfidencial, huffington_es",3,"Vox allana la investidura de Guardiola y da casi por hecho un acuerdo ""muy bueno"" con el PP tres días después de su pinchazo en Castilla y León",2026-03-18 19:04
+puede,3,9,3.24,64,"bbc_mundo, levante_emv, okdiario",3,Cómo el fin de la patente de Ozempic en India puede cambiar la lucha global contra la obesidad (y cuáles son los riesgos),2026-03-18 19:04
+europa,4,12,3.24,64,"google_news_economia, elcorreo, okdiario",3,España eximirá a los británicos del visado para la prestación de servicios por menos de 90 días - Europa Press,2026-03-18 19:04
+fútbol,4,12,3.24,64,"elespanol, elcorreo, elconfidencial, elpais",4,"Barcelona - Newcastle, fútbol hoy en directo | Gol de Raphinha para adelantar el partido",2026-03-18 19:04
+última,5,15,3.24,64,"okdiario, google_news_internacional, elcorreo",3,"Cómo va el Barça – Newcastle, en directo: goles, resultado y últimas noticias del partido de Champions League hoy",2026-03-18 19:04
+horas,4,14,2.78,55,levante_emv,1,Todas las fotos de la Ofrenda del 18 de marzo por la calle de la Paz hasta las 18:30 horas,2026-03-18 19:04
+barcelona,7,25,2.72,54,"elespanol, elpais, okdiario, sur, 20minutos",5,"Barcelona - Newcastle, fútbol hoy en directo | Gol de Raphinha para adelantar el partido",2026-03-18 19:04
+muerte,3,11,2.65,53,"google_news_internacional, elcorreo, 20minutos",3,"Última hora de la guerra en Irán hoy, en directo | Últimas noticias de los ataques de Israel y EE.UU y la muerte de Jatib - La Vanguardia",2026-03-18 19:04
+marzo,6,23,2.54,50,"levante_emv, sur",2,Todas las fotos de la Ofrenda del 18 de marzo por la calle de la Paz hasta las 18:30 horas,2026-03-18 19:04
+ministro,6,28,2.08,41,"levante_emv, elcorreo, elmundo, elespanol, france24_es",5,Delcy Rodríguez destituye a Padrino López tras más de una década como ministro de Defensa,2026-03-18 19:04
+ayuso,3,14,2.08,41,"levante_emv, google_news_politica, elpais",3,"Ayuso pide “dejar en paz al rey” y defiende el ""orgullo"" de España: “Llevamos una forma civilizada de ver la vida”",2026-03-18 19:04
+yacimiento,3,14,2.08,41,"infolibre, elmundo, lavanguardia, levante_emv",4,"Irán asegura que el fuego provocado por Israel en el mayor yacimiento de gas del mundo ""está bajo control""",2026-03-18 19:04
+trump,3,14,2.08,41,"okdiario, infolibre, france24_es",3,Europa le escupe en la cara a Trump cuando más lo necesita,2026-03-18 19:04
