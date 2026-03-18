@@ -1,26 +1,15 @@
 keyword,count_now,count_base,ratio,viral_score,sources,n_sources,sample_title,detected_at
-sumar,4,4,6.05,100,"elmundo, levante_emv, europapress, google_news_politica",4,La batalla post Yolanda se desata en la izquierda: dos sectores pelean por liderar Sumar e IU acelera el candidato,2026-03-18 10:04
-origen,5,4,7.56,100,"elcorreo, heraldo_aragon, elpais, elespanol, europapress",5,Una incidencia en la señalización provoca «retrasos en los trenes de alta velocidad con origen y destino Madrid»,2026-03-18 10:04
-bustinduy,5,0,5.0,100,"levante_emv, huffington_es, eldiario, europapress, google_news_politica",5,"Bustinduy rechaza sustituir a Yolanda Díaz como líder de Sumar: ""No es mi papel""",2026-03-18 10:04
-retrasos,6,3,12.09,100,"elcorreo, huffington_es, heraldo_aragon, elmundo, elpais",5,Una incidencia en la señalización provoca «retrasos en los trenes de alta velocidad con origen y destino Madrid»,2026-03-18 10:04
-digital,3,3,6.05,100,"google_news_internacional, google_news_economia, google_news_politica",3,Vanessa Ramírez: “El orden internacional ha quebrado y la política vive del relato mientras la ciudadanía paga las consecuencias” - Digital Faro Canarias,2026-03-18 10:04
-falla,3,3,6.05,100,"levante_emv, elconfidencial",2,La genialidad de la falla Tres Camins-Pinedo,2026-03-18 10:04
-izquierda,3,1,18.14,100,"elmundo, huffington_es, eldiario",3,La batalla post Yolanda se desata en la izquierda: dos sectores pelean por liderar Sumar e IU acelera el candidato,2026-03-18 10:04
-feijóo,10,11,5.5,100,"eldiario, elmundo, elcorreo, 20minutos, google_news_politica",5,Sánchez pide a Feijóo que se desmarque de la guerra y el líder del PP insta al Gobierno a bajar impuestos,2026-03-18 10:04
-acusa,3,3,6.05,100,"elmundo, elespanol, elpais",3,"Feijóo tacha a Sánchez de ""perdedor"" y le acusa de ""aprovecharse de la guerra""",2026-03-18 10:04
-candidato,4,0,5.0,100,"elmundo, huffington_es, eldiario, europapress",4,La batalla post Yolanda se desata en la izquierda: dos sectores pelean por liderar Sumar e IU acelera el candidato,2026-03-18 10:04
-incidencia,5,3,10.08,100,"elcorreo, heraldo_aragon, elpais, elespanol, europapress",5,Una incidencia en la señalización provoca «retrasos en los trenes de alta velocidad con origen y destino Madrid»,2026-03-18 10:04
-señalización,3,0,5.0,100,"elcorreo, elmundo, elespanol",3,Una incidencia en la señalización provoca «retrasos en los trenes de alta velocidad con origen y destino Madrid»,2026-03-18 10:04
-cataluña,3,4,4.54,90,"google_news_internacional, okdiario",2,"Cataluña, Baleares y Comunidad Valenciana concentran el alquiler de barcos mientras despega la náutica internacional - democrata.es",2026-03-18 10:04
-destino,5,7,4.32,86,"elcorreo, heraldo_aragon, elpais, elespanol, europapress",5,Una incidencia en la señalización provoca «retrasos en los trenes de alta velocidad con origen y destino Madrid»,2026-03-18 10:04
-velocidad,5,8,3.78,75,"elcorreo, heraldo_aragon, elpais, elespanol, europapress",5,Una incidencia en la señalización provoca «retrasos en los trenes de alta velocidad con origen y destino Madrid»,2026-03-18 10:04
-sánchez,10,16,3.78,75,"eldiario, elmundo, elcorreo, 20minutos, google_news_politica",5,Sánchez pide a Feijóo que se desmarque de la guerra y el líder del PP insta al Gobierno a bajar impuestos,2026-03-18 10:04
-mientras,6,10,3.63,72,"sur, google_news_internacional, levante_emv, huffington_es",4,Irán clama venganza mientras el sector más radical del régimen toma el poder,2026-03-18 10:04
-presidente,3,6,3.02,60,"levante_emv, huffington_es, elpais",3,El presidente de la Asamblea de Extremadura descarta abrir otra ronda de consultas y emplaza la investidura al acuerdo PP-Vox,2026-03-18 10:04
-trenes,3,6,3.02,60,"elcorreo, huffington_es, elpais",3,Una incidencia en la señalización provoca «retrasos en los trenes de alta velocidad con origen y destino Madrid»,2026-03-18 10:04
-retira,4,9,2.69,53,"levante_emv, 20minutos, okdiario",3,Illa retira los presupuestos para seguir negociando y ERC apoyará una inyección de recursos para dar estabilidad,2026-03-18 10:04
-mejores,3,7,2.59,51,"levante_emv, lavanguardia, sur",3,Guarda el secreto: Las siete mejores zonas de València para ver esta noche la espectacular Nit de Foc de Fallas,2026-03-18 10:04
-internacional,7,18,2.35,47,google_news_internacional,1,Vanessa Ramírez: “El orden internacional ha quebrado y la política vive del relato mientras la ciudadanía paga las consecuencias” - Digital Faro Canarias,2026-03-18 10:04
-madrid,8,22,2.2,43,"elcorreo, huffington_es, infolibre, heraldo_aragon, elmundo",5,Una incidencia en la señalización provoca «retrasos en los trenes de alta velocidad con origen y destino Madrid»,2026-03-18 10:04
-predicción,3,9,2.02,40,okdiario,1,"Predicción del horóscopo para Piscis hoy, miércoles 18 de marzo de 2026",2026-03-18 10:04
-horóscopo,3,9,2.02,40,okdiario,1,"Predicción del horóscopo para Piscis hoy, miércoles 18 de marzo de 2026",2026-03-18 10:04
+acusa,6,6,6.07,100,"levante_emv, huffington_es, infolibre, heraldo_aragon, google_news_politica",5,"Feijóo acusa a Sánchez de ""aprovecharse de la guerra"" y el presidente le pide que ""rectifique"" su actitud respecto al conflicto de Irán",2026-03-18 10:34
+izquierda,4,3,8.1,100,"elpais_internacional, levante_emv, elmundo",3,La izquierda francesa se enfrenta al dilema de pactar con Mélenchon para ganar las elecciones en las grandes ciudades,2026-03-18 10:34
+perdedor,4,1,24.3,100,"infolibre, heraldo_aragon, elmundo, google_news_politica, lavanguardia",5,"Feijóo acusa a Sánchez de ""perdedor"" y el presidente defiende la respuesta ante la crisis por la guerra de Irán",2026-03-18 10:34
+programa,3,1,18.22,100,"elcorreo, google_news_internacional, maldita",3,'La isla de las tentaciones 10' llega a Telecinco: esto es lo que se sabe del programa (y los rumores),2026-03-18 10:34
+descarta,3,0,5.0,100,"levante_emv, elmundo",2,Bustinduy se descarta como líder de consenso de la izquierda,2026-03-18 10:34
+extremos,3,0,5.0,100,"efe, google_news_es, levante_emv",3,Los eventos climáticos extremos disparan las epidemias como el dengue,2026-03-18 10:34
+podrían,3,0,5.0,100,"okdiario, google_news_es, levante_emv",3,Los expertos en coches coinciden: los sensores de presión de los neumáticos podrían ser una trampa con GPS,2026-03-18 10:34
+digital,3,4,4.56,91,"google_news_economia, google_news_internacional",2,[Gob. nacional/Min. de Transformación Digital y F.P.] 'El Gobierno invertirá 40 millones de euros para facilitar el acceso de startups y pymes a casos de uso de inteligencia artificial adaptados a su actividad . La secretaria de Estado de Digitalización e Inteligen - APISCAM,2026-03-18 10:34
+mientras,7,11,3.87,77,"huffington_es, heraldo_aragon, sur, google_news_internacional, levante_emv",5,"Irán aprieta en su razia contra la oposición, mientras acusa el ataque a una central nuclear",2026-03-18 10:34
+central,3,5,3.64,72,"huffington_es, okdiario, levante_emv",3,"Irán aprieta en su razia contra la oposición, mientras acusa el ataque a una central nuclear",2026-03-18 10:34
+feijóo,10,18,3.37,67,"levante_emv, infolibre, heraldo_aragon, google_news_politica, eldiario",5,"Feijóo acusa a Sánchez de ""aprovecharse de la guerra"" y el presidente le pide que ""rectifique"" su actitud respecto al conflicto de Irán",2026-03-18 10:34
+internacional,10,19,3.2,63,google_news_internacional,1,Desfile Internacional de Animación Castellón Noticias Castellón y provincia - Vivecastellón,2026-03-18 10:34
+presidente,4,8,3.04,60,"levante_emv, infolibre, lavanguardia",3,"Feijóo acusa a Sánchez de ""aprovecharse de la guerra"" y el presidente le pide que ""rectifique"" su actitud respecto al conflicto de Irán",2026-03-18 10:34
+sánchez,11,23,2.91,58,"levante_emv, okdiario, infolibre, heraldo_aragon, google_news_politica",5,"Feijóo acusa a Sánchez de ""aprovecharse de la guerra"" y el presidente le pide que ""rectifique"" su actitud respecto al conflicto de Irán",2026-03-18 10:34
