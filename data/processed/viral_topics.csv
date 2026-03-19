@@ -1,32 +1,40 @@
 keyword,count_now,count_base,ratio,viral_score,sources,n_sources,sample_title,detected_at
-avanza,3,1,18.85,100,google_news_economia,1,"Montero avanza que España cumplió el objetivo de déficit del 2,5% en 2025 - EL PAÍS",2026-03-19 10:34
-cumplió,3,0,5.0,100,google_news_economia,1,"Montero avanza que España cumplió el objetivo de déficit del 2,5% en 2025 - EL PAÍS",2026-03-19 10:34
-avisa,3,3,6.28,100,"europapress, heraldo_aragon",2,"Orbán avisa a los líderes de que solo apoyará a Ucrania si recibe petróleo: ""Todo lo demás es un cuento de hadas""",2026-03-19 10:34
-caballer,3,0,5.0,100,levante_emv,1,"La mascletà de hoy 19 de marzo, en directo desde València: Hermanos Caballer pone punto y final a la catedral de la pólvora",2026-03-19 10:34
-mascletà,4,0,5.0,100,levante_emv,1,"La mascletà de hoy 19 de marzo, en directo desde València: Hermanos Caballer pone punto y final a la catedral de la pólvora",2026-03-19 10:34
-silvio,3,0,5.0,100,"huffington_es, heraldo_aragon",2,Silvio Rodríguez cambiará la guitarra por el fusil si EEUU ataca a Cuba: &quot;Exijo mi AKM&quot;,2026-03-19 10:34
-crédito,4,2,12.57,100,"lavanguardia, okdiario, expansion, 20minutos",4,"El Govern se cura en salud y aprueba un suplemento de crédito de 6.000 millones, el máximo posible",2026-03-19 10:34
-suplemento,3,0,5.0,100,"lavanguardia, expansion, 20minutos",3,"El Govern se cura en salud y aprueba un suplemento de crédito de 6.000 millones, el máximo posible",2026-03-19 10:34
-aprueba,3,1,18.85,100,"lavanguardia, expansion, 20minutos",3,"El Govern se cura en salud y aprueba un suplemento de crédito de 6.000 millones, el máximo posible",2026-03-19 10:34
-asesinato,3,3,6.28,100,"levante_emv, lavanguardia",2,La Policía detiene en Vallecas a un fugitivo de Honduras por un doble asesinato de 2022,2026-03-19 10:34
-fugitivo,3,0,5.0,100,"levante_emv, lavanguardia, 20minutos",3,La Policía detiene en Vallecas a un fugitivo de Honduras por un doble asesinato de 2022,2026-03-19 10:34
-déficit,4,1,25.14,100,"google_news_economia, elmundo",2,"Montero avanza que España cumplió el objetivo de déficit del 2,5% en 2025 - EL PAÍS",2026-03-19 10:34
-objetivo,3,0,5.0,100,google_news_economia,1,"Montero avanza que España cumplió el objetivo de déficit del 2,5% en 2025 - EL PAÍS",2026-03-19 10:34
-armas,3,1,18.85,100,"heraldo_aragon, levante_emv",2,"Silvio Rodríguez avisa que tomará armas si EE. UU. interviene en Cuba: ""Exijo mi AKM""",2026-03-19 10:34
-lanza,3,1,18.85,100,"google_news_internacional, lavanguardia",2,"Guerra en Irán, en directo: Irán lanza un ataque contra la mayor reserva de gas licuado del mundo en Qatar, y última hora de Israel y EE.UU. - La Vanguardia",2026-03-19 10:34
-accidente,3,2,9.43,100,"okdiario, europapress",2,El doloroso accidente de Lang en Anfield con una valla publicitaria: ¡el dedo acaba casi mutilado!,2026-03-19 10:34
-montero,5,3,10.47,100,"europapress, google_news_economia, elmundo",3,Montero anuncia un cambio legal para que el accidente de Adamuz tenga consideración de accidente laboral,2026-03-19 10:34
-santiago,3,3,6.28,100,"google_news_politica, eldiario, heraldo_aragon",3,"Santiago Segura: ""España está hasta las narices de la clase política que tenemos. Yo no necesito odiar a mi vecino porque piense diferente a mí"" - 20Minutos",2026-03-19 10:34
-valla,3,2,9.43,100,"okdiario, heraldo_aragon, levante_emv",3,El doloroso accidente de Lang en Anfield con una valla publicitaria: ¡el dedo acaba casi mutilado!,2026-03-19 10:34
-licuado,3,1,18.85,100,"google_news_internacional, lavanguardia",2,"Guerra en Irán, en directo: Irán lanza un ataque contra la mayor reserva de gas licuado del mundo en Qatar, y última hora de Israel y EE.UU. - La Vanguardia",2026-03-19 10:34
-reserva,3,0,5.0,100,"google_news_internacional, lavanguardia",2,"Guerra en Irán, en directo: Irán lanza un ataque contra la mayor reserva de gas licuado del mundo en Qatar, y última hora de Israel y EE.UU. - La Vanguardia",2026-03-19 10:34
-confirma,3,4,4.71,94,"okdiario, europapress, el_confidencial_economia, heraldo_aragon",4,Suena cruel pero la ciencia lo confirma: en Alaska cazan osos y lobos para proteger el equilibrio del ecosistema,2026-03-19 10:34
-ciencia,3,5,3.77,75,"okdiario, levante_emv",2,Suena cruel pero la ciencia lo confirma: en Alaska cazan osos y lobos para proteger el equilibrio del ecosistema,2026-03-19 10:34
-millones,7,14,3.14,62,"okdiario, maldita, expansion, lavanguardia, 20minutos",5,La Comunidad de Madrid aumenta un 40% su Plan de Impulso Forestal con una inversión de 160 millones,2026-03-19 10:34
-rodríguez,3,7,2.69,53,"huffington_es, heraldo_aragon",2,Silvio Rodríguez cambiará la guitarra por el fusil si EEUU ataca a Cuba: &quot;Exijo mi AKM&quot;,2026-03-19 10:34
-nuevo,3,8,2.36,47,"europapress, levante_emv, elmundo",3,"Urtasun afirma que no aspira a ser candidato del nuevo Sumar y pide cesar el ""juego de confirmaciones y descartes""",2026-03-19 10:34
-qatar,3,8,2.36,47,"google_news_internacional, lavanguardia",2,"Guerra en Irán, en directo: Irán lanza un ataque contra la mayor reserva de gas licuado del mundo en Qatar, y última hora de Israel y EE.UU. - La Vanguardia",2026-03-19 10:34
-nueva,3,9,2.09,41,"google_news_internacional, huffington_es, google_news_politica",3,El Cabildo impulsa la cooperación internacional al desarrollo con una nueva convocatoria - diariodetenerife.info,2026-03-19 10:34
-escribano,3,9,2.09,41,"levante_emv, elcorreo, google_news_es",3,"Indra se deja más de un 4,5% en el Ibex 35 tras exigir la SEPI la dimisión de Escribano",2026-03-19 10:34
-madrid,5,15,2.09,41,"okdiario, lavanguardia, elconfidencial, eldiario, 20minutos",5,La Comunidad de Madrid aumenta un 40% su Plan de Impulso Forestal con una inversión de 160 millones,2026-03-19 10:34
-indra,4,12,2.09,41,"levante_emv, elcorreo, google_news_es, okdiario",4,"Indra se deja más de un 4,5% en el Ibex 35 tras exigir la SEPI la dimisión de Escribano",2026-03-19 10:34
+reserva,5,1,29.48,100,"okdiario, lavanguardia, google_news_internacional",3,"Conflicto en Irán, en directo | Irán golpea la mayor reserva de gas licuado de Qatar y así responden Israel y EEUU",2026-03-19 11:04
+fiscales,3,0,5.0,100,"elespanol, elmundo",2,Montero confirma rebajas fiscales para luz y gasolina pero no en vivienda: “Adoptaremos sólo lo que tenga consenso”,2026-03-19 11:04
+accidente,3,2,8.84,100,"okdiario, europapress",2,El doloroso accidente de Lang en Anfield con una valla publicitaria: ¡el dedo acaba casi mutilado!,2026-03-19 11:04
+antonio,3,1,17.69,100,levante_emv,1,"Juan Antonio Delgado, el candidato de Podemos a la Junta de Andalucía se abre a un pacto con Antonio Maíllo para las elecciones",2026-03-19 11:04
+anuncia,5,1,29.48,100,"huffington_es, google_news_economia, europapress, elmundo",4,"Montero anuncia que España cumplió el objetivo de déficit del 2,5% del PIB en 2025",2026-03-19 11:04
+alcanza,3,2,8.84,100,"okdiario, google_news_economia, elpais",3,Messi sigue la estela de Cristiano y… ¡alcanza los 900 goles!,2026-03-19 11:04
+ventana,3,0,5.0,100,"levante_emv, elcorreo, elconfidencial",3,"Detenido en La Rioja un hombre, tras arrojarse su pareja por una ventana para ""salvar su vida""",2026-03-19 11:04
+pareja,3,0,5.0,100,"levante_emv, elcorreo, elconfidencial",3,"Detenido en La Rioja un hombre, tras arrojarse su pareja por una ventana para ""salvar su vida""",2026-03-19 11:04
+rioja,3,0,5.0,100,"levante_emv, elcorreo, elconfidencial",3,"Detenido en La Rioja un hombre, tras arrojarse su pareja por una ventana para ""salvar su vida""",2026-03-19 11:04
+detenido,4,2,11.79,100,"levante_emv, elcorreo, elconfidencial, lavanguardia",4,"Detenido en La Rioja un hombre, tras arrojarse su pareja por una ventana para ""salvar su vida""",2026-03-19 11:04
+déficit,8,3,15.72,100,"elcorreo, google_news_economia, huffington_es, elpais, elmundo",5,"España cumplió el objetivo de déficit del 2,5% del PIB en 2025",2026-03-19 11:04
+objetivo,6,2,17.69,100,"elcorreo, google_news_economia, huffington_es, elpais",4,"España cumplió el objetivo de déficit del 2,5% del PIB en 2025",2026-03-19 11:04
+cumplió,6,2,17.69,100,"elcorreo, google_news_economia, huffington_es, elpais",4,"España cumplió el objetivo de déficit del 2,5% del PIB en 2025",2026-03-19 11:04
+licuado,5,2,14.74,100,"okdiario, lavanguardia, google_news_internacional",3,"Conflicto en Irán, en directo | Irán golpea la mayor reserva de gas licuado de Qatar y así responden Israel y EEUU",2026-03-19 11:04
+situación,4,0,5.0,100,"heraldo_aragon, google_news_economia, levante_emv, elcorreo",4,"Niño Becerra, economista, sobre la situación en España: ""La clase media no recibe nada y lo paga todo""",2026-03-19 11:04
+fecha,3,1,17.69,100,"huffington_es, elmundo, 20minutos",3,Cuándo es la primavera: esta es la fecha en la que empieza en España,2026-03-19 11:04
+clase,3,1,17.69,100,"heraldo_aragon, google_news_economia, 20minutos, google_news_politica",4,"Niño Becerra, economista, sobre la situación en España: ""La clase media no recibe nada y lo paga todo""",2026-03-19 11:04
+sigue,3,3,5.9,100,"elcorreo, elmundo, eldiario, okdiario, levante_emv",5,"Sigue en directo la última hora de la guerra en Oriente Medio | Trump se desmarca del ataque israelí a la gran planta de gas de Irán, mientras aumentan los bombardeos a instalaciones energéticas",2026-03-19 11:04
+persigue,4,2,11.79,100,"elmundo, eldiario",2,"El PP de Ayuso ovaciona a Ana Millán ante el PSOE y Más Madrid, que no aceptan el archivo de su causa: ""No le persigue la Justicia, le persigue la izquierda""",2026-03-19 11:04
+suena,3,0,5.0,100,okdiario,1,"Suena a milagro, pero la ciencia lo avala: científicos españoles logran que una persona ciega vea mediante impulsos eléctricos",2026-03-19 11:04
+sumar,3,0,5.0,100,"google_news_politica, lavanguardia, europapress",3,Urtasun se descarta para liderar el nuevo Sumar y pide evitar el «juego de descartes» - The Objective,2026-03-19 11:04
+montero,8,6,7.86,100,"elespanol, huffington_es, google_news_economia, europapress, elpais",5,Montero confirma rebajas fiscales para luz y gasolina pero no en vivienda: “Adoptaremos sólo lo que tenga consenso”,2026-03-19 11:04
+lanza,3,2,8.84,100,"google_news_internacional, google_news_es, lavanguardia",3,"Guerra en Irán, en directo: Irán lanza un ataque contra la mayor reserva de gas licuado del mundo en Qatar, y última hora de Israel y EE.UU. - La Vanguardia",2026-03-19 11:04
+justicia,4,3,7.86,100,"elmundo, elcorreo, eldiario, levante_emv",4,"El PP de Ayuso ovaciona a Ana Millán ante el PSOE y Más Madrid, que no aceptan el archivo de su causa: ""No le persigue la Justicia, le persigue la izquierda""",2026-03-19 11:04
+declaración,3,3,5.9,100,"okdiario, heraldo_aragon, expansion",3,Buenas noticias para los dueños de mascotas: te podrás deducir 100 euros en la declaración de la renta,2026-03-19 11:04
+asesinato,3,4,4.42,88,"google_news_internacional, levante_emv, lavanguardia",3,¿Asesinato o suicidio? El caso de un carnicero encontrado muerto en la cámara frigorífica de un supermercado con varias puñaladas divide a Italia - El Mundo,2026-03-19 11:04
+ee.uu,4,6,3.93,78,"lavanguardia, google_news_internacional",2,"Guerra en Irán, en directo | Irán ataca la mayor reserva de gas licuado del mundo en Qatar, y última hora de Israel y EE.UU.",2026-03-19 11:04
+españoles,4,6,3.93,78,"okdiario, heraldo_aragon, levante_emv, maldita",4,"Suena a milagro, pero la ciencia lo avala: científicos españoles logran que una persona ciega vea mediante impulsos eléctricos",2026-03-19 11:04
+después,3,5,3.54,70,"elcorreo, elconfidencial",2,Detenido después de que su pareja se tirara por la ventana para huir de él en La Rioja,2026-03-19 11:04
+qatar,5,9,3.28,65,"okdiario, lavanguardia, google_news_internacional",3,"Conflicto en Irán, en directo | Irán golpea la mayor reserva de gas licuado de Qatar y así responden Israel y EEUU",2026-03-19 11:04
+renta,3,6,2.95,58,"okdiario, heraldo_aragon, expansion",3,Buenas noticias para los dueños de mascotas: te podrás deducir 100 euros en la declaración de la renta,2026-03-19 11:04
+medidas,3,6,2.95,58,"europapress, 20minutos, lavanguardia",3,"Sánchez apela a la ""responsabilidad"" de todos los grupos para aprobar las medidas urgentes por la guerra de Irán",2026-03-19 11:04
+españa,17,39,2.57,51,"google_news_economia, huffington_es, heraldo_aragon, elcorreo, okdiario",5,"Economía.- La secretaria de Estado de Turismo apunta a los residentes como eje ""central"" de la Estrategia España 2030 - Bolsamania",2026-03-19 11:04
+confirma,3,7,2.53,50,"elespanol, okdiario, europapress",3,Montero confirma rebajas fiscales para luz y gasolina pero no en vivienda: “Adoptaremos sólo lo que tenga consenso”,2026-03-19 11:04
+mundo,8,19,2.48,49,"lavanguardia, google_news_internacional, levante_emv, eldiario",4,"Guerra en Irán, en directo | Irán ataca la mayor reserva de gas licuado del mundo en Qatar, y última hora de Israel y EE.UU.",2026-03-19 11:04
+escribano,4,10,2.36,47,"elmundo, levante_emv, elcorreo, google_news_es",4,El presidente de Indra no renuncia y exige explicaciones por el cambio de criterio de Moncloa sobre la fusión con Escribano,2026-03-19 11:04
+sánchez,6,15,2.36,47,"elmundo, europapress, google_news_politica, eldiario, 20minutos",5,Sánchez da carpetazo a la promesa de presentar los Presupuestos en marzo sin ponerse nueva fecha,2026-03-19 11:04
+última,5,13,2.27,45,"elcorreo, lavanguardia, google_news_internacional",3,"Sigue en directo la última hora de la guerra en Oriente Medio | Trump se desmarca del ataque israelí a la gran planta de gas de Irán, mientras aumentan los bombardeos a instalaciones energéticas",2026-03-19 11:04
+guerra,14,41,2.01,40,"elcorreo, lavanguardia, google_news_internacional, huffington_es, europapress",5,"Sigue en directo la última hora de la guerra en Oriente Medio | Trump se desmarca del ataque israelí a la gran planta de gas de Irán, mientras aumentan los bombardeos a instalaciones energéticas",2026-03-19 11:04
