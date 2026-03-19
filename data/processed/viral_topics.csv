@@ -1,33 +1,43 @@
 keyword,count_now,count_base,ratio,viral_score,sources,n_sources,sample_title,detected_at
-acusa,3,3,7.05,100,"okdiario, levante_emv, elespanol",3,Víctor Sandoval ataca duramente a Belén Esteban y la acusa de humillarle: «Me metería en una fosa común»,2026-03-19 14:05
-sofía,4,0,5.0,100,"elpais, google_news_es, elcorreo, lavanguardia",4,La argentina Sofía Balbuena gana el IX Premio Ribera del Duero de Narrativa Breve,2026-03-19 14:05
-emergencia,3,0,5.0,100,levante_emv,1,La declaración de emergencia sanitaria no logra erradicar la basura de las calles de Carcaixent tras una semana de huelga,2026-03-19 14:05
-logra,3,3,7.05,100,"levante_emv, el_confidencial_tech",2,Un proyecto español logra capturar hasta el 98% del amoníaco producido por las granjas y convertirlo en fertilizante para el campo,2026-03-19 14:05
-falta,3,4,5.29,100,"elpais, eldiario",2,¿Cuánto dinero hace falta para ser feliz? Los bajos ingresos y la falta de vivienda hunden el bienestar emocional,2026-03-19 14:05
-sagunt,3,2,10.58,100,levante_emv,1,Accidente de una barredora de la SAG en Sagunt,2026-03-19 14:05
-comunidad,3,2,10.58,100,"okdiario, google_news_es",2,"El BOE lo confirma: es festivo el Lunes de Pascua, 6 de abril, y alargan la Semana Santa estas comunidades",2026-03-19 14:05
-jóvenes,3,3,7.05,100,"elcorreo, levante_emv",2,UAGA reclama frenar la «especulación» de la tierra agraria para incorporar jóvenes al campo alavés,2026-03-19 14:05
-mascletà,4,4,7.05,100,"levante_emv, google_news_es",2,"Búscate en la mascletà de hoy, 19 de marzo",2026-03-19 14:05
-duero,4,0,5.0,100,"elpais, google_news_es, elcorreo, lavanguardia",4,La argentina Sofía Balbuena gana el IX Premio Ribera del Duero de Narrativa Breve,2026-03-19 14:05
-ribera,4,0,5.0,100,"elpais, google_news_es, elcorreo, lavanguardia",4,La argentina Sofía Balbuena gana el IX Premio Ribera del Duero de Narrativa Breve,2026-03-19 14:05
-balbuena,4,0,5.0,100,"elpais, google_news_es, elcorreo, lavanguardia",4,La argentina Sofía Balbuena gana el IX Premio Ribera del Duero de Narrativa Breve,2026-03-19 14:05
-premio,3,3,7.05,100,"elpais, google_news_es, lavanguardia",3,La argentina Sofía Balbuena gana el IX Premio Ribera del Duero de Narrativa Breve,2026-03-19 14:05
-sanitaria,3,3,7.05,100,levante_emv,1,La declaración de emergencia sanitaria no logra erradicar la basura de las calles de Carcaixent tras una semana de huelga,2026-03-19 14:05
-menores,3,0,5.0,100,"heraldo_aragon, lavanguardia",2,Aragón acoge ya a 89 menores migrantes y el Gobierno anuncia la prórroga del reparto hasta agosto de 2027,2026-03-19 14:05
-ganando,4,1,28.2,100,"lavanguardia, elcorreo, elpais",3,"Guerra en Irán, en directo | Director del Pentágono: “Estamos ganando la guerra, les estamos aplastando y hemos hundido más de 120 barcos”",2026-03-19 14:05
-puente,3,2,10.58,100,"huffington_es, okdiario, sur",3,Ayuso explica qué pasaría si saliese con un &quot;socialista muy corrupto&quot;: era imposible que Óscar Puente no apareciese,2026-03-19 14:05
-director,3,1,21.15,100,"lavanguardia, okdiario",2,"Guerra en Irán, en directo | Director del Pentágono: “Estamos ganando la guerra, les estamos aplastando y hemos hundido más de 120 barcos”",2026-03-19 14:05
-ofrenda,3,2,10.58,100,levante_emv,1,Quart de Poblet cumple la tradición por San José de vivir la ofrenda más tardía de l'Horta,2026-03-19 14:05
-huelga,4,4,7.05,100,"heraldo_aragon, okdiario, levante_emv",3,"La huelga de médicos en Aragón deja 532 operaciones aplazadas en tres días: ""Sanidad en coma y Mónica ni se asoma""",2026-03-19 14:05
-prisión,3,0,5.0,100,"okdiario, sur, elpais",3,La Fiscalía solicita 24 años de prisión para un hombre por intentar atropellar tres veces a una familia en Granada,2026-03-19 14:05
-migrantes,3,1,21.15,100,"heraldo_aragon, eldiario, levante_emv",3,Aragón acoge ya a 89 menores migrantes y el Gobierno anuncia la prórroga del reparto hasta agosto de 2027,2026-03-19 14:05
-garcía,3,2,10.58,100,"elpais, okdiario",2,El Barcelona respira con Joan García y Eric García,2026-03-19 14:05
-falla,3,5,4.23,84,"levante_emv, google_news_es",2,La falla 'No olvidar la dana' rinde homenaje a las víctimas mientras reclaman que Mazón testifique,2026-03-19 14:05
-accidente,4,8,3.53,70,"levante_emv, elespanol, heraldo_aragon",3,Accidente de una barredora de la SAG en Sagunt,2026-03-19 14:05
-feijóo,3,6,3.53,70,"okdiario, eldiario, elespanol",3,Puente desatado: lanza en hora y media tuits contra Ayuso y las mujeres de Feijóo y Moreno,2026-03-19 14:05
-aragón,4,9,3.13,62,heraldo_aragon,1,"La huelga de médicos en Aragón deja 532 operaciones aplazadas en tres días: ""Sanidad en coma y Mónica ni se asoma""",2026-03-19 14:05
-malaga,3,7,3.02,60,sur,1,Malaga will be the only province in Spain to see employment creation drop this Easter,2026-03-19 14:05
-campo,3,7,3.02,60,"elcorreo, levante_emv",2,UAGA reclama frenar la «especulación» de la tierra agraria para incorporar jóvenes al campo alavés,2026-03-19 14:05
-ayuso,4,10,2.82,56,"huffington_es, lavanguardia, okdiario, google_news_es",4,Ayuso explica qué pasaría si saliese con un &quot;socialista muy corrupto&quot;: era imposible que Óscar Puente no apareciese,2026-03-19 14:05
-málaga,4,13,2.17,43,sur,1,Vélez-Málaga tax office moves to new facilities,2026-03-19 14:05
-irene,4,14,2.01,40,"elespanol, levante_emv, google_news_politica, huffington_es",4,"Irene Montero y Rufián, juntos en un acto sobre la unidad de la izquierda: ""Daremos la batalla y salimos a ganar las elecciones""",2026-03-19 14:05
+quién,3,2,11.2,100,"levante_emv, okdiario",2,¿Quién va en la flotilla de ayuda a Cuba tras las amenazas de Trump?,2026-03-19 14:34
+evacuados,3,0,5.0,100,"elcorreo, lavanguardia, sur",3,Un centenar de militares españoles han sido ya evacuados de Irak a Turquía,2026-03-19 14:34
+belén,3,1,22.39,100,"okdiario, elcorreo",2,Víctor Sandoval ataca duramente a Belén Esteban y la acusa de humillarle: «Me metería en una fosa común»,2026-03-19 14:34
+sandoval,3,1,22.39,100,"okdiario, elcorreo",2,Víctor Sandoval ataca duramente a Belén Esteban y la acusa de humillarle: «Me metería en una fosa común»,2026-03-19 14:34
+víctor,3,2,11.2,100,"okdiario, elcorreo",2,Víctor Sandoval ataca duramente a Belén Esteban y la acusa de humillarle: «Me metería en una fosa común»,2026-03-19 14:34
+ecológica,3,1,22.39,100,"google_news_economia, levante_emv",2,Hereu critica la guerra en Irán y defiende la apuesta de España por la transición digital y ecológica - El Periódico,2026-03-19 14:34
+transición,3,1,22.39,100,"google_news_economia, levante_emv",2,Hereu critica la guerra en Irán y defiende la apuesta de España por la transición digital y ecológica - El Periódico,2026-03-19 14:34
+critica,3,1,22.39,100,"google_news_economia, levante_emv",2,Hereu critica la guerra en Irán y defiende la apuesta de España por la transición digital y ecológica - El Periódico,2026-03-19 14:34
+hereu,3,1,22.39,100,"google_news_economia, levante_emv",2,Hereu critica la guerra en Irán y defiende la apuesta de España por la transición digital y ecológica - El Periódico,2026-03-19 14:34
+fusión,5,2,18.66,100,"levante_emv, elespanol, lavanguardia, elpais, google_news_es",5,Escribano ofrece al Gobierno frenar la fusión entre Indra y E&EM para continuar en el cargo,2026-03-19 14:34
+envejecimiento,3,0,5.0,100,"okdiario, google_news_internacional, elmundo",3,Estupefacción entre los biólogos: descubren un pesticida agrícola acelera el envejecimiento de los peces,2026-03-19 14:34
+escalada,3,4,5.6,100,"elmundo, elespanol",2,El BCE mantiene los tipos de  interés estables en plena escalada de los costes de la energía en Europa,2026-03-19 14:34
+récord,3,3,7.46,100,"okdiario, levante_emv",2,La España de Sánchez alcanza una cifra récord de violencia callejera: 2.600 reyertas al mes,2026-03-19 14:34
+energía,3,1,22.39,100,"eldiario, elmundo, expansion",3,El BCE mantiene los tipos de interés al 2% pese a la presión de los precios de la energía por la guerra de Irán,2026-03-19 14:34
+presión,5,1,37.32,100,"eldiario, expansion, huffington_es, elpais, google_news_es",5,El BCE mantiene los tipos de interés al 2% pese a la presión de los precios de la energía por la guerra de Irán,2026-03-19 14:34
+víctimas,3,4,5.6,100,"europapress, levante_emv, 20minutos",3,"Gobierno, Iglesia y Defensor del Pueblo siguen ""ultimando"" el convenio para la reparación a víctimas de abusos",2026-03-19 14:34
+aplastando,3,0,5.0,100,"google_news_internacional, lavanguardia",2,"Guerra en Irán, en directo | Director del Pentágono: “Estamos ganando la guerra, estamos aplastando a Irán” - La Vanguardia",2026-03-19 14:34
+director,3,3,7.46,100,"google_news_internacional, lavanguardia",2,"Guerra en Irán, en directo | Director del Pentágono: “Estamos ganando la guerra, estamos aplastando a Irán” - La Vanguardia",2026-03-19 14:34
+ofrenda,4,3,9.95,100,levante_emv,1,"Emocionadísima: así ha vivido Paula Argudo, la fallera mayor de Dénia, el final de la ofrenda",2026-03-19 14:34
+glovo,3,0,5.0,100,"levante_emv, eldiario, elpais",3,CCOO denuncia el goteo de despidos de 'riders' en Glovo como un ere encubierto,2026-03-19 14:34
+militares,3,1,22.39,100,"google_news_internacional, elcorreo, lavanguardia",3,"Guerra en Irán, última hora hoy, en directo | EEUU asegura haber destruido la flota de submarinos de Irán y sus puertos militares - El Mundo",2026-03-19 14:34
+tipos,9,2,33.59,100,"elpais, europapress, lavanguardia, levante_emv, eldiario",5,"El BCE deja los tipos sin cambios, pero eleva sus perspectivas de inflación por la crisis energética",2026-03-19 14:34
+mantiene,8,4,14.93,100,"europapress, lavanguardia, levante_emv, eldiario, okdiario",5,El BCE mantiene tipos ante la incertidumbre por el impacto del conflicto en Oriente Próximo,2026-03-19 14:34
+acusa,3,4,5.6,100,"okdiario, elpais, levante_emv",3,Víctor Sandoval ataca duramente a Belén Esteban y la acusa de humillarle: «Me metería en una fosa común»,2026-03-19 14:34
+ganando,3,4,5.6,100,"google_news_internacional, lavanguardia",2,"Guerra en Irán, en directo | Director del Pentágono: “Estamos ganando la guerra, estamos aplastando a Irán” - La Vanguardia",2026-03-19 14:34
+pentágono,3,1,22.39,100,"google_news_internacional, lavanguardia",2,"Guerra en Irán, en directo | Director del Pentágono: “Estamos ganando la guerra, estamos aplastando a Irán” - La Vanguardia",2026-03-19 14:34
+“estamos,3,1,22.39,100,"google_news_internacional, lavanguardia",2,"Guerra en Irán, en directo | Director del Pentágono: “Estamos ganando la guerra, estamos aplastando a Irán” - La Vanguardia",2026-03-19 14:34
+consejo,4,6,4.98,99,"elespanol, lavanguardia, elpais, google_news_es",4,Indra convoca un consejo de urgencia en el que Escribano ofrecerá aparcar la fusión con EM&E y seguir de presidente,2026-03-19 14:34
+personas,4,6,4.98,99,"google_news_internacional, newtral, levante_emv, lavanguardia",4,El congreso internacional AI-AGRIFOOD reúne en Córdoba a más de 300 personas para analizar el papel de la Inteligencia Artificial en el futuro de la agricultura - La Noción,2026-03-19 14:34
+nacional,3,5,4.48,89,"google_news_internacional, eldiario, elpais, efe",4,Temas del día de EFE Internacional del 19 de marzo de 2026 (13.00 GMT) - Infobae,2026-03-19 14:34
+defiende,3,5,4.48,89,"google_news_economia, levante_emv",2,Hereu critica la guerra en Irán y defiende la apuesta de España por la transición digital y ecológica - El Periódico,2026-03-19 14:34
+civil,3,5,4.48,89,"google_news_es, heraldo_aragon, lavanguardia",3,"Protección Civil y Emergencias mantiene la alerta por precipitaciones, viento y oleaje en Canarias - interior.gob.es",2026-03-19 14:34
+cáncer,3,6,3.73,74,"sur, google_news_es, elmundo",3,Málaga acoge este viernes la primera marcha por el Mes Mundial contra el Cáncer de Colon,2026-03-19 14:34
+escribano,6,12,3.73,74,"levante_emv, elespanol, expansion, lavanguardia, elpais",5,Escribano ofrece al Gobierno frenar la fusión entre Indra y E&EM para continuar en el cargo,2026-03-19 14:34
+digital,3,6,3.73,74,"google_news_economia, levante_emv",2,Hereu critica la guerra en Irán y defiende la apuesta de España por la transición digital y ecológica - El Periódico,2026-03-19 14:34
+denuncia,5,10,3.73,74,"levante_emv, eldiario, elpais, okdiario",4,CCOO denuncia el goteo de despidos de 'riders' en Glovo como un ere encubierto,2026-03-19 14:34
+apuesta,3,6,3.73,74,"google_news_economia, levante_emv",2,Hereu critica la guerra en Irán y defiende la apuesta de España por la transición digital y ecológica - El Periódico,2026-03-19 14:34
+interés,3,8,2.8,55,"eldiario, elmundo, elcorreo",3,El BCE mantiene los tipos de interés al 2% pese a la presión de los precios de la energía por la guerra de Irán,2026-03-19 14:34
+estamos,3,8,2.8,55,"google_news_internacional, lavanguardia",2,"Guerra en Irán, en directo | Director del Pentágono: “Estamos ganando la guerra, estamos aplastando a Irán” - La Vanguardia",2026-03-19 14:34
+feijóo,3,9,2.49,49,"okdiario, heraldo_aragon, 20minutos",3,Feijóo alerta en Bruselas de la regularización masiva de Sánchez: «Europa tiene que decir quién entra y cómo»,2026-03-19 14:34
+alerta,3,10,2.24,44,"okdiario, google_news_es, 20minutos",3,Feijóo alerta en Bruselas de la regularización masiva de Sánchez: «Europa tiene que decir quién entra y cómo»,2026-03-19 14:34
+dólares,3,11,2.04,40,"okdiario, elmundo, 20minutos",3,"Marta, canaria trabajando en Australia: «Tengo amigos que cobran 65 dólares a la hora y no hacen nada»",2026-03-19 14:34
