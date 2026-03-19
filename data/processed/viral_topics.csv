@@ -1,20 +1,10 @@
 keyword,count_now,count_base,ratio,viral_score,sources,n_sources,sample_title,detected_at
-aemet,7,1,48.89,100,okdiario,1,"Zaragoza: AEMET prevé nubes, posibles lluvias y cambios de temperatura en el día de hoy",2026-03-19 08:04
-ataque,4,5,5.59,100,"elpais, elmundo",2,"Última hora del ataque de Estados Unidos e Israel contra Irán, en directo | Aumentan los ataques contra infraestructuras energéticas del Golfo mientras Trump se desliga del bombardeo israelí al mayor yacimiento de gas del mundo",2026-03-19 08:04
-llega,4,3,9.31,100,okdiario,1,Ni lluvia ni nieve: alerta de Roberto Brasero por el fenómeno poco común que llega con la borrasca Therese,2026-03-19 08:04
-viento,3,2,10.48,100,okdiario,1,"Bilbao: Nubes y brumas matutinas, cielos despejados y viento moderado según AEMET",2026-03-19 08:04
-padre,5,6,5.82,100,"okdiario, 20minutos, levante_emv",3,"Horario de los supermercados el 19 de marzo, Día del Padre 2026: a qué hora abre Mercadona, Aldi, Lidl, Día…",2026-03-19 08:04
-horóscopo,3,4,5.24,100,okdiario,1,"Predicción del horóscopo para Virgo hoy, jueves 19 de marzo de 2026",2026-03-19 08:04
-predicción,3,3,6.98,100,okdiario,1,"Predicción del horóscopo para Virgo hoy, jueves 19 de marzo de 2026",2026-03-19 08:04
-nubes,4,1,27.94,100,okdiario,1,"Zaragoza: AEMET prevé nubes, posibles lluvias y cambios de temperatura en el día de hoy",2026-03-19 08:04
-indra,4,3,9.31,100,"google_news_es, expansion, huffington_es, levante_emv",4,"La SEPI pide a Indra ""resolver el conflicto de interés"" antes de abordar la operación con EM&E - Infodefensa",2026-03-19 08:04
-israelí,3,4,5.24,100,"elpais, elmundo",2,"Última hora del ataque de Estados Unidos e Israel contra Irán, en directo | Aumentan los ataques contra infraestructuras energéticas del Golfo mientras Trump se desliga del bombardeo israelí al mayor yacimiento de gas del mundo",2026-03-19 08:04
-unidos,3,3,6.98,100,"elpais, elmundo",2,"Última hora del ataque de Estados Unidos e Israel contra Irán, en directo | Aumentan los ataques contra infraestructuras energéticas del Golfo mientras Trump se desliga del bombardeo israelí al mayor yacimiento de gas del mundo",2026-03-19 08:04
-estados,3,3,6.98,100,"elpais, elmundo",2,"Última hora del ataque de Estados Unidos e Israel contra Irán, en directo | Aumentan los ataques contra infraestructuras energéticas del Golfo mientras Trump se desliga del bombardeo israelí al mayor yacimiento de gas del mundo",2026-03-19 08:04
-millones,3,5,4.19,83,"google_news_economia, levante_emv",2,España acumula un déficit de unos 3.600 millones en mantenimiento ferroviario - Economía 3,2026-03-19 08:04
-jueves,3,6,3.49,69,okdiario,1,"Predicción del horóscopo para Virgo hoy, jueves 19 de marzo de 2026",2026-03-19 08:04
-contra,4,8,3.49,69,"elpais, 20minutos",2,"Última hora del ataque de Estados Unidos e Israel contra Irán, en directo | Aumentan los ataques contra infraestructuras energéticas del Golfo mientras Trump se desliga del bombardeo israelí al mayor yacimiento de gas del mundo",2026-03-19 08:04
-mayor,4,9,3.1,62,"elpais, levante_emv, 20minutos",3,"Última hora del ataque de Estados Unidos e Israel contra Irán, en directo | Aumentan los ataques contra infraestructuras energéticas del Golfo mientras Trump se desliga del bombardeo israelí al mayor yacimiento de gas del mundo",2026-03-19 08:04
-yacimiento,3,7,2.99,59,"elpais, levante_emv",2,"Última hora del ataque de Estados Unidos e Israel contra Irán, en directo | Aumentan los ataques contra infraestructuras energéticas del Golfo mientras Trump se desliga del bombardeo israelí al mayor yacimiento de gas del mundo",2026-03-19 08:04
-mundo,4,10,2.79,55,"elpais, levante_emv, google_news_internacional",3,"Última hora del ataque de Estados Unidos e Israel contra Irán, en directo | Aumentan los ataques contra infraestructuras energéticas del Golfo mientras Trump se desliga del bombardeo israelí al mayor yacimiento de gas del mundo",2026-03-19 08:04
-españa,6,16,2.62,52,"google_news_economia, okdiario, google_news_politica",3,La revolución de la economía circular impulsa el sector de los desguaces en España - Diario de Teruel,2026-03-19 08:04
+directo,5,7,5.45,100,"okdiario, elcorreo, google_news_es, lavanguardia, elpais",5,"Guerra Irán en directo hoy 19 marzo 2026 | Últimas noticias, Trump exige rendición, bombardeos a Teherán y miles de víctimas",2026-03-19 08:34
+predicción,3,4,5.73,100,okdiario,1,"Predicción del horóscopo para Libra hoy, jueves 19 de marzo de 2026",2026-03-19 08:34
+horóscopo,3,4,5.73,100,okdiario,1,"Predicción del horóscopo para Libra hoy, jueves 19 de marzo de 2026",2026-03-19 08:34
+marzo,6,11,4.16,83,okdiario,1,"Guerra Irán en directo hoy 19 marzo 2026 | Últimas noticias, Trump exige rendición, bombardeos a Teherán y miles de víctimas",2026-03-19 08:34
+jueves,3,7,3.27,65,okdiario,1,"Predicción del horóscopo para Libra hoy, jueves 19 de marzo de 2026",2026-03-19 08:34
+mundo,5,13,2.94,58,"google_news_internacional, okdiario, heraldo_aragon, elpais, levante_emv",5,Mudanzas BCN Internacional amplía su servicio de mudanzas internacionales con destinos en todo el mundo - Zizur Ardoi,2026-03-19 08:34
+contra,4,13,2.35,46,"efe, okdiario, google_news_politica, elpais, lavanguardia",5,"La inteligencia artificial y el aprendizaje automático, aliados contra los desastres naturales",2026-03-19 08:34
+trump,6,21,2.18,43,"okdiario, elcorreo, lavanguardia, elpais, levante_emv",5,"Guerra Irán en directo hoy 19 marzo 2026 | Últimas noticias, Trump exige rendición, bombardeos a Teherán y miles de víctimas",2026-03-19 08:34
+mayor,3,11,2.08,41,"okdiario, elpais, levante_emv",3,Shock entre los arqueólogos tras encontrar en México 6 cajas con la mayor ofrenda ceremonial atribuida a Moctezuma,2026-03-19 08:34
