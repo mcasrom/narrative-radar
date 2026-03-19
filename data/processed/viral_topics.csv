@@ -1,30 +1,19 @@
 keyword,count_now,count_base,ratio,viral_score,sources,n_sources,sample_title,detected_at
-netanyahu,11,4,33.51,100,"okdiario, elmundo, elpais, google_news_es, infolibre",5,Netanyahu dice que Irán ya no puede fabricar la bomba nuclear y que está débil: «No sé quién lo dirige»,2026-03-19 21:05
-iraní,3,5,7.31,100,"google_news_internacional, elpais, google_news_es",3,"Guerra en Irán, última hora hoy, en directo | La Guardia Revolucionaria afirma que ha alcanzado y dañado un caza furtivo F-35 de EEUU en el espacio aéreo iraní - El Mundo",2026-03-19 21:05
-enriquecer,4,1,48.75,100,"elcorreo, elespanol, sur",3,Sigue en directo la última hora de la guerra en Oriente Medio | Netanyahu afirma que Irán no tiene capacidad para enriquecer uranio ni fabricar misiles tras 20 días de guerra,2026-03-19 21:05
-capacidad,4,2,24.37,100,"elcorreo, elespanol, sur",3,Sigue en directo la última hora de la guerra en Oriente Medio | Netanyahu afirma que Irán no tiene capacidad para enriquecer uranio ni fabricar misiles tras 20 días de guerra,2026-03-19 21:05
-diplomática,3,0,5.0,100,"elpais, google_news_internacional, lavanguardia",3,Europa busca una salida diplomática para desbloquear el estrecho de Ormuz frente al belicismo de Trump,2026-03-19 21:05
-unidos,3,5,7.31,100,"elpais, google_news_es",2,"Última hora del ataque de Estados Unidos e Israel contra Irán, en directo | Netanyahu sugiere una operación terrestre para que caiga el régimen iraní",2026-03-19 21:05
-estados,3,5,7.31,100,"elpais, google_news_es",2,"Última hora del ataque de Estados Unidos e Israel contra Irán, en directo | Netanyahu sugiere una operación terrestre para que caiga el régimen iraní",2026-03-19 21:05
-cremà,3,1,36.56,100,levante_emv,1,"Arranca en Cullera con las fallas infantiles una ""cremà"" que se prolongará más allá de las dos de la madrugada",2026-03-19 21:05
-salida,4,2,24.37,100,"20minutos, levante_emv, elpais, google_news_internacional",4,Detenido un menor por intentar asesinar a puñaladas a dos personas a la salida de una discoteca,2026-03-19 21:05
-emilio,4,0,5.0,100,"elpais, 20minutos, elmundo, google_news_politica",4,"Emilio de Justo, la faena de la tarde",2026-03-19 21:05
-puede,4,8,6.09,100,"okdiario, elmundo, europapress, levante_emv",4,Netanyahu dice que Irán ya no puede fabricar la bomba nuclear y que está débil: «No sé quién lo dirige»,2026-03-19 21:05
-misiles,5,2,30.47,100,"elmundo, elcorreo, elespanol, sur",4,Netanyahu afirma que Irán ya no puede fabricar misiles balísticos y niega que arrastrara a Trump a la guerra,2026-03-19 21:05
-afirma,5,5,12.19,100,"google_news_internacional, elmundo, elcorreo, sur",4,"Guerra en Irán, última hora hoy, en directo | La Guardia Revolucionaria afirma que ha alcanzado y dañado un caza furtivo F-35 de EEUU en el espacio aéreo iraní - El Mundo",2026-03-19 21:05
-último,3,2,18.28,100,"bbc_mundo, elcorreo, lavanguardia",3,¿Están EE.UU. e Israel totalmente alineados en la guerra con Irán? Qué muestra el último mensaje de Trump,2026-03-19 21:05
-fabricar,5,0,5.0,100,"okdiario, elmundo, elcorreo, sur",4,Netanyahu dice que Irán ya no puede fabricar la bomba nuclear y que está débil: «No sé quién lo dirige»,2026-03-19 21:05
-uranio,4,1,48.75,100,"elcorreo, elespanol, sur",3,Sigue en directo la última hora de la guerra en Oriente Medio | Netanyahu afirma que Irán no tiene capacidad para enriquecer uranio ni fabricar misiles tras 20 días de guerra,2026-03-19 21:05
-golfo,3,4,9.14,100,"levante_emv, google_news_internacional, elcorreo",3,La Organización Marítima Internacional defiende la creación de un corredor seguro para evacuar a los buques atrapados en el Golfo,2026-03-19 21:05
-sigue,5,13,4.69,93,"huffington_es, elcorreo, okdiario, sur",4,La CNMC advierte: la interconexión eléctrica de España con Francia sigue &quot;lejos del objetivo del 15%&quot; fijado por la UE y esa debilidad fue uno de los factores del apagón del 28A,2026-03-19 21:05
-sánchez,3,10,3.66,73,"okdiario, elpais",2,Sánchez pretende tomar Madrid adulterando el censo electoral,2026-03-19 21:05
-fallas,4,15,3.25,64,levante_emv,1,"Arranca en Cullera con las fallas infantiles una ""cremà"" que se prolongará más allá de las dos de la madrugada",2026-03-19 21:05
-ormuz,3,12,3.05,60,"elpais, google_news_internacional, elcorreo",3,Europa busca una salida diplomática para desbloquear el estrecho de Ormuz frente al belicismo de Trump,2026-03-19 21:05
-ucrania,3,13,2.81,56,"elpais, lavanguardia, google_news_es",3,Orbán resiste la presión de la UE y amenaza: no habrá dinero europeo para Ucrania sin petróleo ruso para Hungría,2026-03-19 21:05
-países,3,13,2.81,56,"google_news_economia, elcorreo",2,"España ocupa el puesto 64 en amenaza terrorista de 163 países, según el Instituto para la Economía y la Paz - La Razón",2026-03-19 21:05
-europa,3,14,2.61,52,"google_news_es, elpais, google_news_internacional",3,El Celta gana el Olympique en Lyon en una memorable eliminatoria de Europa League - RTVE.es,2026-03-19 21:05
-última,7,33,2.59,51,"google_news_internacional, elpais, google_news_es, elcorreo, sur",5,"Guerra en Irán: Última hora de los ataques de EE.UU. e Israel de hoy, en directo | Trump dice que la guerra “va a acabar muy pronto” - La Vanguardia",2026-03-19 21:05
-trump,8,38,2.57,51,"bbc_mundo, google_news_internacional, elmundo, huffington_es, elpais",5,¿Están EE.UU. e Israel totalmente alineados en la guerra con Irán? Qué muestra el último mensaje de Trump,2026-03-19 21:05
-ee.uu,3,15,2.44,48,"bbc_mundo, google_news_internacional, lavanguardia",3,¿Están EE.UU. e Israel totalmente alineados en la guerra con Irán? Qué muestra el último mensaje de Trump,2026-03-19 21:05
-directo,7,42,2.03,40,"google_news_internacional, elpais, google_news_es, elcorreo, sur",5,"Guerra en Irán: Última hora de los ataques de EE.UU. e Israel de hoy, en directo | Trump dice que la guerra “va a acabar muy pronto” - La Vanguardia",2026-03-19 21:05
-medio,3,18,2.03,40,"elcorreo, sur",2,Sigue en directo la última hora de la guerra en Oriente Medio | Netanyahu afirma que Irán no tiene capacidad para enriquecer uranio ni fabricar misiles tras 20 días de guerra,2026-03-19 21:05
+jueves,7,9,9.31,100,"elcorreo, elpais",2,El Eurodreams del jueves: comprobar resultados del 19 de marzo,2026-03-19 21:35
+celta,4,0,5.0,100,"elpais, okdiario, levante_emv, google_news_es",4,El Celta avanza a los cuartos de Europa League al tomar Lyon en una noche memorable,2026-03-19 21:35
+cremà,3,2,17.96,100,levante_emv,1,Cremà 2026: La falla de la movilidad convierte su mensaje en fuego,2026-03-19 21:35
+resultados,6,5,14.37,100,elcorreo,1,El Eurodreams del jueves: comprobar resultados del 19 de marzo,2026-03-19 21:35
+comprobar,7,8,10.48,100,"elcorreo, elpais",2,El Eurodreams del jueves: comprobar resultados del 19 de marzo,2026-03-19 21:35
+organización,3,4,8.98,100,"google_news_internacional, levante_emv",2,"La Organización Marítima Internacional pide un corredor marítimo ""seguro"" en el estrecho de Ormuz - Europa Press",2026-03-19 21:35
+league,3,0,5.0,100,"elpais, okdiario, google_news_es",3,El Celta avanza a los cuartos de Europa League al tomar Lyon en una noche memorable,2026-03-19 21:35
+final,3,4,8.98,100,"20minutos, levante_emv",2,Ibai Llanos anuncia que emitirá gratis la final de la Copa del Rey en su canal,2026-03-19 21:35
+seguro,3,3,11.97,100,"google_news_internacional, levante_emv",2,"La Organización Marítima Internacional pide un corredor marítimo ""seguro"" en el estrecho de Ormuz - Europa Press",2026-03-19 21:35
+corredor,3,3,11.97,100,"google_news_internacional, levante_emv",2,"La Organización Marítima Internacional pide un corredor marítimo ""seguro"" en el estrecho de Ormuz - Europa Press",2026-03-19 21:35
+marítima,3,4,8.98,100,"google_news_internacional, levante_emv",2,"La Organización Marítima Internacional pide un corredor marítimo ""seguro"" en el estrecho de Ormuz - Europa Press",2026-03-19 21:35
+ee.uu,3,8,4.49,89,"google_news_internacional, bbc_mundo",2,"Guerra en Irán: Última hora de los ataques de EE.UU. e Israel, en directo | Trump dice que la guerra “va a acabar muy pronto” - La Vanguardia",2026-03-19 21:35
+europa,4,12,3.99,79,"google_news_internacional, elpais, okdiario, google_news_es",4,"La Organización Marítima Internacional pide un corredor marítimo ""seguro"" en el estrecho de Ormuz - Europa Press",2026-03-19 21:35
+netanyahu,4,13,3.68,73,"okdiario, huffington_es, google_news_internacional, elmundo",4,Netanyahu dice que Irán ya no puede fabricar la bomba nuclear y que está débil: «No sé quién lo dirige»,2026-03-19 21:35
+puede,3,10,3.59,71,"huffington_es, okdiario, elmundo",3,Los economistas europeos coinciden: la guerra en Oriente Medio puede obligar a los Gobiernos a elegir entre subvencionar la energía o recortar servicios públicos,2026-03-19 21:35
+marzo,7,28,2.99,59,"elcorreo, elpais",2,El Eurodreams del jueves: comprobar resultados del 19 de marzo,2026-03-19 21:35
+madrid,4,17,2.82,56,"okdiario, huffington_es",2,"Un diputado de Más Madrid celebra que «afortunadamente, cada vez hay menos presos de ETA en la cárcel»",2026-03-19 21:35
+internacional,11,50,2.63,52,"google_news_internacional, huffington_es, levante_emv",3,"La Organización Marítima Internacional pide un corredor marítimo ""seguro"" en el estrecho de Ormuz - Europa Press",2026-03-19 21:35
