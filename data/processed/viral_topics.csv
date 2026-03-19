@@ -1,19 +1,26 @@
 keyword,count_now,count_base,ratio,viral_score,sources,n_sources,sample_title,detected_at
-comprobar,5,13,6.33,100,"elcorreo, google_news_es, elpais",3,La Bonoloto del jueves entrega 128.900 euros a un único ganador: comprobar resultados del 19 de marzo,2026-03-19 22:05
-umberto,3,0,5.0,100,"levante_emv, heraldo_aragon, elespanol",3,"Fallece Umberto Bossi, el fundador de la Liga Norte y defensor de la independencia de la Padania italiana",2026-03-19 22:05
-oficial,4,1,65.84,100,"okdiario, google_news_es, eldiario",3,Un ex oficial de inteligencia israelí: «TVE parece la televisión cubana o soviética cuando lloran por Maduro»,2026-03-19 22:05
-celta,3,4,12.35,100,"google_news_es, 20minutos, elpais",3,"Olympique de Lyon 0-2 Celta de Vigo: resumen, resultado y goles del partido de octavos de final de Europa League - Cadena SER",2026-03-19 22:05
-ciudad,3,1,49.38,100,google_news_internacional,1,Ciudad Real: la Ruta de la Pasión Calatrava afianza su gran aspiración turística internacional - La Tribuna de Ciudad Real,2026-03-19 22:05
-falla,3,9,5.49,100,"levante_emv, 20minutos",2,A la espera de una conmoción en la última de la Feria de Fallas,2026-03-19 22:05
-cremà,5,3,27.43,100,"levante_emv, 20minutos",2,Cremà 2026: Así ha ardido la falla municipal infantil,2026-03-19 22:05
-resultados,4,9,7.32,100,elcorreo,1,La Bonoloto del jueves entrega 128.900 euros a un único ganador: comprobar resultados del 19 de marzo,2026-03-19 22:05
-castellón,3,0,5.0,100,google_news_es,1,El CD Castellón presenta su camiseta retro inspirada en la temporada 1990/91 | CD Castellón | Web Oficial - CD Castellón,2026-03-19 22:05
-jueves,7,14,8.23,100,"elcorreo, levante_emv, google_news_es, elpais",4,La Bonoloto del jueves entrega 128.900 euros a un único ganador: comprobar resultados del 19 de marzo,2026-03-19 22:05
-bonoloto,3,2,24.69,100,"elcorreo, levante_emv, google_news_es",3,La Bonoloto del jueves entrega 128.900 euros a un único ganador: comprobar resultados del 19 de marzo,2026-03-19 22:05
-italiana,3,1,49.38,100,"levante_emv, heraldo_aragon, elespanol",3,"Fallece Umberto Bossi, el fundador de la Liga Norte y defensor de la independencia de la Padania italiana",2026-03-19 22:05
-norte,3,2,24.69,100,"levante_emv, heraldo_aragon, elespanol",3,"Fallece Umberto Bossi, el fundador de la Liga Norte y defensor de la independencia de la Padania italiana",2026-03-19 22:05
-fundador,3,0,5.0,100,"levante_emv, heraldo_aragon, elespanol",3,"Fallece Umberto Bossi, el fundador de la Liga Norte y defensor de la independencia de la Padania italiana",2026-03-19 22:05
-bossi,3,0,5.0,100,"levante_emv, heraldo_aragon, elespanol",3,"Fallece Umberto Bossi, el fundador de la Liga Norte y defensor de la independencia de la Padania italiana",2026-03-19 22:05
-europa,4,14,4.7,94,"elcorreo, google_news_es, google_news_internacional, elpais",4,Europa apuesta por la diplomacia y planta cara a Trump sobre la guerra en Irán,2026-03-19 22:05
-marzo,9,34,4.36,87,"google_news_internacional, elcorreo, levante_emv, google_news_es, sur",5,La Gran Cabalgata del Carnaval Internacional de Maspalomas se aplaza al sábado 28 de marzo por la borrasca Therese y nueva fecha para la Gala Drag Queen - Maspalomas24h,2026-03-19 22:05
-fallas,3,16,3.09,61,"levante_emv, 20minutos",2,A la espera de una conmoción en la última de la Feria de Fallas,2026-03-19 22:05
+muere,8,4,23.79,100,"levante_emv, elmundo, google_news_internacional, elpais, infolibre",5,"Muere Silvino Louro, entrenador de porteros del Real Madrid con Mourinho",2026-03-19 22:35
+fundador,7,0,5.0,100,"elmundo, google_news_internacional, elpais, infolibre, levante_emv",5,"Muere Umberto Bossi, fundador de la Liga Norte e histórico aliado de los Gobiernos de Silvio Berlusconi en Italia",2026-03-19 22:35
+final,3,7,5.1,100,"lavanguardia, google_news_es, 20minutos",3,"ONCE, hoy en directo: comprobar resultado final y todos los premios del Cupón Extra Día del Padre de ayer jueves 19 de marzo",2026-03-19 22:35
+bonoloto,3,2,17.84,100,"elcorreo, levante_emv, google_news_es",3,La Bonoloto del jueves entrega 128.900 euros a un único ganador: comprobar resultados del 19 de marzo,2026-03-19 22:35
+especial,3,0,5.0,100,"heraldo_aragon, elcorreo, 20minutos",3,"Así es la camiseta retro del Real Zaragoza para la jornada especial de LaLiga: ""Única e icónica""",2026-03-19 22:35
+infantil,5,7,8.5,100,"levante_emv, france24_es",2,Asi ha sido la Cremà de la mejor falla infantil de Tavernes de la Valldigna,2026-03-19 22:35
+cremà,4,6,7.93,100,levante_emv,1,Las fallas de Gandia viven una emotiva Nit de la Cremà tras una intensa semana de festejos,2026-03-19 22:35
+italiana,6,1,71.37,100,"elpais, google_news_es, infolibre, levante_emv, heraldo_aragon",5,"Muere Umberto Bossi, fundador y líder histórico de la Liga Norte italiana",2026-03-19 22:35
+italia,3,2,17.84,100,"elmundo, google_news_internacional, elpais, google_news_es, infolibre",5,"Muere Umberto Bossi, fundador de la Liga Norte e histórico aliado de los Gobiernos de Silvio Berlusconi en Italia",2026-03-19 22:35
+histórico,3,2,17.84,100,"elmundo, google_news_internacional, elpais",3,"Muere Umberto Bossi, fundador de la Liga Norte e histórico aliado de los Gobiernos de Silvio Berlusconi en Italia",2026-03-19 22:35
+camiseta,4,1,47.58,100,"sur, google_news_es, heraldo_aragon, elcorreo",4,El Málaga saca este viernes a la venta su nueva camiseta 'retro': cómo conseguirla,2026-03-19 22:35
+norte,7,2,41.63,100,"elmundo, google_news_internacional, elpais, infolibre, levante_emv",5,"Muere Umberto Bossi, fundador de la Liga Norte e histórico aliado de los Gobiernos de Silvio Berlusconi en Italia",2026-03-19 22:35
+bossi,7,0,5.0,100,"elmundo, google_news_internacional, elpais, infolibre, levante_emv",5,"Muere Umberto Bossi, fundador de la Liga Norte e histórico aliado de los Gobiernos de Silvio Berlusconi en Italia",2026-03-19 22:35
+umberto,7,0,5.0,100,"elmundo, google_news_internacional, elpais, infolibre, levante_emv",5,"Muere Umberto Bossi, fundador de la Liga Norte e histórico aliado de los Gobiernos de Silvio Berlusconi en Italia",2026-03-19 22:35
+retro,4,2,23.79,100,"sur, google_news_es, heraldo_aragon, elcorreo",4,El Málaga saca este viernes a la venta su nueva camiseta 'retro': cómo conseguirla,2026-03-19 22:35
+ciudad,3,2,17.84,100,google_news_internacional,1,Ciudad Real: la Ruta de la Pasión Calatrava afianza su gran aspiración turística internacional - La Tribuna de Ciudad Real,2026-03-19 22:35
+extra,4,10,4.76,95,"sur, heraldo_aragon, lavanguardia, elcorreo",4,El cupón Extra de la ONCE del Día del Padre ya tiene ganador,2026-03-19 22:35
+falla,4,10,4.76,95,levante_emv,1,Las fallas de Gandia viven una emotiva Nit de la Cremà tras una intensa semana de festejos,2026-03-19 22:35
+jueves,6,17,4.2,83,"levante_emv, elcorreo, lavanguardia, google_news_es",4,Resultados de la Primitiva del jueves 19 de marzo de 2026,2026-03-19 22:35
+cupón,4,12,3.97,79,"sur, heraldo_aragon, lavanguardia, elcorreo",4,El cupón Extra de la ONCE del Día del Padre ya tiene ganador,2026-03-19 22:35
+resultados,3,11,3.24,64,"levante_emv, elcorreo",2,Resultados de la Primitiva del jueves 19 de marzo de 2026,2026-03-19 22:35
+padre,4,16,2.97,59,"sur, heraldo_aragon, lavanguardia, elcorreo",4,El cupón Extra de la ONCE del Día del Padre ya tiene ganador,2026-03-19 22:35
+euros,3,12,2.97,59,"heraldo_aragon, elcorreo, huffington_es",3,El Cupón Extra Día del Padre de la ONCE agraciado con 17 millones de euros ha sido vendido en Zuera (Zaragoza),2026-03-19 22:35
+marzo,9,37,2.89,57,"levante_emv, 20minutos, sur, google_news_internacional, elcorreo",5,Resultados de la Primitiva del jueves 19 de marzo de 2026,2026-03-19 22:35
+comprobar,3,16,2.23,44,"elcorreo, lavanguardia, google_news_es",3,La Bonoloto del jueves entrega 128.900 euros a un único ganador: comprobar resultados del 19 de marzo,2026-03-19 22:35
