@@ -1,20 +1,12 @@
 keyword,count_now,count_base,ratio,viral_score,sources,n_sources,sample_title,detected_at
-cumple,3,3,10.82,100,"levante_emv, elcorreo, google_news_economia, 20minutos",4,Fanta cumple 65 años en España como líder absoluto en el segmento de cítricos,2026-03-19 17:34
-segmento,4,3,14.43,100,"levante_emv, google_news_economia",2,Fanta cumple 65 años en España como líder absoluto en el segmento de cítricos,2026-03-19 17:34
-cítricos,4,4,10.82,100,"levante_emv, google_news_economia",2,Fanta cumple 65 años en España como líder absoluto en el segmento de cítricos,2026-03-19 17:34
-presión,6,8,8.12,100,"levante_emv, elcorreo, europapress, elmundo, elmundo_espana",5,"""Lo que más me ha dolido es la poca empatía de la gente, ha sido muy difícil aguantar esa presión""",2026-03-19 17:34
-escribano,11,21,5.67,100,"elcorreo, europapress, levante_emv, elmundo, eldiario",5,Escribano renuncia a la fusión con Indra tras la presión del Gobierno,2026-03-19 17:34
-renuncia,5,6,9.02,100,"elcorreo, europapress, levante_emv, eldiario, okdiario",5,Escribano renuncia a la fusión con Indra tras la presión del Gobierno,2026-03-19 17:34
-fanta,4,6,7.22,100,"levante_emv, google_news_economia",2,Fanta cumple 65 años en España como líder absoluto en el segmento de cítricos,2026-03-19 17:34
-indra,13,27,5.21,100,"elcorreo, europapress, levante_emv, elmundo, eldiario",5,Escribano renuncia a la fusión con Indra tras la presión del Gobierno,2026-03-19 17:34
-torrent,3,2,16.24,100,levante_emv,1,"La misa, el homenaje al Granerer, y la mascletá completan la última gran matinal de Fallas en Torrent",2026-03-19 17:34
-homenaje,3,5,6.49,100,levante_emv,1,"La misa, el homenaje al Granerer, y la mascletá completan la última gran matinal de Fallas en Torrent",2026-03-19 17:34
-integración,5,1,54.12,100,"europapress, elespanol, expansion",3,Escribano (EM&E) renuncia a la operación de integración con Indra tras la presión de la SEPI,2026-03-19 17:34
-fusión,6,14,4.64,92,"elcorreo, levante_emv, elmundo, eldiario, okdiario",5,Escribano renuncia a la fusión con Indra tras la presión del Gobierno,2026-03-19 17:34
-falla,3,8,4.06,81,levante_emv,1,"Crespo pone broche de oro a las Fallas de Alzira con una 'mascletà' ""única"" en su ciudad.",2026-03-19 17:34
-ofrenda,4,11,3.94,78,levante_emv,1,Bétera celebra con fervor su tradicional Ofrenda a la Virgen de los Desamparados,2026-03-19 17:34
-fallas,6,17,3.82,76,levante_emv,1,"Crespo pone broche de oro a las Fallas de Alzira con una 'mascletà' ""única"" en su ciudad.",2026-03-19 17:34
-última,8,23,3.76,75,"google_news_internacional, elpais, elcorreo, levante_emv",4,"Guerra en Irán, en directo: última hora de los ataques de EE.UU. e Israel | Trump dice que la operación en Irán “va a acabar muy pronto” - La Vanguardia",2026-03-19 17:34
-celebra,3,11,2.95,59,"levante_emv, google_news_economia",2,Bétera celebra con fervor su tradicional Ofrenda a la Virgen de los Desamparados,2026-03-19 17:34
-gobierno,7,31,2.44,48,"elcorreo, levante_emv, elmundo, eldiario, elespanol",5,Escribano renuncia a la fusión con Indra tras la presión del Gobierno,2026-03-19 17:34
-consejo,3,14,2.32,46,"okdiario, sur",2,Indra cae un más de un 9% en plena reunión ‘in extremis’ de su consejo de administración,2026-03-19 17:34
+turquía,3,2,19.28,100,"infolibre, elpais_internacional, google_news_internacional",3,España ya ha evacuado a 100 militares de Irak a Turquía y 200 más se trasladarán en las próximas horas,2026-03-19 18:05
+cumple,4,5,10.28,100,"elpais_internacional, google_news_internacional, levante_emv, google_news_economia, elcorreo",5,"Ekrem Imamoglu, el principal rival de Erdogan en Turquía, cumple un año entre rejas",2026-03-19 18:05
+líder,3,1,38.57,100,"levante_emv, elpais, google_news_economia, huffington_es",4,"El mensaje de Pedro Acosta como líder del mundial: ""Quien tiene que estar delante son los demás""",2026-03-19 18:05
+presión,4,11,4.67,93,"levante_emv, elcorreo, europapress",3,"""Lo que más me ha dolido es la poca empatía de la gente, ha sido muy difícil aguantar esa presión""",2026-03-19 18:05
+mundial,4,12,4.29,85,"europapress, levante_emv, google_news_politica, google_news_internacional, huffington_es",5,"Sheinbaum aclara que se ha invitado a todos los países, no solo al Rey, a asistir al Mundial en México",2026-03-19 18:05
+renuncia,3,9,4.29,85,"infolibre, elcorreo, europapress",3,"La familia Escribano renuncia a vender EM&E a Indra porque ""no se dan las circunstancias"" adecuadas",2026-03-19 18:05
+países,3,11,3.51,70,"europapress, elpais_internacional, google_news_politica",3,"Sheinbaum aclara que se ha invitado a todos los países, no solo al Rey, a asistir al Mundial en México",2026-03-19 18:05
+sigue,3,13,2.97,59,"google_news_es, levante_emv, elcorreo",3,Brote de meningitis B en Reino Unido: ya son 27 los casos investigados y sigue la vacunación a universitarios - consalud.es,2026-03-19 18:05
+petróleo,3,15,2.57,51,"expansion, google_news_es, levante_emv",3,"El Ibex pierde los 17.000 puntos presionado por el petróleo, la Fed y el BCE",2026-03-19 18:05
+trump,5,25,2.57,51,"europapress, google_news_internacional, elpais, elcorreo",4,"Trump desvela que habló con Netanyahu tras ataque al campo de gas de South Pars: ""No vamos a hacerlo nunca más""",2026-03-19 18:05
+última,4,24,2.14,42,"google_news_internacional, elpais, elcorreo",3,"Guerra en Irán, en directo: última hora de los ataques de EE.UU. e Israel | Trump dice que la operación en Irán “va a acabar muy pronto” - La Vanguardia",2026-03-19 18:05
