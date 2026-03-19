@@ -1,32 +1,40 @@
 keyword,count_now,count_base,ratio,viral_score,sources,n_sources,sample_title,detected_at
-trabaja,3,0,5.0,100,"levante_emv, google_news_es, expansion",3,Sánchez asegura que la SEPI trabaja con Indra para resolver el conflicto de interés en la compra de EM&E,2026-03-19 12:04
-anuncia,6,6,7.89,100,"google_news_economia, 20minutos, okdiario, levante_emv",4,"Montero anuncia que España cumplió su objetivo de déficit en 2025 y que ""habrá nuevos Presupuestos en 2027"" - ElPlural.com",2026-03-19 12:04
-detienen,3,0,5.0,100,"heraldo_aragon, elespanol, elmundo",3,Detienen a tres vecinos de Ricla por robar más de 33.000 euros de cobre de la vía del tren en Zaragoza,2026-03-19 12:04
-industria,3,1,23.66,100,"levante_emv, lavanguardia, okdiario",3,"El Golfo, en alerta máxima tras los ataques de Irán contra la industria petrolífera regional",2026-03-19 12:04
-futuro,3,1,23.66,100,"europapress, levante_emv",2,Gabriel Rufián e Irene Montero compartirán acto en Barcelona para reflexionar sobre el futuro de la izquierda,2026-03-19 12:04
-resolver,3,3,7.89,100,"levante_emv, okdiario, google_news_es, expansion",4,Sánchez asegura que la SEPI trabaja con Indra para resolver el conflicto de interés en la compra de EM&E,2026-03-19 12:04
-interés,3,3,7.89,100,"levante_emv, google_news_es, expansion",3,Sánchez asegura que la SEPI trabaja con Indra para resolver el conflicto de interés en la compra de EM&E,2026-03-19 12:04
-compra,4,1,31.54,100,"levante_emv, okdiario, google_news_es, expansion",4,El FBI confirma que compra datos de los ciudadanos para rastrear su localización,2026-03-19 12:04
-abril,3,1,23.66,100,"eldiario, huffington_es, levante_emv",3,Irene Montero y Gabriel Rufián harán un acto conjunto en Barcelona el 9 de abril y se abren a “colaborar” para las generales,2026-03-19 12:04
-gabriel,3,2,11.83,100,"eldiario, europapress, huffington_es",3,Irene Montero y Gabriel Rufián harán un acto conjunto en Barcelona el 9 de abril y se abren a “colaborar” para las generales,2026-03-19 12:04
-barcelona,10,6,13.14,100,"okdiario, eldiario, elmundo, infolibre, elpais",5,Rufián y Podemos negocian una plataforma con Irene Montero de nº 1 en Madrid y el de ERC de nº 1 en Barcelona,2026-03-19 12:04
-montero,13,16,6.41,100,"okdiario, eldiario, elmundo, infolibre, elpais",5,Rufián y Podemos negocian una plataforma con Irene Montero de nº 1 en Madrid y el de ERC de nº 1 en Barcelona,2026-03-19 12:04
-irene,7,2,27.6,100,"okdiario, eldiario, elmundo, infolibre, elpais",5,Rufián y Podemos negocian una plataforma con Irene Montero de nº 1 en Madrid y el de ERC de nº 1 en Barcelona,2026-03-19 12:04
-rufián,9,2,35.49,100,"okdiario, eldiario, elmundo, infolibre, elpais",5,Rufián y Podemos negocian una plataforma con Irene Montero de nº 1 en Madrid y el de ERC de nº 1 en Barcelona,2026-03-19 12:04
-expansión,3,4,5.91,100,"heraldo_aragon, google_news_es",2,"Jysk sube la persiana en Calatayud: ""Es parte importante en el plan de expansión""",2026-03-19 12:04
-amenazas,3,3,7.89,100,"google_news_internacional, elmundo, lavanguardia",3,"Guerra en Irán, en directo: oleadas de ataques de Israel, amenazas de Trump a Irán y última hora hoy del precio de la gasolina - La Vanguardia",2026-03-19 12:04
-doble,3,3,7.89,100,"bbc_mundo, levante_emv",2,"""Incluso el silencio es aterrador"": el doble miedo que enfrentan los iraníes por la represión del régimen y los ataques aéreos de EE.UU. e Israel",2026-03-19 12:04
-izquierda,5,4,9.86,100,"elmundo, infolibre, elpais, levante_emv, europapress",5,Rufián vuelve a la carga con su frente de izquierdas con un acto con Irene Montero en Barcelona,2026-03-19 12:04
-hombre,3,5,4.73,94,"elespanol, elmundo, 20minutos",3,Detienen a un hombre por electrocutar a una persona en la previa del derbi sevillano,2026-03-19 12:04
-accidente,3,5,4.73,94,levante_emv,1,El Gobierno anuncia un cambio legal para que el accidente de Adamuz se considere accidente laboral y las prestaciones sean más altas,2026-03-19 12:04
-conflicto,3,5,4.73,94,"levante_emv, google_news_es, expansion",3,Sánchez asegura que la SEPI trabaja con Indra para resolver el conflicto de interés en la compra de EM&E,2026-03-19 12:04
-cumplió,6,11,4.3,86,"google_news_economia, 20minutos, levante_emv",3,"Montero anuncia que España cumplió su objetivo de déficit en 2025 y que ""habrá nuevos Presupuestos en 2027"" - ElPlural.com",2026-03-19 12:04
-objetivo,6,11,4.3,86,"google_news_economia, 20minutos, levante_emv",3,"Montero anuncia que España cumplió su objetivo de déficit en 2025 y que ""habrá nuevos Presupuestos en 2027"" - ElPlural.com",2026-03-19 12:04
-déficit,7,14,3.94,78,"google_news_economia, 20minutos, levante_emv",3,"Montero anuncia que España cumplió su objetivo de déficit en 2025 y que ""habrá nuevos Presupuestos en 2027"" - ElPlural.com",2026-03-19 12:04
-zaragoza,3,6,3.94,78,heraldo_aragon,1,El Casademont Zaragoza lidera casi todas las votaciones populares de la Euroliga femenina,2026-03-19 12:04
-puede,3,6,3.94,78,"levante_emv, okdiario, heraldo_aragon",3,Rosalía confiesa su mayor miedo que no puede controlar y pide ayuda a Ana Milán: “Me aterra”,2026-03-19 12:04
-gasolina,3,8,2.96,59,"google_news_internacional, lavanguardia, okdiario",3,"Guerra en Irán, en directo: oleadas de ataques de Israel, amenazas de Trump a Irán y última hora hoy del precio de la gasolina - La Vanguardia",2026-03-19 12:04
-madrid,8,24,2.63,52,"maldita, okdiario, elespanol, google_news_es, google_news_internacional",5,Cuidado con los contenidos que afirman que la capilla católica de la T4 del Aeropuerto de Madrid “se va al semisótano” mientras la mezquita “se queda en la planta principal”: ambas salas se encuentran en la primera planta,2026-03-19 12:04
-europa,3,9,2.63,52,"okdiario, google_news_internacional, elcorreo",3,"Estudiar como en Estados Unidos, vivir como en Europa: Madrid se consolida como polo de educación internacional",2026-03-19 12:04
-presupuestos,5,15,2.63,52,"expansion, elmundo, google_news_economia, elpais, elespanol",5,Sanchez aparca los Presupuestos para centrarse en dar respuesta a los efectos de la guerra de Irán,2026-03-19 12:04
-sánchez,8,26,2.43,48,"elmundo, elpais, levante_emv, okdiario, elespanol",5,Sánchez rebaja la tensión con Alemania agradeciendo a Merz sus explicaciones en privado a Trump tras las amenazas a España,2026-03-19 12:04
+oleada,3,2,8.09,100,"google_news_internacional, levante_emv, lavanguardia",3,"Guerra en Irán, en directo: última hora de la oleada de ataques de Israel, la reacción de Trump a la represalia de Irán y del precio de la gasolina - La Vanguardia",2026-03-19 12:34
+festival,3,2,8.09,100,"google_news_internacional, lavanguardia",2,Minas de Riotinto acoge la XVI edición del Festival Internacional de Poesía Grito de Mujer con un mensaje sin fronteras - Huelva Información,2026-03-19 12:34
+amenazas,4,3,7.19,100,"google_news_internacional, elmundo, lavanguardia",3,"Guerra en Irán, en directo: oleadas de ataques de Israel, amenazas de Trump a Irán y última hora hoy del precio de la gasolina - La Vanguardia",2026-03-19 12:34
+planta,4,2,10.79,100,"maldita, elcorreo",2,Cuidado con los contenidos que afirman que la capilla católica de la T4 del Aeropuerto de Madrid “se va al semisótano” mientras la mezquita “se queda en la planta principal”: ambas salas se encuentran en la primera planta,2026-03-19 12:34
+contenidos,3,0,5.0,100,maldita,1,Cuidado con los contenidos que afirman que la capilla católica de la T4 del Aeropuerto de Madrid “se va al semisótano” mientras la mezquita “se queda en la planta principal”: ambas salas se encuentran en la primera planta,2026-03-19 12:34
+cuidado,3,1,16.18,100,maldita,1,Cuidado con los contenidos que afirman que la capilla católica de la T4 del Aeropuerto de Madrid “se va al semisótano” mientras la mezquita “se queda en la planta principal”: ambas salas se encuentran en la primera planta,2026-03-19 12:34
+costa,4,4,5.39,100,"sur, google_news_internacional",2,Malaga's Costa del Sol on yellow alert for winds of up to 60 km/h,2026-03-19 12:34
+rufián,7,7,5.39,100,"lavanguardia, okdiario, eldiario, elmundo, infolibre",5,Rufián y Montero se citan en Barcelona para reabrir el debate sobre la unidad de la izquierda,2026-03-19 12:34
+matemáticas,3,0,5.0,100,"eldiario, elpais, el_confidencial_tech",3,Gerd Faltings recibe el premio Abel de matemáticas por conectar formas y números,2026-03-19 12:34
+premio,3,1,16.18,100,"eldiario, google_news_internacional, google_news_es",3,Gerd Faltings recibe el premio Abel de matemáticas por conectar formas y números,2026-03-19 12:34
+malaga,5,2,13.48,100,sur,1,Malaga sanitation workers launch hunger strike after negotiations fail,2026-03-19 12:34
+mientras,4,4,5.39,100,"elpais, maldita, elcorreo",3,"Última hora del ataque de Estados Unidos e Israel contra Irán, en directo | Bruselas urge a hallar una salida al conflicto mientras Irán amenaza con más ataques contra infraestructuras energéticas",2026-03-19 12:34
+personas,3,3,5.39,100,"google_news_internacional, levante_emv",2,El 42º Torneo Internacional de Esgrima reunirá este fin de semana en Logroño a 500 personas - Europa Press,2026-03-19 12:34
+irene,6,5,6.47,100,"okdiario, eldiario, elmundo, infolibre, 20minutos",5,Rufián y Podemos negocian una plataforma con Irene Montero de nº 1 en Madrid y el de ERC de nº 1 en Barcelona,2026-03-19 12:34
+caviar,3,0,5.0,100,"levante_emv, okdiario",2,"Ayuso defiende a Ana Millán en la Asamblea de Madrid y se ensaña con la ""izquierda extrema caviar""",2026-03-19 12:34
+primera,4,2,10.79,100,"lavanguardia, heraldo_aragon, maldita",3,Enrique Iglesias comparte la primera imagen de su cuarto hijo​ por el Día del Padre,2026-03-19 12:34
+virgen,3,0,5.0,100,levante_emv,1,La Plaza de la Virgen se llena para rendirle homenaje a la Geperudeta,2026-03-19 12:34
+eleva,3,0,5.0,100,"levante_emv, google_news_economia, lavanguardia",3,"Feijóo eleva el tono contra Vox y tacha de ""falso"" que el PP esté detrás de los críticos con Abascal",2026-03-19 12:34
+ayuso,5,5,5.39,100,"levante_emv, okdiario, lavanguardia",3,"Ayuso defiende a Ana Millán en la Asamblea de Madrid y se ensaña con la ""izquierda extrema caviar""",2026-03-19 12:34
+industria,3,3,5.39,100,"eldiario, levante_emv",2,Industria lanza el nuevo PERTE VEC 5 dotado con más de 100 millones de euros ampliables,2026-03-19 12:34
+barcelona,11,12,4.94,98,"google_news_internacional, lavanguardia, okdiario, eldiario, elmundo",5,El Gobierno y MWCapital organizarán el I Encuentro Internacional de Derechos Digitales en Barcelona - La Razón,2026-03-19 12:34
+izquierda,5,6,4.49,89,"levante_emv, lavanguardia, elmundo, infolibre, 20minutos",5,"Ayuso defiende a Ana Millán en la Asamblea de Madrid y se ensaña con la ""izquierda extrema caviar""",2026-03-19 12:34
+unidos,4,5,4.31,86,"elpais, okdiario, google_news_internacional",3,"Última hora del ataque de Estados Unidos e Israel contra Irán, en directo | Bruselas urge a hallar una salida al conflicto mientras Irán amenaza con más ataques contra infraestructuras energéticas",2026-03-19 12:34
+estados,4,5,4.31,86,"elpais, okdiario, google_news_internacional",3,"Última hora del ataque de Estados Unidos e Israel contra Irán, en directo | Bruselas urge a hallar una salida al conflicto mientras Irán amenaza con más ataques contra infraestructuras energéticas",2026-03-19 12:34
+vuelve,3,4,4.05,80,"elcorreo, okdiario, elmundo",3,Carolina Marín vuelve a la competición un año y medio después,2026-03-19 12:34
+denuncia,3,4,4.05,80,"sur, heraldo_aragon, eldiario",3,La Asociación de la Prensa denuncia los «insultos» del ministro de Transportes a medios de Málaga,2026-03-19 12:34
+málaga,4,6,3.6,71,sur,1,La Asociación de la Prensa denuncia los «insultos» del ministro de Transportes a medios de Málaga,2026-03-19 12:34
+madrid,14,22,3.43,68,"levante_emv, 20minutos, maldita, okdiario, elespanol",5,"Ayuso defiende a Ana Millán en la Asamblea de Madrid y se ensaña con la ""izquierda extrema caviar""",2026-03-19 12:34
+zaragoza,5,8,3.37,67,heraldo_aragon,1,Detenida una pareja de Zaragoza que traficaba con drogas en Las Delicias,2026-03-19 12:34
+europa,4,7,3.08,61,"google_news_internacional, okdiario, elcorreo",3,El 42º Torneo Internacional de Esgrima reunirá este fin de semana en Logroño a 500 personas - Europa Press,2026-03-19 12:34
+gasolina,5,9,3.0,59,"google_news_internacional, levante_emv, lavanguardia, 20minutos",4,"Guerra en Irán, en directo: última hora de la oleada de ataques de Israel, la reacción de Trump a la represalia de Irán y del precio de la gasolina - La Vanguardia",2026-03-19 12:34
+final,3,6,2.7,53,"20minutos, lavanguardia, levante_emv",3,El movimiento en redes que apuntaría al final de la amistad entre Tini y Emilia: 'La_original' podría haber sido el motivo de la discordia,2026-03-19 12:34
+podría,3,6,2.7,53,"20minutos, okdiario",2,El movimiento en redes que apuntaría al final de la amistad entre Tini y Emilia: 'La_original' podría haber sido el motivo de la discordia,2026-03-19 12:34
+sigue,3,6,2.7,53,"lavanguardia, elcorreo, okdiario",3,El OnePlus Nord 5 tiene un detalle que muchos notan al final del día: la batería sigue ahí,2026-03-19 12:34
+bruselas,3,6,2.7,53,"elpais, elmundo_espana, expansion",3,"Última hora del ataque de Estados Unidos e Israel contra Irán, en directo | Bruselas urge a hallar una salida al conflicto mientras Irán amenaza con más ataques contra infraestructuras energéticas",2026-03-19 12:34
+nuevos,3,7,2.31,46,"20minutos, lavanguardia, google_news_economia",3,Así cambiará el 'skyline' de Madrid de aquí a 2040: los cinco nuevos edificios que se van a construir en los próximos años,2026-03-19 12:34
+estos,4,10,2.16,43,"huffington_es, levante_emv, lavanguardia, elpais, expansion",5,Cómo hacer la declaración de la renta si estás jubilado: estos son los pensionistas obligados a presentarla en 2026,2026-03-19 12:34
+ataques,9,23,2.11,42,"google_news_internacional, 20minutos, elpais, lavanguardia, levante_emv",5,"Guerra en Irán, en directo: última hora de la oleada de ataques de Israel, la reacción de Trump a la represalia de Irán y del precio de la gasolina - La Vanguardia",2026-03-19 12:34
+montero,10,26,2.07,41,"heraldo_aragon, lavanguardia, okdiario, elcorreo, eldiario",5,"María Jesús Montero denuncia un ""ataque organizado"" a sus redes sociales",2026-03-19 12:34
