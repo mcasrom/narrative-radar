@@ -1,18 +1,27 @@
 keyword,count_now,count_base,ratio,viral_score,sources,n_sources,sample_title,detected_at
-mejor,4,4,13.38,100,"okdiario, google_news_politica, levante_emv",3,"Rocío, la mejor amiga de Francisca Cadenas sobre los detenidos: «Tenían que ser ellos, no había otra»",2026-03-19 19:04
-matar,3,2,20.07,100,"google_news_internacional, elmundo",2,Irán ejecuta a un campeón internacional de lucha de 19 años tras ser acusado de matar a un policía - Onda Cero,2026-03-19 19:04
-huesca,3,5,8.03,100,heraldo_aragon,1,Concluye sin pujas la subasta millonaria de un solar en el centro de Huesca para 109 pisos,2026-03-19 19:04
-valència,3,7,5.74,100,levante_emv,1,De la 'música de película' de Zimmer a las melodias teatrales de Goya: Qué hacer en València del 20 al 26 de marzo,2026-03-19 19:04
-energética,3,6,6.69,100,"elpais, google_news_internacional, google_news_economia",3,La infraestructura energética se convierte en primera línea del frente de la guerra en Oriente Próximo,2026-03-19 19:04
-frente,3,4,10.04,100,"elpais, google_news_internacional, sur",3,La infraestructura energética se convierte en primera línea del frente de la guerra en Oriente Próximo,2026-03-19 19:04
-falta,3,6,6.69,100,"elpais, google_news_internacional, elmundo",3,Crece la tensión política por la falta de alternativas para la ruta de Renfe entre Madrid y Málaga a partir del 24 de marzo,2026-03-19 19:04
-ormuz,3,5,8.03,100,google_news_internacional,1,"Guerra en Irán, en directo hoy: última hora de los ataques de EEUU e Israel, bloqueo de Ormuz y explosiones en instalaciones energéticas - La Razón",2026-03-19 19:04
-mundo,5,16,4.18,83,"google_news_internacional, lavanguardia",2,"Guerra en Irán, última hora hoy, en directo | La directora de Inteligencia de EEUU afirma en el Congreso que Trump fue informado del impacto económico del ataque a Irán - El Mundo",2026-03-19 19:04
-marzo,5,17,3.94,78,"elpais, levante_emv, elcorreo, sur",4,Crece la tensión política por la falta de alternativas para la ruta de Renfe entre Madrid y Málaga a partir del 24 de marzo,2026-03-19 19:04
-ucrania,3,11,3.65,72,"google_news_internacional, eldiario",2,"La UE ya espera que Orban pierda las elecciones para liberar el crédito a Ucrania pero ahora amenaza Eslovaquia: ""Si no hay petróleo, no hay ayuda"" - El Mundo",2026-03-19 19:04
-última,6,26,3.09,61,"google_news_internacional, eldiario, levante_emv",3,"Última hora de la guerra en Irán, en directo: Los ataques de EE.UU. e Israel de hoy | Trump dice que la guerra en Irán “va a acabar muy pronto” - La Vanguardia",2026-03-19 19:04
-fallas,4,19,2.82,56,levante_emv,1,La presidenta de la JLF de Alzira acaba las fallas con muleta por un esguince,2026-03-19 19:04
-trump,6,30,2.68,53,"google_news_internacional, huffington_es, levante_emv, lavanguardia",4,"Última hora de la guerra en Irán, en directo: Los ataques de EE.UU. e Israel de hoy | Trump dice que la guerra en Irán “va a acabar muy pronto” - La Vanguardia",2026-03-19 19:04
-primera,4,21,2.55,50,"elpais, google_news_internacional, heraldo_aragon, huffington_es",4,La infraestructura energética se convierte en primera línea del frente de la guerra en Oriente Próximo,2026-03-19 19:04
-ataques,5,28,2.39,47,"google_news_internacional, lavanguardia, levante_emv",3,"Última hora de la guerra en Irán, en directo: Los ataques de EE.UU. e Israel de hoy | Trump dice que la guerra en Irán “va a acabar muy pronto” - La Vanguardia",2026-03-19 19:04
-málaga,4,25,2.14,42,"elpais, europapress, sur",3,Crece la tensión política por la falta de alternativas para la ruta de Renfe entre Madrid y Málaga a partir del 24 de marzo,2026-03-19 19:04
+mejor,4,7,6.64,100,"okdiario, elpais, google_news_es, lavanguardia",4,Opera GX para Linux: el mejor navegador gaming llega por fin al sistema del pingüino,2026-03-19 19:34
+estadounidense,6,2,34.88,100,"heraldo_aragon, eldiario, levante_emv, lavanguardia",4,Localizan en el mar el cadáver del estudiante estadounidense desaparecido en Barcelona,2026-03-19 19:34
+frente,3,4,8.72,100,"20minutos, elpais, google_news_internacional",3,Hallan el cadáver de Jimmy Gracey en el mar frente a una playa de Barcelona,2026-03-19 19:34
+ejecuta,3,0,5.0,100,"okdiario, elespanol, google_news_internacional",3,Irán ejecuta en la horca a 5 jóvenes manifestantes: ésta es la historia de sus vidas,2026-03-19 19:34
+premiado,3,1,34.88,100,okdiario,1,"Comprobar Lotería Nacional: resultado y número premiado hoy, jueves 19 de marzo de 2026",2026-03-19 19:34
+número,3,0,5.0,100,okdiario,1,"Comprobar Lotería Nacional: resultado y número premiado hoy, jueves 19 de marzo de 2026",2026-03-19 19:34
+resultado,3,1,34.88,100,okdiario,1,"Comprobar Lotería Nacional: resultado y número premiado hoy, jueves 19 de marzo de 2026",2026-03-19 19:34
+comprobar,4,0,5.0,100,okdiario,1,"Comprobar Lotería Nacional: resultado y número premiado hoy, jueves 19 de marzo de 2026",2026-03-19 19:34
+jueves,5,1,58.13,100,"lavanguardia, okdiario",2,ONCE | Sigue en directo el sorteo del Cupón Extra Día del Padre de hoy jueves 19 de marzo,2026-03-19 19:34
+gracey,5,5,11.63,100,"eldiario, levante_emv, 20minutos, lavanguardia",4,"Localizan en el mar el cadáver de Jimmy Gracey, el estudiante estadounidense desaparecido en Barcelona",2026-03-19 19:34
+jimmy,5,2,29.07,100,"eldiario, levante_emv, 20minutos, lavanguardia",4,"Localizan en el mar el cadáver de Jimmy Gracey, el estudiante estadounidense desaparecido en Barcelona",2026-03-19 19:34
+desaparecido,5,1,58.13,100,"heraldo_aragon, eldiario, levante_emv, lavanguardia",4,Localizan en el mar el cadáver del estudiante estadounidense desaparecido en Barcelona,2026-03-19 19:34
+cadáver,4,2,23.25,100,"heraldo_aragon, eldiario, levante_emv, 20minutos",4,Localizan en el mar el cadáver del estudiante estadounidense desaparecido en Barcelona,2026-03-19 19:34
+localizan,4,0,5.0,100,"heraldo_aragon, eldiario, lavanguardia",3,Localizan en el mar el cadáver del estudiante estadounidense desaparecido en Barcelona,2026-03-19 19:34
+bancos,3,0,5.0,100,"elcorreo, levante_emv",2,Los inversores huyen del riesgo con el petróleo disparado y muchas dudas sobre los bancos centrales,2026-03-19 19:34
+energética,3,5,6.98,100,"elpais, google_news_internacional, google_news_economia",3,La infraestructura energética se convierte en primera línea del frente de la guerra en Oriente Próximo,2026-03-19 19:34
+pronto”,3,8,4.36,87,"google_news_internacional, elpais",2,"Guerra en Irán, en directo: Última hora de los ataques de EE.UU. e Israel de hoy, en vivo | Trump dice que la guerra “va a acabar muy pronto” - La Vanguardia",2026-03-19 19:34
+acabar,3,9,3.88,77,"google_news_internacional, elpais",2,"Guerra en Irán, en directo: Última hora de los ataques de EE.UU. e Israel de hoy, en vivo | Trump dice que la guerra “va a acabar muy pronto” - La Vanguardia",2026-03-19 19:34
+trump,9,31,3.38,67,"google_news_internacional, elpais, elcorreo, levante_emv, expansion",5,"Guerra en Irán, en directo: Última hora de los ataques de EE.UU. e Israel de hoy, en vivo | Trump dice que la guerra “va a acabar muy pronto” - La Vanguardia",2026-03-19 19:34
+israel,6,23,3.03,60,"google_news_internacional, elpais, bbc_mundo, elespanol",4,"Guerra en Irán, en directo: Última hora de los ataques de EE.UU. e Israel de hoy, en vivo | Trump dice que la guerra “va a acabar muy pronto” - La Vanguardia",2026-03-19 19:34
+marzo,5,22,2.64,52,"lavanguardia, okdiario",2,ONCE | Sigue en directo el sorteo del Cupón Extra Día del Padre de hoy jueves 19 de marzo,2026-03-19 19:34
+barcelona,6,27,2.58,51,"heraldo_aragon, eldiario, levante_emv, okdiario, 20minutos",5,Localizan en el mar el cadáver del estudiante estadounidense desaparecido en Barcelona,2026-03-19 19:34
+mundo,4,19,2.45,48,"eldiario, bbc_mundo, okdiario, google_news_internacional",4,¿De dónde vendrían Luffy y sus amigos en el mundo real? Estas son las nacionalidades de 'One Piece' según su creador,2026-03-19 19:34
+nuevo,3,15,2.33,46,"levante_emv, france24_es, lavanguardia",3,Baic refuerza su presencia en España con el nuevo Baic X75,2026-03-19 19:34
+ataques,5,26,2.24,44,"google_news_internacional, bbc_mundo, elcorreo",3,"Guerra en Irán, en directo: Última hora de los ataques de EE.UU. e Israel de hoy, en vivo | Trump dice que la guerra “va a acabar muy pronto” - La Vanguardia",2026-03-19 19:34
+última,5,27,2.15,43,"google_news_internacional, elpais",2,"Guerra en Irán, en directo: Última hora de los ataques de EE.UU. e Israel de hoy, en vivo | Trump dice que la guerra “va a acabar muy pronto” - La Vanguardia",2026-03-19 19:34
