@@ -1,52 +1,20 @@
 keyword,count_now,count_base,ratio,viral_score,sources,n_sources,sample_title,detected_at
-ecológica,3,2,13.37,100,"google_news_economia, levante_emv",2,Hereu critica la guerra en Irán y defiende la apuesta de España por la transición digital y ecológica - El Periódico,2026-03-19 15:05
-poner,3,3,8.91,100,"sur, europapress, expansion",3,Sigue en directo la última hora de la guerra en Oriente Medio | EE UU rechaza poner plazos a su ofensiva contra Irán,2026-03-19 15:05
-josep,3,1,26.74,100,levante_emv,1,Las fallas de Xàtiva desafían a la lluvia en una Baixada de Sant Josep que será declarada Bien de Relevancia Local,2026-03-19 15:05
-irán”,3,0,5.0,100,"google_news_internacional, lavanguardia",2,"Guerra en Irán, en directo | Director del Pentágono: “Estamos ganando la guerra, estamos aplastando a Irán” - La Vanguardia",2026-03-19 15:05
-militares,4,4,8.91,100,"elespanol, europapress, google_news_internacional, elcorreo",4,Defensa evacúa a un centenar de militares de Irak a Turquía y otros 200 serán sacados del país en las próximas horas,2026-03-19 15:05
-fusión,6,6,8.91,100,"elmundo, sur, okdiario, 20minutos, levante_emv",5,Los Escribano plantean la renuncia a la fusión con Indra para intentar mantener la presidencia ante la presión del Gobierno en bloque,2026-03-19 15:05
-aplastando,3,1,26.74,100,"google_news_internacional, lavanguardia",2,"Guerra en Irán, en directo | Director del Pentágono: “Estamos ganando la guerra, estamos aplastando a Irán” - La Vanguardia",2026-03-19 15:05
-presidencia,3,2,13.37,100,"elmundo, sur, 20minutos",3,Los Escribano plantean la renuncia a la fusión con Indra para intentar mantener la presidencia ante la presión del Gobierno en bloque,2026-03-19 15:05
-presión,4,3,11.89,100,"elmundo, eldiario, expansion, huffington_es",4,Los Escribano plantean la renuncia a la fusión con Indra para intentar mantener la presidencia ante la presión del Gobierno en bloque,2026-03-19 15:05
-ganando,3,5,5.35,100,"google_news_internacional, lavanguardia",2,"Guerra en Irán, en directo | Director del Pentágono: “Estamos ganando la guerra, estamos aplastando a Irán” - La Vanguardia",2026-03-19 15:05
-“estamos,3,2,13.37,100,"google_news_internacional, lavanguardia",2,"Guerra en Irán, en directo | Director del Pentágono: “Estamos ganando la guerra, estamos aplastando a Irán” - La Vanguardia",2026-03-19 15:05
-impacto,3,4,6.69,100,"elmundo, europapress, expansion",3,"El BCE alerta de un ""impacto importante"" de la guerra en Oriente Próximo sobre el bolsillo de los europeos: prevé más inflación y menos crecimiento",2026-03-19 15:05
-inflación,5,1,44.57,100,"elmundo, 20minutos, elpais, lavanguardia, expansion",5,"El BCE alerta de un ""impacto importante"" de la guerra en Oriente Próximo sobre el bolsillo de los europeos: prevé más inflación y menos crecimiento",2026-03-19 15:05
-digital,4,6,5.94,100,"google_news_internacional, google_news_economia, levante_emv",3,Caudete abre las inscripciones para su VIII Bienal Internacional de Acuarela 2026 - Caudete Digital,2026-03-19 15:05
-espacio,3,1,26.74,100,"elmundo, okdiario",2,Comic-Con Málaga duplicará su espacio de exposición en su segunda edición,2026-03-19 15:05
-renunciar,3,0,5.0,100,"sur, okdiario, expansion",3,Los Escribano ponen sobre la mesa renunciar a la fusión para seguir en la presidencia de Indra,2026-03-19 15:05
-seguir,3,3,8.91,100,"sur, okdiario, elespanol",3,Los Escribano ponen sobre la mesa renunciar a la fusión para seguir en la presidencia de Indra,2026-03-19 15:05
-defiende,4,5,7.13,100,"europapress, google_news_economia, levante_emv",3,El Pentágono defiende que está cumpliendo sus planes militares en Irán pero rechaza poner plazos a su ofensiva,2026-03-19 15:05
-tipos,13,2,57.94,100,"infolibre, 20minutos, elpais, europapress, lavanguardia",5,El BCE mantiene los tipos de interés en el 2% pese a la guerra en Irán,2026-03-19 15:05
-xàtiva,3,2,13.37,100,levante_emv,1,Las fallas de Xàtiva desafían a la lluvia en una Baixada de Sant Josep que será declarada Bien de Relevancia Local,2026-03-19 15:05
-apuesta,4,6,5.94,100,"sur, google_news_economia, levante_emv",3,Trops Málaga refuerza su apuesta por la base con la Copa Delegación,2026-03-19 15:05
-director,3,4,6.69,100,"google_news_internacional, lavanguardia",2,"Guerra en Irán, en directo | Director del Pentágono: “Estamos ganando la guerra, estamos aplastando a Irán” - La Vanguardia",2026-03-19 15:05
-muerte,3,4,6.69,100,"elespanol, okdiario, 20minutos",3,"El grupo de Francisco Flores, investigado por el sobre que Aldama liga al PSOE, anuncia su muerte a los 55: ""Ha sido llamado a presencia de Dios""",2026-03-19 15:05
-critica,3,1,26.74,100,"google_news_economia, levante_emv",2,Hereu critica la guerra en Irán y defiende la apuesta de España por la transición digital y ecológica - El Periódico,2026-03-19 15:05
-denuncia,6,9,5.94,100,"elconfidencial, levante_emv, eldiario, elpais",4,La Fiscalía archiva la primera denuncia por torturas en Via Laietana en el franquismo y la transición,2026-03-19 15:05
-transición,4,2,17.83,100,"elconfidencial, google_news_economia, levante_emv",3,La Fiscalía archiva la primera denuncia por torturas en Via Laietana en el franquismo y la transición,2026-03-19 15:05
-hereu,3,2,13.37,100,"google_news_economia, levante_emv",2,Hereu critica la guerra en Irán y defiende la apuesta de España por la transición digital y ecológica - El Periódico,2026-03-19 15:05
-escalada,3,5,5.35,100,"elmundo, elespanol",2,Tensión en los mercados: el gas en Europa se dispara un 25% con un petróleo por encima de los 113 dólares ante la escalada de ataques en Oriente Próximo,2026-03-19 15:05
-energía,3,0,5.0,100,"eldiario, elmundo, expansion",3,El BCE mantiene los tipos de interés al 2% pese a la presión de los precios de la energía por la guerra de Irán,2026-03-19 15:05
-pentágono,5,2,22.29,100,"infolibre, europapress, google_news_internacional, lavanguardia",4,El Pentágono solicitará al Congreso 200.000 millones de dólares para la guerra contra Irán,2026-03-19 15:05
-mantiene,12,4,26.74,100,"google_news_es, infolibre, 20minutos, europapress, lavanguardia",5,Urgente: BCE mantiene tasas sin cambio en medio de tensiones geopolíticas - Xinhua Español,2026-03-19 15:05
-supremo,5,1,44.57,100,"elmundo, levante_emv, eldiario, elpais",4,El Supremo abre una quinta causa a Alvise: ahora por presuntas amenazas al alcalde de Algeciras,2026-03-19 15:05
-alvise,4,0,5.0,100,"elmundo, levante_emv, eldiario, elpais",4,El Supremo abre una quinta causa a Alvise: ahora por presuntas amenazas al alcalde de Algeciras,2026-03-19 15:05
-amenazas,4,7,5.09,100,"elmundo, levante_emv, elpais",3,El Supremo abre una quinta causa a Alvise: ahora por presuntas amenazas al alcalde de Algeciras,2026-03-19 15:05
-alcalde,4,0,5.0,100,"elmundo, levante_emv, eldiario, elpais",4,El Supremo abre una quinta causa a Alvise: ahora por presuntas amenazas al alcalde de Algeciras,2026-03-19 15:05
-algeciras,6,0,5.0,100,"elmundo, google_news_internacional, levante_emv, eldiario, elpais",5,El Supremo abre una quinta causa a Alvise: ahora por presuntas amenazas al alcalde de Algeciras,2026-03-19 15:05
-fanta,3,2,13.37,100,google_news_economia,1,"Fanta celebra su 65 aniversario en España con el 48,3 % del mercado de refrescos cítricos - ABC",2026-03-19 15:05
-celebra,3,5,5.35,100,google_news_economia,1,"Fanta celebra su 65 aniversario en España con el 48,3 % del mercado de refrescos cítricos - ABC",2026-03-19 15:05
-cítricos,3,0,5.0,100,google_news_economia,1,"Fanta celebra su 65 aniversario en España con el 48,3 % del mercado de refrescos cítricos - ABC",2026-03-19 15:05
-interés,5,7,6.37,100,"infolibre, eldiario, huffington_es, elmundo, elcorreo",5,El BCE mantiene los tipos de interés en el 2% pese a la guerra en Irán,2026-03-19 15:05
-causa,3,6,4.46,89,"elmundo, levante_emv, eldiario",3,El Supremo abre una quinta causa a Alvise: ahora por presuntas amenazas al alcalde de Algeciras,2026-03-19 15:05
-escribano,7,16,3.9,77,"elmundo, sur, okdiario, 20minutos, levante_emv",5,Los Escribano plantean la renuncia a la fusión con Indra para intentar mantener la presidencia ante la presión del Gobierno en bloque,2026-03-19 15:05
-precios,3,7,3.82,76,"elmundo, eldiario, elespanol",3,"EEUU se plantea retirar las sanciones al petróleo iraní que ya está embarcado y en alta mar, ante la subida imparable de los precios",2026-03-19 15:05
-gobierno,9,28,2.87,57,"elmundo, sur, google_news_internacional, elcorreo, europapress",5,Los Escribano plantean la renuncia a la fusión con Indra para intentar mantener la presidencia ante la presión del Gobierno en bloque,2026-03-19 15:05
-primera,4,13,2.74,54,"elconfidencial, google_news_internacional, sur, elpais",4,La Fiscalía archiva la primera denuncia por torturas en Via Laietana en el franquismo y la transición,2026-03-19 15:05
-estamos,3,10,2.67,53,"google_news_internacional, lavanguardia",2,"Guerra en Irán, en directo | Director del Pentágono: “Estamos ganando la guerra, estamos aplastando a Irán” - La Vanguardia",2026-03-19 15:05
-guerra,26,88,2.63,52,"levante_emv, infolibre, sur, elmundo, okdiario",5,Sánchez aplaza los presupuestos para centrarse en proteger a los ciudadanos de la guerra en Irán,2026-03-19 15:05
-alerta,3,11,2.43,48,"elmundo, okdiario, google_news_es",3,"El BCE alerta de un ""impacto importante"" de la guerra en Oriente Próximo sobre el bolsillo de los europeos: prevé más inflación y menos crecimiento",2026-03-19 15:05
-próximo,3,11,2.43,48,"elmundo, europapress",2,Tensión en los mercados: el gas en Europa se dispara un 25% con un petróleo por encima de los 113 dólares ante la escalada de ataques en Oriente Próximo,2026-03-19 15:05
-dispara,4,15,2.38,47,"elmundo, levante_emv, 20minutos",3,Tensión en los mercados: el gas en Europa se dispara un 25% con un petróleo por encima de los 113 dólares ante la escalada de ataques en Oriente Próximo,2026-03-19 15:05
-indra,6,24,2.23,44,"elmundo, sur, europapress, 20minutos, levante_emv",5,Los Escribano plantean la renuncia a la fusión con Indra para intentar mantener la presidencia ante la presión del Gobierno en bloque,2026-03-19 15:05
+supremo,6,3,26.02,100,"elmundo_espana, google_news_es, elmundo, levante_emv, eldiario",5,Globalia informa al Supremo de que contrató a Aldama para recuperar 205 millones de dólares retenidos en Venezuela y que no tuvo éxito,2026-03-19 15:35
+alvise,4,2,26.02,100,"elcorreo, google_news_es, elmundo, levante_emv, eldiario",5,Quinta causa penal contra Alvise por presuntas amenazas a un alcalde del PP,2026-03-19 15:35
+algeciras,6,2,39.03,100,"google_news_es, elmundo, google_news_internacional, levante_emv, eldiario",5,El Supremo abre causa a ‘Alvise’ Pérez por un presunto delito de amenazas contra el alcalde de Algeciras - RTVE.es,2026-03-19 15:35
+zelenski,3,1,39.03,100,"elpais, france24_es, huffington_es",3,Orbán amenaza a Zelenski: no habrá dinero europeo para Ucrania sin petróleo ruso para Hungría,2026-03-19 15:35
+alcalde,5,2,32.53,100,"elcorreo, google_news_es, elmundo, levante_emv, eldiario",5,Quinta causa penal contra Alvise por presuntas amenazas a un alcalde del PP,2026-03-19 15:35
+amenazas,4,9,5.78,100,"elcorreo, google_news_es, elmundo, levante_emv",4,Quinta causa penal contra Alvise por presuntas amenazas a un alcalde del PP,2026-03-19 15:35
+aldama,3,1,39.03,100,"elmundo_espana, levante_emv, elespanol",3,Globalia informa al Supremo de que contrató a Aldama para recuperar 205 millones de dólares retenidos en Venezuela y que no tuvo éxito,2026-03-19 15:35
+presuntas,3,1,39.03,100,"elcorreo, elmundo, levante_emv",3,Quinta causa penal contra Alvise por presuntas amenazas a un alcalde del PP,2026-03-19 15:35
+causa,5,7,9.29,100,"elcorreo, google_news_es, elmundo, levante_emv, eldiario",5,Quinta causa penal contra Alvise por presuntas amenazas a un alcalde del PP,2026-03-19 15:35
+quinta,3,3,13.01,100,"elcorreo, elmundo, levante_emv",3,Quinta causa penal contra Alvise por presuntas amenazas a un alcalde del PP,2026-03-19 15:35
+juicio,4,2,26.02,100,"levante_emv, 20minutos, eldiario, infolibre",4,"Visto para sentencia el juicio por violación contra Marius, el hijo de la princesa Mette-Marit: la Fiscalía pide 7 años de cárcel",2026-03-19 15:35
+ahora,4,11,4.73,94,"huffington_es, okdiario, elmundo, levante_emv",4,"La aceituna española advirtió que el acuerdo entre la UE y Mercosur les dañaba: ahora, Bruselas confiesa y explica por qué",2026-03-19 15:35
+dólares,4,14,3.72,74,"elmundo_espana, elmundo, infolibre, levante_emv",4,Globalia informa al Supremo de que contrató a Aldama para recuperar 205 millones de dólares retenidos en Venezuela y que no tuvo éxito,2026-03-19 15:35
+petróleo,5,21,3.1,61,"elpais, expansion, huffington_es, elmundo",4,Orbán amenaza a Zelenski: no habrá dinero europeo para Ucrania sin petróleo ruso para Hungría,2026-03-19 15:35
+denuncia,3,14,2.79,55,"google_news_internacional, elconfidencial, 20minutos",3,Ampliación | Un hospital del sur de Líbano denuncia graves destrozos por un ataque israelí - democrata.es,2026-03-19 15:35
+fallas,3,15,2.6,52,levante_emv,1,"Las Fallas de Luca: el pequeño, protagonista de una gran ola de solidaridad en Dénia, desfila en la ofrenda",2026-03-19 15:35
+málaga,4,21,2.48,49,"sur, huffington_es",2,"Fernando Piquer: «El objetivo de la Comic-Con Málaga 2026 no es meter más gente, sino elevar la experiencia del fan»",2026-03-19 15:35
+dispara,3,16,2.44,48,"elmundo, levante_emv",2,Tensión en los mercados: el gas en Europa se dispara un 25% con un petróleo por encima de los 113 dólares ante la escalada de ataques en Oriente Próximo,2026-03-19 15:35
+contra,7,38,2.4,47,"elmundo_espana, levante_emv, elcorreo, france24_es, google_news_es",5,Globalia informa al Supremo de que contrató a Aldama para recuperar 205 millones de dólares retenidos en Venezuela y que no tuvo éxito,2026-03-19 15:35
