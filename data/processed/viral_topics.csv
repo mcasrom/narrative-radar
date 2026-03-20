@@ -1,14 +1,25 @@
 keyword,count_now,count_base,ratio,viral_score,sources,n_sources,sample_title,detected_at
-gasolina,3,1,18.66,100,"google_news_economia, levante_emv, elpais",3,Mapa de precios de gasolina y diésel en España: cómo encontrar la gasolinera más barata cerca de ti - Infobae,2026-03-20 09:05
-vanguardia,3,3,6.22,100,"google_news_internacional, google_news_es",2,Guerra de Irán y los ataques de EE.UU. e Israel a Teherán: Última hora de Trump y nuevos bombardeos de Israel a Teherán - La Vanguardia,2026-03-20 09:05
-horario,3,2,9.33,100,"google_news_es, okdiario, eldiario",3,El cambio de hora en marzo de 2026: España adelanta los relojes para entrar en el horario de verano - RTVE.es,2026-03-20 09:05
-europea,3,4,4.67,93,"elcorreo, sur, heraldo_aragon, europapress",4,La Fiscalía Europea investiga si hubo malversación en las obras de la vía de Adamuz,2026-03-20 09:05
-directo,4,8,3.11,62,"okdiario, google_news_internacional, google_news_es",3,Guerra Irán en directo hoy 20 marzo 2026 | Netanyahu abre la puerta a una operación terrestre en Irán,2026-03-20 09:05
-marzo,7,14,3.11,62,"okdiario, google_news_es, google_news_internacional",3,Guerra Irán en directo hoy 20 marzo 2026 | Netanyahu abre la puerta a una operación terrestre en Irán,2026-03-20 09:05
-shakira,3,6,3.11,62,"google_news_es, heraldo_aragon, okdiario",3,Shakira anuncia su gira de conciertos por España para 2026: todas las fechas y cuándo salen las entradas a la venta - LOS40,2026-03-20 09:05
-predicción,3,6,3.11,62,okdiario,1,"Predicción del horóscopo para Sagitario hoy, viernes 20 de marzo de 2026",2026-03-20 09:05
-horóscopo,3,6,3.11,62,okdiario,1,"Predicción del horóscopo para Sagitario hoy, viernes 20 de marzo de 2026",2026-03-20 09:05
-israel,5,12,2.59,51,"google_news_internacional, levante_emv",2,Guerra de Irán y los ataques de EE.UU. e Israel a Teherán: Última hora de Trump y nuevos bombardeos de Israel a Teherán - La Vanguardia,2026-03-20 09:05
-ataques,3,8,2.33,46,"google_news_internacional, heraldo_aragon",2,Guerra de Irán y los ataques de EE.UU. e Israel a Teherán: Última hora de Trump y nuevos bombardeos de Israel a Teherán - La Vanguardia,2026-03-20 09:05
-internacional,6,17,2.2,43,google_news_internacional,1,Unai Arzubiaga ha recibido un reconocimiento internacional por su labor en la revista Family Business Review - EHU,2026-03-20 09:05
-euros,3,9,2.07,41,"heraldo_aragon, okdiario",2,Miles de trabajadores se podrán deducir cerca de 600 euros en la Renta este 2026,2026-03-20 09:05
+adamuz,4,2,11.25,100,"eldiario, elcorreo, elespanol, sur",4,La Fiscalía Europea investiga una posible malversación de fondos comunitarios en la reparación de la vía de Adamuz,2026-03-20 09:35
+malversación,3,0,5.0,100,"eldiario, elcorreo, sur",3,La Fiscalía Europea investiga una posible malversación de fondos comunitarios en la reparación de la vía de Adamuz,2026-03-20 09:35
+padre,3,1,16.88,100,"elespanol, heraldo_aragon",2,"El pueblo de Zaragoza donde han caído 21 millones de euros en la lotería del Día del Padre: ""Estoy alucinando""",2026-03-20 09:35
+carburantes,3,1,16.88,100,"europapress, expansion, lavanguardia",3,El Gobierno ultima una rebaja del IVA de los carburantes al 10% y otras rebajas fiscales en electricidad,2026-03-20 09:35
+combustibles,3,2,8.44,100,"google_news_economia, sur, levante_emv",3,El Gobierno incluirá la bajada del IVA de los combustibles al 10% en su paquete de medidas anticrisis - Infobae,2026-03-20 09:35
+precios,6,5,6.75,100,"sur, levante_emv, okdiario, google_news_economia, elpais",5,El truco de los precios personalizados: lo que pagues en el súper dependerá de quién seas,2026-03-20 09:35
+gasolina,4,2,11.25,100,"okdiario, 20minutos, elespanol, google_news_economia, levante_emv",5,El Gobierno rebajará al 10% el IVA del diésel y la gasolina como pedía la oposición ante la guerra en Irán,2026-03-20 09:35
+diésel,3,0,5.0,100,"okdiario, elespanol, google_news_economia",3,El Gobierno rebajará al 10% el IVA del diésel y la gasolina como pedía la oposición ante la guerra en Irán,2026-03-20 09:35
+rebajará,5,1,28.14,100,"okdiario, sur, expansion, levante_emv, lavanguardia",5,El Gobierno rebajará al 10% el IVA del diésel y la gasolina como pedía la oposición ante la guerra en Irán,2026-03-20 09:35
+confirma,4,4,5.63,100,"levante_emv, europapress, okdiario, google_news_economia",4,Teherán confirma la muerte del portavoz de la Guardia Revolucionaria,2026-03-20 09:35
+muchos,3,0,5.0,100,"okdiario, huffington_es, 20minutos",3,"Alberto Longo: «A la Fórmula E le faltaba carácter español para venir a Madrid, estaremos muchos años»",2026-03-20 09:35
+investiga,4,2,11.25,100,"eldiario, elcorreo, elespanol, sur",4,La Fiscalía Europea investiga una posible malversación de fondos comunitarios en la reparación de la vía de Adamuz,2026-03-20 09:35
+fiscalía,4,1,22.51,100,"eldiario, elcorreo, elespanol, sur",4,La Fiscalía Europea investiga una posible malversación de fondos comunitarios en la reparación de la vía de Adamuz,2026-03-20 09:35
+revolucionaria,3,0,5.0,100,"levante_emv, europapress, elespanol",3,Teherán confirma la muerte del portavoz de la Guardia Revolucionaria,2026-03-20 09:35
+guardia,4,4,5.63,100,"levante_emv, europapress, elespanol, 20minutos, google_news_internacional",5,Teherán confirma la muerte del portavoz de la Guardia Revolucionaria,2026-03-20 09:35
+portavoz,3,0,5.0,100,"levante_emv, europapress, elespanol",3,Teherán confirma la muerte del portavoz de la Guardia Revolucionaria,2026-03-20 09:35
+europea,4,5,4.5,90,"eldiario, elcorreo, elespanol, sur",4,La Fiscalía Europea investiga una posible malversación de fondos comunitarios en la reparación de la vía de Adamuz,2026-03-20 09:35
+gobierno,9,18,2.81,56,"okdiario, google_news_economia, europapress, sur, 20minutos",5,El Gobierno rebajará al 10% el IVA del diésel y la gasolina como pedía la oposición ante la guerra en Irán,2026-03-20 09:35
+personas,3,6,2.81,56,"elpais, efe, europapress",3,La NASA despliega el cohete más potente del mundo para enviar a la Luna a cuatro personas por primera vez en medio siglo,2026-03-20 09:35
+teherán,3,7,2.41,48,"levante_emv, google_news_internacional",2,Teherán confirma la muerte del portavoz de la Guardia Revolucionaria,2026-03-20 09:35
+ataques,4,10,2.25,45,"20minutos, elespanol, google_news_internacional, heraldo_aragon",4,"Alex de la Croix activa el protocolo de abandono en 'Supervivientes': ""Estoy pasando unos días fatídicos con ataques de pánico""",2026-03-20 09:35
+horóscopo,3,8,2.11,42,okdiario,1,"Predicción del horóscopo para Acuario hoy, viernes 20 de marzo de 2026",2026-03-20 09:35
+predicción,3,8,2.11,42,okdiario,1,"Predicción del horóscopo para Acuario hoy, viernes 20 de marzo de 2026",2026-03-20 09:35
+directo,4,11,2.05,40,"google_news_politica, heraldo_aragon, elespanol, okdiario",4,DIRECTO | Sánchez comparece para anunciar su plan de medidas contra la guerra - The Objective,2026-03-20 09:35
