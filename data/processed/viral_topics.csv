@@ -1,31 +1,35 @@
 keyword,count_now,count_base,ratio,viral_score,sources,n_sources,sample_title,detected_at
-fallas,6,4,10.87,100,"levante_emv, heraldo_aragon",2,Xàtiva recupera (casi) la normalidad tras las Fallas,2026-03-20 12:05
-convocatoria,3,1,21.74,100,"okdiario, elpais, elespanol",3,Convocatoria de España: De la Fuente llama a Joan García,2026-03-20 12:05
-gandia,3,3,7.25,100,levante_emv,1,Gandia vive unas Fallas tranquilas con solo 11 sanciones por incumplir la ordenanza de convivencia,2026-03-20 12:05
-epstein,3,4,5.44,100,"europapress, heraldo_aragon, lavanguardia",3,"Mette-Marit de Noruega afirma haber sido ""manipulada y engañada"" por Epstein: ""Ojalá nunca lo hubiera conocido""",2026-03-20 12:05
-noruega,3,3,7.25,100,"europapress, heraldo_aragon, lavanguardia",3,"Mette-Marit de Noruega afirma haber sido ""manipulada y engañada"" por Epstein: ""Ojalá nunca lo hubiera conocido""",2026-03-20 12:05
-mette-marit,3,4,5.44,100,"europapress, heraldo_aragon, lavanguardia",3,"Mette-Marit de Noruega afirma haber sido ""manipulada y engañada"" por Epstein: ""Ojalá nunca lo hubiera conocido""",2026-03-20 12:05
-mantilla,3,0,5.0,100,"elmundo, elespanol",2,"La Reina Letizia vuelve a utilizar su privilegio del blanco en su visita al Vaticano, pero prescinde de la mantilla",2026-03-20 12:05
-vaticano,3,1,21.74,100,"elmundo, elespanol",2,"La Reina Letizia vuelve a utilizar su privilegio del blanco en su visita al Vaticano, pero prescinde de la mantilla",2026-03-20 12:05
-blanco,3,3,7.25,100,"elmundo, elespanol",2,"La Reina Letizia vuelve a utilizar su privilegio del blanco en su visita al Vaticano, pero prescinde de la mantilla",2026-03-20 12:05
-privilegio,3,0,5.0,100,"elmundo, elespanol",2,"La Reina Letizia vuelve a utilizar su privilegio del blanco en su visita al Vaticano, pero prescinde de la mantilla",2026-03-20 12:05
-letizia,4,1,28.99,100,"elmundo, elespanol",2,"La Reina Letizia vuelve a utilizar su privilegio del blanco en su visita al Vaticano, pero prescinde de la mantilla",2026-03-20 12:05
-calles,3,1,21.74,100,"eldiario, levante_emv",2,Ruta por las mejores calles de Sevilla para poder disfrutar del olor a azahar,2026-03-20 12:05
-murcia,6,2,21.74,100,google_news_internacional,1,Luz verde para la contratación del Festival Internacional de Cine de Murcia - Murcia Actualidad,2026-03-20 12:05
-convoca,3,3,7.25,100,"heraldo_aragon, levante_emv, lavanguardia, okdiario, elpais",5,Renfe convoca 360 plazas de empleo público para Ingeniería y Mantenimiento,2026-03-20 12:05
-libre,3,0,5.0,100,"heraldo_aragon, elpais, google_news_internacional",3,​Sonica celebra una rave al aire libre: el fenómeno tecno que revoluciona Zaragoza​,2026-03-20 12:05
-residuos,3,0,5.0,100,"maldita, okdiario, elcorreo",3,"Francia retira de dos supermercados fresas procedentes de España ""por presencia de residuos de plaguicidas en niveles que superan los límites permitidos"" en marzo de 2026, aunque no detallan ni la sustancia ni la cantidad en la que se detectó",2026-03-20 12:05
-garcía,5,6,6.04,100,"europapress, elcorreo, elmundo, okdiario, elpais",5,"Garriga anuncia que se abre expediente a García-Gallardo y ""seguramente"" se le expulsará de Vox",2026-03-20 12:05
-bombardeos,3,3,7.25,100,"lavanguardia, google_news_internacional",2,Guerra de Irán y los ataques de Israel y EE.UU.: la muerte del portavoz de la Guardia Revolucionaria y la última hora de los bombardeos,2026-03-20 12:05
-lista,5,3,12.08,100,"levante_emv, elmundo, lavanguardia, elpais, google_news_es",5,"Luis Arias, especialista en retina: ""Los nuevos fármacos para la degeneración macular permiten controlar más la visión y son más duraderos""",2026-03-20 12:05
-fuente,6,2,21.74,100,"levante_emv, elcorreo, elmundo, lavanguardia, okdiario",5,De la Fuente convoca a Joan Garcia en la última lista de España antes del Mundial,2026-03-20 12:05
-actualidad,4,2,14.5,100,"elpais, google_news_internacional",2,"Última hora de la actualidad política, en directo | Comienza el Consejo de Ministros sin un acuerdo cerrado entre PSOE y Sumar",2026-03-20 12:05
-antes,5,8,4.53,90,"levante_emv, lavanguardia, elpais, elespanol, elmundo",5,De la Fuente convoca a Joan Garcia en la última lista de España antes del Mundial,2026-03-20 12:05
-última,8,13,4.46,89,"elpais, okdiario, levante_emv, lavanguardia, elespanol",5,"Última hora de la actualidad política, en directo | Comienza el Consejo de Ministros sin un acuerdo cerrado entre PSOE y Sumar",2026-03-20 12:05
-vuelve,3,5,4.35,86,"elpais, elmundo, levante_emv",3,El `vampiro de Humanes’ se matricula en Veterinaria y vuelve a vender sangre de animales a clínicas,2026-03-20 12:05
-celebra,3,6,3.62,72,"google_news_internacional, heraldo_aragon",2,Murcia celebra el Día Internacional de los Bosques con un plan de choque frente a la sequía - Onda Regional de Murcia | ORM,2026-03-20 12:05
-zaragoza,3,7,3.11,62,heraldo_aragon,1,"Avanza Zaragoza advierte sobre los riesgos en el autobús y tranvía: ""Si no lo haces, viajas por tu cuenta""",2026-03-20 12:05
-mundial,4,11,2.64,52,"levante_emv, lavanguardia, elpais, elespanol",4,De la Fuente convoca a Joan Garcia en la última lista de España antes del Mundial,2026-03-20 12:05
-muerte,4,11,2.64,52,"okdiario, lavanguardia, huffington_es",3,Últimas noticias de la guerra Irán en directo hoy 20 marzo 2026 | Ataque aéreo provoca la muerte del portavoz de la Guardia Revolucionaria de Irán,2026-03-20 12:05
-revolucionaria,4,13,2.23,44,"okdiario, lavanguardia",2,Últimas noticias de la guerra Irán en directo hoy 20 marzo 2026 | Ataque aéreo provoca la muerte del portavoz de la Guardia Revolucionaria de Irán,2026-03-20 12:05
-portavoz,4,14,2.07,41,"okdiario, lavanguardia",2,Últimas noticias de la guerra Irán en directo hoy 20 marzo 2026 | Ataque aéreo provoca la muerte del portavoz de la Guardia Revolucionaria de Irán,2026-03-20 12:05
+entra,3,3,6.27,100,"heraldo_aragon, el_confidencial_economia, google_news_internacional",3,Cuándo y a qué hora entra la primavera 2026: el momento del equinoccio,2026-03-20 12:35
+turismo,5,3,10.44,100,"levante_emv, google_news_internacional, sur",3,Calp se sumará a la red internacional de Observatorios de Turismo Sostenible,2026-03-20 12:35
+garcía-gallardo,3,0,5.0,100,"lavanguardia, huffington_es, europapress",3,Vox expedienta a García-Gallardo al que “seguramente” expulsará,2026-03-20 12:35
+muñoz,3,2,9.4,100,"heraldo_aragon, elcorreo, elmundo",3,"Joan García, Mosquera, Barrenetxea y Víctor Muñoz, novedades de España",2026-03-20 12:35
+víctor,3,1,18.8,100,"heraldo_aragon, elcorreo, elmundo",3,"Joan García, Mosquera, Barrenetxea y Víctor Muñoz, novedades de España",2026-03-20 12:35
+barrenetxea,3,0,5.0,100,"heraldo_aragon, elcorreo, elmundo",3,"Joan García, Mosquera, Barrenetxea y Víctor Muñoz, novedades de España",2026-03-20 12:35
+solicita,3,1,18.8,100,"google_news_internacional, google_news_economia",2,Calp solicita la adhesión a la red Internacional de Observatorios de Turismo Sostenible - Alicante Plaza,2026-03-20 12:35
+inflación,3,3,6.27,100,"expansion, google_news_internacional, google_news_es",3,Lagarde vela sus armas ante la temida inflación,2026-03-20 12:35
+indumentaria,3,0,5.0,100,levante_emv,1,Largas colas para las rebajas de la indumentaria fallera,2026-03-20 12:35
+miles,5,2,15.66,100,"okdiario, levante_emv, google_news_internacional, elpais, google_news_es",5,Mónica García se vuelve a reír de los médicos: no les convoca e ignora las miles de consultas anuladas,2026-03-20 12:35
+convoca,4,3,8.35,100,"okdiario, heraldo_aragon, levante_emv, lavanguardia",4,Mónica García se vuelve a reír de los médicos: no les convoca e ignora las miles de consultas anuladas,2026-03-20 12:35
+garcía,7,7,6.27,100,"okdiario, heraldo_aragon, lavanguardia, huffington_es, elespanol",5,Mónica García se vuelve a reír de los médicos: no les convoca e ignora las miles de consultas anuladas,2026-03-20 12:35
+segunda,4,5,5.01,100,"levante_emv, elpais, google_news_es, heraldo_aragon",4,Adidas presenta la segunda equipación de España para el Mundial: precios y donde comprar,2026-03-20 12:35
+lista,7,5,8.77,100,"elcorreo, levante_emv, google_news_internacional, elmundo, lavanguardia",5,Vivián se cae de la lista de la selección española a tres meses del Mundial,2026-03-20 12:35
+sostenible,4,3,8.35,100,"levante_emv, google_news_internacional",2,Calp se sumará a la red internacional de Observatorios de Turismo Sostenible,2026-03-20 12:35
+global,3,2,9.4,100,"sur, google_news_economia, expansion",3,The Axarquía in 9th-century global media,2026-03-20 12:35
+observatorios,4,0,5.0,100,"levante_emv, google_news_internacional",2,Calp se sumará a la red internacional de Observatorios de Turismo Sostenible,2026-03-20 12:35
+soler,3,0,5.0,100,"levante_emv, elcorreo, elmundo",3,¡Mosquera y Carlos Soler a la selección española!: La lista de De la Fuente,2026-03-20 12:35
+selección,4,5,5.01,100,"elcorreo, levante_emv, okdiario, lavanguardia",4,Vivián se cae de la lista de la selección española a tres meses del Mundial,2026-03-20 12:35
+meses,3,3,6.27,100,"elcorreo, sur",2,Vivián se cae de la lista de la selección española a tres meses del Mundial,2026-03-20 12:35
+protección,3,0,5.0,100,"elmundo_espana, maldita, google_news_internacional",3,La Fiscalía investiga la adjudicación de un chalé de protección oficial a una edil del PP de Palencia,2026-03-20 12:35
+mosquera,3,1,18.8,100,"levante_emv, heraldo_aragon, elcorreo",3,¡Mosquera y Carlos Soler a la selección española!: La lista de De la Fuente,2026-03-20 12:35
+fuente,7,3,14.62,100,"levante_emv, google_news_internacional, elcorreo, elmundo, lavanguardia",5,¡Mosquera y Carlos Soler a la selección española!: La lista de De la Fuente,2026-03-20 12:35
+sangre,3,4,4.7,93,"eldiario, elpais",2,Explosivos y reservas de sangre: Dinamarca se preparó para una invasión de Groenlandia por parte de Trump,2026-03-20 12:35
+médicos,3,4,4.7,93,"okdiario, elpais, google_news_es",3,Mónica García se vuelve a reír de los médicos: no les convoca e ignora las miles de consultas anuladas,2026-03-20 12:35
+expertos,3,5,3.76,75,"levante_emv, okdiario",2,La investigación europea sobre el apagón no señala culpables y los expertos lanzan una batería de propuestas para evitar otro colapso,2026-03-20 12:35
+española,5,9,3.48,69,"elcorreo, levante_emv, okdiario, lavanguardia, heraldo_aragon",5,Vivián se cae de la lista de la selección española a tres meses del Mundial,2026-03-20 12:35
+vuelve,3,6,3.13,62,"elcorreo, okdiario, elpais",3,Beñat Prados vuelve con el grupo seis meses después de romperse el cruzado,2026-03-20 12:35
+mundial,6,14,2.69,53,"elcorreo, levante_emv, okdiario, lavanguardia, heraldo_aragon",5,Vivián se cae de la lista de la selección española a tres meses del Mundial,2026-03-20 12:35
+antes,3,7,2.69,53,"google_news_internacional, eldiario, levante_emv, lavanguardia",4,Nápoles prohíbe el consumo de marisco crudo en restaurantes tras un repunte de Hepatitis A - El Mundo,2026-03-20 12:35
+última,7,17,2.58,51,"google_news_economia, google_news_es, lavanguardia, elpais, okdiario",5,"Última hora de las medidas anticrisis, en directo: Sánchez presenta el plan del Gobierno por la crisis de la Guerra de Irán - La Razón",2026-03-20 12:35
+fallas,3,8,2.35,46,"levante_emv, lavanguardia",2,Las tiendas de telas e indumentaria fallera se llenan tan solo un día después de las Fallas,2026-03-20 12:35
+después,4,11,2.28,45,"elcorreo, levante_emv",2,Beñat Prados vuelve con el grupo seis meses después de romperse el cruzado,2026-03-20 12:35
+millones,5,14,2.24,44,"elcorreo, okdiario, google_news_economia, expansion",4,Iberdrola lanza el mayor plan de incentivos de su historia con hasta 400 millones,2026-03-20 12:35
