@@ -959,3 +959,40 @@ except Exception as e:
     import traceback; traceback.print_exc()
 
 print(f"[BRIEFING v2] 🎯 Briefing completado — {now_str}")
+
+# ── Envío Telegram ────────────────────────────────────────
+try:
+    import requests as _req
+    _BOT_TOKEN = "8789958560:AAGRB5opW11gL6m13cXwUAjJcr_bZN2Y9fM"
+    _CHANNEL   = "@sieg_politica"
+    _API       = f"https://api.telegram.org/bot{_BOT_TOKEN}"
+
+    _msg = (
+        f"📡 <b>Narrative Radar — Briefing {turno}</b>\n"
+        f"📅 {today_str} | Riesgo: <b>{nivel_riesgo}</b>\n"
+        f"🌀 Narrativas coordinadas: <b>{n_coord}</b>\n"
+        f"\n"
+        f"📊 Dashboard: https://fake-news-narrative.streamlit.app\n"
+        f"🛰️ SIEG Política: https://politica-nacional-osint.streamlit.app\n"
+        f"© 2026 M. Castillo · mybloggingnotes@gmail.com"
+    )
+
+    _req.post(f"{_API}/sendMessage", json={
+        "chat_id": _CHANNEL,
+        "text": _msg,
+        "parse_mode": "HTML",
+        "disable_web_page_preview": True
+    }, timeout=15)
+    print("[BRIEFING v2] Telegram: mensaje enviado OK")
+
+    if PDF_OUT and os.path.exists(PDF_OUT):
+        with open(PDF_OUT, "rb") as _f:
+            _req.post(f"{_API}/sendDocument", data={
+                "chat_id": _CHANNEL,
+                "caption": f"📄 Briefing completo {turno} — {today_str}",
+                "parse_mode": "HTML"
+            }, files={"document": _f}, timeout=30)
+        print("[BRIEFING v2] Telegram: PDF enviado OK")
+
+except Exception as _e:
+    print(f"[BRIEFING v2] Telegram error: {_e}")
