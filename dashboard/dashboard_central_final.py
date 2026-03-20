@@ -49,7 +49,7 @@ st.sidebar.markdown("""
 
 st.sidebar.markdown("---")
 st.sidebar.markdown("""
-<div style='font-size:0.65rem; opacity:0.35; line-height:1.6; text-align:center'>
+<div style='font-size:0.78rem; opacity:0.55; line-height:1.8; text-align:center'>
     © 2026 M. Castillo<br>
     <a href='mailto:mybloggingnotes@gmail.com'
        style='color:inherit; text-decoration:none'>mybloggingnotes@gmail.com</a><br>
@@ -89,7 +89,37 @@ st.markdown("""
 <meta property='og:url' content='https://fake-news-narrative.streamlit.app'>
 """, unsafe_allow_html=True)
 
-st.title("Centro de Mando Narrativo España 🇪🇸")
+st.markdown("""
+<svg width='100%' viewBox='0 0 680 140' xmlns='http://www.w3.org/2000/svg'>
+<style>
+@keyframes scan{{0%{{opacity:.1}}50%{{opacity:.4}}100%{{opacity:.1}}}}
+@keyframes blink{{0%,100%{{opacity:1}}49%{{opacity:1}}50%{{opacity:0}}99%{{opacity:0}}}}
+.sc{{animation:scan 3s ease-in-out infinite}}
+.cu{{animation:blink 1.1s step-end infinite}}
+</style>
+<rect width='680' height='140' rx='4' fill='#0a0e0a' stroke='#1a2e1a'/>
+<rect width='680' height='140' rx='4' fill='none' stroke='#00ff41' stroke-width='0.5' opacity='0.25'/>
+<line x1='0' y1='28' x2='680' y2='28' stroke='#00ff41' stroke-width='0.3' opacity='0.15'/>
+<circle cx='16' cy='14' r='4' fill='#ff5f57'/>
+<circle cx='30' cy='14' r='4' fill='#febc2e'/>
+<circle cx='44' cy='14' r='4' fill='#28c840'/>
+<text x='340' y='19' text-anchor='middle' font-family='monospace' font-size='10' fill='#00ff41' opacity='0.35'>narrative-radar — centro-de-mando-narrativo-espana</text>
+<rect x='14' y='40' width='652' height='1' fill='#00ff41' opacity='0.06' class='sc'/>
+<rect x='14' y='70' width='652' height='1' fill='#00ff41' opacity='0.06' class='sc' style='animation-delay:.8s'/>
+<rect x='14' y='100' width='652' height='1' fill='#00ff41' opacity='0.06' class='sc' style='animation-delay:1.6s'/>
+<text x='18' y='54' font-family='monospace' font-size='10' fill='#00ff41' opacity='0.45'>root@cmne:~$</text>
+<text x='105' y='54' font-family='monospace' font-size='10' fill='#00ff41'>./radar --mode=narrativo --target=spain --desinformacion=ON</text>
+<text x='18' y='72' font-family='monospace' font-size='9' fill='#4ade80' opacity='0.65'>[+] Narrativas monitorizadas | Bulos detectados | Polarizacion medida | Pipeline: OK</text>
+<text x='18' y='105' font-family='monospace' font-size='22' font-weight='bold' fill='#00ff41' letter-spacing='4'>NARRATIVE RADAR</text>
+<text x='310' y='105' font-family='monospace' font-size='13' fill='#00cc33' letter-spacing='2'>Centro de Mando Narrativo</text>
+<text x='310' y='120' font-family='monospace' font-size='10' fill='#009922' opacity='0.7'>Espana · OSINT · Desinformacion · Analisis Narrativo</text>
+<text x='18' y='128' font-family='monospace' font-size='8' fill='#00ff41' opacity='0.3'>© 2026 M.Castillo · mybloggingnotes@gmail.com</text>
+<rect x='614' y='112' width='48' height='14' rx='2' fill='none' stroke='#00ff41' stroke-width='0.5' opacity='0.35'/>
+<text x='638' y='122' font-family='monospace' font-size='8' fill='#00ff41' opacity='0.45' text-anchor='middle'>LIVE</text>
+<circle cx='618' cy='119' r='3' fill='#00ff41' opacity='0.6' class='sc'/>
+<text x='18' y='136' font-family='monospace' font-size='10' fill='#00ff41' opacity='0.5'>root@cmne:~$ <tspan class='cu'>_</tspan></text>
+</svg>
+""", unsafe_allow_html=True)
 st.markdown("Panel central que integra indicadores de narrativas, emociones, polarización y cobertura mediática.")
 
 current_dir = os.path.dirname(os.path.abspath(__file__))
