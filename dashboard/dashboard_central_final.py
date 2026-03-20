@@ -32,9 +32,17 @@ st.sidebar.markdown("""
     <div style='font-weight:600; margin-bottom:6px; font-size:0.8rem'>
         🛰️ Red SIEG OSINT
     </div>
+    <a href='https://mcasrom.github.io/sieg-osint' target='_blank'
+       style='display:block; color:#4ade80; text-decoration:none; margin-bottom:4px'>
+        🌐 Portal SIEG OSINT
+    </a>
     <a href='https://politica-nacional-osint.streamlit.app' target='_blank'
        style='display:block; color:#4ade80; text-decoration:none; margin-bottom:4px'>
         📊 SIEG Política Nacional
+    </a>
+    <a href='https://sieg-radar-electoral.streamlit.app' target='_blank'
+       style='display:block; color:#4ade80; text-decoration:none; margin-bottom:4px'>
+        🗳️ España Vota 2026
     </a>
     <a href='https://t.me/sieg_politica' target='_blank'
        style='display:block; color:#4ade80; text-decoration:none; margin-bottom:4px'>
