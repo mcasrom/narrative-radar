@@ -18,53 +18,27 @@ sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import streamlit as st
 
 # ─────────────────────────────────────────────
-# PAYWALL — Acceso por password
+# Acceso libre — sin paywall
 # ─────────────────────────────────────────────
-import hashlib as _hashlib
+FREE_TABS = list(range(50))
+_AUTH_OK  = True  # todos los módulos accesibles
 
-def _check_password():
-    """Devuelve True si el usuario introduce la password correcta"""
-    FREE_TABS  = [0,1,5,14]  # tabs gratuitos: Radar, Emocional, Tendencias, Personajes
-    def _hash(p): return _hashlib.sha512(p.encode()).hexdigest()
-
-    VALID_HASHES = set()
-    try:
-        VALID_HASHES.add(st.secrets["ADMIN_HASH"])
-        VALID_HASHES.add(st.secrets["MONTHLY_HASH"])
-    except:
-        VALID_HASHES.add("1b22a27d292e9f379433bd7c86abb6573e35d84f02dcd772226fe6ccc00b1ccd021d31936e9d7c0e636305886261c3da1fcd417cea59a00ab32166d05227d2cc")
-
-    if "auth_ok" not in st.session_state:
-        st.session_state.auth_ok = False
-
-    if not st.session_state.auth_ok:
-        st.sidebar.markdown("---")
-        st.sidebar.markdown("### 🔐 Acceso Premium")
-        st.sidebar.markdown("**3€/mes** — acceso completo a los 19 módulos")
-        pwd = st.sidebar.text_input("Password", type="password", key="pwd_input")
-        if st.sidebar.button("Entrar"):
-            if _hash(pwd) in VALID_HASHES:
-                st.session_state.auth_ok = True
-                st.rerun()
-            else:
-                st.sidebar.error("Password incorrecta")
-        st.sidebar.markdown("---")
-        st.sidebar.markdown("""
-<div style='background:#1A1D24;border:1px solid #C00000;border-radius:8px;padding:12px;text-align:center'>
-<div style='font-size:1.1em;font-weight:bold;color:#C00000'>🔐 Acceso Premium</div>
-<div style='font-size:0.85em;color:#aaa;margin:6px 0'>19 módulos completos<br>Briefing PDF diario<br>Alertas en tiempo real</div>
-<div style='font-size:1.3em;font-weight:bold;color:#fff;margin:8px 0'>3€ / mes</div>
-<a href='https://ko-fi.com/m_castillo' target='_blank' style='display:inline-block;background:#C00000;color:white;padding:8px 18px;border-radius:6px;text-decoration:none;font-weight:bold;font-size:0.9em'>☕ Suscribirse en Ko-fi</a>
-<div style='font-size:0.75em;color:#888;margin-top:8px'>Recibirás la password por email</div>
+# Ko-fi en sidebar
+st.sidebar.markdown("---")
+st.sidebar.markdown("""
+<div style='text-align:center; padding: 8px 0'>
+    <a href='https://ko-fi.com/m_castillo' target='_blank'
+       style='display:inline-block; background:#FF5E5B; color:white;
+              font-weight:600; font-size:0.8rem; padding:8px 16px;
+              border-radius:20px; text-decoration:none'>
+        ☕ Buy me a coffee
+    </a>
+    <div style='font-size:0.68rem; opacity:0.45; margin-top:4px'>
+        Apoya Narrative Radar
+    </div>
 </div>
 """, unsafe_allow_html=True)
-        st.sidebar.markdown("---")
-        st.sidebar.markdown("*✅ Acceso gratuito: 4 módulos*")
-        return False
-    return True
-
-FREE_TABS = [0,1,5,14]  # Radar, Emocional, Tendencias, Personajes
-_AUTH_OK = _check_password()
+st.sidebar.markdown("---")
 import pandas as pd
 import plotly.express as px
 from fpdf import FPDF
@@ -1261,8 +1235,8 @@ for i, tab_name in enumerate(tab_names):
 <div style='font-size:2em'>🔐</div>
 <div style='font-size:1.3em;font-weight:bold;margin:10px 0'>Contenido Premium</div>
 <div style='color:#aaa;margin-bottom:20px'>Este módulo requiere acceso premium.<br>Introduce la password en el panel izquierdo.</div>
-<a href='https://ko-fi.com/m_castillo' target='_blank' style='display:inline-block;background:#C00000;color:white;padding:10px 24px;border-radius:8px;text-decoration:none;font-weight:bold;font-size:1em'>☕ Suscribirse — 3€/mes</a>
-<div style='color:#888;font-size:0.8em;margin-top:12px'>Recibirás la password por email tras la suscripción</div>
+<a href='https://ko-fi.com/m_castillo' target='_blank' style='display:inline-block;background:#FF5E5B;color:white;padding:10px 24px;border-radius:8px;text-decoration:none;font-weight:bold;font-size:1em'>☕ Apoya el proyecto</a>
+<div style='color:#888;font-size:0.8em;margin-top:12px'>Acceso libre · Si te resulta útil, invítame a un café</div>
 </div>
 """, unsafe_allow_html=True)
             col1, col2, col3 = st.columns(3)
