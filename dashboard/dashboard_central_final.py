@@ -25,6 +25,40 @@ _AUTH_OK  = True  # todos los módulos accesibles
 
 # Ko-fi en sidebar
 st.sidebar.markdown("---")
+
+# Links cruzados + copyright
+st.sidebar.markdown("""
+<div style='font-size:0.75rem; line-height:1.8; opacity:0.75'>
+    <div style='font-weight:600; margin-bottom:6px; font-size:0.8rem'>
+        🛰️ Red SIEG OSINT
+    </div>
+    <a href='https://politica-nacional-osint.streamlit.app' target='_blank'
+       style='display:block; color:#4ade80; text-decoration:none; margin-bottom:4px'>
+        📊 SIEG Política Nacional
+    </a>
+    <a href='https://t.me/sieg_politica' target='_blank'
+       style='display:block; color:#4ade80; text-decoration:none; margin-bottom:4px'>
+        📢 Canal Telegram @sieg_politica
+    </a>
+    <a href='https://ko-fi.com/m_castillo' target='_blank'
+       style='display:block; color:#4ade80; text-decoration:none; margin-bottom:4px'>
+        ☕ ko-fi.com/m_castillo
+    </a>
+</div>
+""", unsafe_allow_html=True)
+
+st.sidebar.markdown("---")
+st.sidebar.markdown("""
+<div style='font-size:0.65rem; opacity:0.35; line-height:1.6; text-align:center'>
+    © 2026 M. Castillo<br>
+    <a href='mailto:mybloggingnotes@gmail.com'
+       style='color:inherit; text-decoration:none'>mybloggingnotes@gmail.com</a><br>
+    Narrative Radar · OSINT · España<br>
+    Análisis narrativo automatizado
+</div>
+""", unsafe_allow_html=True)
+
+st.sidebar.markdown("---")
 st.sidebar.markdown("""
 <div style='text-align:center; padding: 8px 0'>
     <a href='https://ko-fi.com/m_castillo' target='_blank'
@@ -45,7 +79,16 @@ from fpdf import FPDF
 from datetime import datetime
 from audit_tab import render_audit_tab
 
-st.set_page_config(page_title="Centro de Mando Narrativo España", layout="wide")
+st.set_page_config(
+    page_icon="📡",page_title="Centro de Mando Narrativo España", layout="wide")
+st.markdown("""
+<meta name='description' content='Narrative Radar - Sistema OSINT de análisis narrativo y detección de desinformación en España. Vigilancia mediática automatizada en tiempo real.'>
+<meta name='keywords' content='OSINT España, análisis narrativo, desinformación, fake news, radar político, inteligencia mediática, narrativas políticas'>
+<meta property='og:title' content='Narrative Radar - OSINT España'>
+<meta property='og:description' content='Análisis narrativo y detección de desinformación en medios españoles. Sistema automatizado de vigilancia mediática.'>
+<meta property='og:url' content='https://fake-news-narrative.streamlit.app'>
+""", unsafe_allow_html=True)
+
 st.title("Centro de Mando Narrativo España 🇪🇸")
 st.markdown("Panel central que integra indicadores de narrativas, emociones, polarización y cobertura mediática.")
 
