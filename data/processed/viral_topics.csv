@@ -1,52 +1,45 @@
 keyword,count_now,count_base,ratio,viral_score,sources,n_sources,sample_title,detected_at
-garcía-gallardo,3,4,5.25,100,"elcorreo, okdiario, eldiario",3,Vox prepara la expulsión de García-Gallardo por decir «animaladas»,2026-03-20 14:05
-alquiler,4,2,14.0,100,"levante_emv, heraldo_aragon, expansion, europapress, okdiario",5,"El Gobierno congelará ""temporalmente"" los precios de alquiler y prorrogará contratos dos años a pesar de que es ""consciente"" de que no cuenta con los apoyos",2026-03-20 14:05
-cambios,3,3,7.0,100,"levante_emv, okdiario, heraldo_aragon",3,"CSIF denuncia ""acto arbitrario"" de Massanassa al obligar a agentes a cubrir la Ofrenda con cambios de turno",2026-03-20 14:05
-moeve,4,0,5.0,100,"expansion, levante_emv, google_news_es",3,"Moeve  y Naturgy responden a Repsol con una guerra de ofertas ""anticrisis""",2026-03-20 14:05
-sánchez,24,26,6.46,100,"okdiario, elmundo_espana, huffington_es, elconfidencial, europapress",5,Sánchez recupera el mantra de la pandemia que dejó 121.000 muertos en España: «Vamos a salir más fuertes»,2026-03-20 14:05
-reyes,4,5,5.6,100,"europapress, elmundo_espana, 20minutos, okdiario",4,Los Reyes se reúnen con León XIV y le regalan una manta de lana merina y un facsímil del libro de horas de Felipe II,2026-03-20 14:05
-prorrogar,3,1,21.0,100,"levante_emv, heraldo_aragon, europapress, okdiario",4,"El Gobierno congelará ""temporalmente"" los precios de alquiler y prorrogará contratos dos años a pesar de que es ""consciente"" de que no cuenta con los apoyos",2026-03-20 14:05
-evitar,3,3,7.0,100,"levante_emv, okdiario",2,El Conservatorio de Música de Utiel se trasladará para evitar posibles inundaciones como la dana de 2024,2026-03-20 14:05
-naturgy,4,0,5.0,100,"expansion, levante_emv, google_news_es",3,"Moeve  y Naturgy responden a Repsol con una guerra de ofertas ""anticrisis""",2026-03-20 14:05
-cierra,4,1,28.0,100,"okdiario, elpais, google_news_es",3,Lo ha vuelto a hacer: Rosario Sánchez cierra su despacho en el ministerio y aparece en la sede del PSOE en Palma,2026-03-20 14:05
-responden,4,0,5.0,100,"expansion, levante_emv, google_news_es",3,"Moeve  y Naturgy responden a Repsol con una guerra de ofertas ""anticrisis""",2026-03-20 14:05
-celebran,3,2,10.5,100,"elcorreo, heraldo_aragon, europapress",3,5.000 musulmanes de 80 países celebran en Bilbao el fin del Ramadán,2026-03-20 14:05
-5.000,9,2,31.5,100,"elcorreo, google_news_internacional, okdiario, google_news_politica, levante_emv",5,5.000 musulmanes de 80 países celebran en Bilbao el fin del Ramadán,2026-03-20 14:05
-contratos,4,1,28.0,100,"levante_emv, heraldo_aragon, expansion, europapress",4,"El Gobierno congelará ""temporalmente"" los precios de alquiler y prorrogará contratos dos años a pesar de que es ""consciente"" de que no cuenta con los apoyos",2026-03-20 14:05
-repsol,4,1,28.0,100,"expansion, levante_emv, google_news_es",3,"Moeve  y Naturgy responden a Repsol con una guerra de ofertas ""anticrisis""",2026-03-20 14:05
-paliar,3,1,21.0,100,"elpais, expansion, heraldo_aragon",3,"Última hora de la actualidad política, en directo | Sánchez anuncia un plan de 5.000 millones de euros para paliar la subida de precios por la guerra en Irán",2026-03-20 14:05
-ayudas,3,3,7.0,100,"levante_emv, okdiario",2,Per l'Horta denuncia que la Generalitat deja sin ayudas a agricultores de 15 municipios de la comarca,2026-03-20 14:05
-entran,3,1,21.0,100,"levante_emv, google_news_es",2,Moeve y Naturgy responden a Repsol y entran de lleno en la batalla de descuentos en gasolineras,2026-03-20 14:05
-ernesto,3,2,10.5,100,"elpais, google_news_es, levante_emv",3,El adiós de Ernesto Valverde cierra una de las grandes etapas del Athletic moderno,2026-03-20 14:05
-electricidad,3,2,10.5,100,"europapress, okdiario, huffington_es",3,"Sánchez anuncia la rebaja del IVA de la electricidad, el gas, la gasolina y el gasóleo al 10%",2026-03-20 14:05
-batalla,3,4,5.25,100,"levante_emv, google_news_es",2,Moeve y Naturgy responden a Repsol y entran de lleno en la batalla de descuentos en gasolineras,2026-03-20 14:05
-begoña,3,0,5.0,100,"elmundo_espana, elespanol, okdiario",3,Peinado unifica las dos investigaciones a Begoña Gómez y vuelve a preparar el caso para un juicio con jurado,2026-03-20 14:05
-peinado,3,0,5.0,100,"elmundo_espana, elespanol, okdiario",3,Peinado unifica las dos investigaciones a Begoña Gómez y vuelve a preparar el caso para un juicio con jurado,2026-03-20 14:05
-descuentos,3,1,21.0,100,"levante_emv, google_news_es",2,Moeve y Naturgy responden a Repsol y entran de lleno en la batalla de descuentos en gasolineras,2026-03-20 14:05
-gasolineras,4,0,5.0,100,"levante_emv, google_news_es, elcorreo",3,Moeve y Naturgy responden a Repsol y entran de lleno en la batalla de descuentos en gasolineras,2026-03-20 14:05
-valor,3,2,10.5,100,"elmundo_espana, huffington_es, google_news_politica",3,"Sánchez destaca la ""capacidad de diálogo"" como ""un valor de este Gobierno"" tras bloquear Sumar el Consejo de Ministros durante dos horas e insiste en su 'No a la guerra': ""Estoy muy enfadado""",2026-03-20 14:05
-diálogo,3,0,5.0,100,"elmundo_espana, huffington_es, google_news_internacional",3,"Sánchez destaca la ""capacidad de diálogo"" como ""un valor de este Gobierno"" tras bloquear Sumar el Consejo de Ministros durante dos horas e insiste en su 'No a la guerra': ""Estoy muy enfadado""",2026-03-20 14:05
-destaca,3,2,10.5,100,"elmundo_espana, google_news_economia, levante_emv",3,"Sánchez destaca la ""capacidad de diálogo"" como ""un valor de este Gobierno"" tras bloquear Sumar el Consejo de Ministros durante dos horas e insiste en su 'No a la guerra': ""Estoy muy enfadado""",2026-03-20 14:05
-infantil,4,3,9.33,100,"google_news_es, google_news_internacional, levante_emv",3,"Pediatras piden adelantar la vacunación infantil ante el repunte de sarampión, hepatitis A y meningococo B - medicosypacientes.com",2026-03-20 14:05
-piden,3,5,4.2,84,"elpais, google_news_es, elmundo, levante_emv, eldiario",5,Los vecinos de Montecarmelo contra el cantón piden la dimisión de Almeida y Carabante: “Nos tratan como adversarios políticos”,2026-03-20 14:05
-granada,3,5,4.2,84,"google_news_economia, google_news_internacional",2,El subdelegado destaca el liderazgo inversor del Gobierno de España en obra pública en Granada - El Independiente de Granada,2026-03-20 14:05
-millones,10,19,3.68,73,"google_news_internacional, okdiario, elcorreo, google_news_politica, levante_emv",5,"Guerra en Irán, última hora hoy, en directo | Pedro Sánchez: ""El plan contiene 80 medidas y va a movilizar 5.000 millones de euros, con una reducción drástica de la fiscalidad energética"" - El Mundo",2026-03-20 14:05
-vídeo,3,6,3.5,70,"okdiario, newtral, huffington_es",3,El surrealista vídeo viral de Carlos Tévez delirando con Peaky Blinders: lleva millones de visualizaciones,2026-03-20 14:05
-fallas,5,10,3.5,70,"levante_emv, expansion",2,"Los socialistas presentarán una moción para racionalizar el modelo de Fallas: ""Se les ha ido de las manos""",2026-03-20 14:05
-congreso,3,6,3.5,70,"google_news_internacional, okdiario",2,"La UGR organiza el congreso internacional ‘Granada, desde 1526 construyendo el futuro’ - Universidad de Granada",2026-03-20 14:05
-impacto,3,6,3.5,70,"heraldo_aragon, elcorreo, levante_emv",3,"El campo aragonés urge medidas ""reales"" para paliar el impacto de la guerra en Irán: ""Es una vergüenza""",2026-03-20 14:05
-adiós,3,6,3.5,70,"sur, elpais, google_news_es",3,Adiós al líquido anticera en la Semana Santa de Málaga,2026-03-20 14:05
-valverde,3,6,3.5,70,"elpais, google_news_es, levante_emv",3,El adiós de Ernesto Valverde cierra una de las grandes etapas del Athletic moderno,2026-03-20 14:05
-mujer,3,6,3.5,70,"elcorreo, okdiario, eldiario",3,Dos detenidos por abordar a una mujer para robarle la cadena y causarle heridas en el cuello en Vitoria,2026-03-20 14:05
-primera,3,7,3.0,60,"elpais, okdiario, heraldo_aragon",3,Detectada en Cataluña la primera transmisión de una rara dolencia genética a través del semen de un donante anónimo,2026-03-20 14:05
-retro,3,7,3.0,60,"levante_emv, eldiario, sur",3,El Valencia CF presenta su camiseta 'retro',2026-03-20 14:05
-pedro,5,13,2.69,53,"elconfidencial, google_news_internacional, lavanguardia, maldita, google_news_politica",5,"Vicente Vallés, sobre Pedro Sánchez y el Consejo de Ministros: ""Un espectáculo más de la política que se vive en estos tiempos""",2026-03-20 14:05
-cadena,3,8,2.62,52,"google_news_internacional, elcorreo",2,"Benasque pone el ""broche de oro"" a su primer Festival Internacional de Música de Invierno - Cadena SER",2026-03-20 14:05
-presenta,3,8,2.62,52,"levante_emv, google_news_internacional",2,Una veintena de profesionales se presentan a la plaza de coordinador del corredor mediterráneo,2026-03-20 14:05
-denuncia,3,8,2.62,52,"levante_emv, infolibre, expansion",3,Per l'Horta denuncia que la Generalitat deja sin ayudas a agricultores de 15 municipios de la comarca,2026-03-20 14:05
-zaragoza,5,14,2.5,50,heraldo_aragon,1,Vuelo directo desde Zaragoza para visitar la mítica Petra y el Mar Muerto,2026-03-20 14:05
-anuncia,4,12,2.33,46,"okdiario, europapress, google_news_politica, elpais",4,Andalucía anuncia la gratuidad de las guarderías públicas el año que viene: «Favorece la conciliación»,2026-03-20 14:05
-euros,5,16,2.19,43,"google_news_internacional, expansion, maldita, elpais, elcorreo",5,"Guerra en Irán, última hora hoy, en directo | Pedro Sánchez: ""El plan contiene 80 medidas y va a movilizar 5.000 millones de euros, con una reducción drástica de la fiscalidad energética"" - El Mundo",2026-03-20 14:05
-gasolina,3,10,2.1,42,"europapress, huffington_es, expansion",3,"Sánchez anuncia la rebaja del IVA de la electricidad, el gas, la gasolina y el gasóleo al 10%",2026-03-20 14:05
-athletic,3,10,2.1,42,"elpais, google_news_es, levante_emv",3,El adiós de Ernesto Valverde cierra una de las grandes etapas del Athletic moderno,2026-03-20 14:05
-nueva,4,14,2.0,40,"heraldo_aragon, okdiario, sur",3,Culmina el traslado de las piezas del yacimiento de Bílbilis a su nueva ubicación en Mediavega,2026-03-20 14:05
+begoña,10,0,5.0,100,"okdiario, europapress, elcorreo, levante_emv, elpais",5,El juez dice que «no ofrece duda» que Begoña Gómez actuó «desde su prevalente posición de esposa del presidente»,2026-03-20 14:35
+valor,3,2,10.95,100,"google_news_internacional, elmundo_espana, huffington_es",3,"Almeida pone en valor el cambio de modelo de gestión de Madrid Calle 30, empresa 100 % municipal y referente internacional - Ayuntamiento de Madrid",2026-03-20 14:35
+social,3,3,7.3,100,"elcorreo, google_news_politica, levante_emv",3,Sánchez cifra en 80 medidas y 5.000 millones el plan contra la guerra y dice que es «el mayor escudo social de la UE»,2026-03-20 14:35
+espacios,3,0,5.0,100,"eldiario, lavanguardia, 20minutos",3,Los musulmanes de Jumilla celebran el fin del Ramadán en un parking tras la prohibición de PP y Vox de actos islámicos en espacios públicos,2026-03-20 14:35
+bilbao,3,3,7.3,100,"google_news_internacional, elcorreo",2,"Iñárritu presenta en Bilbao la gira internacional de Carne y Arena, una instalación inmersiva para ""sentir"" la migración - Ultima Hora",2026-03-20 14:35
+iñárritu,3,0,5.0,100,"google_news_internacional, elcorreo",2,"Iñárritu presenta en Bilbao la gira internacional de Carne y Arena, una instalación inmersiva para ""sentir"" la migración - Ultima Hora",2026-03-20 14:35
+gómez,8,0,5.0,100,"okdiario, europapress, elcorreo, levante_emv, elpais",5,El juez dice que «no ofrece duda» que Begoña Gómez actuó «desde su prevalente posición de esposa del presidente»,2026-03-20 14:35
+muerto,3,0,5.0,100,"maldita, okdiario, heraldo_aragon",3,No hay pruebas de que Benjamín Netanyahu haya muerto en un ataque aéreo iraní,2026-03-20 14:35
+gasóleo,3,1,21.91,100,"google_news_economia, europapress, elpais",3,"El Gobierno bajará al 10% el IVA de la gasolina, gasóleo, luz y gas dentro de su paquete de medidas anticrisis - Infobae",2026-03-20 14:35
+saben,3,1,21.91,100,"elpais, elespanol",2,Salvador Illa responde al video viral en el que jóvenes catalanes no saben quien preside la Generalitat: “Debemos corregirlo”,2026-03-20 14:35
+música,3,2,10.95,100,"google_news_internacional, levante_emv, 20minutos",3,"Benasque pone el ""broche de oro"" a su primer Festival Internacional de Música de Invierno - Cadena SER",2026-03-20 14:35
+cuánto,3,2,10.95,100,"expansion, huffington_es, okdiario",3,¿Cuánto bajan la gasolina y el diésel con la reducción del IVA de los carburantes del Gobierno?,2026-03-20 14:35
+jurado,5,0,5.0,100,"europapress, elcorreo, elmundo_espana, okdiario",4,El juez Peinado insiste en remitir el 'caso Begoña Gómez' a un jurado popular y cita a las partes el 1 de abril,2026-03-20 14:35
+ayudas,4,4,7.3,100,"europapress, levante_emv, elpais, okdiario",4,El Gobierno prohíbe despedir a las empresas que reciban ayudas públicas relacionadas con la guerra en Irán,2026-03-20 14:35
+peinado,9,0,5.0,100,"europapress, elcorreo, levante_emv, elpais, elmundo_espana",5,El juez Peinado insiste en remitir el 'caso Begoña Gómez' a un jurado popular y cita a las partes el 1 de abril,2026-03-20 14:35
+principal,3,3,7.3,100,"elpais, levante_emv, 20minutos",3,Cae la confianza de los españoles en la sanidad pública y el principal problema son las esperas para ver a un especialista,2026-03-20 14:35
+ciudad,3,3,7.3,100,"maldita, okdiario, 20minutos, heraldo_aragon",4,No hay constancia de llamadas de un “asesor antifraude” alertando de movimientos en tu banco en otra ciudad,2026-03-20 14:35
+reducción,3,1,21.91,100,"levante_emv, expansion, google_news_internacional",3,El Gobierno confirma la reducción del IVA a los carburantes: un ahorro de hasta 30 céntimos por litro,2026-03-20 14:35
+juicio,3,3,7.3,100,"elmundo_espana, okdiario",2,Peinado unifica las dos investigaciones a Begoña Gómez y vuelve a preparar el caso para un juicio con jurado,2026-03-20 14:35
+efectos,5,3,12.17,100,"google_news_politica, levante_emv, elcorreo, 20minutos, lavanguardia",5,España movilizará 5.000 millones de euros para paliar los efectos económicos de la guerra - El Periódico,2026-03-20 14:35
+paliar,4,4,7.3,100,"google_news_politica, levante_emv, elcorreo, 20minutos",4,España movilizará 5.000 millones de euros para paliar los efectos económicos de la guerra - El Periódico,2026-03-20 14:35
+alquiler,4,3,9.74,100,"levante_emv, heraldo_aragon, expansion",3,"El Gobierno congelará ""temporalmente"" los precios de alquiler y prorrogará contratos dos años a pesar de que es ""consciente"" de que no cuenta con los apoyos",2026-03-20 14:35
+contratos,4,2,14.6,100,"levante_emv, heraldo_aragon, expansion",3,"El Gobierno congelará ""temporalmente"" los precios de alquiler y prorrogará contratos dos años a pesar de que es ""consciente"" de que no cuenta con los apoyos",2026-03-20 14:35
+5.000,8,8,7.3,100,"google_news_politica, levante_emv, elcorreo, infolibre, google_news_internacional",5,España movilizará 5.000 millones de euros para paliar los efectos económicos de la guerra - El Periódico,2026-03-20 14:35
+movilizará,3,1,21.91,100,"google_news_politica, levante_emv, infolibre",3,España movilizará 5.000 millones de euros para paliar los efectos económicos de la guerra - El Periódico,2026-03-20 14:35
+esposa,3,2,10.95,100,"okdiario, elespanol",2,El juez dice que «no ofrece duda» que Begoña Gómez actuó «desde su prevalente posición de esposa del presidente»,2026-03-20 14:35
+celebran,3,3,7.3,100,"eldiario, elcorreo, heraldo_aragon",3,Los musulmanes de Jumilla celebran el fin del Ramadán en un parking tras la prohibición de PP y Vox de actos islámicos en espacios públicos,2026-03-20 14:35
+médicos,4,6,4.87,97,"google_news_es, heraldo_aragon, elcorreo, huffington_es",4,"La huelga nacional de médicos ha tenido un seguimiento del 17,63 por ciento en las instituciones sanitarias del SCS - Gobierno de Canarias",2026-03-20 14:35
+mayor,4,6,4.87,97,"elcorreo, google_news_es",2,Sánchez cifra en 80 medidas y 5.000 millones el plan contra la guerra y dice que es «el mayor escudo social de la UE»,2026-03-20 14:35
+granada,3,5,4.38,87,"google_news_economia, google_news_internacional",2,El subdelegado destaca el liderazgo inversor del Gobierno de España en obra pública en Granada - El Independiente de Granada,2026-03-20 14:35
+aprueba,3,5,4.38,87,"20minutos, expansion",2,"La frase de Sánchez tras el Consejo de Ministros que aprueba las medidas anticrisis: ""Estoy muy enfadado""",2026-03-20 14:35
+escudo,3,5,4.38,87,"elcorreo, google_news_politica",2,Sánchez cifra en 80 medidas y 5.000 millones el plan contra la guerra y dice que es «el mayor escudo social de la UE»,2026-03-20 14:35
+gasolina,6,13,3.37,67,"expansion, elcorreo, google_news_economia, europapress, elpais",5,¿Cuánto bajan la gasolina y el diésel con la reducción del IVA de los carburantes del Gobierno?,2026-03-20 14:35
+sánchez,18,41,3.21,64,"levante_emv, elcorreo, okdiario, elmundo_espana, 20minutos",5,"Peinado asegura que el acceso a la presidencia de Sánchez ""produjo un cambio inmediato y significativo en la trayectoria profesional de Begoña Gómez""",2026-03-20 14:35
+carlos,3,7,3.13,62,"levante_emv, google_news_es, okdiario",3,"Carlos Corberán: Thierry y Ugrinic, bajas en el Valencia CF para Sevilla",2026-03-20 14:35
+netanyahu,3,7,3.13,62,maldita,1,No hay pruebas de que Benjamín Netanyahu haya muerto en un ataque aéreo iraní,2026-03-20 14:35
+huelga,6,16,2.74,54,"lavanguardia, elcorreo, google_news_es, heraldo_aragon, levante_emv",5,La participación en la huelga roza el 40% en el último día de paro del sector docente,2026-03-20 14:35
+ee.uu,3,8,2.74,54,"okdiario, lavanguardia",2,Está en EE.UU. pero no lo parece: la ciudad californiana donde el 77% de sus habitantes hablan español,2026-03-20 14:35
+euros,7,19,2.69,53,"google_news_politica, levante_emv, huffington_es, maldita, infolibre",5,España movilizará 5.000 millones de euros para paliar los efectos económicos de la guerra - El Periódico,2026-03-20 14:35
+millones,9,25,2.63,52,"google_news_politica, levante_emv, google_news_internacional, elcorreo, infolibre",5,España movilizará 5.000 millones de euros para paliar los efectos económicos de la guerra - El Periódico,2026-03-20 14:35
+aragón,3,9,2.43,48,heraldo_aragon,1,​La huelga de médicos en Aragón obliga a suspender 843 operaciones en cinco días en los hospitales del Salud,2026-03-20 14:35
+cadena,3,9,2.43,48,google_news_internacional,1,"Joris y Sotolova, de regreso al Baxi Ferrol tras el parón internacional: vuelve la Liga Femenina, que descorcha su tramo final - Cadena SER",2026-03-20 14:35
+gobierno,19,59,2.35,47,"levante_emv, huffington_es, expansion, lavanguardia, europapress",5,El Gobierno confirma la reducción del IVA a los carburantes: un ahorro de hasta 30 céntimos por litro,2026-03-20 14:35
+pedro,5,16,2.28,45,"20minutos, elconfidencial, google_news_internacional, lavanguardia",4,Estas son las principales medidas anticrisis de las 80 anunciadas por Pedro Sánchez para paliar los efectos de la guerra de Irán,2026-03-20 14:35
