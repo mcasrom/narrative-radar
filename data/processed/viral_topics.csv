@@ -1,15 +1,9 @@
 keyword,count_now,count_base,ratio,viral_score,sources,n_sources,sample_title,detected_at
-publica,5,0,5.0,100,"elmundo_espana, elconfidencial, 20minutos, elpais, huffington_es",5,"El BOE publica las medidas anticrisis del Gobierno por la guerra en Irán, que entran en vigor este domingo",2026-03-21 10:05
-medidas,5,4,10.64,100,"elmundo_espana, google_news_economia, elconfidencial, 20minutos, huffington_es",5,"El BOE publica las medidas anticrisis del Gobierno por la guerra en Irán, que entran en vigor este domingo",2026-03-21 10:05
-vigor,4,1,34.04,100,"elmundo_espana, elconfidencial, 20minutos, huffington_es",4,"El BOE publica las medidas anticrisis del Gobierno por la guerra en Irán, que entran en vigor este domingo",2026-03-21 10:05
-domingo,4,2,17.02,100,"elmundo_espana, elconfidencial, 20minutos, huffington_es",4,"El BOE publica las medidas anticrisis del Gobierno por la guerra en Irán, que entran en vigor este domingo",2026-03-21 10:05
-alcaraz,5,2,21.27,100,"google_news_es, 20minutos, okdiario, elcorreo",4,"Alcaraz ganó a Joao Fonseca en su debut en el Abierto de Miami, torneo en el que hace un año cayó por sorpresa en segunda ronda. Su próximo rival será el estadounidense Sebastian Korda. Consulta todo lo que necesitas saber. - olympics.com",2026-03-21 10:05
-fonseca,5,2,21.27,100,"google_news_es, 20minutos, okdiario, elcorreo",4,"Alcaraz ganó a Joao Fonseca en su debut en el Abierto de Miami, torneo en el que hace un año cayó por sorpresa en segunda ronda. Su próximo rival será el estadounidense Sebastian Korda. Consulta todo lo que necesitas saber. - olympics.com",2026-03-21 10:05
-miami,3,2,12.76,100,"google_news_es, 20minutos",2,"Alcaraz ganó a Joao Fonseca en su debut en el Abierto de Miami, torneo en el que hace un año cayó por sorpresa en segunda ronda. Su próximo rival será el estadounidense Sebastian Korda. Consulta todo lo que necesitas saber. - olympics.com",2026-03-21 10:05
-crisis,3,5,5.11,100,"elmundo_espana, google_news_economia, elconfidencial, 20minutos, huffington_es",5,"El BOE publica las medidas anticrisis del Gobierno por la guerra en Irán, que entran en vigor este domingo",2026-03-21 10:05
-muere,3,0,5.0,100,"20minutos, elcorreo, lavanguardia",3,"Muere Nicholas Brendon, el inolvidable Xander de 'Buffy, cazavampiros'",2026-03-21 10:05
-predicción,3,9,2.84,56,okdiario,1,"Predicción del horóscopo para Piscis hoy, sábado 21 de marzo de 2026",2026-03-21 10:05
-horóscopo,3,9,2.84,56,okdiario,1,"Predicción del horóscopo para Piscis hoy, sábado 21 de marzo de 2026",2026-03-21 10:05
-marzo,5,17,2.5,50,"okdiario, google_news_internacional",2,"Predicción del horóscopo para Piscis hoy, sábado 21 de marzo de 2026",2026-03-21 10:05
-gobierno,3,11,2.32,46,"elmundo_espana, elconfidencial, elpais",3,"El BOE publica las medidas anticrisis del Gobierno por la guerra en Irán, que entran en vigor este domingo",2026-03-21 10:05
-guerra,4,17,2.0,40,"elmundo_espana, levante_emv, google_news_economia, okdiario",4,"El BOE publica las medidas anticrisis del Gobierno por la guerra en Irán, que entran en vigor este domingo",2026-03-21 10:05
+alcaraz,5,5,8.72,100,"20minutos, levante_emv, okdiario, google_news_es",4,"Patrick Mouratoglou, leyenda del tenis: ""Medvedev es uno de los hombres que puede desafiar a Carlos Alcaraz y Jannik Sinner""",2026-03-21 10:35
+fonseca,4,5,6.98,100,"levante_emv, okdiario, google_news_es, 20minutos",4,Alcaraz tumba sin apuros al joven Fonseca en Miami,2026-03-21 10:35
+hombre,3,3,8.72,100,"20minutos, heraldo_aragon, elespanol, levante_emv",4,"Patrick Mouratoglou, leyenda del tenis: ""Medvedev es uno de los hombres que puede desafiar a Carlos Alcaraz y Jannik Sinner""",2026-03-21 10:35
+tiros,3,0,5.0,100,"heraldo_aragon, elespanol, levante_emv",3,Un hombre mata a tiros a una mujer y se dispara contra sí mismo,2026-03-21 10:35
+mujer,4,4,8.72,100,"heraldo_aragon, elespanol, levante_emv",3,Un hombre mata a tiros a una mujer y se dispara contra sí mismo,2026-03-21 10:35
+contra,5,14,3.12,62,"okdiario, heraldo_aragon, elpais, elcorreo",4,"El consejo de Alcaraz a Fonseca a través de su primer partido contra Nadal: «Me destrozó, pero eso ayudó»",2026-03-21 10:35
+euros,4,15,2.33,46,"elcorreo, levante_emv",2,El Gobierno redobla el cerco sobre los precios de las petroleras con multas de hasta seis millones de euros,2026-03-21 10:35
+guerra,4,17,2.05,41,"levante_emv, elmundo_espana, google_news_economia",3,"Nacionalizaciones, guerra cultural, religión... Ayuso acerca su discurso al de Vox mientras prepara al PP de Madrid para las elecciones de 2027",2026-03-21 10:35
