@@ -50,6 +50,9 @@ for source_name, rss_url in RSS_FEEDS.items():
             else:
                 date = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
             cur.execute(
+                # Filtrar fechas futuras
+                if date > datetime.now().strftime("%Y-%m-%d %H:%M:%S"):
+                    date = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
                 "INSERT OR IGNORE INTO news(title, link, source, date) VALUES (?,?,?,?)",
                 (title, link, source_name, date)
             )
@@ -63,7 +66,7 @@ df = pd.read_sql_query("SELECT title, link, source, date FROM news WHERE date >=
 csv_path = os.path.join(PROCESSED_DIR, "news_summary.csv")
 # Filtrar fechas espurias antes de guardar
 df["date"] = pd.to_datetime(df["date"], errors="coerce")
-df = df[df["date"] < pd.Timestamp("2026-04-01")]
+df = df[df["date"] <= pd.Timestamp.now()]
 df.to_csv(csv_path, index=False, encoding="utf-8-sig")
 print(f"[INFO] CSV generado: {csv_path} ({len(df)} registros)")
 conn.close()
