@@ -1,15 +1,21 @@
 keyword,count_now,count_base,ratio,viral_score,sources,n_sources,sample_title,detected_at
-hombre,7,6,10.97,100,"elcorreo, elmundo, huffington_es, elpais, europapress",5,Un hombre mata a tiros a una mujer y después se suicida en Zaragoza,2026-03-21 11:05
-tiros,4,3,12.53,100,"elcorreo, elpais, europapress, heraldo_aragon",4,Un hombre mata a tiros a una mujer y después se suicida en Zaragoza,2026-03-21 11:05
-mujer,7,8,8.22,100,"elcorreo, elmundo, huffington_es, elpais, europapress",5,Un hombre mata a tiros a una mujer y después se suicida en Zaragoza,2026-03-21 11:05
-después,3,3,9.4,100,"elcorreo, huffington_es, europapress",3,Un hombre mata a tiros a una mujer y después se suicida en Zaragoza,2026-03-21 11:05
-suicida,3,1,28.2,100,"elcorreo, huffington_es, elpais, europapress, eldiario",5,Un hombre mata a tiros a una mujer y después se suicida en Zaragoza,2026-03-21 11:05
-alcaraz,4,7,5.37,100,"okdiario, 20minutos, levante_emv",3,Sigue la fiesta española en Miami: triunfo épico de un Landaluce que podría cruzarse con Alcaraz,2026-03-21 11:05
-ataque,4,7,5.37,100,"google_news_internacional, elpais",2,"Última hora del ataque de Estados Unidos e Israel contra Irán, en directo | Irán denuncia un ataque de EE UU e Israel contra la planta de enriquecimiento de uranio de Natanz - EL PAÍS",2026-03-21 11:05
-contra,8,17,4.42,88,"elcorreo, google_news_internacional, elpais, lavanguardia, okdiario",5,Rahm retira la demanda contra el circuito europeo y gana tiempo para negociar,2026-03-21 11:05
-zaragoza,6,14,4.03,80,"elcorreo, elmundo, huffington_es, elpais, heraldo_aragon",5,Un hombre mata a tiros a una mujer y después se suicida en Zaragoza,2026-03-21 11:05
-última,3,7,4.03,80,"elcorreo, google_news_internacional, elpais",3,"Sigue en directo la última hora de la guerra en Oriente Medio: «Estamos abiertos a cualquier iniciativa de mediación», dice Irán",2026-03-21 11:05
-israel,4,10,3.76,75,"google_news_internacional, elpais",2,"Última hora del ataque de Estados Unidos e Israel contra Irán, en directo | Irán denuncia un ataque de EE UU e Israel contra la planta de enriquecimiento de uranio de Natanz - EL PAÍS",2026-03-21 11:05
-directo,3,8,3.52,70,"elcorreo, google_news_internacional, elpais",3,"Sigue en directo la última hora de la guerra en Oriente Medio: «Estamos abiertos a cualquier iniciativa de mediación», dice Irán",2026-03-21 11:05
-unidos,3,11,2.56,51,"google_news_internacional, elpais",2,"Última hora del ataque de Estados Unidos e Israel contra Irán, en directo | Irán denuncia un ataque de EE UU e Israel contra la planta de enriquecimiento de uranio de Natanz - EL PAÍS",2026-03-21 11:05
-estados,3,12,2.35,46,"google_news_internacional, elpais",2,"Última hora del ataque de Estados Unidos e Israel contra Irán, en directo | Irán denuncia un ataque de EE UU e Israel contra la planta de enriquecimiento de uranio de Natanz - EL PAÍS",2026-03-21 11:05
+alejandra,3,1,26.44,100,"elcorreo, google_news_es, lavanguardia",3,Alejandra Rubio espera su segundo hijo con Carlo Costanzia,2026-03-21 11:35
+rubio,3,1,26.44,100,"elcorreo, google_news_es, lavanguardia",3,Alejandra Rubio espera su segundo hijo con Carlo Costanzia,2026-03-21 11:35
+tiros,5,5,8.81,100,"elcorreo, elpais, lavanguardia, europapress",4,Un hombre mata a tiros a una mujer y después se suicida en Zaragoza,2026-03-21 11:35
+hombre,8,9,7.83,100,"20minutos, elcorreo, elmundo, huffington_es, elpais",5,Muere una mujer tiroteada en plena calle en Zaragoza por un hombre que después se ha suicidado,2026-03-21 11:35
+tiroteada,3,0,5.0,100,"20minutos, elmundo, huffington_es",3,Muere una mujer tiroteada en plena calle en Zaragoza por un hombre que después se ha suicidado,2026-03-21 11:35
+mujer,8,11,6.41,100,"20minutos, elcorreo, elmundo, huffington_es, elpais",5,Muere una mujer tiroteada en plena calle en Zaragoza por un hombre que después se ha suicidado,2026-03-21 11:35
+muere,3,4,6.61,100,"20minutos, elmundo, huffington_es",3,Muere una mujer tiroteada en plena calle en Zaragoza por un hombre que después se ha suicidado,2026-03-21 11:35
+fuentes,3,0,5.0,100,"heraldo_aragon, elmundo, europapress",3,"Conmoción en Las Fuentes: ""Le ha disparado en la cabeza, la ha rematado y se ha pegado un tiro""",2026-03-21 11:35
+suicida,4,3,11.75,100,"20minutos, elcorreo, huffington_es, elpais, lavanguardia",5,Muere una mujer tiroteada en plena calle en Zaragoza por un hombre que después se ha suicidado,2026-03-21 11:35
+después,6,4,13.22,100,"europapress, 20minutos, elcorreo, huffington_es, elpais",5,Un padre presuntamente asesina a su hija de tres años y se quita la vida después en Torrevieja,2026-03-21 11:35
+enriquecimiento,3,1,26.44,100,"elespanol, levante_emv, google_news_internacional",3,"EEUU e Israel atacan la planta nuclear iraní de Natanz, la clave en su programa de enriquecimiento nuclear",2026-03-21 11:35
+natanz,4,1,35.25,100,"elespanol, levante_emv, google_news_internacional",3,"EEUU e Israel atacan la planta nuclear iraní de Natanz, la clave en su programa de enriquecimiento nuclear",2026-03-21 11:35
+nuclear,3,2,13.22,100,"elespanol, google_news_internacional",2,"EEUU e Israel atacan la planta nuclear iraní de Natanz, la clave en su programa de enriquecimiento nuclear",2026-03-21 11:35
+planta,3,2,13.22,100,"elespanol, levante_emv, google_news_internacional",3,"EEUU e Israel atacan la planta nuclear iraní de Natanz, la clave en su programa de enriquecimiento nuclear",2026-03-21 11:35
+israel,7,12,5.14,100,"elespanol, levante_emv, google_news_internacional, okdiario",4,"EEUU e Israel atacan la planta nuclear iraní de Natanz, la clave en su programa de enriquecimiento nuclear",2026-03-21 11:35
+última,4,8,4.41,88,"google_news_internacional, okdiario, elcorreo",3,"Guerra en Irán, en directo hoy: última hora de los ataques de EEUU e Israel, conflicto en Oriente Medio y reacciones de Trump - La Razón",2026-03-21 11:35
+directo,4,9,3.92,78,"google_news_internacional, okdiario, elcorreo",3,"Guerra en Irán, en directo hoy: última hora de los ataques de EEUU e Israel, conflicto en Oriente Medio y reacciones de Trump - La Razón",2026-03-21 11:35
+confirma,3,7,3.78,75,"levante_emv, okdiario, lavanguardia",3,Irán confirma un ataque de EEUU e Israel contra su centro de enriquecimiento de uranio en Natanz,2026-03-21 11:35
+zaragoza,7,17,3.63,72,"20minutos, elcorreo, elmundo, huffington_es, elpais",5,Muere una mujer tiroteada en plena calle en Zaragoza por un hombre que después se ha suicidado,2026-03-21 11:35
+ataque,3,9,2.94,58,"levante_emv, google_news_internacional",2,Irán confirma un ataque de EEUU e Israel contra su centro de enriquecimiento de uranio en Natanz,2026-03-21 11:35
