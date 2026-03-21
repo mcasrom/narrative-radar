@@ -1,16 +1,15 @@
 keyword,count_now,count_base,ratio,viral_score,sources,n_sources,sample_title,detected_at
-ataque,3,2,8.23,100,"elpais, 20minutos, elcorreo",3,"Última hora del ataque de Estados Unidos e Israel contra Irán, en directo | Washington levanta las sanciones al petróleo de Irán que ya está cargado en buques",2026-03-21 09:05
-israel,3,3,5.48,100,"elpais, 20minutos, europapress",3,"Última hora del ataque de Estados Unidos e Israel contra Irán, en directo | Washington levanta las sanciones al petróleo de Irán que ya está cargado en buques",2026-03-21 09:05
-militares,3,2,8.23,100,"levante_emv, 20minutos, europapress",3,Aterrizan en Madrid 200 militares españoles evacuados de Irak,2026-03-21 09:05
-españoles,4,3,7.31,100,"levante_emv, 20minutos, europapress",3,Aterrizan en Madrid 200 militares españoles evacuados de Irak,2026-03-21 09:05
-evacuados,3,1,16.45,100,"levante_emv, 20minutos, europapress",3,Aterrizan en Madrid 200 militares españoles evacuados de Irak,2026-03-21 09:05
-cuatro,3,3,5.48,100,"20minutos, elcorreo",2,"Bruin, un clumber spaniel de cuatro años, gana Crufts 2026",2026-03-21 09:05
-confirma,3,3,5.48,100,okdiario,1,Hacienda confirma la ayuda de 100 euros por animal: estos son los requisitos exactos para no perderla,2026-03-21 09:05
-puede,3,4,4.11,82,"levante_emv, 20minutos, google_news_internacional",3,Hollywood puede esperar: Griezmann se queda en el Atlético para despedirse ganando títulos,2026-03-21 09:05
-madrid,5,8,3.43,68,"levante_emv, 20minutos, lavanguardia, okdiario",4,Aterrizan en Madrid 200 militares españoles evacuados de Irak,2026-03-21 09:05
-gobierno,4,7,3.13,62,"eldiario, lavanguardia, levante_emv",3,DOCUMENTO | Consulta el BOE con los dos decretos anticrisis del Gobierno: las medidas económicas y las del alquiler,2026-03-21 09:05
-predicción,3,6,2.74,54,okdiario,1,"Predicción del horóscopo para Sagitario hoy, sábado 21 de marzo de 2026",2026-03-21 09:05
-horóscopo,3,6,2.74,54,okdiario,1,"Predicción del horóscopo para Sagitario hoy, sábado 21 de marzo de 2026",2026-03-21 09:05
-sábado,4,8,2.74,54,"okdiario, heraldo_aragon",2,"Predicción del horóscopo para Sagitario hoy, sábado 21 de marzo de 2026",2026-03-21 09:05
-marzo,5,10,2.74,54,"okdiario, google_news_internacional",2,"Predicción del horóscopo para Sagitario hoy, sábado 21 de marzo de 2026",2026-03-21 09:05
-contra,5,11,2.49,49,"elpais, 20minutos, levante_emv, elcorreo, google_news_internacional",5,"Última hora del ataque de Estados Unidos e Israel contra Irán, en directo | Washington levanta las sanciones al petróleo de Irán que ya está cargado en buques",2026-03-21 09:05
+alcaraz,3,3,7.83,100,"okdiario, elcorreo, elespanol",3,Con paso firme: Alcaraz apaga a Fonseca con una lección de jerarquía,2026-03-21 09:35
+fonseca,3,3,7.83,100,"okdiario, elcorreo, elespanol",3,Con paso firme: Alcaraz apaga a Fonseca con una lección de jerarquía,2026-03-21 09:35
+turismo,3,0,5.0,100,"levante_emv, google_news_internacional, 20minutos",3,"""Está hecho para la gente, no para el turismo"": Essex Market, el único mercado público de Manhattan, debate su futuro",2026-03-21 09:35
+publica,4,0,5.0,100,"elconfidencial, 20minutos, elpais, huffington_es",4,El Gobierno publica las medidas para paliar la crisis que entrarán en vigor este domingo,2026-03-21 09:35
+medidas,3,4,5.87,100,"elconfidencial, 20minutos, huffington_es",3,El Gobierno publica las medidas para paliar la crisis que entrarán en vigor este domingo,2026-03-21 09:35
+vigor,3,1,23.49,100,"elconfidencial, 20minutos, huffington_es",3,El Gobierno publica las medidas para paliar la crisis que entrarán en vigor este domingo,2026-03-21 09:35
+domingo,3,2,11.75,100,"elconfidencial, 20minutos, huffington_es",3,El Gobierno publica las medidas para paliar la crisis que entrarán en vigor este domingo,2026-03-21 09:35
+gasolina,3,2,11.75,100,"20minutos, google_news_economia, eldiario",3,"El BOE publica las medidas anticrisis que bajan el IVA en gasolina, luz, gas y congelan los alquileres: entran en vigor este domingo",2026-03-21 09:35
+última,3,2,11.75,100,"okdiario, google_news_internacional, elpais",3,Última hora de la guerra Irán en directo hoy 21 marzo 2026 | Putin reafirma el respaldo de Rusia a Irán en plena escalada del conflicto,2026-03-21 09:35
+directo,3,3,7.83,100,"okdiario, google_news_internacional, elpais",3,Última hora de la guerra Irán en directo hoy 21 marzo 2026 | Putin reafirma el respaldo de Rusia a Irán en plena escalada del conflicto,2026-03-21 09:35
+israel,3,4,5.87,100,"google_news_internacional, elpais, 20minutos",3,"Guerra en Irán, última hora hoy, en directo | Israel ataca Teherán y Beirut mientras Trump se plantea reducir sus esfuerzos militares en Oriente Próximo - El Mundo",2026-03-21 09:35
+militares,3,3,7.83,100,"google_news_internacional, levante_emv, 20minutos",3,"Guerra en Irán, última hora hoy, en directo | Israel ataca Teherán y Beirut mientras Trump se plantea reducir sus esfuerzos militares en Oriente Próximo - El Mundo",2026-03-21 09:35
+sábado,5,10,3.92,78,"okdiario, google_news_economia, elconfidencial, heraldo_aragon",4,"Predicción del horóscopo para Capricornio hoy, sábado 21 de marzo de 2026",2026-03-21 09:35
+marzo,5,15,2.61,52,"okdiario, google_news_internacional, google_news_economia",3,Última hora de la guerra Irán en directo hoy 21 marzo 2026 | Putin reafirma el respaldo de Rusia a Irán en plena escalada del conflicto,2026-03-21 09:35
