@@ -1,20 +1,34 @@
 keyword,count_now,count_base,ratio,viral_score,sources,n_sources,sample_title,detected_at
-getafe,3,3,7.15,100,"elpais, levante_emv, lavanguardia",3,El Espanyol no levanta cabeza y pierde ante el Getafe a balón parado,2026-03-21 19:35
-robert,3,0,5.0,100,"eldiario, elmundo_internacional, google_news_internacional",3,"Muere Robert Mueller, el exdirector del FBI que investigó a Trump, y el presidente de EEUU lo celebra: ""Me alegro de que esté muerto""",2026-03-21 19:35
-dimona,5,2,17.88,100,"elcorreo, elpais, google_news_internacional, infolibre, levante_emv",5,"Sigue en directo la última hora de la guerra en Oriente Medio: Irán ataca la central de Dimona, epicentro del programa nuclear de Israel",2026-03-21 19:35
-epicentro,5,0,5.0,100,"elcorreo, elpais, google_news_internacional, levante_emv, 20minutos",5,"Sigue en directo la última hora de la guerra en Oriente Medio: Irán ataca la central de Dimona, epicentro del programa nuclear de Israel",2026-03-21 19:35
-programa,3,1,21.46,100,"elcorreo, elpais, google_news_internacional",3,"Sigue en directo la última hora de la guerra en Oriente Medio: Irán ataca la central de Dimona, epicentro del programa nuclear de Israel",2026-03-21 19:35
-nuclear,5,5,7.15,100,"elcorreo, elpais, google_news_internacional, infolibre, levante_emv",5,"Sigue en directo la última hora de la guerra en Oriente Medio: Irán ataca la central de Dimona, epicentro del programa nuclear de Israel",2026-03-21 19:35
-espanyol,3,2,10.73,100,"elpais, levante_emv, lavanguardia",3,El Espanyol no levanta cabeza y pierde ante el Getafe a balón parado,2026-03-21 19:35
-investigó,3,0,5.0,100,"eldiario, elmundo_internacional, google_news_internacional",3,"Muere Robert Mueller, el exdirector del FBI que investigó a Trump, y el presidente de EEUU lo celebra: ""Me alegro de que esté muerto""",2026-03-21 19:35
-mueller,3,0,5.0,100,"eldiario, elmundo_internacional, google_news_internacional",3,"Muere Robert Mueller, el exdirector del FBI que investigó a Trump, y el presidente de EEUU lo celebra: ""Me alegro de que esté muerto""",2026-03-21 19:35
-central,4,0,5.0,100,"elcorreo, elpais, google_news_internacional, infolibre",4,"Sigue en directo la última hora de la guerra en Oriente Medio: Irán ataca la central de Dimona, epicentro del programa nuclear de Israel",2026-03-21 19:35
-muere,3,3,7.15,100,"eldiario, elmundo_internacional, google_news_internacional",3,"Muere Robert Mueller, el exdirector del FBI que investigó a Trump, y el presidente de EEUU lo celebra: ""Me alegro de que esté muerto""",2026-03-21 19:35
-ataca,6,9,4.77,95,"elcorreo, elpais, google_news_internacional, levante_emv, okdiario",5,"Sigue en directo la última hora de la guerra en Oriente Medio: Irán ataca la central de Dimona, epicentro del programa nuclear de Israel",2026-03-21 19:35
-málaga,4,6,4.77,95,sur,1,El resumen más sabroso de Málaga en la mesa,2026-03-21 19:35
-comprobar,3,5,4.29,85,okdiario,1,"Comprobar Bonoloto: resultado y número premiado hoy, sábado 21 de marzo de 2026",2026-03-21 19:35
-misiles,4,8,3.58,71,"elcorreo, levante_emv, okdiario",3,EE UU destruye un almacén subterráneo de misiles iraní para rebajar el riesgo en Ormuz,2026-03-21 19:35
-israel,9,19,3.39,67,"elcorreo, infolibre, elpais, google_news_internacional, levante_emv",5,"Sigue en directo la última hora de la guerra en Oriente Medio: Irán ataca la central de Dimona, epicentro del programa nuclear de Israel",2026-03-21 19:35
-trump,6,15,2.86,57,"france24_es, eldiario, elmundo_internacional, google_news_internacional, levante_emv",5,Trump amenaza con desplegar el ICE en aeropuertos por la parálisis presupuestaria,2026-03-21 19:35
-sábado,3,8,2.68,53,okdiario,1,"Comprobar Bonoloto: resultado y número premiado hoy, sábado 21 de marzo de 2026",2026-03-21 19:35
-marzo,4,11,2.6,52,"sur, okdiario",2,El tiempo en Málaga hoy domingo 22 de marzo: Previsión y estado de las playas,2026-03-21 19:35
+therese,3,2,9.08,100,"20minutos, google_news_es, elmundo",3,"La borrasca Therese golpea con fuerza Canarias: carreteras cortadas, vuelos cancelados y alerta por desprendimientos",2026-03-21 20:05
+mueller,5,2,15.13,100,"google_news_es, levante_emv, google_news_internacional, eldiario",4,"Muere Robert Mueller, el exdirector del FBI que investigó a Trump por la supuesta trama rusa - RTVE.es",2026-03-21 20:05
+celebra,3,2,9.08,100,"google_news_internacional, eldiario",2,Orbán celebra a Abascal como líder de la ultraderecha europea - ABC,2026-03-21 20:05
+nuclear,4,4,6.05,100,"france24_es, elpais, google_news_internacional, elcorreo, infolibre",5,Israel confirma ataque iraní contra ciudad que alberga una de sus instalaciones nucleares,2026-03-21 20:05
+programa,3,2,9.08,100,"elpais, google_news_internacional, elcorreo",3,"Última hora del ataque de Estados Unidos e Israel contra Irán, en directo | Irán ataca la central de Dimona, epicentro del programa nuclear de Israel",2026-03-21 20:05
+epicentro,3,2,9.08,100,"elpais, google_news_internacional, elcorreo",3,"Última hora del ataque de Estados Unidos e Israel contra Irán, en directo | Irán ataca la central de Dimona, epicentro del programa nuclear de Israel",2026-03-21 20:05
+dimona,4,2,12.1,100,"elpais, google_news_internacional, elcorreo, infolibre",4,"Última hora del ataque de Estados Unidos e Israel contra Irán, en directo | Irán ataca la central de Dimona, epicentro del programa nuclear de Israel",2026-03-21 20:05
+central,4,0,5.0,100,"elpais, google_news_internacional, elcorreo, infolibre",4,"Última hora del ataque de Estados Unidos e Israel contra Irán, en directo | Irán ataca la central de Dimona, epicentro del programa nuclear de Israel",2026-03-21 20:05
+israel,9,7,7.78,100,"france24_es, google_news_internacional, elpais, elcorreo, infolibre",5,Israel confirma ataque iraní contra ciudad que alberga una de sus instalaciones nucleares,2026-03-21 20:05
+manifestación,4,1,24.21,100,"eldiario, levante_emv, google_news_es",3,"Una manifestación recorre las calles del centro de València con un grito unánime: ""No a la guerra""",2026-03-21 20:05
+trama,3,0,5.0,100,"google_news_es, levante_emv, google_news_internacional",3,"Muere Robert Mueller, el exdirector del FBI que investigó a Trump por la supuesta trama rusa - RTVE.es",2026-03-21 20:05
+supuesta,3,0,5.0,100,"google_news_es, levante_emv, google_news_internacional, france24_es",4,"Muere Robert Mueller, el exdirector del FBI que investigó a Trump por la supuesta trama rusa - RTVE.es",2026-03-21 20:05
+canarias,3,1,18.16,100,"20minutos, google_news_es, elmundo",3,"La borrasca Therese golpea con fuerza Canarias: carreteras cortadas, vuelos cancelados y alerta por desprendimientos",2026-03-21 20:05
+exdirector,5,0,5.0,100,"google_news_es, levante_emv, google_news_internacional, eldiario",4,"Muere Robert Mueller, el exdirector del FBI que investigó a Trump por la supuesta trama rusa - RTVE.es",2026-03-21 20:05
+investigó,5,2,15.13,100,"google_news_es, levante_emv, google_news_internacional, eldiario",4,"Muere Robert Mueller, el exdirector del FBI que investigó a Trump por la supuesta trama rusa - RTVE.es",2026-03-21 20:05
+robert,5,2,15.13,100,"google_news_es, levante_emv, google_news_internacional, eldiario",4,"Muere Robert Mueller, el exdirector del FBI que investigó a Trump por la supuesta trama rusa - RTVE.es",2026-03-21 20:05
+muere,5,4,7.56,100,"google_news_es, levante_emv, google_news_internacional, eldiario",4,"Muere Robert Mueller, el exdirector del FBI que investigó a Trump por la supuesta trama rusa - RTVE.es",2026-03-21 20:05
+manifestantes,3,0,5.0,100,levante_emv,1,Los manifestantes recorren las calles de València en protesta por la guerra en Oriente Medio,2026-03-21 20:05
+recorren,3,0,5.0,100,levante_emv,1,Los manifestantes recorren las calles de València en protesta por la guerra en Oriente Medio,2026-03-21 20:05
+calles,6,1,36.31,100,"levante_emv, eldiario",2,Los manifestantes recorren las calles de València en protesta por la guerra en Oriente Medio,2026-03-21 20:05
+valència,7,0,5.0,100,"levante_emv, eldiario, google_news_es",3,Los manifestantes recorren las calles de València en protesta por la guerra en Oriente Medio,2026-03-21 20:05
+protesta,3,1,18.16,100,levante_emv,1,Los manifestantes recorren las calles de València en protesta por la guerra en Oriente Medio,2026-03-21 20:05
+guerra,10,6,10.09,100,"levante_emv, eldiario, google_news_internacional, elcorreo, infolibre",5,Los manifestantes recorren las calles de València en protesta por la guerra en Oriente Medio,2026-03-21 20:05
+caravana,3,0,5.0,100,"elmundo, google_news_internacional, eldiario",3,"Cuba al límite: el ""circo"" de la caravana con Pablo Iglesias y del fusil de Silvio Rodríguez",2026-03-21 20:05
+oriente,4,1,24.21,100,"levante_emv, google_news_internacional, elcorreo",3,Los manifestantes recorren las calles de València en protesta por la guerra en Oriente Medio,2026-03-21 20:05
+medio,4,4,6.05,100,"levante_emv, google_news_internacional, elcorreo",3,Los manifestantes recorren las calles de València en protesta por la guerra en Oriente Medio,2026-03-21 20:05
+directo,8,6,8.07,100,"google_news_es, google_news_internacional, elpais, sur, levante_emv",5,"Borrasca Therese en Canarias, en directo: incidencias, carreteras cortadas y última hora del temporal - Canarias7",2026-03-21 20:05
+última,5,2,15.13,100,"google_news_es, google_news_internacional, elpais, elcorreo",4,"Borrasca Therese en Canarias, en directo: incidencias, carreteras cortadas y última hora del temporal - Canarias7",2026-03-21 20:05
+trump,8,10,4.84,96,"google_news_es, google_news_internacional, levante_emv, france24_es, eldiario",5,"Muere Robert Mueller, el exdirector del FBI que investigó a Trump por la supuesta trama rusa - RTVE.es",2026-03-21 20:05
+ataque,4,5,4.84,96,"france24_es, google_news_internacional, elpais, infolibre",4,Israel confirma ataque iraní contra ciudad que alberga una de sus instalaciones nucleares,2026-03-21 20:05
+ataca,3,6,3.03,60,"elpais, google_news_internacional, elcorreo",3,"Última hora del ataque de Estados Unidos e Israel contra Irán, en directo | Irán ataca la central de Dimona, epicentro del programa nuclear de Israel",2026-03-21 20:05
+sánchez,3,7,2.59,51,"levante_emv, google_news_politica, okdiario",3,"Abascal: ""Pedro Sánchez actúa en España como un tirano y como un traidor""",2026-03-21 20:05
+abascal,3,7,2.59,51,"levante_emv, google_news_politica, google_news_internacional",3,"Abascal: ""Pedro Sánchez actúa en España como un tirano y como un traidor""",2026-03-21 20:05
