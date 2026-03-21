@@ -5,8 +5,8 @@
 #
 # CHANGELOG 2026-03-16:
 #   - FIX: use_container_width= reemplazado por width= (deprecado en ST 1.55)
-#         use_container_width=True  → width="stretch"
-#         use_container_width=False → width="content"  (no había ninguno)
+#         width="stretch"  → width="stretch"
+#         width="content" → width="content"  (no había ninguno)
 #   - FIX: MediaFileStorageError — eliminado st.image() con URL externa de Ko-fi;
 #           el botón Ko-fi ya se renderiza como HTML puro vía st.markdown() en todos los bloques.
 #           La imagen .jpg que fallaba era la del githubbutton de Ko-fi cargada en memoria
