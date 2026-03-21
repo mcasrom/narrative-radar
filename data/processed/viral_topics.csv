@@ -1,21 +1,26 @@
 keyword,count_now,count_base,ratio,viral_score,sources,n_sources,sample_title,detected_at
-alejandra,3,1,26.44,100,"elcorreo, google_news_es, lavanguardia",3,Alejandra Rubio espera su segundo hijo con Carlo Costanzia,2026-03-21 11:35
-rubio,3,1,26.44,100,"elcorreo, google_news_es, lavanguardia",3,Alejandra Rubio espera su segundo hijo con Carlo Costanzia,2026-03-21 11:35
-tiros,5,5,8.81,100,"elcorreo, elpais, lavanguardia, europapress",4,Un hombre mata a tiros a una mujer y después se suicida en Zaragoza,2026-03-21 11:35
-hombre,8,9,7.83,100,"20minutos, elcorreo, elmundo, huffington_es, elpais",5,Muere una mujer tiroteada en plena calle en Zaragoza por un hombre que después se ha suicidado,2026-03-21 11:35
-tiroteada,3,0,5.0,100,"20minutos, elmundo, huffington_es",3,Muere una mujer tiroteada en plena calle en Zaragoza por un hombre que después se ha suicidado,2026-03-21 11:35
-mujer,8,11,6.41,100,"20minutos, elcorreo, elmundo, huffington_es, elpais",5,Muere una mujer tiroteada en plena calle en Zaragoza por un hombre que después se ha suicidado,2026-03-21 11:35
-muere,3,4,6.61,100,"20minutos, elmundo, huffington_es",3,Muere una mujer tiroteada en plena calle en Zaragoza por un hombre que después se ha suicidado,2026-03-21 11:35
-fuentes,3,0,5.0,100,"heraldo_aragon, elmundo, europapress",3,"Conmoción en Las Fuentes: ""Le ha disparado en la cabeza, la ha rematado y se ha pegado un tiro""",2026-03-21 11:35
-suicida,4,3,11.75,100,"20minutos, elcorreo, huffington_es, elpais, lavanguardia",5,Muere una mujer tiroteada en plena calle en Zaragoza por un hombre que después se ha suicidado,2026-03-21 11:35
-después,6,4,13.22,100,"europapress, 20minutos, elcorreo, huffington_es, elpais",5,Un padre presuntamente asesina a su hija de tres años y se quita la vida después en Torrevieja,2026-03-21 11:35
-enriquecimiento,3,1,26.44,100,"elespanol, levante_emv, google_news_internacional",3,"EEUU e Israel atacan la planta nuclear iraní de Natanz, la clave en su programa de enriquecimiento nuclear",2026-03-21 11:35
-natanz,4,1,35.25,100,"elespanol, levante_emv, google_news_internacional",3,"EEUU e Israel atacan la planta nuclear iraní de Natanz, la clave en su programa de enriquecimiento nuclear",2026-03-21 11:35
-nuclear,3,2,13.22,100,"elespanol, google_news_internacional",2,"EEUU e Israel atacan la planta nuclear iraní de Natanz, la clave en su programa de enriquecimiento nuclear",2026-03-21 11:35
-planta,3,2,13.22,100,"elespanol, levante_emv, google_news_internacional",3,"EEUU e Israel atacan la planta nuclear iraní de Natanz, la clave en su programa de enriquecimiento nuclear",2026-03-21 11:35
-israel,7,12,5.14,100,"elespanol, levante_emv, google_news_internacional, okdiario",4,"EEUU e Israel atacan la planta nuclear iraní de Natanz, la clave en su programa de enriquecimiento nuclear",2026-03-21 11:35
-última,4,8,4.41,88,"google_news_internacional, okdiario, elcorreo",3,"Guerra en Irán, en directo hoy: última hora de los ataques de EEUU e Israel, conflicto en Oriente Medio y reacciones de Trump - La Razón",2026-03-21 11:35
-directo,4,9,3.92,78,"google_news_internacional, okdiario, elcorreo",3,"Guerra en Irán, en directo hoy: última hora de los ataques de EEUU e Israel, conflicto en Oriente Medio y reacciones de Trump - La Razón",2026-03-21 11:35
-confirma,3,7,3.78,75,"levante_emv, okdiario, lavanguardia",3,Irán confirma un ataque de EEUU e Israel contra su centro de enriquecimiento de uranio en Natanz,2026-03-21 11:35
-zaragoza,7,17,3.63,72,"20minutos, elcorreo, elmundo, huffington_es, elpais",5,Muere una mujer tiroteada en plena calle en Zaragoza por un hombre que después se ha suicidado,2026-03-21 11:35
-ataque,3,9,2.94,58,"levante_emv, google_news_internacional",2,Irán confirma un ataque de EEUU e Israel contra su centro de enriquecimiento de uranio en Natanz,2026-03-21 11:35
+directo,8,11,6.43,100,"elcorreo, google_news_internacional, elpais, okdiario",4,Sigue en directo la última hora de la guerra en Oriente Medio: La Agencia de Energía Atómica pide «moderación» tras el ataque a una central nuclear,2026-03-21 12:05
+última,7,10,6.19,100,"elcorreo, google_news_internacional, elpais, okdiario",4,Sigue en directo la última hora de la guerra en Oriente Medio: La Agencia de Energía Atómica pide «moderación» tras el ataque a una central nuclear,2026-03-21 12:05
+denuncia,3,2,13.27,100,"google_news_internacional, elmundo_internacional",2,"Guerra en Irán, última hora hoy, en directo | Irán denuncia un ataque de EEUU e Israel a su planta nuclear de Natanz - El Mundo",2026-03-21 12:05
+asesina,3,1,26.53,100,"elpais, huffington_es, 20minutos, eldiario, levante_emv",5,La Guardia Civil investiga el asesinato de una niña de tres años como un caso de violencia vicaria en Torrevieja,2026-03-21 12:05
+presuntamente,4,0,5.0,100,"huffington_es, 20minutos, levante_emv, europapress",4,Un padre presuntamente asesina a su hija de tres años y después se suicida en Torrevieja (Alicante),2026-03-21 12:05
+padre,5,2,22.11,100,"huffington_es, 20minutos, levante_emv, europapress",4,Un padre presuntamente asesina a su hija de tres años y después se suicida en Torrevieja (Alicante),2026-03-21 12:05
+vicaria,4,0,5.0,100,"elpais, eldiario, elmundo, lavanguardia",4,La Guardia Civil investiga el asesinato de una niña de tres años como un caso de violencia vicaria en Torrevieja,2026-03-21 12:05
+violencia,4,0,5.0,100,"elpais, eldiario, elmundo, lavanguardia",4,La Guardia Civil investiga el asesinato de una niña de tres años como un caso de violencia vicaria en Torrevieja,2026-03-21 12:05
+asesinato,4,0,5.0,100,"elpais, eldiario, levante_emv, lavanguardia",4,La Guardia Civil investiga el asesinato de una niña de tres años como un caso de violencia vicaria en Torrevieja,2026-03-21 12:05
+investiga,5,0,5.0,100,"elpais, eldiario, elmundo, levante_emv, elcorreo",5,La Guardia Civil investiga el asesinato de una niña de tres años como un caso de violencia vicaria en Torrevieja,2026-03-21 12:05
+civil,3,0,5.0,100,"elpais, eldiario, lavanguardia",3,La Guardia Civil investiga el asesinato de una niña de tres años como un caso de violencia vicaria en Torrevieja,2026-03-21 12:05
+guardia,3,0,5.0,100,"elpais, eldiario, lavanguardia",3,La Guardia Civil investiga el asesinato de una niña de tres años como un caso de violencia vicaria en Torrevieja,2026-03-21 12:05
+natanz,6,3,17.69,100,"google_news_internacional, elmundo_internacional, elespanol, levante_emv",4,Irán confirma un ataque de EEUU e Israel contra su centro de enriquecimiento de uranio en Natanz - Europa Press,2026-03-21 12:05
+enriquecimiento,3,2,13.27,100,"google_news_internacional, elespanol, levante_emv",3,Irán confirma un ataque de EEUU e Israel contra su centro de enriquecimiento de uranio en Natanz - Europa Press,2026-03-21 12:05
+torrevieja,9,1,79.59,100,"levante_emv, elpais, huffington_es, 20minutos, eldiario",5,Un hombre mata a su hija de 3 años en Torrevieja y luego se suicida,2026-03-21 12:05
+arbeloa,3,1,26.53,100,"levante_emv, 20minutos, elmundo",3,"Arbeloa se abraza al 'cholismo' antes del derbi: ""Atacar, atacamos todos. Y defender, defendemos todos""",2026-03-21 12:05
+israel,9,15,5.31,100,"google_news_internacional, elpais, okdiario, elmundo_internacional, elespanol",5,"Última hora del ataque de Estados Unidos e Israel contra Irán, en directo | Irán amplía el alcance de la guerra con un ataque a una base británica-estadounidense en el Índico, a 4.000 kilómetros - EL PAÍS",2026-03-21 12:05
+nuclear,6,3,17.69,100,"elcorreo, google_news_internacional, elmundo_internacional, elespanol",4,Sigue en directo la última hora de la guerra en Oriente Medio: La Agencia de Energía Atómica pide «moderación» tras el ataque a una central nuclear,2026-03-21 12:05
+ataque,10,11,8.04,100,"elcorreo, google_news_internacional, elpais, okdiario, elmundo_internacional",5,Sigue en directo la última hora de la guerra en Oriente Medio: La Agencia de Energía Atómica pide «moderación» tras el ataque a una central nuclear,2026-03-21 12:05
+trump,5,14,3.16,63,"huffington_es, 20minutos, google_news_economia, google_news_internacional, okdiario",5,Uno de los periódicos de referencia de Grecia habla como muy pocos de lo que está haciendo Sánchez con Trump,2026-03-21 12:05
+suicida,3,9,2.95,58,"levante_emv, huffington_es, 20minutos",3,Un hombre mata a su hija de 3 años en Torrevieja y luego se suicida,2026-03-21 12:05
+guerra,9,27,2.95,58,"elcorreo, google_news_internacional, elpais, okdiario, 20minutos",5,Sigue en directo la última hora de la guerra en Oriente Medio: La Agencia de Energía Atómica pide «moderación» tras el ataque a una central nuclear,2026-03-21 12:05
+después,3,11,2.41,48,"huffington_es, 20minutos, europapress",3,Un padre presuntamente asesina a su hija de tres años y después se suicida en Torrevieja (Alicante),2026-03-21 12:05
+contra,7,26,2.38,47,"google_news_internacional, elpais, elmundo_internacional, elcorreo, levante_emv",5,"Última hora del ataque de Estados Unidos e Israel contra Irán, en directo | Irán amplía el alcance de la guerra con un ataque a una base británica-estadounidense en el Índico, a 4.000 kilómetros - EL PAÍS",2026-03-21 12:05
+mundo,3,12,2.21,44,google_news_internacional,1,"Guerra en Irán, última hora hoy, en directo | Irán denuncia un ataque de EEUU e Israel a su planta nuclear de Natanz - El Mundo",2026-03-21 12:05
