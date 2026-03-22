@@ -47,6 +47,10 @@ st.sidebar.markdown("""
     <a href='https://sieg-monitor-boe.streamlit.app' target='_blank'
        style='display:block; color:#4ade80; text-decoration:none; margin-bottom:4px'>
         📋 Monitor BOE
+    <a href='https://sieg-energia.streamlit.app' target='_blank'
+       style='display:block; color:#4ade80; text-decoration:none; margin-bottom:4px'>
+        ⚡ Monitor Energético
+    </a>
     </a>
     <a href='https://t.me/sieg_politica' target='_blank'
        style='display:block; color:#4ade80; text-decoration:none; margin-bottom:4px'>
