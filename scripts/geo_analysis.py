@@ -50,11 +50,18 @@ records = []
 for ccaa, data in CCAA_TOPONYMS.items():
     pattern = "|".join(data["terms"])
     mask    = titles.str.contains(pattern, regex=True, na=False)
-    count   = int(mask.sum())
-    # Top fuentes que mencionan esta CCAA
-    top_sources = df[mask]["source"].value_counts().head(3).to_dict() if count > 0 else {}
+    # Normalizar: máximo 100 noticias por fuente para evitar sesgo regional
+    if mask.sum() > 0:
+        df_mask = df[mask].copy()
+        df_cap  = df_mask.groupby("source").head(100)
+        count   = len(df_cap)
+        top_sources = df_cap["source"].value_counts().head(3).to_dict()
+    else:
+        df_cap = df[mask]
+        count  = 0
+        top_sources = {}
     # Top titulares
-    top_titles  = df[mask]["title"].head(3).tolist() if count > 0 else []
+    top_titles  = df_cap["title"].head(3).tolist() if count > 0 else []
     records.append({
         "ccaa":        ccaa,
         "code":        data["code"],
