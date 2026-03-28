@@ -1,27 +1,27 @@
 persona,mentions,positive,negative,neutral,sentiment_score,top_sources,last_title,last_update
-Trump,450,33,49,368,-0.036,"{'google_news_internacional': 55, '20minutos': 51, 'google_news_es': 45, 'lavanguardia': 41, 'france24_es': 32}","El movimiento 'No Kings' reúne a miles de personas en todo el mundo para protestar contra Trump, el ICE y la - LaSexta",2026-03-28 18:33
-Xi Jinping,429,42,21,366,0.049,"{'google_news_internacional': 55, '20minutos': 44, 'okdiario': 40, 'google_news_es': 33, 'levante_emv': 33}",Misión cumplida: lanzan con éxito el satélite Celeste IOD-1 de la empresa Alén Space,2026-03-28 18:33
-Sánchez,376,21,16,339,0.013,"{'google_news_politica': 84, 'okdiario': 40, '20minutos': 25, 'huffington_es': 24, 'levante_emv': 20}",El PP pide ganarle a Pedro Sánchez para “recuperar España” y terminar con el “desastre político absoluto” del socialismo,2026-03-28 18:33
-Illa,320,13,9,298,0.013,"{'okdiario': 50, '20minutos': 46, 'google_news_es': 25, 'elpais': 21, 'google_news_internacional': 20}",Fabio Di Giannantonio coge carrerilla y repite pole en Austin,2026-03-28 18:33
-Feijóo,266,29,27,210,0.008,"{'google_news_es': 27, 'google_news_politica': 26, 'heraldo_aragon': 22, 'huffington_es': 20, '20minutos': 19}",Cómo evitar que te metan en grupos de WhatsApp sin tu permiso: el truco definitivo,2026-03-28 18:33
-Abascal,207,22,12,173,0.048,"{'levante_emv': 22, 'eldiario': 18, 'huffington_es': 16, 'google_news_es': 15, 'elespanol': 14}","Salinas, exvicealcalde de Vox en Cartagena, denuncia ""espionaje"" para las purgas de Abascal y ""presiones"" para pagar cha",2026-03-28 18:33
-Puente,56,1,5,50,-0.071,"{'heraldo_aragon': 9, 'okdiario': 6, '20minutos': 6, 'google_news_es': 6, 'levante_emv': 5}","Óscar Puente se confiesa en X: “Yo bloqueo, y mucho [...] Sé que a veces me caliento”",2026-03-28 18:33
-Mazón,52,1,1,50,0.0,"{'elpais': 13, 'levante_emv': 6, 'lavanguardia': 6, 'heraldo_aragon': 5, 'okdiario': 4}",Miles de personas recorren València en la primera manifestación contra Mazón tras su citación como testigo,2026-03-28 18:33
-Yolanda Díaz,44,4,1,39,0.068,"{'20minutos': 7, 'levante_emv': 6, 'heraldo_aragon': 5, 'elcorreo': 4, 'maldita': 4}",Sumar propone investigar las casi 2.000 muertes en la mili ya en democracia,2026-03-28 18:33
-Montero MJ,40,2,2,36,0.0,"{'google_news_politica': 15, 'elespanol': 5, 'huffington_es': 4, 'google_news_es': 4, 'heraldo_aragon': 4}",El comentario de Arcadi España que hace reír a María Jesús Montero durante el traspaso de carteras - ElPlural.com,2026-03-28 18:33
-Ayuso,36,3,0,33,0.083,"{'elpais': 9, 'google_news_es': 8, 'eldiario': 5, 'okdiario': 2, 'google_news_politica': 2}","Sanciones por comida caducada seis meses antes, falta de personal o suciedad en las residencias público-privadas del Mad",2026-03-28 18:33
-Meloni,28,0,17,11,-0.607,"{'google_news_internacional': 4, 'google_news_es': 4, 'levante_emv': 3, 'elpais': 3, 'lavanguardia': 3}","Decenas de miles de personas protestan en Roma contra la guerra, Trump y las políticas de Giorgia Meloni",2026-03-28 18:33
-Putin,23,1,0,22,0.043,"{'google_news_es': 6, 'elmundo_internacional': 3, 'elespanol': 3, 'huffington_es': 2, '20minutos': 2}",Putin pide a los oligarcas rusos que hagan donaciones para la conquista del Donbás,2026-03-28 18:33
-Puigdemont,21,5,2,14,0.143,"{'lavanguardia': 4, 'elespanol': 3, '20minutos': 3, 'okdiario': 3, 'google_news_es': 2}",Junts implosiona en Sabadell y anuncia acciones legales contra Turull y el líder local,2026-03-28 18:33
-Lula,17,1,0,16,0.059,"{'google_news_es': 4, 'google_news_internacional': 2, 'elpais': 2, 'eldiario': 2, '20minutos': 2}","Lula frena una investigación parlamentaria a 'Lulinha', uno de sus hijos, dueño de una ""empresa fantasma"" en España",2026-03-28 18:33
-Modi,15,0,0,15,0.0,"{'heraldo_aragon': 4, 'google_news_es': 3, 'okdiario': 2, '20minutos': 2, 'lavanguardia': 1}","Muere a los 31 años Jaime Martínez, dibujante e hijo de la modista Sole Alonso",2026-03-28 18:33
-Milei,7,0,1,6,-0.143,"{'okdiario': 2, 'infolibre': 2, 'levante_emv': 1, 'google_news_es': 1, 'elpais': 1}",La crisis económica en Argentina y los escándalos de corrupción minan la popularidad de Milei,2026-03-28 18:33
-Zelenski,6,0,0,6,0.0,"{'google_news_internacional': 2, 'france24_es': 1, 'google_news_es': 1, 'huffington_es': 1, 'lavanguardia': 1}",Drones rusos dejan cuatro muertos e impactan hospital materno; Zelenski sigue gira por el Golfo,2026-03-28 18:33
-Jamenei,5,1,0,4,0.2,"{'20minutos': 2, 'okdiario': 1, 'elespanol': 1, 'elmundo': 1}",La Casa Blanca anuncia una inminente reunión con los ayatolás para poner fin a la guerra de Irán con condiciones,2026-03-28 18:33
-Irene Montero,3,0,1,2,-0.333,"{'elespanol': 2, 'huffington_es': 1}","El Consejo de Estado ya se opuso a indemnizar a la jurista que acusa a Irene Montero ante el juez de ""expoliar"" su traba",2026-03-28 18:33
-Rajoy,2,0,1,1,-0.5,"{'levante_emv': 1, 'elmundo_espana': 1}",El PSOE de Torrent denuncia que el Ayuntamiento desmonta una exposición del Santo Cáliz para acoger la presentación del ,2026-03-28 18:33
-Starmer,1,0,0,1,0.0,{'eldiario': 1},Crece la presión a Starmer para que el Reino Unido vuelva al mercado único de la UE,2026-03-28 18:33
-Scholz,0,0,0,0,0.0,,,2026-03-28 18:33
-Macron,0,0,0,0,0.0,,,2026-03-28 18:33
-Erdogan,0,0,0,0,0.0,,,2026-03-28 18:33
-Trudeau,0,0,0,0,0.0,,,2026-03-28 18:33
+Trump,449,33,50,366,-0.038,"{'google_news_internacional': 53, '20minutos': 52, 'google_news_es': 44, 'lavanguardia': 41, 'france24_es': 32}",Así informan a Trump sobre la guerra en Irán: vídeos cortos con muchas explosiones en la nueva Sala de Crisis de la Casa,2026-03-28 19:03
+Xi Jinping,430,42,21,367,0.049,"{'google_news_internacional': 55, '20minutos': 44, 'okdiario': 40, 'google_news_es': 33, 'levante_emv': 33}",Armada de México localiza los dos veleros desaparecidos que llevan ayuda humanitaria a Cuba,2026-03-28 19:03
+Sánchez,374,21,16,337,0.013,"{'google_news_politica': 83, 'okdiario': 40, '20minutos': 25, 'huffington_es': 24, 'levante_emv': 19}",El PP pide ganarle a Pedro Sánchez para “recuperar España” y terminar con el “desastre político absoluto” del socialismo,2026-03-28 19:03
+Illa,320,13,9,298,0.013,"{'okdiario': 50, '20minutos': 46, 'google_news_es': 25, 'elpais': 21, 'google_news_internacional': 20}",Fabio Di Giannantonio coge carrerilla y repite pole en Austin,2026-03-28 19:03
+Feijóo,266,29,27,210,0.008,"{'google_news_es': 27, 'google_news_politica': 26, 'heraldo_aragon': 22, 'huffington_es': 20, '20minutos': 19}",Cómo evitar que te metan en grupos de WhatsApp sin tu permiso: el truco definitivo,2026-03-28 19:03
+Abascal,205,22,12,171,0.049,"{'levante_emv': 21, 'eldiario': 18, 'huffington_es': 16, 'google_news_es': 15, 'elespanol': 14}","Salinas, exvicealcalde de Vox en Cartagena, denuncia ""espionaje"" para las purgas de Abascal y ""presiones"" para pagar cha",2026-03-28 19:03
+Puente,56,1,5,50,-0.071,"{'heraldo_aragon': 9, 'okdiario': 6, '20minutos': 6, 'google_news_es': 6, 'levante_emv': 5}","Óscar Puente se confiesa en X: “Yo bloqueo, y mucho [...] Sé que a veces me caliento”",2026-03-28 19:03
+Mazón,52,1,1,50,0.0,"{'elpais': 13, 'levante_emv': 6, 'lavanguardia': 6, 'heraldo_aragon': 5, 'okdiario': 4}",Miles de personas recorren València en la primera manifestación contra Mazón tras su citación como testigo,2026-03-28 19:03
+Yolanda Díaz,44,4,1,39,0.068,"{'20minutos': 7, 'levante_emv': 6, 'heraldo_aragon': 5, 'elcorreo': 4, 'maldita': 4}",Sumar propone investigar las casi 2.000 muertes en la mili ya en democracia,2026-03-28 19:03
+Montero MJ,40,2,2,36,0.0,"{'google_news_politica': 15, 'elespanol': 5, 'huffington_es': 4, 'google_news_es': 4, 'heraldo_aragon': 4}",El comentario de Arcadi España que hace reír a María Jesús Montero durante el traspaso de carteras - ElPlural.com,2026-03-28 19:03
+Ayuso,36,3,0,33,0.083,"{'elpais': 9, 'google_news_es': 8, 'eldiario': 5, 'okdiario': 2, 'google_news_politica': 2}","Sanciones por comida caducada seis meses antes, falta de personal o suciedad en las residencias público-privadas del Mad",2026-03-28 19:03
+Meloni,28,0,17,11,-0.607,"{'google_news_internacional': 4, 'google_news_es': 4, 'levante_emv': 3, 'elpais': 3, 'lavanguardia': 3}","Decenas de miles de personas protestan en Roma contra la guerra, Trump y las políticas de Giorgia Meloni",2026-03-28 19:03
+Putin,23,1,0,22,0.043,"{'google_news_es': 6, 'elmundo_internacional': 3, 'elespanol': 3, 'huffington_es': 2, '20minutos': 2}",Putin pide a los oligarcas rusos que hagan donaciones para la conquista del Donbás,2026-03-28 19:03
+Puigdemont,21,5,2,14,0.143,"{'lavanguardia': 4, 'elespanol': 3, '20minutos': 3, 'okdiario': 3, 'google_news_es': 2}",Junts implosiona en Sabadell y anuncia acciones legales contra Turull y el líder local,2026-03-28 19:03
+Lula,17,1,0,16,0.059,"{'google_news_es': 4, 'google_news_internacional': 2, 'elpais': 2, 'eldiario': 2, '20minutos': 2}","Lula frena una investigación parlamentaria a 'Lulinha', uno de sus hijos, dueño de una ""empresa fantasma"" en España",2026-03-28 19:03
+Modi,15,0,0,15,0.0,"{'heraldo_aragon': 4, 'google_news_es': 3, 'okdiario': 2, '20minutos': 2, 'lavanguardia': 1}","Muere a los 31 años Jaime Martínez, dibujante e hijo de la modista Sole Alonso",2026-03-28 19:03
+Milei,8,0,1,7,-0.125,"{'okdiario': 2, 'infolibre': 2, 'eldiario': 1, 'levante_emv': 1, 'google_news_es': 1}","La vida de lujo del jefe de gabinete de Milei, Manuel Adorni, lo coloca al borde de la imputación",2026-03-28 19:03
+Zelenski,6,0,0,6,0.0,"{'google_news_internacional': 2, 'france24_es': 1, 'google_news_es': 1, 'huffington_es': 1, 'lavanguardia': 1}",Drones rusos dejan cuatro muertos e impactan hospital materno; Zelenski sigue gira por el Golfo,2026-03-28 19:03
+Jamenei,5,1,0,4,0.2,"{'20minutos': 2, 'okdiario': 1, 'elespanol': 1, 'elmundo': 1}",La Casa Blanca anuncia una inminente reunión con los ayatolás para poner fin a la guerra de Irán con condiciones,2026-03-28 19:03
+Irene Montero,3,0,1,2,-0.333,"{'elespanol': 2, 'huffington_es': 1}","El Consejo de Estado ya se opuso a indemnizar a la jurista que acusa a Irene Montero ante el juez de ""expoliar"" su traba",2026-03-28 19:03
+Rajoy,2,0,1,1,-0.5,"{'levante_emv': 1, 'elmundo_espana': 1}",El PSOE de Torrent denuncia que el Ayuntamiento desmonta una exposición del Santo Cáliz para acoger la presentación del ,2026-03-28 19:03
+Starmer,1,0,0,1,0.0,{'eldiario': 1},Crece la presión a Starmer para que el Reino Unido vuelva al mercado único de la UE,2026-03-28 19:03
+Scholz,0,0,0,0,0.0,,,2026-03-28 19:03
+Macron,0,0,0,0,0.0,,,2026-03-28 19:03
+Erdogan,0,0,0,0,0.0,,,2026-03-28 19:03
+Trudeau,0,0,0,0,0.0,,,2026-03-28 19:03
