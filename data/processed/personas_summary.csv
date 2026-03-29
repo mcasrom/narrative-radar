@@ -1,27 +1,27 @@
 persona,mentions,positive,negative,neutral,sentiment_score,top_sources,last_title,last_update
-Trump,503,33,52,418,-0.038,"{'google_news_internacional': 64, '20minutos': 54, 'google_news_es': 51, 'lavanguardia': 47, 'france24_es': 37}","Guerra de Irán, EEUU e Israel en directo hoy | Noticias, última hora de los ataques y reacciones de Trump en vivo",2026-03-29 13:33
-Xi Jinping,485,47,22,416,0.052,"{'google_news_internacional': 64, 'google_news_es': 45, '20minutos': 44, 'okdiario': 43, 'levante_emv': 37}",El Papa León XIV deslegitima a quienes utilizan el nombre de Dios para hacer la guerra en su primer Domingo de Ramos,2026-03-29 13:33
-Sánchez,428,23,20,385,0.007,"{'google_news_politica': 94, 'okdiario': 44, 'huffington_es': 27, 'google_news_es': 25, '20minutos': 25}",Nos preguntáis si países como Turquía o Italia han propuesto a Sánchez para el Nobel de la Paz,2026-03-29 13:33
-Illa,366,15,9,342,0.016,"{'okdiario': 59, '20minutos': 46, 'google_news_es': 28, 'google_news_internacional': 25, 'levante_emv': 23}",Miguel Ángel terminó harto de pintar la Capilla Sixtina por un problema absurdo que hoy la física sabe evitar,2026-03-29 13:33
-Feijóo,283,29,30,224,-0.004,"{'google_news_politica': 30, 'google_news_es': 29, 'heraldo_aragon': 22, 'huffington_es': 21, 'levante_emv': 20}",Las mejores frases e imágenes para mandar por Whatsapp en Semana Santa 2026,2026-03-29 13:33
-Abascal,221,22,14,185,0.036,"{'levante_emv': 24, 'eldiario': 19, 'huffington_es': 18, 'google_news_politica': 17, 'google_news_es': 15}",Esperanza Aguirre afirma que si Vox existe es porque Mariano Rajoy &quot;incumplió&quot; el programa del PP,2026-03-29 13:33
-Mazón,69,1,1,67,0.0,"{'elpais': 15, 'google_news_es': 9, 'lavanguardia': 8, 'levante_emv': 7, 'eldiario': 5}",Los mejores chollos del día en Amazon (29 de marzo): entre el 30% y el 78% de descuento,2026-03-29 13:33
-Puente,60,1,5,54,-0.067,"{'heraldo_aragon': 10, 'okdiario': 7, '20minutos': 6, 'google_news_es': 6, 'levante_emv': 5}",China construye un puente ferroviario de 1.800 km que atraviesa el desierto del Gobi y desafía las leyes naturales y,2026-03-29 13:33
-Yolanda Díaz,46,4,1,41,0.065,"{'20minutos': 7, 'levante_emv': 6, 'heraldo_aragon': 5, 'google_news_es': 4, 'elcorreo': 4}",¿Quién logró el 'Sunshine Double'? Sinner quiere sumarse a una selecta lista en Miami - ATP Tour,2026-03-29 13:33
-Montero MJ,41,2,2,37,0.0,"{'google_news_politica': 15, 'elespanol': 5, 'huffington_es': 4, 'google_news_es': 4, 'heraldo_aragon': 4}",La papeleta de María Jesús Montero,2026-03-29 13:33
-Ayuso,38,3,0,35,0.079,"{'elpais': 9, 'google_news_es': 8, 'eldiario': 5, 'okdiario': 2, 'google_news_politica': 2}",Feijóo revela qué es lo que le dice la gente cuando le paran por la calle: a Ayuso no le hará mucha gracia,2026-03-29 13:33
-Meloni,28,0,17,11,-0.607,"{'google_news_internacional': 4, 'google_news_es': 4, 'levante_emv': 3, 'elpais': 3, 'lavanguardia': 3}","Decenas de miles de personas protestan en Roma contra la guerra, Trump y las políticas de Giorgia Meloni",2026-03-29 13:33
-Putin,27,1,0,26,0.037,"{'google_news_es': 8, '20minutos': 3, 'elmundo_internacional': 3, 'elespanol': 3, 'elpais_internacional': 2}","Trump sacude el árbol, Putin recoge las nueces",2026-03-29 13:33
-Puigdemont,23,5,2,16,0.13,"{'lavanguardia': 6, 'elespanol': 3, '20minutos': 3, 'okdiario': 3, 'google_news_es': 2}",El líder del PP: “Sánchez está ralentizando la decisión sobre Puigdemont”,2026-03-29 13:33
-Lula,21,1,0,20,0.048,"{'google_news_es': 4, 'eldiario': 3, 'google_news_internacional': 3, 'google_news_politica': 2, 'elpais': 2}",Oltra vuelve con el espejo de Lula y convierte València en la gran batalla política de España… a la espera de Camps - el,2026-03-29 13:33
-Modi,16,0,0,16,0.0,"{'heraldo_aragon': 4, 'google_news_es': 3, 'okdiario': 2, '20minutos': 2, 'google_news_internacional': 1}",Internacional. Incorporan a Musk a una llamada entre Trump y Modi sobre Oriente Medio - Resumen Latinoamericano -,2026-03-29 13:33
-Zelenski,16,0,3,13,-0.188,"{'google_news_internacional': 5, 'google_news_es': 3, 'elmundo_internacional': 2, 'france24_es': 2, 'lavanguardia': 2}","De Zelenski a los gays, pasando por Bruselas: Orban se inventa más enemigos para afrontar sus elecciones más difíciles",2026-03-29 13:33
-Milei,8,0,1,7,-0.125,"{'okdiario': 2, 'infolibre': 2, 'eldiario': 1, 'levante_emv': 1, 'google_news_es': 1}","La vida de lujo del jefe de gabinete de Milei, Manuel Adorni, lo coloca al borde de la imputación",2026-03-29 13:33
-Jamenei,6,2,0,4,0.333,"{'okdiario': 2, '20minutos': 2, 'elespanol': 1, 'elmundo': 1}",Tailandia llega a un acuerdo con los ayatolás de Irán para garantizar el paso de petróleo por Ormuz,2026-03-29 13:33
-Rajoy,5,0,1,4,-0.2,"{'levante_emv': 2, 'huffington_es': 1, 'sur': 1, 'elmundo_espana': 1}",Esperanza Aguirre afirma que si Vox existe es porque Mariano Rajoy &quot;incumplió&quot; el programa del PP,2026-03-29 13:33
-Irene Montero,5,0,1,4,-0.2,"{'elespanol': 2, 'elconfidencial': 1, 'heraldo_aragon': 1, 'huffington_es': 1}","La abogada que ha demandado al ministerio de Irene Montero: ""La violencia racista es irreparable""",2026-03-29 13:33
-Starmer,1,0,0,1,0.0,{'eldiario': 1},Crece la presión a Starmer para que el Reino Unido vuelva al mercado único de la UE,2026-03-29 13:33
-Scholz,0,0,0,0,0.0,,,2026-03-29 13:33
-Macron,0,0,0,0,0.0,,,2026-03-29 13:33
-Erdogan,0,0,0,0,0.0,,,2026-03-29 13:33
-Trudeau,0,0,0,0,0.0,,,2026-03-29 13:33
+Trump,504,33,52,419,-0.038,"{'google_news_internacional': 64, '20minutos': 54, 'google_news_es': 51, 'lavanguardia': 47, 'france24_es': 37}",'Make Science Great Again': Sánchez desafía el lema de Trump en bici y a ritmo de Hannah Montana,2026-03-29 14:04
+Xi Jinping,488,47,23,418,0.049,"{'google_news_internacional': 65, 'google_news_es': 46, '20minutos': 44, 'okdiario': 43, 'levante_emv': 38}","León XIV en el Domingo de Ramos: ""¡Depongan las armas, recuerden que son hermanos!""",2026-03-29 14:04
+Sánchez,431,23,20,388,0.007,"{'google_news_politica': 94, 'okdiario': 44, 'huffington_es': 28, 'google_news_es': 26, '20minutos': 25}",Sánchez pone esta canción de &#039;Hannah Montana&#039; y no son pocos los que se acuerdan de sus tuits con Miley Cyrus,2026-03-29 14:04
+Illa,368,15,9,344,0.016,"{'okdiario': 59, '20minutos': 46, 'google_news_es': 29, 'google_news_internacional': 25, 'levante_emv': 23}",Los cernícalos primilla de Las Tablas de Daimiel regresan de África tras su migración,2026-03-29 14:04
+Feijóo,283,29,30,224,-0.004,"{'google_news_politica': 30, 'google_news_es': 29, 'heraldo_aragon': 22, 'huffington_es': 21, 'levante_emv': 20}",Las mejores frases e imágenes para mandar por Whatsapp en Semana Santa 2026,2026-03-29 14:04
+Abascal,221,22,14,185,0.036,"{'levante_emv': 24, 'eldiario': 19, 'huffington_es': 18, 'google_news_politica': 17, 'google_news_es': 15}",Esperanza Aguirre afirma que si Vox existe es porque Mariano Rajoy &quot;incumplió&quot; el programa del PP,2026-03-29 14:04
+Mazón,69,1,1,67,0.0,"{'elpais': 15, 'google_news_es': 9, 'lavanguardia': 8, 'levante_emv': 7, 'eldiario': 5}",Los mejores chollos del día en Amazon (29 de marzo): entre el 30% y el 78% de descuento,2026-03-29 14:04
+Puente,60,1,5,54,-0.067,"{'heraldo_aragon': 10, 'okdiario': 7, '20minutos': 6, 'google_news_es': 6, 'levante_emv': 5}",China construye un puente ferroviario de 1.800 km que atraviesa el desierto del Gobi y desafía las leyes naturales y,2026-03-29 14:04
+Yolanda Díaz,46,4,1,41,0.065,"{'20minutos': 7, 'levante_emv': 6, 'heraldo_aragon': 5, 'google_news_es': 4, 'elcorreo': 4}",¿Quién logró el 'Sunshine Double'? Sinner quiere sumarse a una selecta lista en Miami - ATP Tour,2026-03-29 14:04
+Montero MJ,41,2,2,37,0.0,"{'google_news_politica': 15, 'elespanol': 5, 'huffington_es': 4, 'google_news_es': 4, 'heraldo_aragon': 4}",La papeleta de María Jesús Montero,2026-03-29 14:04
+Ayuso,38,3,0,35,0.079,"{'elpais': 9, 'google_news_es': 8, 'eldiario': 5, 'okdiario': 2, 'google_news_politica': 2}",Feijóo revela qué es lo que le dice la gente cuando le paran por la calle: a Ayuso no le hará mucha gracia,2026-03-29 14:04
+Meloni,28,0,17,11,-0.607,"{'google_news_internacional': 4, 'google_news_es': 4, 'levante_emv': 3, 'elpais': 3, 'lavanguardia': 3}","Decenas de miles de personas protestan en Roma contra la guerra, Trump y las políticas de Giorgia Meloni",2026-03-29 14:04
+Putin,27,1,0,26,0.037,"{'google_news_es': 8, '20minutos': 3, 'elmundo_internacional': 3, 'elespanol': 3, 'elpais_internacional': 2}","Trump sacude el árbol, Putin recoge las nueces",2026-03-29 14:04
+Puigdemont,23,5,2,16,0.13,"{'lavanguardia': 6, 'elespanol': 3, '20minutos': 3, 'okdiario': 3, 'google_news_es': 2}",El líder del PP: “Sánchez está ralentizando la decisión sobre Puigdemont”,2026-03-29 14:04
+Lula,21,1,0,20,0.048,"{'google_news_es': 4, 'eldiario': 3, 'google_news_internacional': 3, 'google_news_politica': 2, 'elpais': 2}",Oltra vuelve con el espejo de Lula y convierte València en la gran batalla política de España… a la espera de Camps - el,2026-03-29 14:04
+Modi,16,0,0,16,0.0,"{'heraldo_aragon': 4, 'google_news_es': 3, 'okdiario': 2, '20minutos': 2, 'google_news_internacional': 1}",Internacional. Incorporan a Musk a una llamada entre Trump y Modi sobre Oriente Medio - Resumen Latinoamericano -,2026-03-29 14:04
+Zelenski,16,0,3,13,-0.188,"{'google_news_internacional': 5, 'google_news_es': 3, 'elmundo_internacional': 2, 'france24_es': 2, 'lavanguardia': 2}","De Zelenski a los gays, pasando por Bruselas: Orban se inventa más enemigos para afrontar sus elecciones más difíciles",2026-03-29 14:04
+Milei,8,0,1,7,-0.125,"{'okdiario': 2, 'infolibre': 2, 'eldiario': 1, 'levante_emv': 1, 'google_news_es': 1}","La vida de lujo del jefe de gabinete de Milei, Manuel Adorni, lo coloca al borde de la imputación",2026-03-29 14:04
+Jamenei,6,2,0,4,0.333,"{'okdiario': 2, '20minutos': 2, 'elespanol': 1, 'elmundo': 1}",Tailandia llega a un acuerdo con los ayatolás de Irán para garantizar el paso de petróleo por Ormuz,2026-03-29 14:04
+Rajoy,5,0,1,4,-0.2,"{'levante_emv': 2, 'huffington_es': 1, 'sur': 1, 'elmundo_espana': 1}",Esperanza Aguirre afirma que si Vox existe es porque Mariano Rajoy &quot;incumplió&quot; el programa del PP,2026-03-29 14:04
+Irene Montero,5,0,1,4,-0.2,"{'elespanol': 2, 'elconfidencial': 1, 'heraldo_aragon': 1, 'huffington_es': 1}","La abogada que ha demandado al ministerio de Irene Montero: ""La violencia racista es irreparable""",2026-03-29 14:04
+Starmer,1,0,0,1,0.0,{'eldiario': 1},Crece la presión a Starmer para que el Reino Unido vuelva al mercado único de la UE,2026-03-29 14:04
+Scholz,0,0,0,0,0.0,,,2026-03-29 14:04
+Macron,0,0,0,0,0.0,,,2026-03-29 14:04
+Erdogan,0,0,0,0,0.0,,,2026-03-29 14:04
+Trudeau,0,0,0,0,0.0,,,2026-03-29 14:04
