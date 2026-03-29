@@ -62,6 +62,7 @@ echo "[$timestamp] 🔹 Rotando logs..." >> "$LOG_FILE"
 
 # Git push solo si hay cambios reales
 echo "[$timestamp] 🔹 Sincronizando con GitHub..." >> "$LOG_FILE"
+python3 "$BASE_DIR/scripts/update_metadata.py" >> "$LOG_FILE" 2>&1
 cd "$BASE_DIR"
 git add data/processed/ news.db 2>/dev/null || true
 
