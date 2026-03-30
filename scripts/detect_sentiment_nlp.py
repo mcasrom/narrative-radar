@@ -157,12 +157,52 @@ def analyze_sentiment(title):
 
     return round(score, 3), label
 
-# Analizar todos los titulares
+# ── Analizar todos los titulares (versión optimizada) ─────────────────────
 import time
 start = time.time()
-results = df["title"].fillna("").apply(lambda t: pd.Series(analyze_sentiment(t), index=["score","sentiment"]))
-df["score"]     = results["score"]
+
+# Versión vectorizada + tqdm para ver progreso
+from tqdm import tqdm
+tqdm.pandas()
+
+def analyze_sentiment(title):
+    if not title or not isinstance(title, str):
+        return 0.0, "neutral"
+   
+    words = title.lower().split()
+    score = 0.0
+    negated = False
+    intensify = 1.0
+    for i, word in enumerate(words):
+        if word in NEGATORS:
+            negated = True
+            continue
+        if word in INTENSIFIERS:
+            intensify = 1.5
+            continue
+        if word in POSITIVE:
+            score += (1.0 * intensify) * (-1 if negated else 1)
+            negated = False
+            intensify = 1.0
+        elif word in NEGATIVE:
+            score += (-1.0 * intensify) * (-1 if negated else 1)
+            negated = False
+            intensify = 1.0
+    if len(words) > 0:
+        score = score / (1 + np.log1p(len(words)))
+    if score > 0.15:
+        label = "positivo"
+    elif score < -0.15:
+        label = "negativo"
+    else:
+        label = "neutral"
+    return round(score, 3), label
+
+# Aplicar con progreso
+results = df["title"].fillna("").progress_apply(lambda t: pd.Series(analyze_sentiment(t), index=["score", "sentiment"]))
+df["score"] = results["score"]
 df["sentiment"] = results["sentiment"]
+
 elapsed = time.time() - start
 print(f"[SENTIMENT] {len(df)} titulares analizados en {elapsed:.2f}s")
 

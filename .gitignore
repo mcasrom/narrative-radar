@@ -235,3 +235,11 @@ patch_*.py
 data/processed/briefing_history/
 data/processed/.email_locks/
 nohup.out
+*.bak
+*.bak2
+*.old
+nohup.out
+test_pipeline.py
+patch_*.py
+pipeline_*.log.gz
+update_dashboard.sh.bad

@@ -167,8 +167,8 @@ nivel_riesgo = "🔴 ALTO" if score_riesgo >= 60 else ("🟡 MEDIO" if score_rie
 
 # Score calidad datos pipeline
 audit_score = 0
-if not df_audit.empty and "global_score" in df_audit.columns:
-    audit_score = int(df_audit["global_score"].iloc[0])
+if not df_audit.empty and "score_global" in df_audit.columns:
+    audit_score = int(df_audit["score_global"].iloc[0])
 
 print(f"[BRIEFING v2] Datos cargados — noticias:{n_news_hoy} coord:{n_coord} disinfo:{n_disinfo} riesgo:{score_riesgo}")
 
@@ -273,16 +273,35 @@ Responde SOLO con el texto del resumen ejecutivo, sin títulos ni encabezados ad
 
 def generar_resumen_fallback():
     partes = []
-    partes.append(f"El {today_str} el sistema de monitorización registró {n_news_hoy} noticias de {n_fuentes} fuentes activas.")
+    partes.append(f"El {today_str} el sistema C.M.N.E. monitorizó {n_news_hoy} noticias de {n_fuentes} fuentes activas.")
     if n_coord > 0:
-        partes.append(f"Se detectaron {n_coord} eventos de narrativa coordinada, indicando actividad informativa sincronizada entre medios.")
+        partes.append(f"Se detectaron {n_coord} eventos de narrativa coordinada entre medios, indicando sincronización informativa.")
     if n_disinfo > 0:
-        partes.append(f"El detector de desinformación generó {n_disinfo} alertas de alto riesgo.")
+        partes.append(f"El detector de desinformación generó {n_disinfo} alertas de contenido de alto riesgo.")
     if n_viral > 0:
-        partes.append(f"Se identificaron {n_viral} temas virales en explosión.")
+        partes.append(f"Se identificaron {n_viral} temas virales en fase de expansión rápida.")
     if pol_hoy > 0:
-        partes.append(f"El índice de polarización se sitúa en {pol_hoy:.3f}.")
-    partes.append(f"Score de riesgo informativo global: {score_riesgo}/100 ({nivel_riesgo}).")
+        tendencia = "elevada" if pol_hoy > 0.6 else "moderada" if pol_hoy > 0.3 else "baja"
+        partes.append(f"La polarización informativa es {tendencia} ({pol_hoy:.2f}).")
+    try:
+        if not df_personas.empty:
+            top3 = df_personas.nlargest(3, "menciones")[["persona","menciones"]].values
+            names = ", ".join([f"{p} ({int(m)})" for p,m in top3])
+            partes.append(f"Personajes más mencionados: {names}.")
+    except: pass
+    try:
+        if not df_coord.empty and "tema" in df_coord.columns:
+            top_tema = df_coord.iloc[0]["tema"]
+            if top_tema:
+                partes.append("Narrativa coordinada: " + str(top_tema)[:80])
+    except: pass
+    try:
+        if not df_ideo.empty and "entidad" in df_ideo.columns:
+            top = df_ideo.nlargest(1, "menciones").iloc[0]
+            signo = "positivo" if top.get("score", 0) > 0 else "negativo"
+            partes.append(f"Narrativa ideológica dominante: {top['entidad']} con encuadre {signo}.")
+    except: pass
+    partes.append(f"Score de riesgo informativo global: {score_riesgo}/100 ({nivel_riesgo}). Calidad pipeline: {audit_score}/100.")
     return " ".join(partes)
 
 resumen_ia = generar_resumen_ia()

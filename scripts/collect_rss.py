@@ -40,8 +40,10 @@ for source_name, rss_url in RSS_FEEDS.items():
         for entry in feed.entries:
             title = entry.get("title", "").strip()
             link = entry.get("link", "").strip()
-            date = entry.get("published", "") or entry.get("updated", "")
-            if date:
+            date_str = entry.get("published", "") or entry.get("updated", "")
+
+            # Parsear fecha
+            if date_str and hasattr(entry, 'published_parsed') and entry.published_parsed:
                 try:
                     date_obj = datetime(*entry.published_parsed[:6])
                     date = date_obj.strftime("%Y-%m-%d %H:%M:%S")
@@ -49,10 +51,17 @@ for source_name, rss_url in RSS_FEEDS.items():
                     date = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
             else:
                 date = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
-            cur.execute(
-                # Filtrar fechas futuras
-                if date > datetime.now().strftime("%Y-%m-%d %H:%M:%S"):
+
+            # Evitar fechas futuras (cap)
+            try:
+                date_obj = datetime.strptime(date, "%Y-%m-%d %H:%M:%S")
+                if date_obj > datetime.now():
                     date = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+            except:
+                pass
+
+            # Insertar en la base de datos
+            cur.execute(
                 "INSERT OR IGNORE INTO news(title, link, source, date) VALUES (?,?,?,?)",
                 (title, link, source_name, date)
             )
