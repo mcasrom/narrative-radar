@@ -8,6 +8,9 @@ LOG_FILE="$BASE_DIR/pipeline_$(date +%Y%m%d).log"
 VENV_DIR="$BASE_DIR/env"
 
 timestamp() { date +"%Y-%m-%d %H:%M:%S"; }
+LOCK_FILE="/tmp/update_dashboard.lock"
+trap 'rm -f "$LOCK_FILE"; echo "[$(date +%Y-%m-%d\ %H:%M:%S)] TRAP: lock liberado" >> "$LOG_FILE"' EXIT INT TERM
+
 
 echo "[$timestamp] 🔹 === INICIO PIPELINE NARRATIVE RADAR ===" >> "$LOG_FILE"
 
