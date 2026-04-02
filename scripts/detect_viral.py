@@ -20,8 +20,8 @@ HISTORY   = os.path.join(BASE, "data/processed/viral_history.csv")
 EMAIL_CFG = os.path.join(BASE, "config/email.yaml")
 
 VIRAL_THRESHOLD  = 2.0   # 200% de incremento
-WINDOW_CURRENT   = 2     # horas ventana actual
-WINDOW_BASELINE  = 6     # horas ventana baseline
+WINDOW_CURRENT   = 6     # horas ventana actual
+WINDOW_BASELINE  = 24     # horas ventana baseline
 MIN_COUNT        = 3     # mínimo de apariciones para considerar viral
 STOPWORDS = {"de","la","el","en","y","a","que","los","del","se","las","por",
              "un","con","una","su","al","es","para","como","mas","pero","no",
