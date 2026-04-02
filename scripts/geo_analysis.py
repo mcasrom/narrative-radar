@@ -41,8 +41,11 @@ print(f"[GEO] {now} — Iniciando análisis geográfico")
 
 try:
     df = pd.read_csv(INPUT)
+    df["date"] = pd.to_datetime(df["date"], errors="coerce")
+    cutoff = pd.Timestamp.now() - pd.Timedelta(hours=48)
+    df = df[df["date"] >= cutoff]
     titles = df["title"].fillna("").str.lower()
-    print(f"[GEO] {len(df)} noticias analizadas")
+    print(f"[GEO] {len(df)} noticias analizadas (últimas 48h)")
 except Exception as e:
     print(f"[GEO] ERROR: {e}"); exit(1)
 
