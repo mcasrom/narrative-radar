@@ -104,11 +104,27 @@ except Exception as e:
 if not bulos:
     print("[DISINFO] Sin bulos — abortando"); exit(0)
 
-df_bulos = pd.DataFrame(bulos)
-df_bulos["fetched_at"] = now
+df_bulos_new = pd.DataFrame(bulos)
+df_bulos_new["fetched_at"] = now
+if os.path.exists(BULOS_DB):
+    df_bulos_old = pd.read_csv(BULOS_DB)
+    df_bulos = pd.concat([df_bulos_old, df_bulos_new], ignore_index=True)
+    df_bulos = df_bulos.drop_duplicates(subset=["title"], keep="last")
+    # Mantener máximo 90 días de bulos
+    df_bulos = df_bulos.sort_values("fetched_at").tail(2000)
+else:
+    df_bulos = df_bulos_new
 df_bulos.to_csv(BULOS_DB, index=False)
 print(f"[DISINFO] {len(df_bulos)} bulos totales")
 
+# Solo cruzar noticias de las últimas 48h para alertas frescas
+df_news["date_parsed"] = pd.to_datetime(df_news["date"], errors="coerce")
+cutoff = pd.Timestamp.now() - pd.Timedelta(hours=48)
+df_news_recent = df_news[df_news["date_parsed"] >= cutoff].copy()
+if len(df_news_recent) < 50:  # fallback si hay pocas noticias recientes
+    df_news_recent = df_news.tail(200)
+print(f"[DISINFO] {len(df_news_recent)} noticias recientes para cruce")
+df_news = df_news_recent
 news_titles = df_news["title"].fillna("").tolist()
 bulo_claims = df_bulos["claim"].fillna("").tolist()
 
