@@ -16,7 +16,6 @@ try:
 except Exception as e:
     print(f"Error leyendo {INPUT}: {e}"); exit(1)
 df["date"] = pd.to_datetime(df["date"], errors="coerce")
-df = df[df["date"] < pd.Timestamp("2026-04-01")]
 df = df.dropna(subset=["date"])
 df["day"] = df["date"].dt.date
 now = datetime.now().strftime("%Y-%m-%d %H:%M")
