@@ -1145,10 +1145,11 @@ def _mostrar_tab_inner(tab_name, csv_path):
             hist_path = os.path.join(base_dir, "emotions_history.csv")
             if os.path.exists(hist_path):
                 df_hist = pd.read_csv(hist_path)
+                df_hist["last_update"] = pd.to_datetime(df_hist["last_update"])
                 df_hist = df_hist[df_hist["emotion"] != "Neutral"]
-                fig2 = px.line(df_hist, x="cycle", y="count", color="emotion", markers=True,
+                fig2 = px.line(df_hist, x="last_update", y="count", color="emotion", markers=True,
                                title="Evolución emocional desde 6 marzo",
-                               labels={"cycle":"Ciclo","count":"Noticias","emotion":"Emoción"})
+                               labels={"last_update":"Fecha","count":"Noticias","emotion":"Emoción"})
                 st.plotly_chart(fig2, width="stretch")
     elif tab_name == "Polarización" and "date" in df.columns:
         st.markdown("""
