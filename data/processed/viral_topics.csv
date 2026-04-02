@@ -1,58 +1,40 @@
 keyword,count_now,count_base,ratio,viral_score,sources,n_sources,sample_title,detected_at
-resultados,10,6,16.95,100,"sur, elcorreo, levante_emv",3,"Comprobar Lotería del jueves, 02 de abril: resultados de la Bonoloto, del Cupón de la ONCE, Mi día de la ONCE, La Primitiva, de la Lotería Nacional y de EuroDreams",2026-04-03 00:35
-alexia,3,0,5.0,100,"levante_emv, elpais, google_news_es",3,"Alexia Putellas, 500 partidos y toda una vida azulgrana: ""Si me dices en 2012 que todo esto iba a suceder, jamás me lo hubiese imaginado""",2026-04-03 00:35
-bonoloto,7,7,10.17,100,"sur, elcorreo, okdiario, levante_emv",4,"Comprobar Lotería del jueves, 02 de abril: resultados de la Bonoloto, del Cupón de la ONCE, Mi día de la ONCE, La Primitiva, de la Lotería Nacional y de EuroDreams",2026-04-03 00:35
-cupón,4,5,8.14,100,"sur, okdiario, elcorreo",3,"Comprobar Lotería del jueves, 02 de abril: resultados de la Bonoloto, del Cupón de la ONCE, Mi día de la ONCE, La Primitiva, de la Lotería Nacional y de EuroDreams",2026-04-03 00:35
-primitiva,6,1,61.01,100,"sur, elcorreo, levante_emv, okdiario",4,"Comprobar Lotería del jueves, 02 de abril: resultados de la Bonoloto, del Cupón de la ONCE, Mi día de la ONCE, La Primitiva, de la Lotería Nacional y de EuroDreams",2026-04-03 00:35
-nacional,6,10,6.1,100,"google_news_internacional, sur, okdiario, elcorreo, elpais",5,Sigue en directo el Torneo Internacional Íscar Cup Skechers 2026 en Boadilla del Monte - MARCA,2026-04-03 00:35
-eurodreams,3,0,5.0,100,"sur, elcorreo",2,"Comprobar Lotería del jueves, 02 de abril: resultados de la Bonoloto, del Cupón de la ONCE, Mi día de la ONCE, La Primitiva, de la Lotería Nacional y de EuroDreams",2026-04-03 00:35
-guardia,3,4,7.63,100,"elcorreo, sur, okdiario",3,Audi desentierra sus «Leyendas del diseño»: un viaje por 50 años de vanguardia en Ingolstadt,2026-04-03 00:35
-detenidos,5,6,8.47,100,"elconfidencial, elcorreo, levante_emv, sur",4,Detenidos en Murgia (Álava) cinco jovenes por el apuñalamiento a un menor de 17 años,2026-04-03 00:35
-murgia,4,0,5.0,100,"elconfidencial, elcorreo",2,Detenidos en Murgia (Álava) cinco jovenes por el apuñalamiento a un menor de 17 años,2026-04-03 00:35
-apuñalamiento,4,1,40.68,100,"elconfidencial, elcorreo, levante_emv",3,Detenidos en Murgia (Álava) cinco jovenes por el apuñalamiento a un menor de 17 años,2026-04-03 00:35
-resultado,9,8,11.44,100,"sur, elcorreo, levante_emv, okdiario",4,"Comprobar Lotería del jueves, 02 de abril: resultados de la Bonoloto, del Cupón de la ONCE, Mi día de la ONCE, La Primitiva, de la Lotería Nacional y de EuroDreams",2026-04-03 00:35
-comprobar,11,10,11.19,100,"sur, okdiario, elpais, elcorreo",4,"Comprobar Lotería del jueves, 02 de abril: resultados de la Bonoloto, del Cupón de la ONCE, Mi día de la ONCE, La Primitiva, de la Lotería Nacional y de EuroDreams",2026-04-03 00:35
-sorteo,9,7,13.07,100,"sur, okdiario, levante_emv, elpais",4,"Resultado del sorteo La Primitiva del jueves, 02 de abril de 2026",2026-04-03 00:35
-vasco,3,5,6.1,100,"elmundo_espana, google_news_internacional",2,Sánchez privilegia al País Vasco y Cataluña para contentar a sus socios con el 65% de los traspasos,2026-04-03 00:35
-leganés-real,3,2,15.25,100,heraldo_aragon,1,Fotos | Partido Leganés-Real Zaragoza,2026-04-03 00:35
-reparte,3,1,30.51,100,elcorreo,1,La Primitiva del jueves reparte tres alegrías de 66.000 euros: resultados del 2 de abril,2026-04-03 00:35
-eibar,4,0,5.0,100,google_news_es,1,0-1 | El Eibar da continuidad a su gran momento en Anoeta | SD Eibar | Web Oficial - SD Eibar,2026-04-03 00:35
-podemos,4,7,5.81,100,"google_news_es, elpais, eldiario",3,Las negociaciones entre Podemos y Por Andalucía se prolongan más de 10 horas sin que de momento haya acuerdo - Cadena SER,2026-04-03 00:35
-coalición,5,0,5.0,100,"google_news_politica, google_news_internacional, eldiario, google_news_es",4,Feijóo lamenta que España se quede fuera de la coalición de países que intentan reabrir Ormuz - The Objective,2026-04-03 00:35
-2.000,3,6,5.08,100,"google_news_internacional, 20minutos",2,Al menos 40 países acordaron trabajar en conjunto con la OMI para liberar 2.000 buques varados en el estrecho de Ormuz - Infobae,2026-04-03 00:35
-buques,5,1,50.84,100,"google_news_internacional, 20minutos, levante_emv",3,Al menos 40 países acordaron trabajar en conjunto con la OMI para liberar 2.000 buques varados en el estrecho de Ormuz - Infobae,2026-04-03 00:35
-lotería,7,3,23.73,100,"sur, okdiario, elcorreo, elpais",4,"Comprobar Lotería del jueves, 02 de abril: resultados de la Bonoloto, del Cupón de la ONCE, Mi día de la ONCE, La Primitiva, de la Lotería Nacional y de EuroDreams",2026-04-03 00:35
-goleada,3,0,5.0,100,"elpais, google_news_es",2,El Camp Nou se rinde al Barça de Alexia en otra enorme goleada al Madrid,2026-04-03 00:35
-viernes,6,7,8.72,100,"sur, 20minutos",2,"Precio de la gasolina y diésel en Málaga hoy, viernes 03 de abril: ¿Dónde están las gasolineras más baratas?",2026-04-03 00:35
-aranceles,3,3,10.17,100,"elcorreo, 20minutos, levante_emv",3,Trump impondrá aranceles del 100% a la importación de medicamentos patentados,2026-04-03 00:35
-unidad,3,0,5.0,100,"elcorreo, france24_es, eldiario, google_news_es",4,Familias de pacientes con anorexia piden más plazas en la unidad de Santiago,2026-04-03 00:35
-vitoria,7,8,8.9,100,"elcorreo, levante_emv",2,La viñeta de Cerrajería sobre la Semana Santa en Vitoria,2026-04-03 00:35
-llegar,3,4,7.63,100,"okdiario, elcorreo, levante_emv",3,Trump apremia a Irán para llegar a un acuerdo y poner fin a la guerra «antes de que sea demasiado tarde»,2026-04-03 00:35
-leganés,3,2,15.25,100,heraldo_aragon,1,Real Zaragoza-Leganés: un equipo con 'buena vibra',2026-04-03 00:35
-yahoo,3,5,6.1,100,"google_news_es, google_news_internacional",2,El Barça femenino consuma la humillación del Real Madrid y se mete en la semifinal de la Champions - Yahoo,2026-04-03 00:35
-miranda,4,1,40.68,100,elcorreo,1,La Plataforma del Voluntariado de Miranda prepara un proyecto sobre la soledad no deseada,2026-04-03 00:35
-rusia,4,9,4.52,90,"elcorreo, huffington_es, levante_emv, google_news_internacional",4,Rusia planea el envío de un segundo petrolero a Cuba,2026-04-03 00:35
-segunda,4,9,4.52,90,"elcorreo, google_news_es, google_news_internacional",3,La décima visita ante un duelo tradicional en Segunda,2026-04-03 00:35
-jueves,29,67,4.4,88,"sur, elcorreo, heraldo_aragon, levante_emv, okdiario",5,"Comprobar Lotería del jueves, 02 de abril: resultados de la Bonoloto, del Cupón de la ONCE, Mi día de la ONCE, La Primitiva, de la Lotería Nacional y de EuroDreams",2026-04-03 00:35
-deportivo,3,7,4.36,87,"google_news_internacional, google_news_es, sur",3,Mbappé elogia a Messi - Mundo Deportivo,2026-04-03 00:35
-segundo,3,7,4.36,87,"sur, huffington_es, elcorreo",3,Cae en Málaga el segundo premio de la BonoLoto de este Jueves Santo,2026-04-03 00:35
-abril,28,69,4.13,82,"sur, elcorreo, 20minutos, levante_emv, okdiario",5,"Precio de la gasolina y diésel en Málaga hoy, viernes 03 de abril: ¿Dónde están las gasolineras más baratas?",2026-04-03 00:35
-reabrir,4,10,4.07,81,"elcorreo, google_news_politica, google_news_internacional",3,Diplomacia para reabrir Ormuz,2026-04-03 00:35
-prepara,3,8,3.81,76,"europapress, elcorreo, google_news_es",3,La tripulación del Artemis II se prepara para el encendido de los motores que los llevará fuera de órbita terrestre,2026-04-03 00:35
-horas,3,8,3.81,76,"google_news_es, eldiario",2,Las negociaciones entre Podemos y Por Andalucía se prolongan más de 10 horas sin que de momento haya acuerdo - Cadena SER,2026-04-03 00:35
-fuera,3,8,3.81,76,"europapress, google_news_politica",2,La tripulación del Artemis II se prepara para el encendido de los motores que los llevará fuera de órbita terrestre,2026-04-03 00:35
-barça,5,14,3.63,72,"google_news_es, levante_emv, elpais",3,El Barça femenino consuma la humillación del Real Madrid y se mete en la semifinal de la Champions - Yahoo,2026-04-03 00:35
-menor,3,9,3.39,67,"elconfidencial, elcorreo, levante_emv",3,Detenidos en Murgia (Álava) cinco jovenes por el apuñalamiento a un menor de 17 años,2026-04-03 00:35
-anuncia,4,14,2.91,58,"heraldo_aragon, google_news_internacional, 20minutos",3,El Pentágono anuncia la retirada del jefe del Estado Mayor del Ejército,2026-04-03 00:35
-andalucía,5,18,2.82,56,"google_news_es, elpais, sur, eldiario",4,Las negociaciones entre Podemos y Por Andalucía se prolongan más de 10 horas sin que de momento haya acuerdo - Cadena SER,2026-04-03 00:35
-sigue,4,15,2.71,54,"google_news_internacional, google_news_es, levante_emv",3,Sigue en directo el Torneo Internacional Íscar Cup Skechers 2026 en Boadilla del Monte - MARCA,2026-04-03 00:35
-barcelona,5,19,2.68,53,"elcorreo, okdiario, elpais, google_news_es",4,Las albiazules se citan con la gloria en Barcelona,2026-04-03 00:35
-mayor,3,12,2.54,50,"heraldo_aragon, elpais, levante_emv",3,El Pentágono anuncia la retirada del jefe del Estado Mayor del Ejército,2026-04-03 00:35
-ormuz,12,49,2.49,49,"elcorreo, google_news_politica, france24_es, google_news_internacional, 20minutos",5,Diplomacia para reabrir Ormuz,2026-04-03 00:35
-países,8,33,2.47,49,"google_news_internacional, huffington_es, google_news_politica, 20minutos",4,"Super Mario Galaxy: La Película bate increíbles récords en taquilla en todos estos países, incluyendo España: la definen como «un fenómeno internacional» - Nintenderos",2026-04-03 00:35
-china,3,13,2.35,46,"france24_es, okdiario, huffington_es",3,La geopolítica del espacio: ¿Artemis II aumenta la presión entre EE. UU. y China?,2026-04-03 00:35
-estrecho,5,23,2.21,44,"elcorreo, google_news_internacional, 20minutos, levante_emv",4,Estrecho,2026-04-03 00:35
-crisis,3,14,2.18,43,"elcorreo, france24_es, okdiario",3,Osakidetza cesa a su jefa de Enfermería tras la crisis de las vacunas caducadas,2026-04-03 00:35
-sánchez,3,15,2.03,40,"elcorreo, elmundo_espana",2,Sánchez 1-Trump 0. Toda Europa da la espalda al presidente de Estados Unidos,2026-04-03 00:35
-feijóo,4,20,2.03,40,"elmundo_espana, google_news_politica",2,La Luna como bazar y más 'bullyng' de Abascal a Feijóo,2026-04-03 00:35
-donald,4,20,2.03,40,"elmundo, france24_es, google_news_es",3,La Federación de Músicos de EEUU defiende a Bruce Springsteen tras los ataques de Donald Trump,2026-04-03 00:35
+moreno,3,0,5.0,100,"sur, elcorreo, levante_emv",3,Moreno pide actuar por los cánticos contra musulmanes en el España-Egipto,2026-04-03 01:05
+detenidos,5,6,9.52,100,"elconfidencial, elcorreo, levante_emv, sur",4,Detenidos en Murgia (Álava) cinco jovenes por el apuñalamiento a un menor de 17 años,2026-04-03 01:05
+resultados,7,8,10.0,100,"sur, elespanol, elcorreo, levante_emv",4,"Comprobar Lotería del jueves, 02 de abril: resultados de la Bonoloto, del Cupón de la ONCE, Mi día de la ONCE, La Primitiva, de la Lotería Nacional y de EuroDreams",2026-04-03 01:05
+bonoloto,6,7,9.79,100,"sur, elcorreo, okdiario, levante_emv",4,"Comprobar Lotería del jueves, 02 de abril: resultados de la Bonoloto, del Cupón de la ONCE, Mi día de la ONCE, La Primitiva, de la Lotería Nacional y de EuroDreams",2026-04-03 01:05
+cupón,3,5,6.85,100,"sur, okdiario",2,"Comprobar Lotería del jueves, 02 de abril: resultados de la Bonoloto, del Cupón de la ONCE, Mi día de la ONCE, La Primitiva, de la Lotería Nacional y de EuroDreams",2026-04-03 01:05
+primitiva,5,2,28.56,100,"sur, elcorreo, levante_emv, okdiario",4,"Comprobar Lotería del jueves, 02 de abril: resultados de la Bonoloto, del Cupón de la ONCE, Mi día de la ONCE, La Primitiva, de la Lotería Nacional y de EuroDreams",2026-04-03 01:05
+nacional,6,11,6.23,100,"google_news_internacional, sur, elespanol, okdiario, elcorreo",5,Sigue en directo el Torneo Internacional Íscar Cup Skechers 2026 en Boadilla del Monte - MARCA,2026-04-03 01:05
+eurodreams,3,0,5.0,100,"sur, elcorreo",2,"Comprobar Lotería del jueves, 02 de abril: resultados de la Bonoloto, del Cupón de la ONCE, Mi día de la ONCE, La Primitiva, de la Lotería Nacional y de EuroDreams",2026-04-03 01:05
+murgia,3,1,34.27,100,"elconfidencial, elcorreo",2,Detenidos en Murgia (Álava) cinco jovenes por el apuñalamiento a un menor de 17 años,2026-04-03 01:05
+miranda,3,2,17.14,100,elcorreo,1,La Plataforma del Voluntariado de Miranda prepara un proyecto sobre la soledad no deseada,2026-04-03 01:05
+apuñalamiento,4,1,45.7,100,"elconfidencial, elcorreo, levante_emv",3,Detenidos en Murgia (Álava) cinco jovenes por el apuñalamiento a un menor de 17 años,2026-04-03 01:05
+resultado,9,8,12.85,100,"sur, elespanol, elcorreo, levante_emv, okdiario",5,"Comprobar Lotería del jueves, 02 de abril: resultados de la Bonoloto, del Cupón de la ONCE, Mi día de la ONCE, La Primitiva, de la Lotería Nacional y de EuroDreams",2026-04-03 01:05
+sorteo,10,7,16.32,100,"sur, elespanol, okdiario, levante_emv, elpais",5,"Resultado del sorteo La Primitiva del jueves, 02 de abril de 2026",2026-04-03 01:05
+reparte,3,1,34.27,100,elcorreo,1,La Primitiva del jueves reparte tres alegrías de 66.000 euros: resultados del 2 de abril,2026-04-03 01:05
+eibar,4,0,5.0,100,google_news_es,1,0-1 | El Eibar da continuidad a su gran momento en Anoeta | SD Eibar | Web Oficial - SD Eibar,2026-04-03 01:05
+segundo,3,6,5.71,100,"sur, huffington_es, elcorreo",3,Cae en Málaga el segundo premio de la BonoLoto de este Jueves Santo,2026-04-03 01:05
+lotería,7,4,19.99,100,"sur, elespanol, okdiario, elcorreo, elpais",5,"Comprobar Lotería del jueves, 02 de abril: resultados de la Bonoloto, del Cupón de la ONCE, Mi día de la ONCE, La Primitiva, de la Lotería Nacional y de EuroDreams",2026-04-03 01:05
+comprobar,8,12,7.62,100,"sur, elespanol, okdiario, elpais, elcorreo",5,"Comprobar Lotería del jueves, 02 de abril: resultados de la Bonoloto, del Cupón de la ONCE, Mi día de la ONCE, La Primitiva, de la Lotería Nacional y de EuroDreams",2026-04-03 01:05
+leganés,3,0,5.0,100,heraldo_aragon,1,Real Zaragoza-Leganés: un equipo con 'buena vibra',2026-04-03 01:05
+yahoo,3,5,6.85,100,"google_news_es, google_news_internacional",2,El Barça femenino consuma la humillación del Real Madrid y se mete en la semifinal de la Champions - Yahoo,2026-04-03 01:05
+aranceles,3,3,11.42,100,"elcorreo, 20minutos, levante_emv",3,Trump impondrá aranceles del 100% a la importación de medicamentos patentados,2026-04-03 01:05
+viernes,4,9,5.08,100,"sur, 20minutos",2,"Precio de la gasolina y diésel en Málaga hoy, viernes 03 de abril: ¿Dónde están las gasolineras más baratas?",2026-04-03 01:05
+equipo,3,6,5.71,100,"heraldo_aragon, sur",2,"David Navarro: ""Por actitud, tenemos un equipo ganador""",2026-04-03 01:05
+vitoria,6,9,7.62,100,"elcorreo, levante_emv",2,La viñeta de Cerrajería sobre la Semana Santa en Vitoria,2026-04-03 01:05
+llegar,3,4,8.57,100,"okdiario, elcorreo, levante_emv",3,Trump apremia a Irán para llegar a un acuerdo y poner fin a la guerra «antes de que sea demasiado tarde»,2026-04-03 01:05
+deportivo,3,7,4.9,97,"google_news_internacional, google_news_es, sur",3,Mbappé elogia a Messi - Mundo Deportivo,2026-04-03 01:05
+menor,3,8,4.28,85,"elconfidencial, elcorreo, levante_emv",3,Detenidos en Murgia (Álava) cinco jovenes por el apuñalamiento a un menor de 17 años,2026-04-03 01:05
+ejército,3,8,4.28,85,"elmundo_internacional, heraldo_aragon, elpais",3,Destituyen al jefe del Estado Mayor del Ejército de EEUU en plena guerra de Irán,2026-04-03 01:05
+mayor,4,11,4.15,83,"elmundo_internacional, sur, heraldo_aragon, elpais, levante_emv",5,Destituyen al jefe del Estado Mayor del Ejército de EEUU en plena guerra de Irán,2026-04-03 01:05
+jueves,25,70,4.08,81,"sur, elespanol, elcorreo, heraldo_aragon, levante_emv",5,"Comprobar Lotería del jueves, 02 de abril: resultados de la Bonoloto, del Cupón de la ONCE, Mi día de la ONCE, La Primitiva, de la Lotería Nacional y de EuroDreams",2026-04-03 01:05
+segunda,3,9,3.81,76,"elcorreo, google_news_es, google_news_internacional",3,La décima visita ante un duelo tradicional en Segunda,2026-04-03 01:05
+abril,23,70,3.75,75,"sur, elespanol, elcorreo, 20minutos, levante_emv",5,"Precio de la gasolina y diésel en Málaga hoy, viernes 03 de abril: ¿Dónde están las gasolineras más baratas?",2026-04-03 01:05
+anuncia,4,13,3.52,70,"heraldo_aragon, google_news_internacional, 20minutos",3,El Pentágono anuncia la retirada del jefe del Estado Mayor del Ejército,2026-04-03 01:05
+reabrir,3,11,3.12,62,"elcorreo, google_news_politica, google_news_internacional",3,Diplomacia para reabrir Ormuz,2026-04-03 01:05
+buena,3,12,2.86,57,"elcorreo, heraldo_aragon, google_news_internacional",3,«A mis jugadoras hay que repetirle más lo buenas que son que bajarlas del pedestal»,2026-04-03 01:05
+china,3,13,2.64,52,"france24_es, okdiario, huffington_es",3,La geopolítica del espacio: ¿Artemis II aumenta la presión entre EE. UU. y China?,2026-04-03 01:05
+crisis,3,14,2.45,48,"elcorreo, france24_es, okdiario",3,Osakidetza cesa a su jefa de Enfermería tras la crisis de las vacunas caducadas,2026-04-03 01:05
+sánchez,3,15,2.28,45,"elcorreo, elmundo_espana",2,Sánchez 1-Trump 0. Toda Europa da la espalda al presidente de Estados Unidos,2026-04-03 01:05
+precio,4,22,2.08,41,"sur, google_news_internacional, france24_es, bbc_mundo",4,"Precio de la gasolina y diésel en Málaga hoy, viernes 03 de abril: ¿Dónde están las gasolineras más baratas?",2026-04-03 01:05
