@@ -29,7 +29,7 @@ except Exception as e:
     print(f"Error leyendo {INPUT}: {e}"); exit(1)
 
 titles = df["title"].fillna("").str.lower()
-now = datetime.now().strftime("%Y-%m-%d %H:%M")
+now = datetime.now().strftime("%Y-%m-%d")
 
 counts = {}
 for emotion, keywords in LEXICON.items():
@@ -51,6 +51,9 @@ result["cycle"] = now
 if os.path.exists(HISTORY):
     hist = pd.read_csv(HISTORY)
     hist = pd.concat([hist, result], ignore_index=True)
+    # Deduplicar: conservar solo un ciclo por (emotion, cycle)
+    hist = hist.drop_duplicates(subset=['emotion', 'cycle'], keep='last')
+    hist = hist.sort_values('cycle')
 else:
     hist = result.copy()
 hist.to_csv(HISTORY, index=False)
