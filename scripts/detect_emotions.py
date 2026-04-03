@@ -29,7 +29,9 @@ except Exception as e:
     print(f"Error leyendo {INPUT}: {e}"); exit(1)
 
 titles = df["title"].fillna("").str.lower()
-now = datetime.now().strftime("%Y-%m-%d")
+now_dt = datetime.now()
+now = now_dt.strftime("%Y-%m-%d %H:%M:%S")
+now_cycle = now_dt.strftime("%Y-%m-%d")
 
 counts = {}
 for emotion, keywords in LEXICON.items():
@@ -47,7 +49,7 @@ result = result.sort_values("count", ascending=False)
 result.to_csv(OUTPUT, index=False)
 
 # Histórico acumulativo
-result["cycle"] = now
+result["cycle"] = now_cycle
 if os.path.exists(HISTORY):
     hist = pd.read_csv(HISTORY)
     hist = pd.concat([hist, result], ignore_index=True)
