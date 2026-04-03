@@ -1,73 +1,67 @@
 keyword,count_now,count_base,ratio,viral_score,sources,n_sources,sample_title,detected_at
-euroliga,3,3,10.6,100,"elpais, google_news_es, elespanol",3,El Baskonia se la vuelve a jugar al Madrid cuando iba a cazar al líder de la Euroliga (98-96),2026-04-04 00:06
-estrella,9,3,31.81,100,"huffington_es, google_news_internacional, elpais, sur, elcorreo",5,"Esta es la superestrella, nunca mejor dicho, que ha aparecido en el &#039;confesionario&#039; del Lux Tour de Rosalía en el Movistar Arena",2026-04-04 00:06
-embestido,5,0,5.0,100,"levante_emv, elpais, elconfidencial, 20minutos",4,Muere el torero Ricardo Ortiz tras ser embestido por un toro en los corrales de La Malagueta,2026-04-04 00:06
-extorero,5,0,5.0,100,"elpais, elconfidencial, 20minutos, elespanol, sur",5,Muere el extorero Ricardo Ortiz embestido por un toro en corrales de la plaza La Malagueta,2026-04-04 00:06
-plaza,8,7,12.12,100,"elpais, elconfidencial, 20minutos, elespanol, sur",5,Muere el extorero Ricardo Ortiz embestido por un toro en corrales de la plaza La Malagueta,2026-04-04 00:06
-sorteo,9,15,6.36,100,"sur, levante_emv, okdiario, elpais",4,"Resultado del sorteo de la Bonoloto del viernes, 03 de abril de 2026",2026-04-04 00:06
-entierro,5,6,8.84,100,"heraldo_aragon, levante_emv",2,"Historias del Santo Entierro en Zaragoza: ""Recuerdo que con 9 años ya salí de cetrillo""",2026-04-04 00:06
-avión,14,14,10.6,100,"bbc_mundo, google_news_internacional, google_news_es, elpais, sur",5,Rescatan a uno de los tripulantes del avión de combate estadounidense derribado por Irán,2026-04-04 00:06
-combate,7,11,6.75,100,"bbc_mundo, google_news_internacional, google_news_es, elpais",4,Rescatan a uno de los tripulantes del avión de combate estadounidense derribado por Irán,2026-04-04 00:06
-muertos,5,7,7.57,100,"elmundo, elespanol, levante_emv, google_news_internacional",4,Ataques rusos dejan 14 muertos en Ucrania a plena luz del día,2026-04-04 00:06
-golfo,6,9,7.07,100,"france24_es, bbc_mundo, elpais, sur, elcorreo",5,Derrame en el Golfo de México: ¿el Gobierno lo ocultó durante semanas?,2026-04-04 00:06
-méxico,3,3,10.6,100,"france24_es, bbc_mundo",2,Derrame en el Golfo de México: ¿el Gobierno lo ocultó durante semanas?,2026-04-04 00:06
-segundo,5,9,5.89,100,"google_news_internacional, elpais, sur, elcorreo",4,Un segundo avión de combate de EEUU se estrella en Ormuz - elDiario.es,2026-04-04 00:06
-muere,5,10,5.3,100,"levante_emv, elpais, elconfidencial, 20minutos",4,Muere el torero Ricardo Ortiz tras ser embestido por un toro en los corrales de La Malagueta,2026-04-04 00:06
-destino,3,0,5.0,100,"huffington_es, google_news_internacional",2,EL mejor destino de Semana Santa,2026-04-04 00:06
-rescata,4,6,7.07,100,"bbc_mundo, elpais, google_news_internacional, levante_emv, france24_es",5,Rescatan a uno de los tripulantes del avión de combate estadounidense derribado por Irán,2026-04-04 00:06
-maíllo,3,0,5.0,100,"levante_emv, google_news_es",2,"Maíllo desoye las críticas de Podemos Andalucía y agradece su ""esfuerzo"" por ampliar ""simbólicamente"" la coalición: ""El debate se acabó""",2026-04-04 00:06
-pérsico,3,3,10.6,100,"elpais, sur, elcorreo",3,"Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Un segundo avión de combate estadounidense se estrella en el golfo Pérsico",2026-04-04 00:06
-próximo,4,6,7.07,100,"google_news_internacional, 20minutos",2,La OMS pide 30 millones de dólares para financiar su respuesta de emergencia en Oriente Próximo - Diari de Tarragona,2026-04-04 00:06
-detrás,3,1,31.81,100,"google_news_es, france24_es",2,"Todas las historias que hay detrás de 'La túnica sagrada', la película que convertía al espectador en actor - RTVE.es",2026-04-04 00:06
-justicia,3,6,5.3,100,"levante_emv, eldiario, google_news_es",3,"La Justicia italiana ve ""ilegales"" los aumentos de precio de Netflix y obliga a reembolsar",2026-04-04 00:06
-italiana,3,4,7.95,100,"levante_emv, eldiario, google_news_es",3,"La Justicia italiana ve ""ilegales"" los aumentos de precio de Netflix y obliga a reembolsar",2026-04-04 00:06
-ilegales,3,3,10.6,100,"levante_emv, eldiario, google_news_es",3,"La Justicia italiana ve ""ilegales"" los aumentos de precio de Netflix y obliga a reembolsar",2026-04-04 00:06
-aumentos,3,2,15.9,100,"levante_emv, eldiario, google_news_es",3,"La Justicia italiana ve ""ilegales"" los aumentos de precio de Netflix y obliga a reembolsar",2026-04-04 00:06
-torero,5,0,5.0,100,"levante_emv, elpais, elconfidencial, sur, elcorreo",5,Muere el torero Ricardo Ortiz tras ser embestido por un toro en los corrales de La Malagueta,2026-04-04 00:06
-reembolsar,3,2,15.9,100,"levante_emv, eldiario, google_news_es",3,"La Justicia italiana ve ""ilegales"" los aumentos de precio de Netflix y obliga a reembolsar",2026-04-04 00:06
-cuponazo,5,2,26.51,100,"sur, okdiario, elpais, elcorreo",4,"Comprobar Lotería del viernes, 03 de abril: resultados de la Bonoloto, del Euromillones, del Eurojackpot de la ONCE y del Cuponazo de la ONCE",2026-04-04 00:06
-retirado,3,0,5.0,100,"elmundo, elpais, sur",3,Un toro mata al matador de toros retirado Ricardo Ortiz en los corrales de La Malagueta,2026-04-04 00:06
-primeras,4,8,5.3,100,"elpais, france24_es, heraldo_aragon, 20minutos",4,Cuba inicia las primeras excarcelaciones tras el indulto a más 2.000 presos,2026-04-04 00:06
-euromillones,7,1,74.21,100,"sur, elcorreo, levante_emv, okdiario",4,"Comprobar Lotería del viernes, 03 de abril: resultados de la Bonoloto, del Euromillones, del Eurojackpot de la ONCE y del Cuponazo de la ONCE",2026-04-04 00:06
-baskonia,11,1,116.62,100,"elcorreo, google_news_es, elpais, elmundo, levante_emv",5,El Baskonia corona una obra monumental,2026-04-04 00:06
-bonoloto,6,11,5.78,100,"sur, elcorreo, levante_emv, okdiario",4,"Comprobar Lotería del viernes, 03 de abril: resultados de la Bonoloto, del Euromillones, del Eurojackpot de la ONCE y del Cuponazo de la ONCE",2026-04-04 00:06
-eurojackpot,4,1,42.41,100,"sur, okdiario, elcorreo",3,"Comprobar Lotería del viernes, 03 de abril: resultados de la Bonoloto, del Euromillones, del Eurojackpot de la ONCE y del Cuponazo de la ONCE",2026-04-04 00:06
-rosalía,3,3,10.6,100,"levante_emv, huffington_es",2,Aitana habla de su ruptura con Sebastián Yatra en el confesionario de Rosalía en su tercer concierto en Madrid,2026-04-04 00:06
-resultados,7,12,6.18,100,"sur, elcorreo",2,"Comprobar Lotería del viernes, 03 de abril: resultados de la Bonoloto, del Euromillones, del Eurojackpot de la ONCE y del Cuponazo de la ONCE",2026-04-04 00:06
-habla,3,3,10.6,100,"levante_emv, okdiario, google_news_internacional",3,Aitana habla de su ruptura con Sebastián Yatra en el confesionario de Rosalía en su tercer concierto en Madrid,2026-04-04 00:06
-ricardo,10,0,5.0,100,"elmundo, levante_emv, elpais, elconfidencial, sur",5,Un toro mata al matador de toros retirado Ricardo Ortiz en los corrales de La Malagueta,2026-04-04 00:06
-ortiz,10,0,5.0,100,"elmundo, levante_emv, elpais, elconfidencial, sur",5,Un toro mata al matador de toros retirado Ricardo Ortiz en los corrales de La Malagueta,2026-04-04 00:06
-comprobar,9,17,5.61,100,"sur, okdiario, elcorreo, elpais",4,"Comprobar Lotería del viernes, 03 de abril: resultados de la Bonoloto, del Euromillones, del Eurojackpot de la ONCE y del Cuponazo de la ONCE",2026-04-04 00:06
-corrales,6,0,5.0,100,"elmundo, levante_emv, elpais, elconfidencial, google_news_es",5,Un toro mata al matador de toros retirado Ricardo Ortiz en los corrales de La Malagueta,2026-04-04 00:06
-malagueta,11,0,5.0,100,"elmundo, levante_emv, elpais, elconfidencial, 20minutos",5,Un toro mata al matador de toros retirado Ricardo Ortiz en los corrales de La Malagueta,2026-04-04 00:06
-inicia,4,4,10.6,100,"elpais, heraldo_aragon, google_news_internacional",3,Cuba inicia las primeras excarcelaciones tras el indulto a más 2.000 presos,2026-04-04 00:06
-poder,4,8,5.3,100,"elmundo, google_news_internacional, elcorreo",3,El Papa León XIV clama contra la guerra y el abuso de poder en su primer Via Crucis,2026-04-04 00:06
-imágenes,5,11,4.82,96,"levante_emv, bbc_mundo, heraldo_aragon, google_news_es",4,"La jornada 30 de LaLiga EA Sports, en imágenes",2026-04-04 00:06
-sagunt,3,7,4.54,90,levante_emv,1,Las imágenes que dejó la Procesión de Viernes Santo en Sagunt,2026-04-04 00:06
-ataque,4,10,4.24,84,"elmundo, google_news_internacional, google_news_es, france24_es, 20minutos",5,Ataques rusos dejan 14 muertos en Ucrania a plena luz del día,2026-04-04 00:06
-sábado,5,13,4.08,81,"sur, 20minutos",2,"Horóscopo de hoy, sábado 04 de abril: Predicciones de salud, amor y dinero",2026-04-04 00:06
-resultado,6,16,3.98,79,"sur, elcorreo, okdiario",3,"Comprobar Lotería del viernes, 03 de abril: resultados de la Bonoloto, del Euromillones, del Eurojackpot de la ONCE y del Cuponazo de la ONCE",2026-04-04 00:06
-obliga,3,8,3.98,79,"okdiario, levante_emv, eldiario, google_news_es",4,Alineación del Atlético contra el Barcelona en Liga: Simeone hará rotaciones obligadas,2026-04-04 00:06
-español,4,11,3.86,77,"google_news_internacional, okdiario",2,"Fallece José Luis Argüello Garranchan, árbitro internacional español de balonmano - MARCA",2026-04-04 00:06
-primer,5,14,3.79,75,"elmundo, google_news_internacional, elpais, france24_es, heraldo_aragon",5,El Papa León XIV clama contra la guerra y el abuso de poder en su primer Via Crucis,2026-04-04 00:06
-viernes,23,69,3.53,70,"sur, elcorreo, heraldo_aragon, levante_emv, okdiario",5,"Comprobar Lotería del viernes, 03 de abril: resultados de la Bonoloto, del Euromillones, del Eurojackpot de la ONCE y del Cuponazo de la ONCE",2026-04-04 00:06
-atlético,3,9,3.53,70,okdiario,1,Alineación del Barcelona contra el Atlético de Madrid: Ferran y Rashford acompañarán a Lamine,2026-04-04 00:06
-periódico,3,9,3.53,70,google_news_internacional,1,"Guerra en Irán, última hora en directo: Trump niega que el derribo de un caza vaya a afectar las negociaciones con Irán - El Periódico",2026-04-04 00:06
-netflix,3,9,3.53,70,"levante_emv, eldiario, google_news_es",3,"La Justicia italiana ve ""ilegales"" los aumentos de precio de Netflix y obliga a reembolsar",2026-04-04 00:06
-estadounidense,6,19,3.35,66,"bbc_mundo, google_news_internacional, levante_emv, elpais, france24_es",5,Rescatan a uno de los tripulantes del avión de combate estadounidense derribado por Irán,2026-04-04 00:06
-2.000,3,10,3.18,63,"elpais, bbc_mundo, heraldo_aragon",3,Cuba inicia las primeras excarcelaciones tras el indulto a más 2.000 presos,2026-04-04 00:06
-unidos,7,24,3.09,61,"heraldo_aragon, elpais, google_news_internacional, france24_es",4,Irán afirma que ha derribado otro caza F-35 de Estados Unidos en su espacio aéreo,2026-04-04 00:06
-estados,7,24,3.09,61,"heraldo_aragon, elpais, google_news_internacional, france24_es",4,Irán afirma que ha derribado otro caza F-35 de Estados Unidos en su espacio aéreo,2026-04-04 00:06
-abril,24,84,3.03,60,"sur, elcorreo, levante_emv, 20minutos, okdiario",5,"Comprobar Lotería del viernes, 03 de abril: resultados de la Bonoloto, del Euromillones, del Eurojackpot de la ONCE y del Cuponazo de la ONCE",2026-04-04 00:06
-tierra,7,27,2.75,54,"bbc_mundo, france24_es, heraldo_aragon, okdiario, 20minutos",5,"Las ""espectaculares"" imágenes de la Tierra captadas por la tripulación de Artemis II",2026-04-04 00:06
-piloto,3,12,2.65,53,"elpais, google_news_internacional, levante_emv, france24_es",4,Estados Unidos rescata a un piloto del primer avión derribado por Irán en la guerra,2026-04-04 00:06
-derribado,6,24,2.65,53,"bbc_mundo, heraldo_aragon, elpais, google_news_internacional",4,Rescatan a uno de los tripulantes del avión de combate estadounidense derribado por Irán,2026-04-04 00:06
-vuelve,4,16,2.65,53,"elpais, google_news_es, elmundo, levante_emv",4,El Baskonia se la vuelve a jugar al Madrid cuando iba a cazar al líder de la Euroliga (98-96),2026-04-04 00:06
-festival,3,13,2.45,48,"google_news_internacional, levante_emv, 20minutos",3,Comienza el primer festival internacional Con-Clave en Santiago de Cuba - Noticias CLAVE,2026-04-04 00:06
-derriba,3,14,2.27,45,"bbc_mundo, google_news_internacional, heraldo_aragon, google_news_es, elpais",5,Rescatan a uno de los tripulantes del avión de combate estadounidense derribado por Irán,2026-04-04 00:06
-cuatro,3,14,2.27,45,"huffington_es, google_news_internacional",2,"Angela Picozzi, 51 años, patronista: &quot;Una costurera tarda cuatro años en aprender el oficio, pero la industria prefiere vender a tomar riesgos y eso nos empobrece a todos&quot;",2026-04-04 00:06
-clave,3,14,2.27,45,"google_news_internacional, elcorreo, france24_es",3,Comienza el primer festival internacional Con-Clave en Santiago de Cuba - Noticias CLAVE,2026-04-04 00:06
-directo,11,53,2.2,44,"google_news_internacional, elpais, okdiario, sur, elcorreo",5,"Guerra en Irán, última hora en directo: Trump niega que el derribo de un caza vaya a afectar las negociaciones con Irán - El Periódico",2026-04-04 00:06
-rtve.es,3,15,2.12,42,google_news_es,1,"Todas las historias que hay detrás de 'La túnica sagrada', la película que convertía al espectador en actor - RTVE.es",2026-04-04 00:06
-oriente,6,31,2.05,41,"sur, elcorreo, google_news_internacional, 20minutos",4,Sigue en directo la última hora de la guerra en Oriente Medio | Un segundo avión de EEUU se estrella en el Golfo Pérsico,2026-04-04 00:06
-santo,10,51,2.08,41,"heraldo_aragon, levante_emv, elespanol, google_news_internacional",4,"Historias del Santo Entierro en Zaragoza: ""Recuerdo que con 9 años ya salí de cetrillo""",2026-04-04 00:06
+méxico,3,3,10.52,100,"france24_es, bbc_mundo",2,Derrame en el Golfo de México: ¿el Gobierno lo ocultó durante semanas?,2026-04-04 00:35
+rosalía,3,3,10.52,100,"levante_emv, huffington_es",2,Aitana habla de su ruptura con Sebastián Yatra en el confesionario de Rosalía en su tercer concierto en Madrid,2026-04-04 00:35
+entierro,5,6,8.77,100,"heraldo_aragon, levante_emv",2,"Historias del Santo Entierro en Zaragoza: ""Recuerdo que con 9 años ya salí de cetrillo""",2026-04-04 00:35
+comprobar,9,17,5.57,100,"sur, okdiario, elcorreo, elpais",4,"Comprobar Lotería del viernes, 03 de abril: resultados de la Bonoloto, del Euromillones, del Eurojackpot de la ONCE y del Cuponazo de la ONCE",2026-04-04 00:35
+muertos,5,7,7.52,100,"elmundo, elespanol, levante_emv, google_news_internacional",4,Ataques rusos dejan 14 muertos en Ucrania a plena luz del día,2026-04-04 00:35
+resultados,7,12,6.14,100,"sur, elcorreo",2,"Comprobar Lotería del viernes, 03 de abril: resultados de la Bonoloto, del Euromillones, del Eurojackpot de la ONCE y del Cuponazo de la ONCE",2026-04-04 00:35
+bonoloto,6,11,5.74,100,"sur, elcorreo, levante_emv, okdiario",4,"Comprobar Lotería del viernes, 03 de abril: resultados de la Bonoloto, del Euromillones, del Eurojackpot de la ONCE y del Cuponazo de la ONCE",2026-04-04 00:35
+euromillones,7,1,73.66,100,"sur, elcorreo, levante_emv, okdiario",4,"Comprobar Lotería del viernes, 03 de abril: resultados de la Bonoloto, del Euromillones, del Eurojackpot de la ONCE y del Cuponazo de la ONCE",2026-04-04 00:35
+eurojackpot,4,1,42.09,100,"sur, okdiario, elcorreo",3,"Comprobar Lotería del viernes, 03 de abril: resultados de la Bonoloto, del Euromillones, del Eurojackpot de la ONCE y del Cuponazo de la ONCE",2026-04-04 00:35
+cuponazo,5,2,26.31,100,"sur, okdiario, elpais, elcorreo",4,"Comprobar Lotería del viernes, 03 de abril: resultados de la Bonoloto, del Euromillones, del Eurojackpot de la ONCE y del Cuponazo de la ONCE",2026-04-04 00:35
+combate,7,11,6.7,100,"bbc_mundo, google_news_internacional, google_news_es, elpais",4,Rescatan a uno de los tripulantes del avión de combate estadounidense derribado por Irán,2026-04-04 00:35
+sorteo,9,15,6.31,100,"sur, levante_emv, okdiario, elpais",4,"Resultado del sorteo de la Bonoloto del viernes, 03 de abril de 2026",2026-04-04 00:35
+avión,14,14,10.52,100,"bbc_mundo, google_news_internacional, google_news_es, elpais, sur",5,Rescatan a uno de los tripulantes del avión de combate estadounidense derribado por Irán,2026-04-04 00:35
+retirado,3,0,5.0,100,"elmundo, elpais, sur",3,Un toro mata al matador de toros retirado Ricardo Ortiz en los corrales de La Malagueta,2026-04-04 00:35
+inicia,4,4,10.52,100,"elpais, heraldo_aragon, google_news_internacional",3,Cuba inicia las primeras excarcelaciones tras el indulto a más 2.000 presos,2026-04-04 00:35
+primeras,4,8,5.26,100,"elpais, france24_es, heraldo_aragon, 20minutos",4,Cuba inicia las primeras excarcelaciones tras el indulto a más 2.000 presos,2026-04-04 00:35
+euroliga,3,3,10.52,100,"elpais, google_news_es, elespanol",3,El Baskonia se la vuelve a jugar al Madrid cuando iba a cazar al líder de la Euroliga (98-96),2026-04-04 00:35
+muere,5,10,5.26,100,"levante_emv, elpais, elconfidencial, 20minutos",4,Muere el torero Ricardo Ortiz tras ser embestido por un toro en los corrales de La Malagueta,2026-04-04 00:35
+torero,5,0,5.0,100,"heraldo_aragon, levante_emv, elpais, elconfidencial, sur",5,Un toro mata al extorero Ricardo Ortiz en los corrales de La Malagueta,2026-04-04 00:35
+embestido,5,0,5.0,100,"levante_emv, elpais, elconfidencial, 20minutos",4,Muere el torero Ricardo Ortiz tras ser embestido por un toro en los corrales de La Malagueta,2026-04-04 00:35
+golfo,6,9,7.02,100,"france24_es, bbc_mundo, elpais, sur, elcorreo",5,Derrame en el Golfo de México: ¿el Gobierno lo ocultó durante semanas?,2026-04-04 00:35
+plaza,8,6,14.03,100,"elpais, elconfidencial, 20minutos, elespanol, sur",5,Muere el extorero Ricardo Ortiz embestido por un toro en corrales de la plaza La Malagueta,2026-04-04 00:35
+españoles,3,1,31.57,100,"elcorreo, google_news_economia, elmundo_espana",3,"El origen familiar sigue marcando la carrera laboral de los españoles, advierte la OCDE",2026-04-04 00:35
+baskonia,11,2,57.88,100,"elcorreo, google_news_es, elpais, elmundo, levante_emv",5,Simmons se gana la admiración del Buesa Arena y el Baskonia recupera el colmillo,2026-04-04 00:35
+malagueta,12,0,5.0,100,"heraldo_aragon, elmundo, levante_emv, elpais, elconfidencial",5,Un toro mata al extorero Ricardo Ortiz en los corrales de La Malagueta,2026-04-04 00:35
+corrales,7,0,5.0,100,"heraldo_aragon, elmundo, levante_emv, elpais, elconfidencial",5,Un toro mata al extorero Ricardo Ortiz en los corrales de La Malagueta,2026-04-04 00:35
+ortiz,11,0,5.0,100,"heraldo_aragon, elmundo, levante_emv, elpais, elconfidencial",5,Un toro mata al extorero Ricardo Ortiz en los corrales de La Malagueta,2026-04-04 00:35
+ricardo,11,0,5.0,100,"heraldo_aragon, elmundo, levante_emv, elpais, elconfidencial",5,Un toro mata al extorero Ricardo Ortiz en los corrales de La Malagueta,2026-04-04 00:35
+extorero,6,0,5.0,100,"heraldo_aragon, elpais, elconfidencial, 20minutos, elespanol",5,Un toro mata al extorero Ricardo Ortiz en los corrales de La Malagueta,2026-04-04 00:35
+próximo,4,6,7.02,100,"google_news_internacional, 20minutos",2,La OMS pide 30 millones de dólares para financiar su respuesta de emergencia en Oriente Próximo - Diari de Tarragona,2026-04-04 00:35
+derribo,3,4,7.89,100,"elpais, google_news_internacional",2,"Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Trump dice que el derribo por parte de Irán de un caza estadounidense no afectará a las negociaciones",2026-04-04 00:35
+estrella,9,3,31.57,100,"huffington_es, google_news_internacional, elpais, sur, elcorreo",5,"Esta es la superestrella, nunca mejor dicho, que ha aparecido en el &#039;confesionario&#039; del Lux Tour de Rosalía en el Movistar Arena",2026-04-04 00:35
+pérsico,3,3,10.52,100,"elpais, sur, elcorreo",3,"Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Un segundo avión de combate estadounidense se estrella en el golfo Pérsico",2026-04-04 00:35
+dinero,3,5,6.31,100,"elmundo_internacional, sur, okdiario",3,"Irving Larios, opositor desterrado: ""Con el dinero de Chávez, Ortega se hizo dictador y se lo van a comenzar a cobrar""",2026-04-04 00:35
+rescata,4,6,7.02,100,"bbc_mundo, elpais, google_news_internacional, levante_emv, france24_es",5,Rescatan a uno de los tripulantes del avión de combate estadounidense derribado por Irán,2026-04-04 00:35
+segundo,5,9,5.85,100,"google_news_internacional, elpais, sur, elcorreo",4,Un segundo avión de combate de EEUU se estrella en Ormuz - elDiario.es,2026-04-04 00:35
+sábado,6,13,4.86,97,"sur, 20minutos",2,"Precio de la gasolina y diésel en Málaga hoy, sábado 04 de abril: ¿Dónde están las gasolineras más baratas?",2026-04-04 00:35
+imágenes,5,11,4.78,95,"levante_emv, bbc_mundo, heraldo_aragon, google_news_es",4,"La jornada 30 de LaLiga EA Sports, en imágenes",2026-04-04 00:35
+resultado,7,16,4.6,92,"sur, elcorreo, okdiario",3,¿Cómo crees que quedará el RC Deportivo vs Málaga CF? Comparte tu resultado,2026-04-04 00:35
+ataque,4,10,4.21,84,"google_news_es, elmundo, google_news_internacional, france24_es, 20minutos",5,No hay señales de que guerra en Oriente Medio esté amainando; región amanece con nuevos ataques - Los Angeles Times,2026-04-04 00:35
+gasolina,3,8,3.95,78,"sur, elcorreo, france24_es",3,"Precio de la gasolina y diésel en Málaga hoy, sábado 04 de abril: ¿Dónde están las gasolineras más baratas?",2026-04-04 00:35
+estadounidense,7,19,3.88,77,"elpais, bbc_mundo, google_news_internacional, levante_emv, france24_es",5,"Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Trump dice que el derribo por parte de Irán de un caza estadounidense no afectará a las negociaciones",2026-04-04 00:35
+estados,8,22,3.83,76,"elpais, elmundo_internacional, heraldo_aragon, google_news_internacional, france24_es",5,"Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Trump dice que el derribo por parte de Irán de un caza estadounidense no afectará a las negociaciones",2026-04-04 00:35
+unidos,8,22,3.83,76,"elpais, elmundo_internacional, heraldo_aragon, google_news_internacional, france24_es",5,"Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Trump dice que el derribo por parte de Irán de un caza estadounidense no afectará a las negociaciones",2026-04-04 00:35
+málaga,8,22,3.83,76,sur,1,¿Cómo crees que quedará el RC Deportivo vs Málaga CF? Comparte tu resultado,2026-04-04 00:35
+poder,3,9,3.51,70,"elmundo, google_news_internacional",2,El Papa León XIV clama contra la guerra y el abuso de poder en su primer Via Crucis,2026-04-04 00:35
+periódico,3,9,3.51,70,google_news_internacional,1,"Guerra en Irán, última hora en directo: Trump niega que el derribo de un caza vaya a afectar las negociaciones con Irán - El Periódico",2026-04-04 00:35
+primer,5,15,3.51,70,"elmundo, google_news_internacional, elpais, google_news_es, france24_es",5,El Papa León XIV clama contra la guerra y el abuso de poder en su primer Via Crucis,2026-04-04 00:35
+atlético,3,10,3.16,63,okdiario,1,Alineación del Barcelona contra el Atlético de Madrid: Ferran y Rashford acompañarán a Lamine,2026-04-04 00:35
+carrera,3,10,3.16,63,"elmundo, elcorreo, google_news_economia",3,El drama de Luka Doncic: se despide por lesión de la temporada y del MVP en el mejor momento de su carrera,2026-04-04 00:35
+viernes,21,71,3.11,62,"sur, elcorreo, heraldo_aragon, levante_emv, okdiario",5,"Comprobar Lotería del viernes, 03 de abril: resultados de la Bonoloto, del Euromillones, del Eurojackpot de la ONCE y del Cuponazo de la ONCE",2026-04-04 00:35
+2.000,3,11,2.87,57,"elpais, bbc_mundo, heraldo_aragon",3,Cuba inicia las primeras excarcelaciones tras el indulto a más 2.000 presos,2026-04-04 00:35
+abril,23,85,2.85,56,"sur, elcorreo, levante_emv, 20minutos, okdiario",5,"Precio de la gasolina y diésel en Málaga hoy, sábado 04 de abril: ¿Dónde están las gasolineras más baratas?",2026-04-04 00:35
+piloto,3,12,2.63,52,"elpais, google_news_internacional, levante_emv, france24_es",4,Estados Unidos rescata a un piloto del primer avión derribado por Irán en la guerra,2026-04-04 00:35
+mejor,4,16,2.63,52,"elmundo, elcorreo, huffington_es",3,El drama de Luka Doncic: se despide por lesión de la temporada y del MVP en el mejor momento de su carrera,2026-04-04 00:35
+derribado,6,24,2.63,52,"bbc_mundo, heraldo_aragon, elpais, google_news_internacional",4,Rescatan a uno de los tripulantes del avión de combate estadounidense derribado por Irán,2026-04-04 00:35
+vuelve,4,16,2.63,52,"elpais, google_news_es, elmundo, levante_emv",4,El Baskonia se la vuelve a jugar al Madrid cuando iba a cazar al líder de la Euroliga (98-96),2026-04-04 00:35
+español,3,13,2.43,48,"elmundo_espana, elcorreo, google_news_economia, google_news_internacional",4,La venganza del español,2026-04-04 00:35
+oriente,7,31,2.38,47,"google_news_es, sur, elcorreo, google_news_internacional, 20minutos",5,No hay señales de que guerra en Oriente Medio esté amainando; región amanece con nuevos ataques - Los Angeles Times,2026-04-04 00:35
+directo,12,53,2.38,47,"elpais, google_news_internacional, okdiario, sur, elcorreo",5,"Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Trump dice que el derribo por parte de Irán de un caza estadounidense no afectará a las negociaciones",2026-04-04 00:35
+cuatro,3,14,2.25,45,"huffington_es, google_news_internacional",2,"Angela Picozzi, 51 años, patronista: &quot;Una costurera tarda cuatro años en aprender el oficio, pero la industria prefiere vender a tomar riesgos y eso nos empobrece a todos&quot;",2026-04-04 00:35
+derriba,3,14,2.25,45,"bbc_mundo, google_news_internacional, heraldo_aragon, google_news_es, elpais",5,Rescatan a uno de los tripulantes del avión de combate estadounidense derribado por Irán,2026-04-04 00:35
+clave,3,14,2.25,45,"google_news_internacional, elcorreo, france24_es",3,Comienza el primer festival internacional Con-Clave en Santiago de Cuba - Noticias CLAVE,2026-04-04 00:35
+sigue,5,24,2.19,43,"elcorreo, google_news_economia, sur, levante_emv",4,"El origen familiar sigue marcando la carrera laboral de los españoles, advierte la OCDE",2026-04-04 00:35
+última,9,44,2.15,43,"elpais, google_news_internacional, sur, elcorreo",4,"Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Trump dice que el derribo por parte de Irán de un caza estadounidense no afectará a las negociaciones",2026-04-04 00:35
+ee.uu,4,21,2.0,40,"elcorreo, bbc_mundo, google_news_es, google_news_internacional, elpais",5,Trump purga al jefe del ejército y agrava la crisis en EE UU por la guerra de Irán,2026-04-04 00:35
