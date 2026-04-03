@@ -57,7 +57,7 @@ done
 echo "[$timestamp]  Ejecutando scripts pesados (con timeout)..." >> "$LOG_FILE"
 for script in purge_history.py personas_tracking.py mass_media_analysis.py detect_narratives.py detect_coordination.py agenda_setting.py build_network.py propagation_analysis.py geo_analysis.py detect_sentiment_nlp.py detect_viral.py; do
     echo "[$timestamp] → Ejecutando $script ..." >> "$LOG_FILE"
-    timeout 120s python "scripts/$script" >> "$LOG_FILE" 2>&1 || echo "[$timestamp]  $script timeout o error" >> "$LOG_FILE"
+    timeout 300s python "scripts/$script" >> "$LOG_FILE" 2>&1 || echo "[$timestamp]  $script timeout o error" >> "$LOG_FILE"
 done
 
 # Rotar logs
