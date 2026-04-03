@@ -40,7 +40,8 @@ for script in \
     generate_guide_pdf.py \
     detect_disinfo.py \
     detect_hate.py \
-    detect_ideology.py; do
+    detect_ideology.py \
+    audit_quality.py; do
 
     echo "[$timestamp] → Ejecutando $script ..." >> "$LOG_FILE"
     timeout 180s python "scripts/$script" >> "$LOG_FILE" 2>&1
