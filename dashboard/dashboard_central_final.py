@@ -452,9 +452,17 @@ def mostrar_historico():
     path = history_paths["Narrativas"]
     if os.path.exists(path):
         df = pd.read_csv(path)
-        fig = px.line(df, x="cycle", y="count", color="cluster_label", markers=True,
-                      title="Evolución de clusters narrativos por ciclo",
-                      labels={"cycle": "Ciclo", "count": "Noticias", "cluster_label": "Cluster"})
+        df["cycle"] = pd.to_datetime(df["cycle"], format="mixed")
+        df["fecha"] = df["cycle"].dt.date
+        # Top 5 clusters por volumen total
+        top5 = df.groupby("cluster_label")["count"].sum().nlargest(5).index.tolist()
+        df = df[df["cluster_label"].isin(top5)]
+        # Agregar por día
+        df_day = df.groupby(["fecha","cluster_label"])["count"].mean().reset_index()
+        df_day.columns = ["Fecha","Cluster","Noticias"]
+        fig = px.line(df_day, x="Fecha", y="Noticias", color="Cluster", markers=True,
+                      title="Evolución de top 5 clusters narrativos (media diaria)",
+                      labels={"Fecha":"Fecha","Noticias":"Noticias","Cluster":"Cluster"})
         st.plotly_chart(fig, width="stretch")
     else:
         st.info("Sin histórico de narrativas aún.")
