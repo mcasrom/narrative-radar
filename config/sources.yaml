@@ -101,3 +101,12 @@ sources:
 - name: sur
   type: news
   url: https://www.diariosur.es/rss/2.0/
+- name: rtve_noticias
+  type: news
+  url: https://api2.rtve.es/rss/temas_noticias.xml
+- name: efe_espana
+  type: news
+  url: https://agenciaefe.es/feed/
+- name: elpais_espana
+  type: news
+  url: https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/espana/portada
