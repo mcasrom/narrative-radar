@@ -64,6 +64,89 @@ def _semaforo(score):
     return "🔴"
 
 
+
+
+def _freshness_block():
+    """Sección de frescura de CSVs — semáforo simple."""
+    import os
+    from datetime import datetime
+    from pathlib import Path
+
+    PROCESSED = Path(BASE_DIR).parent / "data" / "processed"
+    DATE_COLS = ["date", "fecha", "cycle", "last_update", "timestamp"]
+    UMBRAL_OK = 2       # horas
+    UMBRAL_CRIT = 24    # horas
+    NOW = datetime.now()
+
+    def detectar_col_fecha(df):
+        for col in DATE_COLS:
+            if col in df.columns:
+                return col
+        for col in df.columns:
+            if any(k in col.lower() for k in ["date","fecha","time","cycle","update"]):
+                return col
+        return None
+
+    def evaluar(path):
+        try:
+            import pandas as pd
+            df = pd.read_csv(path)
+            if df.empty:
+                return "🔴", "vacío", None
+            col = detectar_col_fecha(df)
+            horas = None
+            fecha_max = None
+            if col:
+                fechas = pd.to_datetime(df[col], errors="coerce").dropna()
+                if not fechas.empty:
+                    fecha_max = fechas.max()
+                    horas = (NOW - fecha_max.to_pydatetime()).total_seconds() / 3600
+            if horas is None:
+                mtime = datetime.fromtimestamp(path.stat().st_mtime)
+                horas = (NOW - mtime).total_seconds() / 3600
+            if horas > UMBRAL_CRIT:
+                return "🔴", f"{horas:.0f}h", fecha_max
+            elif horas > UMBRAL_OK:
+                return "🟡", f"{horas:.1f}h", fecha_max
+            else:
+                return "🟢", f"{horas:.1f}h", fecha_max
+        except Exception as e:
+            return "🔴", f"error: {e}", None
+
+    csvs = sorted(PROCESSED.glob("*.csv"))
+    filas = []
+    for p in csvs:
+        if ".bak" in p.name:
+            continue
+        icono, edad, fecha_max = evaluar(p)
+        fecha_str = fecha_max.strftime("%m-%d %H:%M") if fecha_max else "—"
+        filas.append((icono, p.name, edad, fecha_str))
+
+    parados = [f for f in filas if f[0] == "🔴"]
+    retrasos = [f for f in filas if f[0] == "🟡"]
+    oks = [f for f in filas if f[0] == "🟢"]
+
+    st.divider()
+    st.markdown("### 🗂 Frescura de CSVs")
+
+    c1, c2, c3 = st.columns(3)
+    c1.metric("🟢 OK", len(oks))
+    c2.metric("🟡 Retraso (>2h)", len(retrasos))
+    c3.metric("🔴 Parados (>24h)", len(parados))
+
+    if parados or retrasos:
+        problemas = parados + retrasos
+        import pandas as pd
+        df_prob = pd.DataFrame(problemas, columns=["Estado","Archivo","Antigüedad","Último dato"])
+        st.dataframe(df_prob, use_container_width=True, hide_index=True)
+    else:
+        st.success("✅ Todos los CSVs están actualizados")
+
+    with st.expander("Ver todos los CSVs"):
+        import pandas as pd
+        df_all = pd.DataFrame(filas, columns=["Estado","Archivo","Antigüedad","Último dato"])
+        st.dataframe(df_all, use_container_width=True, hide_index=True)
+
 def render_audit_tab():
     st.markdown("## 🔍 Auditoría del Sistema")
     st.markdown("Monitorización continua de la calidad del pipeline · auto-corrección automática si score < 50")
@@ -242,3 +325,4 @@ def render_audit_tab():
         st.markdown("### 🔧 Historial de auto-correcciones")
         st.dataframe(df_acciones.sort_values("timestamp", ascending=False).head(20),
                      use_container_width=True)
+    _freshness_block()
