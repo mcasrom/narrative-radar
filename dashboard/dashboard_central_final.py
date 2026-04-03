@@ -1159,6 +1159,48 @@ def _mostrar_tab_inner(tab_name, csv_path):
                                title="Evolución emocional desde 6 marzo",
                                labels={"last_update":"Fecha","count":"Noticias","emotion":"Emoción"})
                 st.plotly_chart(fig2, width="stretch")
+        # ── Mapa de burbujas emocional ──────────────────────────────
+        st.markdown("---")
+        st.markdown("**🫧 Mapa de burbujas emocional — intensidad actual**")
+        if not df_vis.empty:
+            COLOR_MAP = {
+                "Miedo":    "#9C27B0",
+                "Ira":      "#F44336",
+                "Tristeza": "#2196F3",
+                "Sorpresa": "#FF9800",
+                "Alegría":  "#4CAF50",
+                "Asco":     "#795548",
+            }
+            total = df_vis["count"].sum()
+            df_bub = df_vis.copy()
+            df_bub["pct"] = (df_bub["count"] / total * 100).round(1)
+            df_bub["color"] = df_bub["emotion"].map(COLOR_MAP).fillna("#607D8B")
+            df_bub["label"] = df_bub["emotion"] + "<br>" + df_bub["pct"].astype(str) + "%"
+            fig_bub = px.scatter(
+                df_bub,
+                x="emotion",
+                y=[0] * len(df_bub),
+                size="count",
+                color="emotion",
+                color_discrete_map=COLOR_MAP,
+                text="label",
+                size_max=90,
+                title="Burbujas de intensidad emocional (tamaño = noticias detectadas)",
+                labels={"emotion": "", "y": ""},
+            )
+            fig_bub.update_traces(
+                textposition="middle center",
+                marker=dict(opacity=0.82, line=dict(width=1.5, color="white")),
+            )
+            fig_bub.update_layout(
+                height=320,
+                showlegend=False,
+                yaxis=dict(visible=False, range=[-1, 1]),
+                xaxis=dict(showgrid=False),
+                plot_bgcolor="rgba(0,0,0,0)",
+                paper_bgcolor="rgba(0,0,0,0)",
+            )
+            st.plotly_chart(fig_bub, width="stretch")
     elif tab_name == "Polarización" and "date" in df.columns:
         st.markdown("""
 **Cómo leer este gráfico:**
