@@ -1,54 +1,40 @@
 keyword,count_now,count_base,ratio,viral_score,sources,n_sources,sample_title,detected_at
-debilitaban,3,0,5.0,100,"elespanol, google_news_economia",2,El PIB de España desacelera en el inicio de 2026: la industria y los servicios se debilitaban antes de la guerra en Irán,2026-04-03 06:36
-excluida,3,0,5.0,100,"elespanol, google_news_politica",2,"España, excluida de la cita de más de 30 democracias para reabrir Ormuz al no condenar los ataques iraníes a petroleros",2026-04-03 06:36
-aragón,8,11,8.09,100,"heraldo_aragon, google_news_economia",2,El Gobierno en funciones y la prórroga del presupuesto paralizan leyes e inversiones en Aragón,2026-04-03 06:36
-polonia,3,0,5.0,100,"elpais, google_news_internacional",2,"Polonia y Rumania, obligadas a pagar 1.900 millones a Pfizer por las vacunas de la Covid rechazadas",2026-04-03 06:36
-teruel,3,3,11.12,100,heraldo_aragon,1,"La Fiscalía de Teruel, partidaria de trasladar el caso Forestalia a los juzgados de Madrid",2026-04-03 06:36
-previsión,3,5,6.67,100,"eldiario, levante_emv",2,Calor de mayo en plena Semana Santa: la previsión de la Aemet para la recta final,2026-04-03 06:36
-había,3,5,6.67,100,"elpais, el_confidencial_economia, google_news_economia",3,Lo pagano que había en el cristianismo sirvió para tomar Roma: “La misa católica es la última tragedia griega”,2026-04-03 06:36
-grandes,3,6,5.56,100,"elpais, elespanol",2,"Aulas grandes y pizarras, por favor",2026-04-03 06:36
-fármacos,3,2,16.69,100,"elpais, heraldo_aragon",2,"Marta Echaves, investigadora cultural de la ketamina: “Ahora las drogas se administran como fármacos y los fármacos se esnifan como drogas”",2026-04-03 06:36
-antes,7,14,5.56,100,"okdiario, elpais, heraldo_aragon, el_confidencial_economia, google_news_economia",5,La Policía admite ante la UE que las expulsiones de inmigrantes ilegales a Marruecos son «muy limitadas»,2026-04-03 06:36
-saber,3,4,8.34,100,"elpais, elconfidencial",2,¿De quién es la Luna? Las cinco curiosidades que siempre quisiste saber sobre el satélite,2026-04-03 06:36
-imposible,3,1,33.37,100,"el_confidencial_economia, google_news_economia",2,"Gonzalo Bernardos, economista: ""Si antes había pocas probabilidades de encontrar piso, ahora es casi imposible""",2026-04-03 06:36
-alertan,3,1,33.37,100,"google_news_es, elpais, el_confidencial_tech",3,Pradales y Chivite alertan a Illa del “riesgo unilateral” de la financiación singular - EL PAÍS,2026-04-03 06:36
-iraníes,4,2,22.25,100,"france24_es, elespanol, google_news_politica",3,Guerra en Irán: ¿qué piensan los estadounidenses e iraníes de las decisiones de Trump?,2026-04-03 06:36
-éxito,3,6,5.56,100,"google_news_es, bbc_mundo, elmundo",3,La nave Orión realiza con éxito la maniobra de inyección translunar y los astronautas de la misión Artemis II ya se dirigen hacia la Luna - BBC,2026-04-03 06:36
-democracias,4,0,5.0,100,"elespanol, google_news_politica",2,"España, excluida de la cita de más de 30 democracias para reabrir Ormuz al no condenar los ataques iraníes a petroleros",2026-04-03 06:36
-presos,3,2,16.69,100,"france24_es, elpais, google_news_internacional",3,El Gobierno de Cuba anuncia el indulto de 2.010 presos,2026-04-03 06:36
-calle,3,3,11.12,100,"okdiario, google_news_es, elpais",3,Una herramienta predice la incidencia diaria de infartos en la calle,2026-04-03 06:36
-congreso,4,7,6.36,100,"elpais, elconfidencial, elespanol",3,Hacienda aplicará en la declaración del IRPF los cambios del decreto ómnibus que luego tumbó el Congreso,2026-04-03 06:36
-decreto,3,0,5.0,100,"elpais, google_news_es",2,Hacienda aplicará en la declaración del IRPF los cambios del decreto ómnibus que luego tumbó el Congreso,2026-04-03 06:36
-condenar,3,1,33.37,100,"elespanol, google_news_politica",2,"España, excluida de la cita de más de 30 democracias para reabrir Ormuz al no condenar los ataques iraníes a petroleros",2026-04-03 06:36
-ministros,3,0,5.0,100,"okdiario, google_news_economia",2,El cazaplagios que tumbó a dos ministros alemanes: «Hay fraude en la tesis de Carlos Cuerpo»,2026-04-03 06:36
-petroleros,3,0,5.0,100,"elespanol, google_news_politica",2,"España, excluida de la cita de más de 30 democracias para reabrir Ormuz al no condenar los ataques iraníes a petroleros",2026-04-03 06:36
-desacelera,3,0,5.0,100,"elespanol, google_news_economia",2,El PIB de España desacelera en el inicio de 2026: la industria y los servicios se debilitaban antes de la guerra en Irán,2026-04-03 06:36
-moncloa,4,4,11.12,100,"okdiario, google_news_economia, elespanol",3,Begoña Gómez también usó a la asesora de Moncloa en un vídeo promocional de su máster,2026-04-03 06:36
-inicio,3,6,5.56,100,"elespanol, google_news_economia",2,El PIB de España desacelera en el inicio de 2026: la industria y los servicios se debilitaban antes de la guerra en Irán,2026-04-03 06:36
-industria,3,0,5.0,100,"elespanol, google_news_economia",2,El PIB de España desacelera en el inicio de 2026: la industria y los servicios se debilitaban antes de la guerra en Irán,2026-04-03 06:36
-servicios,3,0,5.0,100,"elespanol, google_news_economia",2,El PIB de España desacelera en el inicio de 2026: la industria y los servicios se debilitaban antes de la guerra en Irán,2026-04-03 06:36
-siempre,3,5,6.67,100,"infolibre, elpais",2,Tus datos te delatarán: la revolución silenciosa que ha cambiado la justicia penal para siempre,2026-04-03 06:36
-carlos,3,4,8.34,100,"levante_emv, okdiario, elpais",3,La estrategia 'win-win' de Carlos Mazón en la causa de la dana,2026-04-03 06:36
-confidencial,4,4,11.12,100,"google_news_politica, google_news_economia, elespanol",3,Los buenos alcaldes son la parte sana de la política española - El Confidencial,2026-04-03 06:36
-viernes,7,16,4.87,97,"okdiario, eldiario, levante_emv, heraldo_aragon",4,"Horóscopo diario gratis: la predicción para hoy, viernes 3 de abril",2026-04-03 06:36
-fuera,3,7,4.77,95,"elpais, google_news_internacional",2,"Menorca fuera de temporada alta: más consciente, más real, más armónica",2026-04-03 06:36
-global,4,10,4.45,88,"elpais, google_news_economia, google_news_politica",3,Morir solo por nacer aquí o allá: los decesos de niños por cáncer aumentaron en un 56% en África desde 1990 mientras se reducían a nivel global,2026-04-03 06:36
-español,4,10,4.45,88,"google_news_internacional, google_news_politica, google_news_economia",3,Primer Día Internacional del Taijiquan - CGTN en Español,2026-04-03 06:36
-ahora,4,10,4.45,88,"google_news_es, elpais, el_confidencial_economia, google_news_economia",4,Sergi Darder: “Demichelis es perfecto ahora para el Mallorca. Un tío con su ego que diga: ‘aquí mando yo” - EL PAÍS,2026-04-03 06:36
-dinero,3,8,4.17,83,"elpais_internacional, elpais, google_news_es",3,El misterioso ataque de Rusia que dejó a Hungría sin petróleo (y a Ucrania sin dinero de la UE),2026-04-03 06:36
-mantener,3,8,4.17,83,"levante_emv, elconfidencial, el_confidencial_tech",3,Catarroja aplaza la disolución del ente de la residencia para estudiar mantener la plantilla,2026-04-03 06:36
-pasar,3,8,4.17,83,"google_news_economia, elespanol",2,La cartera de los ministros tras pasar por la Moncloa: así les cambia el patrimonio - La Razón,2026-04-03 06:36
-claves,3,9,3.71,74,"heraldo_aragon, google_news_es, france24_es",3,"Los mensajes y las llamadas de los detenidos, claves en el caso del asesinato de Plasencia de Jalón",2026-04-03 06:36
-sánchez,5,16,3.48,69,"google_news_internacional, google_news_economia, okdiario",3,Sánchez deja fuera de su internacional 'progre' de Barcelona a sus aliados separatistas y de izquierdas - eldebate.com,2026-04-03 06:36
-niños,4,13,3.42,68,"google_news_internacional, elpais, google_news_economia",3,Día Internacional del Libro Infantil: niños disfrutan de la lectura en Nanjing - CGTN en Español,2026-04-03 06:36
-gobierno,6,20,3.34,66,"elpais, france24_es, elconfidencial, heraldo_aragon, google_news_economia",5,"Etienne Krug, responsable de la Organización Mundial de la Salud: “Los gobiernos se están dando cuenta de los peligros de las redes sociales y de que hay que tomar medidas”",2026-04-03 06:36
-seguridad,3,10,3.34,66,"levante_emv, google_news_politica",2,"UGT advierte sobre las 35 en la sanidad valenciana: sin más plantilla, menos calidad y seguridad",2026-04-03 06:36
-debate,5,17,3.27,65,google_news_internacional,1,Sánchez deja fuera de su internacional 'progre' de Barcelona a sus aliados separatistas y de izquierdas - eldebate.com,2026-04-03 06:36
-hacia,5,17,3.27,65,"elpais, google_news_es, elespanol, bbc_mundo, elmundo",5,El espectáculo de ver salir un cohete hacia la Luna,2026-04-03 06:36
-eldebate.com,3,11,3.03,60,google_news_internacional,1,Sánchez deja fuera de su internacional 'progre' de Barcelona a sus aliados separatistas y de izquierdas - eldebate.com,2026-04-03 06:36
-vivienda,3,12,2.78,55,"google_news_es, elpais, okdiario",3,La izquierda dará la batalla por el decreto de vivienda con movilizaciones en la calle - EL PAÍS,2026-04-03 06:36
-anuncia,4,16,2.78,55,"france24_es, heraldo_aragon, elpais, okdiario",4,El Gobierno de Cuba anuncia el indulto de 2.010 presos,2026-04-03 06:36
-ataque,3,14,2.38,47,"elpais_internacional, google_news_es, okdiario, elespanol, google_news_politica",5,El misterioso ataque de Rusia que dejó a Hungría sin petróleo (y a Ucrania sin dinero de la UE),2026-04-03 06:36
-millones,8,40,2.22,44,"okdiario, elpais, heraldo_aragon",3,"Duro Felguera condenada a pagar 39,2 millones a un avalista de Dubai y agrava su situación",2026-04-03 06:36
-historia,3,15,2.22,44,"levante_emv, elpais, elespanol",3,La guerra de Irán dispara la compra de coches eléctricos en Valencia: marzo es el mes con más ventas de la historia,2026-04-03 06:36
-tiempo,3,16,2.09,41,"levante_emv, google_news_economia",2,"El tiempo en València: previsión meteorológica para hoy, viernes 3 de abril",2026-04-03 06:36
+aragón,8,11,8.61,100,"heraldo_aragon, google_news_economia",2,El Gobierno en funciones y la prórroga del presupuesto paralizan leyes e inversiones en Aragón,2026-04-03 07:06
+presos,3,2,17.76,100,"france24_es, elpais, google_news_internacional",3,El Gobierno de Cuba anuncia el indulto de 2.010 presos,2026-04-03 07:06
+calle,3,3,11.84,100,"okdiario, google_news_es, elpais",3,Una herramienta predice la incidencia diaria de infartos en la calle,2026-04-03 07:06
+polonia,3,0,5.0,100,"elpais, google_news_internacional",2,"Polonia y Rumania, obligadas a pagar 1.900 millones a Pfizer por las vacunas de la Covid rechazadas",2026-04-03 07:06
+decreto,3,0,5.0,100,"elpais, google_news_es",2,Hacienda aplicará en la declaración del IRPF los cambios del decreto ómnibus que luego tumbó el Congreso,2026-04-03 07:06
+fuera,3,7,5.07,100,"elpais, google_news_internacional",2,"Menorca fuera de temporada alta: más consciente, más real, más armónica",2026-04-03 07:06
+alertan,3,1,35.52,100,"google_news_es, elpais, el_confidencial_tech",3,Pradales y Chivite alertan a Illa del “riesgo unilateral” de la financiación singular - EL PAÍS,2026-04-03 07:06
+teruel,3,3,11.84,100,heraldo_aragon,1,"La Fiscalía de Teruel, partidaria de trasladar el caso Forestalia a los juzgados de Madrid",2026-04-03 07:06
+siempre,3,5,7.1,100,"infolibre, elpais",2,Tus datos te delatarán: la revolución silenciosa que ha cambiado la justicia penal para siempre,2026-04-03 07:06
+carlos,3,4,8.88,100,"levante_emv, okdiario, elpais",3,La estrategia 'win-win' de Carlos Mazón en la causa de la dana,2026-04-03 07:06
+previsión,3,5,7.1,100,"eldiario, levante_emv",2,Calor de mayo en plena Semana Santa: la previsión de la Aemet para la recta final,2026-04-03 07:06
+saber,3,4,8.88,100,"elpais, elconfidencial",2,¿De quién es la Luna? Las cinco curiosidades que siempre quisiste saber sobre el satélite,2026-04-03 07:06
+imposible,3,1,35.52,100,"el_confidencial_economia, google_news_economia",2,"Gonzalo Bernardos, economista: ""Si antes había pocas probabilidades de encontrar piso, ahora es casi imposible""",2026-04-03 07:06
+fármacos,3,2,17.76,100,"elpais, heraldo_aragon",2,"Marta Echaves, investigadora cultural de la ketamina: “Ahora las drogas se administran como fármacos y los fármacos se esnifan como drogas”",2026-04-03 07:06
+viernes,10,16,7.4,100,"okdiario, eldiario, levante_emv, heraldo_aragon",4,La AEMET lo confirma: así será el tiempo en la Comunidad Valenciana este Viernes Santo,2026-04-03 07:06
+había,3,5,7.1,100,"elpais, el_confidencial_economia, google_news_economia",3,Lo pagano que había en el cristianismo sirvió para tomar Roma: “La misa católica es la última tragedia griega”,2026-04-03 07:06
+confidencial,3,5,7.1,100,"google_news_politica, google_news_economia",2,Los buenos alcaldes son la parte sana de la política española - El Confidencial,2026-04-03 07:06
+ahora,4,10,4.74,94,"google_news_es, elpais, el_confidencial_economia, google_news_economia",4,Sergi Darder: “Demichelis es perfecto ahora para el Mallorca. Un tío con su ego que diga: ‘aquí mando yo” - EL PAÍS,2026-04-03 07:06
+global,4,10,4.74,94,"elpais, google_news_economia, google_news_politica",3,Morir solo por nacer aquí o allá: los decesos de niños por cáncer aumentaron en un 56% en África desde 1990 mientras se reducían a nivel global,2026-04-03 07:06
+congreso,3,8,4.44,88,"elpais, elconfidencial",2,Hacienda aplicará en la declaración del IRPF los cambios del decreto ómnibus que luego tumbó el Congreso,2026-04-03 07:06
+mantener,3,8,4.44,88,"levante_emv, elconfidencial, el_confidencial_tech",3,Catarroja aplaza la disolución del ente de la residencia para estudiar mantener la plantilla,2026-04-03 07:06
+valenciana,3,8,4.44,88,"okdiario, levante_emv",2,La AEMET lo confirma: así será el tiempo en la Comunidad Valenciana este Viernes Santo,2026-04-03 07:06
+dinero,3,8,4.44,88,"elpais_internacional, elpais, google_news_es",3,El misterioso ataque de Rusia que dejó a Hungría sin petróleo (y a Ucrania sin dinero de la UE),2026-04-03 07:06
+debate,6,17,4.18,83,google_news_internacional,1,"Macron y su homólogo surcoreano elevan lazos con foco en comercio, IA y energía - El Debate",2026-04-03 07:06
+gobierno,7,20,4.14,82,"elpais, google_news_politica, france24_es, elconfidencial, heraldo_aragon",5,"Etienne Krug, responsable de la Organización Mundial de la Salud: “Los gobiernos se están dando cuenta de los peligros de las redes sociales y de que hay que tomar medidas”",2026-04-03 07:06
+claves,3,9,3.95,78,"heraldo_aragon, google_news_es, france24_es",3,"Los mensajes y las llamadas de los detenidos, claves en el caso del asesinato de Plasencia de Jalón",2026-04-03 07:06
+sánchez,5,15,3.95,78,"google_news_internacional, google_news_economia, okdiario",3,Sánchez deja fuera de su internacional 'progre' de Barcelona a sus aliados separatistas y de izquierdas - eldebate.com,2026-04-03 07:06
+tiempo,5,16,3.7,73,"okdiario, elpais, levante_emv, google_news_economia",4,La AEMET lo confirma: así será el tiempo en la Comunidad Valenciana este Viernes Santo,2026-04-03 07:06
+niños,4,13,3.64,72,"google_news_internacional, elpais, google_news_economia",3,Día Internacional del Libro Infantil: niños disfrutan de la lectura en Nanjing - CGTN en Español,2026-04-03 07:06
+seguridad,3,10,3.55,71,"levante_emv, google_news_politica",2,"UGT advierte sobre las 35 en la sanidad valenciana: sin más plantilla, menos calidad y seguridad",2026-04-03 07:06
+eldebate.com,3,11,3.23,64,google_news_internacional,1,Sánchez deja fuera de su internacional 'progre' de Barcelona a sus aliados separatistas y de izquierdas - eldebate.com,2026-04-03 07:06
+vivienda,3,12,2.96,59,"google_news_es, elpais, okdiario",3,La izquierda dará la batalla por el decreto de vivienda con movilizaciones en la calle - EL PAÍS,2026-04-03 07:06
+anuncia,4,16,2.96,59,"france24_es, heraldo_aragon, elpais, okdiario",4,El Gobierno de Cuba anuncia el indulto de 2.010 presos,2026-04-03 07:06
+predicción,3,13,2.73,54,okdiario,1,"Predicción del horóscopo para Géminis hoy, viernes 3 de abril de 2026",2026-04-03 07:06
+ataque,3,14,2.54,50,"elpais_internacional, google_news_es, okdiario",3,El misterioso ataque de Rusia que dejó a Hungría sin petróleo (y a Ucrania sin dinero de la UE),2026-04-03 07:06
+comunidad,4,19,2.49,49,"okdiario, google_news_internacional, eldiario, heraldo_aragon",4,La AEMET lo confirma: así será el tiempo en la Comunidad Valenciana este Viernes Santo,2026-04-03 07:06
+millones,8,40,2.37,47,"okdiario, elpais, heraldo_aragon",3,"Duro Felguera condenada a pagar 39,2 millones a un avalista de Dubai y agrava su situación",2026-04-03 07:06
+horóscopo,3,15,2.37,47,okdiario,1,"Predicción del horóscopo para Géminis hoy, viernes 3 de abril de 2026",2026-04-03 07:06
+mientras,3,17,2.09,41,"google_news_internacional, elpais, france24_es",3,EE. UU. promete atacar más infraestructuras iraníes mientras la comunidad internacional busca reabrir Ormuz - MarketScreener España,2026-04-03 07:06
