@@ -72,7 +72,7 @@ def _freshness_block():
     from datetime import datetime
     from pathlib import Path
 
-    PROCESSED = Path(BASE_DIR).parent / "data" / "processed"
+    PROCESSED = Path(BASE_DIR)
     DATE_COLS = ["date", "fecha", "cycle", "last_update", "timestamp"]
     UMBRAL_OK = 2       # horas
     UMBRAL_CRIT = 24    # horas
