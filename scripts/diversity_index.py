@@ -23,7 +23,7 @@ STOPWORDS = ["de","la","el","en","y","a","que","los","del","se","las","por",
              "este","esta","fue","ha","lo","si","sobre","entre","cuando","hasta"]
 
 os.makedirs(os.path.dirname(OUTPUT), exist_ok=True)
-now = datetime.now()
+now = pd.Timestamp.now(tz="UTC")
 now_str = now.strftime("%Y-%m-%d %H:%M")
 print(f"[DIVERSITY] {now_str} — Iniciando índice de diversidad")
 
@@ -31,7 +31,7 @@ try:
     df = pd.read_csv(INPUT)
     df["date"] = pd.to_datetime(df["date"], errors="coerce", utc=True)
     df = df.dropna(subset=["date"])
-    cutoff = now - timedelta(days=RECENT_DAYS)
+    cutoff = now - pd.Timedelta(days=RECENT_DAYS)
     df = df[(df["date"] >= cutoff) & (df["date"] <= now)]
     df = df.drop_duplicates(subset=["title"])
     print(f"[DIVERSITY] {len(df)} noticias recientes ({RECENT_DAYS} días)")
