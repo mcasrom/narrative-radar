@@ -30,7 +30,7 @@ print(f"[AGENDA] {now_str} — Iniciando score de agenda-setting")
 
 try:
     df = pd.read_csv(INPUT)
-    df["date"] = pd.to_datetime(df["date"], errors="coerce")
+    df["date"] = pd.to_datetime(df["date"], errors="coerce", utc=True)
     df = df.dropna(subset=["date"])
     cutoff = now - pd.Timedelta(days=RECENT_DAYS)
     df = df[(df["date"] >= cutoff) & (df["date"] <= now)]

@@ -48,7 +48,7 @@ def analizar_csv(path):
     fecha_max = None
     if col:
         try:
-            fechas = pd.to_datetime(df[col], errors="coerce").dropna()
+            fechas = pd.to_datetime(df[col], errors="coerce", utc=True).dropna()
             if not fechas.empty:
                 fecha_max = fechas.max()
                 horas_datos = (NOW - fecha_max.to_pydatetime()).total_seconds() / 3600

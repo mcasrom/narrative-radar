@@ -19,7 +19,7 @@ try:
 except Exception as e:
     print(f"Error leyendo {INPUT}: {e}"); exit(1)
 
-df["day"] = pd.to_datetime(df["date"], errors="coerce").dt.date
+df["day"] = pd.to_datetime(df["date"], errors="coerce", utc=True).dt.date
 now = datetime.now().strftime("%Y-%m-%d %H:%M")
 
 pairs = {}

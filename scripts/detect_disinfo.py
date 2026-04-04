@@ -118,7 +118,7 @@ df_bulos.to_csv(BULOS_DB, index=False)
 print(f"[DISINFO] {len(df_bulos)} bulos totales")
 
 # Solo cruzar noticias de las últimas 48h para alertas frescas
-df_news["date_parsed"] = pd.to_datetime(df_news["date"], errors="coerce")
+df_news["date_parsed"] = pd.to_datetime(df_news["date"], errors="coerce", utc=True)
 cutoff = pd.Timestamp.now() - pd.Timedelta(hours=48)
 df_news_recent = df_news[df_news["date_parsed"] >= cutoff].copy()
 if len(df_news_recent) < 50:  # fallback si hay pocas noticias recientes

@@ -29,7 +29,7 @@ print(f"[DIVERSITY] {now_str} — Iniciando índice de diversidad")
 
 try:
     df = pd.read_csv(INPUT)
-    df["date"] = pd.to_datetime(df["date"], errors="coerce")
+    df["date"] = pd.to_datetime(df["date"], errors="coerce", utc=True)
     df = df.dropna(subset=["date"])
     cutoff = now - timedelta(days=RECENT_DAYS)
     df = df[(df["date"] >= cutoff) & (df["date"] <= now)]

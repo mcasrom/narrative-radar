@@ -13,7 +13,7 @@ def purgar(fichero, col_fecha, dias=30):
         return
     df = pd.read_csv(path)
     antes = len(df)
-    df[col_fecha] = pd.to_datetime(df[col_fecha], errors='coerce')
+    df[col_fecha] = pd.to_datetime(df[col_fecha], errors='coerce', utc=True)
     df = df[df[col_fecha] >= HOY - timedelta(days=dias)]
     df.to_csv(path, index=False)
     print(f"[PURGE] {fichero}: {antes} → {len(df)} filas ({dias}d)")

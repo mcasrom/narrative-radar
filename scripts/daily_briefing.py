@@ -47,7 +47,7 @@ lines.append("═"*60)
 # ── 1. Noticias del día ──────────────────────────────────────────
 df_news = load("news_summary.csv", parse_dates=["date"])
 if not df_news.empty:
-    df_news["date"] = pd.to_datetime(df_news["date"], errors="coerce")
+    df_news["date"] = pd.to_datetime(df_news["date"], errors="coerce", utc=True)
     ayer    = now - timedelta(hours=24)
     recents = df_news[df_news["date"] >= ayer]
     fuentes_activas = recents["source"].nunique() if not recents.empty else 0

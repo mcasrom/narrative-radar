@@ -72,7 +72,7 @@ except Exception as e:
 
 now = datetime.now().strftime("%Y-%m-%d %H:%M")
 # Ponderar por recencia
-df["date"] = pd.to_datetime(df["date"], errors="coerce")
+df["date"] = pd.to_datetime(df["date"], errors="coerce", utc=True)
 cutoff_48h = pd.Timestamp.now() - pd.Timedelta(hours=48)
 cutoff_7d  = pd.Timestamp.now() - pd.Timedelta(days=7)
 df["weight"] = 1.0

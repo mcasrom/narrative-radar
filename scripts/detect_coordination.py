@@ -55,7 +55,7 @@ print(f"[COORD] {now_str} — Iniciando detector de narrativas coordinadas")
 
 try:
     df = pd.read_csv(INPUT)
-    df["date"] = pd.to_datetime(df["date"], errors="coerce")
+    df["date"] = pd.to_datetime(df["date"], errors="coerce", utc=True)
     df = df.dropna(subset=["date"])
     # Filtrar noticias recientes y fechas espurias
     cutoff = now - pd.Timedelta(days=RECENT_DAYS)

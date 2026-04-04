@@ -23,7 +23,7 @@ try:
 except Exception as e:
     print(f"Error leyendo {INPUT}: {e}"); exit(1)
 
-df["date"] = pd.to_datetime(df["date"], errors="coerce")
+df["date"] = pd.to_datetime(df["date"], errors="coerce", utc=True)
 df = df.dropna(subset=["date"])
 df["day"] = df["date"].dt.date
 
@@ -50,7 +50,7 @@ result["cycle"] = now
 if os.path.exists(HISTORY):
     hist = pd.read_csv(HISTORY)
     hist = pd.concat([hist, result], ignore_index=True)
-    hist = hist[(pd.to_datetime(hist["date"], errors="coerce") >= (pd.Timestamp.now() - pd.Timedelta(days=90))) & (pd.to_datetime(hist["date"], errors="coerce") <= pd.Timestamp.now())]
+    hist = hist[(pd.to_datetime(hist["date"], errors="coerce") >= (pd.Timestamp.now() - pd.Timedelta(days=90))) & (pd.to_datetime(hist["date"], errors="coerce", utc=True) <= pd.Timestamp.now())]
     hist = hist.drop_duplicates(subset=["date","cycle"], keep="last")
 else:
     hist = result.copy()

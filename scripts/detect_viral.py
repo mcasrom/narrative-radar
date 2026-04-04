@@ -53,7 +53,7 @@ print(f"[VIRAL] {now_str} — Iniciando detector de temas virales")
 
 try:
     df = pd.read_csv(INPUT)
-    df["date"] = pd.to_datetime(df["date"], errors="coerce")
+    df["date"] = pd.to_datetime(df["date"], errors="coerce", utc=True)
     df = df.dropna(subset=["date"])
     df = df[df["date"] <= now]
     print(f"[VIRAL] {len(df)} noticias cargadas")

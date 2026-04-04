@@ -171,7 +171,7 @@ def validar_csvs():
             col_fecha = next((c for c in ["date","last_update","cycle","detected_at"]
                               if c in df.columns), None)
             if col_fecha and len(df) > 0:
-                df["_d"] = pd.to_datetime(df[col_fecha], errors="coerce")
+                df["_d"] = pd.to_datetime(df[col_fecha], errors="coerce", utc=True)
                 recientes = (df["_d"] >= CORTE_90).sum()
                 entrada["pct_fechas_recientes"] = round(recientes / len(df), 3)
             else:
@@ -285,7 +285,7 @@ def validar_fuentes_rss():
         resultado["fuentes_total"] = len(df)
 
         if "timestamp" in df.columns:
-            df["_ts"] = pd.to_datetime(df["timestamp"], errors="coerce")
+            df["_ts"] = pd.to_datetime(df["timestamp"], errors="coerce", utc=True)
             activas = df[df["_ts"] >= CORTE_6H]
             resultado["fuentes_activas_6h"] = len(activas)
 
@@ -385,7 +385,7 @@ def guardar_resultados(resultados_csv, nlp, rss, acciones, score_global):
     if history_path.exists():
         df_hist = pd.read_csv(history_path)
         df_hist = pd.concat([df_hist, df_latest], ignore_index=True)
-        df_hist["_d"] = pd.to_datetime(df_hist["timestamp"], errors="coerce")
+        df_hist["_d"] = pd.to_datetime(df_hist["timestamp"], errors="coerce", utc=True)
         df_hist = df_hist[df_hist["_d"] >= CORTE_90.strftime("%Y-%m-%d")]
         df_hist = df_hist.drop(columns=["_d"])
     else:

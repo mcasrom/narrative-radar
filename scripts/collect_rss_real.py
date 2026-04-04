@@ -82,7 +82,7 @@ for name, url in rss_feeds.items():
 # -----------------------------
 df_news = pd.read_sql_query("SELECT * FROM news ORDER BY published DESC", conn)
 csv_path = os.path.join(base_dir, "news_summary.csv")
-df_news['date'] = pd.to_datetime(df_news['date'], errors='coerce')
+df_news['date'] = pd.to_datetime(df_news['date'], errors='coerce', utc=True)
 cutoff_90 = (pd.Timestamp.now() - pd.Timedelta(days=90)).strftime('%Y-%m-%d')
 df_news = df_news[df_news['date'] >= cutoff_90]
 df_news['date'] = df_news['date'].dt.strftime('%Y-%m-%d %H:%M:%S')

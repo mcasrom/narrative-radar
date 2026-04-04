@@ -56,7 +56,7 @@ print(f"[PERSONAS] {now} — Iniciando seguimiento de personajes")
 
 try:
     df = pd.read_csv(INPUT)
-    df["date"] = pd.to_datetime(df["date"], errors="coerce")
+    df["date"] = pd.to_datetime(df["date"], errors="coerce", utc=True)
     df["title_lower"] = df["title"].fillna("").str.lower()
     print(f"[PERSONAS] {len(df)} noticias analizadas")
 except Exception as e:

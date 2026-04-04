@@ -7,7 +7,7 @@ BASE   = os.path.abspath(os.path.join(os.path.dirname(os.path.abspath(__file__))
 OUTPUT = os.path.join(BASE, "data/processed/metadata.json")
 
 df = pd.read_csv(os.path.join(BASE, "data/processed/news_summary.csv"))
-df["date"] = pd.to_datetime(df["date"], errors="coerce")
+df["date"] = pd.to_datetime(df["date"], errors="coerce", utc=True)
 df = df[df["date"] < pd.Timestamp("2026-04-01")]  # filtrar fechas espurias
 
 meta = {
