@@ -1,105 +1,97 @@
 keyword,count_now,count_base,ratio,viral_score,sources,n_sources,sample_title,detected_at
-libertad,9,6,7.61,100,"levante_emv, google_news_es, lavanguardia, elcorreo, europapress",5,Libertad provisional para el detenido por matar a su pareja en Basauri,2026-04-04 22:36
-recuerdo,3,2,7.61,100,"sur, google_news_es, elpais",3,Solitaria vuelta para Fortes en una corrida Picassiana con el recuerdo presente de Ricardo Ortiz,2026-04-04 22:36
-fortes,4,0,5.0,100,"sur, google_news_es, elmundo",3,Solitaria vuelta para Fortes en una corrida Picassiana con el recuerdo presente de Ricardo Ortiz,2026-04-04 22:36
-vuelta,4,4,5.07,100,"sur, google_news_es, elcorreo, 20minutos",4,Solitaria vuelta para Fortes en una corrida Picassiana con el recuerdo presente de Ricardo Ortiz,2026-04-04 22:36
-sentimos,3,0,5.0,100,"google_news_internacional, elmundo_internacional",2,"Los españoles irreductibles de Dubai: ""Aquí nos sentimos seguros"" - elmundo.es",2026-04-04 22:36
-dubai,3,1,15.22,100,"google_news_internacional, elmundo_internacional",2,"Los españoles irreductibles de Dubai: ""Aquí nos sentimos seguros"" - elmundo.es",2026-04-04 22:36
-irreductibles,3,0,5.0,100,"google_news_internacional, elmundo_internacional",2,"Los españoles irreductibles de Dubai: ""Aquí nos sentimos seguros"" - elmundo.es",2026-04-04 22:36
-laura,3,0,5.0,100,"levante_emv, huffington_es",2,El Roig Arena se rinde a Laura Pausini,2026-04-04 22:36
-pareja,7,6,5.92,100,"levante_emv, lavanguardia, google_news_es, elconfidencial, huffington_es",5,Libertad provisional para el detenido por matar a su pareja en Basauri,2026-04-04 22:36
-provisional,5,0,5.0,100,"levante_emv, lavanguardia, google_news_es, elcorreo",4,Libertad provisional para el detenido por matar a su pareja en Basauri,2026-04-04 22:36
-campo,3,1,15.22,100,"elcorreo, google_news_economia, sur, 20minutos",4,Al campo ya no le salen las cuentas,2026-04-04 22:36
-ganar,7,4,8.88,100,"elespanol, elcorreo, elmundo_internacional, sur, levante_emv",5,El Barça remonta frente a un Atlético que jugó con 10 toda la segunda parte y da un golpe casi definitivo para ganar La Liga,2026-04-04 22:36
-puntos,4,1,20.3,100,"okdiario, heraldo_aragon, elpais, lavanguardia",4,Así queda la clasificación de la Liga: Lewandowski deja al Barça a siete puntos,2026-04-04 22:36
-lewandowski,3,0,5.0,100,"okdiario, 20minutos",2,Así queda la clasificación de la Liga: Lewandowski deja al Barça a siete puntos,2026-04-04 22:36
-expulsado,3,0,5.0,100,"google_news_es, elcorreo, elpais",3,¿Debió ser expulsado Gerard Martín? Iturralde González resuelve la polémica del Atlético de Madrid-FC Barcelona - Cadena SER,2026-04-04 22:36
-media,5,5,5.07,100,"elcorreo, okdiario, huffington_es, heraldo_aragon, 20minutos",5,El Barça atrapa ya más de media Liga ganando ante un Atlético con diez,2026-04-04 22:36
-orion,3,3,5.07,100,"okdiario, google_news_es",2,Los astronautas de Artemis II coinciden: el váter de Orion huele a estufa quemada,2026-04-04 22:36
-picassiana,3,2,7.61,100,"sur, google_news_es",2,Solitaria vuelta para Fortes en una corrida Picassiana con el recuerdo presente de Ricardo Ortiz,2026-04-04 22:36
-riazor,3,0,5.0,100,"sur, google_news_es",2,Notas a los jugadores del Málaga en Riazor,2026-04-04 22:36
-primitiva,10,0,5.0,100,"sur, 20minutos, elcorreo, levante_emv, okdiario",5,"Comprobar Lotería del sábado, 04 de abril: resultados de la Bonoloto, La Primitiva, de la Lotería Nacional y del Sueldazo del fin de semana de la ONCE",2026-04-04 22:36
-gloria,3,1,15.22,100,"levante_emv, google_news_es, 20minutos",3,Sábado de Gloria en la Semana Santa Marinera: Procesiones y Vigilia,2026-04-04 22:36
-muriqi,3,2,7.61,100,"20minutos, lavanguardia, okdiario",3,"Muriqi rompe a llorar con su gol al Madrid: ""Parezco feo y duro, pero soy humano y a veces los nervios me dejan""",2026-04-04 22:36
-derrota,5,4,6.34,100,"20minutos, lavanguardia, elcorreo, elpais",4,"Álvaro Arbeloa, tras caer ante el Mallorca: ""Esta derrota es mía, total y absolutamente mía, se lo he dicho a los jugadores""",2026-04-04 22:36
-106.1,4,1,20.3,100,google_news_internacional,1,Trippier Se Marchará Del Newcastle A Final De Temporada - La Red 106.1 FM,2026-04-04 22:36
-90-74,3,0,5.0,100,"sur, elcorreo",2,El Unicaja naufraga en Bilbao y ya ve amenazado jugar los 'play-off' (90-74),2026-04-04 22:36
-espanyol,4,1,20.3,100,"levante_emv, google_news_es, lavanguardia",3,Betis y Espanyol prolongan sus rachas sin ganar,2026-04-04 22:36
-betis,3,1,15.22,100,"levante_emv, google_news_es",2,Betis y Espanyol prolongan sus rachas sin ganar,2026-04-04 22:36
-empate,5,2,12.69,100,"sur, google_news_es, elpais, 20minutos",4,Así queda el Málaga en la clasificación tras el empate en Riazor,2026-04-04 22:36
-unicaja,3,1,15.22,100,"elcorreo, sur",2,El 1x1 del Bilbao Basket-Unicaja,2026-04-04 22:36
-llorar,3,0,5.0,100,"20minutos, lavanguardia",2,"El encuentro entre José María Almoguera y Edmundo Arrocet: ""La has hecho llorar y eso es lo que no se te perdona""",2026-04-04 22:36
-hombres,5,4,6.34,100,"google_news_es, heraldo_aragon, eldiario",3,La justicia valenciana deja en libertad a los dos hombres detenidos por agredir sexualmente a una mujer en València - Cadena SER,2026-04-04 22:36
-valenciana,3,3,5.07,100,"elespanol, google_news_es, google_news_economia",3,La Comunidad Valenciana y Transición Ecológica se unen a la extinción de un incendio forestal en Henarejos (Cuenca),2026-04-04 22:36
-premiado,3,1,15.22,100,okdiario,1,"La Primitiva: resultado y comprobar número premiado hoy, sábado 4 de abril de 2026",2026-04-04 22:36
-número,3,1,15.22,100,okdiario,1,"La Primitiva: resultado y comprobar número premiado hoy, sábado 4 de abril de 2026",2026-04-04 22:36
-bilbao,7,5,7.1,100,"elcorreo, sur",2,El 1x1 del Bilbao Basket-Unicaja,2026-04-04 22:36
-equipo,5,4,6.34,100,"elcorreo, sur, okdiario",3,Krampelj marca el futuro de un equipo sin techo,2026-04-04 22:36
-sueldazo,5,0,5.0,100,"sur, elcorreo, 20minutos, okdiario",4,"Comprobar Lotería del sábado, 04 de abril: resultados de la Bonoloto, La Primitiva, de la Lotería Nacional y del Sueldazo del fin de semana de la ONCE",2026-04-04 22:36
-descuento,3,1,15.22,100,"okdiario, elpais",2,Muriqi tumba al Real Madrid en el tiempo de descuento y desata la locura en el estadio de Son Moix,2026-04-04 22:36
-barcelona,32,25,6.5,100,"elpais, google_news_es, okdiario, huffington_es, levante_emv",5,"Sin Raphinha, en el Barcelona reaparece Rashford",2026-04-04 22:36
-victoria,7,1,35.52,100,"heraldo_aragon, 20minutos, google_news_es, elcorreo, elpais",5,Así queda el Casademont Zaragoza en la clasificación tras la victoria ante el Araski,2026-04-04 22:36
-triunfo,3,1,15.22,100,"elcorreo, heraldo_aragon",2,Triunfo vital del Lointek Gernika en su visita al Estudiantes,2026-04-04 22:36
-ultimátum,4,4,5.07,100,"levante_emv, google_news_internacional, elcorreo",3,"Irán desdeña el ultimátum de Trump y amenaza con ataques ""sin restricciones"" si hay una escalada",2026-04-04 22:36
-maría,6,4,7.61,100,"elcorreo, 20minutos, huffington_es",3,Santa María culmina la mejora de su pórtico como espacio cultural «de calidad» todo el año,2026-04-04 22:36
-goles,5,5,5.07,100,"elcorreo, okdiario, google_news_es",3,Atracón de goles en Mendizorroza,2026-04-04 22:36
-rashford,3,1,15.22,100,"elpais, 20minutos",2,"Sin Raphinha, en el Barcelona reaparece Rashford",2026-04-04 22:36
-barça,21,5,21.31,100,"20minutos, elcorreo, elpais, europapress, okdiario",5,La polémica de la victoria del Barça ante el Atleti: de la expulsión de Nico González al perdón del VAR a Gerard Martín,2026-04-04 22:36
-expulsión,3,0,5.0,100,"20minutos, okdiario",2,La polémica de la victoria del Barça ante el Atleti: de la expulsión de Nico González al perdón del VAR a Gerard Martín,2026-04-04 22:36
-polémica,4,3,6.77,100,"okdiario, 20minutos, google_news_es, levante_emv",4,"Simeone sobre la polémica con Gerard Martín: «Se equivocaron, esperamos que el CTA lo explique bien»",2026-04-04 22:36
-gonzález,4,1,20.3,100,"20minutos, google_news_es, okdiario, elpais",4,La polémica de la victoria del Barça ante el Atleti: de la expulsión de Nico González al perdón del VAR a Gerard Martín,2026-04-04 22:36
-barcos,4,2,10.15,100,"france24_es, google_news_internacional, google_news_es",3,"“Gaza, Marsella está contigo”: dos barcos franceses se unen a una nueva flotilla",2026-04-04 22:36
-martín,5,3,8.46,100,"okdiario, 20minutos, google_news_es",3,"Simeone sobre la polémica con Gerard Martín: «Se equivocaron, esperamos que el CTA lo explique bien»",2026-04-04 22:36
-atlético,45,21,10.87,100,"google_news_es, elcorreo, elespanol, huffington_es, okdiario",5,"Eric García se escuda ante las críticas tras la victoria del FC Barcelona ante el Atlético en LALIGA: ""Algunos dirán que han salido a regalarnos el partido"" - dazn.com",2026-04-04 22:36
-vitoria,4,3,6.77,100,elcorreo,1,Vitoria se convierte en un gran laboratorio que analizará la salud de 4.000 alaveses en 20 años,2026-04-04 22:36
-clasificación,3,0,5.0,100,"heraldo_aragon, okdiario, sur",3,Así queda el Casademont Zaragoza en la clasificación tras la victoria ante el Araski,2026-04-04 22:36
-flick,3,1,15.22,100,okdiario,1,Flick rebaja la tensión con el enfado de Lamine Yamal: «Estará de mejor humor en la Champions»,2026-04-04 22:36
-golpe,4,0,5.0,100,"france24_es, elcorreo, elpais, elespanol, levante_emv",5,Misiles israelíes golpean la ciudad libanesa de Tiro: patrimonio histórico en riesgo,2026-04-04 22:36
-metropolitano,9,1,45.67,100,"elcorreo, europapress, elmundo, huffington_es, okdiario",5,El Barça da un golpe a la Liga en el Metropolitano,2026-04-04 22:36
-queda,3,1,15.22,100,"heraldo_aragon, elcorreo, okdiario, sur",4,Así queda el Casademont Zaragoza en la clasificación tras la victoria ante el Araski,2026-04-04 22:36
-remonta,3,0,5.0,100,"europapress, elespanol, heraldo_aragon, elpais",4,El Barça remonta y sale por la A7 del Metropolitano,2026-04-04 22:36
-partido,16,16,5.07,100,"elcorreo, google_news_es, okdiario, elespanol, elpais",5,«Es el primer año en el que salgo contento de un partido sin marcar»,2026-04-04 22:36
-ábalos,3,0,5.0,100,"elcorreo, elmundo_espana",2,"Quién es quién en el 'caso mascarillas': los 74 testigos del juicio a Ábalos, Koldo y De Aldama",2026-04-04 22:36
-gerard,5,0,5.0,100,"okdiario, 20minutos, google_news_es",3,"Simeone sobre la polémica con Gerard Martín: «Se equivocaron, esperamos que el CTA lo explique bien»",2026-04-04 22:36
-bonoloto,9,10,4.57,91,"sur, 20minutos, levante_emv, elcorreo, okdiario",5,"Comprobar Lotería del sábado, 04 de abril: resultados de la Bonoloto, La Primitiva, de la Lotería Nacional y del Sueldazo del fin de semana de la ONCE",2026-04-04 22:36
-mucho,4,5,4.06,81,"levante_emv, okdiario, huffington_es, 20minutos, sur",5,"Trump anuncia la muerte de ""muchos dirigentes militares"" de Irán en un ""enorme ataque"" en Teherán",2026-04-04 22:36
-siete,4,5,4.06,81,"okdiario, elpais, elmundo",3,Así queda la clasificación de la Liga: Lewandowski deja al Barça a siete puntos,2026-04-04 22:36
-resultado,13,17,3.88,77,"sur, okdiario, elcorreo, levante_emv, google_news_es",5,"Comprobar Lotería del sábado, 04 de abril: resultados de la Bonoloto, La Primitiva, de la Lotería Nacional y del Sueldazo del fin de semana de la ONCE",2026-04-04 22:36
-minutos,3,4,3.81,76,"google_news_internacional, okdiario, huffington_es, 20minutos",4,"Guerra en Irán, en directo | Irán rechaza el ""inútil"" y ""estúpido"" ultimátum de Trump para que reabra Ormuz en menos de 48 horas - 20Minutos",2026-04-04 22:36
-española,3,4,3.81,76,"elcorreo, huffington_es, 20minutos",3,La española que mantiene impecable la ropa de los billonarios suizos,2026-04-04 22:36
-punto,3,4,3.81,76,"sur, okdiario, heraldo_aragon, elpais, lavanguardia",5,Joaquín: «Este punto es oro para nosotros»,2026-04-04 22:36
-dw.com,3,4,3.81,76,google_news_es,1,Cientos de personas protestan en Israel contra la guerra - DW.com,2026-04-04 22:36
-alineación,3,4,3.81,76,"google_news_internacional, okdiario",2,Alineación del Barcelona ante Atlético de Madrid en LaLiga - La Red 106.1 FM,2026-04-04 22:36
-matar,3,4,3.81,76,"levante_emv, 20minutos",2,Libertad provisional para el detenido por matar a su pareja en Basauri,2026-04-04 22:36
-presunto,4,6,3.38,67,"lavanguardia, google_news_es, elconfidencial",3,En libertad provisional el detenido por el presunto asesinato de su pareja en Basauri,2026-04-04 22:36
-huesca,4,6,3.38,67,heraldo_aragon,1,"Heridos tres vecinos de Huesca en un accidente de tráfico en la AP-15, en Navarra",2026-04-04 22:36
-heridos,5,8,3.17,63,"heraldo_aragon, 20minutos, france24_es",3,Cuatro de los soldados de EE. UU. heridos en Irán han sido clasificados como mexicanos,2026-04-04 22:36
-concierto,3,5,3.04,60,"levante_emv, 20minutos",2,Concierto de Laura Pausini en el Roig Arena de València,2026-04-04 22:36
-bombardeos,3,5,3.04,60,"france24_es, levante_emv, huffington_es",3,Ordenan evacuaciones ante el aumento de los bombardeos en el sur de Líbano,2026-04-04 22:36
-cataluña,3,5,3.04,60,"levante_emv, 20minutos",2,"Vicent Soler: ""El nuevo modelo de financiación no es un traje a medida. Guste o no, los cambios siempre han venido de Cataluña""",2026-04-04 22:36
-podría,3,5,3.04,60,"elcorreo, google_news_internacional",2,"El decreto de Concejalía, la inusual medida que podría decidir el futuro del taxi",2026-04-04 22:36
-seguros,3,5,3.04,60,"google_news_internacional, elmundo_internacional",2,"Los españoles irreductibles de Dubai: ""Aquí nos sentimos seguros"" - elmundo.es",2026-04-04 22:36
-detenido,10,17,2.99,59,"levante_emv, google_news_es, lavanguardia, elcorreo, elespanol",5,Libertad provisional para el detenido por matar a su pareja en Basauri,2026-04-04 22:36
-comprobar,15,26,2.93,58,"sur, elcorreo, okdiario, 20minutos, google_news_es",5,"Comprobar Lotería del sábado, 04 de abril: resultados de la Bonoloto, La Primitiva, de la Lotería Nacional y del Sueldazo del fin de semana de la ONCE",2026-04-04 22:36
-futuro,4,7,2.9,57,"elcorreo, google_news_es, levante_emv",3,"El decreto de Concejalía, la inusual medida que podría decidir el futuro del taxi",2026-04-04 22:36
-laliga,9,16,2.85,57,"google_news_es, levante_emv, google_news_internacional, 20minutos",4,"Eric García se escuda ante las críticas tras la victoria del FC Barcelona ante el Atlético en LALIGA: ""Algunos dirán que han salido a regalarnos el partido"" - dazn.com",2026-04-04 22:36
-salud,4,7,2.9,57,"elcorreo, okdiario, sur, expansion, huffington_es",5,Vitoria se convierte en un gran laboratorio que analizará la salud de 4.000 alaveses en 20 años,2026-04-04 22:36
-policía,5,9,2.82,56,"elpais, google_news_es, lavanguardia, levante_emv, heraldo_aragon",5,La policía arresta a 17 personas en la mayor manifestación en Israel contra la guerra de Irán,2026-04-04 22:36
-resultados,12,22,2.77,55,"sur, elcorreo, levante_emv, google_news_es, 20minutos",5,"Comprobar Lotería del sábado, 04 de abril: resultados de la Bonoloto, La Primitiva, de la Lotería Nacional y del Sueldazo del fin de semana de la ONCE",2026-04-04 22:36
-cerca,6,11,2.77,55,"elcorreo, elmundo_espana, okdiario, france24_es",4,"Los caballos relinchan en 'La Amazona', cerca de Miranda",2026-04-04 22:36
-final,8,15,2.71,54,"google_news_internacional, elcorreo, heraldo_aragon, lavanguardia, 20minutos",5,Maëva Orlé podría irse de Alianza Lima tras final de la Liga Peruana de Vóley: este sería su nuevo club según portal internacional - Infobae,2026-04-04 22:36
-iraní,3,6,2.54,50,"elcorreo, google_news_es, france24_es",3,Rusia evacúa a otros 198 trabajadores de la central nuclear iraní de Bushehr tras ser atacada de nuevo,2026-04-04 22:36
-estadio,3,6,2.54,50,"elcorreo, france24_es, okdiario",3,"Mientras los atletas corrían en el estadio, así nació la Serie 5 de BMW",2026-04-04 22:36
-anuncia,3,6,2.54,50,"levante_emv, google_news_es, 20minutos",3,"Trump anuncia la muerte de ""muchos dirigentes militares"" de Irán en un ""enorme ataque"" en Teherán",2026-04-04 22:36
-jugadores,3,6,2.54,50,"sur, 20minutos, lavanguardia",3,Notas a los jugadores del Málaga en Riazor,2026-04-04 22:36
-justicia,3,6,2.54,50,"google_news_es, elcorreo, lavanguardia",3,La justicia valenciana deja en libertad a los dos hombres detenidos por agredir sexualmente a una mujer en València - Cadena SER,2026-04-04 22:36
-valència,6,13,2.34,46,"levante_emv, google_news_es",2,"Agresiones, machetes y jeringuillas en la Xerea, el calvario de los vecino de un céntrico barrio de València",2026-04-04 22:36
-violar,4,9,2.26,45,"levante_emv, elcorreo, europapress",3,Libertad para los hermanos detenidos por violar a una mujer en València pese a ser pillados 'in fraganti',2026-04-04 22:36
-domingo,9,20,2.28,45,"sur, 20minutos, elespanol, elmundo",4,"Horóscopo de hoy, domingo 05 de abril: Predicciones de salud, amor y dinero",2026-04-04 22:36
-permiso,4,9,2.26,45,"elcorreo, heraldo_aragon, eldiario, google_news_es",4,"Jóvenes al poder, con permiso de Roglic",2026-04-04 22:36
-sábado,24,55,2.21,44,"sur, elcorreo, levante_emv, okdiario, google_news_es",5,"Comprobar Lotería del sábado, 04 de abril: resultados de la Bonoloto, La Primitiva, de la Lotería Nacional y del Sueldazo del fin de semana de la ONCE",2026-04-04 22:36
-deportivo,3,7,2.17,43,"sur, google_news_es, heraldo_aragon",3,Polideportivo malagueño: El Costa del Sol cae por la mínima ante el líder,2026-04-04 22:36
-corrida,3,7,2.17,43,"sur, google_news_es",2,Solitaria vuelta para Fortes en una corrida Picassiana con el recuerdo presente de Ricardo Ortiz,2026-04-04 22:36
-basauri,6,14,2.17,43,"levante_emv, lavanguardia, google_news_es, elcorreo, elconfidencial",5,Libertad provisional para el detenido por matar a su pareja en Basauri,2026-04-04 22:36
-resurrección,3,7,2.17,43,"elespanol, elmundo",2,Horario e itinerario del Domingo de Resurrección en Málaga: el Resucitado cierra una Semana Santa plena,2026-04-04 22:36
-hermanos,4,10,2.03,40,"levante_emv, elcorreo, europapress",3,Libertad para los hermanos detenidos por violar a una mujer en València pese a ser pillados 'in fraganti',2026-04-04 22:36
+bilbao,8,5,8.15,100,"elcorreo, sur",2,Imputados 5 cargos municipales de Bilbao por la denuncia por ruido de un vecino,2026-04-04 23:05
+golpe,5,0,5.0,100,"france24_es, elcorreo, elpais, elespanol, google_news_es",5,Misiles israelíes golpean la ciudad libanesa de Tiro: patrimonio histórico en riesgo,2026-04-04 23:05
+victoria,6,2,15.29,100,"heraldo_aragon, 20minutos, google_news_es, elcorreo",4,Así queda el Casademont Zaragoza en la clasificación tras la victoria ante el Araski,2026-04-04 23:05
+sentimos,3,0,5.0,100,"google_news_internacional, elmundo_internacional",2,"Los españoles irreductibles de Dubai: ""Aquí nos sentimos seguros"" - elmundo.es",2026-04-04 23:05
+polémica,4,3,6.79,100,"okdiario, 20minutos, google_news_es, levante_emv",4,"Simeone sobre la polémica con Gerard Martín: «Se equivocaron, esperamos que el CTA lo explique bien»",2026-04-04 23:05
+triunfo,3,1,15.29,100,"elcorreo, heraldo_aragon",2,Triunfo vital del Lointek Gernika en su visita al Estudiantes,2026-04-04 23:05
+ultimátum,4,4,5.1,100,"levante_emv, google_news_internacional, elcorreo",3,"Irán desdeña el ultimátum de Trump y amenaza con ataques ""sin restricciones"" si hay una escalada",2026-04-04 23:05
+barcelona,32,25,6.52,100,"elpais, google_news_es, okdiario, huffington_es, levante_emv",5,"Sin Raphinha, en el Barcelona reaparece Rashford",2026-04-04 23:05
+rashford,4,1,20.38,100,"elpais, google_news_es, 20minutos",3,"Sin Raphinha, en el Barcelona reaparece Rashford",2026-04-04 23:05
+barça,21,5,21.4,100,"20minutos, elcorreo, elpais, europapress, okdiario",5,La polémica de la victoria del Barça ante el Atleti: de la expulsión de Nico González al perdón del VAR a Gerard Martín,2026-04-04 23:05
+gonzález,4,1,20.38,100,"20minutos, google_news_es, okdiario, elpais",4,La polémica de la victoria del Barça ante el Atleti: de la expulsión de Nico González al perdón del VAR a Gerard Martín,2026-04-04 23:05
+barcos,3,2,7.64,100,"france24_es, google_news_internacional",2,"“Gaza, Marsella está contigo”: dos barcos franceses se unen a una nueva flotilla",2026-04-04 23:05
+dubai,3,1,15.29,100,"google_news_internacional, elmundo_internacional",2,"Los españoles irreductibles de Dubai: ""Aquí nos sentimos seguros"" - elmundo.es",2026-04-04 23:05
+flick,4,1,20.38,100,"okdiario, google_news_es",2,Flick rebaja la tensión con el enfado de Lamine Yamal: «Estará de mejor humor en la Champions»,2026-04-04 23:05
+metropolitano,9,1,45.86,100,"elcorreo, europapress, elmundo, huffington_es, okdiario",5,El Barça da un golpe a la Liga en el Metropolitano,2026-04-04 23:05
+vuelta,4,4,5.1,100,"sur, google_news_es, elcorreo, 20minutos",4,Solitaria vuelta para Fortes en una corrida Picassiana con el recuerdo presente de Ricardo Ortiz,2026-04-04 23:05
+irreductibles,3,0,5.0,100,"google_news_internacional, elmundo_internacional",2,"Los españoles irreductibles de Dubai: ""Aquí nos sentimos seguros"" - elmundo.es",2026-04-04 23:05
+remonta,3,0,5.0,100,"europapress, elespanol, heraldo_aragon, elpais",4,El Barça remonta y sale por la A7 del Metropolitano,2026-04-04 23:05
+atlético,46,20,11.72,100,"okdiario, google_news_es, elcorreo, elespanol, huffington_es",5,El Atlético retrata al CTA con las pruebas de que la expulsión a Gerard Martín era clara,2026-04-04 23:05
+dw.com,3,3,5.1,100,google_news_es,1,Cientos de personas protestan en Israel contra la guerra - DW.com,2026-04-04 23:05
+primitiva,9,2,22.93,100,"sur, 20minutos, google_news_es, elcorreo, levante_emv",5,"Comprobar Lotería del sábado, 04 de abril: resultados de la Bonoloto, La Primitiva, de la Lotería Nacional y del Sueldazo del fin de semana de la ONCE",2026-04-04 23:05
+sueldazo,5,1,25.48,100,"sur, okdiario, elcorreo, 20minutos",4,"Comprobar Lotería del sábado, 04 de abril: resultados de la Bonoloto, La Primitiva, de la Lotería Nacional y del Sueldazo del fin de semana de la ONCE",2026-04-04 23:05
+media,5,5,5.1,100,"elcorreo, okdiario, huffington_es, heraldo_aragon, 20minutos",5,El Barça atrapa ya más de media Liga ganando ante un Atlético con diez,2026-04-04 23:05
+expulsado,3,0,5.0,100,"google_news_es, elcorreo, elpais",3,¿Debió ser expulsado Gerard Martín? Iturralde González resuelve la polémica del Atlético de Madrid-FC Barcelona - Cadena SER,2026-04-04 23:05
+lewandowski,3,0,5.0,100,"okdiario, 20minutos",2,Así queda la clasificación de la Liga: Lewandowski deja al Barça a siete puntos,2026-04-04 23:05
+puntos,4,1,20.38,100,"okdiario, heraldo_aragon, elpais, lavanguardia",4,Así queda la clasificación de la Liga: Lewandowski deja al Barça a siete puntos,2026-04-04 23:05
+ganar,7,4,8.92,100,"elespanol, elcorreo, elmundo_internacional, sur, levante_emv",5,El Barça remonta frente a un Atlético que jugó con 10 toda la segunda parte y da un golpe casi definitivo para ganar La Liga,2026-04-04 23:05
+laura,3,0,5.0,100,"levante_emv, huffington_es",2,El Roig Arena se rinde a Laura Pausini,2026-04-04 23:05
+clasificación,3,0,5.0,100,"heraldo_aragon, okdiario, sur",3,Así queda el Casademont Zaragoza en la clasificación tras la victoria ante el Araski,2026-04-04 23:05
+queda,3,1,15.29,100,"sur, heraldo_aragon, elcorreo, okdiario",4,Trump recuerda a Irán que quedan horas para negociar la paz o «se desatará el infierno»,2026-04-04 23:05
+hombres,5,4,6.37,100,"google_news_es, heraldo_aragon, eldiario",3,La justicia valenciana deja en libertad a los dos hombres detenidos por agredir sexualmente a una mujer en València - Cadena SER,2026-04-04 23:05
+valenciana,3,3,5.1,100,"elespanol, google_news_es, google_news_economia",3,La Comunidad Valenciana y Transición Ecológica se unen a la extinción de un incendio forestal en Henarejos (Cuenca),2026-04-04 23:05
+provisional,6,0,5.0,100,"elcorreo, levante_emv, lavanguardia, google_news_es",4,El juez deja en libertad provisional al detenido por la muerte de su novia en Basauri,2026-04-04 23:05
+90-74,3,0,5.0,100,"sur, elcorreo",2,El Unicaja naufraga en Bilbao y ya ve amenazado jugar los 'play-off' (90-74),2026-04-04 23:05
+espanyol,4,1,20.38,100,"levante_emv, google_news_es, lavanguardia",3,Betis y Espanyol prolongan sus rachas sin ganar,2026-04-04 23:05
+martín,6,3,10.19,100,"okdiario, 20minutos, google_news_es",3,El Atlético retrata al CTA con las pruebas de que la expulsión a Gerard Martín era clara,2026-04-04 23:05
+betis,3,1,15.29,100,"levante_emv, google_news_es",2,Betis y Espanyol prolongan sus rachas sin ganar,2026-04-04 23:05
+empate,5,2,12.74,100,"sur, google_news_es, elpais, 20minutos",4,Así queda el Málaga en la clasificación tras el empate en Riazor,2026-04-04 23:05
+gerard,6,0,5.0,100,"okdiario, 20minutos, google_news_es",3,El Atlético retrata al CTA con las pruebas de que la expulsión a Gerard Martín era clara,2026-04-04 23:05
+unicaja,3,1,15.29,100,"elcorreo, sur",2,El 1x1 del Bilbao Basket-Unicaja,2026-04-04 23:05
+fortes,4,0,5.0,100,"sur, google_news_es, elmundo",3,Solitaria vuelta para Fortes en una corrida Picassiana con el recuerdo presente de Ricardo Ortiz,2026-04-04 23:05
+campo,3,1,15.29,100,"elcorreo, google_news_economia, sur, 20minutos",4,Al campo ya no le salen las cuentas,2026-04-04 23:05
+ábalos,3,0,5.0,100,"elcorreo, elmundo_espana",2,"Quién es quién en el 'caso mascarillas': los 74 testigos del juicio a Ábalos, Koldo y De Aldama",2026-04-04 23:05
+106.1,4,1,20.38,100,google_news_internacional,1,Trippier Se Marchará Del Newcastle A Final De Temporada - La Red 106.1 FM,2026-04-04 23:05
+vitoria,4,4,5.1,100,"elcorreo, google_news_es",2,Vitoria se convierte en un gran laboratorio que analizará la salud de 4.000 alaveses en 20 años,2026-04-04 23:05
+equipo,5,4,6.37,100,"elcorreo, sur, okdiario",3,Krampelj marca el futuro de un equipo sin techo,2026-04-04 23:05
+maría,6,4,7.64,100,"elcorreo, 20minutos, huffington_es",3,Santa María culmina la mejora de su pórtico como espacio cultural «de calidad» todo el año,2026-04-04 23:05
+gloria,3,1,15.29,100,"levante_emv, google_news_es, 20minutos",3,Sábado de Gloria en la Semana Santa Marinera: Procesiones y Vigilia,2026-04-04 23:05
+expulsión,4,0,5.0,100,"okdiario, 20minutos",2,El Atlético retrata al CTA con las pruebas de que la expulsión a Gerard Martín era clara,2026-04-04 23:05
+goles,5,5,5.1,100,"elcorreo, okdiario, google_news_es",3,Atracón de goles en Mendizorroza,2026-04-04 23:05
+riazor,3,0,5.0,100,"sur, google_news_es",2,Notas a los jugadores del Málaga en Riazor,2026-04-04 23:05
+recuerdo,3,2,7.64,100,"sur, google_news_es, elpais",3,Solitaria vuelta para Fortes en una corrida Picassiana con el recuerdo presente de Ricardo Ortiz,2026-04-04 23:05
+picassiana,3,2,7.64,100,"sur, google_news_es",2,Solitaria vuelta para Fortes en una corrida Picassiana con el recuerdo presente de Ricardo Ortiz,2026-04-04 23:05
+libertad,10,6,8.49,100,"elcorreo, levante_emv, google_news_es, lavanguardia, europapress",5,El juez deja en libertad provisional al detenido por la muerte de su novia en Basauri,2026-04-04 23:05
+partido,15,17,4.5,89,"elcorreo, google_news_es, okdiario, elespanol, elpais",5,«Es el primer año en el que salgo contento de un partido sin marcar»,2026-04-04 23:05
+pareja,6,7,4.37,87,"levante_emv, lavanguardia, google_news_es, elconfidencial",4,Libertad provisional para el detenido por matar a su pareja en Basauri,2026-04-04 23:05
+bonoloto,8,10,4.08,81,"sur, 20minutos, levante_emv, elcorreo, okdiario",5,"Comprobar Lotería del sábado, 04 de abril: resultados de la Bonoloto, La Primitiva, de la Lotería Nacional y del Sueldazo del fin de semana de la ONCE",2026-04-04 23:05
+presunto,4,5,4.08,81,"lavanguardia, google_news_es, elconfidencial",3,En libertad provisional el detenido por el presunto asesinato de su pareja en Basauri,2026-04-04 23:05
+minutos,3,4,3.82,76,"google_news_internacional, okdiario, huffington_es, 20minutos",4,"Guerra en Irán, en directo | Irán rechaza el ""inútil"" y ""estúpido"" ultimátum de Trump para que reabra Ormuz en menos de 48 horas - 20Minutos",2026-04-04 23:05
+matar,3,4,3.82,76,"sur, levante_emv, 20minutos",3,Un hombre y su hijo irrumpen en la comisaría de Málaga mientras gritaban: «¡Nos quieren matar!»,2026-04-04 23:05
+alineación,3,4,3.82,76,"google_news_internacional, okdiario",2,Alineación del Barcelona ante Atlético de Madrid en LaLiga - La Red 106.1 FM,2026-04-04 23:05
+punto,3,4,3.82,76,"sur, okdiario, heraldo_aragon, elpais, lavanguardia",5,Joaquín: «Este punto es oro para nosotros»,2026-04-04 23:05
+española,3,4,3.82,76,"elcorreo, huffington_es, 20minutos",3,La española que mantiene impecable la ropa de los billonarios suizos,2026-04-04 23:05
+infierno»,3,4,3.82,76,"sur, elcorreo",2,Trump recuerda a Irán que quedan horas para negociar la paz o «se desatará el infierno»,2026-04-04 23:05
+retira,3,4,3.82,76,"sur, okdiario, google_news_internacional",3,Un tribunal avala el desahucio de un militar retirado de una vivienda de Defensa,2026-04-04 23:05
+salud,5,7,3.64,72,"elcorreo, google_news_es, okdiario, sur, expansion",5,Vitoria se convierte en un gran laboratorio que analizará la salud de 4.000 alaveses en 20 años,2026-04-04 23:05
+cerca,6,9,3.4,67,"elcorreo, elmundo_espana, okdiario, france24_es",4,"Los caballos relinchan en 'La Amazona', cerca de Miranda",2026-04-04 23:05
+iraní,4,6,3.4,67,"heraldo_aragon, elcorreo, google_news_es, france24_es",4,Trump anuncia la muerte de dirigentes militares iraníes en un ataque en Teherán,2026-04-04 23:05
+detenido,11,17,3.3,65,"elcorreo, levante_emv, google_news_es, lavanguardia, elespanol",5,El juez deja en libertad provisional al detenido por la muerte de su novia en Basauri,2026-04-04 23:05
+resultado,11,17,3.3,65,"sur, google_news_es, okdiario, elcorreo, levante_emv",5,"Comprobar Lotería del sábado, 04 de abril: resultados de la Bonoloto, La Primitiva, de la Lotería Nacional y del Sueldazo del fin de semana de la ONCE",2026-04-04 23:05
+málaga,19,31,3.12,62,"sur, google_news_es, elmundo, elespanol",4,Un hombre y su hijo irrumpen en la comisaría de Málaga mientras gritaban: «¡Nos quieren matar!»,2026-04-04 23:05
+cataluña,3,5,3.06,61,"levante_emv, 20minutos",2,"Vicent Soler: ""El nuevo modelo de financiación no es un traje a medida. Guste o no, los cambios siempre han venido de Cataluña""",2026-04-04 23:05
+seguros,3,5,3.06,61,"google_news_internacional, elmundo_internacional",2,"Los españoles irreductibles de Dubai: ""Aquí nos sentimos seguros"" - elmundo.es",2026-04-04 23:05
+costa,3,5,3.06,61,"sur, 20minutos, huffington_es, google_news_internacional",4,Estos son los mercados que dan alas al turismo de la Costa del Sol,2026-04-04 23:05
+concierto,3,5,3.06,61,"levante_emv, 20minutos",2,Concierto de Laura Pausini en el Roig Arena de València,2026-04-04 23:05
+podría,3,5,3.06,61,"elcorreo, google_news_internacional",2,"El decreto de Concejalía, la inusual medida que podría decidir el futuro del taxi",2026-04-04 23:05
+deportivo,4,7,2.91,58,"sur, google_news_es, heraldo_aragon",3,Polideportivo malagueño: El Costa del Sol cae por la mínima ante el líder,2026-04-04 23:05
+futuro,4,7,2.91,58,"elcorreo, google_news_es, levante_emv",3,"El decreto de Concejalía, la inusual medida que podría decidir el futuro del taxi",2026-04-04 23:05
+laliga,9,16,2.87,57,"google_news_es, levante_emv, google_news_internacional, 20minutos",4,"Eric García se escuda ante las críticas tras la victoria del FC Barcelona ante el Atlético en LALIGA: ""Algunos dirán que han salido a regalarnos el partido"" - dazn.com",2026-04-04 23:05
+basauri,7,13,2.74,54,"elcorreo, levante_emv, lavanguardia, google_news_es, elconfidencial",5,El juez deja en libertad provisional al detenido por la muerte de su novia en Basauri,2026-04-04 23:05
+resultados,12,23,2.66,53,"sur, google_news_es, elcorreo, levante_emv, 20minutos",5,"Comprobar Lotería del sábado, 04 de abril: resultados de la Bonoloto, La Primitiva, de la Lotería Nacional y del Sueldazo del fin de semana de la ONCE",2026-04-04 23:05
+jugadores,3,6,2.55,50,"sur, 20minutos, lavanguardia",3,Notas a los jugadores del Málaga en Riazor,2026-04-04 23:05
+cierra,3,6,2.55,50,"sur, heraldo_aragon, huffington_es, elespanol",4,El Resucitado cierra la Semana Santa de Málaga: horarios y recorrido de la procesión,2026-04-04 23:05
+muerte,5,10,2.55,50,"heraldo_aragon, elcorreo, levante_emv, 20minutos",4,Trump anuncia la muerte de dirigentes militares iraníes en un ataque en Teherán,2026-04-04 23:05
+mucho,3,6,2.55,50,"levante_emv, okdiario, huffington_es, 20minutos, sur",5,"Trump anuncia la muerte de ""muchos dirigentes militares"" de Irán en un ""enorme ataque"" en Teherán",2026-04-04 23:05
+violar,4,8,2.55,50,"levante_emv, elcorreo, europapress",3,Libertad para los hermanos detenidos por violar a una mujer en València pese a ser pillados 'in fraganti',2026-04-04 23:05
+recuerda,4,8,2.55,50,"sur, elcorreo, 20minutos",3,Trump recuerda a Irán que quedan horas para negociar la paz o «se desatará el infierno»,2026-04-04 23:05
+comprobar,13,27,2.45,49,"sur, google_news_es, elcorreo, okdiario, 20minutos",5,"Comprobar Lotería del sábado, 04 de abril: resultados de la Bonoloto, La Primitiva, de la Lotería Nacional y del Sueldazo del fin de semana de la ONCE",2026-04-04 23:05
+valència,6,13,2.35,47,"levante_emv, google_news_es",2,"Agresiones, machetes y jeringuillas en la Xerea, el calvario de los vecino de un céntrico barrio de València",2026-04-04 23:05
+permiso,4,9,2.26,45,"elcorreo, heraldo_aragon, eldiario, google_news_es",4,"Jóvenes al poder, con permiso de Roglic",2026-04-04 23:05
+heridos,4,9,2.26,45,"heraldo_aragon, 20minutos, france24_es",3,Cuatro de los soldados de EE. UU. heridos en Irán han sido clasificados como mexicanos,2026-04-04 23:05
+final,7,16,2.23,44,"google_news_internacional, elcorreo, heraldo_aragon, lavanguardia, 20minutos",5,Maëva Orlé podría irse de Alianza Lima tras final de la Liga Peruana de Vóley: este sería su nuevo club según portal internacional - Infobae,2026-04-04 23:05
+horarios,3,7,2.18,43,sur,1,Domingo de Resurrección y traslados: estos son los horarios e itinerarios,2026-04-04 23:05
+corrida,3,7,2.18,43,"sur, google_news_es",2,Solitaria vuelta para Fortes en una corrida Picassiana con el recuerdo presente de Ricardo Ortiz,2026-04-04 23:05
+huesca,3,7,2.18,43,heraldo_aragon,1,"Heridos tres vecinos de Huesca en un accidente de tráfico en la AP-15, en Navarra",2026-04-04 23:05
+domingo,9,22,2.08,41,"sur, 20minutos, elespanol",3,Domingo de Resurrección y traslados: estos son los horarios e itinerarios,2026-04-04 23:05
