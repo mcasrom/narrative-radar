@@ -69,6 +69,7 @@ def _semaforo(score):
 def _freshness_block():
     """Sección de frescura de CSVs — semáforo simple."""
     import os
+    import pandas as pd
     from datetime import datetime
     from pathlib import Path
 
@@ -100,7 +101,7 @@ def _freshness_block():
                 fechas = pd.to_datetime(df[col], errors="coerce", utc=True).dropna()
                 if not fechas.empty:
                     fecha_max = fechas.max()
-                    horas = (NOW - fecha_max.to_pydatetime()).total_seconds() / 3600
+                    horas = (NOW - fecha_max).total_seconds() / 3600
             if horas is None:
                 mtime = datetime.fromtimestamp(path.stat().st_mtime)
                 horas = (NOW - mtime).total_seconds() / 3600
@@ -254,7 +255,7 @@ def render_audit_tab():
     if not df_history.empty and "timestamp" in df_history and "score_global" in df_history:
         # Agrupar por timestamp (un score por ciclo)
         df_h = df_history.copy()
-        df_h["timestamp"] = pd.to_datetime(df_h["timestamp"], errors="coerce")
+        df_h["timestamp"] = pd.to_datetime(df_h["timestamp"], errors="coerce", utc=True)
         df_resumen = df_h.groupby("timestamp").agg(
             score_global=("score_global", "first"),
             score_datos=("score_datos", "mean"),
