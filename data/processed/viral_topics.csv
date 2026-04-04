@@ -1,13 +1,29 @@
 keyword,count_now,count_base,ratio,viral_score,sources,n_sources,sample_title,detected_at
-sábado,6,19,5.21,100,"okdiario, levante_emv, heraldo_aragon",3,"Los OK y KO del sábado, 4 de abril de 2026",2026-04-04 06:05
-sánchez,6,16,6.19,100,okdiario,1,"David Alandete, corresponsal en Washington: «Yo creo que Trump no sabe ni cómo se llama Sánchez»",2026-04-04 06:05
-elpais.com,4,9,7.34,100,google_news_es,1,"¿Y después de la regularización, qué? - elpais.com",2026-04-04 06:05
-aviones,3,5,9.91,100,"france24_es, bbc_mundo",2,¿Logró Irán socavar el discurso de Trump sobre su poderío militar con el derribo de dos aviones?,2026-04-04 06:05
-infobae,3,8,6.19,100,"google_news_economia, google_news_internacional",2,Casi 30 años para subir solo un 6%: el salario real medio de España apenas avanza frente a otras grandes economías de la UE - Infobae,2026-04-04 06:05
-estadounidenses,3,3,16.51,100,"france24_es, bbc_mundo, elespanol",3,EE. UU. e Irán buscan piloto tras derribo de aviones estadounidenses,2026-04-04 06:05
-derribo,3,12,4.13,82,"france24_es, elespanol",2,¿Logró Irán socavar el discurso de Trump sobre su poderío militar con el derribo de dos aviones?,2026-04-04 06:05
-aragón,3,14,3.54,70,"heraldo_aragon, elespanol",2,Los sectores que crean más empleo en Aragón y los de sueldos más altos,2026-04-04 06:05
-frente,3,16,3.1,61,"okdiario, google_news_economia, elespanol",3,"Feijóo, cuatro años al frente del PP",2026-04-04 06:05
-nuevo,7,38,3.04,60,"google_news_internacional, okdiario, heraldo_aragon, google_news_economia, elespanol",5,Rangers 'debe ir con cuidado' por el nuevo internacional del Sunderland - OneFootball,2026-04-04 06:05
-zaragoza,3,20,2.48,49,heraldo_aragon,1,"El restaurante de Zaragoza que apasiona a los famosos: ""Me encantaría recibir a Rosalía, dado su fervor por la Virgen del Pilar""",2026-04-04 06:05
-sigue,3,21,2.36,47,"okdiario, elespanol",2,Sánchez sigue castigando a Baleares e impide a Prohens aumentar los beneficiarios de las ayudas al alquiler,2026-04-04 06:05
+independentistas,3,0,5.0,100,"google_news_es, elpais_espana",2,ERC recrudece la pelea entre independentistas y arrebata dos alcaldías a Junts con moción de censura - elpais.com,2026-04-04 06:35
+afshar,3,0,5.0,100,"google_news_es, elpais",2,"Hoda Afshar, el velo está en nuestra mirada - elpais.com",2026-04-04 06:35
+censura,3,1,28.81,100,"google_news_es, elpais_espana",2,ERC recrudece la pelea entre independentistas y arrebata dos alcaldías a Junts con moción de censura - elpais.com,2026-04-04 06:35
+moción,3,1,28.81,100,"google_news_es, elpais_espana",2,ERC recrudece la pelea entre independentistas y arrebata dos alcaldías a Junts con moción de censura - elpais.com,2026-04-04 06:35
+junts,3,0,5.0,100,"google_news_es, elpais_espana",2,ERC recrudece la pelea entre independentistas y arrebata dos alcaldías a Junts con moción de censura - elpais.com,2026-04-04 06:35
+alcaldías,3,0,5.0,100,"google_news_es, elpais_espana",2,ERC recrudece la pelea entre independentistas y arrebata dos alcaldías a Junts con moción de censura - elpais.com,2026-04-04 06:35
+arrebata,3,0,5.0,100,"google_news_es, elpais_espana",2,ERC recrudece la pelea entre independentistas y arrebata dos alcaldías a Junts con moción de censura - elpais.com,2026-04-04 06:35
+nuevas,3,5,5.76,100,"google_news_es, elpais, elconfidencial",3,"Precio de la luz hoy, sábado 4 de abril, por horas: así ahorrarás en tu factura durante una jornada con nuevas - La Razón",2026-04-04 06:35
+pelea,4,2,19.21,100,"google_news_es, elpais_espana, elpais",3,ERC recrudece la pelea entre independentistas y arrebata dos alcaldías a Junts con moción de censura - elpais.com,2026-04-04 06:35
+recrudece,3,0,5.0,100,"google_news_es, elpais_espana",2,ERC recrudece la pelea entre independentistas y arrebata dos alcaldías a Junts con moción de censura - elpais.com,2026-04-04 06:35
+regularización,3,0,5.0,100,"google_news_es, elpais_espana",2,"¿Y después de la regularización, qué? - elpais.com",2026-04-04 06:35
+hungría,3,2,14.41,100,"elpais_internacional, google_news_es",2,La influencia del Kremlin enturbia las elecciones en Hungría,2026-04-04 06:35
+enturbia,3,0,5.0,100,"elpais_internacional, google_news_es",2,La influencia del Kremlin enturbia las elecciones en Hungría,2026-04-04 06:35
+kremlin,3,1,28.81,100,"elpais_internacional, google_news_es",2,La influencia del Kremlin enturbia las elecciones en Hungría,2026-04-04 06:35
+influencia,3,2,14.41,100,"elpais_internacional, google_news_es",2,La influencia del Kremlin enturbia las elecciones en Hungría,2026-04-04 06:35
+nuestra,4,4,9.6,100,"google_news_es, elpais, elespanol",3,"Hoda Afshar, el velo está en nuestra mirada - elpais.com",2026-04-04 06:35
+mirada,3,0,5.0,100,"google_news_es, elpais",2,"Hoda Afshar, el velo está en nuestra mirada - elpais.com",2026-04-04 06:35
+recurso,3,0,5.0,100,"levante_emv, okdiario, elespanol",3,El TSJCV rechaza el recurso de los extrabajadores de La Marina para frenar la disolución del Consorcio Valencia 2007,2026-04-04 06:35
+aviones,3,5,5.76,100,"france24_es, bbc_mundo",2,¿Logró Irán socavar el discurso de Trump sobre su poderío militar con el derribo de dos aviones?,2026-04-04 06:35
+porque,3,4,7.2,100,"elpais, heraldo_aragon, elespanol",3,"Oscar Tito, humorista: “Soy gay y cristiano; los cristianos somos muy criticones porque pensamos que todos van a ir al infierno”",2026-04-04 06:35
+elpais.com,4,9,4.27,85,google_news_es,1,"¿Y después de la regularización, qué? - elpais.com",2026-04-04 06:35
+sábado,8,20,3.84,76,"google_news_es, okdiario, levante_emv, heraldo_aragon",4,"Precio de la luz hoy, sábado 4 de abril, por horas: así ahorrarás en tu factura durante una jornada con nuevas - La Razón",2026-04-04 06:35
+sánchez,6,16,3.6,72,okdiario,1,"David Alandete, corresponsal en Washington: «Yo creo que Trump no sabe ni cómo se llama Sánchez»",2026-04-04 06:35
+infobae,3,8,3.6,72,"google_news_economia, google_news_internacional",2,Casi 30 años para subir solo un 6%: el salario real medio de España apenas avanza frente a otras grandes economías de la UE - Infobae,2026-04-04 06:35
+mundial,3,11,2.62,52,"france24_es, heraldo_aragon, google_news_internacional",3,Sin seleccionador ni presidente de federación: la crisis del fútbol italiano tras quedar fuera del Mundial,2026-04-04 06:35
+derribo,3,12,2.4,48,"france24_es, elespanol",2,¿Logró Irán socavar el discurso de Trump sobre su poderío militar con el derribo de dos aviones?,2026-04-04 06:35
+atlético,3,13,2.22,44,"lavanguardia, okdiario, elespanol",3,Dónde ver el Atlético de Madrid - FC Barcelona: día y hora del partido de LaLiga EA Sports,2026-04-04 06:35
+aragón,3,14,2.06,41,"heraldo_aragon, elespanol",2,Los sectores que crean más empleo en Aragón y los de sueldos más altos,2026-04-04 06:35
