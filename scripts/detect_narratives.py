@@ -42,7 +42,7 @@ def main():
     now = datetime.now().strftime("%Y-%m-%d %H:%M")
     # Usar solo últimos 14 días para narrativas más actuales
     df["date"] = pd.to_datetime(df["date"], errors="coerce", utc=True)
-    cutoff = pd.Timestamp.now() - pd.Timedelta(days=14)
+    cutoff = pd.Timestamp.now(tz="UTC") - pd.Timedelta(days=14)
     df_recent = df[df["date"] >= cutoff].copy()
     if len(df_recent) < 100:
         df_recent = df.copy()

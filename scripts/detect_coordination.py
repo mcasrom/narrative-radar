@@ -49,7 +49,7 @@ def email_cooldown_ok(module_name, hours=4):
     open(lock_file, "w").write(str(now_ts))
     return True
 
-now = datetime.now()
+now = pd.Timestamp.now(tz="UTC")
 now_str = now.strftime("%Y-%m-%d %H:%M")
 print(f"[COORD] {now_str} — Iniciando detector de narrativas coordinadas")
 
