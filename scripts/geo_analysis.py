@@ -42,7 +42,7 @@ print(f"[GEO] {now} — Iniciando análisis geográfico")
 try:
     df = pd.read_csv(INPUT)
     df["date"] = pd.to_datetime(df["date"], errors="coerce", utc=True)
-    cutoff = pd.Timestamp.now() - pd.Timedelta(hours=48)
+    cutoff = pd.Timestamp.now(tz="UTC") - pd.Timedelta(hours=48)
     df = df[df["date"] >= cutoff]
     titles = df["title"].fillna("").str.lower()
     print(f"[GEO] {len(df)} noticias analizadas (últimas 48h)")

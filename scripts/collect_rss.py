@@ -75,7 +75,7 @@ df = pd.read_sql_query("SELECT title, link, source, date FROM news WHERE date >=
 csv_path = os.path.join(PROCESSED_DIR, "news_summary.csv")
 # Filtrar fechas espurias antes de guardar
 df["date"] = pd.to_datetime(df["date"], errors="coerce", utc=True)
-df = df[df["date"] <= pd.Timestamp.now()]
+df = df[df["date"] <= pd.Timestamp.now(tz="UTC")]
 df.to_csv(csv_path, index=False, encoding="utf-8-sig")
 print(f"[INFO] CSV generado: {csv_path} ({len(df)} registros)")
 conn.close()
