@@ -1,0 +1,18 @@
+modulo,script,resultado,timestamp
+narratives_summary,detect_narratives.py,❌ Falló,2026-04-04 09:01:57
+emotions_summary,detect_emotions.py,✅ OK,2026-04-04 09:01:57
+polarization_summary,detect_polarization.py,❌ Falló,2026-04-04 09:01:57
+actors_network,build_network.py,✅ OK,2026-04-04 09:01:57
+propagation_summary,propagation_analysis.py,❌ Falló,2026-04-04 09:01:57
+trends_summary,trends_analysis.py,❌ Falló,2026-04-04 09:01:57
+government_coverage,government_coverage.py,✅ OK,2026-04-04 09:01:57
+mass_media_coverage,mass_media_analysis.py,✅ OK,2026-04-04 09:01:57
+news_summary,collect_rss_real.py,❌ Falló,2026-04-04 09:01:57
+sentiment_summary,detect_sentiment_nlp.py,✅ OK,2026-04-04 09:01:57
+personas_summary,personas_tracking.py,✅ OK,2026-04-04 09:01:57
+diversity_index,diversity_index.py,❌ Falló,2026-04-04 09:01:57
+geo_summary,geo_analysis.py,❌ Falló,2026-04-04 09:01:57
+disinfo_alerts,detect_disinfo.py,✅ OK,2026-04-04 09:01:57
+coordination_alerts,detect_coordination.py,❌ Falló,2026-04-04 09:01:57
+keywords_emerging,keywords_analysis.py,✅ OK,2026-04-04 09:01:57
+viral_topics,detect_viral.py,❌ Falló,2026-04-04 09:01:57
