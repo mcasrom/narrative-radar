@@ -31,8 +31,8 @@ SCRIPTS   = BASE / "scripts"
 LOG_FILE  = BASE / "pipeline.log"
 
 NOW       = pd.Timestamp.now(tz="UTC")
-CORTE_90  = NOW - timedelta(days=90)
-CORTE_6H  = NOW - timedelta(hours=6)
+CORTE_90  = NOW - pd.Timedelta(days=90)
+CORTE_6H  = NOW - pd.Timedelta(hours=6)
 
 # Umbrales
 UMBRAL_FILAS_OK      = 50
