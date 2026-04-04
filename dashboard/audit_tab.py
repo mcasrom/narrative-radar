@@ -76,7 +76,7 @@ def _freshness_block():
     DATE_COLS = ["date", "fecha", "cycle", "last_update", "timestamp"]
     UMBRAL_OK = 2       # horas
     UMBRAL_CRIT = 24    # horas
-    NOW = datetime.now()
+    NOW = pd.Timestamp.now(tz="UTC")
 
     def detectar_col_fecha(df):
         for col in DATE_COLS:
@@ -97,7 +97,7 @@ def _freshness_block():
             horas = None
             fecha_max = None
             if col:
-                fechas = pd.to_datetime(df[col], errors="coerce").dropna()
+                fechas = pd.to_datetime(df[col], errors="coerce", utc=True).dropna()
                 if not fechas.empty:
                     fecha_max = fechas.max()
                     horas = (NOW - fecha_max.to_pydatetime()).total_seconds() / 3600
