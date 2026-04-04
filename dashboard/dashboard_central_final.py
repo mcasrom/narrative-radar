@@ -452,7 +452,7 @@ def mostrar_historico():
     path = history_paths["Narrativas"]
     if os.path.exists(path):
         df = pd.read_csv(path)
-        df["cycle"] = pd.to_datetime(df["cycle"], format="mixed")
+        df["cycle"] = pd.to_datetime(df["cycle"], format="mixed", utc=True)
         df["fecha"] = df["cycle"].dt.date
         # Top 5 clusters por volumen total
         top5 = df.groupby("cluster_label")["count"].sum().nlargest(5).index.tolist()
