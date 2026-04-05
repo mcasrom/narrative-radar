@@ -103,7 +103,7 @@ def _freshness_block():
                     fecha_max = fechas.max()
                     horas = (NOW - fecha_max).total_seconds() / 3600
             if horas is None:
-                mtime = datetime.fromtimestamp(path.stat().st_mtime)
+                mtime = pd.Timestamp.fromtimestamp(path.stat().st_mtime, tz="UTC")
                 horas = (NOW - mtime).total_seconds() / 3600
             if horas > UMBRAL_CRIT:
                 return "🔴", f"{horas:.0f}h", fecha_max
