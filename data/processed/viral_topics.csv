@@ -1,80 +1,86 @@
 keyword,count_now,count_base,ratio,viral_score,sources,n_sources,sample_title,detected_at
-ibiza,3,2,8.55,100,"okdiario, google_news_internacional",2,El turismo de congresos también está al alza en Ibiza: 95 eventos y casi 40.000 asistentes en 2025,2026-04-05 07:06
-espacio,5,4,7.12,100,"heraldo_aragon, google_news_internacional, infolibre, elpais",4,"Los astronautas de Artemis II duermen ""de maravilla"" pese al reducido espacio de Orión",2026-04-05 07:06
-donald,4,2,11.4,100,"huffington_es, google_news_internacional",2,Regreso al pasado: las sanciones de Donald Trump contra los jueces de la Corte Penal Internacional que obstaculizan la investigación de crímenes internacionales,2026-04-05 07:06
-valores,3,0,5.0,100,"google_news_es, elpais",2,"Los diez valores favoritos de los expertos en la bolsa española: Amadeus, CaixaBank y Acerinox se incorporan al Eco10 - El Economista",2026-04-05 07:06
-batalla,3,2,8.55,100,"google_news_politica, elpais",2,La pugna de las derechas por el voto católico: la importancia de la religión en la batalla cultural - ElPlural.com,2026-04-05 07:06
-frenar,3,2,8.55,100,"okdiario, google_news_internacional",2,EEUU pone toda la carne en el asador: da 200.000 dólares de recompensa para frenar la plaga de mejillones invasores,2026-04-05 07:06
-estaba,3,3,5.7,100,"levante_emv, google_news_internacional, europapress",3,Pablo Iglesias: “Dejé la política porque estaba muy quemado y ya no metía tantos triples como antes”,2026-04-05 07:06
-sanitario,3,0,5.0,100,"google_news_internacional, eldiario",2,La OMS alerta sobre el colapso del sistema sanitario en Sudán y pide acción internacional inmediata - Infobae,2026-04-05 07:06
-secreto,3,1,17.1,100,"huffington_es, okdiario",2,Buenafuente desvela el secreto mejor guardado del plató de Karlos Arguiñano tras asistir a varias grabaciones,2026-04-05 07:06
-banquillo,3,2,8.55,100,"google_news_es, elpais",2,"Jorge Fernández Díaz y Francisco Martínez, de aliados en el Ministerio a enemigos en el banquillo de la Kitchen - ABC",2026-04-05 07:06
-incertidumbre,3,2,8.55,100,"google_news_internacional, elpais, google_news_es",3,"La economía valenciana, con un ""sólido dinamismo"" pese a la incertidumbre internacional: sectores afectados y perspectivas - COPE",2026-04-05 07:06
-nuevos,4,2,11.4,100,"20minutos, okdiario, europapress",3,La superficie media de los pisos nuevos no baja de los 100 metros en una España donde el 28% de los hogares ya son unipersonales,2026-04-05 07:06
-suave,3,1,17.1,100,"okdiario, heraldo_aragon",2,AEMET prevé un día soleado y cálido en Zaragoza con nubes en el Ibérico y viento suave,2026-04-05 07:06
-avión,3,0,5.0,100,"levante_emv, heraldo_aragon, elespanol",3,EEUU rescata al piloto desaparecido del avión derribado en Irán,2026-04-05 07:06
-cafetería,3,0,5.0,100,"okdiario, heraldo_aragon",2,Vuelve esta mítica cafetería de Madrid: reabre ‘Café Gijón’ tras cinco meses cerrada y lo ha cambiado todo,2026-04-05 07:06
-primavera,5,2,14.25,100,"okdiario, elpais",2,"Ni abono ni fertilizante: para que las orquídeas rebosen de flores en primavera, necesitan tener luz todo el año",2026-04-05 07:06
-juicio,5,3,9.5,100,"google_news_es, elpais_espana, elpais, elespanol",4,"El juicio a la ‘Operación Kitchen’, un retrato del PP y de la judicatura que le ampara - El Salto",2026-04-05 07:06
-salvo,3,0,5.0,100,"20minutos, huffington_es, elcorreo, sur, google_news_internacional",5,"Trump anuncia que el piloto del caza F-15 desaparecido en Irán está ""a salvo"" tras enviar ""decenas de aviones"" para recuperarlo",2026-04-05 07:06
-segundo,12,7,9.77,100,"elmundo, huffington_es, elpais, okdiario, elespanol",5,EEUU rescata al segundo tripulante en una misión que implicó a cientos de militares sobre el terreno,2026-04-05 07:06
-rescata,7,4,9.97,100,"elmundo, google_news_internacional, levante_emv, okdiario, elcorreo",5,EEUU rescata al segundo tripulante en una misión que implicó a cientos de militares sobre el terreno,2026-04-05 07:06
-posible,3,2,8.55,100,"el_confidencial_tech, google_news_internacional",2,"Un ‘youtuber’ crea un dron solar que demuestra que ""el vuelo indefinido es posible""",2026-04-05 07:06
-último,3,3,5.7,100,"huffington_es, elpais, heraldo_aragon, okdiario",4,Los últimos pastores de la serranía de Cuenca coinciden: &quot;No quedan ya rebaños en el campo: los están comprando los ganaderos pakistaníes y marroquíes&quot;,2026-04-05 07:06
-privado,3,1,17.1,100,"okdiario, eldiario, heraldo_aragon",3,"Doble rasero en el bastión comunista de Rivas: sí al gimnasio privado, no a la residencia semipública de Ayuso",2026-04-05 07:06
-queso,3,0,5.0,100,okdiario,1,Amantes del queso: éste pueblo de Andalucía se convierte en la capital mundial del queso con catas y visitas guiadas,2026-04-05 07:06
-doble,4,3,7.6,100,"okdiario, google_news_es, elpais, elconfidencial",4,"Doble rasero en el bastión comunista de Rivas: sí al gimnasio privado, no a la residencia semipública de Ayuso",2026-04-05 07:06
-convierte,5,2,14.25,100,"okdiario, levante_emv, elpais",3,Amantes del queso: éste pueblo de Andalucía se convierte en la capital mundial del queso con catas y visitas guiadas,2026-04-05 07:06
-sirve,4,2,11.4,100,"20minutos, okdiario, heraldo_aragon",3,"Jorge Dezcallar, exdirector del CNI: ""EEUU se ha metido en una guerra que sirve a los intereses de Israel, no a los suyos""",2026-04-05 07:06
-bárcenas,3,3,5.7,100,"google_news_es, elpais_espana, elespanol",3,La operación para salvar a Rajoy de Bárcenas llega a juicio 13 años después - ABC,2026-04-05 07:06
-antonio,3,2,8.55,100,"levante_emv, google_news_es, elpais_espana",3,"José Antonio Hernández: ""El cambio climático puede agravar la intrusión marina en el parque natural""",2026-04-05 07:06
-pruebas,3,2,8.55,100,"levante_emv, google_news_es, elpais",3,Riba-roja inicia las pruebas de la barrera automática instalada en la urbanización La Reva que reducirá el tráfico e incrementará la seguridad en la zona,2026-04-05 07:06
-carreteras,4,1,22.8,100,"elcorreo, google_news_es, elpais, heraldo_aragon",4,La nueva señal de la DGT con un rombo blanco que ya se puede ver en las carreteras de España: significado y multa por no cumplirla,2026-04-05 07:06
-riesgo,6,2,17.1,100,"infolibre, elpais, google_news_politica, elespanol",4,"Ni en el show de Rosalía, ni en The Killers: los fotógrafos de conciertos, una profesión en riesgo de extinción",2026-04-05 07:06
-anuncia,9,9,5.7,100,"20minutos, huffington_es, elpais, elespanol, heraldo_aragon",5,"Trump anuncia que el piloto del caza F-15 desaparecido en Irán está ""a salvo"" tras enviar ""decenas de aviones"" para recuperarlo",2026-04-05 07:06
-piloto,21,25,4.79,95,"okdiario, 20minutos, google_news_internacional, huffington_es, levante_emv",5,"Última hora de la guerra de Irán 5 abril | Ataques, reapertura Ormuz y últimas noticias del piloto de EEUU",2026-04-05 07:06
-derribado,14,17,4.69,93,"huffington_es, levante_emv, elpais, okdiario, elcorreo",5,Trump anuncia el rescate con vida del segundo piloto del caza derribado por Irán: &quot;Está sano y salvo&quot;,2026-04-05 07:06
-resurrección,8,10,4.56,91,"eldiario, google_news_internacional, okdiario, heraldo_aragon, google_news_economia",5,Domingo de Resurrección: qué se celebra y por qué es el día que cambia todo en la Semana Santa,2026-04-05 07:06
-desaparecido,10,13,4.38,87,"20minutos, google_news_internacional, levante_emv, google_news_es, elespanol",5,"Trump anuncia que el piloto del caza F-15 desaparecido en Irán está ""a salvo"" tras enviar ""decenas de aviones"" para recuperarlo",2026-04-05 07:06
-rescate,9,12,4.27,85,"huffington_es, elpais, google_news_es, elespanol, heraldo_aragon",5,Trump anuncia el rescate con vida del segundo piloto del caza derribado por Irán: &quot;Está sano y salvo&quot;,2026-04-05 07:06
-internacionales,3,4,4.28,85,"huffington_es, google_news_internacional",2,Regreso al pasado: las sanciones de Donald Trump contra los jueces de la Corte Penal Internacional que obstaculizan la investigación de crímenes internacionales,2026-04-05 07:06
-punto,3,4,4.28,85,"levante_emv, google_news_es, elpais_espana, elpais",4,El mapa de puntos negros del litoral que acumulan obras pendientes desde hace más de una década,2026-04-05 07:06
-indra,3,4,4.28,85,"google_news_es, elpais, google_news_politica",3,"El reparto de los contratos millonarios, clave en la dimisión de Escribano en Indra - La Vanguardia",2026-04-05 07:06
-impulsa,3,4,4.28,85,"levante_emv, heraldo_aragon, france24_es",3,Una crida a crear territori musical: la FSMCV impulsa dos noves edicions dels seus concursos de composició,2026-04-05 07:06
-kitchen,3,4,4.28,85,"google_news_es, elpais_espana, elespanol",3,"El juicio a la ‘Operación Kitchen’, un retrato del PP y de la judicatura que le ampara - El Salto",2026-04-05 07:06
-pueblo,5,7,4.07,81,"okdiario, heraldo_aragon, elpais",3,Amantes del queso: éste pueblo de Andalucía se convierte en la capital mundial del queso con catas y visitas guiadas,2026-04-05 07:06
-predicción,9,13,3.95,78,okdiario,1,"Predicción del horóscopo para Sagitario hoy, domingo 5 de abril de 2026",2026-04-05 07:06
-confidencial,4,6,3.8,76,"google_news_internacional, google_news_es, google_news_economia",3,El contingente BRILIB XLV UNIFIL activa el INTEVAL: el ejercicio que pone a prueba su despliegue internacional - Confidencial Digital,2026-04-05 07:06
-periódico,4,6,3.8,76,"google_news_internacional, elpais, elconfidencial",3,"Guerra en Irán, última hora en directo: EEUU rescata 'sano y salvo' al segundo piloto del caza derribado en Irán - El Periódico",2026-04-05 07:06
-domingo,18,30,3.42,68,"okdiario, eldiario, levante_emv, elpais, heraldo_aragon",5,"Predicción del horóscopo para Sagitario hoy, domingo 5 de abril de 2026",2026-04-05 07:06
-tripulante,3,5,3.42,68,"elmundo, google_news_internacional, europapress",3,EEUU rescata al segundo tripulante en una misión que implicó a cientos de militares sobre el terreno,2026-04-05 07:06
-recorrido,3,5,3.42,68,"okdiario, heraldo_aragon",2,Semana Santa 2026: horario y recorrido de las procesiones hoy Domingo de Resurrección,2026-04-05 07:06
-alimentos,3,5,3.42,68,"levante_emv, okdiario, elpais",3,Las empresas que no reduzcan el desperdicio de alimentos ya pueden ser multadas con hasta medio millón de euros,2026-04-05 07:06
-temperaturas,3,5,3.42,68,okdiario,1,AEMET prevé en Bilbao cielo poco nuboso con nieblas y descenso de temperaturas en el litoral,2026-04-05 07:06
-pasado,3,5,3.42,68,"google_news_es, huffington_es, google_news_internacional",3,Decretan libertad provisional para el detenido por el presunto homicidio de su pareja el pasado miércoles en Basauri - Cadena SER,2026-04-05 07:06
-metros,3,5,3.42,68,"20minutos, elpais, heraldo_aragon",3,La superficie media de los pisos nuevos no baja de los 100 metros en una España donde el 28% de los hogares ya son unipersonales,2026-04-05 07:06
-petróleo,4,7,3.26,65,"20minutos, okdiario, elpais, google_news_es",4,"Petróleo, esferas de influencia o cambios de régimen: ¿por qué el mundo ha entrado en una espiral de guerras?",2026-04-05 07:06
-gratis,5,9,3.17,63,"heraldo_aragon, okdiario, google_news_es, elpais, elconfidencial",5,"Horario y dónde ver gratis la corrida de la Feria de Arlés del 6 de abril: Manuel Escribano, Colombo y El Rafi",2026-04-05 07:06
-horóscopo,9,17,3.02,60,okdiario,1,"Predicción del horóscopo para Sagitario hoy, domingo 5 de abril de 2026",2026-04-05 07:06
-aemet,4,8,2.85,57,okdiario,1,AEMET prevé un día soleado y cálido en Zaragoza con nubes en el Ibérico y viento suave,2026-04-05 07:06
-prevé,3,6,2.85,57,okdiario,1,AEMET prevé un día soleado y cálido en Zaragoza con nubes en el Ibérico y viento suave,2026-04-05 07:06
-aragón,4,8,2.85,57,"heraldo_aragon, google_news_politica",2,"Falta de alojamientos para los universitarios en Aragón:""Si no fuera porque comparto un piso barato no podría estudiar""",2026-04-05 07:06
-forma,3,6,2.85,57,"google_news_internacional, elpais, okdiario, heraldo_aragon",4,"Alfredo Llopis, presidente de la Junta Mayor de Semana Santa de Alicante: ""Queremos lograr la Declaración de Interés Turístico Internacional"" - INFORMACION",2026-04-05 07:06
-zaragoza,10,20,2.85,57,"heraldo_aragon, okdiario",2,"Viva Suecia se enamora de una película muy zaragozana: ""Os la recomendamos mucho""",2026-04-05 07:06
-declaración,3,6,2.85,57,"okdiario, google_news_internacional",2,Hacienda lo confirma: estos son los pensionistas que se libran de hacer la declaración de la Renta 2026,2026-04-05 07:06
-único,3,6,2.85,57,"20minutos, elespanol, google_news_politica",3,Sánchez es el único presidente que ha vetado cambios en leyes por motivos económicos,2026-04-05 07:06
-ahora,4,9,2.53,50,"elcorreo, okdiario, google_news_economia, elpais, elconfidencial",5,Mazón planta ahora cara a la jueza tras el aval del TSJ,2026-04-05 07:06
-española,3,7,2.44,48,"okdiario, google_news_es, elconfidencial",3,La zoología española brinda por un nuevo hito: Madrid aumenta un 18% su población de águilas imperiales en 2025,2026-04-05 07:06
-siempre,3,7,2.44,48,"huffington_es, elpais, heraldo_aragon, el_confidencial_tech",4,"Jade, una joven británica que vive en Murcia, desmonta el mito de la España &#039;perezosa&#039;: &quot;Siempre siento que me pierdo algo&quot;",2026-04-05 07:06
-golfo,3,7,2.44,48,google_news_internacional,1,La diplomacia de los drones de Zelenski en el golfo Pérsico - ABC,2026-04-05 07:06
-política,3,7,2.44,48,"levante_emv, elpais_espana, elpais, elespanol",4,Pablo Iglesias: “Dejé la política porque estaba muy quemado y ya no metía tantos triples como antes”,2026-04-05 07:06
-horario,4,10,2.28,45,"heraldo_aragon, okdiario",2,"Horario y dónde ver gratis la corrida de la Feria de Arlés del 6 de abril: Manuel Escribano, Colombo y El Rafi",2026-04-05 07:06
-historia,5,13,2.19,43,"newtral, elpais, elconfidencial, google_news_economia",4,"Realidad y ficción en ‘Love Story’, la historia de amor de John F. Kennedy Jr. y Carolyn Bessette",2026-04-05 07:06
-expertos,3,8,2.14,42,"okdiario, google_news_es, levante_emv",3,"Los expertos aconsejan a los dueños de perros: si llueve mucho fuera, la mejor opción es jugar al escondite en casa",2026-04-05 07:06
-valencia,6,16,2.14,42,"elcorreo, google_news_internacional, levante_emv, elpais, elconfidencial",5,Piden 21 años de cárcel para dos acusados de violar a una mujer en Valencia tras obligarla a ingerir cocaína,2026-04-05 07:06
-trump,30,82,2.09,41,"20minutos, huffington_es, elpais, google_news_es, elespanol",5,"Trump anuncia que el piloto del caza F-15 desaparecido en Irán está ""a salvo"" tras enviar ""decenas de aviones"" para recuperarlo",2026-04-05 07:06
-cerca,4,11,2.07,41,"heraldo_aragon, elespanol, okdiario",3,"Darío, el niño de Zaragoza por el que Rosalía paró un concierto: ""Es muy buena persona por acercarse a mí y abrazarme""",2026-04-05 07:06
-astronautas,4,11,2.07,41,"heraldo_aragon, elpais",2,"Los astronautas de Artemis II duermen ""de maravilla"" pese al reducido espacio de Orión",2026-04-05 07:06
-orden,4,11,2.07,41,"okdiario, elpais_internacional, google_news_internacional, elpais_espana",4,Un maltratador es absuelto de quebrantar la orden de alejamiento porque su pulsera telemática falló,2026-04-05 07:06
-porque,4,11,2.07,41,"levante_emv, okdiario, heraldo_aragon",3,Pablo Iglesias: “Dejé la política porque estaba muy quemado y ya no metía tantos triples como antes”,2026-04-05 07:06
-marca,4,11,2.07,41,"okdiario, google_news_internacional, elpais_espana, elpais, heraldo_aragon",5,El verdadero origen del queso de Mercadona de marca blanca Hacendado: produce 100 millones de kilos,2026-04-05 07:06
+sirve,4,2,10.81,100,"20minutos, okdiario, heraldo_aragon",3,"Jorge Dezcallar, exdirector del CNI: ""EEUU se ha metido en una guerra que sirve a los intereses de Israel, no a los suyos""",2026-04-05 07:36
+donald,4,2,10.81,100,"huffington_es, google_news_internacional",2,Regreso al pasado: las sanciones de Donald Trump contra los jueces de la Corte Penal Internacional que obstaculizan la investigación de crímenes internacionales,2026-04-05 07:36
+espacio,5,4,6.75,100,"heraldo_aragon, google_news_internacional, infolibre, elpais",4,"Los astronautas de Artemis II duermen ""de maravilla"" pese al reducido espacio de Orión",2026-04-05 07:36
+secreto,3,1,16.21,100,"huffington_es, okdiario",2,Buenafuente desvela el secreto mejor guardado del plató de Karlos Arguiñano tras asistir a varias grabaciones,2026-04-05 07:36
+michigan,3,0,5.0,100,"okdiario, google_news_es, heraldo_aragon",3,Aday Mara asciende al estrellato tras un partidazo que mete a Michigan en la final de la NCAA,2026-04-05 07:36
+incertidumbre,3,2,8.1,100,"google_news_internacional, elpais, google_news_es",3,"La economía valenciana, con un ""sólido dinamismo"" pese a la incertidumbre internacional: sectores afectados y perspectivas - COPE",2026-04-05 07:36
+nuevos,4,2,10.81,100,"20minutos, okdiario, europapress",3,La superficie media de los pisos nuevos no baja de los 100 metros en una España donde el 28% de los hogares ya son unipersonales,2026-04-05 07:36
+cafetería,3,0,5.0,100,"okdiario, heraldo_aragon",2,Vuelve esta mítica cafetería de Madrid: reabre ‘Café Gijón’ tras cinco meses cerrada y lo ha cambiado todo,2026-04-05 07:36
+primavera,5,2,13.51,100,"okdiario, elpais",2,"Ni abono ni fertilizante: para que las orquídeas rebosen de flores en primavera, necesitan tener luz todo el año",2026-04-05 07:36
+suave,3,1,16.21,100,"okdiario, heraldo_aragon",2,AEMET prevé un día soleado y cálido en Zaragoza con nubes en el Ibérico y viento suave,2026-04-05 07:36
+sanitario,3,0,5.0,100,"google_news_internacional, eldiario",2,La OMS alerta sobre el colapso del sistema sanitario en Sudán y pide acción internacional inmediata - Infobae,2026-04-05 07:36
+frenar,3,2,8.1,100,"okdiario, google_news_internacional",2,EEUU pone toda la carne en el asador: da 200.000 dólares de recompensa para frenar la plaga de mejillones invasores,2026-04-05 07:36
+batalla,3,2,8.1,100,"google_news_politica, elpais",2,La pugna de las derechas por el voto católico: la importancia de la religión en la batalla cultural - ElPlural.com,2026-04-05 07:36
+valores,3,0,5.0,100,"google_news_es, elpais",2,"Los diez valores favoritos de los expertos en la bolsa española: Amadeus, CaixaBank y Acerinox se incorporan al Eco10 - El Economista",2026-04-05 07:36
+juicio,4,4,5.4,100,"google_news_es, elpais_espana, elpais",3,"El juicio a la ‘Operación Kitchen’, un retrato del PP y de la judicatura que le ampara - El Salto",2026-04-05 07:36
+avión,3,1,16.21,100,"google_news_internacional, levante_emv, heraldo_aragon",3,"El Ejército de Estados Unidos rescató con vida al piloto de avión derribado en Irán, según Trump - Diari de Tarragona",2026-04-05 07:36
+banquillo,3,2,8.1,100,"google_news_es, elpais",2,"Jorge Fernández Díaz y Francisco Martínez, de aliados en el Ministerio a enemigos en el banquillo de la Kitchen - ABC",2026-04-05 07:36
+riesgo,5,3,9.01,100,"infolibre, elpais, google_news_politica",3,"Ni en el show de Rosalía, ni en The Killers: los fotógrafos de conciertos, una profesión en riesgo de extinción",2026-04-05 07:36
+pruebas,3,2,8.1,100,"levante_emv, google_news_es, elpais",3,Riba-roja inicia las pruebas de la barrera automática instalada en la urbanización La Reva que reducirá el tráfico e incrementará la seguridad en la zona,2026-04-05 07:36
+antonio,3,2,8.1,100,"levante_emv, google_news_es, elpais_espana",3,"José Antonio Hernández: ""El cambio climático puede agravar la intrusión marina en el parque natural""",2026-04-05 07:36
+doble,4,3,7.2,100,"okdiario, google_news_es, elpais, elconfidencial",4,"Doble rasero en el bastión comunista de Rivas: sí al gimnasio privado, no a la residencia semipública de Ayuso",2026-04-05 07:36
+privado,3,1,16.21,100,"okdiario, eldiario, heraldo_aragon",3,"Doble rasero en el bastión comunista de Rivas: sí al gimnasio privado, no a la residencia semipública de Ayuso",2026-04-05 07:36
+último,3,3,5.4,100,"huffington_es, elpais, heraldo_aragon, okdiario",4,Los últimos pastores de la serranía de Cuenca coinciden: &quot;No quedan ya rebaños en el campo: los están comprando los ganaderos pakistaníes y marroquíes&quot;,2026-04-05 07:36
+arcadi,3,1,16.21,100,"heraldo_aragon, google_news_politica",2,"Arcadi España, negociador del Fite y de los equilibrios en el PSOE por el cupo catalán",2026-04-05 07:36
+negociador,3,0,5.0,100,"heraldo_aragon, google_news_politica",2,"Arcadi España, negociador del Fite y de los equilibrios en el PSOE por el cupo catalán",2026-04-05 07:36
+equilibrios,3,0,5.0,100,"heraldo_aragon, google_news_politica",2,"Arcadi España, negociador del Fite y de los equilibrios en el PSOE por el cupo catalán",2026-04-05 07:36
+catalán,3,2,8.1,100,"heraldo_aragon, google_news_politica",2,"Arcadi España, negociador del Fite y de los equilibrios en el PSOE por el cupo catalán",2026-04-05 07:36
+posible,3,2,8.1,100,"el_confidencial_tech, google_news_internacional",2,"Un ‘youtuber’ crea un dron solar que demuestra que ""el vuelo indefinido es posible""",2026-04-05 07:36
+estaba,3,3,5.4,100,"levante_emv, google_news_internacional, europapress",3,Pablo Iglesias: “Dejé la política porque estaba muy quemado y ya no metía tantos triples como antes”,2026-04-05 07:36
+ibiza,3,2,8.1,100,"okdiario, google_news_internacional",2,El turismo de congresos también está al alza en Ibiza: 95 eventos y casi 40.000 asistentes en 2025,2026-04-05 07:36
+anuncia,10,9,6.0,100,"bbc_mundo, 20minutos, huffington_es, elpais, elespanol",5,Trump anuncia el rescate del segundo tripulante del caza F-15 derribado por Irán el viernes,2026-04-05 07:36
+convierte,5,2,13.51,100,"okdiario, levante_emv, elpais",3,Amantes del queso: éste pueblo de Andalucía se convierte en la capital mundial del queso con catas y visitas guiadas,2026-04-05 07:36
+ruinas,3,1,16.21,100,"elconfidencial, elpais_internacional, google_news_internacional",3,Hallan un cadáver en un sótano inundado de un edificio en ruinas de Cervo (Lugo),2026-04-05 07:36
+salvo,3,0,5.0,100,"20minutos, huffington_es, elcorreo, sur, google_news_internacional",5,"Trump anuncia que el piloto del caza F-15 desaparecido en Irán está ""a salvo"" tras enviar ""decenas de aviones"" para recuperarlo",2026-04-05 07:36
+edición,3,2,8.1,100,"20minutos, levante_emv, el_confidencial_tech",3,La imprenta en la que se estampó la primera edición de 'El Quijote' se abre a visitas: martes y domingos con reserva,2026-04-05 07:36
+carreteras,4,1,21.61,100,"elcorreo, google_news_es, elpais, heraldo_aragon",4,La nueva señal de la DGT con un rombo blanco que ya se puede ver en las carreteras de España: significado y multa por no cumplirla,2026-04-05 07:36
+queso,3,0,5.0,100,okdiario,1,Amantes del queso: éste pueblo de Andalucía se convierte en la capital mundial del queso con catas y visitas guiadas,2026-04-05 07:36
+rescata,7,4,9.46,100,"elmundo, google_news_internacional, levante_emv, okdiario, elcorreo",5,EEUU rescata al segundo tripulante en una misión que implicó a cientos de militares sobre el terreno,2026-04-05 07:36
+jueza,3,1,16.21,100,"elcorreo, levante_emv",2,La jueza deja en libertad a los dos hermanos acusados de violar a una mujer en un coche en Valencia,2026-04-05 07:36
+segundo,12,7,9.26,100,"bbc_mundo, elmundo, huffington_es, elpais, okdiario",5,Trump anuncia el rescate del segundo tripulante del caza F-15 derribado por Irán el viernes,2026-04-05 07:36
+predicción,11,13,4.57,91,okdiario,1,"Predicción del horóscopo para Acuario hoy, domingo 5 de abril de 2026",2026-04-05 07:36
+rescate,10,12,4.5,90,"bbc_mundo, huffington_es, elpais, google_news_es, elespanol",5,Trump anuncia el rescate del segundo tripulante del caza F-15 derribado por Irán el viernes,2026-04-05 07:36
+derribado,15,18,4.5,90,"bbc_mundo, google_news_internacional, huffington_es, levante_emv, elpais",5,Trump anuncia el rescate del segundo tripulante del caza F-15 derribado por Irán el viernes,2026-04-05 07:36
+resurrección,8,10,4.32,86,"eldiario, google_news_internacional, okdiario, heraldo_aragon, google_news_economia",5,Domingo de Resurrección: qué se celebra y por qué es el día que cambia todo en la Semana Santa,2026-04-05 07:36
+tripulante,4,5,4.32,86,"bbc_mundo, elmundo, google_news_internacional, europapress",4,Trump anuncia el rescate del segundo tripulante del caza F-15 derribado por Irán el viernes,2026-04-05 07:36
+internacionales,3,4,4.05,81,"huffington_es, google_news_internacional",2,Regreso al pasado: las sanciones de Donald Trump contra los jueces de la Corte Penal Internacional que obstaculizan la investigación de crímenes internacionales,2026-04-05 07:36
+punto,3,4,4.05,81,"levante_emv, google_news_es, elpais_espana, elpais",4,El mapa de puntos negros del litoral que acumulan obras pendientes desde hace más de una década,2026-04-05 07:36
+indra,3,4,4.05,81,"google_news_es, elpais, google_news_politica",3,"El reparto de los contratos millonarios, clave en la dimisión de Escribano en Indra - La Vanguardia",2026-04-05 07:36
+pueblo,5,7,3.86,77,"okdiario, heraldo_aragon, elpais",3,Amantes del queso: éste pueblo de Andalucía se convierte en la capital mundial del queso con catas y visitas guiadas,2026-04-05 07:36
+petróleo,5,7,3.86,77,"20minutos, okdiario, europapress, elpais, google_news_es",5,"Petróleo, esferas de influencia o cambios de régimen: ¿por qué el mundo ha entrado en una espiral de guerras?",2026-04-05 07:36
+piloto,20,28,3.86,77,"okdiario, 20minutos, google_news_internacional, huffington_es, levante_emv",5,"Última hora de la guerra de Irán 5 abril | Ataques, reapertura de Ormuz y últimas noticias del piloto de EEUU",2026-04-05 07:36
+domingo,21,30,3.78,75,"okdiario, 20minutos, google_news_economia, eldiario, levante_emv",5,"Predicción del horóscopo para Acuario hoy, domingo 5 de abril de 2026",2026-04-05 07:36
+confidencial,4,6,3.6,72,"google_news_internacional, google_news_es, google_news_economia",3,El contingente BRILIB XLV UNIFIL activa el INTEVAL: el ejercicio que pone a prueba su despliegue internacional - Confidencial Digital,2026-04-05 07:36
+periódico,4,6,3.6,72,"google_news_internacional, elpais, elconfidencial",3,"Guerra en Irán, última hora en directo: EEUU rescata 'sano y salvo' al segundo piloto del caza derribado en Irán - El Periódico",2026-04-05 07:36
+horóscopo,11,17,3.5,69,okdiario,1,"Predicción del horóscopo para Acuario hoy, domingo 5 de abril de 2026",2026-04-05 07:36
+desaparecido,9,14,3.47,69,"20minutos, google_news_internacional, levante_emv, google_news_es, elespanol",5,"Trump anuncia que el piloto del caza F-15 desaparecido en Irán está ""a salvo"" tras enviar ""decenas de aviones"" para recuperarlo",2026-04-05 07:36
+recorrido,3,5,3.24,64,"okdiario, heraldo_aragon",2,Semana Santa 2026: horario y recorrido de las procesiones hoy Domingo de Resurrección,2026-04-05 07:36
+gasolina,3,5,3.24,64,"google_news_economia, okdiario",2,¿Cuánto cuesta cargar el coche? Este es el precio del litro de gasolina y el del gasóleo este domingo 5 de abril - El Cronista,2026-04-05 07:36
+pasado,3,5,3.24,64,"google_news_es, huffington_es, google_news_internacional",3,Decretan libertad provisional para el detenido por el presunto homicidio de su pareja el pasado miércoles en Basauri - Cadena SER,2026-04-05 07:36
+metros,3,5,3.24,64,"20minutos, elpais, heraldo_aragon",3,La superficie media de los pisos nuevos no baja de los 100 metros en una España donde el 28% de los hogares ya son unipersonales,2026-04-05 07:36
+alimentos,3,5,3.24,64,"levante_emv, okdiario, elpais",3,Las empresas que no reduzcan el desperdicio de alimentos ya pueden ser multadas con hasta medio millón de euros,2026-04-05 07:36
+temperaturas,3,5,3.24,64,okdiario,1,AEMET prevé en Bilbao cielo poco nuboso con nieblas y descenso de temperaturas en el litoral,2026-04-05 07:36
+gratis,5,9,3.0,60,"heraldo_aragon, okdiario, google_news_es, elpais, elconfidencial",5,"Horario y dónde ver gratis la corrida de la Feria de Arlés del 6 de abril: Manuel Escribano, Colombo y El Rafi",2026-04-05 07:36
+declaración,3,6,2.7,54,"okdiario, google_news_internacional",2,Hacienda lo confirma: estos son los pensionistas que se libran de hacer la declaración de la Renta 2026,2026-04-05 07:36
+aragón,4,8,2.7,54,"heraldo_aragon, google_news_politica",2,"Falta de alojamientos para los universitarios en Aragón:""Si no fuera porque comparto un piso barato no podría estudiar""",2026-04-05 07:36
+prevé,3,6,2.7,54,okdiario,1,AEMET prevé un día soleado y cálido en Zaragoza con nubes en el Ibérico y viento suave,2026-04-05 07:36
+forma,3,6,2.7,54,"heraldo_aragon, okdiario, google_news_internacional, elpais",4,La princesa Leonor ultima su formación militar con la vista puesta en la universidad,2026-04-05 07:36
+aemet,4,8,2.7,54,okdiario,1,AEMET prevé un día soleado y cálido en Zaragoza con nubes en el Ibérico y viento suave,2026-04-05 07:36
+zaragoza,10,20,2.7,54,"heraldo_aragon, okdiario",2,"Viva Suecia se enamora de una película muy zaragozana: ""Os la recomendamos mucho""",2026-04-05 07:36
+orion,3,6,2.7,54,"20minutos, elpais, europapress",3,"Misión Artemis II de la NASA, en directo | Última hora de los cuatro astronautas de la nave Orion rumbo a la Luna",2026-04-05 07:36
+astronautas,5,11,2.46,49,"20minutos, heraldo_aragon, elpais",3,"Misión Artemis II de la NASA, en directo | Última hora de los cuatro astronautas de la nave Orion rumbo a la Luna",2026-04-05 07:36
+ahora,4,9,2.4,48,"elcorreo, okdiario, google_news_economia, elpais, elconfidencial",5,Mazón planta ahora cara a la jueza tras el aval del TSJ,2026-04-05 07:36
+valencia,7,16,2.36,47,"elcorreo, google_news_internacional, levante_emv, elpais, elconfidencial",5,La jueza deja en libertad a los dos hermanos acusados de violar a una mujer en un coche en Valencia,2026-04-05 07:36
+española,3,7,2.32,46,"okdiario, google_news_es, elconfidencial",3,La zoología española brinda por un nuevo hito: Madrid aumenta un 18% su población de águilas imperiales en 2025,2026-04-05 07:36
+golfo,3,7,2.32,46,google_news_internacional,1,La diplomacia de los drones de Zelenski en el golfo Pérsico - ABC,2026-04-05 07:36
+rusia,3,7,2.32,46,"europapress, elpais_internacional, google_news_es",3,El petrolero enviada por Rusia a Cuba zarpa de Matanzas tras entregar 100.000 toneladas de petróleo,2026-04-05 07:36
+horario,4,10,2.16,43,"heraldo_aragon, okdiario",2,"Horario y dónde ver gratis la corrida de la Feria de Arlés del 6 de abril: Manuel Escribano, Colombo y El Rafi",2026-04-05 07:36
+última,12,31,2.09,41,"okdiario, 20minutos, elpais, elcorreo, sur",5,"Última hora de la guerra de Irán 5 abril | Ataques, reapertura de Ormuz y últimas noticias del piloto de EEUU",2026-04-05 07:36
+gobierno,5,13,2.08,41,"okdiario, google_news_internacional, eldiario, heraldo_aragon",4,Los jóvenes están de enhorabuena: la ayuda de hasta 1.500 euros para formación gracias al gobierno de la Comunidad de Madrid,2026-04-05 07:36
+historia,5,13,2.08,41,"newtral, elpais, elconfidencial, google_news_economia",4,"Realidad y ficción en ‘Love Story’, la historia de amor de John F. Kennedy Jr. y Carolyn Bessette",2026-04-05 07:36
+siempre,3,8,2.03,40,"huffington_es, elpais, heraldo_aragon, el_confidencial_tech",4,"Jade, una joven británica que vive en Murcia, desmonta el mito de la España &#039;perezosa&#039;: &quot;Siempre siento que me pierdo algo&quot;",2026-04-05 07:36
+política,3,8,2.03,40,"20minutos, levante_emv, elpais_espana, elpais",4,El difícil puzzle de los liderazgos en la UE: de la carga política de Von der Leyen al sosiego de Costa y la indefinición de Kallas,2026-04-05 07:36
+europa,6,16,2.03,40,"google_news_internacional, levante_emv, elpais_internacional, elpais, google_news_economia",5,La OMS alerta sobre el colapso del sistema sanitario en Sudán y pide acción internacional inmediata - Europa Press,2026-04-05 07:36
+congreso,3,8,2.03,40,"okdiario, heraldo_aragon",2,Bolaños permitió al jefe de los letrados del Congreso tomar el control absoluto al fichar a su mujer,2026-04-05 07:36
+expertos,3,8,2.03,40,"okdiario, google_news_es, levante_emv",3,"Los expertos aconsejan a los dueños de perros: si llueve mucho fuera, la mejor opción es jugar al escondite en casa",2026-04-05 07:36
