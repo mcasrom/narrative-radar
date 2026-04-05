@@ -1,197 +1,193 @@
 keyword,count_now,count_base,ratio,viral_score,sources,n_sources,sample_title,detected_at
-torneo,4,3,5.91,100,"google_news_internacional, 20minutos, heraldo_aragon, elcorreo",4,Conjunto de gimnasia rítmica se ubica en el top 10 de Torneo Internacional de Thais 2026 - Gob MX,2026-04-05 19:06
-parece,4,3,5.91,100,"elcorreo, 20minutos, okdiario, elmundo, google_news_es",5,Juan Carlos I reaparece entre aplausos en La Maestranza tras la desclasificación del 23-F,2026-04-05 19:06
-getafe,7,5,6.2,100,"lavanguardia, elcorreo, levante_emv, google_news_es, elpais",5,"El Celta baja de la nube al Valencia y el Getafe, con licencia para soñar al superar al Athletic",2026-04-05 19:06
-asistir,3,1,13.29,100,"levante_emv, huffington_es, lavanguardia",3,Juan Carlos I ya está en Sevilla para asistir a la corrida de toros del Domingo de Resurrección en la Maestranza,2026-04-05 19:06
-tercer,4,1,17.73,100,"elpais, 20minutos, okdiario, france24_es",4,Tadej Pogacar consigue su tercer Tour de Flandes doblegando la resistencia de Mathieu van der Poel,2026-04-05 19:06
-flandes,10,4,11.08,100,"elpais, lavanguardia, 20minutos, okdiario, france24_es",5,Tadej Pogacar consigue su tercer Tour de Flandes doblegando la resistencia de Mathieu van der Poel,2026-04-05 19:06
-firma,3,2,6.65,100,"okdiario, heraldo_aragon, google_news_internacional, sur, elespanol",5,Los astrónomos confirman la existencia de la primera cueva volcánica en Venus,2026-04-05 19:06
-racha,4,2,8.86,100,"elespanol, elcorreo, elpais, google_news_es",4,El Real Madrid firma una nueva remontada ante el MoraBanc Andorra para mantener la racha de victorias en la Liga Endesa,2026-04-05 19:06
-spelling,4,0,5.0,100,"lavanguardia, elcorreo, 20minutos",3,"Tori Spelling, de 'Sensación de vivir', y cuatro de sus hijos, hospitalizados tras ser embestidos en un grave accidente de coche",2026-04-05 19:06
-sensación,4,0,5.0,100,"lavanguardia, elcorreo, 20minutos",3,"Tori Spelling, de 'Sensación de vivir', y cuatro de sus hijos, hospitalizados tras ser embestidos en un grave accidente de coche",2026-04-05 19:06
-vivir,4,3,5.91,100,"lavanguardia, elcorreo, 20minutos",3,"Tori Spelling, de 'Sensación de vivir', y cuatro de sus hijos, hospitalizados tras ser embestidos en un grave accidente de coche",2026-04-05 19:06
-hospitalizados,4,0,5.0,100,"lavanguardia, elcorreo, 20minutos",3,"Tori Spelling, de 'Sensación de vivir', y cuatro de sus hijos, hospitalizados tras ser embestidos en un grave accidente de coche",2026-04-05 19:06
-grave,4,2,8.86,100,"lavanguardia, elcorreo, elespanol, heraldo_aragon, 20minutos",5,"Tori Spelling, de 'Sensación de vivir', y cuatro de sus hijos, hospitalizados tras ser embestidos en un grave accidente de coche",2026-04-05 19:06
-accidente,5,2,11.08,100,"lavanguardia, elcorreo, 20minutos",3,"Tori Spelling, de 'Sensación de vivir', y cuatro de sus hijos, hospitalizados tras ser embestidos en un grave accidente de coche",2026-04-05 19:06
-visto,3,2,6.65,100,"el_confidencial_tech, infolibre, google_news_es, 20minutos",4,Los astronautas de la misión Artemis II ya han visto la cara oculta de la Luna,2026-04-05 19:06
-hallazgo,3,0,5.0,100,"okdiario, elmundo, elpais_internacional",3,El hallazgo de un niño de 8 años cambia la ciencia para siempre y los biólogos no dan crédito,2026-04-05 19:06
-opep+,6,2,13.29,100,"expansion, google_news_es, infolibre, lavanguardia",4,La OPEP+ aprueba un aumento de la oferta de crudo en mayo pese a la guerra,2026-04-05 19:06
-filósofo,4,0,5.0,100,"heraldo_aragon, okdiario",2,"Séneca, filósofo, sobre la autoestima: ""Si quieres que los demás te respeten, respétate a ti mismo""",2026-04-05 19:06
-calle,4,3,5.91,100,"20minutos, levante_emv, elmundo, elcorreo",4,Detenido un hombre en Barcelona por matar a otro con un arma blanca en plena calle,2026-04-05 19:06
-celta,6,2,13.29,100,"levante_emv, lavanguardia, elpais, google_news_es",4,"Corberán, tras la derrota ante el Celta: ""Es decepcionante no haber respondido al apoyo de la afición""",2026-04-05 19:06
-brinda,3,1,13.29,100,"lavanguardia, elmundo, google_news_es, levante_emv",4,Sevilla brinda al rey Juan Carlos ovación y “vuelta al ruedo” en la Maestranza,2026-04-05 19:06
-festivo,3,0,5.0,100,"heraldo_aragon, okdiario, google_news_economia",3,Lunes de Pascua 2026: en qué comunidades autónomas es festivo este 6 de abril en España,2026-04-05 19:06
-gasoducto,4,0,5.0,100,"elpais, elcorreo, elmundo, elpais_internacional",4,Orbán señala sin pruebas a Ucrania tras un supuesto intento de sabotaje a un gasoducto en Serbia,2026-04-05 19:06
-serbia,3,0,5.0,100,"elpais, elcorreo, elpais_internacional",3,Orbán señala sin pruebas a Ucrania tras un supuesto intento de sabotaje a un gasoducto en Serbia,2026-04-05 19:06
-ovación,5,0,5.0,100,"levante_emv, lavanguardia, 20minutos, google_news_es",4,Ovación al rey Juan Carlos en la Maestranza de Sevilla,2026-04-05 19:06
-tadej,4,0,5.0,100,"elcorreo, elpais, 20minutos, elespanol",4,Tadej Pogacar se convierte en imbatible,2026-04-05 19:06
-pogacar,11,3,16.25,100,"elcorreo, elpais, lavanguardia, 20minutos, okdiario",5,Tadej Pogacar se convierte en imbatible,2026-04-05 19:06
-aviador,6,4,6.65,100,"elpais, eldiario, google_news_internacional, google_news_es",4,Trump anuncia el rescate del segundo aviador y amenaza a Irán con “volarlo todo” si mantiene cerrado el estrecho de Ormuz,2026-04-05 19:06
-andorra,4,0,5.0,100,"levante_emv, elmundo, elespanol",3,El Madrid despierta tras el descanso para superar al Andorra,2026-04-05 19:06
-fallece,4,0,5.0,100,"elpais, google_news_es, elespanol, levante_emv",4,Fallece el poeta y escritor valenciano Josep Piera a los 78 años,2026-04-05 19:06
-poeta,3,0,5.0,100,"elpais, google_news_es, levante_emv",3,Fallece el poeta y escritor valenciano Josep Piera a los 78 años,2026-04-05 19:06
-escritor,4,0,5.0,100,"elpais, google_news_es, lavanguardia, levante_emv",4,Fallece el poeta y escritor valenciano Josep Piera a los 78 años,2026-04-05 19:06
-valenciano,4,2,8.86,100,"elpais, google_news_es, lavanguardia, levante_emv",4,Fallece el poeta y escritor valenciano Josep Piera a los 78 años,2026-04-05 19:06
-josep,4,0,5.0,100,"elpais, google_news_es, lavanguardia, levante_emv",4,Fallece el poeta y escritor valenciano Josep Piera a los 78 años,2026-04-05 19:06
-piera,5,0,5.0,100,"elpais, google_news_es, lavanguardia, levante_emv",4,Fallece el poeta y escritor valenciano Josep Piera a los 78 años,2026-04-05 19:06
-palma,4,2,8.86,100,"huffington_es, heraldo_aragon, 20minutos",3,"Javier González, jubilado que lleva 5 años viviendo en una autocaravana en Palma: &quot;No veo solución, nadie se va a preocupar por mí, no hay voluntad&quot;",2026-04-05 19:06
-aprueba,4,2,8.86,100,"expansion, google_news_es",2,La OPEP+ aprueba un aumento de la oferta de crudo en mayo pese a la guerra,2026-04-05 19:06
-oferta,5,3,7.39,100,"expansion, google_news_es, huffington_es",3,La OPEP+ aprueba un aumento de la oferta de crudo en mayo pese a la guerra,2026-04-05 19:06
-crudo,4,0,5.0,100,"expansion, google_news_es",2,La OPEP+ aprueba un aumento de la oferta de crudo en mayo pese a la guerra,2026-04-05 19:06
-hungría,3,1,13.29,100,"elcorreo, elmundo, elpais_internacional",3,Serbia denuncia un intento de sabotaje en un gasoducto ruso que suministra a Hungría,2026-04-05 19:06
-principios,4,0,5.0,100,"20minutos, google_news_es, google_news_internacional, europapress",4,Trump admite haber enviado armas a los manifestantes iraníes durante las protestas de principios de año,2026-04-05 19:06
-“¿sacaron,3,0,5.0,100,"lavanguardia, google_news_politica",2,"Pradales, sobre el 'Gernika': “¿Sacaron a Franco de su tumba y no pueden traer un cuadro?”",2026-04-05 19:06
-algunas,3,0,5.0,100,"okdiario, google_news_economia",2,"El BOE lo confirma: el Lunes de Pascua, 6 de abril es festivo en algunas comunidades que  alargan la Semana Santa",2026-04-05 19:06
-williams,4,0,5.0,100,"elcorreo, elpais, google_news_es",3,El detalle de Williams que ha emocionado a Yeray: «Me ha cedido la capitanía»,2026-04-05 19:06
-envió,3,0,5.0,100,"google_news_es, google_news_internacional, europapress",3,Trump admite que envió armas a la oposición iraní para fomentar un levantamiento - El Economista,2026-04-05 19:06
-reabre,5,2,11.08,100,"google_news_es, expansion, google_news_internacional, elcorreo",4,Trump amenaza con desatar el «infierno» si Irán no reabre el estrecho de Ormuz - SWI swissinfo.ch,2026-04-05 19:06
-traslado,3,1,13.29,100,"europapress, google_news_politica",2,"Ayuso califica de ""ciegas, absurdas y catetas"" las ""pretensiones nacionalistas"" del traslado del 'Guernica' a Euskadi",2026-04-05 19:06
-visionario,3,0,5.0,100,"google_news_internacional, bbc_mundo",2,"¿Visionario o estafador? Dennis Hope, el estadounidense que se hizo millonario vendiendo parcelas de la Luna tras reclamar su propiedad en 1980 - BBC",2026-04-05 19:06
-estafador,3,0,5.0,100,"google_news_internacional, bbc_mundo",2,"¿Visionario o estafador? Dennis Hope, el estadounidense que se hizo millonario vendiendo parcelas de la Luna tras reclamar su propiedad en 1980 - BBC",2026-04-05 19:06
-dennis,3,0,5.0,100,"google_news_internacional, bbc_mundo",2,"¿Visionario o estafador? Dennis Hope, el estadounidense que se hizo millonario vendiendo parcelas de la Luna tras reclamar su propiedad en 1980 - BBC",2026-04-05 19:06
-millonario,3,1,13.29,100,"google_news_internacional, bbc_mundo",2,"¿Visionario o estafador? Dennis Hope, el estadounidense que se hizo millonario vendiendo parcelas de la Luna tras reclamar su propiedad en 1980 - BBC",2026-04-05 19:06
-vendiendo,3,0,5.0,100,"google_news_internacional, bbc_mundo",2,"¿Visionario o estafador? Dennis Hope, el estadounidense que se hizo millonario vendiendo parcelas de la Luna tras reclamar su propiedad en 1980 - BBC",2026-04-05 19:06
-parcelas,3,0,5.0,100,"google_news_internacional, bbc_mundo",2,"¿Visionario o estafador? Dennis Hope, el estadounidense que se hizo millonario vendiendo parcelas de la Luna tras reclamar su propiedad en 1980 - BBC",2026-04-05 19:06
-reclamar,3,0,5.0,100,"google_news_internacional, bbc_mundo",2,"¿Visionario o estafador? Dennis Hope, el estadounidense que se hizo millonario vendiendo parcelas de la Luna tras reclamar su propiedad en 1980 - BBC",2026-04-05 19:06
-propiedad,3,2,6.65,100,"google_news_internacional, bbc_mundo",2,"¿Visionario o estafador? Dennis Hope, el estadounidense que se hizo millonario vendiendo parcelas de la Luna tras reclamar su propiedad en 1980 - BBC",2026-04-05 19:06
-protestas,4,2,8.86,100,"20minutos, google_news_es, google_news_internacional, europapress",4,Trump admite haber enviado armas a los manifestantes iraníes durante las protestas de principios de año,2026-04-05 19:06
-iraníes,5,3,7.39,100,"20minutos, google_news_es, google_news_internacional, europapress, france24_es",5,Trump admite haber enviado armas a los manifestantes iraníes durante las protestas de principios de año,2026-04-05 19:06
-manifestantes,4,1,17.73,100,"20minutos, google_news_es, google_news_internacional, europapress",4,Trump admite haber enviado armas a los manifestantes iraníes durante las protestas de principios de año,2026-04-05 19:06
-algeciras,3,0,5.0,100,google_news_es,1,Algeciras cierra una Semana Santa marcada por la afluencia de visitantes y el impulso a la economía local - Ayto. Algeciras,2026-04-05 19:06
-logra,6,3,8.86,100,"elcorreo, levante_emv, google_news_es, okdiario, heraldo_aragon",5,El Baskonia logra la mejor racha de la temporada y consolida su buen momento,2026-04-05 19:06
-reyes,4,2,8.86,100,google_news_internacional,1,"Los Reyes despiden a Diego Carcedo, ""voz del periodismo internacional y testigo de la historia"" - Infobae",2026-04-05 19:06
-despiden,4,0,5.0,100,google_news_internacional,1,"Los Reyes despiden a Diego Carcedo, ""voz del periodismo internacional y testigo de la historia"" - Infobae",2026-04-05 19:06
-testigo,4,1,17.73,100,google_news_internacional,1,"Los Reyes despiden a Diego Carcedo, ""voz del periodismo internacional y testigo de la historia"" - Infobae",2026-04-05 19:06
-ritmo,3,0,5.0,100,"heraldo_aragon, okdiario, 20minutos",3,El Casademont trata de aguantar el ritmo al Barça (27-34),2026-04-05 19:06
-yeray,3,2,6.65,100,elcorreo,1,"El 1x1 del Getafe-Athletic: Yeray, el más destacado. ¿Y para ti? Vota aquí",2026-04-05 19:06
-finaliza,3,1,13.29,100,"okdiario, 20minutos, france24_es",3,La Semana Santa madrileña finaliza al ritmo de la tamborrada en la Plaza Mayor,2026-04-05 19:06
-admite,5,0,5.0,100,"20minutos, google_news_es, google_news_internacional, europapress",4,Trump admite haber enviado armas a los manifestantes iraníes durante las protestas de principios de año,2026-04-05 19:06
-tamborrada,3,2,6.65,100,"okdiario, 20minutos, levante_emv",3,La Semana Santa madrileña finaliza al ritmo de la tamborrada en la Plaza Mayor,2026-04-05 19:06
-alguien,3,0,5.0,100,"el_confidencial_tech, huffington_es",2,"En 2021, alguien atropelló lo que creía que era un perro: hoy sabemos que era un animal que no debería haber nacido",2026-04-05 19:06
-sabemos,3,2,6.65,100,"el_confidencial_tech, eldiario, google_news_es",3,"En 2021, alguien atropelló lo que creía que era un perro: hoy sabemos que era un animal que no debería haber nacido",2026-04-05 19:06
-oviedo,3,2,6.65,100,google_news_internacional,1,Estos son los ganadores de la Oviedo Cup 2026: El Real Oviedo domina la Fase Oro y el Real Oviedo Internacional se corona en sub-19 - La Nueva España,2026-04-05 19:06
-pocos,3,2,6.65,100,"okdiario, elmundo",2,Durante la posguerra española fue la merienda de miles de niños: hoy pocos la recuerdan,2026-04-05 19:06
-descubre,3,2,6.65,100,"sur, okdiario, 20minutos",3,Descubren tres proteínas que el cuerpo utiliza para determinar qué alimentos son seguros y los que no,2026-04-05 19:06
-comunidades,3,1,13.29,100,"heraldo_aragon, okdiario, google_news_economia",3,Lunes de Pascua 2026: en qué comunidades autónomas es festivo este 6 de abril en España,2026-04-05 19:06
-puentes,3,1,13.29,100,"google_news_es, elcorreo, france24_es",3,Trump dice que atacará centrales y puentes de Irán - DW.com,2026-04-05 19:06
-junta,3,2,6.65,100,"google_news_es, elcorreo, 20minutos, elmundo",4,Amama demandará a la Junta de Andalucía para que indemnice a una de las afectadas por los cribados de mama - RTVE.es,2026-04-05 19:06
-techo,7,3,10.34,100,"lavanguardia, 20minutos, levante_emv, okdiario, elpais",5,Siete heridos en Benidorm tras el derrumbe del techo de un hotel,2026-04-05 19:06
-benidorm,7,1,31.02,100,"lavanguardia, 20minutos, levante_emv, okdiario, elpais",5,Siete heridos en Benidorm tras el derrumbe del techo de un hotel,2026-04-05 19:06
-pelea,6,2,13.29,100,"elmundo, 20minutos, elpais, lavanguardia, levante_emv",5,"Un apuñalado y 13 detenidos, seis menores de edad, tras una pelea entre dos grupos en el metro de Barcelona",2026-04-05 19:06
-grupos,4,0,5.0,100,"elmundo, 20minutos, elpais, lavanguardia",4,"Un apuñalado y 13 detenidos, seis menores de edad, tras una pelea entre dos grupos en el metro de Barcelona",2026-04-05 19:06
-metro,6,1,26.59,100,"elmundo, 20minutos, elpais, okdiario, lavanguardia",5,"Un apuñalado y 13 detenidos, seis menores de edad, tras una pelea entre dos grupos en el metro de Barcelona",2026-04-05 19:06
-hijos,6,3,8.86,100,"20minutos, lavanguardia, elcorreo, google_news_internacional",4,"Los príncipes de Gales reaparecen, en pleno escándalo, junto a sus hijos en la tradicional misa del Domingo de Pascua",2026-04-05 19:06
-reaparece,4,3,5.91,100,"elcorreo, 20minutos, elmundo, google_news_es, heraldo_aragon",5,Juan Carlos I reaparece entre aplausos en La Maestranza tras la desclasificación del 23-F,2026-04-05 19:06
-maestranza,10,6,7.39,100,"elcorreo, levante_emv, lavanguardia, 20minutos, elespanol",5,Juan Carlos I reaparece entre aplausos en La Maestranza tras la desclasificación del 23-F,2026-04-05 19:06
-siete,8,6,5.91,100,"lavanguardia, 20minutos, levante_emv, okdiario, elpais",5,Siete heridos en Benidorm tras el derrumbe del techo de un hotel,2026-04-05 19:06
-gordo,4,0,5.0,100,"google_news_es, okdiario",2,"Gordo de la Primitiva: comprobar los resultados del sorteo de hoy, domingo 5 de abril - Diario AS",2026-04-05 19:06
-jódar,8,2,17.73,100,"elcorreo, elmundo, elpais, google_news_es, levante_emv",5,Jódar conquista en Marrakech su primer título batiendo a Trungelliti,2026-04-05 19:06
-título,6,1,26.59,100,"elcorreo, elmundo, levante_emv, google_news_es, lavanguardia",5,Jódar conquista en Marrakech su primer título batiendo a Trungelliti,2026-04-05 19:06
-conquista,6,1,26.59,100,"elcorreo, elmundo, elpais, google_news_es, okdiario",5,Jódar conquista en Marrakech su primer título batiendo a Trungelliti,2026-04-05 19:06
-breogán,3,1,13.29,100,levante_emv,1,El Valencia Basket derrota al Breogán (105-88) y se afianza en la segunda posición de la Liga Endesa,2026-04-05 19:06
-palmas,3,1,13.29,100,heraldo_aragon,1,La SD Huesca se deja remontar en Las Palmas y sigue agonizando (2-1),2026-04-05 19:06
-marrakech,7,2,15.51,100,"elcorreo, elpais, google_news_es, levante_emv, lavanguardia",5,Jódar conquista en Marrakech su primer título batiendo a Trungelliti,2026-04-05 19:06
-endesa,3,0,5.0,100,"levante_emv, elespanol",2,El Valencia Basket derrota al Breogán (105-88) y se afianza en la segunda posición de la Liga Endesa,2026-04-05 19:06
-muertos,7,5,6.2,100,"sur, google_news_internacional, lavanguardia, elmundo, elespanol",5,Más de 70 muertos en una nueva tragedia migratoria en el Mediterráneo,2026-04-05 19:06
-derrumbe,4,0,5.0,100,"lavanguardia, 20minutos, okdiario, elespanol",4,Siete heridos en Benidorm tras el derrumbe del techo de un hotel,2026-04-05 19:06
-lunes,12,9,5.91,100,"google_news_es, sur, elpais, heraldo_aragon, elcorreo",5,Precio de la luz hoy lunes 06 de abril de 2026: ¿A qué hora es más barata? - Diario Sur,2026-04-05 19:06
-hotel,7,1,31.02,100,"lavanguardia, 20minutos, levante_emv, okdiario, elpais",5,Siete heridos en Benidorm tras el derrumbe del techo de un hotel,2026-04-05 19:06
-alavés,3,0,5.0,100,elcorreo,1,"En directo, Alavés-Osasuna",2026-04-05 19:06
-cribados,3,0,5.0,100,"google_news_es, 20minutos, huffington_es",3,Amama demandará a la Junta de Andalucía para que indemnice a una de las afectadas por los cribados de mama - RTVE.es,2026-04-05 19:06
-previa,4,2,8.86,100,"heraldo_aragon, elcorreo, google_news_internacional",3,"La afición del Real Zaragoza emana ilusión en la previa ante el Mirandés: ""Volvemos antes de las vacaciones para llegar al partido""",2026-04-05 19:06
-casademont,5,4,5.54,100,heraldo_aragon,1,El Casademont roza la gesta pero pierde contra el Barça (86-92) y agrava su situación,2026-04-05 19:06
-puebla,6,2,13.29,100,"elmundo, 20minutos, google_news_es, heraldo_aragon",4,Morante de la Puebla corta dos orejas en Sevilla con una plaza desbocada de entusiasmo,2026-04-05 19:06
-morante,15,9,7.39,100,"elespanol, elmundo, 20minutos, google_news_es, levante_emv",5,Morante corta dos orejas en su 'resurrección' en Sevilla entre honores al Rey Emérito,2026-04-05 19:06
-sevilla,21,16,5.82,100,"elespanol, elmundo, levante_emv, lavanguardia, 20minutos",5,Morante corta dos orejas en su 'resurrección' en Sevilla entre honores al Rey Emérito,2026-04-05 19:06
-osasuna,3,0,5.0,100,elcorreo,1,"En directo, Alavés-Osasuna",2026-04-05 19:06
-emérito,8,4,8.86,100,"elespanol, elmundo, google_news_es, elpais, huffington_es",5,Morante corta dos orejas en su 'resurrección' en Sevilla entre honores al Rey Emérito,2026-04-05 19:06
-apuñalado,4,0,5.0,100,"elmundo, 20minutos, elpais, lavanguardia",4,"Un apuñalado y 13 detenidos, seis menores de edad, tras una pelea entre dos grupos en el metro de Barcelona",2026-04-05 19:06
-fotos,4,2,8.86,100,"elespanol, heraldo_aragon, okdiario",3,"La 'vida padre' de Ábalos y Koldo en 20 fotos secretas: del yate al jet, de África a Asia, de Jésica a Andrea, del poder al banquillo",2026-04-05 19:06
-causa,3,2,6.65,100,"levante_emv, sur, elespanol, infolibre, google_news_es",5,El impacto directo de un misil iraní en la ciudad israelí de Haifa causa al menos 4 heridos,2026-04-05 19:06
-entra,3,1,13.29,100,"elcorreo, google_news_internacional, google_news_es, okdiario, lavanguardia",5,Diabate entra en el once por el tocado Boyé,2026-04-05 19:06
-buque,3,1,13.29,100,"lavanguardia, elcorreo",2,Un dron hunde un buque mercante ruso en el mar de Azov y deja al menos un muerto,2026-04-05 19:06
-heridos,9,8,4.99,99,"lavanguardia, levante_emv, 20minutos, okdiario, elespanol",5,Siete heridos en Benidorm tras el derrumbe del techo de un hotel,2026-04-05 19:06
-armas,8,8,4.43,88,"google_news_internacional, 20minutos, google_news_es, europapress, heraldo_aragon",5,El papa León XIV pide en su primer 'Urbi et Orbi' que se abandonen las armas - ORAIN,2026-04-05 19:06
-basket,3,3,4.43,88,levante_emv,1,El Valencia Basket derrota al Breogán (105-88) y se afianza en la segunda posición de la Liga Endesa,2026-04-05 19:06
-resumen,4,4,4.43,88,"heraldo_aragon, google_news_es, elcorreo",3,Resumen del partido Casademont Zaragoza-Barcelona: resultado y máximos anotadores,2026-04-05 19:06
-regresa,6,6,4.43,88,"elmundo, elpais, google_news_es, huffington_es, elcorreo",5,"Juan Carlos I regresa a Sevilla: encuentro con Morante, vítores y baño de masas",2026-04-05 19:06
-resucitado,4,4,4.43,88,"sur, google_news_es",2,La Banda del Cautivo brilla en la procesión del Resucitado en Antequera,2026-04-05 19:06
-periodismo,5,5,4.43,88,"google_news_internacional, levante_emv",2,"Los Reyes despiden a Diego Carcedo, ""voz del periodismo internacional y testigo de la historia"" - Infobae",2026-04-05 19:06
-capaces,3,3,4.43,88,"infolibre, google_news_politica",2,"El Gobierno vasco insiste con el Guernica: ""Sacaron a Franco de su tumba y no son capaces de traer un cuadro""",2026-04-05 19:06
-franco,4,4,4.43,88,"lavanguardia, infolibre, google_news_politica",3,"Pradales, sobre el 'Gernika': “¿Sacaron a Franco de su tumba y no pueden traer un cuadro?”",2026-04-05 19:06
-volver,3,3,4.43,88,"okdiario, elespanol, 20minutos",3,Juan Carlos I llega a Sevilla y dice que quiere volver a residir en España: «Lo haré en cuanto pueda»,2026-04-05 19:06
-tener,5,5,4.43,88,"huffington_es, 20minutos, google_news_es, elespanol, elcorreo",5,"Cal Newport, profesor de Informática de Georgetown: &quot;El TikTok es un Dorito digital. Y deberíamos tener la misma política sobre él que sobre la comida ultraprocesada&quot;",2026-04-05 19:06
-pleno,3,3,4.43,88,20minutos,1,"Los príncipes de Gales reaparecen, en pleno escándalo, junto a sus hijos en la tradicional misa del Domingo de Pascua",2026-04-05 19:06
-cierre,3,3,4.43,88,"elcorreo, 20minutos, france24_es",3,Ikurriñas y capirotes en el cierre de la Semana Santa,2026-04-05 19:06
-menor,3,3,4.43,88,"elmundo, 20minutos, okdiario, elcorreo",4,"Un apuñalado y 13 detenidos, seis menores de edad, tras una pelea entre dos grupos en el metro de Barcelona",2026-04-05 19:06
-llama,4,4,4.43,88,"sur, france24_es, levante_emv, elcorreo, elespanol",5,Trump anuncia un «posible» acuerdo de paz este martes tras llamar «locos cabrones» a los dirigentes de Irán,2026-04-05 19:06
-cuadro,3,3,4.43,88,"lavanguardia, infolibre, google_news_politica",3,"Pradales, sobre el 'Gernika': “¿Sacaron a Franco de su tumba y no pueden traer un cuadro?”",2026-04-05 19:06
-laura,3,3,4.43,88,"okdiario, 20minutos, huffington_es",3,"Pitingo adelanta los detalles de su boda con su primer gran amor, Laura: «30 años después nos hemos encontrado»",2026-04-05 19:06
-primer,16,16,4.43,88,"elcorreo, sur, okdiario, france24_es, levante_emv",5,Jódar conquista en Marrakech su primer título batiendo a Trungelliti,2026-04-05 19:06
-israelíes,3,3,4.43,88,"lavanguardia, elmundo, france24_es",3,Al menos 39 muertos en la última oleada de ataques israelíes en Líbano,2026-04-05 19:06
-grande,4,4,4.43,88,"huffington_es, sur, elcorreo, elpais, google_news_es",5,Atascos en media España en la vuelta de Semana Santa: seis grandes vías colapsadas hacia Madrid y tráfico creciente en Barcelona,2026-04-05 19:06
-pueden,4,4,4.43,88,"huffington_es, france24_es, lavanguardia, levante_emv",4,"Santorini, Dubrovnik y Venecia ya limitan los cruceros que pueden atracar al día: el estudio que explica por qué Málaga, Palma y Valencia deberían hacer lo mismo",2026-04-05 19:06
-plena,6,6,4.43,88,"20minutos, levante_emv, okdiario, elmundo, sur",5,Detenido un hombre en Barcelona por matar a otro con un arma blanca en plena calle,2026-04-05 19:06
-presidente,5,5,4.43,88,"levante_emv, elmundo, 20minutos, google_news_es, lavanguardia",5,Zelenski aborda en Damasco con el presidente sirio vías de seguridad y cooperación militar,2026-04-05 19:06
-huesca,6,7,3.8,75,heraldo_aragon,1,La SD Huesca se deja remontar en Las Palmas y sigue agonizando (2-1),2026-04-05 19:06
-athletic,5,6,3.69,73,"lavanguardia, elcorreo, levante_emv, google_news_es",4,"El Celta baja de la nube al Valencia y el Getafe, con licencia para soñar al superar al Athletic",2026-04-05 19:06
-carlos,16,20,3.55,70,"elcorreo, 20minutos, france24_es, levante_emv, lavanguardia",5,Juan Carlos I reaparece entre aplausos en La Maestranza tras la desclasificación del 23-F,2026-04-05 19:06
-denuncia,4,5,3.55,70,"elcorreo, elmundo, elpais_internacional",3,Serbia denuncia un intento de sabotaje en un gasoducto ruso que suministra a Hungría,2026-04-05 19:06
-tumba,4,5,3.55,70,"lavanguardia, infolibre, google_news_politica",3,"Pradales, sobre el 'Gernika': “¿Sacaron a Franco de su tumba y no pueden traer un cuadro?”",2026-04-05 19:06
-abandonen,3,4,3.32,66,"google_news_internacional, heraldo_aragon, huffington_es",3,El papa León XIV pide en su primer 'Urbi et Orbi' que se abandonen las armas - ORAIN,2026-04-05 19:06
-tráfico,3,4,3.32,66,"huffington_es, elcorreo",2,Atascos en media España en la vuelta de Semana Santa: seis grandes vías colapsadas hacia Madrid y tráfico creciente en Barcelona,2026-04-05 19:06
-diari,3,4,3.32,66,"google_news_es, okdiario, google_news_internacional, infolibre, 20minutos",5,"Gordo de la Primitiva: comprobar los resultados del sorteo de hoy, domingo 5 de abril - Diario AS",2026-04-05 19:06
-datos,3,4,3.32,66,"20minutos, huffington_es, levante_emv",3,Cuidado con el troyano GoPix: este ataque imita a WhatsApp y Google Chrome para robar datos bancarios,2026-04-05 19:06
-centrales,3,4,3.32,66,"google_news_es, elcorreo, france24_es",3,Trump dice que atacará centrales y puentes de Irán - DW.com,2026-04-05 19:06
-ciudad,3,4,3.32,66,"france24_es, levante_emv, 20minutos, okdiario",4,Ciudadanos estadounidenses advierten importante subida de precios de gasolina,2026-04-05 19:06
-lasexta,3,4,3.32,66,"google_news_internacional, google_news_es",2,"El exembajador Rupérez alerta: ""Las crisis acumuladas van a acabar con el derecho internacional y la crisis - LaSexta",2026-04-05 19:06
-corrida,6,8,3.32,66,"levante_emv, elespanol, google_news_es, elpais, huffington_es",5,Juan Carlos I ya está en Sevilla para asistir a la corrida de toros del Domingo de Resurrección en la Maestranza,2026-04-05 19:06
-tenemos,3,4,3.32,66,"lavanguardia, elmundo, heraldo_aragon",3,Tenemos que memorizar otro nombre: Rafa Jódar gana su primer título en Marrakech,2026-04-05 19:06
-zelenski,3,4,3.32,66,"france24_es, levante_emv, elmundo_internacional",3,Zelenski visita Siria en búsqueda de nuevos apoyos de seguridad,2026-04-05 19:06
-teherán,3,4,3.32,66,"france24_es, google_news_es",2,"El rescate del piloto americano en Irán, según Trump y según Teherán",2026-04-05 19:06
-pradales,3,4,3.32,66,"lavanguardia, google_news_politica",2,"Pradales, sobre el 'Gernika': “¿Sacaron a Franco de su tumba y no pueden traer un cuadro?”",2026-04-05 19:06
-david,3,4,3.32,66,"heraldo_aragon, 20minutos, google_news_es",3,Alineaciones del Real Zaragoza-Mirandés: tres cambios de David Navarro ante el colista,2026-04-05 19:06
-cambios,3,4,3.32,66,heraldo_aragon,1,Alineaciones del Real Zaragoza-Mirandés: tres cambios de David Navarro ante el colista,2026-04-05 19:06
-zaragoza-mirandés,3,4,3.32,66,heraldo_aragon,1,Alineaciones del Real Zaragoza-Mirandés: tres cambios de David Navarro ante el colista,2026-04-05 19:06
-&quot;el,3,4,3.32,66,huffington_es,1,"Cal Newport, profesor de Informática de Georgetown: &quot;El TikTok es un Dorito digital. Y deberíamos tener la misma política sobre él que sobre la comida ultraprocesada&quot;",2026-04-05 19:06
-goles,5,7,3.17,63,"levante_emv, google_news_es, heraldo_aragon, lavanguardia, elcorreo",5,"Brutal autocrítica de Guido a pesar de su doblete: ""Pude hacerlo mejor en los dos primeros goles del Celta""",2026-04-05 19:06
-economista,5,7,3.17,63,"google_news_es, huffington_es, okdiario, google_news_internacional",4,Comprobar Bonoloto: resultados del domingo 5 de abril de 2026 - El Economista,2026-04-05 19:06
-líbano,5,7,3.17,63,"lavanguardia, elmundo, france24_es, infolibre",4,Al menos 39 muertos en la última oleada de ataques israelíes en Líbano,2026-04-05 19:06
-martes,7,10,3.1,62,"sur, huffington_es, heraldo_aragon, expansion, google_news_internacional",5,Trump anuncia un «posible» acuerdo de paz este martes tras llamar «locos cabrones» a los dirigentes de Irán,2026-04-05 19:06
-insiste,4,6,2.95,59,"infolibre, expansion, google_news_internacional, google_news_es",4,"El Gobierno vasco insiste con el Guernica: ""Sacaron a Franco de su tumba y no son capaces de traer un cuadro""",2026-04-05 19:06
-alineaciones,4,6,2.95,59,"heraldo_aragon, google_news_es",2,Alineaciones del Real Zaragoza-Mirandés: tres cambios de David Navarro ante el colista,2026-04-05 19:06
-coche,5,8,2.77,55,"20minutos, levante_emv, lavanguardia",3,"La foto de Úrsula Corberó dando el pecho a su bebé en un coche: ""Tanto amor no me cabe""",2026-04-05 19:06
-procesión,3,5,2.66,53,"sur, okdiario",2,La Banda del Cautivo brilla en la procesión del Resucitado en Antequera,2026-04-05 19:06
-afirma,3,5,2.66,53,"google_news_internacional, huffington_es",2,Emiratos Árabes Unidos afirma que se sumará a «cualquier iniciativa» de EE.UU. para reabrir el estrecho de Ormuz - eldebate.com,2026-04-05 19:06
-tarragona,3,5,2.66,53,google_news_internacional,1,Trump revela que el segundo militar rescatado del caza abatido por Irán está grave - Diari de Tarragona,2026-04-05 19:06
-película,3,5,2.66,53,"okdiario, 20minutos, heraldo_aragon",3,Parece de película pero así fue la operación de rescate hora a hora del piloto del F-15,2026-04-05 19:06
-aumento,3,5,2.66,53,"expansion, google_news_es",2,La OPEP+ aprueba un aumento de la oferta de crudo en mayo pese a la guerra,2026-04-05 19:06
-nadie,3,5,2.66,53,"huffington_es, elmundo, 20minutos",3,"Javier González, jubilado que lleva 5 años viviendo en una autocaravana en Palma: &quot;No veo solución, nadie se va a preocupar por mí, no hay voluntad&quot;",2026-04-05 19:06
-herido,3,5,2.66,53,"lavanguardia, levante_emv, 20minutos, okdiario, elespanol",5,Siete heridos en Benidorm tras el derrumbe del techo de un hotel,2026-04-05 19:06
-ucrania,7,12,2.58,51,"elpais, huffington_es, okdiario, elmundo_internacional, google_news_internacional",5,Orbán señala sin pruebas a Ucrania tras un supuesto intento de sabotaje a un gasoducto en Serbia,2026-04-05 19:06
-matar,4,7,2.53,50,"20minutos, levante_emv, huffington_es",3,Detenido un hombre en Barcelona por matar a otro con un arma blanca en plena calle,2026-04-05 19:06
-estadounidense,4,7,2.53,50,"france24_es, huffington_es, google_news_internacional, bbc_mundo",4,Ciudadanos estadounidenses advierten importante subida de precios de gasolina,2026-04-05 19:06
-alerta,4,7,2.53,50,"google_news_internacional, okdiario",2,"El exembajador Rupérez alerta: ""Las crisis acumuladas van a acabar con el derecho internacional y la crisis - LaSexta",2026-04-05 19:06
-desatar,4,7,2.53,50,"google_news_es, expansion, google_news_internacional",3,Trump amenaza con desatar el «infierno» si Irán no reabre el estrecho de Ormuz - SWI swissinfo.ch,2026-04-05 19:06
-ellos,5,9,2.46,49,"heraldo_aragon, 20minutos, okdiario, elespanol, google_news_es",5,"La Semana Santa se cierra con once rescates de montaña en Huesca, 6 de ellos en un día",2026-04-05 19:06
-hombre,8,15,2.36,47,"france24_es, 20minutos, heraldo_aragon, levante_emv, lavanguardia",5,Alemania: ¿por qué los hombres deben reportar si salen del país por más de tres meses?,2026-04-05 19:06
-valencia,11,21,2.32,46,"levante_emv, heraldo_aragon, elpais, google_news_es, huffington_es",5,El Valencia Basket derrota al Breogán (105-88) y se afianza en la segunda posición de la Liga Endesa,2026-04-05 19:06
-operación,10,19,2.33,46,"elespanol, levante_emv, okdiario, 20minutos, elpais",5,Una operación de despiste de la CIA permitió al Pentágono rescatar al segundo piloto oculto en la cresta de un monte,2026-04-05 19:06
-junto,3,6,2.22,44,"google_news_internacional, 20minutos, sur, lavanguardia, okdiario",5,Conjunto de gimnasia rítmica se ubica en el top 10 de Torneo Internacional de Thais 2026 - Gob MX,2026-04-05 19:06
-ayuso,4,8,2.22,44,"elcorreo, okdiario, europapress",3,Choque entre Ayuso y Esteban por su entrevista en EL CORREO,2026-04-05 19:06
-esteban,3,6,2.22,44,"elcorreo, 20minutos",2,Choque entre Ayuso y Esteban por su entrevista en EL CORREO,2026-04-05 19:06
-revela,4,8,2.22,44,"20minutos, heraldo_aragon, google_news_internacional",3,Qué es el 'efecto Ted Bundy': un estudio revela qué suelen tener en común las víctimas de los asesinos en serie,2026-04-05 19:06
-imágenes,3,6,2.22,44,"levante_emv, lavanguardia",2,"El Valencia Basket - Breogán, en imágenes",2026-04-05 19:06
-militar,4,8,2.22,44,"levante_emv, elcorreo, heraldo_aragon, google_news_internacional",4,Zelenski aborda en Damasco con el presidente sirio vías de seguridad y cooperación militar,2026-04-05 19:06
-premiado,3,6,2.22,44,"okdiario, elespanol",2,"Comprobar Bonoloto: resultado y número premiado hoy, domingo 5 de abril de 2026",2026-04-05 19:06
-mundial,3,6,2.22,44,"france24_es, okdiario",2,León XIV llama a la paz mundial en su primera Pascua como papa,2026-04-05 19:06
-toros,5,10,2.22,44,"levante_emv, google_news_es, elpais, huffington_es",4,Juan Carlos I ya está en Sevilla para asistir a la corrida de toros del Domingo de Resurrección en la Maestranza,2026-04-05 19:06
-guernica,4,8,2.22,44,"okdiario, infolibre, europapress, google_news_politica, elcorreo",5,"Ayuso tilda de «ciegas, absurdas y catetas» las pretensiones del PNV de trasladar el Guernica al País Vasco",2026-04-05 19:06
-traer,4,8,2.22,44,"lavanguardia, infolibre, google_news_politica",3,"Pradales, sobre el 'Gernika': “¿Sacaron a Franco de su tumba y no pueden traer un cuadro?”",2026-04-05 19:06
-seguridad,3,6,2.22,44,"france24_es, levante_emv, 20minutos",3,Zelenski visita Siria en búsqueda de nuevos apoyos de seguridad,2026-04-05 19:06
-detenidos,5,10,2.22,44,"elmundo, 20minutos, elpais, lavanguardia, elcorreo",5,"Un apuñalado y 13 detenidos, seis menores de edad, tras una pelea entre dos grupos en el metro de Barcelona",2026-04-05 19:06
-haber,5,10,2.22,44,"levante_emv, el_confidencial_tech, 20minutos, google_news_es, google_news_internacional",5,"Corberán, tras la derrota ante el Celta: ""Es decepcionante no haber respondido al apoyo de la afición""",2026-04-05 19:06
-sigue,8,17,2.09,41,"heraldo_aragon, elpais, elcorreo, okdiario, google_news_es",5,La SD Huesca se deja remontar en Las Palmas y sigue agonizando (2-1),2026-04-05 19:06
-historia,8,17,2.09,41,"google_news_internacional, google_news_es, okdiario, heraldo_aragon",4,"Los Reyes despiden a Diego Carcedo, ""voz del periodismo internacional y testigo de la historia"" - Infobae",2026-04-05 19:06
-meses,6,13,2.05,40,"france24_es, google_news_es, elcorreo, google_news_internacional",4,Alemania: ¿por qué los hombres deben reportar si salen del país por más de tres meses?,2026-04-05 19:06
-amenaza,5,11,2.01,40,"huffington_es, elpais, lavanguardia, elcorreo, 20minutos",5,Trump lanza un nuevo ultimátum a Irán y amplía el plazo hasta el martes: amenaza con destruir infraestructuras clave,2026-04-05 19:06
+propiedad,3,2,6.55,100,"google_news_internacional, bbc_mundo",2,"¿Visionario o estafador? Dennis Hope, el estadounidense que se hizo millonario vendiendo parcelas de la Luna tras reclamar su propiedad en 1980 - BBC",2026-04-05 19:36
+hallazgo,3,0,5.0,100,"okdiario, elmundo, elpais_internacional",3,El hallazgo de un niño de 8 años cambia la ciencia para siempre y los biólogos no dan crédito,2026-04-05 19:36
+alavés,3,0,5.0,100,elcorreo,1,"En directo, Alavés-Osasuna",2026-04-05 19:36
+causa,3,2,6.55,100,"levante_emv, sur, elespanol, infolibre, google_news_es",5,El impacto directo de un misil iraní en la ciudad israelí de Haifa causa al menos 4 heridos,2026-04-05 19:36
+aprueba,4,2,8.74,100,"expansion, google_news_es",2,La OPEP+ aprueba un aumento de la oferta de crudo en mayo pese a la guerra,2026-04-05 19:36
+buque,3,1,13.11,100,"lavanguardia, elcorreo",2,Un dron hunde un buque mercante ruso en el mar de Azov y deja al menos un muerto,2026-04-05 19:36
+oferta,5,3,7.28,100,"expansion, google_news_es, huffington_es",3,La OPEP+ aprueba un aumento de la oferta de crudo en mayo pese a la guerra,2026-04-05 19:36
+crudo,4,0,5.0,100,"expansion, google_news_es",2,La OPEP+ aprueba un aumento de la oferta de crudo en mayo pese a la guerra,2026-04-05 19:36
+hungría,3,1,13.11,100,"elcorreo, elmundo, elpais_internacional",3,Serbia denuncia un intento de sabotaje en un gasoducto ruso que suministra a Hungría,2026-04-05 19:36
+hotel,7,1,30.58,100,"lavanguardia, 20minutos, levante_emv, okdiario, elpais",5,Siete heridos en Benidorm tras el derrumbe del techo de un hotel,2026-04-05 19:36
+techo,7,3,10.19,100,"lavanguardia, 20minutos, levante_emv, okdiario, elpais",5,Siete heridos en Benidorm tras el derrumbe del techo de un hotel,2026-04-05 19:36
+derrumbe,4,0,5.0,100,"lavanguardia, 20minutos, okdiario, elespanol",4,Siete heridos en Benidorm tras el derrumbe del techo de un hotel,2026-04-05 19:36
+benidorm,7,1,30.58,100,"lavanguardia, 20minutos, levante_emv, okdiario, elpais",5,Siete heridos en Benidorm tras el derrumbe del techo de un hotel,2026-04-05 19:36
+siete,8,6,5.82,100,"lavanguardia, 20minutos, levante_emv, okdiario, elpais",5,Siete heridos en Benidorm tras el derrumbe del techo de un hotel,2026-04-05 19:36
+reyes,4,1,17.47,100,google_news_internacional,1,"Los Reyes despiden a Diego Carcedo, ""voz del periodismo internacional y testigo de la historia"" - Infobae",2026-04-05 19:36
+despiden,4,0,5.0,100,google_news_internacional,1,"Los Reyes despiden a Diego Carcedo, ""voz del periodismo internacional y testigo de la historia"" - Infobae",2026-04-05 19:36
+testigo,4,1,17.47,100,google_news_internacional,1,"Los Reyes despiden a Diego Carcedo, ""voz del periodismo internacional y testigo de la historia"" - Infobae",2026-04-05 19:36
+ritmo,3,0,5.0,100,"heraldo_aragon, okdiario, 20minutos",3,El Casademont trata de aguantar el ritmo al Barça (27-34),2026-04-05 19:36
+muertos,7,5,6.12,100,"sur, google_news_internacional, lavanguardia, elmundo, elespanol",5,Más de 70 muertos en una nueva tragedia migratoria en el Mediterráneo,2026-04-05 19:36
+sensación,5,0,5.0,100,"google_news_es, lavanguardia, elcorreo, 20minutos",4,"Nazareth Castellanos, neurocientífica: ""Me gusta y necesito leer. Me fascina la sensación de ir quedándome dormida mientras estoy leyendo, dejar el libro en la mesilla y apagar la luz"" - Lecturas",2026-04-05 19:36
+yeray,3,2,6.55,100,elcorreo,1,"El 1x1 del Getafe-Athletic: Yeray, el más destacado. ¿Y para ti? Vota aquí",2026-04-05 19:36
+algeciras,3,0,5.0,100,google_news_es,1,Algeciras cierra una Semana Santa marcada por la afluencia de visitantes y el impulso a la economía local - Ayto. Algeciras,2026-04-05 19:36
+tener,5,4,5.46,100,"huffington_es, 20minutos, google_news_es, elespanol, elcorreo",5,"Cal Newport, profesor de Informática de Georgetown: &quot;El TikTok es un Dorito digital. Y deberíamos tener la misma política sobre él que sobre la comida ultraprocesada&quot;",2026-04-05 19:36
+finaliza,3,1,13.11,100,"okdiario, 20minutos, france24_es",3,La Semana Santa madrileña finaliza al ritmo de la tamborrada en la Plaza Mayor,2026-04-05 19:36
+endesa,3,0,5.0,100,"levante_emv, elespanol",2,El Valencia Basket derrota al Breogán (105-88) y se afianza en la segunda posición de la Liga Endesa,2026-04-05 19:36
+breogán,3,1,13.11,100,levante_emv,1,El Valencia Basket derrota al Breogán (105-88) y se afianza en la segunda posición de la Liga Endesa,2026-04-05 19:36
+parece,4,3,5.82,100,"elcorreo, 20minutos, okdiario, elmundo, google_news_es",5,Juan Carlos I reaparece entre aplausos en La Maestranza tras la desclasificación del 23-F,2026-04-05 19:36
+opep+,6,2,13.11,100,"expansion, google_news_es, infolibre, lavanguardia",4,La OPEP+ aprueba un aumento de la oferta de crudo en mayo pese a la guerra,2026-04-05 19:36
+celta,7,2,15.29,100,"levante_emv, lavanguardia, elpais, google_news_es",4,"Corberán, tras la derrota ante el Celta: ""Es decepcionante no haber respondido al apoyo de la afición""",2026-04-05 19:36
+pocos,3,2,6.55,100,"okdiario, elmundo",2,Durante la posguerra española fue la merienda de miles de niños: hoy pocos la recuerdan,2026-04-05 19:36
+comunidades,3,1,13.11,100,"heraldo_aragon, okdiario, google_news_economia",3,Lunes de Pascua 2026: en qué comunidades autónomas es festivo este 6 de abril en España,2026-04-05 19:36
+calle,4,3,5.82,100,"20minutos, levante_emv, elmundo, elcorreo",4,Detenido un hombre en Barcelona por matar a otro con un arma blanca en plena calle,2026-04-05 19:36
+getafe,8,4,8.74,100,"lavanguardia, elcorreo, levante_emv, google_news_es, elpais",5,"El Celta baja de la nube al Valencia y el Getafe, con licencia para soñar al superar al Athletic",2026-04-05 19:36
+asistir,3,1,13.11,100,"levante_emv, huffington_es, lavanguardia",3,Juan Carlos I ya está en Sevilla para asistir a la corrida de toros del Domingo de Resurrección en la Maestranza,2026-04-05 19:36
+tercer,4,1,17.47,100,"elpais, 20minutos, okdiario, france24_es",4,Tadej Pogacar consigue su tercer Tour de Flandes doblegando la resistencia de Mathieu van der Poel,2026-04-05 19:36
+flandes,10,4,10.92,100,"elpais, lavanguardia, 20minutos, okdiario, france24_es",5,Tadej Pogacar consigue su tercer Tour de Flandes doblegando la resistencia de Mathieu van der Poel,2026-04-05 19:36
+firma,3,2,6.55,100,"levante_emv, okdiario, heraldo_aragon, google_news_internacional, sur",5,Trump confirma que EEUU envió armas a los manifestantes de Irán,2026-04-05 19:36
+brinda,3,1,13.11,100,"lavanguardia, elmundo, google_news_es, levante_emv",4,Sevilla brinda al rey Juan Carlos ovación y “vuelta al ruedo” en la Maestranza,2026-04-05 19:36
+racha,4,2,8.74,100,"elespanol, elcorreo, elpais, google_news_es",4,El Real Madrid firma una nueva remontada ante el MoraBanc Andorra para mantener la racha de victorias en la Liga Endesa,2026-04-05 19:36
+spelling,4,0,5.0,100,"lavanguardia, elcorreo, 20minutos",3,"Tori Spelling, de 'Sensación de vivir', y cuatro de sus hijos, hospitalizados tras ser embestidos en un grave accidente de coche",2026-04-05 19:36
+vivir,4,3,5.82,100,"lavanguardia, elcorreo, 20minutos",3,"Tori Spelling, de 'Sensación de vivir', y cuatro de sus hijos, hospitalizados tras ser embestidos en un grave accidente de coche",2026-04-05 19:36
+hospitalizados,4,0,5.0,100,"lavanguardia, elcorreo, 20minutos",3,"Tori Spelling, de 'Sensación de vivir', y cuatro de sus hijos, hospitalizados tras ser embestidos en un grave accidente de coche",2026-04-05 19:36
+poeta,3,0,5.0,100,"elpais, google_news_es, levante_emv",3,Fallece el poeta y escritor valenciano Josep Piera a los 78 años,2026-04-05 19:36
+fallece,4,0,5.0,100,"elpais, google_news_es, elespanol, levante_emv",4,Fallece el poeta y escritor valenciano Josep Piera a los 78 años,2026-04-05 19:36
+andorra,4,0,5.0,100,"levante_emv, elmundo, elespanol",3,El Madrid despierta tras el descanso para superar al Andorra,2026-04-05 19:36
+grave,4,2,8.74,100,"lavanguardia, elcorreo, elespanol, heraldo_aragon, 20minutos",5,"Tori Spelling, de 'Sensación de vivir', y cuatro de sus hijos, hospitalizados tras ser embestidos en un grave accidente de coche",2026-04-05 19:36
+aviador,7,4,7.65,100,"elpais, eldiario, google_news_internacional, google_news_es",4,Trump anuncia el rescate del segundo aviador y amenaza a Irán con “volarlo todo” si mantiene cerrado el estrecho de Ormuz,2026-04-05 19:36
+pogacar,11,3,16.02,100,"elcorreo, elpais, lavanguardia, 20minutos, okdiario",5,Tadej Pogacar se convierte en imbatible,2026-04-05 19:36
+tadej,4,0,5.0,100,"elcorreo, elpais, 20minutos, elespanol",4,Tadej Pogacar se convierte en imbatible,2026-04-05 19:36
+ovación,5,0,5.0,100,"levante_emv, lavanguardia, 20minutos",3,Ovación al rey Juan Carlos en la Maestranza de Sevilla,2026-04-05 19:36
+accidente,4,3,5.82,100,"lavanguardia, elcorreo, 20minutos",3,"Tori Spelling, de 'Sensación de vivir', y cuatro de sus hijos, hospitalizados tras ser embestidos en un grave accidente de coche",2026-04-05 19:36
+josep,6,0,5.0,100,"levante_emv, google_news_es, elpais, lavanguardia",4,"Morant despide a Josep Piera, ""un referente"" de la poesía valenciana: ""Su voz ya forma parte de nuestra historia""",2026-04-05 19:36
+serbia,3,0,5.0,100,"elpais, elcorreo, elpais_internacional",3,Orbán señala sin pruebas a Ucrania tras un supuesto intento de sabotaje a un gasoducto en Serbia,2026-04-05 19:36
+gasoducto,4,0,5.0,100,"elpais, elcorreo, elmundo, elpais_internacional",4,Orbán señala sin pruebas a Ucrania tras un supuesto intento de sabotaje a un gasoducto en Serbia,2026-04-05 19:36
+visto,4,2,8.74,100,"el_confidencial_tech, infolibre, google_news_es, 20minutos",4,Los astronautas de la misión Artemis II ya han visto la cara oculta de la Luna,2026-04-05 19:36
+festivo,3,0,5.0,100,"heraldo_aragon, okdiario, google_news_economia",3,Lunes de Pascua 2026: en qué comunidades autónomas es festivo este 6 de abril en España,2026-04-05 19:36
+sabemos,3,2,6.55,100,"el_confidencial_tech, eldiario, google_news_es",3,"En 2021, alguien atropelló lo que creía que era un perro: hoy sabemos que era un animal que no debería haber nacido",2026-04-05 19:36
+alguien,3,0,5.0,100,"el_confidencial_tech, huffington_es",2,"En 2021, alguien atropelló lo que creía que era un perro: hoy sabemos que era un animal que no debería haber nacido",2026-04-05 19:36
+metro,6,1,26.21,100,"elmundo, 20minutos, elpais, okdiario, lavanguardia",5,"Un apuñalado y 13 detenidos, seis menores de edad, tras una pelea entre dos grupos en el metro de Barcelona",2026-04-05 19:36
+schubert,3,0,5.0,100,google_news_es,1,Peralada cierra el Festival de Pascua con la luz de Mozart y Schubert - Ópera Actual,2026-04-05 19:36
+algunas,3,0,5.0,100,"okdiario, google_news_economia",2,"El BOE lo confirma: el Lunes de Pascua, 6 de abril es festivo en algunas comunidades que  alargan la Semana Santa",2026-04-05 19:36
+williams,4,0,5.0,100,"elcorreo, elpais, google_news_es",3,El detalle de Williams que ha emocionado a Yeray: «Me ha cedido la capitanía»,2026-04-05 19:36
+orejas,3,0,5.0,100,"elespanol, elmundo, google_news_es",3,Morante corta dos orejas en su 'resurrección' en Sevilla entre honores al Rey Emérito,2026-04-05 19:36
+corta,3,0,5.0,100,"elespanol, elmundo, google_news_es",3,Morante corta dos orejas en su 'resurrección' en Sevilla entre honores al Rey Emérito,2026-04-05 19:36
+morante,13,11,5.16,100,"elespanol, elmundo, google_news_es, 20minutos, levante_emv",5,Morante corta dos orejas en su 'resurrección' en Sevilla entre honores al Rey Emérito,2026-04-05 19:36
+traslado,3,1,13.11,100,"europapress, google_news_politica",2,"Ayuso califica de ""ciegas, absurdas y catetas"" las ""pretensiones nacionalistas"" del traslado del 'Guernica' a Euskadi",2026-04-05 19:36
+visionario,3,0,5.0,100,"google_news_internacional, bbc_mundo",2,"¿Visionario o estafador? Dennis Hope, el estadounidense que se hizo millonario vendiendo parcelas de la Luna tras reclamar su propiedad en 1980 - BBC",2026-04-05 19:36
+estafador,3,0,5.0,100,"google_news_internacional, bbc_mundo",2,"¿Visionario o estafador? Dennis Hope, el estadounidense que se hizo millonario vendiendo parcelas de la Luna tras reclamar su propiedad en 1980 - BBC",2026-04-05 19:36
+dennis,3,0,5.0,100,"google_news_internacional, bbc_mundo",2,"¿Visionario o estafador? Dennis Hope, el estadounidense que se hizo millonario vendiendo parcelas de la Luna tras reclamar su propiedad en 1980 - BBC",2026-04-05 19:36
+torneo,5,3,7.28,100,"google_news_internacional, 20minutos, heraldo_aragon, elcorreo",4,Conjunto de gimnasia rítmica se ubica en el top 10 de Torneo Internacional de Thiais 2026 - Gob MX,2026-04-05 19:36
+conjunto,3,0,5.0,100,"google_news_internacional, okdiario",2,Conjunto de gimnasia rítmica se ubica en el top 10 de Torneo Internacional de Thiais 2026 - Gob MX,2026-04-05 19:36
+manifestantes,5,1,21.84,100,"levante_emv, 20minutos, google_news_es, google_news_internacional, europapress",5,Trump confirma que EEUU envió armas a los manifestantes de Irán,2026-04-05 19:36
+millonario,3,1,13.11,100,"google_news_internacional, bbc_mundo",2,"¿Visionario o estafador? Dennis Hope, el estadounidense que se hizo millonario vendiendo parcelas de la Luna tras reclamar su propiedad en 1980 - BBC",2026-04-05 19:36
+envió,4,0,5.0,100,"levante_emv, google_news_es, google_news_internacional, europapress",4,Trump confirma que EEUU envió armas a los manifestantes de Irán,2026-04-05 19:36
+gordo,5,0,5.0,100,"elcorreo, google_news_es, okdiario",3,El Gordo de la Primitiva del domingo: comprobar resultados del 5 de abril,2026-04-05 19:36
+lunes,16,9,7.77,100,"sur, google_news_es, elpais, heraldo_aragon, elcorreo",5,"Estado de los embalses de Málaga el lunes, 06 de abril de 2026",2026-04-05 19:36
+palmas,4,1,17.47,100,heraldo_aragon,1,El uno a uno del partido de la SD Huesca con la UD Las Palmas (2-1),2026-04-05 19:36
+vendiendo,3,0,5.0,100,"google_news_internacional, bbc_mundo",2,"¿Visionario o estafador? Dennis Hope, el estadounidense que se hizo millonario vendiendo parcelas de la Luna tras reclamar su propiedad en 1980 - BBC",2026-04-05 19:36
+parcelas,3,0,5.0,100,"google_news_internacional, bbc_mundo",2,"¿Visionario o estafador? Dennis Hope, el estadounidense que se hizo millonario vendiendo parcelas de la Luna tras reclamar su propiedad en 1980 - BBC",2026-04-05 19:36
+reclamar,3,0,5.0,100,"google_news_internacional, bbc_mundo",2,"¿Visionario o estafador? Dennis Hope, el estadounidense que se hizo millonario vendiendo parcelas de la Luna tras reclamar su propiedad en 1980 - BBC",2026-04-05 19:36
+choque,3,2,6.55,100,"huffington_es, elcorreo",2,"El choque cultural de una asturiana con la gente del sur: &quot;Pensé que era un mito, pero es 100% verídico&quot;",2026-04-05 19:36
+estalla,3,1,13.11,100,"huffington_es, 20minutos, elpais",3,Una chica de Mallorca estalla por la masificación turística: su día a día es,2026-04-05 19:36
+zaragoza-mirandés,5,4,5.46,100,"heraldo_aragon, elcorreo",2,Fotos | Real Zaragoza-Mirandés,2026-04-05 19:36
+fotos,5,2,10.92,100,"heraldo_aragon, elespanol, okdiario",3,Fotos | Real Zaragoza-Mirandés,2026-04-05 19:36
+sevilla,21,18,5.1,100,"google_news_es, elespanol, elmundo, levante_emv, lavanguardia",5,El Oviedo gana a un Sevilla sin alma en el estreno de Luis García Plaza - EL PAÍS,2026-04-05 19:36
+oviedo,4,2,8.74,100,"google_news_es, google_news_internacional",2,El Oviedo gana a un Sevilla sin alma en el estreno de Luis García Plaza - EL PAÍS,2026-04-05 19:36
+piera,7,0,5.0,100,"levante_emv, google_news_es, elpais, lavanguardia",4,"Morant despide a Josep Piera, ""un referente"" de la poesía valenciana: ""Su voz ya forma parte de nuestra historia""",2026-04-05 19:36
+grupos,4,0,5.0,100,"elmundo, 20minutos, elpais, lavanguardia",4,"Un apuñalado y 13 detenidos, seis menores de edad, tras una pelea entre dos grupos en el metro de Barcelona",2026-04-05 19:36
+filósofo,4,0,5.0,100,"heraldo_aragon, okdiario",2,"Séneca, filósofo, sobre la autoestima: ""Si quieres que los demás te respeten, respétate a ti mismo""",2026-04-05 19:36
+hijos,6,3,8.74,100,"20minutos, lavanguardia, elcorreo, google_news_internacional",4,"Los príncipes de Gales reaparecen, en pleno escándalo, junto a sus hijos en la tradicional misa del Domingo de Pascua",2026-04-05 19:36
+pelea,6,2,13.11,100,"elmundo, 20minutos, elpais, lavanguardia, levante_emv",5,"Un apuñalado y 13 detenidos, seis menores de edad, tras una pelea entre dos grupos en el metro de Barcelona",2026-04-05 19:36
+puebla,5,3,7.28,100,"elmundo, google_news_es, 20minutos",3,Morante de la Puebla corta dos orejas en Sevilla con una plaza desbocada de entusiasmo,2026-04-05 19:36
+casademont,5,3,7.28,100,heraldo_aragon,1,El Casademont roza la gesta pero pierde contra el Barça (86-92) y agrava su situación,2026-04-05 19:36
+vacaciones,3,2,6.55,100,"heraldo_aragon, lavanguardia",2,"La afición del Real Zaragoza emana ilusión en la previa ante el Mirandés: ""Volvemos antes de las vacaciones para llegar al partido""",2026-04-05 19:36
+previa,5,2,10.92,100,"heraldo_aragon, elcorreo, google_news_internacional",3,"La afición del Real Zaragoza emana ilusión en la previa ante el Mirandés: ""Volvemos antes de las vacaciones para llegar al partido""",2026-04-05 19:36
+afición,3,2,6.55,100,"heraldo_aragon, levante_emv",2,"La afición del Real Zaragoza emana ilusión en la previa ante el Mirandés: ""Volvemos antes de las vacaciones para llegar al partido""",2026-04-05 19:36
+tripulación,3,2,6.55,100,"infolibre, google_news_es",2,"La tripulación de la misión Artemis II, ya ha visto la cara oculta de la Luna",2026-04-05 19:36
+cribados,3,0,5.0,100,"google_news_es, 20minutos, huffington_es",3,Amama demandará a la Junta de Andalucía para que indemnice a una de las afectadas por los cribados de mama - RTVE.es,2026-04-05 19:36
+junta,3,2,6.55,100,"google_news_es, elcorreo, 20minutos, elmundo",4,Amama demandará a la Junta de Andalucía para que indemnice a una de las afectadas por los cribados de mama - RTVE.es,2026-04-05 19:36
+descubre,3,2,6.55,100,"sur, okdiario, 20minutos",3,Descubren tres proteínas que el cuerpo utiliza para determinar qué alimentos son seguros y los que no,2026-04-05 19:36
+admite,5,0,5.0,100,"20minutos, google_news_es, google_news_internacional, europapress",4,Trump admite haber enviado armas a los manifestantes iraníes durante las protestas de principios de año,2026-04-05 19:36
+apuñalado,4,0,5.0,100,"elmundo, 20minutos, elpais, lavanguardia",4,"Un apuñalado y 13 detenidos, seis menores de edad, tras una pelea entre dos grupos en el metro de Barcelona",2026-04-05 19:36
+protestas,4,2,8.74,100,"20minutos, google_news_es, google_news_internacional, europapress",4,Trump admite haber enviado armas a los manifestantes iraníes durante las protestas de principios de año,2026-04-05 19:36
+título,6,0,5.0,100,"elcorreo, elmundo, levante_emv, google_news_es, lavanguardia",5,Jódar conquista en Marrakech su primer título batiendo a Trungelliti,2026-04-05 19:36
+principios,4,0,5.0,100,"20minutos, google_news_es, google_news_internacional, europapress",4,Trump admite haber enviado armas a los manifestantes iraníes durante las protestas de principios de año,2026-04-05 19:36
+marrakech,7,2,15.29,100,"elcorreo, elpais, google_news_es, levante_emv, lavanguardia",5,Jódar conquista en Marrakech su primer título batiendo a Trungelliti,2026-04-05 19:36
+conquista,6,1,26.21,100,"elcorreo, elmundo, elpais, google_news_es, okdiario",5,Jódar conquista en Marrakech su primer título batiendo a Trungelliti,2026-04-05 19:36
+jódar,8,2,17.47,100,"elcorreo, elmundo, elpais, google_news_es, levante_emv",5,Jódar conquista en Marrakech su primer título batiendo a Trungelliti,2026-04-05 19:36
+valenciano,5,2,10.92,100,"google_news_es, elpais, lavanguardia, levante_emv",4,"Muere el escritor valenciano Josep Piera, renovador de la poesía, viajero incansable y activista de la cultura - EL PAÍS",2026-04-05 19:36
+escritor,5,0,5.0,100,"google_news_es, elpais, lavanguardia, levante_emv",4,"Muere el escritor valenciano Josep Piera, renovador de la poesía, viajero incansable y activista de la cultura - EL PAÍS",2026-04-05 19:36
+“¿sacaron,3,0,5.0,100,"lavanguardia, google_news_politica",2,"Pradales, sobre el 'Gernika': “¿Sacaron a Franco de su tumba y no pueden traer un cuadro?”",2026-04-05 19:36
+heridos,9,8,4.91,98,"lavanguardia, levante_emv, 20minutos, okdiario, elespanol",5,Siete heridos en Benidorm tras el derrumbe del techo de un hotel,2026-04-05 19:36
+athletic,6,6,4.37,87,"lavanguardia, elcorreo, levante_emv, google_news_es",4,"El Celta baja de la nube al Valencia y el Getafe, con licencia para soñar al superar al Athletic",2026-04-05 19:36
+presidente,5,5,4.37,87,"levante_emv, elmundo, 20minutos, google_news_es, lavanguardia",5,Zelenski aborda en Damasco con el presidente sirio vías de seguridad y cooperación militar,2026-04-05 19:36
+capaces,3,3,4.37,87,"infolibre, google_news_politica",2,"El Gobierno vasco insiste con el Guernica: ""Sacaron a Franco de su tumba y no son capaces de traer un cuadro""",2026-04-05 19:36
+periodismo,5,5,4.37,87,"google_news_internacional, levante_emv",2,"Los Reyes despiden a Diego Carcedo, ""voz del periodismo internacional y testigo de la historia"" - Infobae",2026-04-05 19:36
+resumen,4,4,4.37,87,"heraldo_aragon, google_news_es, elcorreo",3,Resumen del partido Casademont Zaragoza-Barcelona: resultado y máximos anotadores,2026-04-05 19:36
+franco,4,4,4.37,87,"lavanguardia, infolibre, google_news_politica",3,"Pradales, sobre el 'Gernika': “¿Sacaron a Franco de su tumba y no pueden traer un cuadro?”",2026-04-05 19:36
+iraníes,4,4,4.37,87,"20minutos, google_news_es, google_news_internacional, europapress",4,Trump admite haber enviado armas a los manifestantes iraníes durante las protestas de principios de año,2026-04-05 19:36
+cuadro,3,3,4.37,87,"lavanguardia, infolibre, google_news_politica",3,"Pradales, sobre el 'Gernika': “¿Sacaron a Franco de su tumba y no pueden traer un cuadro?”",2026-04-05 19:36
+tumba,5,5,4.37,87,"elcorreo, lavanguardia, infolibre, google_news_politica",4,Un ambicioso Jaka tumba a Ezkurdia en el Manomanista,2026-04-05 19:36
+grande,4,4,4.37,87,"huffington_es, sur, elcorreo, elpais, google_news_es",5,Atascos en media España en la vuelta de Semana Santa: seis grandes vías colapsadas hacia Madrid y tráfico creciente en Barcelona,2026-04-05 19:36
+cierre,3,3,4.37,87,"elcorreo, 20minutos, france24_es",3,Ikurriñas y capirotes en el cierre de la Semana Santa,2026-04-05 19:36
+peralada,3,3,4.37,87,"google_news_es, lavanguardia",2,Peralada cierra el Festival de Pascua con la luz de Mozart y Schubert - Ópera Actual,2026-04-05 19:36
+palma,3,3,4.37,87,"heraldo_aragon, huffington_es, 20minutos",3,El uno a uno del partido de la SD Huesca con la UD Las Palmas (2-1),2026-04-05 19:36
+rescatar,3,3,4.37,87,"google_news_es, elespanol, okdiario",3,La operación de EE.UU. para rescatar al piloto del caza derribado en Irán: una maniobra de engaño y alto riesgo - RTVE.es,2026-04-05 19:36
+comida,3,3,4.37,87,"sur, huffington_es, 20minutos",3,"Adiós a tirar la comida: los restaurantes, obligados a facilitar gratis un envase al cliente",2026-04-05 19:36
+primer,16,16,4.37,87,"elcorreo, sur, okdiario, france24_es, levante_emv",5,Jódar conquista en Marrakech su primer título batiendo a Trungelliti,2026-04-05 19:36
+menor,3,3,4.37,87,"elmundo, 20minutos, okdiario, elcorreo",4,"Un apuñalado y 13 detenidos, seis menores de edad, tras una pelea entre dos grupos en el metro de Barcelona",2026-04-05 19:36
+plena,6,6,4.37,87,"20minutos, levante_emv, okdiario, elmundo, sur",5,Detenido un hombre en Barcelona por matar a otro con un arma blanca en plena calle,2026-04-05 19:36
+lasexta,4,4,4.37,87,"google_news_internacional, google_news_es",2,"El exembajador Rupérez alerta: ""Las crisis acumuladas van a acabar con el derecho internacional y la crisis - LaSexta",2026-04-05 19:36
+maestranza,8,8,4.37,87,"elcorreo, levante_emv, lavanguardia, 20minutos, elespanol",5,Juan Carlos I reaparece entre aplausos en La Maestranza tras la desclasificación del 23-F,2026-04-05 19:36
+llama,4,4,4.37,87,"sur, france24_es, levante_emv, elcorreo, elespanol",5,Trump anuncia un «posible» acuerdo de paz este martes tras llamar «locos cabrones» a los dirigentes de Irán,2026-04-05 19:36
+laura,3,3,4.37,87,"okdiario, 20minutos, huffington_es",3,"Pitingo adelanta los detalles de su boda con su primer gran amor, Laura: «30 años después nos hemos encontrado»",2026-04-05 19:36
+pleno,3,3,4.37,87,20minutos,1,"Los príncipes de Gales reaparecen, en pleno escándalo, junto a sus hijos en la tradicional misa del Domingo de Pascua",2026-04-05 19:36
+israelíes,3,3,4.37,87,"lavanguardia, elmundo, france24_es",3,Al menos 39 muertos en la última oleada de ataques israelíes en Líbano,2026-04-05 19:36
+emérito,6,6,4.37,87,"elespanol, elmundo, google_news_es, elpais, huffington_es",5,Morante corta dos orejas en su 'resurrección' en Sevilla entre honores al Rey Emérito,2026-04-05 19:36
+huesca,7,7,4.37,87,heraldo_aragon,1,El uno a uno del partido de la SD Huesca con la UD Las Palmas (2-1),2026-04-05 19:36
+abatido,3,3,4.37,87,"google_news_internacional, heraldo_aragon",2,Rescate de película en Irán: cómo comandos de élite de EE.UU. extrajeron con vida al piloto abatido - ABC,2026-04-05 19:36
+basket,3,3,4.37,87,levante_emv,1,El Valencia Basket derrota al Breogán (105-88) y se afianza en la segunda posición de la Liga Endesa,2026-04-05 19:36
+pueden,4,4,4.37,87,"huffington_es, france24_es, lavanguardia, levante_emv",4,"Santorini, Dubrovnik y Venecia ya limitan los cruceros que pueden atracar al día: el estudio que explica por qué Málaga, Palma y Valencia deberían hacer lo mismo",2026-04-05 19:36
+armas,8,9,3.88,77,"levante_emv, google_news_internacional, 20minutos, google_news_es, europapress",5,Trump confirma que EEUU envió armas a los manifestantes de Irán,2026-04-05 19:36
+película,4,5,3.49,69,"google_news_internacional, okdiario, 20minutos, heraldo_aragon",4,Rescate de película en Irán: cómo comandos de élite de EE.UU. extrajeron con vida al piloto abatido - ABC,2026-04-05 19:36
+logra,4,5,3.49,69,"elcorreo, levante_emv, google_news_es, okdiario",4,El Baskonia logra la mejor racha de la temporada y consolida su buen momento,2026-04-05 19:36
+matar,4,5,3.49,69,"20minutos, levante_emv, huffington_es",3,Detenido un hombre en Barcelona por matar a otro con un arma blanca en plena calle,2026-04-05 19:36
+denuncia,4,5,3.49,69,"elcorreo, elmundo, elpais_internacional",3,Serbia denuncia un intento de sabotaje en un gasoducto ruso que suministra a Hungría,2026-04-05 19:36
+zelenski,3,4,3.28,65,"france24_es, levante_emv, elmundo_internacional",3,Zelenski visita Siria en búsqueda de nuevos apoyos de seguridad,2026-04-05 19:36
+david,3,4,3.28,65,"heraldo_aragon, 20minutos, google_news_es",3,Alineaciones del Real Zaragoza-Mirandés: tres cambios de David Navarro ante el colista,2026-04-05 19:36
+cambios,3,4,3.28,65,heraldo_aragon,1,Alineaciones del Real Zaragoza-Mirandés: tres cambios de David Navarro ante el colista,2026-04-05 19:36
+reabre,3,4,3.28,65,"google_news_es, expansion, google_news_internacional",3,Trump amenaza con desatar el «infierno» si Irán no reabre el estrecho de Ormuz - SWI swissinfo.ch,2026-04-05 19:36
+datos,3,4,3.28,65,"20minutos, huffington_es, levante_emv",3,Cuidado con el troyano GoPix: este ataque imita a WhatsApp y Google Chrome para robar datos bancarios,2026-04-05 19:36
+&quot;el,3,4,3.28,65,huffington_es,1,"Cal Newport, profesor de Informática de Georgetown: &quot;El TikTok es un Dorito digital. Y deberíamos tener la misma política sobre él que sobre la comida ultraprocesada&quot;",2026-04-05 19:36
+ciudad,3,4,3.28,65,"france24_es, levante_emv, 20minutos, okdiario",4,Ciudadanos estadounidenses advierten importante subida de precios de gasolina,2026-04-05 19:36
+tenemos,3,4,3.28,65,"lavanguardia, elmundo, heraldo_aragon",3,Tenemos que memorizar otro nombre: Rafa Jódar gana su primer título en Marrakech,2026-04-05 19:36
+tráfico,3,4,3.28,65,"huffington_es, elcorreo",2,Atascos en media España en la vuelta de Semana Santa: seis grandes vías colapsadas hacia Madrid y tráfico creciente en Barcelona,2026-04-05 19:36
+pradales,3,4,3.28,65,"lavanguardia, google_news_politica",2,"Pradales, sobre el 'Gernika': “¿Sacaron a Franco de su tumba y no pueden traer un cuadro?”",2026-04-05 19:36
+corrida,6,8,3.28,65,"levante_emv, elespanol, google_news_es, elpais, huffington_es",5,Juan Carlos I ya está en Sevilla para asistir a la corrida de toros del Domingo de Resurrección en la Maestranza,2026-04-05 19:36
+reaparece,3,4,3.28,65,"elcorreo, 20minutos, elmundo, google_news_es",4,Juan Carlos I reaparece entre aplausos en La Maestranza tras la desclasificación del 23-F,2026-04-05 19:36
+regresa,5,7,3.12,62,"elmundo, elpais, google_news_es, huffington_es, elcorreo",5,"Juan Carlos I regresa a Sevilla: encuentro con Morante, vítores y baño de masas",2026-04-05 19:36
+líbano,5,7,3.12,62,"lavanguardia, elmundo, france24_es, infolibre",4,Al menos 39 muertos en la última oleada de ataques israelíes en Líbano,2026-04-05 19:36
+goles,5,7,3.12,62,"levante_emv, google_news_es, heraldo_aragon, lavanguardia, elcorreo",5,"Brutal autocrítica de Guido a pesar de su doblete: ""Pude hacerlo mejor en los dos primeros goles del Celta""",2026-04-05 19:36
+carlos,15,21,3.12,62,"elcorreo, 20minutos, france24_es, levante_emv, lavanguardia",5,Juan Carlos I reaparece entre aplausos en La Maestranza tras la desclasificación del 23-F,2026-04-05 19:36
+alineaciones,4,6,2.91,58,"heraldo_aragon, google_news_es",2,Alineaciones del Real Zaragoza-Mirandés: tres cambios de David Navarro ante el colista,2026-04-05 19:36
+mientras,4,6,2.91,58,"google_news_es, google_news_internacional, 20minutos",3,"Nazareth Castellanos, neurocientífica: ""Me gusta y necesito leer. Me fascina la sensación de ir quedándome dormida mientras estoy leyendo, dejar el libro en la mesilla y apagar la luz"" - Lecturas",2026-04-05 19:36
+oculta,4,6,2.91,58,"el_confidencial_tech, infolibre, google_news_es",3,Los astronautas de la misión Artemis II ya han visto la cara oculta de la Luna,2026-04-05 19:36
+coche,5,8,2.73,54,"20minutos, levante_emv, lavanguardia",3,"La foto de Úrsula Corberó dando el pecho a su bebé en un coche: ""Tanto amor no me cabe""",2026-04-05 19:36
+nadie,3,5,2.62,52,"huffington_es, elmundo, 20minutos",3,"Javier González, jubilado que lleva 5 años viviendo en una autocaravana en Palma: &quot;No veo solución, nadie se va a preocupar por mí, no hay voluntad&quot;",2026-04-05 19:36
+afirma,3,5,2.62,52,"google_news_internacional, huffington_es",2,Emiratos Árabes Unidos afirma que se sumará a «cualquier iniciativa» de EE.UU. para reabrir el estrecho de Ormuz - eldebate.com,2026-04-05 19:36
+resucitado,3,5,2.62,52,"sur, google_news_es",2,La Banda del Cautivo brilla en la procesión del Resucitado en Antequera,2026-04-05 19:36
+mundial,3,5,2.62,52,"france24_es, okdiario",2,León XIV llama a la paz mundial en su primera Pascua como papa,2026-04-05 19:36
+aumento,3,5,2.62,52,"expansion, google_news_es",2,La OPEP+ aprueba un aumento de la oferta de crudo en mayo pese a la guerra,2026-04-05 19:36
+herido,3,5,2.62,52,"lavanguardia, levante_emv, 20minutos, okdiario, elespanol",5,Siete heridos en Benidorm tras el derrumbe del techo de un hotel,2026-04-05 19:36
+valencia,12,21,2.5,49,"levante_emv, google_news_es, heraldo_aragon, elpais, huffington_es",5,"Morant despide a Josep Piera, ""un referente"" de la poesía valenciana: ""Su voz ya forma parte de nuestra historia""",2026-04-05 19:36
+estadounidense,4,7,2.5,49,"france24_es, huffington_es, google_news_internacional, bbc_mundo",4,Ciudadanos estadounidenses advierten importante subida de precios de gasolina,2026-04-05 19:36
+economista,4,7,2.5,49,"google_news_es, huffington_es, okdiario",3,Comprobar Bonoloto: resultados del domingo 5 de abril de 2026 - El Economista,2026-04-05 19:36
+detenidos,5,9,2.43,48,"elmundo, 20minutos, elpais, lavanguardia, elcorreo",5,"Un apuñalado y 13 detenidos, seis menores de edad, tras una pelea entre dos grupos en el metro de Barcelona",2026-04-05 19:36
+adiós,4,8,2.18,43,"sur, elcorreo, okdiario, 20minutos",4,"Adiós a tirar la comida: los restaurantes, obligados a facilitar gratis un envase al cliente",2026-04-05 19:36
+jornada,4,8,2.18,43,"sur, elcorreo, google_news_es",3,Así queda la clasificación del Málaga tras la jornada 34,2026-04-05 19:36
+queda,3,6,2.18,43,"sur, france24_es, okdiario, lavanguardia",4,Así queda la clasificación del Málaga tras la jornada 34,2026-04-05 19:36
+premiado,3,6,2.18,43,"okdiario, elespanol",2,"Comprobar Bonoloto: resultado y número premiado hoy, domingo 5 de abril de 2026",2026-04-05 19:36
+traer,4,8,2.18,43,"lavanguardia, infolibre, google_news_politica",3,"Pradales, sobre el 'Gernika': “¿Sacaron a Franco de su tumba y no pueden traer un cuadro?”",2026-04-05 19:36
+junto,3,6,2.18,43,"google_news_internacional, 20minutos, sur, lavanguardia, okdiario",5,Conjunto de gimnasia rítmica se ubica en el top 10 de Torneo Internacional de Thiais 2026 - Gob MX,2026-04-05 19:36
+seguridad,3,6,2.18,43,"france24_es, levante_emv, 20minutos",3,Zelenski visita Siria en búsqueda de nuevos apoyos de seguridad,2026-04-05 19:36
+operación,10,20,2.18,43,"google_news_es, elespanol, levante_emv, okdiario, 20minutos",5,La operación de EE.UU. para rescatar al piloto del caza derribado en Irán: una maniobra de engaño y alto riesgo - RTVE.es,2026-04-05 19:36
+revela,4,8,2.18,43,"20minutos, heraldo_aragon, google_news_internacional",3,Qué es el 'efecto Ted Bundy': un estudio revela qué suelen tener en común las víctimas de los asesinos en serie,2026-04-05 19:36
+próximo,3,6,2.18,43,"elcorreo, google_news_internacional, elmundo_internacional, 20minutos",4,"Plegables, a prueba de mirones... Así será tu próximo móvil",2026-04-05 19:36
+toros,5,10,2.18,43,"levante_emv, google_news_es, elpais, huffington_es",4,Juan Carlos I ya está en Sevilla para asistir a la corrida de toros del Domingo de Resurrección en la Maestranza,2026-04-05 19:36
+hombre,7,14,2.18,43,"france24_es, 20minutos, heraldo_aragon, levante_emv, lavanguardia",5,Alemania: ¿por qué los hombres deben reportar si salen del país por más de tres meses?,2026-04-05 19:36
+militar,4,8,2.18,43,"levante_emv, elcorreo, heraldo_aragon, google_news_internacional",4,Zelenski aborda en Damasco con el presidente sirio vías de seguridad y cooperación militar,2026-04-05 19:36
+imágenes,3,6,2.18,43,"levante_emv, lavanguardia",2,"El Valencia Basket - Breogán, en imágenes",2026-04-05 19:36
+pascua,13,28,2.03,40,"google_news_es, 20minutos, france24_es, heraldo_aragon, elmundo",5,Peralada cierra el Festival de Pascua con la luz de Mozart y Schubert - Ópera Actual,2026-04-05 19:36
+ucrania,6,13,2.02,40,"elpais, huffington_es, okdiario, elmundo_internacional",4,Orbán señala sin pruebas a Ucrania tras un supuesto intento de sabotaje a un gasoducto en Serbia,2026-04-05 19:36
