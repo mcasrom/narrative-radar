@@ -1,104 +1,117 @@
 keyword,count_now,count_base,ratio,viral_score,sources,n_sources,sample_title,detected_at
-muere,9,6,7.78,100,"elcorreo, elmundo, elespanol, eldiario, google_news_es",5,"Muere a los 86 años Diego Carcedo, un clásico del periodismo",2026-04-05 09:05
-ruinas,3,1,15.56,100,"elconfidencial, elpais_internacional, google_news_internacional",3,Hallan un cadáver en un sótano inundado de un edificio en ruinas de Cervo (Lugo),2026-04-05 09:05
-jueza,3,1,15.56,100,"elcorreo, levante_emv",2,La jueza deja en libertad a los dos hermanos acusados de violar a una mujer en un coche en Valencia,2026-04-05 09:05
-espacial,3,1,15.56,100,"levante_emv, okdiario, elpais",3,Nueva carrera espacial: Estados Unidos quiere (re)conquistar la Luna para construir una base espacial permanente y competir con China,2026-04-05 09:05
-derribado,18,18,5.19,100,"sur, bbc_mundo, google_news_internacional, huffington_es, levante_emv",5,Trump confirma que EE UU ha rescatado al tripulante de un caza derribado que estaba desaparecido en Irán,2026-04-05 09:05
-tripulante,7,5,7.26,100,"sur, bbc_mundo, elmundo, google_news_internacional, europapress",5,Trump confirma que EE UU ha rescatado al tripulante de un caza derribado que estaba desaparecido en Irán,2026-04-05 09:05
-rescatado,4,0,5.0,100,"sur, google_news_internacional, europapress",3,Trump confirma que EE UU ha rescatado al tripulante de un caza derribado que estaba desaparecido en Irán,2026-04-05 09:05
-comunitat,3,3,5.19,100,"levante_emv, google_news_internacional",2,"Los 6 mejores merenderos de la Comunitat Valenciana para Pascua: 4 en Valencia, 1 en Castellón y 1 en Alicante",2026-04-05 09:05
-forma,6,6,5.19,100,"elespanol, 20minutos, google_news_internacional, heraldo_aragon, okdiario",5,"Muere a los 86 años el periodista Diego Carcedo, exdirector de los Servicios Informativos de TVE y de RNE",2026-04-05 09:05
-necesita,4,1,20.75,100,"huffington_es, 20minutos, okdiario, elpais, elpais_internacional",5,"Sam Rose, director de UNRWA en Gaza: &quot;Seamos honestos: después de más de dos años de desplazamiento, la gente necesita más que tiendas de campaña y lonas de plástico&quot;",2026-04-05 09:05
-tratamiento,3,2,7.78,100,"google_news_es, elpais",2,Realizar ejercicio físico durante el tratamiento de quimioterapia: ¿cómo ayuda al paciente? - consalud.es,2026-04-05 09:05
-diego,6,1,31.12,100,"elcorreo, elespanol, google_news_es, levante_emv, 20minutos",5,"Muere a los 86 años Diego Carcedo, un clásico del periodismo",2026-04-05 09:05
-experto,3,3,5.19,100,"okdiario, google_news_es, 20minutos, levante_emv, elpais",5,Un experto nos cuenta la verdad sobre la música hecha con IA,2026-04-05 09:05
-errores,3,0,5.0,100,"20minutos, google_news_economia",2,Los errores invisibles que enferman a perros y gatos: así afectan los hábitos cotidianos,2026-04-05 09:05
-predicción,13,13,5.19,100,okdiario,1,"Predicción del horóscopo para Aries hoy, domingo 5 de abril de 2026",2026-04-05 09:05
-riesgo,5,4,6.48,100,"levante_emv, infolibre, elpais",3,"""Obama Moreno"" o el riesgo de vender un presidente perfecto",2026-04-05 09:05
-localiza,3,3,5.19,100,"levante_emv, okdiario",2,La Policía localiza un libro manuscrito del siglo XVII del Colegio del Arte Mayor de la Seda de València desaparecido hace un siglo,2026-04-05 09:05
-cronista,3,3,5.19,100,"google_news_economia, google_news_internacional, google_news_es",3,¿Cuánto cuesta cargar el coche? Este es el precio del litro de gasolina y el del gasóleo este domingo 5 de abril - El Cronista,2026-04-05 09:05
-queso,5,0,5.0,100,"okdiario, 20minutos",2,Amantes del queso: éste pueblo de Andalucía se convierte en la capital mundial del queso con catas y visitas guiadas,2026-04-05 09:05
-perros,5,3,8.64,100,"20minutos, huffington_es, levante_emv, okdiario",4,Ocho maneras de demostrar a perros y gatos que los queremos,2026-04-05 09:05
-convierte,5,2,12.97,100,"okdiario, levante_emv, elpais",3,Amantes del queso: éste pueblo de Andalucía se convierte en la capital mundial del queso con catas y visitas guiadas,2026-04-05 09:05
-antonio,3,2,7.78,100,"levante_emv, google_news_es, elpais_espana",3,"José Antonio Hernández: ""El cambio climático puede agravar la intrusión marina en el parque natural""",2026-04-05 09:05
-pruebas,3,2,7.78,100,"levante_emv, google_news_es, elpais",3,Riba-roja inicia las pruebas de la barrera automática instalada en la urbanización La Reva que reducirá el tráfico e incrementará la seguridad en la zona,2026-04-05 09:05
-banquillo,3,2,7.78,100,"google_news_es, elpais",2,"Jorge Fernández Díaz y Francisco Martínez, de aliados en el Ministerio a enemigos en el banquillo de la Kitchen - ABC",2026-04-05 09:05
-corrupción,3,2,7.78,100,"google_news_es, elpais_espana, elpais",3,El juicio de la Operación Kitchen que dará oxígeno a un Pedro Sánchez acorralado por la corrupción - Libertad Digital,2026-04-05 09:05
-juicio,5,4,6.48,100,"google_news_es, elpais_espana, elpais",3,"El juicio a la ‘Operación Kitchen’, un retrato del PP y de la judicatura que le ampara - El Salto",2026-04-05 09:05
-valores,3,0,5.0,100,"google_news_es, elpais",2,"Los diez valores favoritos de los expertos en la bolsa española: Amadeus, CaixaBank y Acerinox se incorporan al Eco10 - El Economista",2026-04-05 09:05
-sanitario,3,0,5.0,100,"google_news_internacional, eldiario",2,La OMS alerta sobre el colapso del sistema sanitario en Sudán y pide acción internacional inmediata - Infobae,2026-04-05 09:05
-primavera,4,3,6.92,100,"okdiario, elpais",2,"Ni abono ni fertilizante: para que las orquídeas rebosen de flores en primavera, necesitan tener luz todo el año",2026-04-05 09:05
-nuevos,4,3,6.92,100,"20minutos, okdiario, europapress",3,La superficie media de los pisos nuevos no baja de los 100 metros en una España donde el 28% de los hogares ya son unipersonales,2026-04-05 09:05
-incertidumbre,3,2,7.78,100,"google_news_internacional, elpais, google_news_es",3,"La economía valenciana, con un ""sólido dinamismo"" pese a la incertidumbre internacional: sectores afectados y perspectivas - COPE",2026-04-05 09:05
-michigan,3,0,5.0,100,"okdiario, google_news_es, heraldo_aragon",3,Aday Mara asciende al estrellato tras un partidazo que mete a Michigan en la final de la NCAA,2026-04-05 09:05
-secreto,3,2,7.78,100,"huffington_es, okdiario, 20minutos",3,Buenafuente desvela el secreto mejor guardado del plató de Karlos Arguiñano tras asistir a varias grabaciones,2026-04-05 09:05
-espacio,5,4,6.48,100,"heraldo_aragon, google_news_internacional, infolibre, elpais",4,"Los astronautas de Artemis II duermen ""de maravilla"" pese al reducido espacio de Orión",2026-04-05 09:05
-salvo,3,0,5.0,100,"20minutos, huffington_es, elcorreo, sur, google_news_internacional",5,"Trump anuncia que el piloto del caza F-15 desaparecido en Irán está ""a salvo"" tras enviar ""decenas de aviones"" para recuperarlo",2026-04-05 09:05
-carreteras,3,2,7.78,100,"elcorreo, google_news_es, elpais",3,La nueva señal de la DGT con un rombo blanco que ya se puede ver en las carreteras de España: significado y multa por no cumplirla,2026-04-05 09:05
-gatos,3,1,15.56,100,"20minutos, levante_emv",2,Ocho maneras de demostrar a perros y gatos que los queremos,2026-04-05 09:05
-temperaturas,7,5,7.26,100,"elespanol, okdiario",2,"Llega un frente atlántico que dejará lluvias y una bajada de las temperaturas en Castilla-La Mancha, según Meteored",2026-04-05 09:05
-desaparecido,14,14,5.19,100,"google_news_internacional, levante_emv, sur, 20minutos, google_news_es",5,Trump anuncia el rescate del militar desaparecido en Irán tras el derribo de su avión de combate - Europa Press,2026-04-05 09:05
-exdirector,3,1,15.56,100,"elespanol, google_news_es, 20minutos",3,"Muere a los 86 años el periodista Diego Carcedo, exdirector de los Servicios Informativos de TVE y de RNE",2026-04-05 09:05
-segundo,14,7,10.37,100,"elespanol, bbc_mundo, elmundo, huffington_es, elpais",5,EEUU rescata a su segundo piloto en una batalla nocturna con cientos de comandos: estaba herido y oculto con una pistola para eludir a los iraníes,2026-04-05 09:05
-batalla,4,2,10.37,100,"elespanol, google_news_politica, elpais",3,EEUU rescata a su segundo piloto en una batalla nocturna con cientos de comandos: estaba herido y oculto con una pistola para eludir a los iraníes,2026-04-05 09:05
-campaña,3,3,5.19,100,"okdiario, heraldo_aragon, huffington_es",3,La influencer Rocío Camacho confiesa el dineral que ha llegado a ganar por una campaña,2026-04-05 09:05
-estaba,6,2,15.56,100,"elespanol, sur, levante_emv, google_news_internacional, europapress",5,EEUU rescata a su segundo piloto en una batalla nocturna con cientos de comandos: estaba herido y oculto con una pistola para eludir a los iraníes,2026-04-05 09:05
-destroza,3,2,7.78,100,"okdiario, google_news_politica",2,China destroza cualquier molde conocido: construyó un puente ferroviario de 164 km para unir Pekín con Shangai,2026-04-05 09:05
-verdadero,3,0,5.0,100,"el_confidencial_tech, okdiario",2,Científicos españoles aseguran haber encontrado el verdadero 'punto G' masculino. Y está donde menos se esperaba,2026-04-05 09:05
-verano,3,2,7.78,100,"20minutos, okdiario",2,Mariah Carey se transforma en Georgina y se adelanta al verano con el 'look' más potente para un día en el mar,2026-04-05 09:05
-leyes,3,0,5.0,100,"europapress, 20minutos, eldiario",3,"Los deberes del vicepresidente Cuerpo en el Congreso: Tres leyes estancadas, una de ellas desde hace más de dos años",2026-04-05 09:05
-formación,4,0,5.0,100,"20minutos, google_news_internacional, heraldo_aragon, okdiario",4,La princesa Leonor ultima su formación militar con una gran incógnita: en qué universidad estudiará,2026-04-05 09:05
-rescata,8,4,10.37,100,"elespanol, sur, elmundo, google_news_internacional, levante_emv",5,EEUU rescata a su segundo piloto en una batalla nocturna con cientos de comandos: estaba herido y oculto con una pistola para eludir a los iraníes,2026-04-05 09:05
-periodista,4,1,20.75,100,"elespanol, google_news_es, levante_emv, 20minutos",4,"Muere a los 86 años el periodista Diego Carcedo, exdirector de los Servicios Informativos de TVE y de RNE",2026-04-05 09:05
-cultural,3,3,5.19,100,"levante_emv, google_news_politica",2,¿Bombardeos de precisión o destrucción generalizada? EEUU e Israel atacan el patrimonio cultural e histórico iraní,2026-04-05 09:05
-ingerir,3,0,5.0,100,"elmundo, eldiario, elcorreo",3,Muere un trabajador al ingerir lubricante industrial en un taller de Tarancón (Cuenca),2026-04-05 09:05
-avión,7,1,36.31,100,"okdiario, google_news_internacional, bbc_mundo, levante_emv, heraldo_aragon",5,Irán desmiente el rescate del piloto y anuncia el derribo de dos helicópteros Black Hawk y un avión C-130,2026-04-05 09:05
-anuncia,14,9,8.07,100,"okdiario, google_news_internacional, bbc_mundo, 20minutos, huffington_es",5,Irán desmiente el rescate del piloto y anuncia el derribo de dos helicópteros Black Hawk y un avión C-130,2026-04-05 09:05
-rescate,14,12,6.05,100,"okdiario, google_news_internacional, bbc_mundo, huffington_es, elpais",5,Irán desmiente el rescate del piloto y anuncia el derribo de dos helicópteros Black Hawk y un avión C-130,2026-04-05 09:05
-carcedo,6,1,31.12,100,"elcorreo, elespanol, google_news_es, levante_emv, 20minutos",5,"Muere a los 86 años Diego Carcedo, un clásico del periodismo",2026-04-05 09:05
-piloto,22,26,4.39,87,"okdiario, elespanol, 20minutos, google_news_internacional, huffington_es",5,Irán desmiente el rescate del piloto y anuncia el derribo de dos helicópteros Black Hawk y un avión C-130,2026-04-05 09:05
-militar,5,6,4.32,86,"20minutos, google_news_internacional, heraldo_aragon, elmundo, europapress",5,La princesa Leonor ultima su formación militar con una gran incógnita: en qué universidad estudiará,2026-04-05 09:05
-punto,4,5,4.15,82,"el_confidencial_tech, levante_emv, google_news_es, elpais_espana, elpais",5,Científicos españoles aseguran haber encontrado el verdadero 'punto G' masculino. Y está donde menos se esperaba,2026-04-05 09:05
-horóscopo,13,17,3.97,79,okdiario,1,"Predicción del horóscopo para Aries hoy, domingo 5 de abril de 2026",2026-04-05 09:05
-pagar,3,4,3.89,77,"heraldo_aragon, okdiario, 20minutos",3,Joan Manuel Serrat: “No creo que sea un progreso para celebrar que se prometa que no habrá que pagar impuestos”,2026-04-05 09:05
-bárcenas,3,4,3.89,77,"huffington_es, google_news_es, elpais_espana",3,"Luis Bárcenas, sobre el papel de Rajoy en el &#039;caso Kitchen&#039;: &quot;Era imposible sin el conocimiento de las altas instancias&quot;",2026-04-05 09:05
-economía,3,4,3.89,77,"google_news_economia, google_news_internacional",2,La patronal CEOE baraja revisar a la baja su previsión de crecimiento de la economía española hasta el 2% o... - gaceta.es,2026-04-05 09:05
-doble,3,4,3.89,77,"okdiario, google_news_es, elpais",3,"Doble rasero en el bastión comunista de Rivas: sí al gimnasio privado, no a la residencia semipública de Ayuso",2026-04-05 09:05
-orion,4,6,3.46,69,"20minutos, elpais, google_news_es, europapress",4,"Misión Artemis II de la NASA, en directo | Última hora de los cuatro astronautas de la nave Orion rumbo a la Luna",2026-04-05 09:05
-mayor,4,6,3.46,69,"levante_emv, efe, google_news_internacional, okdiario",4,La Policía localiza un libro manuscrito del siglo XVII del Colegio del Arte Mayor de la Seda de València desaparecido hace un siglo,2026-04-05 09:05
-declaración,4,6,3.46,69,"okdiario, google_news_internacional",2,Cuidado con el nuevo timo de la declaración de la renta por SMS: así clonan la web de la Agencia Tributaria,2026-04-05 09:05
-domingo,21,34,3.2,64,"okdiario, 20minutos, google_news_economia, google_news_internacional, eldiario",5,"Predicción del horóscopo para Aries hoy, domingo 5 de abril de 2026",2026-04-05 09:05
-presidente,3,5,3.11,62,"europapress, levante_emv, 20minutos, google_news_internacional",4,"Los deberes del vicepresidente Cuerpo en el Congreso: Tres leyes estancadas, una de ellas desde hace más de dos años",2026-04-05 09:05
-cielo,3,5,3.11,62,"okdiario, 20minutos",2,AEMET prevé en Bilbao cielo poco nuboso con nieblas y descenso de temperaturas en el litoral,2026-04-05 09:05
-pasado,3,5,3.11,62,"google_news_es, huffington_es, google_news_internacional",3,Decretan libertad provisional para el detenido por el presunto homicidio de su pareja el pasado miércoles en Basauri - Cadena SER,2026-04-05 09:05
-gasolina,3,5,3.11,62,"google_news_economia, okdiario",2,¿Cuánto cuesta cargar el coche? Este es el precio del litro de gasolina y el del gasóleo este domingo 5 de abril - El Cronista,2026-04-05 09:05
-alimentos,3,5,3.11,62,"levante_emv, okdiario, elpais",3,Las empresas que no reduzcan el desperdicio de alimentos ya pueden ser multadas con hasta medio millón de euros,2026-04-05 09:05
-rtve.es,3,5,3.11,62,google_news_es,1,"Muere el periodista Diego Carcedo, exdirector de Radio Nacional de España - RTVE.es",2026-04-05 09:05
-kitchen,3,5,3.11,62,"huffington_es, google_news_es, elpais_espana",3,"Luis Bárcenas, sobre el papel de Rajoy en el &#039;caso Kitchen&#039;: &quot;Era imposible sin el conocimiento de las altas instancias&quot;",2026-04-05 09:05
-llega,4,7,2.96,59,"okdiario, elespanol, 20minutos, levante_emv, google_news_es",5,La influencer Rocío Camacho confiesa el dineral que ha llegado a ganar por una campaña,2026-04-05 09:05
-expertos,4,7,2.96,59,"okdiario, google_news_es, 20minutos, levante_emv",4,"Los expertos aconsejan a los dueños de perros: si llueve mucho fuera, la mejor opción es jugar al escondite en casa",2026-04-05 09:05
-china,5,9,2.88,57,"el_confidencial_tech, okdiario, google_news_internacional, levante_emv, elespanol",5,China arroja una vaca al mar y despierta sin querer a 8 'dormilones' en las profundidades,2026-04-05 09:05
-aemet,4,8,2.59,51,okdiario,1,AEMET prevé un día soleado y cálido en Zaragoza con nubes en el Ibérico y viento suave,2026-04-05 09:05
-quién,4,8,2.59,51,"20minutos, okdiario, elpais_espana",3,"Quién es Aday Mara, el gigante de Zaragoza que ha hecho historia en la NCAA: primer español en disputar la final universitaria",2026-04-05 09:05
-astronautas,6,12,2.59,51,"20minutos, heraldo_aragon, elpais",3,"Los astronautas de Artemis II, tras varios días de viaje a la Luna: ""Hemos perdido la noción del tiempo""",2026-04-05 09:05
-prevé,3,6,2.59,51,okdiario,1,AEMET prevé un día soleado y cálido en Zaragoza con nubes en el Ibérico y viento suave,2026-04-05 09:05
-encuentro,3,6,2.59,51,levante_emv,1,Torrent vive con emoción el Encuentro Glorioso: del luto al júbilo con la Reina y los 'aleluyas' como protagonistas,2026-04-05 09:05
-viaje,3,6,2.59,51,"20minutos, okdiario",2,"Los astronautas de Artemis II, tras varios días de viaje a la Luna: ""Hemos perdido la noción del tiempo""",2026-04-05 09:05
-combate,3,6,2.59,51,"google_news_internacional, bbc_mundo, europapress",3,Trump anuncia el rescate del militar desaparecido en Irán tras el derribo de su avión de combate - Europa Press,2026-04-05 09:05
-marca,5,10,2.59,51,"okdiario, google_news_es, google_news_internacional, elpais_espana, elpais",5,El aire subtropical marca el paso del Lunes Santo: las altas temperaturas invaden España,2026-04-05 09:05
-pueblo,4,8,2.59,51,"google_news_internacional, okdiario, heraldo_aragon, elpais",4,"Conferencia Internacional Antifascista por la soberanía de los pueblos. Un paso adelante por el futuro, por la vida, por la igualdad y la dignidad humana - Huella del Sur",2026-04-05 09:05
-vasco,3,6,2.59,51,"elcorreo, okdiario",2,"Itzulia: Perfil y horario de la etapa 1, Bilbao-Bilbao, de la Vuelta al País Vasco 2026",2026-04-05 09:05
-valenciana,3,6,2.59,51,"levante_emv, google_news_internacional",2,"Los 6 mejores merenderos de la Comunitat Valenciana para Pascua: 4 en Valencia, 1 en Castellón y 1 en Alicante",2026-04-05 09:05
-confirma,6,12,2.59,51,"sur, heraldo_aragon, okdiario, google_news_es, google_news_internacional",5,Trump confirma que EE UU ha rescatado al tripulante de un caza derribado que estaba desaparecido en Irán,2026-04-05 09:05
-cuerpo,3,6,2.59,51,"europapress, okdiario",2,"Los deberes del vicepresidente Cuerpo en el Congreso: Tres leyes estancadas, una de ellas desde hace más de dos años",2026-04-05 09:05
-campo,3,6,2.59,51,"levante_emv, 20minutos, huffington_es",3,La huerta de Europa se queda sin ‘botiquín’: el campo exige un giro radical,2026-04-05 09:05
-unidos,10,21,2.47,49,"levante_emv, google_news_internacional, elpais, elpais_internacional, google_news_es",5,Nueva carrera espacial: Estados Unidos quiere (re)conquistar la Luna para construir una base espacial permanente y competir con China,2026-04-05 09:05
-europa,8,17,2.44,48,"levante_emv, google_news_internacional, elpais_internacional, elpais, google_news_es",5,La huerta de Europa se queda sin ‘botiquín’: el campo exige un giro radical,2026-04-05 09:05
-estados,10,22,2.36,47,"levante_emv, google_news_internacional, elpais, elpais_internacional, google_news_es",5,Nueva carrera espacial: Estados Unidos quiere (re)conquistar la Luna para construir una base espacial permanente y competir con China,2026-04-05 09:05
-política,4,9,2.31,46,"europapress, 20minutos, levante_emv, elpais_espana, elpais",5,"Pablo Iglesias afirma que dejó quemado la política: ""Ya no metía tantos triples como antes""",2026-04-05 09:05
-petróleo,4,9,2.31,46,"20minutos, okdiario, europapress, elpais",4,"Petróleo, esferas de influencia o cambios de régimen: ¿por qué el mundo ha entrado en una espiral de guerras?",2026-04-05 09:05
-quiere,4,9,2.31,46,"levante_emv, huffington_es, infolibre, okdiario, elpais",5,Nueva carrera espacial: Estados Unidos quiere (re)conquistar la Luna para construir una base espacial permanente y competir con China,2026-04-05 09:05
-rusia,3,7,2.22,44,"europapress, elpais_internacional, google_news_es",3,El petrolero enviada por Rusia a Cuba zarpa de Matanzas tras entregar 100.000 toneladas de petróleo,2026-04-05 09:05
-española,3,7,2.22,44,"google_news_economia, okdiario, google_news_es",3,La patronal CEOE baraja revisar a la baja su previsión de crecimiento de la economía española hasta el 2% o... - gaceta.es,2026-04-05 09:05
-valencia,7,17,2.14,42,"levante_emv, elcorreo, google_news_internacional, elpais",4,"Los 6 mejores merenderos de la Comunitat Valenciana para Pascua: 4 en Valencia, 1 en Castellón y 1 en Alicante",2026-04-05 09:05
-gratis,4,10,2.07,41,"heraldo_aragon, okdiario, google_news_es, elpais",4,"Horario y dónde ver gratis la corrida de la Feria de Arlés del 6 de abril: Manuel Escribano, Colombo y El Rafi",2026-04-05 09:05
+torrent,3,2,7.3,100,levante_emv,1,Así ha sido la apertura de la 'carxofa' en el Encuentro Glorioso de Torrent,2026-04-05 09:36
+batalla,4,3,6.49,100,"elespanol, google_news_politica, lavanguardia",3,EEUU rescata a su segundo piloto en una batalla nocturna con cientos de comandos: estaba herido y oculto con una pistola para eludir a los iraníes,2026-04-05 09:36
+secreto,3,2,7.3,100,"huffington_es, okdiario, 20minutos",3,Buenafuente desvela el secreto mejor guardado del plató de Karlos Arguiñano tras asistir a varias grabaciones,2026-04-05 09:36
+avión,8,1,38.95,100,"okdiario, google_news_internacional, bbc_mundo, levante_emv, heraldo_aragon",5,Irán desmiente el rescate del piloto y anuncia el derribo de dos helicópteros Black Hawk y un avión C-130,2026-04-05 09:36
+glorioso,3,2,7.3,100,levante_emv,1,Así ha sido la apertura de la 'carxofa' en el Encuentro Glorioso de Torrent,2026-04-05 09:36
+temperaturas,8,5,7.79,100,"elespanol, okdiario",2,"Llega un frente atlántico que dejará lluvias y una bajada de las temperaturas en Castilla-La Mancha, según Meteored",2026-04-05 09:36
+fábrica,3,0,5.0,100,"levante_emv, google_news_internacional, lavanguardia",3,Brasil se convierte en 'fábrica de espías' del Kremlin: evita detener a los agentes y prefiere exponerlos,2026-04-05 09:36
+ingerir,3,0,5.0,100,"elmundo, eldiario, elcorreo",3,Muere un trabajador al ingerir lubricante industrial en un taller de Tarancón (Cuenca),2026-04-05 09:36
+queso,5,0,5.0,100,"okdiario, 20minutos",2,Amantes del queso: éste pueblo de Andalucía se convierte en la capital mundial del queso con catas y visitas guiadas,2026-04-05 09:36
+leonor,3,2,7.3,100,"20minutos, lavanguardia, heraldo_aragon",3,La princesa Leonor ultima su formación militar con una gran incógnita: en qué universidad estudiará,2026-04-05 09:36
+formación,4,0,5.0,100,"20minutos, google_news_internacional, heraldo_aragon, okdiario",4,La princesa Leonor ultima su formación militar con una gran incógnita: en qué universidad estudiará,2026-04-05 09:36
+rescatado,6,0,5.0,100,"google_news_internacional, sur, europapress, lavanguardia",4,"Guerra en Irán, última hora en directo: Trump asegura haber rescatado ""sano y salvo"" al segundo piloto del caza derribado en Irán - El Periódico",2026-04-05 09:36
+salvo,4,0,5.0,100,"google_news_internacional, 20minutos, huffington_es, elcorreo, sur",5,"Guerra en Irán, última hora en directo: Trump asegura haber rescatado ""sano y salvo"" al segundo piloto del caza derribado en Irán - El Periódico",2026-04-05 09:36
+segundo,16,7,11.13,100,"lavanguardia, google_news_internacional, elespanol, bbc_mundo, elmundo",5,"La DGT puso 6,1 millones de multas en 2025: una cada 5,2 segundos",2026-04-05 09:36
+rescata,8,4,9.74,100,"google_news_internacional, elespanol, sur, elmundo, levante_emv",5,"Guerra en Irán, última hora en directo: Trump asegura haber rescatado ""sano y salvo"" al segundo piloto del caza derribado en Irán - El Periódico",2026-04-05 09:36
+estaba,7,2,17.04,100,"elespanol, sur, levante_emv, google_news_internacional, europapress",5,EEUU rescata a su segundo piloto en una batalla nocturna con cientos de comandos: estaba herido y oculto con una pistola para eludir a los iraníes,2026-04-05 09:36
+chollos,3,2,7.3,100,lavanguardia,1,"Los 5 mejores chollos de AliExpress en consolas (5 de abril): Nintendo, Sony o Anbernic con hasta el 70% de descuento",2026-04-05 09:36
+destroza,3,2,7.3,100,"okdiario, google_news_politica",2,China destroza cualquier molde conocido: construyó un puente ferroviario de 164 km para unir Pekín con Shangai,2026-04-05 09:36
+verdadero,3,0,5.0,100,"el_confidencial_tech, okdiario",2,Científicos españoles aseguran haber encontrado el verdadero 'punto G' masculino. Y está donde menos se esperaba,2026-04-05 09:36
+desaparecido,16,14,5.56,100,"google_news_internacional, levante_emv, sur, 20minutos, google_news_es",5,Trump anuncia el rescate del militar desaparecido en Irán tras el derribo de su avión de combate - Europa Press,2026-04-05 09:36
+carga,3,1,14.61,100,"google_news_economia, 20minutos, lavanguardia",3,¿Cuánto cuesta cargar el coche? Este es el precio del litro de gasolina y el del gasóleo este domingo 5 de abril - El Cronista,2026-04-05 09:36
+intento,3,0,5.0,100,"google_news_internacional, levante_emv",2,"Guerra en Irán, última hora hoy, en directo | Irán dice haber frustrado el intento de rescate del piloto y haber derribado varias aeronaves de EEUU - El Mundo",2026-04-05 09:36
+perros,5,3,8.11,100,"20minutos, huffington_es, levante_emv, okdiario",4,Ocho maneras de demostrar a perros y gatos que los queremos,2026-04-05 09:36
+gatos,3,1,14.61,100,"20minutos, levante_emv",2,Ocho maneras de demostrar a perros y gatos que los queremos,2026-04-05 09:36
+jueza,3,1,14.61,100,"elcorreo, levante_emv",2,La jueza deja en libertad a los dos hermanos acusados de violar a una mujer en un coche en Valencia,2026-04-05 09:36
+pagar,4,3,6.49,100,"heraldo_aragon, okdiario, 20minutos, lavanguardia",4,Joan Manuel Serrat: “No creo que sea un progreso para celebrar que se prometa que no habrá que pagar impuestos”,2026-04-05 09:36
+errores,3,0,5.0,100,"20minutos, google_news_economia",2,Los errores invisibles que enferman a perros y gatos: así afectan los hábitos cotidianos,2026-04-05 09:36
+radio,3,1,14.61,100,"google_news_es, levante_emv",2,"Muere el periodista Diego Carcedo, exdirector de Radio Nacional de España - RTVE.es",2026-04-05 09:36
+“ahora,3,0,5.0,100,"lavanguardia, okdiario, google_news_economia",3,"Seth Rogen, sobre rodar 'The Studio' sin Catherine O'Hara: “Ahora el ancla no está”",2026-04-05 09:36
+gestación,3,0,5.0,100,"lavanguardia, google_news_internacional",2,Condenan por publicidad ilícita a una empresa que oferta gestación subrogada en Ucrania,2026-04-05 09:36
+anuncia,16,9,8.65,100,"okdiario, google_news_internacional, bbc_mundo, 20minutos, huffington_es",5,Irán desmiente el rescate del piloto y anuncia el derribo de dos helicópteros Black Hawk y un avión C-130,2026-04-05 09:36
+castellón,3,1,14.61,100,"20minutos, levante_emv",2,Un mirador con vistas 360º y sello cerámico: el proyecto que transformará este pueblo de Castellón,2026-04-05 09:36
+michigan,3,0,5.0,100,"okdiario, google_news_es, heraldo_aragon",3,Aday Mara asciende al estrellato tras un partidazo que mete a Michigan en la final de la NCAA,2026-04-05 09:36
+escribano,4,1,19.47,100,"heraldo_aragon, google_news_es, lavanguardia",3,"Horario y dónde ver gratis la corrida de la Feria de Arlés del 6 de abril: Manuel Escribano, Colombo y El Rafi",2026-04-05 09:36
+rescate,19,12,7.71,100,"google_news_internacional, okdiario, bbc_mundo, 20minutos, huffington_es",5,"Guerra en Irán, última hora hoy, en directo | Irán dice haber frustrado el intento de rescate del piloto y haber derribado varias aeronaves de EEUU - El Mundo",2026-04-05 09:36
+piloto,28,26,5.24,100,"google_news_internacional, okdiario, elespanol, 20minutos, huffington_es",5,"Guerra en Irán, última hora hoy, en directo | Irán dice haber frustrado el intento de rescate del piloto y haber derribado varias aeronaves de EEUU - El Mundo",2026-04-05 09:36
+derribado,22,18,5.95,100,"google_news_internacional, bbc_mundo, sur, huffington_es, levante_emv",5,"Guerra en Irán, última hora hoy, en directo | Irán dice haber frustrado el intento de rescate del piloto y haber derribado varias aeronaves de EEUU - El Mundo",2026-04-05 09:36
+dimisión,3,0,5.0,100,"google_news_es, lavanguardia",2,"El reparto de los contratos millonarios, clave en la dimisión de Escribano en Indra - La Vanguardia",2026-04-05 09:36
+decenas,3,2,7.3,100,"bbc_mundo, 20minutos",2,Decenas de aviones y participación de la CIA: cómo fue la operación que rescató al tripulante del caza F-15 de EE.UU. derribado por Irán,2026-04-05 09:36
+millonarios,3,0,5.0,100,"google_news_es, lavanguardia",2,"El reparto de los contratos millonarios, clave en la dimisión de Escribano en Indra - La Vanguardia",2026-04-05 09:36
+tripulante,8,5,7.79,100,"bbc_mundo, sur, elmundo, google_news_internacional, europapress",5,Decenas de aviones y participación de la CIA: cómo fue la operación que rescató al tripulante del caza F-15 de EE.UU. derribado por Irán,2026-04-05 09:36
+juego,3,2,7.3,100,"okdiario, infolibre",2,"Stradivarius se pasa el juego con las novedades de verano: tops lenceros, pantalones fluidos y bolsos de rafia",2026-04-05 09:36
+verano,4,2,9.74,100,"okdiario, 20minutos",2,"Stradivarius se pasa el juego con las novedades de verano: tops lenceros, pantalones fluidos y bolsos de rafia",2026-04-05 09:36
+alerta,3,0,5.0,100,"okdiario, google_news_internacional",2,"Alerta crítica de los botánicos: descubren un árbol desconocido en Panamá, pero solo quedan 5 ejemplares vivos",2026-04-05 09:36
+reparto,3,1,14.61,100,"google_news_es, lavanguardia",2,"El reparto de los contratos millonarios, clave en la dimisión de Escribano en Indra - La Vanguardia",2026-04-05 09:36
+brasil,3,1,14.61,100,"google_news_internacional, levante_emv",2,"Brasil. Conferencia internacional antifascista en Porto Alegre: Avances importantes, perspectivas futuras - Resumen Latinoamericano -",2026-04-05 09:36
+perspectivas,3,1,14.61,100,google_news_internacional,1,"Brasil. Conferencia internacional antifascista en Porto Alegre: Avances importantes, perspectivas futuras - Resumen Latinoamericano -",2026-04-05 09:36
+contratos,3,2,7.3,100,"google_news_es, lavanguardia",2,"El reparto de los contratos millonarios, clave en la dimisión de Escribano en Indra - La Vanguardia",2026-04-05 09:36
+periodista,5,1,24.34,100,"europapress, elespanol, google_news_es, levante_emv, 20minutos",5,"Muere a los 86 años el periodista Diego Carcedo, exdirector de RNE y de informativos de TVE",2026-04-05 09:36
+carcedo,8,1,38.95,100,"europapress, elcorreo, elespanol, google_news_es, levante_emv",5,"Muere a los 86 años el periodista Diego Carcedo, exdirector de RNE y de informativos de TVE",2026-04-05 09:36
+multas,3,2,7.3,100,"lavanguardia, elmundo",2,"La DGT puso 6,1 millones de multas en 2025: una cada 5,2 segundos",2026-04-05 09:36
+exdirector,4,1,19.47,100,"europapress, elespanol, google_news_es, 20minutos",4,"Muere a los 86 años el periodista Diego Carcedo, exdirector de RNE y de informativos de TVE",2026-04-05 09:36
+ahorrar,3,2,7.3,100,"okdiario, google_news_economia, lavanguardia",3,"Gonzalo Bernardos, sobre cómo gestionar el dinero y ahorrar en España: “Ahora todo es más tarde»",2026-04-05 09:36
+diego,8,1,38.95,100,"europapress, elcorreo, elespanol, google_news_es, levante_emv",5,"Muere a los 86 años el periodista Diego Carcedo, exdirector de RNE y de informativos de TVE",2026-04-05 09:36
+predicción,13,13,4.87,97,okdiario,1,"Predicción del horóscopo para Aries hoy, domingo 5 de abril de 2026",2026-04-05 09:36
+comunitat,3,3,4.87,97,"levante_emv, google_news_internacional",2,"Los 6 mejores merenderos de la Comunitat Valenciana para Pascua: 4 en Valencia, 1 en Castellón y 1 en Alicante",2026-04-05 09:36
+cronista,3,3,4.87,97,"google_news_economia, google_news_internacional, google_news_es",3,¿Cuánto cuesta cargar el coche? Este es el precio del litro de gasolina y el del gasóleo este domingo 5 de abril - El Cronista,2026-04-05 09:36
+campaña,3,3,4.87,97,"okdiario, heraldo_aragon, huffington_es",3,La influencer Rocío Camacho confiesa el dineral que ha llegado a ganar por una campaña,2026-04-05 09:36
+localiza,3,3,4.87,97,"levante_emv, okdiario",2,La Policía localiza un libro manuscrito del siglo XVII del Colegio del Arte Mayor de la Seda de València desaparecido hace un siglo,2026-04-05 09:36
+jóvenes,3,3,4.87,97,"okdiario, lavanguardia",2,Los jóvenes están de enhorabuena: la ayuda de hasta 1.500 euros para formación gracias al gobierno de la Comunidad de Madrid,2026-04-05 09:36
+convierte,4,4,4.87,97,"okdiario, levante_emv",2,Amantes del queso: éste pueblo de Andalucía se convierte en la capital mundial del queso con catas y visitas guiadas,2026-04-05 09:36
+cultural,3,3,4.87,97,"levante_emv, google_news_politica",2,¿Bombardeos de precisión o destrucción generalizada? EEUU e Israel atacan el patrimonio cultural e histórico iraní,2026-04-05 09:36
+muere,8,8,4.87,97,"europapress, elcorreo, elmundo, elespanol, eldiario",5,"Muere a los 86 años el periodista Diego Carcedo, exdirector de RNE y de informativos de TVE",2026-04-05 09:36
+primavera,5,5,4.87,97,"okdiario, elpais, lavanguardia",3,"Ni abono ni fertilizante: para que las orquídeas rebosen de flores en primavera, necesitan tener luz todo el año",2026-04-05 09:36
+militar,5,5,4.87,97,"20minutos, google_news_internacional, heraldo_aragon, elmundo, europapress",5,La princesa Leonor ultima su formación militar con una gran incógnita: en qué universidad estudiará,2026-04-05 09:36
+forma,6,6,4.87,97,"okdiario, europapress, elespanol, 20minutos, google_news_internacional",5,Sale a la luz el audio del VAR de la no expulsión a Gerard Martín: «Juega la pelota de forma normal»,2026-04-05 09:36
+aviones,4,5,3.89,77,"bbc_mundo, 20minutos, okdiario",3,Decenas de aviones y participación de la CIA: cómo fue la operación que rescató al tripulante del caza F-15 de EE.UU. derribado por Irán,2026-04-05 09:36
+mayor,4,5,3.89,77,"levante_emv, efe, google_news_internacional, okdiario",4,La Policía localiza un libro manuscrito del siglo XVII del Colegio del Arte Mayor de la Seda de València desaparecido hace un siglo,2026-04-05 09:36
+declaración,4,5,3.89,77,"okdiario, google_news_internacional",2,Cuidado con el nuevo timo de la declaración de la renta por SMS: así clonan la web de la Agencia Tributaria,2026-04-05 09:36
+espacio,4,5,3.89,77,"heraldo_aragon, google_news_internacional, infolibre",3,"Los astronautas de Artemis II duermen ""de maravilla"" pese al reducido espacio de Orión",2026-04-05 09:36
+horóscopo,13,17,3.72,74,okdiario,1,"Predicción del horóscopo para Aries hoy, domingo 5 de abril de 2026",2026-04-05 09:36
+celebra,3,4,3.65,73,"heraldo_aragon, google_news_internacional, eldiario, lavanguardia",4,Joan Manuel Serrat: “No creo que sea un progreso para celebrar que se prometa que no habrá que pagar impuestos”,2026-04-05 09:36
+nuevos,3,4,3.65,73,"20minutos, okdiario",2,La superficie media de los pisos nuevos no baja de los 100 metros en una España donde el 28% de los hogares ya son unipersonales,2026-04-05 09:36
+cielo,3,4,3.65,73,"okdiario, 20minutos",2,AEMET prevé en Bilbao cielo poco nuboso con nieblas y descenso de temperaturas en el litoral,2026-04-05 09:36
+pasado,3,4,3.65,73,"google_news_es, huffington_es, google_news_internacional",3,Decretan libertad provisional para el detenido por el presunto homicidio de su pareja el pasado miércoles en Basauri - Cadena SER,2026-04-05 09:36
+economía,3,4,3.65,73,"google_news_economia, google_news_internacional",2,La patronal CEOE baraja revisar a la baja su previsión de crecimiento de la economía española hasta el 2% o... - gaceta.es,2026-04-05 09:36
+indra,3,4,3.65,73,"google_news_es, lavanguardia",2,"El reparto de los contratos millonarios, clave en la dimisión de Escribano en Indra - La Vanguardia",2026-04-05 09:36
+presidente,3,4,3.65,73,"europapress, levante_emv, 20minutos, google_news_internacional",4,"Los deberes del vicepresidente Cuerpo en el Congreso: Tres leyes estancadas, una de ellas desde hace más de dos años",2026-04-05 09:36
+operación,3,4,3.65,73,"bbc_mundo, google_news_es",2,Decenas de aviones y participación de la CIA: cómo fue la operación que rescató al tripulante del caza F-15 de EE.UU. derribado por Irán,2026-04-05 09:36
+llega,5,7,3.48,69,"okdiario, elespanol, 20minutos, levante_emv, google_news_es",5,La influencer Rocío Camacho confiesa el dineral que ha llegado a ganar por una campaña,2026-04-05 09:36
+cuerpo,5,7,3.48,69,"20minutos, levante_emv, europapress, okdiario",4,Hallan un cuerpo sin vida flotando en un sótano de un edificio en ruinas en Cervo,2026-04-05 09:36
+encuentro,4,6,3.25,64,levante_emv,1,Así ha sido la apertura de la 'carxofa' en el Encuentro Glorioso de Torrent,2026-04-05 09:36
+mejores,4,6,3.25,64,"lavanguardia, levante_emv",2,"Los 5 mejores chollos de AliExpress en consolas (5 de abril): Nintendo, Sony o Anbernic con hasta el 70% de descuento",2026-04-05 09:36
+edificio,3,5,2.92,58,"20minutos, elespanol, elconfidencial",3,Hallan un cuerpo sin vida flotando en un sótano de un edificio en ruinas en Cervo,2026-04-05 09:36
+jamás,3,5,2.92,58,okdiario,1,El insulto histórico más famoso jamás documentado,2026-04-05 09:36
+rtve.es,3,5,2.92,58,google_news_es,1,"Muere el periodista Diego Carcedo, exdirector de Radio Nacional de España - RTVE.es",2026-04-05 09:36
+lunes,3,5,2.92,58,"expansion, okdiario",2,"La Bolsa española no abrirá mañana, Lunes de Pascua",2026-04-05 09:36
+gasolina,3,5,2.92,58,"google_news_economia, okdiario",2,¿Cuánto cuesta cargar el coche? Este es el precio del litro de gasolina y el del gasóleo este domingo 5 de abril - El Cronista,2026-04-05 09:36
+domingo,20,34,2.86,57,"okdiario, 20minutos, google_news_economia, google_news_internacional, eldiario",5,"Predicción del horóscopo para Aries hoy, domingo 5 de abril de 2026",2026-04-05 09:36
+expertos,4,7,2.78,55,"okdiario, google_news_es, 20minutos, levante_emv",4,"Los expertos aconsejan a los dueños de perros: si llueve mucho fuera, la mejor opción es jugar al escondite en casa",2026-04-05 09:36
+española,4,7,2.78,55,"expansion, google_news_economia, okdiario, google_news_es",4,"La Bolsa española no abrirá mañana, Lunes de Pascua",2026-04-05 09:36
+siglo,4,7,2.78,55,"levante_emv, heraldo_aragon, lavanguardia",3,La Policía localiza un libro manuscrito del siglo XVII del Colegio del Arte Mayor de la Seda de València desaparecido hace un siglo,2026-04-05 09:36
+china,5,9,2.7,54,"el_confidencial_tech, okdiario, google_news_internacional, levante_emv, elespanol",5,China arroja una vaca al mar y despierta sin querer a 8 'dormilones' en las profundidades,2026-04-05 09:36
+haber,6,11,2.66,53,"google_news_internacional, el_confidencial_tech, lavanguardia",3,"Guerra en Irán, última hora hoy, en directo | Irán dice haber frustrado el intento de rescate del piloto y haber derribado varias aeronaves de EEUU - El Mundo",2026-04-05 09:36
+aemet,4,8,2.43,48,okdiario,1,AEMET prevé un día soleado y cálido en Zaragoza con nubes en el Ibérico y viento suave,2026-04-05 09:36
+concierto,3,6,2.43,48,"huffington_es, lavanguardia, heraldo_aragon, infolibre",4,"Ayuso va al último concierto de Rosalía en Madrid, publica este tuit y muchos le recuerdan lo mismo",2026-04-05 09:36
+juicio,3,6,2.43,48,google_news_es,1,"El juicio a la ‘Operación Kitchen’, un retrato del PP y de la judicatura que le ampara - El Salto",2026-04-05 09:36
+clave,6,12,2.43,48,"heraldo_aragon, 20minutos, google_news_es, lavanguardia",4,"Pau Gasol elogia el partidazo de Aday Mara en la Final Four de la NCAA: ""Ha sido una pieza clave""",2026-04-05 09:36
+prevé,3,6,2.43,48,okdiario,1,AEMET prevé un día soleado y cálido en Zaragoza con nubes en el Ibérico y viento suave,2026-04-05 09:36
+vasco,3,6,2.43,48,"elcorreo, okdiario",2,"Itzulia: Perfil y horario de la etapa 1, Bilbao-Bilbao, de la Vuelta al País Vasco 2026",2026-04-05 09:36
+derribo,4,8,2.43,48,"okdiario, google_news_internacional, europapress",3,Irán desmiente el rescate del piloto y anuncia el derribo de dos helicópteros Black Hawk y un avión C-130,2026-04-05 09:36
+viaje,3,6,2.43,48,"20minutos, okdiario",2,"Los astronautas de Artemis II, tras varios días de viaje a la Luna: ""Hemos perdido la noción del tiempo""",2026-04-05 09:36
+renta,5,10,2.43,48,"okdiario, heraldo_aragon, 20minutos, lavanguardia",4,Cuidado con el nuevo timo de la declaración de la renta por SMS: así clonan la web de la Agencia Tributaria,2026-04-05 09:36
+confirma,6,12,2.43,48,"sur, heraldo_aragon, okdiario, google_news_es, google_news_internacional",5,Trump confirma que EE UU ha rescatado al tripulante de un caza derribado que estaba desaparecido en Irán,2026-04-05 09:36
+valenciana,3,6,2.43,48,"levante_emv, google_news_internacional",2,"Los 6 mejores merenderos de la Comunitat Valenciana para Pascua: 4 en Valencia, 1 en Castellón y 1 en Alicante",2026-04-05 09:36
+campo,3,6,2.43,48,"levante_emv, 20minutos, huffington_es",3,La huerta de Europa se queda sin ‘botiquín’: el campo exige un giro radical,2026-04-05 09:36
+andalucía,6,13,2.25,44,"okdiario, google_news_internacional, lavanguardia",3,Amantes del queso: éste pueblo de Andalucía se convierte en la capital mundial del queso con catas y visitas guiadas,2026-04-05 09:36
+pascua,4,9,2.16,43,"expansion, levante_emv, eldiario",3,"La Bolsa española no abrirá mañana, Lunes de Pascua",2026-04-05 09:36
+frente,4,9,2.16,43,"elespanol, google_news_internacional, elpais",3,"Llega un frente atlántico que dejará lluvias y una bajada de las temperaturas en Castilla-La Mancha, según Meteored",2026-04-05 09:36
+final,10,23,2.12,42,"heraldo_aragon, 20minutos, lavanguardia, google_news_es, okdiario",5,"Pau Gasol elogia el partidazo de Aday Mara en la Final Four de la NCAA: ""Ha sido una pieza clave""",2026-04-05 09:36
+cambios,3,7,2.09,41,20minutos,1,Cambios en las cuantías del Bono Social Eléctrico y Bono Social Térmico: así quedan las ayudas,2026-04-05 09:36
+combate,3,7,2.09,41,"google_news_internacional, bbc_mundo, europapress",3,Trump anuncia el rescate del militar desaparecido en Irán tras el derribo de su avión de combate - Europa Press,2026-04-05 09:36
+poder,3,7,2.09,41,"20minutos, google_news_internacional, lavanguardia, okdiario",4,"De ""estar hundido"" por el covid persistente a crear una 'startup' con 17 años: ""Descubrí el poder de la tecnología en la salud""",2026-04-05 09:36
+riesgo,3,7,2.09,41,"levante_emv, infolibre, lavanguardia",3,"""Obama Moreno"" o el riesgo de vender un presidente perfecto",2026-04-05 09:36
+último,3,7,2.09,41,"huffington_es, lavanguardia",2,"Ayuso va al último concierto de Rosalía en Madrid, publica este tuit y muchos le recuerdan lo mismo",2026-04-05 09:36
+valencia,7,17,2.0,40,"levante_emv, elcorreo, google_news_internacional, elpais",4,"Los 6 mejores merenderos de la Comunitat Valenciana para Pascua: 4 en Valencia, 1 en Castellón y 1 en Alicante",2026-04-05 09:36
