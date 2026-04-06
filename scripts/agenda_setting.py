@@ -7,7 +7,7 @@ vs cuáles siguen la agenda ajena.
 import pandas as pd
 import numpy as np
 import os
-from datetime import datetime
+from datetime import datetime, timezone
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 
@@ -24,7 +24,7 @@ STOPWORDS = ["de","la","el","en","y","a","que","los","del","se","las","por",
              "este","esta","fue","ha","lo","si","sobre","entre","cuando"]
 
 os.makedirs(os.path.dirname(OUTPUT), exist_ok=True)
-now = datetime.now()
+now = datetime.now(timezone.utc)
 now_str = now.strftime("%Y-%m-%d %H:%M")
 print(f"[AGENDA] {now_str} — Iniciando score de agenda-setting")
 
