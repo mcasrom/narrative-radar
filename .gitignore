@@ -243,3 +243,6 @@ test_pipeline.py
 patch_*.py
 pipeline_*.log.gz
 update_dashboard.sh.bad
+# Monitor aislado
+monitor/
+run_monitor.sh
