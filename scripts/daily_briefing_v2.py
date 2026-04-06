@@ -18,7 +18,7 @@ matplotlib.use("Agg")
 import matplotlib.pyplot as plt
 import matplotlib.patches as mpatches
 from matplotlib.gridspec import GridSpec
-from datetime import datetime, timedelta
+from datetime import datetime, timedelta, timezone
 from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
 from email.mime.application import MIMEApplication
@@ -42,7 +42,7 @@ PDF_OUT   = os.path.join(PROC, "briefing_diario.pdf")
 HIST_DIR  = os.path.join(PROC, "briefing_history")
 os.makedirs(HIST_DIR, exist_ok=True)
 
-now     = datetime.now()
+now     = datetime.now(timezone.utc)
 now_str = now.strftime("%Y-%m-%d %H:%M")
 ayer    = (now - timedelta(days=1)).strftime("%Y-%m-%d")
 hoy     = now.strftime("%Y-%m-%d")
@@ -141,7 +141,7 @@ save_snapshot("viral_topics.csv", df_viral)
 save_snapshot("polarization_summary.csv", df_polar)
 
 # Métricas principales
-n_news_hoy  = len(df_news[df_news["date"] >= pd.Timestamp(hoy)]) if not df_news.empty and "date" in df_news else 0
+n_news_hoy  = len(df_news[df_news["date"] >= pd.Timestamp(hoy, tz="UTC")]) if not df_news.empty and "date" in df_news else 0
 n_news_ay   = len(df_news_ay) if not df_news_ay.empty else None
 n_fuentes   = df_news["source"].nunique() if not df_news.empty and "source" in df_news else 0
 n_coord     = len(df_coord)
