@@ -6,7 +6,7 @@ from nltk.corpus import stopwords
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.cluster import KMeans
 from sklearn.decomposition import PCA
-from datetime import datetime
+from datetime import datetime, timezone
 import os
 
 INPUT_FILE = os.path.abspath(os.path.join(os.path.dirname(os.path.abspath(__file__)), "../data/processed/news_summary.csv"))
@@ -39,7 +39,7 @@ def main():
     if "title" not in df.columns:
         print("news_summary.csv no tiene columna title"); return
 
-    now = datetime.now().strftime("%Y-%m-%d %H:%M")
+    now = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M:%S+00:00")
     # Usar solo últimos 14 días para narrativas más actuales
     df["date"] = pd.to_datetime(df["date"], errors="coerce", utc=True)
     cutoff = pd.Timestamp.now(tz="UTC") - pd.Timedelta(days=14)

@@ -19,7 +19,7 @@ import json
 import subprocess
 import pandas as pd
 import numpy as np
-from datetime import datetime, timedelta
+from datetime import datetime, timezone, timedelta
 from pathlib import Path
 
 # ------------------------------------------------------------------
@@ -82,7 +82,7 @@ SCRIPT_MAP = {
 # ------------------------------------------------------------------
 
 def log(msg):
-    ts = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+    ts = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M:%S")
     line = f"[{ts}] 🔍 AUDIT: {msg}"
     print(line)
     with open(LOG_FILE, "a") as f:

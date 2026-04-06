@@ -6,7 +6,7 @@ Seguimiento de menciones y sentimiento de personajes políticos clave.
 import pandas as pd
 import numpy as np
 import os
-from datetime import datetime
+from datetime import datetime, timezone
 
 BASE    = os.path.abspath(os.path.join(os.path.dirname(os.path.abspath(__file__)), ".."))
 INPUT   = os.path.join(BASE, "data/processed/news_summary.csv")
@@ -51,7 +51,7 @@ NEGATIVE_WORDS = {"dimite","acusa","denuncia","critica","rechaza","pierde","esc�
                   "expulsa","suspende","renuncia","derrota","crisis","polémica"}
 
 os.makedirs(os.path.dirname(OUTPUT), exist_ok=True)
-now = datetime.now().strftime("%Y-%m-%d %H:%M")
+now = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M")
 print(f"[PERSONAS] {now} — Iniciando seguimiento de personajes")
 
 try:

@@ -8,7 +8,7 @@ Genera:  data/processed/trends_summary.csv
          data/processed/trends_history.csv
 """
 import pandas as pd, os, json, numpy as np
-from datetime import datetime
+from datetime import datetime, timezone
 from sklearn.feature_extraction.text import TfidfVectorizer
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
@@ -70,7 +70,7 @@ try:
 except Exception as e:
     print(f"Error leyendo {INPUT}: {e}"); exit(1)
 
-now = datetime.now().strftime("%Y-%m-%d %H:%M")
+now = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M")
 # Ponderar por recencia
 df["date"] = pd.to_datetime(df["date"], errors="coerce", utc=True)
 cutoff_48h = pd.Timestamp.now(tz="UTC") - pd.Timedelta(hours=48)

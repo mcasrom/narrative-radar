@@ -8,7 +8,7 @@ Score por titular: -1.0 (muy negativo) a +1.0 (muy positivo)
 import pandas as pd
 import numpy as np
 import os
-from datetime import datetime
+from datetime import datetime, timezone
 
 BASE    = os.path.abspath(os.path.join(os.path.dirname(os.path.abspath(__file__)), ".."))
 INPUT   = os.path.join(BASE, "data/processed/news_summary.csv")
@@ -113,7 +113,7 @@ NEGATORS = {
 }
 
 os.makedirs(os.path.dirname(OUTPUT), exist_ok=True)
-now = datetime.now().strftime("%Y-%m-%d %H:%M")
+now = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M")
 print(f"[SENTIMENT] {now} — Iniciando análisis de sentimiento NLP")
 
 try:

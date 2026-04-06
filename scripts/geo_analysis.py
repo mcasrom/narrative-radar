@@ -5,7 +5,7 @@ Análisis geográfico — menciones de CCAA en titulares.
 """
 import pandas as pd
 import os
-from datetime import datetime
+from datetime import datetime, timezone
 
 BASE    = os.path.abspath(os.path.join(os.path.dirname(os.path.abspath(__file__)), ".."))
 INPUT   = os.path.join(BASE, "data/processed/news_summary.csv")
@@ -36,7 +36,7 @@ CCAA_TOPONYMS = {
 }
 
 os.makedirs(os.path.dirname(OUTPUT), exist_ok=True)
-now = datetime.now().strftime("%Y-%m-%d %H:%M")
+now = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M")
 print(f"[GEO] {now} — Iniciando análisis geográfico")
 
 try:

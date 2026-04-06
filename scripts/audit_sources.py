@@ -10,7 +10,7 @@ import os
 import socket
 import smtplib
 from email.mime.text import MIMEText
-from datetime import datetime
+from datetime import datetime, timezone
 
 BASE = os.path.dirname(os.path.abspath(__file__))
 CONFIG = os.path.abspath(os.path.join(BASE, "../config/sources.yaml"))
@@ -23,7 +23,7 @@ socket.setdefaulttimeout(10)
 with open(CONFIG, "r", encoding="utf-8") as f:
     config = yaml.safe_load(f)
 
-now = datetime.now().strftime("%Y-%m-%d %H:%M")
+now = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M")
 results = []
 
 print(f"[AUDIT] {now} — Auditando {len(config['sources'])} fuentes...")

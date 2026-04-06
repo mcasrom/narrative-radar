@@ -6,7 +6,7 @@ Mide variación diaria de noticias x diversidad de fuentes.
 """
 import pandas as pd
 import os
-from datetime import datetime
+from datetime import datetime, timezone
 INPUT = os.path.abspath(os.path.join(os.path.dirname(os.path.abspath(__file__)), "../data/processed/news_summary.csv"))
 OUTPUT = os.path.abspath(os.path.join(os.path.dirname(os.path.abspath(__file__)), "../data/processed/propagation_summary.csv"))
 HISTORY = os.path.abspath(os.path.join(os.path.dirname(os.path.abspath(__file__)), "../data/processed/propagation_history.csv"))
@@ -18,7 +18,7 @@ except Exception as e:
 df["date"] = pd.to_datetime(df["date"], errors="coerce", utc=True)
 df = df.dropna(subset=["date"])
 df["day"] = df["date"].dt.date
-now = datetime.now().strftime("%Y-%m-%d %H:%M")
+now = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M")
 total_sources = df["source"].nunique()
 daily = df.groupby("day").agg(
     news_count=("title","count"),

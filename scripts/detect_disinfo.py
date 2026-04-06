@@ -6,7 +6,7 @@ import os
 import numpy as np
 import yaml
 import smtplib
-from datetime import datetime
+from datetime import datetime, timezone
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 from email.mime.text import MIMEText
@@ -45,7 +45,7 @@ def email_cooldown_ok(module_name, hours=4):
     open(lock_file, "w").write(str(now_ts))
     return True
 
-now = datetime.now().strftime("%Y-%m-%d %H:%M")
+now = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M")
 print(f"[DISINFO] {now} — Iniciando detector")
 
 try:

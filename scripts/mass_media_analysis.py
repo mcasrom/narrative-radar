@@ -5,7 +5,7 @@ Intensidad de cobertura real por medio. Con histórico acumulativo.
 """
 import pandas as pd
 import os
-from datetime import datetime
+from datetime import datetime, timezone
 
 INPUT = os.path.abspath(os.path.join(os.path.dirname(os.path.abspath(__file__)), "../data/processed/news_summary.csv"))
 OUTPUT = os.path.abspath(os.path.join(os.path.dirname(os.path.abspath(__file__)), "../data/processed/mass_media_coverage.csv"))
@@ -17,7 +17,7 @@ try:
 except Exception as e:
     print(f"Error leyendo {INPUT}: {e}"); exit(1)
 
-now = datetime.now().strftime("%Y-%m-%d %H:%M")
+now = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M")
 counts = df["source"].value_counts().reset_index()
 counts.columns = ["source","news_count"]
 counts["intensity_index"] = (counts["news_count"] / counts["news_count"].max() * 100).round(1)

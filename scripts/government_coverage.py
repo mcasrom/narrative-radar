@@ -8,7 +8,7 @@ Genera: data/processed/government_coverage.csv (ultimo ciclo)
 """
 import pandas as pd
 import os
-from datetime import datetime
+from datetime import datetime, timezone
 
 INPUT = os.path.abspath(os.path.join(os.path.dirname(os.path.abspath(__file__)), "../data/processed/news_summary.csv"))
 OUTPUT = os.path.abspath(os.path.join(os.path.dirname(os.path.abspath(__file__)), "../data/processed/government_coverage.csv"))
@@ -23,7 +23,7 @@ try:
 except Exception as e:
     print(f"Error leyendo {INPUT}: {e}"); exit(1)
 
-now = datetime.now().strftime("%Y-%m-%d %H:%M")
+now = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M")
 records = []
 
 for source, group in df.groupby("source"):

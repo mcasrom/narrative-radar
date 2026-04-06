@@ -7,7 +7,7 @@ Genera: data/processed/keywords_emerging.csv
 """
 import pandas as pd
 import os
-from datetime import datetime
+from datetime import datetime, timezone
 
 HISTORY = os.path.abspath(os.path.join(os.path.dirname(os.path.abspath(__file__)), "../data/processed/trends_history.csv"))
 OUT_EMERGING = os.path.abspath(os.path.join(os.path.dirname(os.path.abspath(__file__)), "../data/processed/keywords_emerging.csv"))
@@ -18,7 +18,7 @@ try:
 except Exception as e:
     print(f"Error leyendo {HISTORY}: {e}"); exit(1)
 
-now = datetime.now().strftime("%Y-%m-%d %H:%M")
+now = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M")
 cycles = sorted(df["cycle"].unique())
 
 if len(cycles) < 2:

@@ -9,7 +9,7 @@ import os
 import numpy as np
 import yaml
 import smtplib
-from datetime import datetime
+from datetime import datetime, timezone
 from email.mime.text import MIMEText
 
 BASE    = os.path.abspath(os.path.join(os.path.dirname(os.path.abspath(__file__)), ".."))
@@ -53,7 +53,7 @@ INTENSIFIERS = {
 }
 
 os.makedirs(os.path.dirname(OUTPUT), exist_ok=True)
-now = datetime.now().strftime("%Y-%m-%d %H:%M")
+now = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M")
 print(f"[HATE] {now} — Iniciando detector de lenguaje agresivo")
 
 try:

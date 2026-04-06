@@ -7,7 +7,7 @@ Con histórico acumulativo.
 import pandas as pd
 import os
 from itertools import combinations
-from datetime import datetime
+from datetime import datetime, timezone
 
 INPUT = os.path.abspath(os.path.join(os.path.dirname(os.path.abspath(__file__)), "../data/processed/news_summary.csv"))
 OUTPUT = os.path.abspath(os.path.join(os.path.dirname(os.path.abspath(__file__)), "../data/processed/actors_network.csv"))
@@ -20,7 +20,7 @@ except Exception as e:
     print(f"Error leyendo {INPUT}: {e}"); exit(1)
 
 df["day"] = pd.to_datetime(df["date"], errors="coerce", utc=True).dt.date
-now = datetime.now().strftime("%Y-%m-%d %H:%M")
+now = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M")
 
 pairs = {}
 for day, group in df.groupby("day"):
