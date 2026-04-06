@@ -93,6 +93,7 @@ echo "[$(timestamp)] RAM disponible: ${RAM_LIBRE}MB" >> "$LOG_FILE"
 if [ "${RAM_LIBRE:-0}" -gt 100 ]; then
     PESADOS=(
         government_coverage.py
+        diversity_index.py
         personas_tracking.py
         mass_media_analysis.py
         detect_coordination.py
