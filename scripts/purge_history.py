@@ -1,11 +1,11 @@
 #!/usr/bin/env python3
 """Purga ficheros históricos — mantiene N días de datos"""
 import pandas as pd
-from datetime import datetime, timedelta
+from datetime import datetime, timedelta, timezone
 import os
 
 BASE = "data/processed"
-HOY = datetime.now()
+HOY = datetime.now(timezone.utc)
 
 def purgar(fichero, col_fecha, dias=30):
     path = f"{BASE}/{fichero}"

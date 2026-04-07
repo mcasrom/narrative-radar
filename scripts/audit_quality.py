@@ -349,7 +349,7 @@ def autocorregir(resultados_csv, score_global):
 # ------------------------------------------------------------------
 
 def guardar_resultados(resultados_csv, nlp, rss, acciones, score_global):
-    ts = NOW.strftime("%Y-%m-%d %H:%M:%S")
+    ts = NOW.strftime("%Y-%m-%d %H:%M:%S+00:00")
 
     # ── Resumen por módulo ────────────────────────────────────
     rows = []
