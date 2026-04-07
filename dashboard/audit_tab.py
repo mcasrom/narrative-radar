@@ -175,6 +175,37 @@ def render_audit_tab():
     fuentes_act    = int(df_latest["fuentes_activas_6h"].iloc[0]) if "fuentes_activas_6h" in df_latest else 0
     fuentes_tot    = int(df_latest["fuentes_total"].iloc[0]) if "fuentes_total" in df_latest else 0
 
+
+    # ── Semáforo de sistema ─────────────────────────────────
+    _score_now = int(df_latest["score_global"].iloc[0]) if "score_global" in df_latest else 0
+    _errs_now  = int((df_latest["score_datos"] < 50).sum()) if "score_datos" in df_latest else 0
+    _warns_now = int(((df_latest["score_datos"] >= 50) & (df_latest["score_datos"] < 75)).sum()) if "score_datos" in df_latest else 0
+    _ts_now    = df_latest["timestamp"].iloc[0][:16] if "timestamp" in df_latest else "N/D"
+    if _errs_now > 0:
+        _color, _estado, _icono = "#FF5252", "ROJO", "🔴"
+        _motivo = f"{_errs_now} módulo(s) con error crítico (score < 50)"
+    elif _warns_now > 0:
+        _color, _estado, _icono = "#FFD600", "AMARILLO", "🟡"
+        _motivo = f"{_warns_now} módulo(s) con aviso (score 50–74)"
+    else:
+        _color, _estado, _icono = "#00C853", "VERDE", "🟢"
+        _motivo = f"Todos los módulos operativos · Score {_score_now}/100"
+    st.markdown(f"""
+    <div style="background:{_color}22;border:3px solid {_color};border-radius:12px;
+                padding:20px 28px;margin-bottom:18px;text-align:center;">
+        <div style="font-size:3rem;line-height:1;">{_icono}</div>
+        <div style="font-size:2rem;font-weight:900;color:{_color};letter-spacing:2px;">
+            SISTEMA {_estado}
+        </div>
+        <div style="font-size:1.1rem;color:#ffffffcc;margin-top:6px;">
+            {_motivo}
+        </div>
+        <div style="font-size:0.85rem;color:#ffffff66;margin-top:4px;">
+            Última auditoría: {_ts_now} UTC
+        </div>
+    </div>
+    """, unsafe_allow_html=True)
+    # ────────────────────────────────────────────────────────
     # ── KPIs cabecera ───────────────────────────────────────
     c1, c2, c3, c4 = st.columns(4)
     c1.metric("🕐 Última auditoría", ts_ultimo[:16] if len(str(ts_ultimo)) > 16 else ts_ultimo)
