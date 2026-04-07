@@ -446,7 +446,7 @@ def mostrar_keywords():
 
 def mostrar_historico():
     st.header("Histórico de ciclos")
-    st.markdown("Evolución temporal de los módulos principales · agregación diaria · últimos 30 días.")
+    st.markdown("Evolución temporal · agregación diaria · fuentes con datos actualizados.")
 
     BASE = "data/processed"
 
@@ -459,76 +459,15 @@ def mostrar_historico():
         df["fecha"] = df[col].dt.date
         return df
 
-    # ── 1. NARRATIVAS ─────────────────────────────────────────
-    st.subheader("🧩 Narrativas — top 5 clusters (media diaria)")
-    try:
-        df = pd.read_csv(_csv("narratives_history.csv"))
-        df = _parse_date(df, "cycle")
-        # Etiqueta corta: primeras 2 palabras + cluster id
-        df["label_corto"] = df["cluster_label"].str.split().str[:2].str.join(" ") + " [" + df["cluster"].astype(str) + "]"
-        top5 = df.groupby("label_corto")["count"].sum().nlargest(5).index.tolist()
-        df = df[df["label_corto"].isin(top5)]
-        df_day = df.groupby(["fecha","label_corto"])["count"].sum().reset_index()
-        df_day.columns = ["Fecha","Cluster","Noticias"]
-        fig = px.area(df_day, x="Fecha", y="Noticias", color="Cluster",
-                      title="Top 5 clusters narrativos — noticias diarias",
-                      color_discrete_sequence=px.colors.qualitative.Set2)
-        fig.update_layout(
-            legend=dict(orientation="h", y=-0.35, font=dict(size=11)),
-            hovermode="x unified",
-            margin=dict(b=120)
-        )
-        st.plotly_chart(fig, use_container_width=True, key="hist_narrativas")
-    except Exception as e:
-        st.warning(f"Narrativas: {e}")
-
-    # ── 2. POLARIZACIÓN ───────────────────────────────────────
-    st.subheader("📈 Polarización — índice medio diario")
-    try:
-        df = pd.read_csv(_csv("polarization_history.csv"))
-        df = _parse_date(df, "cycle")
-        df_day = df.groupby("fecha")["polarization_index"].mean().reset_index()
-        df_day.columns = ["Fecha","Polarización"]
-        fig = px.line(df_day, x="Fecha", y="Polarización", markers=True,
-                      title="Índice de polarización medio diario")
-        fig.update_traces(line_color="#e05c00", line_width=2)
-        fig.add_hline(y=df_day["Polarización"].mean(), line_dash="dot",
-                      annotation_text="media global", line_color="grey")
-        st.plotly_chart(fig, use_container_width=True, key="hist_polarizacion")
-    except Exception as e:
-        st.warning(f"Polarización: {e}")
-
-    # ── 3. PERSONAS — top figuras políticas ───────────────────
-    st.subheader("👤 Personas — top 10 figuras por menciones diarias")
-    try:
-        df = pd.read_csv(_csv("personas_history.csv"))
-        df = _parse_date(df, "cycle")
-        col_menciones = next((c for c in df.columns if "mention" in c.lower() or "count" in c.lower()), None)
-        col_persona   = next((c for c in df.columns if "persona" in c.lower() or "name" in c.lower() or "entity" in c.lower()), None)
-        if col_menciones and col_persona:
-            top10 = df.groupby(col_persona)[col_menciones].sum().nlargest(10).index.tolist()
-            df = df[df[col_persona].isin(top10)]
-            df_day = df.groupby(["fecha", col_persona])[col_menciones].sum().reset_index()
-            df_day.columns = ["Fecha","Persona","Menciones"]
-            fig = px.line(df_day, x="Fecha", y="Menciones", color="Persona", markers=False,
-                          title="Top 10 figuras políticas — menciones diarias")
-            fig.update_layout(legend=dict(orientation="h", y=-0.3, font=dict(size=10)))
-            st.plotly_chart(fig, use_container_width=True, key="hist_personas")
-        else:
-            st.info(f"Columnas disponibles: {list(df.columns[:8])}")
-    except Exception as e:
-        st.warning(f"Personas: {e}")
-
-    # ── 4. VIRAL — top keywords acumuladas (últimos 7 días) ───
+    # ── 1. VIRAL — top keywords recientes ────────────────────
     st.subheader("🔥 Viral — top 15 keywords (últimos 7 días)")
     try:
+        import datetime
         df = pd.read_csv(_csv("viral_history.csv"))
         df = _parse_date(df, "cycle")
-        col_kw    = next((c for c in df.columns if "keyword" in c.lower() or "term" in c.lower() or "word" in c.lower()), None)
-        col_score = next((c for c in df.columns if "score" in c.lower() or "count" in c.lower() or "viral" in c.lower()), None)
+        col_kw    = next((c for c in df.columns if any(x in c.lower() for x in ["keyword","term","word","topic"])), None)
+        col_score = next((c for c in df.columns if any(x in c.lower() for x in ["score","count","viral","freq"])), None)
         if col_kw and col_score:
-            cutoff = df["fecha"].max() - pd.Timedelta(days=7).to_pytimedelta().__class__(days=7)
-            import datetime
             cutoff = df["fecha"].max() - datetime.timedelta(days=7)
             df7 = df[df["fecha"] >= cutoff]
             top15 = df7.groupby(col_kw)[col_score].sum().nlargest(15).reset_index()
@@ -537,53 +476,132 @@ def mostrar_historico():
             fig = px.bar(top15, x="Score", y="Keyword", orientation="h",
                          color="Score", color_continuous_scale="Oranges",
                          title="Top 15 keywords virales — últimos 7 días")
+            fig.update_layout(showlegend=False, margin=dict(l=160))
             st.plotly_chart(fig, use_container_width=True, key="hist_viral")
         else:
-            st.info(f"Columnas disponibles: {list(df.columns[:8])}")
+            st.info(f"Columnas: {list(df.columns[:6])}")
     except Exception as e:
         st.warning(f"Viral: {e}")
 
-    # ── 5. COBERTURA GOBIERNO — alineamiento diario ───────────
-    st.subheader("🏛️ Cobertura Gobierno — alineamiento mediático diario")
+    # ── 2. SENTIMIENTO NLP — evolución diaria ────────────────
+    st.subheader("🧠 Sentimiento NLP — evolución diaria")
     try:
-        df = pd.read_csv(_csv("government_coverage_history.csv"))
+        df = pd.read_csv(_csv("sentiment_history.csv"))
         df = _parse_date(df, "cycle")
-        col_align = next((c for c in df.columns if "align" in c.lower()), None)
-        if col_align:
-            df_day = df.groupby(["fecha", col_align]).size().reset_index(name="Fuentes")
-            df_day.columns = ["Fecha","Alineamiento","Fuentes"]
-            fig = px.bar(df_day, x="Fecha", y="Fuentes", color="Alineamiento",
-                         barmode="stack",
-                         title="Alineamiento mediático con el gobierno — evolución diaria")
-            st.plotly_chart(fig, use_container_width=True, key="hist_gobierno")
+        col_sent = next((c for c in df.columns if any(x in c.lower() for x in ["sentiment","score","label","polarity"])), None)
+        col_val  = next((c for c in df.columns if any(x in c.lower() for x in ["score","value","mean","avg","count"]) and c != col_sent), None)
+        if col_sent and col_val:
+            df_day = df.groupby(["fecha", col_sent])[col_val].mean().reset_index()
+            df_day.columns = ["Fecha","Sentimiento","Valor"]
+            fig = px.line(df_day, x="Fecha", y="Valor", color="Sentimiento",
+                          markers=True, title="Sentimiento NLP medio diario",
+                          color_discrete_map={"positive":"#2ecc71","negative":"#e74c3c","neutral":"#95a5a6"})
+            fig.update_layout(legend=dict(orientation="h", y=-0.2), hovermode="x unified")
+            st.plotly_chart(fig, use_container_width=True, key="hist_sentiment")
         else:
-            st.info(f"Columnas disponibles: {list(df.columns[:8])}")
+            # fallback: mostrar columnas numéricas disponibles
+            num_cols = df.select_dtypes("number").columns.tolist()
+            if num_cols:
+                df_day = df.groupby("fecha")[num_cols[0]].mean().reset_index()
+                fig = px.line(df_day, x="fecha", y=num_cols[0], title=f"Sentimiento — {num_cols[0]} diario")
+                st.plotly_chart(fig, use_container_width=True, key="hist_sentiment")
+            else:
+                st.info(f"Columnas: {list(df.columns[:6])}")
     except Exception as e:
-        st.warning(f"Cobertura Gobierno: {e}")
+        st.warning(f"Sentimiento: {e}")
 
-    # ── 6. RED DE ACTORES — peso diario + top relaciones ──────
-    st.subheader("🕸️ Red de Actores — intensidad de relaciones")
+    # ── 3. GEO — cobertura geográfica diaria ─────────────────
+    st.subheader("🌍 Geo — cobertura geográfica diaria")
     try:
-        df = pd.read_csv(_csv("actors_network_history.csv"))
+        df = pd.read_csv(_csv("geo_history.csv"))
         df = _parse_date(df, "cycle")
-        col_w = next((c for c in df.columns if "weight" in c.lower() or "strength" in c.lower() or "count" in c.lower()), None)
-        col_s = next((c for c in df.columns if c.lower() in ["source","actor_a","from","origen"]), None)
-        col_t = next((c for c in df.columns if c.lower() in ["target","actor_b","to","destino"]), None)
-        if col_w:
-            df_day = df.groupby("fecha")[col_w].sum().reset_index()
-            df_day.columns = ["Fecha","Peso total"]
-            fig = px.area(df_day, x="Fecha", y="Peso total",
-                          title="Peso total de relaciones entre actores — evolución diaria",
-                          color_discrete_sequence=["#00cc96"])
-            st.plotly_chart(fig, use_container_width=True, key="hist_actores")
-        if col_s and col_t and col_w:
-            st.markdown("**Top 10 relaciones acumuladas:**")
-            top = df.groupby([col_s, col_t])[col_w].sum().reset_index()
-            top = top.sort_values(col_w, ascending=False).head(10)
-            top.columns = ["Actor A","Actor B","Peso"]
-            st.dataframe(top, use_container_width=True)
+        col_geo   = next((c for c in df.columns if any(x in c.lower() for x in ["country","pais","geo","region","location"])), None)
+        col_count = next((c for c in df.columns if any(x in c.lower() for x in ["count","freq","mentions","total"])), None)
+        if col_geo and col_count:
+            top8 = df.groupby(col_geo)[col_count].sum().nlargest(8).index.tolist()
+            df = df[df[col_geo].isin(top8)]
+            df_day = df.groupby(["fecha", col_geo])[col_count].sum().reset_index()
+            df_day.columns = ["Fecha","País","Noticias"]
+            fig = px.area(df_day, x="Fecha", y="Noticias", color="País",
+                          title="Top 8 países — cobertura diaria",
+                          color_discrete_sequence=px.colors.qualitative.Pastel)
+            fig.update_layout(legend=dict(orientation="h", y=-0.3, font=dict(size=10)),
+                              hovermode="x unified")
+            st.plotly_chart(fig, use_container_width=True, key="hist_geo")
+        else:
+            st.info(f"Columnas: {list(df.columns[:6])}")
     except Exception as e:
-        st.warning(f"Red de Actores: {e}")
+        st.warning(f"Geo: {e}")
+
+    # ── 4. DESINFORMACIÓN — evolución de alertas ─────────────
+    st.subheader("⚠️ Desinformación — alertas diarias")
+    try:
+        df = pd.read_csv(_csv("disinfo_history.csv"))
+        df = _parse_date(df, "cycle")
+        col_cat = next((c for c in df.columns if any(x in c.lower() for x in ["category","tipo","type","label","class"])), None)
+        col_val = next((c for c in df.columns if any(x in c.lower() for x in ["count","score","total","alerts","num"])), None)
+        if col_cat and col_val:
+            df_day = df.groupby(["fecha", col_cat])[col_val].sum().reset_index()
+            df_day.columns = ["Fecha","Categoría","Alertas"]
+            fig = px.bar(df_day, x="Fecha", y="Alertas", color="Categoría",
+                         barmode="stack", title="Alertas de desinformación por categoría — diario",
+                         color_discrete_sequence=px.colors.qualitative.Set1)
+            fig.update_layout(legend=dict(orientation="h", y=-0.3), hovermode="x unified")
+            st.plotly_chart(fig, use_container_width=True, key="hist_disinfo")
+        else:
+            num_cols = df.select_dtypes("number").columns.tolist()
+            if num_cols:
+                df_day = df.groupby("fecha")[num_cols[0]].sum().reset_index()
+                fig = px.bar(df_day, x="fecha", y=num_cols[0], title="Alertas desinformación diarias")
+                st.plotly_chart(fig, use_container_width=True, key="hist_disinfo")
+            else:
+                st.info(f"Columnas: {list(df.columns[:6])}")
+    except Exception as e:
+        st.warning(f"Desinformación: {e}")
+
+    # ── 5. POLARIZACIÓN — índice medio diario ────────────────
+    st.subheader("📈 Polarización — índice medio diario")
+    try:
+        df = pd.read_csv(_csv("polarization_history.csv"))
+        df = _parse_date(df, "cycle")
+        col_pol = next((c for c in df.columns if any(x in c.lower() for x in ["polariz","index","score","value"])), None)
+        if col_pol:
+            df_day = df.groupby("fecha")[col_pol].mean().reset_index()
+            df_day.columns = ["Fecha","Polarización"]
+            media = df_day["Polarización"].mean()
+            fig = px.line(df_day, x="Fecha", y="Polarización", markers=True,
+                          title="Índice de polarización medio diario")
+            fig.update_traces(line_color="#e05c00", line_width=2)
+            fig.add_hline(y=media, line_dash="dot",
+                          annotation_text=f"media {media:.2f}", line_color="grey")
+            fig.update_layout(hovermode="x unified")
+            st.plotly_chart(fig, use_container_width=True, key="hist_polarizacion")
+        else:
+            st.info(f"Columnas: {list(df.columns[:6])}")
+    except Exception as e:
+        st.warning(f"Polarización: {e}")
+
+    # ── 6. NARRATIVAS — top clusters diarios ─────────────────
+    st.subheader("🧩 Narrativas — top 5 clusters diarios")
+    try:
+        df = pd.read_csv(_csv("narratives_history.csv"))
+        df = _parse_date(df, "cycle")
+        df["label_corto"] = df["cluster_label"].str.split().str[:2].str.join(" ") + " [" + df["cluster"].astype(str) + "]"
+        top5 = df.groupby("label_corto")["count"].sum().nlargest(5).index.tolist()
+        df = df[df["label_corto"].isin(top5)]
+        df_day = df.groupby(["fecha","label_corto"])["count"].sum().reset_index()
+        df_day.columns = ["Fecha","Cluster","Noticias"]
+        fig = px.bar(df_day, x="Fecha", y="Noticias", color="Cluster",
+                     barmode="stack",
+                     title="Top 5 clusters narrativos — noticias diarias acumuladas",
+                     color_discrete_sequence=px.colors.qualitative.Set2)
+        fig.update_layout(
+            legend=dict(orientation="h", y=-0.35, font=dict(size=10)),
+            hovermode="x unified", margin=dict(b=130)
+        )
+        st.plotly_chart(fig, use_container_width=True, key="hist_narrativas")
+    except Exception as e:
+        st.warning(f"Narrativas: {e}")
 
     st.markdown("---")
     st.caption(f"Histórico actualizado cada 30 minutos · Odroid-C2 · © 2026 M. Castillo")
