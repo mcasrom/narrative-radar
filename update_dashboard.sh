@@ -140,9 +140,9 @@ echo "[$(timestamp)] --- BLOQUE 5: GIT PUSH ---" >> "$LOG_FILE"
 python3 scripts/update_metadata.py >> "$LOG_FILE" 2>&1
 
 cd "$BASE_DIR"
-git add data/processed/ data/exports/ news.db 2>/dev/null || true
+git add data/processed/ news.db 2>/dev/null || true
 
-if git diff --cached --quiet; then
+if git diff --cached --quiet && git diff --quiet HEAD -- data/processed/; then
     echo "[$(timestamp)] Sin cambios nuevos para subir" >> "$LOG_FILE"
 else
     COMMIT_MSG="auto: pipeline $(date +'%Y-%m-%d %H:%M') | errores=$ERRORES_CRITICOS"
