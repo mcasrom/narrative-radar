@@ -464,13 +464,20 @@ def mostrar_historico():
     try:
         df = pd.read_csv(_csv("narratives_history.csv"))
         df = _parse_date(df, "cycle")
-        top5 = df.groupby("cluster_label")["count"].sum().nlargest(5).index.tolist()
-        df = df[df["cluster_label"].isin(top5)]
-        df_day = df.groupby(["fecha","cluster_label"])["count"].mean().reset_index()
+        # Etiqueta corta: primeras 2 palabras + cluster id
+        df["label_corto"] = df["cluster_label"].str.split().str[:2].str.join(" ") + " [" + df["cluster"].astype(str) + "]"
+        top5 = df.groupby("label_corto")["count"].sum().nlargest(5).index.tolist()
+        df = df[df["label_corto"].isin(top5)]
+        df_day = df.groupby(["fecha","label_corto"])["count"].sum().reset_index()
         df_day.columns = ["Fecha","Cluster","Noticias"]
-        fig = px.line(df_day, x="Fecha", y="Noticias", color="Cluster", markers=True,
-                      title="Top 5 clusters narrativos — media diaria")
-        fig.update_layout(legend=dict(orientation="h", y=-0.25))
+        fig = px.area(df_day, x="Fecha", y="Noticias", color="Cluster",
+                      title="Top 5 clusters narrativos — noticias diarias",
+                      color_discrete_sequence=px.colors.qualitative.Set2)
+        fig.update_layout(
+            legend=dict(orientation="h", y=-0.35, font=dict(size=11)),
+            hovermode="x unified",
+            margin=dict(b=120)
+        )
         st.plotly_chart(fig, use_container_width=True, key="hist_narrativas")
     except Exception as e:
         st.warning(f"Narrativas: {e}")
