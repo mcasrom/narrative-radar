@@ -385,7 +385,7 @@ def guardar_resultados(resultados_csv, nlp, rss, acciones, score_global):
     if history_path.exists():
         df_hist = pd.read_csv(history_path)
         df_hist = pd.concat([df_hist, df_latest], ignore_index=True)
-        df_hist["_d"] = pd.to_datetime(df_hist["timestamp"], errors="coerce", utc=True)
+        df_hist["_d"] = pd.to_datetime(df_hist["timestamp"], errors="coerce", format="mixed", utc=True)
         df_hist = df_hist[df_hist["_d"] >= CORTE_90]
         df_hist = df_hist.drop(columns=["_d"])
     else:

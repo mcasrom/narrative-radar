@@ -75,6 +75,7 @@ def _freshness_block():
 
     PROCESSED = Path(BASE_DIR)
     DATE_COLS = ["date", "fecha", "cycle", "last_update", "timestamp"]
+    EXCLUIR = {"feeds_processed.csv"}  # ficheros de configuración estática
     UMBRAL_OK = 2       # horas
     UMBRAL_CRIT = 24    # horas
     NOW = pd.Timestamp.now(tz="UTC")
@@ -114,7 +115,7 @@ def _freshness_block():
         except Exception as e:
             return "🔴", f"error: {e}", None
 
-    csvs = sorted(PROCESSED.glob("*.csv"))
+    csvs = sorted(p for p in PROCESSED.glob("*.csv") if p.name not in EXCLUIR)
     filas = []
     for p in csvs:
         if ".bak" in p.name:

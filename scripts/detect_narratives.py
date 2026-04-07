@@ -67,12 +67,15 @@ def main():
     summary["last_update"] = now
     summary.to_csv(OUTPUT_FILE, index=False)
 
-    # Historico acumulativo
+    # Historico acumulativo — acumula por cycle (15 filas por ejecución)
     summary["cycle"] = now
     if os.path.exists(HISTORY_FILE):
         hist = pd.read_csv(HISTORY_FILE)
+        # Normalizar cycle a UTC y filtrar últimos 30 días
+        hist["_ts"] = pd.to_datetime(hist["cycle"], errors="coerce", format="mixed", utc=True)
+        cutoff_hist = pd.Timestamp.now(tz="UTC") - pd.Timedelta(days=30)
+        hist = hist[hist["_ts"] >= cutoff_hist].drop(columns=["_ts"])
         hist = pd.concat([hist, summary], ignore_index=True)
-        hist = hist.drop_duplicates(subset=["cluster_label","cycle"], keep="last")
     else:
         hist = summary.copy()
     hist.to_csv(HISTORY_FILE, index=False)
