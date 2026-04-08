@@ -47,6 +47,7 @@ CSVS_SUMMARY = {
     "diversity_index.csv",
     "geo_summary.csv",
     "audit_global_summary.csv",
+    "disinfo_alerts.csv",
 }
 UMBRAL_FECHAS_OK     = 0.80   # 80% filas dentro de 90d
 UMBRAL_FECHAS_WARN   = 0.50
