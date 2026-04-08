@@ -117,7 +117,7 @@ def analyze_ideology(title: str) -> dict:
     return results
 
 os.makedirs(os.path.dirname(OUTPUT), exist_ok=True)
-now = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M")
+now = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M:%S")
 print(f"[IDEOLOGY] {now} — Iniciando detector de narrativas ideológicas")
 
 try:

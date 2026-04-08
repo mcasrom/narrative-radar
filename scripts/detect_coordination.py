@@ -50,7 +50,7 @@ def email_cooldown_ok(module_name, hours=4):
     return True
 
 now = pd.Timestamp.now(tz="UTC")
-now_str = now.strftime("%Y-%m-%d %H:%M")
+now_str = now.strftime("%Y-%m-%d %H:%M:%S")
 print(f"[COORD] {now_str} — Iniciando detector de narrativas coordinadas")
 
 try:

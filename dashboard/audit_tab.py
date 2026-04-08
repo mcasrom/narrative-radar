@@ -99,7 +99,7 @@ def _freshness_block():
             horas = None
             fecha_max = None
             if col:
-                fechas = pd.to_datetime(df[col], errors="coerce", utc=True).dropna()
+                fechas = pd.to_datetime(df[col], format="mixed", errors="coerce", utc=True).dropna()
                 if not fechas.empty:
                     fecha_max = fechas.max()
                     horas = (NOW - fecha_max).total_seconds() / 3600

@@ -172,7 +172,7 @@ def validar_csvs():
             col_fecha = next((c for c in ["date","last_update","cycle","detected_at"]
                               if c in df.columns), None)
             if col_fecha and len(df) > 0:
-                df["_d"] = pd.to_datetime(df[col_fecha], errors="coerce", utc=True)
+                df["_d"] = pd.to_datetime(df[col_fecha], format="mixed", errors="coerce", utc=True)
                 recientes = (df["_d"] >= CORTE_90).sum()
                 entrada["pct_fechas_recientes"] = round(recientes / len(df), 3)
             else:

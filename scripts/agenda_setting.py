@@ -25,7 +25,7 @@ STOPWORDS = ["de","la","el","en","y","a","que","los","del","se","las","por",
 
 os.makedirs(os.path.dirname(OUTPUT), exist_ok=True)
 now = datetime.now(timezone.utc)
-now_str = now.strftime("%Y-%m-%d %H:%M")
+now_str = now.strftime("%Y-%m-%d %H:%M:%S")
 print(f"[AGENDA] {now_str} — Iniciando score de agenda-setting")
 
 try:

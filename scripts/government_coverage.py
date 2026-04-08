@@ -23,7 +23,7 @@ try:
 except Exception as e:
     print(f"Error leyendo {INPUT}: {e}"); exit(1)
 
-now = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M")
+now = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M:%S")
 records = []
 
 for source, group in df.groupby("source"):
