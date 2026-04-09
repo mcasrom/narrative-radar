@@ -13,3 +13,12 @@
 2. **Narrative Radar Light** — versión pública sin paywall, en inglés, 4-5 tabs (headlines, narratives, sentiment, disinfo), repo separado Streamlit Cloud
 3. **Historiales desbloqueados** — revisar retención y gaps históricos
 4. **Semáforo activo** — indicador visual de estado del pipeline en dashboard
+
+## 2026-04-09
+### Cerrado hoy
+- **L2R tab en auditoría** — bloque añadido al final de `render_audit_tab()` en `dashboard/audit_tab.py`; CSV `data/processed/lessons_learned.csv` creado con 4 entradas iniciales (bugs 2026-04-08); filtros por impacto/módulo; formulario de entrada desde dashboard
+
+### Pendiente
+2. **Narrative Radar Light** — versión pública sin paywall, en inglés, 4-5 tabs (headlines, narratives, sentiment, disinfo), repo separado Streamlit Cloud
+3. **Historiales desbloqueados** — revisar retención y gaps históricos
+4. **Semáforo activo** — indicador visual de estado del pipeline visible en todas las tabs (audit_tab ya tiene semáforo local; falta uno global)
