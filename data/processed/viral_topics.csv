@@ -1,44 +1,53 @@
 keyword,count_now,count_base,ratio,viral_score,sources,n_sources,sample_title,detected_at
-pagos,4,1,54.47,100,"google_news_es, elmundo, okdiario, google_news_economia",4,La banca negocia ya con el gran comercio los nuevos pagos físicos con Bizum - ABC,2026-04-09 03:40
-europeos,3,2,20.43,100,"expansion, elpais, google_news_internacional",3,El crudo más barato da alas a los bonos públicos europeos,2026-04-09 03:40
-banca,3,1,40.85,100,"google_news_es, expansion",2,La banca negocia ya con el gran comercio los nuevos pagos físicos con Bizum - ABC,2026-04-09 03:40
-mirar,3,4,10.21,100,"20minutos, heraldo_aragon, sur",3,Mirar hacia arriba,2026-04-09 03:40
-cobrar,4,7,7.78,100,"expansion, okdiario, google_news_economia",3,Hacienda prevé cobrar un 60% más de IRPF neto en la Campaña por el rally bursátil e inmobiliario,2026-04-09 03:40
-reunirse,3,5,8.17,100,"okdiario, huffington_es",2,Trump arremete contra la OTAN tras reunirse con Rutte: «No estuvo ahí cuando la necesitábamos y no estará»,2026-04-09 03:40
-rutte,7,12,7.94,100,"okdiario, huffington_es, elpais, google_news_internacional, 20minutos",5,Trump arremete contra la OTAN tras reunirse con Rutte: «No estuvo ahí cuando la necesitábamos y no estará»,2026-04-09 03:40
-estuvo,5,2,34.04,100,"okdiario, huffington_es, elpais, 20minutos, elmundo",5,Trump arremete contra la OTAN tras reunirse con Rutte: «No estuvo ahí cuando la necesitábamos y no estará»,2026-04-09 03:40
-embargar,4,0,5.0,100,"elmundo, okdiario, google_news_economia",3,Un juzgado de EEUU amenaza con embargar el dinero de la Selección en el Mundial por impagos del Estado a las renovables,2026-04-09 03:40
-mallorca,4,6,9.08,100,okdiario,1,Rosario Sánchez convierte en infinitas sus vacaciones de Semana Santa en Mallorca con paso fugaz por Turismo,2026-04-09 03:40
-mayoría,3,4,10.21,100,"elmundo, elpais, google_news_internacional",3,Seis provincias con Vox luchando por un diputado marcan la mayoría del PP o el hundimiento del PSOE en Andalucía,2026-04-09 03:40
-liverpool,3,4,10.21,100,"france24_es, google_news_es, elpais",3,PSG se impone al Liverpool y mantiene firme su opción de reeditar el título,2026-04-09 03:40
-increíble,3,1,40.85,100,"20minutos, google_news_internacional",2,"Una supermodelo internacional, primera desenmascara de 'Mask Singer' en su estreno: ""¡Increíble!""",2026-04-09 03:40
-vitoria,3,8,5.11,100,elcorreo,1,Vitoria invertirá 190.000 euros más para atajar el mayor problema del vertedero,2026-04-09 03:40
-deutsche,3,0,5.0,100,"okdiario, google_news_economia",2,Deutsche Bank pide embargar los pagos de Adidas a la Selección para cobrar las deudas de España por los impagos a las renovables,2026-04-09 03:40
-adidas,3,1,40.85,100,"okdiario, google_news_economia",2,Deutsche Bank pide embargar los pagos de Adidas a la Selección para cobrar las deudas de España por los impagos a las renovables,2026-04-09 03:40
-instituto,3,1,40.85,100,okdiario,1,La matona del instituto de Mallorca: cómo una adolescente de 16 años transformó la vida de su víctima en pesadilla,2026-04-09 03:40
-deudas,3,2,20.43,100,"okdiario, google_news_economia",2,Deutsche Bank pide embargar los pagos de Adidas a la Selección para cobrar las deudas de España por los impagos a las renovables,2026-04-09 03:40
-fundación,4,8,6.81,100,"heraldo_aragon, google_news_es, sur",3,Fundación Ibercaja celebra 150 años de Ilusión compartida,2026-04-09 03:40
-selección,5,4,17.02,100,"google_news_economia, elmundo, okdiario",3,La selección puede sufrir embargos en el Mundial de fútbol por los incumplimientos de España con EE.UU. con las renovables - El Debate,2026-04-09 03:40
-estado,3,8,5.11,100,"heraldo_aragon, google_news_economia, elespanol, google_news_internacional, elmundo",5,Estados Unidos rompe una red de espionaje ruso en routers domésticos y deja a España fuera,2026-04-09 03:40
-jorge,3,8,5.11,100,"heraldo_aragon, france24_es",2,Jorge Asín: “Ensayé con mi grupo Anatema al lado del zulo donde secuestraron a Quini”,2026-04-09 03:40
-rompe,3,6,6.81,100,"heraldo_aragon, huffington_es, elespanol",3,Estados Unidos rompe una red de espionaje ruso en routers domésticos y deja a España fuera,2026-04-09 03:40
-quería,3,4,10.21,100,"heraldo_aragon, elespanol, okdiario",3,"La sorprendente altura que tenía el zaragozano Aday Mara con 8 años: ""Quería ser portero como Casillas""",2026-04-09 03:40
-renovables,5,6,11.35,100,"google_news_economia, elmundo, expansion, okdiario",4,La selección puede sufrir embargos en el Mundial de fútbol por los incumplimientos de España con EE.UU. con las renovables - El Debate,2026-04-09 03:40
-singer,4,11,4.95,99,"20minutos, google_news_internacional, okdiario",3,"Una supermodelo internacional, primera desenmascara de 'Mask Singer' en su estreno: ""¡Increíble!""",2026-04-09 03:40
-mundial,5,15,4.54,90,"heraldo_aragon, google_news_economia, levante_emv, elmundo, expansion",5,"Jorge Valdano, jugador del Real Zaragoza en el Mundial 82: ""Estaba perdiendo la oportunidad de mi vida""",2026-04-09 03:40
-frágil,5,18,3.78,75,"google_news_economia, heraldo_aragon, france24_es, google_news_es, elcorreo",5,España tiene una economía frágil - The Objective,2026-04-09 03:40
-santa,3,11,3.71,74,"google_news_economia, okdiario, expansion",3,Trucos del Banco de España para ahorrar si hemos gastado de más en Semana Santa - 20Minutos,2026-04-09 03:40
-cinco,5,19,3.58,71,"heraldo_aragon, 20minutos, google_news_economia, google_news_es, elmundo",5,"Guti podría jugar en los últimos cinco partidos de liga con el Real Zaragoza, según la previsión",2026-04-09 03:40
-primera,6,25,3.27,65,"google_news_internacional, 20minutos, okdiario, huffington_es",4,Vélez mantiene el impulso internacional: ecommerce propio en EEUU y primera tienda en España - Modaes,2026-04-09 03:40
-serie,3,13,3.14,62,"expansion, bbc_mundo, elcorreo",3,La corrupción política ¿va de serie en los partidos o es un extra?,2026-04-09 03:40
-autónomos,3,13,3.14,62,"heraldo_aragon, elespanol, elcorreo",3,Las cuotas de más de medio millón de autónomos se disparan 135 euros al mes: a quienes afecta la subida,2026-04-09 03:40
-amenaza,4,18,3.03,60,"france24_es, elmundo, expansion, elcorreo, google_news_internacional",5,"De una amenaza de aniquilación a la tregua: Trump siembra una confusión que ""daña su credibilidad""",2026-04-09 03:40
-málaga,9,43,2.85,57,sur,1,Las ventas de coches usados se frenan aunque todavía triplican a las de los nuevos en Málaga,2026-04-09 03:40
-momento,3,15,2.72,54,"expansion, elcorreo, sur",3,La banca sale de pérdidas en Bolsa: ¿Ha llegado su momento?,2026-04-09 03:40
-tregua,15,85,2.4,48,"heraldo_aragon, france24_es, google_news_es, expansion, elespanol",5,La frágil tregua en Irán no silencia los ataques en el Golfo Pérsico,2026-04-09 03:40
-samanta,3,17,2.4,48,"google_news_es, huffington_es",2,"‘El buen mal’, de Samanta Schweblin, gana el primer Premio AENA de Narrativa Hispanoamericana - Fundación Gabo",2026-04-09 03:40
-posible,4,24,2.27,45,"france24_es, elmundo",2,¿A qué se debe el posible aumento en defensa en Francia?,2026-04-09 03:40
-schweblin,3,19,2.15,43,"google_news_es, huffington_es",2,"‘El buen mal’, de Samanta Schweblin, gana el primer Premio AENA de Narrativa Hispanoamericana - Fundación Gabo",2026-04-09 03:40
-podría,3,19,2.15,43,"heraldo_aragon, france24_es, elespanol",3,"Guti podría jugar en los últimos cinco partidos de liga con el Real Zaragoza, según la previsión",2026-04-09 03:40
-semana,4,26,2.09,41,"google_news_economia, okdiario, google_news_internacional, elmundo",4,Trucos del Banco de España para ahorrar si hemos gastado de más en Semana Santa - 20Minutos,2026-04-09 03:40
-muertos,4,27,2.02,40,"france24_es, elmundo",2,Bombardeos israelíes sin precedentes en Líbano dejan cientos de muertos,2026-04-09 03:40
+herramienta,3,1,41.19,100,"bbc_mundo, okdiario, elespanol",3,Por qué el estrecho de Ormuz es estratégico y cómo Irán lo ha usado como herramienta de presión en la guerra con EE.UU. e Israel,2026-04-09 04:09
+montero,4,9,6.1,100,"elpais_espana, google_news_es, elconfidencial, elmundo",4,Irene Montero se acerca a Gabriel Rufián para intentar reflotar a Podemos,2026-04-09 04:09
+sentencia,3,3,13.73,100,"france24_es, elespanol",2,Corte de EE. UU. revoca la sentencia contra el expresidente hondureño Juan Orlando Hernández por narcotráfico,2026-04-09 04:09
+mirar,3,3,13.73,100,"20minutos, heraldo_aragon, sur",3,Mirar hacia arriba,2026-04-09 04:09
+jorge,3,8,5.15,100,"heraldo_aragon, france24_es",2,Jorge Asín: “Ensayé con mi grupo Anatema al lado del zulo donde secuestraron a Quini”,2026-04-09 04:09
+mundial,5,13,5.28,100,"heraldo_aragon, google_news_economia, levante_emv, elmundo, expansion",5,"Jorge Valdano, jugador del Real Zaragoza en el Mundial 82: ""Estaba perdiendo la oportunidad de mi vida""",2026-04-09 04:09
+rompe,3,6,6.86,100,"heraldo_aragon, huffington_es, elespanol",3,Estados Unidos rompe una red de espionaje ruso en routers domésticos y deja a España fuera,2026-04-09 04:09
+estado,3,8,5.15,100,"huffington_es, elpais_internacional, google_news_internacional, heraldo_aragon, google_news_economia",5,Giro en la UE: Von der Leyen quiere fusionar empresas para crear grandes multinacionales que compitan con los gigantes chinos y estadounidenses,2026-04-09 04:09
+renovables,3,8,5.15,100,"google_news_economia, elmundo, expansion",3,La selección puede sufrir embargos en el Mundial de fútbol por los incumplimientos de España con EE.UU. con las renovables - El Debate,2026-04-09 04:09
+mallorca,4,6,9.15,100,okdiario,1,Rosario Sánchez convierte en infinitas sus vacaciones de Semana Santa en Mallorca con paso fugaz por Turismo,2026-04-09 04:09
+instituto,3,1,41.19,100,okdiario,1,La matona del instituto de Mallorca: cómo una adolescente de 16 años transformó la vida de su víctima en pesadilla,2026-04-09 04:09
+banca,3,1,41.19,100,"google_news_es, expansion",2,La banca negocia ya con el gran comercio los nuevos pagos físicos con Bizum - ABC,2026-04-09 04:09
+reunirse,3,5,8.24,100,"okdiario, huffington_es",2,Trump arremete contra la OTAN tras reunirse con Rutte: «No estuvo ahí cuando la necesitábamos y no estará»,2026-04-09 04:09
+rutte,8,12,9.15,100,"okdiario, huffington_es, google_news_es, elpais, google_news_internacional",5,Trump arremete contra la OTAN tras reunirse con Rutte: «No estuvo ahí cuando la necesitábamos y no estará»,2026-04-09 04:09
+estuvo,5,3,22.88,100,"okdiario, huffington_es, google_news_es, elpais, 20minutos",5,Trump arremete contra la OTAN tras reunirse con Rutte: «No estuvo ahí cuando la necesitábamos y no estará»,2026-04-09 04:09
+europeos,3,2,20.59,100,"expansion, elpais, google_news_internacional",3,El crudo más barato da alas a los bonos públicos europeos,2026-04-09 04:09
+mayoría,3,4,10.3,100,"elmundo, elpais, google_news_internacional",3,Seis provincias con Vox luchando por un diputado marcan la mayoría del PP o el hundimiento del PSOE en Andalucía,2026-04-09 04:09
+rufián,3,3,13.73,100,"elpais_espana, google_news_es, elconfidencial, elmundo",4,Irene Montero se acerca a Gabriel Rufián para intentar reflotar a Podemos,2026-04-09 04:09
+increíble,3,1,41.19,100,"20minutos, google_news_internacional",2,"Una supermodelo internacional, primera desenmascara de 'Mask Singer' en su estreno: ""¡Increíble!""",2026-04-09 04:09
+hungría,4,7,7.85,100,"elpais_internacional, google_news_es, google_news_internacional, france24_es",4,El pilar europeo de la internacional ultra se tambalea con las elecciones en Hungría,2026-04-09 04:09
+metros,3,6,6.86,100,"okdiario, heraldo_aragon, el_confidencial_tech",3,Tragedia de Adamuz: un error mortal de 67 metros,2026-04-09 04:09
+exposición,3,3,13.73,100,"okdiario, expansion",2,La exposición del Gobierno que ataca a PP y Vox también considera «extremista» el lema «Sánchez a prisión»,2026-04-09 04:09
+chloe,3,0,5.0,100,okdiario,1,La verdad del ‘Gatogate’: la ex mujer de Ábalos puso la gata Chloe a nombre del ex ministro tras la separación,2026-04-09 04:09
+tambalea,4,4,13.73,100,"elpais_internacional, google_news_es, france24_es, elespanol",4,El pilar europeo de la internacional ultra se tambalea con las elecciones en Hungría,2026-04-09 04:09
+ultra,4,2,27.46,100,"okdiario, elpais_internacional, google_news_es, google_news_internacional, google_news_economia",5,‘Caso Plus Ultra’: ‘Julito’ Martínez advierte al Senado que están vulnerando su integridad física por citarle con una depresión aguda,2026-04-09 04:09
+francia,5,10,6.86,100,"france24_es, elpais_internacional, google_news_internacional",3,Francia acelera su rearme y duplica el gasto militar ante un escenario de tensión con Rusia,2026-04-09 04:09
+pilar,3,2,20.59,100,"elpais_internacional, google_news_es, heraldo_aragon",3,El pilar europeo de la internacional ultra se tambalea con las elecciones en Hungría,2026-04-09 04:09
+defensa,3,9,4.58,91,"elpais_espana, france24_es, expansion",3,En defensa del odio,2026-04-09 04:09
+elecciones,4,12,4.58,91,"elpais_internacional, google_news_es, google_news_internacional, france24_es",4,El pilar europeo de la internacional ultra se tambalea con las elecciones en Hungría,2026-04-09 04:09
+fundación,3,9,4.58,91,"heraldo_aragon, google_news_es",2,Fundación Ibercaja celebra 150 años de Ilusión compartida,2026-04-09 04:09
+santa,3,11,3.74,74,"google_news_economia, okdiario, expansion",3,Trucos del Banco de España para ahorrar si hemos gastado de más en Semana Santa - 20Minutos,2026-04-09 04:09
+espacio,3,11,3.74,74,"google_news_es, el_confidencial_tech, google_news_internacional",3,Rufián y Montero buscan este jueves lanzar nuevas propuestas para reconfigurar el espacio político de la izquierda - RTVE.es,2026-04-09 04:09
+jueves,3,11,3.74,74,"okdiario, google_news_es, levante_emv",3,"Los OK y KO del jueves, 9 de abril de 2026",2026-04-09 04:09
+amenaza,5,19,3.61,72,"elpais_internacional, google_news_internacional, france24_es, elmundo, expansion",5,La paz entre Irán y Estados Unidos se negociará en Pakistán bajo la amenaza de los bandazos de Trump,2026-04-09 04:09
+singer,3,12,3.43,68,"20minutos, google_news_internacional, okdiario",3,"Una supermodelo internacional, primera desenmascara de 'Mask Singer' en su estreno: ""¡Increíble!""",2026-04-09 04:09
+primera,5,24,2.86,57,"elpais_internacional, google_news_internacional, 20minutos, okdiario",4,Un panadero del sur de Francia prepara su decimoprimera misión humanitaria a Ucrania,2026-04-09 04:09
+cinco,4,19,2.89,57,"heraldo_aragon, 20minutos, google_news_economia, google_news_es",4,"Guti podría jugar en los últimos cinco partidos de liga con el Real Zaragoza, según la previsión",2026-04-09 04:09
+frágil,4,19,2.89,57,"google_news_economia, heraldo_aragon, france24_es, google_news_es",4,España tiene una economía frágil - The Objective,2026-04-09 04:09
+fuera,3,15,2.75,54,"okdiario, heraldo_aragon, expansion",3,"Chloe, Sacha y Roma: las mascotas que esperan a José Luis Ábalos fuera de prisión",2026-04-09 04:09
+dinero,3,15,2.75,54,"okdiario, elmundo, 20minutos, huffington_es",4,Una exposición pagada por el Gobierno con dinero del ‘Año Franco’ presenta a Abascal y Ayuso como «extremistas»,2026-04-09 04:09
+pakistán,4,21,2.62,52,"elpais_internacional, google_news_internacional, elespanol, france24_es",4,La paz entre Irán y Estados Unidos se negociará en Pakistán bajo la amenaza de los bandazos de Trump,2026-04-09 04:09
+meses,3,17,2.42,48,"okdiario, heraldo_aragon, elmundo",3,Vivienda gasta 400.000 euros en otro ‘call center’ pese a que el 047 recibió en dos meses menos llamadas que Línea Madrid en un día,2026-04-09 04:09
+rtve.es,3,17,2.42,48,google_news_es,1,Rufián y Montero buscan este jueves lanzar nuevas propuestas para reconfigurar el espacio político de la izquierda - RTVE.es,2026-04-09 04:09
+posible,4,24,2.29,45,"elpais_espana, france24_es, elmundo",3,"El Gobierno, sobre el proceso a Ábalos: “Es imposible hablar de nada positivo esta semana, el juicio es desolador”",2026-04-09 04:09
+samanta,3,18,2.29,45,"google_news_es, huffington_es",2,"‘El buen mal’, de Samanta Schweblin, gana el primer Premio AENA de Narrativa Hispanoamericana - Fundación Gabo",2026-04-09 04:09
+agencia,3,19,2.17,43,"heraldo_aragon, google_news_es, sur",3,La Agencia Tributaria confirma si personas en paro deben presentar la declaración,2026-04-09 04:09
+tregua,14,88,2.18,43,"heraldo_aragon, france24_es, google_news_es, expansion, elespanol",5,La frágil tregua en Irán no silencia los ataques en el Golfo Pérsico,2026-04-09 04:09
+podría,3,19,2.17,43,"heraldo_aragon, france24_es, elespanol",3,"Guti podría jugar en los últimos cinco partidos de liga con el Real Zaragoza, según la previsión",2026-04-09 04:09
+quién,3,20,2.06,41,"elespanol, okdiario",2,¿Quién es Satoshi Nakamoto? El enigma del criptógrafo inglés en Malta al que el NYT asocia con el anónimo fundador de Bitcoin,2026-04-09 04:09
+schweblin,3,20,2.06,41,"google_news_es, huffington_es",2,"‘El buen mal’, de Samanta Schweblin, gana el primer Premio AENA de Narrativa Hispanoamericana - Fundación Gabo",2026-04-09 04:09
+ee.uu,5,34,2.02,40,"bbc_mundo, google_news_economia, google_news_es",3,Por qué el estrecho de Ormuz es estratégico y cómo Irán lo ha usado como herramienta de presión en la guerra con EE.UU. e Israel,2026-04-09 04:09
+semana,4,27,2.03,40,"elpais_espana, google_news_economia, okdiario, google_news_internacional",4,"El Gobierno, sobre el proceso a Ábalos: “Es imposible hablar de nada positivo esta semana, el juicio es desolador”",2026-04-09 04:09
