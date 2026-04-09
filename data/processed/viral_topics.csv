@@ -1,108 +1,97 @@
 keyword,count_now,count_base,ratio,viral_score,sources,n_sources,sample_title,detected_at
-cobrar,4,7,6.06,100,"expansion, okdiario, google_news_economia",3,Hacienda prevé cobrar un 60% más de IRPF neto en la Campaña por el rally bursátil e inmobiliario,2026-04-09 01:40
-máscara,5,1,53.03,100,okdiario,1,"‘Mask Singer’: ¿quién era Micrófono, primera máscara eliminada de la quinta temporada?",2026-04-09 01:40
-flick,3,3,10.61,100,"elmundo, okdiario",2,"Flick alza la voz contra el arbitraje: ""No entiendo para qué tenemos el VAR""",2026-04-09 01:40
-deudas,3,2,15.91,100,"okdiario, google_news_economia",2,Deutsche Bank pide embargar los pagos de Adidas a la Selección para cobrar las deudas de España por los impagos a las renovables,2026-04-09 01:40
-adidas,3,1,31.82,100,"okdiario, google_news_economia",2,Deutsche Bank pide embargar los pagos de Adidas a la Selección para cobrar las deudas de España por los impagos a las renovables,2026-04-09 01:40
-pagos,3,1,31.82,100,"elmundo, okdiario, google_news_economia",3,Un juzgado de EEUU amenaza con embargar el dinero de la Selección en el Mundial por impagos del Estado a las renovables,2026-04-09 01:40
-deutsche,3,0,5.0,100,"okdiario, google_news_economia",2,Deutsche Bank pide embargar los pagos de Adidas a la Selección para cobrar las deudas de España por los impagos a las renovables,2026-04-09 01:40
-árbitro,3,3,10.61,100,"okdiario, google_news_es",2,"Simeone y la jugada por la que clama el Barcelona: «El árbitro interpretó como Pubill, es sentido común»",2026-04-09 01:40
-torrevieja,3,0,5.0,100,"google_news_internacional, levante_emv",2,Torrevieja: IX Feria Internacional 'Expo Torrevieja 2026' - Todo Cultura Vega Baja,2026-04-09 01:40
-semifinales,4,3,14.14,100,"sur, heraldo_aragon, okdiario, huffington_es",4,"AEK o Joventut, el rival en semifinales se conocerá el día 15",2026-04-09 01:40
-micrófono,4,0,5.0,100,"okdiario, google_news_internacional",2,"‘Mask Singer’: ¿quién era Micrófono, primera máscara eliminada de la quinta temporada?",2026-04-09 01:40
-times,4,6,7.07,100,google_news_es,1,Petróleo se desploma por debajo de 95 dólares y el Dow Jones se dispara tras cese del fuego con Irán - Los Angeles Times,2026-04-09 01:40
-‘mask,7,1,74.24,100,okdiario,1,"‘Mask Singer’: ¿quién era Micrófono, primera máscara eliminada de la quinta temporada?",2026-04-09 01:40
-falta,7,12,6.19,100,"google_news_es, levante_emv, 20minutos, okdiario, elcorreo",5,"Julián Álvarez y su confesión más sorpendente tras su golazo de falta ante el Barça: ""Ayer tiré cinco o seis y no metí ni una"" - DAZN",2026-04-09 01:40
-álvarez,7,13,5.71,100,"google_news_es, okdiario, elcorreo, elespanol",4,"Julián Álvarez y su confesión más sorpendente tras su golazo de falta ante el Barça: ""Ayer tiré cinco o seis y no metí ni una"" - DAZN",2026-04-09 01:40
-julián,10,4,26.52,100,"google_news_es, elpais, okdiario, elcorreo, elespanol",5,"Julián Álvarez y su confesión más sorpendente tras su golazo de falta ante el Barça: ""Ayer tiré cinco o seis y no metí ni una"" - DAZN",2026-04-09 01:40
-pubill,3,1,31.82,100,"okdiario, google_news_es",2,Esta es la jugada por la que el Barça se siente perjudicado en la Champions con Pubill como protagonista,2026-04-09 01:40
-barça,14,22,6.75,100,"okdiario, google_news_es, elpais, heraldo_aragon, levante_emv",5,Esta es la jugada por la que el Barça se siente perjudicado en la Champions con Pubill como protagonista,2026-04-09 01:40
-jugada,3,0,5.0,100,"okdiario, google_news_es",2,Esta es la jugada por la que el Barça se siente perjudicado en la Champions con Pubill como protagonista,2026-04-09 01:40
-cuartos,14,20,7.42,100,"google_news_es, elpais, elcorreo, huffington_es, elespanol",5,Kvaratskhelia vuelve a marcar y PSG vence 2-0 a Liverpool en ida de cuartos de final de la Champions - Los Angeles Times,2026-04-09 01:40
-atlético,28,42,7.07,100,"elpais, google_news_es, heraldo_aragon, elcorreo, okdiario",5,El Atlético no tiene piedad del Barça en la ida de los cuartos de final,2026-04-09 01:40
-prueba,3,6,5.3,100,"huffington_es, france24_es, google_news_es",3,Una argentina prueba por primera vez el bocadillo de calamares y tiene un veredicto MUY claro,2026-04-09 01:40
-pistas,7,0,5.0,100,"google_news_internacional, okdiario",2,Las pistas de Micrófono en Mask Singer sugieren un artista internacional relacionado con Woody Allen - antena3.com,2026-04-09 01:40
-salva,5,4,13.26,100,"google_news_es, 20minutos, elcorreo",3,Penal de Cucho Hernández salva empate para Real Betis ante Braga en cuartos de la Liga Europa - Los Angeles Times,2026-04-09 01:40
-escritora,3,1,31.82,100,"huffington_es, elpais, google_news_es",3,La escritora argentina Samanta Schweblin gana el primer Premio Aena de Narrativa Hispanoamericana,2026-04-09 01:40
-dotado,3,1,31.82,100,"google_news_es, eldiario",2,"Samanta Schweblin gana el primer Premio Aena de Narrativa Hispanoamericana, dotado con un millón de euros - Cadena SER",2026-04-09 01:40
-teorías,6,0,5.0,100,okdiario,1,Todas las pistas de Momia de ‘Mask Singer 5’: teorías para saber quién es,2026-04-09 01:40
-cubarsí,3,0,5.0,100,"google_news_es, okdiario, elespanol",3,¿Por qué ha sido expulsado Pau Cubarsí en el Barcelona vs Atlético de Madrid y por qué se pierde la vuelta de cuartos de final de la Champions League 2025/26? - DAZN,2026-04-09 01:40
-berlín,4,1,42.43,100,sur,1,Vídeo resumen de la victoria del Unicaja ante el Alba Berlín,2026-04-09 01:40
-unicaja,5,3,17.68,100,sur,1,Vídeo resumen de la victoria del Unicaja ante el Alba Berlín,2026-04-09 01:40
-millón,16,15,11.31,100,"elcorreo, okdiario, sur, heraldo_aragon, google_news_es",5,Con Samanta Schweblin Planeta también gana el 'millón literario' de AENA,2026-04-09 01:40
-uefa.com,3,1,31.82,100,google_news_es,1,Crónica del Paris Saint-Germain - Liverpool 2-0 de la ida de cuartos de final de la UEFA Champions League: sólido triunfo un Paris muy superior - UEFA.com,2026-04-09 01:40
-triunfo,4,2,21.21,100,"google_news_es, levante_emv, elcorreo, heraldo_aragon",4,Crónica del Paris Saint-Germain - Liverpool 2-0 de la ida de cuartos de final de la UEFA Champions League: sólido triunfo un Paris muy superior - UEFA.com,2026-04-09 01:40
-crónica,3,5,6.36,100,google_news_es,1,Crónica del Paris Saint-Germain - Liverpool 2-0 de la ida de cuartos de final de la UEFA Champions League: sólido triunfo un Paris muy superior - UEFA.com,2026-04-09 01:40
-expulsión,3,0,5.0,100,"okdiario, eldiario, elcorreo",3,Tremendo calentón de Flick: «¿Para qué tenemos el VAR? ¡Era penalti y expulsión contra el Atleti!»,2026-04-09 01:40
-penalti,3,2,15.91,100,"okdiario, elcorreo, google_news_es",3,Tremendo calentón de Flick: «¿Para qué tenemos el VAR? ¡Era penalti y expulsión contra el Atleti!»,2026-04-09 01:40
-cupón,3,5,6.36,100,"sur, okdiario",2,"Comprobar Lotería del miércoles, 08 de abril: resultados de la Bonoloto, del Cupón de la ONCE y de la Quiniela",2026-04-09 01:40
-atleti,8,7,12.12,100,"google_news_es, okdiario, elcorreo, elmundo, elpais",5,Barcelona - Atlético en directo | Julián Alvarez y Sorloth dan ventaja al Atleti en la eliminatoria - EL PAÍS,2026-04-09 01:40
-ventaja,6,4,15.91,100,"google_news_es, elpais, elespanol",3,Barcelona - Atlético en directo | Julián Alvarez y Sorloth dan ventaja al Atleti en la eliminatoria - EL PAÍS,2026-04-09 01:40
-sorloth,4,2,21.21,100,"google_news_es, elpais",2,Barcelona - Atlético en directo | Julián Alvarez y Sorloth dan ventaja al Atleti en la eliminatoria - EL PAÍS,2026-04-09 01:40
-alvarez,4,0,5.0,100,"google_news_es, elpais",2,Barcelona - Atlético en directo | Julián Alvarez y Sorloth dan ventaja al Atleti en la eliminatoria - EL PAÍS,2026-04-09 01:40
-vence,3,0,5.0,100,"google_news_es, heraldo_aragon, huffington_es",3,Kvaratskhelia vuelve a marcar y PSG vence 2-0 a Liverpool en ida de cuartos de final de la Champions - Los Angeles Times,2026-04-09 01:40
-golazo,3,0,5.0,100,"google_news_es, okdiario",2,"Julián Álvarez y su confesión más sorpendente tras su golazo de falta ante el Barça: ""Ayer tiré cinco o seis y no metí ni una"" - DAZN",2026-04-09 01:40
-angeles,4,1,42.43,100,google_news_es,1,Petróleo se desploma por debajo de 95 dólares y el Dow Jones se dispara tras cese del fuego con Irán - Los Angeles Times,2026-04-09 01:40
-estuvo,4,2,21.21,100,"okdiario, huffington_es, elpais, elmundo",4,Trump arremete contra la OTAN tras reunirse con Rutte: «No estuvo ahí cuando la necesitábamos y no estará»,2026-04-09 01:40
-fundación,4,6,7.07,100,"google_news_es, sur, okdiario, heraldo_aragon",4,"‘El buen mal’, de Samanta Schweblin, gana el primer Premio AENA de Narrativa Hispanoamericana - Fundación Gabo",2026-04-09 01:40
-hispanoamericana,6,1,63.64,100,"google_news_es, huffington_es, 20minutos, eldiario",4,"‘El buen mal’, de Samanta Schweblin, gana el primer Premio AENA de Narrativa Hispanoamericana - Fundación Gabo",2026-04-09 01:40
-increíble,3,1,31.82,100,"20minutos, google_news_internacional",2,"Una supermodelo internacional, primera desenmascara de 'Mask Singer' en su estreno: ""¡Increíble!""",2026-04-09 01:40
-premio,18,21,9.09,100,"google_news_es, sur, okdiario, heraldo_aragon, huffington_es",5,"‘El buen mal’, de Samanta Schweblin, gana el primer Premio AENA de Narrativa Hispanoamericana - Fundación Gabo",2026-04-09 01:40
-schweblin,21,0,5.0,100,"google_news_es, huffington_es, elcorreo, okdiario, sur",5,"‘El buen mal’, de Samanta Schweblin, gana el primer Premio AENA de Narrativa Hispanoamericana - Fundación Gabo",2026-04-09 01:40
-samanta,19,0,5.0,100,"google_news_es, huffington_es, elcorreo, okdiario, sur",5,"‘El buen mal’, de Samanta Schweblin, gana el primer Premio AENA de Narrativa Hispanoamericana - Fundación Gabo",2026-04-09 01:40
-argentina,6,6,10.61,100,"france24_es, huffington_es, elpais, google_news_es, elcorreo",5,"""La ley de glaciares no se toca"": protestas en Argentina por posible modificación de la norma",2026-04-09 01:40
-rutte,8,9,9.43,100,"okdiario, huffington_es, elpais, google_news_internacional, 20minutos",5,Trump arremete contra la OTAN tras reunirse con Rutte: «No estuvo ahí cuando la necesitábamos y no estará»,2026-04-09 01:40
-embargar,4,0,5.0,100,"elmundo, okdiario, google_news_economia",3,Un juzgado de EEUU amenaza con embargar el dinero de la Selección en el Mundial por impagos del Estado a las renovables,2026-04-09 01:40
-reunirse,3,5,6.36,100,"okdiario, huffington_es",2,Trump arremete contra la OTAN tras reunirse con Rutte: «No estuvo ahí cuando la necesitábamos y no estará»,2026-04-09 01:40
-regularización,3,3,10.61,100,"elespanol, eldiario, elmundo_espana",3,El Gobierno de Sánchez incumple la normativa de la UE al no informar a Bruselas sobre la regularización masiva,2026-04-09 01:40
-residencia,3,5,6.36,100,"elespanol, sur, google_news_internacional",3,"""Esta es mi preferida"": los chats pedófilos de la directora de una residencia de jóvenes en Madrid que pasaba vídeos de niñas",2026-04-09 01:40
-castigar,3,1,31.82,100,"elespanol, elcorreo",2,Trump estudia castigar a los miembros de la OTAN menos colaborativos en Irán: España podría ser el más afectado,2026-04-09 01:40
-estudia,4,4,10.61,100,"elespanol, elcorreo, sur, google_news_economia",4,Trump estudia castigar a los miembros de la OTAN menos colaborativos en Irán: España podría ser el más afectado,2026-04-09 01:40
-tambalea,5,1,53.03,100,"elespanol, google_news_es, eldiario, bbc_mundo, elmundo",5,El alto el fuego de EEUU e Irán se tambalea por los ataques de Israel en Líbano y las dudas sobre el estrecho de Ormuz,2026-04-09 01:40
-goles,4,8,5.3,100,"google_news_internacional, elcorreo, okdiario",3,"Riestra tuvo su debut internacional con un marco de fiesta en un estadio gigante, pero sin goles - Yahoo",2026-04-09 01:40
-europeos,3,3,10.61,100,"expansion, elpais, google_news_internacional",3,El crudo más barato da alas a los bonos públicos europeos,2026-04-09 01:40
-narrativa,11,2,58.33,100,"google_news_es, okdiario, heraldo_aragon, huffington_es, 20minutos",5,"‘El buen mal’, de Samanta Schweblin, gana el primer Premio AENA de Narrativa Hispanoamericana - Fundación Gabo",2026-04-09 01:40
-selección,4,4,10.61,100,"elmundo, okdiario, google_news_economia",3,Un juzgado de EEUU amenaza con embargar el dinero de la Selección en el Mundial por impagos del Estado a las renovables,2026-04-09 01:40
-renovables,4,6,7.07,100,"elmundo, expansion, okdiario",3,Un juzgado de EEUU amenaza con embargar el dinero de la Selección en el Mundial por impagos del Estado a las renovables,2026-04-09 01:40
-singer,11,4,29.17,100,"20minutos, google_news_internacional, okdiario",3,"Una supermodelo internacional, primera desenmascara de 'Mask Singer' en su estreno: ""¡Increíble!""",2026-04-09 01:40
-mayoría,3,3,10.61,100,"elmundo, elpais, google_news_internacional",3,Seis provincias con Vox luchando por un diputado marcan la mayoría del PP o el hundimiento del PSOE en Andalucía,2026-04-09 01:40
-conocen,3,3,10.61,100,"elmundo, sur, 20minutos",3,Los inversores compran la segunda 'reculada' de Trump en un año dentro de un guion que ya conocen: llegan curvas durante meses hasta la solución final,2026-04-09 01:40
-liverpool,6,2,31.82,100,"france24_es, google_news_es, elpais, okdiario",4,PSG se impone al Liverpool y mantiene firme su opción de reeditar el título,2026-04-09 01:40
-champions,22,47,4.96,99,"google_news_es, okdiario, heraldo_aragon, elcorreo, huffington_es",5,Kvaratskhelia vuelve a marcar y PSG vence 2-0 a Liverpool en ida de cuartos de final de la Champions - Los Angeles Times,2026-04-09 01:40
-braga,4,9,4.71,94,"google_news_es, elpais",2,Penal de Cucho Hernández salva empate para Real Betis ante Braga en cuartos de la Liga Europa - Los Angeles Times,2026-04-09 01:40
-bonoloto,4,9,4.71,94,"sur, elcorreo, okdiario",3,"Comprobar Lotería del miércoles, 08 de abril: resultados de la Bonoloto, del Cupón de la ONCE y de la Quiniela",2026-04-09 01:40
-final,14,32,4.64,92,"elmundo, 20minutos, google_news_es, elcorreo, sur",5,Los inversores compran la segunda 'reculada' de Trump en un año dentro de un guion que ya conocen: llegan curvas durante meses hasta la solución final,2026-04-09 01:40
-resultado,7,17,4.37,87,"sur, elespanol, okdiario, elcorreo",4,"Comprobar Lotería del miércoles, 08 de abril: resultados de la Bonoloto, del Cupón de la ONCE y de la Quiniela",2026-04-09 01:40
-sorteo,4,10,4.24,84,"sur, okdiario",2,"Resultado del sorteo de la Bonoloto del miércoles, 08 de abril de 2026",2026-04-09 01:40
-segundo,4,10,4.24,84,"elcorreo, elpais, google_news_es",3,El Mirandés es el segundo equipo que más goles encaja de penalti,2026-04-09 01:40
-mundial,5,13,4.08,81,"levante_emv, elmundo, expansion, france24_es, elcorreo",5,La radiografía de la escalada a nivel mundial: «Madrid es una región clave»,2026-04-09 01:40
-cárcel,3,8,3.98,79,"sur, google_news_es, elcorreo",3,Piden 24 años de cárcel para un policía de Benalmádena por presuntos abusos a tres sobrinas menores,2026-04-09 01:40
-jueves,3,8,3.98,79,"20minutos, sur",2,Consulta tu horóscopo diario del jueves 9 de abril de 2026,2026-04-09 01:40
-vitoria,3,8,3.98,79,elcorreo,1,Vitoria invertirá 190.000 euros más para atajar el mayor problema del vertedero,2026-04-09 01:40
-comprobar,4,11,3.86,77,"sur, elcorreo, okdiario",3,"Comprobar Lotería del miércoles, 08 de abril: resultados de la Bonoloto, del Cupón de la ONCE y de la Quiniela",2026-04-09 01:40
-lleva,4,12,3.54,70,"heraldo_aragon, elespanol, lavanguardia, google_news_es, huffington_es",5,Samanta Schweblin se lleva el millón de euros del primer premio Aena de Narrativa,2026-04-09 01:40
-líder,3,9,3.54,70,"elmundo_internacional, expansion, france24_es",3,"El mariscal ""favorito"" de Trump y un discreto líder burócrata: la dupla paquistaní que logró el alto el fuego en Irán",2026-04-09 01:40
-betis,4,12,3.54,70,"google_news_es, elpais",2,Penal de Cucho Hernández salva empate para Real Betis ante Braga en cuartos de la Liga Europa - Los Angeles Times,2026-04-09 01:40
-quién,6,19,3.35,66,"elespanol, okdiario",2,¿Quién es Satoshi Nakamoto? El enigma del criptógrafo inglés en Malta al que el NYT asocia con el anónimo fundador de Bitcoin,2026-04-09 01:40
-barcelona,20,64,3.31,66,"okdiario, google_news_es, elmundo, elcorreo, elpais",5,"Simeone y la jugada por la que clama el Barcelona: «El árbitro interpretó como Pubill, es sentido común»",2026-04-09 01:40
-league,9,30,3.18,63,"google_news_es, okdiario, levante_emv",3,Crónica del Paris Saint-Germain - Liverpool 2-0 de la ida de cuartos de final de la UEFA Champions League: sólido triunfo un Paris muy superior - UEFA.com,2026-04-09 01:40
-málaga,12,43,2.96,59,sur,1,Las ventas de coches usados se frenan aunque todavía triplican a las de los nuevos en Málaga,2026-04-09 01:40
-primer,12,44,2.89,57,"elespanol, google_news_es, expansion, 20minutos, google_news_internacional",5,Primer expediente a un juez por hacer una sentencia con IA: se enfrenta a suspensión y multa tras denunciarle otros jueces,2026-04-09 01:40
-reina,6,23,2.77,55,"20minutos, google_news_es, elcorreo, bbc_mundo",4,Kira Miró y Salva Reina protagonizan un tierno beso en 'El Hormiguero' tras hablar de infidelidades,2026-04-09 01:40
-semana,6,23,2.77,55,"google_news_internacional, elmundo, levante_emv, elcorreo, sur",5,"Elle MacPherson, la primera sorpresa internacional desenmascarada de 'Mask Singer 5': ""Increíble"" - Semana",2026-04-09 01:40
-poder,4,16,2.65,53,"elespanol, elcorreo, google_news_internacional, elmundo_internacional",4,"El hombre más poderoso de Pakistán, un iraní 'indultado' por EEUU y JD Vance: los negociadores para la paz",2026-04-09 01:40
-muertos,6,24,2.65,53,"france24_es, elmundo, levante_emv, google_news_internacional",4,Israel continúa ataques sobre Líbano pese a tregua regional y deja cientos de muertos,2026-04-09 01:40
-alemania,3,12,2.65,53,"elcorreo, huffington_es",2,Trump amenaza a la OTAN y estudia castigar a España y Alemania tras la guerra,2026-04-09 01:40
-dinero,4,16,2.65,53,"elmundo, 20minutos, huffington_es, elespanol, sur",5,Un juzgado de EEUU amenaza con embargar el dinero de la Selección en el Mundial por impagos del Estado a las renovables,2026-04-09 01:40
-busca,3,13,2.45,48,"elespanol, expansion, levante_emv, sur",4,El Estado acentúa su 'voracidad recaudatoria': busca ingresar 5.200 millones más mediante el IRPF y las cuotas de autónomos,2026-04-09 01:40
-perry,3,13,2.45,48,"google_news_es, bbc_mundo, elcorreo",3,"15 años de cárcel para Jasveen Sangha, por la muerte de Matthew Perry - Euronews.com",2026-04-09 01:40
-cinco,5,22,2.41,48,"20minutos, google_news_economia, google_news_es, elmundo, elmundo_espana",5,"Estos son los cinco finalistas de 'Top Chef' tras la última y lacrimógena despedida: ""Eres una candidata fantástica, pero...""",2026-04-09 01:40
-momento,4,18,2.36,47,"expansion, elcorreo, sur, heraldo_aragon",4,La banca sale de pérdidas en Bolsa: ¿Ha llegado su momento?,2026-04-09 01:40
-primera,6,27,2.36,47,"20minutos, google_news_internacional, okdiario, huffington_es, levante_emv",5,"Una supermodelo internacional, primera desenmascara de 'Mask Singer' en su estreno: ""¡Increíble!""",2026-04-09 01:40
-victoria,6,28,2.27,45,"google_news_internacional, levante_emv, sur, elcorreo",4,"La Casa Blanca ve en la tregua de doce días una ""victoria"" de Estados Unidos - Europa Press",2026-04-09 01:40
-matthew,3,14,2.27,45,"google_news_es, bbc_mundo, elcorreo",3,"15 años de cárcel para Jasveen Sangha, por la muerte de Matthew Perry - Euronews.com",2026-04-09 01:40
-euros,20,95,2.23,44,"elespanol, elmundo, elcorreo, okdiario, heraldo_aragon",5,Cada español paga hoy 10 euros más al día en impuestos de lo que tributaba antes de que Sánchez llegara al Gobierno,2026-04-09 01:40
-serie,3,15,2.12,42,"expansion, bbc_mundo, elcorreo",3,La corrupción política ¿va de serie en los partidos o es un extra?,2026-04-09 01:40
-también,3,15,2.12,42,"okdiario, elcorreo, sur",3,Flick apunta al árbitro: «El VAR ha sido injusto y también creo que debería haber protegido a Lamine»,2026-04-09 01:40
-haber,3,15,2.12,42,"bbc_mundo, okdiario, sur",3,"""Se mostró frío como el hielo"": el asesino en serie que confesó haber matado a 8 mujeres en un caso que atemorizó a Nueva York",2026-04-09 01:40
-amenaza,4,21,2.02,40,"elmundo, expansion, elcorreo, google_news_internacional, sur",5,Un juzgado de EEUU amenaza con embargar el dinero de la Selección en el Mundial por impagos del Estado a las renovables,2026-04-09 01:40
+cobrar,4,7,6.6,100,"expansion, okdiario, google_news_economia",3,Hacienda prevé cobrar un 60% más de IRPF neto en la Campaña por el rally bursátil e inmobiliario,2026-04-09 02:09
+adidas,3,1,34.66,100,"okdiario, google_news_economia",2,Deutsche Bank pide embargar los pagos de Adidas a la Selección para cobrar las deudas de España por los impagos a las renovables,2026-04-09 02:09
+deutsche,3,0,5.0,100,"okdiario, google_news_economia",2,Deutsche Bank pide embargar los pagos de Adidas a la Selección para cobrar las deudas de España por los impagos a las renovables,2026-04-09 02:09
+árbitro,3,3,11.55,100,"okdiario, google_news_es",2,"Simeone y la jugada por la que clama el Barcelona: «El árbitro interpretó como Pubill, es sentido común»",2026-04-09 02:09
+torrevieja,3,0,5.0,100,"google_news_internacional, levante_emv",2,Torrevieja: IX Feria Internacional 'Expo Torrevieja 2026' - Todo Cultura Vega Baja,2026-04-09 02:09
+semifinales,4,3,15.41,100,"sur, heraldo_aragon, okdiario, huffington_es",4,"AEK o Joventut, el rival en semifinales se conocerá el día 15",2026-04-09 02:09
+máscara,4,2,23.11,100,okdiario,1,"‘Mask Singer’: ¿quién era Micrófono, primera máscara eliminada de la quinta temporada?",2026-04-09 02:09
+micrófono,3,1,34.66,100,"okdiario, google_news_internacional",2,"‘Mask Singer’: ¿quién era Micrófono, primera máscara eliminada de la quinta temporada?",2026-04-09 02:09
+‘mask,5,3,19.26,100,okdiario,1,"‘Mask Singer’: ¿quién era Micrófono, primera máscara eliminada de la quinta temporada?",2026-04-09 02:09
+julián,5,9,6.42,100,"google_news_es, elpais, okdiario",3,"Julián Álvarez y su confesión más sorpendente tras su golazo de falta ante el Barça: ""Ayer tiré cinco o seis y no metí ni una"" - DAZN",2026-04-09 02:09
+pubill,3,1,34.66,100,"okdiario, google_news_es",2,Esta es la jugada por la que el Barça se siente perjudicado en la Champions con Pubill como protagonista,2026-04-09 02:09
+barça,12,24,5.78,100,"okdiario, google_news_es, elpais, heraldo_aragon, levante_emv",5,Esta es la jugada por la que el Barça se siente perjudicado en la Champions con Pubill como protagonista,2026-04-09 02:09
+jugada,3,0,5.0,100,"okdiario, google_news_es",2,Esta es la jugada por la que el Barça se siente perjudicado en la Champions con Pubill como protagonista,2026-04-09 02:09
+vence,3,0,5.0,100,"google_news_es, heraldo_aragon, huffington_es",3,Kvaratskhelia vuelve a marcar y PSG vence 2-0 a Liverpool en ida de cuartos de final de la Champions - Los Angeles Times,2026-04-09 02:09
+times,4,6,7.7,100,google_news_es,1,Petróleo se desploma por debajo de 95 dólares y el Dow Jones se dispara tras cese del fuego con Irán - Los Angeles Times,2026-04-09 02:09
+angeles,4,1,46.22,100,google_news_es,1,Petróleo se desploma por debajo de 95 dólares y el Dow Jones se dispara tras cese del fuego con Irán - Los Angeles Times,2026-04-09 02:09
+increíble,3,1,34.66,100,"20minutos, google_news_internacional",2,"Una supermodelo internacional, primera desenmascara de 'Mask Singer' en su estreno: ""¡Increíble!""",2026-04-09 02:09
+pagos,3,1,34.66,100,"elmundo, okdiario, google_news_economia",3,Un juzgado de EEUU amenaza con embargar el dinero de la Selección en el Mundial por impagos del Estado a las renovables,2026-04-09 02:09
+deudas,3,2,17.33,100,"okdiario, google_news_economia",2,Deutsche Bank pide embargar los pagos de Adidas a la Selección para cobrar las deudas de España por los impagos a las renovables,2026-04-09 02:09
+atlético,24,48,5.78,100,"google_news_es, elpais, heraldo_aragon, elcorreo, okdiario",5,Polémica en Barcelona - Atlético de Madrid: el saque de arco de Juan Musso que debió terminar en penal - Yahoo,2026-04-09 02:09
+flick,3,2,17.33,100,"elmundo, okdiario",2,"Flick alza la voz contra el arbitraje: ""No entiendo para qué tenemos el VAR""",2026-04-09 02:09
+dotado,3,1,34.66,100,"google_news_es, eldiario",2,"Samanta Schweblin gana el primer Premio Aena de Narrativa Hispanoamericana, dotado con un millón de euros - Cadena SER",2026-04-09 02:09
+teorías,4,2,23.11,100,okdiario,1,Todas las pistas de Momia de ‘Mask Singer 5’: teorías para saber quién es,2026-04-09 02:09
+berlín,3,2,17.33,100,sur,1,Vídeo resumen de la victoria del Unicaja ante el Alba Berlín,2026-04-09 02:09
+unicaja,4,4,11.55,100,sur,1,Vídeo resumen de la victoria del Unicaja ante el Alba Berlín,2026-04-09 02:09
+millón,16,15,12.32,100,"elcorreo, okdiario, sur, heraldo_aragon, google_news_es",5,Con Samanta Schweblin Planeta también gana el 'millón literario' de AENA,2026-04-09 02:09
+uefa.com,3,1,34.66,100,google_news_es,1,Crónica del Paris Saint-Germain - Liverpool 2-0 de la ida de cuartos de final de la UEFA Champions League: sólido triunfo un Paris muy superior - UEFA.com,2026-04-09 02:09
+triunfo,4,2,23.11,100,"google_news_es, levante_emv, elcorreo, heraldo_aragon",4,Crónica del Paris Saint-Germain - Liverpool 2-0 de la ida de cuartos de final de la UEFA Champions League: sólido triunfo un Paris muy superior - UEFA.com,2026-04-09 02:09
+crónica,3,5,6.93,100,google_news_es,1,Crónica del Paris Saint-Germain - Liverpool 2-0 de la ida de cuartos de final de la UEFA Champions League: sólido triunfo un Paris muy superior - UEFA.com,2026-04-09 02:09
+penalti,3,2,17.33,100,"okdiario, elcorreo, google_news_es",3,Tremendo calentón de Flick: «¿Para qué tenemos el VAR? ¡Era penalti y expulsión contra el Atleti!»,2026-04-09 02:09
+atleti,7,8,10.11,100,"google_news_es, okdiario, elcorreo, elmundo, elpais",5,Barcelona - Atlético en directo | Julián Alvarez y Sorloth dan ventaja al Atleti en la eliminatoria - EL PAÍS,2026-04-09 02:09
+ventaja,6,3,23.11,100,"google_news_es, elpais, elespanol",3,Barcelona - Atlético en directo | Julián Alvarez y Sorloth dan ventaja al Atleti en la eliminatoria - EL PAÍS,2026-04-09 02:09
+sorloth,4,2,23.11,100,"google_news_es, elpais",2,Barcelona - Atlético en directo | Julián Alvarez y Sorloth dan ventaja al Atleti en la eliminatoria - EL PAÍS,2026-04-09 02:09
+alvarez,3,1,34.66,100,"google_news_es, elpais",2,Barcelona - Atlético en directo | Julián Alvarez y Sorloth dan ventaja al Atleti en la eliminatoria - EL PAÍS,2026-04-09 02:09
+salva,5,4,14.44,100,"google_news_es, 20minutos, elcorreo",3,Penal de Cucho Hernández salva empate para Real Betis ante Braga en cuartos de la Liga Europa - Los Angeles Times,2026-04-09 02:09
+pistas,5,2,28.89,100,"google_news_internacional, okdiario",2,Las pistas de Micrófono en Mask Singer sugieren un artista internacional relacionado con Woody Allen - antena3.com,2026-04-09 02:09
+singer,9,6,17.33,100,"20minutos, google_news_internacional, okdiario",3,"Una supermodelo internacional, primera desenmascara de 'Mask Singer' en su estreno: ""¡Increíble!""",2026-04-09 02:09
+cuartos,14,20,8.09,100,"google_news_es, elpais, elcorreo, huffington_es, elespanol",5,Kvaratskhelia vuelve a marcar y PSG vence 2-0 a Liverpool en ida de cuartos de final de la Champions - Los Angeles Times,2026-04-09 02:09
+hispanoamericana,6,1,69.32,100,"google_news_es, huffington_es, 20minutos, eldiario",4,"‘El buen mal’, de Samanta Schweblin, gana el primer Premio AENA de Narrativa Hispanoamericana - Fundación Gabo",2026-04-09 02:09
+estuvo,4,2,23.11,100,"okdiario, huffington_es, elpais, elmundo",4,Trump arremete contra la OTAN tras reunirse con Rutte: «No estuvo ahí cuando la necesitábamos y no estará»,2026-04-09 02:09
+europeos,3,2,17.33,100,"expansion, elpais, google_news_internacional",3,El crudo más barato da alas a los bonos públicos europeos,2026-04-09 02:09
+fundación,4,6,7.7,100,"google_news_es, sur, okdiario, heraldo_aragon",4,"‘El buen mal’, de Samanta Schweblin, gana el primer Premio AENA de Narrativa Hispanoamericana - Fundación Gabo",2026-04-09 02:09
+narrativa,11,2,63.55,100,"google_news_es, okdiario, heraldo_aragon, huffington_es, 20minutos",5,"‘El buen mal’, de Samanta Schweblin, gana el primer Premio AENA de Narrativa Hispanoamericana - Fundación Gabo",2026-04-09 02:09
+premio,18,20,10.4,100,"google_news_es, sur, okdiario, heraldo_aragon, huffington_es",5,"‘El buen mal’, de Samanta Schweblin, gana el primer Premio AENA de Narrativa Hispanoamericana - Fundación Gabo",2026-04-09 02:09
+schweblin,21,0,5.0,100,"google_news_es, huffington_es, elcorreo, okdiario, sur",5,"‘El buen mal’, de Samanta Schweblin, gana el primer Premio AENA de Narrativa Hispanoamericana - Fundación Gabo",2026-04-09 02:09
+samanta,19,0,5.0,100,"google_news_es, huffington_es, elcorreo, okdiario, sur",5,"‘El buen mal’, de Samanta Schweblin, gana el primer Premio AENA de Narrativa Hispanoamericana - Fundación Gabo",2026-04-09 02:09
+argentina,5,7,8.25,100,"france24_es, huffington_es, elpais, google_news_es",4,"""La ley de glaciares no se toca"": protestas en Argentina por posible modificación de la norma",2026-04-09 02:09
+rutte,7,10,8.09,100,"okdiario, huffington_es, elpais, google_news_internacional, 20minutos",5,Trump arremete contra la OTAN tras reunirse con Rutte: «No estuvo ahí cuando la necesitábamos y no estará»,2026-04-09 02:09
+selección,4,4,11.55,100,"elmundo, okdiario, google_news_economia",3,Un juzgado de EEUU amenaza con embargar el dinero de la Selección en el Mundial por impagos del Estado a las renovables,2026-04-09 02:09
+reunirse,3,5,6.93,100,"okdiario, huffington_es",2,Trump arremete contra la OTAN tras reunirse con Rutte: «No estuvo ahí cuando la necesitábamos y no estará»,2026-04-09 02:09
+regularización,3,3,11.55,100,"elespanol, eldiario, elmundo_espana",3,El Gobierno de Sánchez incumple la normativa de la UE al no informar a Bruselas sobre la regularización masiva,2026-04-09 02:09
+residencia,3,5,6.93,100,"elespanol, sur, google_news_internacional",3,"""Esta es mi preferida"": los chats pedófilos de la directora de una residencia de jóvenes en Madrid que pasaba vídeos de niñas",2026-04-09 02:09
+castigar,3,1,34.66,100,"elespanol, elcorreo",2,Trump estudia castigar a los miembros de la OTAN menos colaborativos en Irán: España podría ser el más afectado,2026-04-09 02:09
+estudia,4,4,11.55,100,"elespanol, elcorreo, sur, google_news_economia",4,Trump estudia castigar a los miembros de la OTAN menos colaborativos en Irán: España podría ser el más afectado,2026-04-09 02:09
+tambalea,5,1,57.77,100,"elespanol, google_news_es, eldiario, bbc_mundo, elmundo",5,El alto el fuego de EEUU e Irán se tambalea por los ataques de Israel en Líbano y las dudas sobre el estrecho de Ormuz,2026-04-09 02:09
+yahoo,3,3,11.55,100,"google_news_internacional, google_news_es",2,"Riestra tuvo su debut internacional con un marco de fiesta en un estadio gigante, pero sin goles - Yahoo",2026-04-09 02:09
+embargar,4,0,5.0,100,"elmundo, okdiario, google_news_economia",3,Un juzgado de EEUU amenaza con embargar el dinero de la Selección en el Mundial por impagos del Estado a las renovables,2026-04-09 02:09
+escritora,3,1,34.66,100,"huffington_es, elpais, google_news_es",3,La escritora argentina Samanta Schweblin gana el primer Premio Aena de Narrativa Hispanoamericana,2026-04-09 02:09
+mayoría,3,4,8.67,100,"elmundo, elpais, google_news_internacional",3,Seis provincias con Vox luchando por un diputado marcan la mayoría del PP o el hundimiento del PSOE en Andalucía,2026-04-09 02:09
+renovables,4,6,7.7,100,"elmundo, expansion, okdiario",3,Un juzgado de EEUU amenaza con embargar el dinero de la Selección en el Mundial por impagos del Estado a las renovables,2026-04-09 02:09
+liverpool,6,2,34.66,100,"france24_es, google_news_es, elpais, okdiario",4,PSG se impone al Liverpool y mantiene firme su opción de reeditar el título,2026-04-09 02:09
+sorteo,3,7,4.95,99,sur,1,"Resultado del sorteo de la Bonoloto del miércoles, 08 de abril de 2026",2026-04-09 02:09
+champions,20,47,4.92,98,"google_news_es, okdiario, heraldo_aragon, elcorreo, huffington_es",5,Kvaratskhelia vuelve a marcar y PSG vence 2-0 a Liverpool en ida de cuartos de final de la Champions - Los Angeles Times,2026-04-09 02:09
+resultado,6,15,4.62,92,"sur, elespanol, okdiario",3,"Comprobar Lotería del miércoles, 08 de abril: resultados de la Bonoloto, del Cupón de la ONCE y de la Quiniela",2026-04-09 02:09
+segundo,4,10,4.62,92,"elcorreo, elpais, google_news_es",3,El Mirandés es el segundo equipo que más goles encaja de penalti,2026-04-09 02:09
+final,13,33,4.55,91,"elmundo, 20minutos, google_news_es, elcorreo, sur",5,Los inversores compran la segunda 'reculada' de Trump en un año dentro de un guion que ya conocen: llegan curvas durante meses hasta la solución final,2026-04-09 02:09
+vitoria,3,8,4.33,86,elcorreo,1,Vitoria invertirá 190.000 euros más para atajar el mayor problema del vertedero,2026-04-09 02:09
+lleva,4,11,4.2,84,"heraldo_aragon, elespanol, lavanguardia, google_news_es",4,Samanta Schweblin se lleva el millón de euros del primer premio Aena de Narrativa,2026-04-09 02:09
+goles,3,9,3.85,77,"google_news_internacional, elcorreo, okdiario",3,"Riestra tuvo su debut internacional con un marco de fiesta en un estadio gigante, pero sin goles - Yahoo",2026-04-09 02:09
+cárcel,3,9,3.85,77,"google_news_es, sur",2,Condenada a 15 años de cárcel la 'Reina de la Ketamina' por su papel en la muerte del actor Matthew Perry - RTVE.es,2026-04-09 02:09
+líder,3,9,3.85,77,"elmundo_internacional, expansion, france24_es",3,"El mariscal ""favorito"" de Trump y un discreto líder burócrata: la dupla paquistaní que logró el alto el fuego en Irán",2026-04-09 02:09
+braga,3,10,3.47,69,google_news_es,1,Penal de Cucho Hernández salva empate para Real Betis ante Braga en cuartos de la Liga Europa - Los Angeles Times,2026-04-09 02:09
+mundial,4,14,3.3,66,"levante_emv, elmundo, expansion, france24_es",4,La radiografía de la escalada a nivel mundial: «Madrid es una región clave»,2026-04-09 02:09
+primer,12,42,3.3,66,"elespanol, google_news_es, expansion, 20minutos, google_news_internacional",5,Primer expediente a un juez por hacer una sentencia con IA: se enfrenta a suspensión y multa tras denunciarle otros jueces,2026-04-09 02:09
+barcelona,18,65,3.2,63,"google_news_es, okdiario, elmundo, elcorreo, elpais",5,Polémica en Barcelona - Atlético de Madrid: el saque de arco de Juan Musso que debió terminar en penal - Yahoo,2026-04-09 02:09
+semana,6,22,3.15,63,"google_news_internacional, elmundo, levante_emv, elcorreo, sur",5,"Elle MacPherson, la primera sorpresa internacional desenmascarada de 'Mask Singer 5': ""Increíble"" - Semana",2026-04-09 02:09
+league,8,29,3.19,63,"google_news_es, okdiario",2,Crónica del Paris Saint-Germain - Liverpool 2-0 de la ida de cuartos de final de la UEFA Champions League: sólido triunfo un Paris muy superior - UEFA.com,2026-04-09 02:09
+poder,4,15,3.08,61,"elespanol, elcorreo, google_news_internacional, elmundo_internacional",4,"El hombre más poderoso de Pakistán, un iraní 'indultado' por EEUU y JD Vance: los negociadores para la paz",2026-04-09 02:09
+quién,5,19,3.04,60,"elespanol, okdiario",2,¿Quién es Satoshi Nakamoto? El enigma del criptógrafo inglés en Malta al que el NYT asocia con el anónimo fundador de Bitcoin,2026-04-09 02:09
+cinco,5,19,3.04,60,"20minutos, google_news_economia, google_news_es, elmundo, elmundo_espana",5,"Estos son los cinco finalistas de 'Top Chef' tras la última y lacrimógena despedida: ""Eres una candidata fantástica, pero...""",2026-04-09 02:09
+reina,6,24,2.89,57,"google_news_es, 20minutos, elcorreo, bbc_mundo",4,Condenada a 15 años de cárcel la 'Reina de la Ketamina' por su papel en la muerte del actor Matthew Perry - RTVE.es,2026-04-09 02:09
+momento,4,16,2.89,57,"expansion, elcorreo, sur, heraldo_aragon",4,La banca sale de pérdidas en Bolsa: ¿Ha llegado su momento?,2026-04-09 02:09
+alemania,3,12,2.89,57,"elcorreo, huffington_es",2,Trump amenaza a la OTAN y estudia castigar a España y Alemania tras la guerra,2026-04-09 02:09
+málaga,11,44,2.89,57,sur,1,Las ventas de coches usados se frenan aunque todavía triplican a las de los nuevos en Málaga,2026-04-09 02:09
+primera,6,25,2.77,55,"20minutos, google_news_internacional, okdiario, huffington_es, levante_emv",5,"Una supermodelo internacional, primera desenmascara de 'Mask Singer' en su estreno: ""¡Increíble!""",2026-04-09 02:09
+betis,3,13,2.67,53,google_news_es,1,Penal de Cucho Hernández salva empate para Real Betis ante Braga en cuartos de la Liga Europa - Los Angeles Times,2026-04-09 02:09
+perry,3,14,2.48,49,"google_news_es, bbc_mundo",2,Condenada a 15 años de cárcel la 'Reina de la Ketamina' por su papel en la muerte del actor Matthew Perry - RTVE.es,2026-04-09 02:09
+haber,3,14,2.48,49,"bbc_mundo, okdiario, sur",3,"""Se mostró frío como el hielo"": el asesino en serie que confesó haber matado a 8 mujeres en un caso que atemorizó a Nueva York",2026-04-09 02:09
+amenaza,4,19,2.43,48,"elmundo, expansion, elcorreo, google_news_internacional, sur",5,Un juzgado de EEUU amenaza con embargar el dinero de la Selección en el Mundial por impagos del Estado a las renovables,2026-04-09 02:09
+matthew,3,15,2.31,46,"google_news_es, bbc_mundo",2,Condenada a 15 años de cárcel la 'Reina de la Ketamina' por su papel en la muerte del actor Matthew Perry - RTVE.es,2026-04-09 02:09
+también,3,15,2.31,46,"okdiario, elcorreo, sur",3,Flick apunta al árbitro: «El VAR ha sido injusto y también creo que debería haber protegido a Lamine»,2026-04-09 02:09
+euros,19,94,2.34,46,"elespanol, elmundo, elcorreo, okdiario, heraldo_aragon",5,Cada español paga hoy 10 euros más al día en impuestos de lo que tributaba antes de que Sánchez llegara al Gobierno,2026-04-09 02:09
+rtve.es,3,15,2.31,46,google_news_es,1,Condenada a 15 años de cárcel la 'Reina de la Ketamina' por su papel en la muerte del actor Matthew Perry - RTVE.es,2026-04-09 02:09
+serie,3,15,2.31,46,"expansion, bbc_mundo, elcorreo",3,La corrupción política ¿va de serie en los partidos o es un extra?,2026-04-09 02:09
+dinero,3,16,2.17,43,"elmundo, 20minutos, huffington_es, elespanol",4,Un juzgado de EEUU amenaza con embargar el dinero de la Selección en el Mundial por impagos del Estado a las renovables,2026-04-09 02:09
+álvarez,3,17,2.04,40,"google_news_es, okdiario",2,"Julián Álvarez y su confesión más sorpendente tras su golazo de falta ante el Barça: ""Ayer tiré cinco o seis y no metí ni una"" - DAZN",2026-04-09 02:09
