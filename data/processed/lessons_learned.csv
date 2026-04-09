@@ -1,0 +1,5 @@
+fecha,modulo,impacto,descripcion,fix
+2026-04-08,"detect_ideology.py, agenda_setting.py, government_coverage.py, detect_coordination.py",🔴 Crítico,Fechas generadas con formato %H:%M (sin segundos) causaban NaT en parseo posterior — filas nuevas invisibles para el pipeline,Cambiado strftime a %H:%M:%S en los 4 scripts + format='mixed' en pd.to_datetime
+2026-04-08,"check_freshness.py, audit_quality.py, audit_tab.py",🟡 Medio,CSVs históricos mezclaban fechas con y sin +00:00 — parseo fallaba silenciosamente en columnas de timestamp,Añadido format='mixed' en pd.to_datetime para tolerar ambos formatos
+2026-04-08,purge_history.py,🔴 Crítico,"pd.Timestamp(HOY, tz='UTC') lanzaba double-tzinfo ValueError en cada ejecución (rc=1 desde siempre) — purga nunca se ejecutaba",Reemplazado por pd.Timestamp.now(tz='UTC')
+2026-04-08,data/processed/*.csv (retroarreglo),🟡 Medio,2235 filas con fecha sin segundos en CSVs históricos — inconsistencia acumulada desde el inicio del proyecto,Script retroarreglo: añadido ':00' a timestamps que matchaban HH:MM sin segundos

@@ -359,3 +359,79 @@ def render_audit_tab():
         st.dataframe(df_acciones.sort_values("timestamp", ascending=False).head(20),
                      use_container_width=True)
     _freshness_block()
+    # ── L2R: Lecciones aprendidas ───────────────────────────
+    st.divider()
+    st.markdown("### 📚 L2R — Lecciones Aprendidas")
+    st.caption("Registro acumulativo de bugs cerrados, fixes aplicados e incidencias del pipeline.")
+
+    L2R_PATH = Path(BASE_DIR) / "lessons_learned.csv"
+    L2R_COLS = ["fecha", "modulo", "impacto", "descripcion", "fix"]
+
+    # Cargar o crear vacío
+    if L2R_PATH.exists():
+        df_l2r = pd.read_csv(L2R_PATH)
+        for c in L2R_COLS:
+            if c not in df_l2r.columns:
+                df_l2r[c] = ""
+    else:
+        df_l2r = pd.DataFrame(columns=L2R_COLS)
+
+    # Filtro por impacto
+    impactos_disp = ["Todos"] + [i for i in ["🔴 Crítico", "🟡 Medio", "🟢 Bajo"] if i in df_l2r["impacto"].values]
+    col_f1, col_f2 = st.columns([2, 4])
+    with col_f1:
+        filtro_imp = st.selectbox("Filtrar por impacto", impactos_disp, key="l2r_filtro_impacto")
+    with col_f2:
+        filtro_mod = st.text_input("Filtrar por módulo (texto libre)", key="l2r_filtro_modulo")
+
+    df_l2r_show = df_l2r.copy()
+    if filtro_imp != "Todos":
+        df_l2r_show = df_l2r_show[df_l2r_show["impacto"] == filtro_imp]
+    if filtro_mod.strip():
+        df_l2r_show = df_l2r_show[df_l2r_show["modulo"].str.contains(filtro_mod.strip(), case=False, na=False)]
+
+    if df_l2r_show.empty:
+        st.info("No hay lecciones registradas aún (o el filtro no devuelve resultados).")
+    else:
+        st.dataframe(
+            df_l2r_show.sort_values("fecha", ascending=False).reset_index(drop=True),
+            use_container_width=True,
+            column_config={
+                "fecha":       st.column_config.TextColumn("📅 Fecha", width="small"),
+                "modulo":      st.column_config.TextColumn("🔧 Módulo", width="medium"),
+                "impacto":     st.column_config.TextColumn("⚡ Impacto", width="small"),
+                "descripcion": st.column_config.TextColumn("📝 Descripción", width="large"),
+                "fix":         st.column_config.TextColumn("✅ Fix aplicado", width="large"),
+            }
+        )
+        st.caption(f"Total registros: {len(df_l2r)} · Mostrando: {len(df_l2r_show)}")
+
+    # Formulario para añadir nueva entrada
+    st.markdown("#### ➕ Registrar nueva lección")
+    with st.form("l2r_nueva_leccion", clear_on_submit=True):
+        fc1, fc2, fc3 = st.columns([2, 3, 2])
+        with fc1:
+            l2r_fecha = st.text_input("Fecha", value=datetime.utcnow().strftime("%Y-%m-%d"), key="l2r_fecha")
+        with fc2:
+            l2r_modulo = st.text_input("Módulo afectado", placeholder="ej: detect_emotions.py", key="l2r_modulo")
+        with fc3:
+            l2r_impacto = st.selectbox("Impacto", ["🔴 Crítico", "🟡 Medio", "🟢 Bajo"], key="l2r_impacto")
+        l2r_desc = st.text_area("Descripción del problema", height=80, key="l2r_desc")
+        l2r_fix  = st.text_area("Fix aplicado", height=80, key="l2r_fix")
+        submitted = st.form_submit_button("💾 Guardar lección")
+        if submitted:
+            if not l2r_modulo.strip() or not l2r_desc.strip():
+                st.error("Módulo y descripción son obligatorios.")
+            else:
+                nueva = pd.DataFrame([{
+                    "fecha":       l2r_fecha,
+                    "modulo":      l2r_modulo.strip(),
+                    "impacto":     l2r_impacto,
+                    "descripcion": l2r_desc.strip(),
+                    "fix":         l2r_fix.strip(),
+                }])
+                df_l2r = pd.concat([df_l2r, nueva], ignore_index=True)
+                df_l2r.to_csv(L2R_PATH, index=False)
+                st.success(f"✅ Lección guardada en {L2R_PATH.name}")
+                st.rerun()
+
