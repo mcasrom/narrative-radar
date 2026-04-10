@@ -1,126 +1,104 @@
 keyword,count_now,count_base,ratio,viral_score,sources,n_sources,sample_title,detected_at
-lotería,6,7,8.05,100,"sur, okdiario, elpais, elcorreo",4,"Comprobar Lotería del jueves, 09 de abril: resultados de la Bonoloto, del Cupón de la ONCE, Mi día de la ONCE, La Primitiva, de la Lotería Nacional y de EuroDreams",2026-04-10 00:10
-eurodreams,4,0,5.0,100,"sur, elcorreo",2,"Comprobar Lotería del jueves, 09 de abril: resultados de la Bonoloto, del Cupón de la ONCE, Mi día de la ONCE, La Primitiva, de la Lotería Nacional y de EuroDreams",2026-04-10 00:10
-relación,8,6,12.52,100,"elcorreo, elmundo, heraldo_aragon, elpais, google_news_internacional",5,Melania Trump niega relación alguna con Epstein,2026-04-10 00:10
-niega,10,10,9.39,100,"elcorreo, elmundo, heraldo_aragon, elpais, google_news_internacional",5,Melania Trump niega relación alguna con Epstein,2026-04-10 00:10
-crítico,4,3,12.52,100,"elconfidencial, levante_emv, 20minutos",3,Un menor en estado crítico al ser apuñalado en Villanueva de la Cañada (Madrid),2026-04-10 00:10
-declara,10,14,6.71,100,"elcorreo, elpais, 20minutos, google_news_es, google_news_internacional",5,Rusia y Ucrania declaran un alto el fuego por la Pascua ortodoxa,2026-04-10 00:10
-víctima,4,4,9.39,100,"levante_emv, elpais, elmundo, lavanguardia",4,Las víctimas de Adamuz piden responsabilidades políticas y jurídicas a la Junta de Andalucía,2026-04-10 00:10
-panathinaikos,4,1,37.56,100,"sur, levante_emv",2,El Valencia impresiona arrollando al Panathinaikos antes de medirse al Unicaja,2026-04-10 00:10
-factor,3,1,28.17,100,"elpais, google_news_es, elespanol",3,El Madrid emerge y el Valencia es segundo y se asegura el factor campo en los cuartos de final,2026-04-10 00:10
-sorteo,9,6,14.09,100,"sur, levante_emv, okdiario, elpais",4,"Resultado del sorteo del Cupón de la ONCE del jueves, 09 de abril de 2026",2026-04-10 00:10
-basket,4,5,7.51,100,levante_emv,1,El Roig Arena vibra con un Valencia Basket cabeza de serie,2026-04-10 00:10
-cupón,4,6,6.26,100,"sur, okdiario, elcorreo",3,"Comprobar Lotería del jueves, 09 de abril: resultados de la Bonoloto, del Cupón de la ONCE, Mi día de la ONCE, La Primitiva, de la Lotería Nacional y de EuroDreams",2026-04-10 00:10
-cumbre,3,1,28.17,100,"sur, okdiario",2,Subida al pico Mijas: El camino que te lleva hasta la emblemática cumbre de la «Bola»,2026-04-10 00:10
-bonoloto,6,7,8.05,100,"sur, elcorreo, levante_emv, okdiario",4,"Comprobar Lotería del jueves, 09 de abril: resultados de la Bonoloto, del Cupón de la ONCE, Mi día de la ONCE, La Primitiva, de la Lotería Nacional y de EuroDreams",2026-04-10 00:10
-resultados,10,6,15.65,100,"sur, elcorreo, levante_emv",3,"Comprobar Lotería del jueves, 09 de abril: resultados de la Bonoloto, del Cupón de la ONCE, Mi día de la ONCE, La Primitiva, de la Lotería Nacional y de EuroDreams",2026-04-10 00:10
-jueves,20,37,5.08,100,"sur, elcorreo, levante_emv, okdiario, elpais",5,"Comprobar Lotería del jueves, 09 de abril: resultados de la Bonoloto, del Cupón de la ONCE, Mi día de la ONCE, La Primitiva, de la Lotería Nacional y de EuroDreams",2026-04-10 00:10
-comprobar,14,11,11.95,100,"sur, elcorreo, okdiario, elpais",4,"Comprobar Lotería del jueves, 09 de abril: resultados de la Bonoloto, del Cupón de la ONCE, Mi día de la ONCE, La Primitiva, de la Lotería Nacional y de EuroDreams",2026-04-10 00:10
-menor,8,6,12.52,100,"okdiario, elpais, elconfidencial, levante_emv, 20minutos",5,Muere un menor al ser apuñalado en Villanueva de la Cañada (Madrid),2026-04-10 00:10
-topuria,4,2,18.78,100,"20minutos, okdiario, elcorreo",3,"Ilia Topuria habla de su separación: ""Lo puedo vivir desde lo negativo o aceptando mi realidad""",2026-04-10 00:10
-viernes,8,6,12.52,100,"okdiario, sur, 20minutos",3,La ley de multirreincidencia que entra en vigor este viernes castigará con cárcel el robo de móviles y otros delitos reiterados,2026-04-10 00:10
-cañada,9,0,5.0,100,"elmundo, okdiario, elpais, elconfidencial, 20minutos",5,Un joven mata a puñaladas a un niño de 12 años en un centro cultural de Villanueva de la Cañada,2026-04-10 00:10
-villanueva,9,1,84.52,100,"elmundo, okdiario, elpais, elconfidencial, 20minutos",5,Un joven mata a puñaladas a un niño de 12 años en un centro cultural de Villanueva de la Cañada,2026-04-10 00:10
-alguna,3,2,14.09,100,"elcorreo, heraldo_aragon, google_news_internacional",3,Melania Trump niega relación alguna con Epstein,2026-04-10 00:10
-investigan,3,4,7.04,100,elcorreo,1,Investigan a dos personas por provocar un incendio forestal en Ea al quemar cables para obtener cobre,2026-04-10 00:10
-provocar,3,1,28.17,100,elcorreo,1,Investigan a dos personas por provocar un incendio forestal en Ea al quemar cables para obtener cobre,2026-04-10 00:10
-forestal,3,2,14.09,100,elcorreo,1,Investigan a dos personas por provocar un incendio forestal en Ea al quemar cables para obtener cobre,2026-04-10 00:10
-conèixer,3,0,5.0,100,levante_emv,1,"La reina Letizia se lanza en catalán: ""Gràcies per haver-me convidat per a conèixer la gran tasca que feu""",2026-04-10 00:10
-convidat,3,0,5.0,100,levante_emv,1,"La reina Letizia se lanza en catalán: ""Gràcies per haver-me convidat per a conèixer la gran tasca que feu""",2026-04-10 00:10
-haver-me,3,0,5.0,100,levante_emv,1,"La reina Letizia se lanza en catalán: ""Gràcies per haver-me convidat per a conèixer la gran tasca que feu""",2026-04-10 00:10
-gràcies,3,0,5.0,100,levante_emv,1,"La reina Letizia se lanza en catalán: ""Gràcies per haver-me convidat per a conèixer la gran tasca que feu""",2026-04-10 00:10
-catalán,4,5,7.51,100,levante_emv,1,La reina Letizia sorprende al hablar en catalán durante una reunión en Lleida,2026-04-10 00:10
-marcha,3,4,7.04,100,"elmundo_internacional, google_news_internacional, elcorreo",3,Violencia Policial y detenciones durante la marcha sindical en Caracas,2026-04-10 00:10
-cercana,4,1,37.56,100,"elpais, google_news_internacional, infolibre, 20minutos",4,Melania Trump niega una relación cercana con Jeffrey Epstein: “Las mentiras que me vinculan con él deben terminar hoy mismo”,2026-04-10 00:10
-separado,4,2,18.78,100,"20minutos, europapress, levante_emv",3,"Rufián pide con Montero que ERC ""lidere"" e ""inspire"" el frente de izquierdas: ""Nos matarán por separado""",2026-04-10 00:10
-matarán,4,0,5.0,100,"20minutos, europapress, levante_emv",3,"Rufián pide con Montero que ERC ""lidere"" e ""inspire"" el frente de izquierdas: ""Nos matarán por separado""",2026-04-10 00:10
-izquierdas,5,5,9.39,100,"20minutos, infolibre, elcorreo, lavanguardia, levante_emv",5,"Rufián pide con Montero que ERC ""lidere"" e ""inspire"" el frente de izquierdas: ""Nos matarán por separado""",2026-04-10 00:10
-lidere,3,2,14.09,100,"20minutos, infolibre, heraldo_aragon, lavanguardia, levante_emv",5,"Rufián pide con Montero que ERC ""lidere"" e ""inspire"" el frente de izquierdas: ""Nos matarán por separado""",2026-04-10 00:10
-tenido,4,3,12.52,100,"20minutos, heraldo_aragon, infolibre, google_news_politica, okdiario",5,"Esther Cañadas habla sobre su enfermedad: ""He tenido la suerte de poder superarla y mirarla como una época difícil""",2026-04-10 00:10
-premiado,4,7,5.37,100,okdiario,1,"La Primitiva: resultado y comprobar número premiado hoy, jueves 9 de abril de 2026",2026-04-10 00:10
-euroliga,3,3,9.39,100,"elespanol, google_news_es",2,El Real Madrid logra un triunfo balsámico ante el Fenerbahçe y se jugará el factor cancha de la Euroliga en el Movistar Arena,2026-04-10 00:10
-gabriel,5,9,5.22,100,"20minutos, google_news_internacional, eldiario, heraldo_aragon, huffington_es",5,"Las frases más virales de Gabriel Rufián en el acto junto a Irene Montero: ""Prefiero llenar tiktoks que bibliotecas""",2026-04-10 00:10
-ilegal,3,4,7.04,100,"okdiario, huffington_es",2,Inda: «Carmen Pano y Joseba han demostrado que el PSOE cometió un delito de financiación ilegal y otro fiscal»,2026-04-10 00:10
-fenerbahçe,3,0,5.0,100,"elmundo, elespanol, google_news_es",3,Golpe de carácter del Real Madrid en Estambul: rompe su maldición y derrota al campeón Fenerbahçe en un duelo decisivo,2026-04-10 00:10
-cobre,3,3,9.39,100,elcorreo,1,Investigan a dos personas por provocar un incendio forestal en Ea al quemar cables para obtener cobre,2026-04-10 00:10
-quemar,3,0,5.0,100,elcorreo,1,Investigan a dos personas por provocar un incendio forestal en Ea al quemar cables para obtener cobre,2026-04-10 00:10
-cultural,5,3,15.65,100,"elmundo, elpais, 20minutos",3,Un joven mata a puñaladas a un niño de 12 años en un centro cultural de Villanueva de la Cañada,2026-04-10 00:10
-tasca,3,0,5.0,100,levante_emv,1,"La reina Letizia se lanza en catalán: ""Gràcies per haver-me convidat per a conèixer la gran tasca que feu""",2026-04-10 00:10
-miranda,3,3,9.39,100,elcorreo,1,Entre el día 13 y el último del mes de abril el Santiago Apóstol de Miranda sólo dispondrá de un quirófano,2026-04-10 00:10
-jeffrey,7,0,5.0,100,"bbc_mundo, elmundo, heraldo_aragon, elpais, google_news_internacional",5,"Melania Trump afirma que los rumores que la vinculan con Jeffrey Epstein ""deben terminar hoy mismo""",2026-04-10 00:10
-celta,6,1,56.35,100,"okdiario, google_news_es, elpais, levante_emv",4,El Friburgo obliga al Celta a una machada en Balaídos para seguir vivo en la Europa League,2026-04-10 00:10
-friburgo,5,1,46.95,100,"okdiario, google_news_es, elpais, levante_emv",4,El Friburgo obliga al Celta a una machada en Balaídos para seguir vivo en la Europa League,2026-04-10 00:10
-primitiva,7,2,32.87,100,"20minutos, sur, elcorreo, levante_emv, okdiario",5,Un acertante de La Primitiva gana más de un millón de euros,2026-04-10 00:10
-mentiras,4,3,12.52,100,"france24_es, elpais, google_news_internacional, elespanol",4,"""Las mentiras deben terminar hoy"": el sorpresivo mensaje de Melania Trump sobre un nexo con Epstein",2026-04-10 00:10
-barrio,3,4,7.04,100,"lavanguardia, elcorreo, google_news_internacional",3,Matón de barrio,2026-04-10 00:10
-aeropuerto,3,4,7.04,100,"sur, google_news_internacional, heraldo_aragon",3,Aena retoma el contrato clave para la ampliación del aeropuerto de Málaga,2026-04-10 00:10
-vinculan,5,0,5.0,100,"bbc_mundo, elpais, google_news_internacional, elespanol",4,"Melania Trump afirma que los rumores que la vinculan con Jeffrey Epstein ""deben terminar hoy mismo""",2026-04-10 00:10
-putin,13,6,20.35,100,"huffington_es, lavanguardia, google_news_es, elpais, 20minutos",5,Zelenski acepta la tregua de Pascua propuesta por Putin y abre la puerta a un alto el fuego temporal,2026-04-10 00:10
-batalla,3,5,5.63,100,"elcorreo, google_news_internacional",2,"La batalla en silencio contra la fascitis de Boyé: «Estará incómodo, pero no se queja»",2026-04-10 00:10
-párkinson,3,4,7.04,100,"elcorreo, google_news_internacional",2,Cuando el párkinson muestra todas sus caras,2026-04-10 00:10
-deben,6,1,56.35,100,"france24_es, bbc_mundo, elpais, google_news_internacional, elespanol",5,"""Las mentiras deben terminar hoy"": el sorpresivo mensaje de Melania Trump sobre un nexo con Epstein",2026-04-10 00:10
-tenerife,3,2,14.09,100,google_news_internacional,1,El Cabildo promociona la Semana Internacional de la Moda de Tenerife 2026 en el Tranvía - El Burgado Digital,2026-04-10 00:10
-epstein,14,0,5.0,100,"france24_es, bbc_mundo, elcorreo, elmundo, heraldo_aragon",5,"""Las mentiras deben terminar hoy"": el sorpresivo mensaje de Melania Trump sobre un nexo con Epstein",2026-04-10 00:10
-melania,15,0,5.0,100,"france24_es, bbc_mundo, elcorreo, elmundo, heraldo_aragon",5,"""Las mentiras deben terminar hoy"": el sorpresivo mensaje de Melania Trump sobre un nexo con Epstein",2026-04-10 00:10
-pascua,14,1,131.47,100,"huffington_es, elcorreo, google_news_es, elpais, 20minutos",5,Zelenski acepta la tregua de Pascua propuesta por Putin y abre la puerta a un alto el fuego temporal,2026-04-10 00:10
-terminar,6,2,28.17,100,"france24_es, bbc_mundo, elpais, google_news_internacional, elespanol",5,"""Las mentiras deben terminar hoy"": el sorpresivo mensaje de Melania Trump sobre un nexo con Epstein",2026-04-10 00:10
-apuñalado,8,0,5.0,100,"sur, elcorreo, okdiario, elconfidencial, 20minutos",5,Un niño de 12 años muere tras ser apuñalado por un joven en una biblioteca madrileña,2026-04-10 00:10
-ucrania,12,8,14.09,100,"elcorreo, google_news_es, elpais, 20minutos, huffington_es",5,Rusia y Ucrania declaran un alto el fuego por la Pascua ortodoxa,2026-04-10 00:10
-ortodoxa,13,0,5.0,100,"elcorreo, google_news_es, elpais, 20minutos, huffington_es",5,Rusia y Ucrania declaran un alto el fuego por la Pascua ortodoxa,2026-04-10 00:10
-biblioteca,3,0,5.0,100,"sur, elcorreo, 20minutos, lavanguardia",4,Un niño de 12 años muere tras ser apuñalado por un joven en una biblioteca madrileña,2026-04-10 00:10
-segura,4,2,18.78,100,"okdiario, 20minutos, elpais, google_news_es, huffington_es",5,Santiago Segura sobre Almodovar en ‘La Revuelta’: «Me ha masacrado cada vez que me ha visto»,2026-04-10 00:10
-santiago,5,3,15.65,100,"okdiario, 20minutos, elcorreo, huffington_es",4,Santiago Segura sobre Almodovar en ‘La Revuelta’: «Me ha masacrado cada vez que me ha visto»,2026-04-10 00:10
-campo,3,6,4.7,93,"google_news_internacional, elpais, google_news_es",3,La Mancomunidad conmemoró ayer el Día Internacional del Pueblo Gitano - Campo de Gibraltar Siglo XXI,2026-04-10 00:10
-nacional,5,10,4.7,93,"google_news_internacional, sur, okdiario, elpais, elcorreo",5,Muestra Internacional de Teatro Universitario 2026 | MITEU de Vigo - VIGO PLAN,2026-04-10 00:10
-muestra,4,8,4.7,93,"google_news_internacional, elcorreo, 20minutos, europapress",4,Muestra Internacional de Teatro Universitario 2026 | MITEU de Vigo - VIGO PLAN,2026-04-10 00:10
-violencia,3,6,4.7,93,"google_news_internacional, elmundo_internacional",2,Nueve países del sur de la UE reclaman un cese inmediato de la violencia en Oriente Próximo - Demócrata,2026-04-10 00:10
-digital,4,8,4.7,93,"google_news_internacional, google_news_es, elcorreo, google_news_politica",4,El Cabildo promociona la Semana Internacional de la Moda de Tenerife 2026 en el Tranvía - El Burgado Digital,2026-04-10 00:10
-venezuela,5,10,4.7,93,"elpais, france24_es, elcorreo",3,El chavismo designa nuevo fiscal general en Venezuela,2026-04-10 00:10
-muere,7,15,4.38,87,"sur, elpais, lavanguardia, elcorreo, okdiario",5,Un niño de 12 años muere tras ser apuñalado por un joven en una biblioteca madrileña,2026-04-10 00:10
-izquierda,6,13,4.33,86,"20minutos, infolibre, google_news_internacional, eldiario, elcorreo",5,"Rufián pide con Montero que ERC ""lidere"" e ""inspire"" el frente de izquierdas: ""Nos matarán por separado""",2026-04-10 00:10
-cambia,4,9,4.17,83,"huffington_es, okdiario",2,La reapertura de Ormuz no cambia nada: las aerolíneas europeas advierten de que las reservas de queroseno no volverán a la normalidad &quot;en meses&quot;,2026-04-10 00:10
-puerta,4,9,4.17,83,"huffington_es, france24_es, elcorreo",3,Zelenski acepta la tregua de Pascua propuesta por Putin y abre la puerta a un alto el fuego temporal,2026-04-10 00:10
-letizia,4,9,4.17,83,levante_emv,1,La reina Letizia sorprende al hablar en catalán durante una reunión en Lleida,2026-04-10 00:10
-resultado,10,23,4.08,81,"sur, elcorreo, levante_emv, okdiario",4,"Comprobar Lotería del jueves, 09 de abril: resultados de la Bonoloto, del Cupón de la ONCE, Mi día de la ONCE, La Primitiva, de la Lotería Nacional y de EuroDreams",2026-04-10 00:10
-papel,3,7,4.02,80,"elcorreo, elpais_internacional, google_news_es",3,'Ternera' niega ante la Justicia francesa haber liderado ETA y destaca su papel de negociador,2026-04-10 00:10
-negociar,3,7,4.02,80,"elcorreo, elpais, 20minutos",3,Netanyahu acepta negociar la paz con Líbano en vísperas de la reunión Irán-EE UU,2026-04-10 00:10
-reunión,3,7,4.02,80,"elcorreo, google_news_internacional, levante_emv",3,Netanyahu acepta negociar la paz con Líbano en vísperas de la reunión Irán-EE UU,2026-04-10 00:10
-sorpresa,3,7,4.02,80,"20minutos, elpais, google_news_es",3,"Ilia Topuria avanza en 'El Hormiguero' una 'sorpresa' desde el despacho de Trump: ""A ver qué se nos ocurre para no salir esposados""",2026-04-10 00:10
-concierto,3,7,4.02,80,"sur, elpais, google_news_es",3,La iglesia de Nueva Andalucía organiza un concierto católico para financiar la reparación del templo,2026-04-10 00:10
-málaga,14,34,3.87,77,sur,1,Treinta años del primer niño trasplantado de médula en Málaga: «Fue una odisea»,2026-04-10 00:10
-valencia,7,17,3.87,77,"google_news_es, levante_emv, elpais, sur",4,En 2050 España será el país con mayor prevalencia de Parkinson por habitante - Geriatricarea,2026-04-10 00:10
-infobae,4,10,3.76,75,"google_news_politica, google_news_internacional",2,Politico llegará a España este año con un boletín digital elaborado en Madrid - Infobae,2026-04-10 00:10
-jueza,4,10,3.76,75,"levante_emv, eldiario, sur, elespanol",4,"Adif cambió en marzo por aviso ""urgente"" el segmento del carril de Adamuz y avisó a la jueza",2026-04-10 00:10
-viaje,3,8,3.52,70,"elcorreo, sur, elpais, google_news_es, google_news_internacional",5,Foronda moverá a más de 4.000 viajeros por la Copa del Rey de fútbol,2026-04-10 00:10
-abril,32,88,3.41,68,"elcorreo, sur, 20minutos, levante_emv, okdiario",5,"Horóscopo diario, 11 de abril de 2026",2026-04-10 00:10
-ee.uu,4,11,3.41,68,"bbc_mundo, elcorreo, elpais",3,EE.UU. planea inscribir automáticamente a los jóvenes varones en el registro para prestar el servicio militar,2026-04-10 00:10
-piden,4,11,3.41,68,"levante_emv, elpais, google_news_es, heraldo_aragon",4,Las víctimas de Adamuz piden responsabilidades políticas y jurídicas a la Junta de Andalucía,2026-04-10 00:10
-incendio,3,9,3.13,62,elcorreo,1,Investigan a dos personas por provocar un incendio forestal en Ea al quemar cables para obtener cobre,2026-04-10 00:10
-rufián,13,39,3.13,62,"20minutos, infolibre, google_news_es, google_news_internacional, eldiario",5,"Las frases más virales de Gabriel Rufián en el acto junto a Irene Montero: ""Prefiero llenar tiktoks que bibliotecas""",2026-04-10 00:10
-regreso,3,9,3.13,62,"elcorreo, sur, google_news_es",3,Velocidad extrema y 3.000 grados de temperatura: así es el peligroso regreso a casa de la Artemis 2,2026-04-10 00:10
-conversaciones,3,9,3.13,62,"bbc_mundo, europapress",2,"Los ataques más mortíferos de Israel en Líbano desde el inicio de la guerra dejan más de 300 fallecidos, mientras Netanyahu anuncia conversaciones con Beirut",2026-04-10 00:10
-turismo,4,13,2.89,57,"sur, google_news_economia, elpais",3,El turismo de la Costa empleó en 2025 a más del 20% de la población ocupada,2026-04-10 00:10
-beirut,3,10,2.82,56,"bbc_mundo, 20minutos",2,"Los ataques más mortíferos de Israel en Líbano desde el inicio de la guerra dejan más de 300 fallecidos, mientras Netanyahu anuncia conversaciones con Beirut",2026-04-10 00:10
-advierte,3,10,2.82,56,"google_news_es, okdiario, elpais, huffington_es",4,"Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Trump advierte a Irán por su plan de cobrar a los buques para atravesar el estrecho de Ormuz: “¡Más les vale no estar haciéndolo!” - EL PAÍS",2026-04-10 00:10
-estar,3,10,2.82,56,"elcorreo, lavanguardia, google_news_es, elpais, bbc_mundo",5,"La batalla en silencio contra la fascitis de Boyé: «Estará incómodo, pero no se queja»",2026-04-10 00:10
-alemania,3,10,2.82,56,"levante_emv, google_news_es, google_news_internacional",3,El Celta desaparece en Alemania ante un Friburgo insaciable,2026-04-10 00:10
-joven,5,17,2.76,55,"sur, elcorreo, elmundo, elpais",4,Un niño de 12 años muere tras ser apuñalado por un joven en una biblioteca madrileña,2026-04-10 00:10
-irene,4,14,2.68,53,"20minutos, eldiario, heraldo_aragon, huffington_es",4,"Las frases más virales de Gabriel Rufián en el acto junto a Irene Montero: ""Prefiero llenar tiktoks que bibliotecas""",2026-04-10 00:10
-haber,6,21,2.68,53,"sur, heraldo_aragon, infolibre, levante_emv, 20minutos",5,Abascal acusa al PP de haber «robado» el cambio en Andalucía y pide no darle una mayoría,2026-04-10 00:10
-pedro,6,21,2.68,53,"levante_emv, okdiario, huffington_es, heraldo_aragon",4,Pedro Sánchez se pasa por un día a los videojuegos y se divierte con el 'Mario Kart',2026-04-10 00:10
-pasado,3,11,2.56,51,"elcorreo, okdiario, levante_emv",3,"Los extranjeros compraron 1.800 casas el año pasado en Euskadi, una cifra récord",2026-04-10 00:10
-ternera,3,12,2.35,46,"20minutos, heraldo_aragon, elcorreo",3,"Josu Ternera dice que no tiene ""nada que ver"" con el atentado contra la Guardia Civil en Zaragoza de 1987",2026-04-10 00:10
-madre,3,12,2.35,46,"sur, 20minutos",2,El lado más personal de Chupete: «Cuando se enfadan mi padre o mi madre me llaman 'Carlos'»,2026-04-10 00:10
-mientras,4,16,2.35,46,"elmundo_espana, bbc_mundo, france24_es, huffington_es",4,El Gobierno se mete en la 'nevera' mientras se multiplica el escándalo de Ábalos en el Supremo,2026-04-10 00:10
-andalucía,5,20,2.35,46,"sur, levante_emv",2,La iglesia de Nueva Andalucía organiza un concierto católico para financiar la reparación del templo,2026-04-10 00:10
-junta,3,12,2.35,46,"levante_emv, elespanol, sur",3,Las víctimas de Adamuz piden responsabilidades políticas y jurídicas a la Junta de Andalucía,2026-04-10 00:10
-league,6,25,2.25,45,"okdiario, google_news_es, elpais",3,El Friburgo obliga al Celta a una machada en Balaídos para seguir vivo en la Europa League,2026-04-10 00:10
-centro,6,25,2.25,45,"elmundo, elpais, 20minutos, bbc_mundo",4,Un joven mata a puñaladas a un niño de 12 años en un centro cultural de Villanueva de la Cañada,2026-04-10 00:10
-trump,33,135,2.3,45,"sur, france24_es, bbc_mundo, lavanguardia, google_news_es",5,Trump  y la inestabilidad del poder,2026-04-10 00:10
-fiscal,4,17,2.21,44,"elpais, elmundo, okdiario, heraldo_aragon",4,El chavismo designa nuevo fiscal general en Venezuela,2026-04-10 00:10
-salir,3,13,2.17,43,"20minutos, huffington_es, elcorreo",3,"Ilia Topuria avanza en 'El Hormiguero' una 'sorpresa' desde el despacho de Trump: ""A ver qué se nos ocurre para no salir esposados""",2026-04-10 00:10
-asegura,4,18,2.09,41,"elpais, google_news_es",2,El Madrid emerge y el Valencia es segundo y se asegura el factor campo en los cuartos de final,2026-04-10 00:10
-podemos,3,14,2.01,40,"infolibre, heraldo_aragon, levante_emv",3,"Rufián pide que ERC ""lidere"" una alianza de izquierdas en Cataluña y a Podemos ""repetir"" la coalición del 23J",2026-04-10 00:10
-adamuz,6,28,2.01,40,"levante_emv, elpais, okdiario, sur",4,"Adif cambió en marzo por aviso ""urgente"" el segmento del carril de Adamuz y avisó a la jueza",2026-04-10 00:10
-final,8,37,2.03,40,"elcorreo, google_news_internacional, google_news_es, elpais, levante_emv",5,Rafa Pueyo: «Había tres equipos ACB y solo nosotros estamos en la final»,2026-04-10 00:10
-momento,3,14,2.01,40,"lavanguardia, elmundo, elespanol",3,El cambio de equipos sacude a Alba Paul y Jorge Javier Vázquez en 'Supervivientes 2026': “Ha llegado el momento que hasta María Pombo nos parece buena”,2026-04-10 00:10
+resultados,11,6,17.58,100,"expansion, sur, elcorreo, levante_emv",4,Los sectores que más mejorarán y empeorarán sus resultados,2026-04-10 00:39
+víctima,4,4,9.59,100,"levante_emv, elpais, elmundo, lavanguardia",4,Las víctimas de Adamuz piden responsabilidades políticas y jurídicas a la Junta de Andalucía,2026-04-10 00:39
+factor,3,1,28.76,100,"elpais, google_news_es, elespanol",3,El Madrid emerge y el Valencia es segundo y se asegura el factor campo en los cuartos de final,2026-04-10 00:39
+sorteo,9,6,14.38,100,"sur, levante_emv, okdiario, elpais",4,"Resultado del sorteo del Cupón de la ONCE del jueves, 09 de abril de 2026",2026-04-10 00:39
+eurodreams,4,0,5.0,100,"sur, elcorreo",2,"Comprobar Lotería del jueves, 09 de abril: resultados de la Bonoloto, del Cupón de la ONCE, Mi día de la ONCE, La Primitiva, de la Lotería Nacional y de EuroDreams",2026-04-10 00:39
+cupón,4,6,6.39,100,"sur, okdiario, elcorreo",3,"Comprobar Lotería del jueves, 09 de abril: resultados de la Bonoloto, del Cupón de la ONCE, Mi día de la ONCE, La Primitiva, de la Lotería Nacional y de EuroDreams",2026-04-10 00:39
+bonoloto,6,7,8.22,100,"sur, elcorreo, levante_emv, okdiario",4,"Comprobar Lotería del jueves, 09 de abril: resultados de la Bonoloto, del Cupón de la ONCE, Mi día de la ONCE, La Primitiva, de la Lotería Nacional y de EuroDreams",2026-04-10 00:39
+jueves,20,36,5.33,100,"sur, elcorreo, levante_emv, okdiario, elpais",5,"Comprobar Lotería del jueves, 09 de abril: resultados de la Bonoloto, del Cupón de la ONCE, Mi día de la ONCE, La Primitiva, de la Lotería Nacional y de EuroDreams",2026-04-10 00:39
+lotería,6,7,8.22,100,"sur, okdiario, elpais, elcorreo",4,"Comprobar Lotería del jueves, 09 de abril: resultados de la Bonoloto, del Cupón de la ONCE, Mi día de la ONCE, La Primitiva, de la Lotería Nacional y de EuroDreams",2026-04-10 00:39
+comprobar,14,11,12.2,100,"sur, elcorreo, okdiario, elpais",4,"Comprobar Lotería del jueves, 09 de abril: resultados de la Bonoloto, del Cupón de la ONCE, Mi día de la ONCE, La Primitiva, de la Lotería Nacional y de EuroDreams",2026-04-10 00:39
+menor,8,6,12.78,100,"okdiario, elpais, elconfidencial, levante_emv, 20minutos",5,Muere un menor al ser apuñalado en Villanueva de la Cañada (Madrid),2026-04-10 00:39
+topuria,4,2,19.17,100,"20minutos, okdiario, elcorreo",3,"Ilia Topuria habla de su separación: ""Lo puedo vivir desde lo negativo o aceptando mi realidad""",2026-04-10 00:39
+augusta,3,3,9.59,100,"elcorreo, elpais",2,"Rahm vive un calvario en Augusta: su peor vuelta de siempre, la primera sin birdies",2026-04-10 00:39
+cañada,9,0,5.0,100,"elmundo, okdiario, elpais, elconfidencial, 20minutos",5,Un joven mata a puñaladas a un niño de 12 años en un centro cultural de Villanueva de la Cañada,2026-04-10 00:39
+villanueva,9,1,86.28,100,"elmundo, okdiario, elpais, elconfidencial, 20minutos",5,Un joven mata a puñaladas a un niño de 12 años en un centro cultural de Villanueva de la Cañada,2026-04-10 00:39
+cultural,5,3,15.98,100,"elmundo, elpais, 20minutos",3,Un joven mata a puñaladas a un niño de 12 años en un centro cultural de Villanueva de la Cañada,2026-04-10 00:39
+cumbre,3,1,28.76,100,"sur, okdiario",2,Subida al pico Mijas: El camino que te lleva hasta la emblemática cumbre de la «Bola»,2026-04-10 00:39
+miranda,3,3,9.59,100,elcorreo,1,Entre el día 13 y el último del mes de abril el Santiago Apóstol de Miranda sólo dispondrá de un quirófano,2026-04-10 00:39
+segura,4,2,19.17,100,"okdiario, 20minutos, elpais, google_news_es, huffington_es",5,Santiago Segura sobre Almodovar en ‘La Revuelta’: «Me ha masacrado cada vez que me ha visto»,2026-04-10 00:39
+panathinaikos,3,2,14.38,100,"sur, levante_emv",2,El Valencia impresiona arrollando al Panathinaikos antes de medirse al Unicaja,2026-04-10 00:39
+declara,11,14,7.53,100,"elcorreo, elpais, google_news_es, 20minutos, google_news_internacional",5,Rusia y Ucrania declaran un alto el fuego por la Pascua ortodoxa,2026-04-10 00:39
+ortodoxa,14,0,5.0,100,"elcorreo, google_news_es, elpais, 20minutos, huffington_es",5,Rusia y Ucrania declaran un alto el fuego por la Pascua ortodoxa,2026-04-10 00:39
+crítico,4,3,12.78,100,"elconfidencial, levante_emv, 20minutos",3,Un menor en estado crítico al ser apuñalado en Villanueva de la Cañada (Madrid),2026-04-10 00:39
+cercana,4,1,38.35,100,"elpais, google_news_internacional, infolibre, 20minutos",4,Melania Trump niega una relación cercana con Jeffrey Epstein: “Las mentiras que me vinculan con él deben terminar hoy mismo”,2026-04-10 00:39
+separado,3,3,9.59,100,"20minutos, europapress",2,"Rufián pide con Montero que ERC ""lidere"" e ""inspire"" el frente de izquierdas: ""Nos matarán por separado""",2026-04-10 00:39
+matarán,3,1,28.76,100,"20minutos, europapress",2,"Rufián pide con Montero que ERC ""lidere"" e ""inspire"" el frente de izquierdas: ""Nos matarán por separado""",2026-04-10 00:39
+tenido,4,3,12.78,100,"20minutos, heraldo_aragon, infolibre, google_news_politica, okdiario",5,"Esther Cañadas habla sobre su enfermedad: ""He tenido la suerte de poder superarla y mirarla como una época difícil""",2026-04-10 00:39
+premiado,4,7,5.48,100,okdiario,1,"La Primitiva: resultado y comprobar número premiado hoy, jueves 9 de abril de 2026",2026-04-10 00:39
+gabriel,5,9,5.33,100,"20minutos, google_news_internacional, eldiario, heraldo_aragon, huffington_es",5,"Las frases más virales de Gabriel Rufián en el acto junto a Irene Montero: ""Prefiero llenar tiktoks que bibliotecas""",2026-04-10 00:39
+ilegal,3,4,7.19,100,"okdiario, huffington_es",2,Inda: «Carmen Pano y Joseba han demostrado que el PSOE cometió un delito de financiación ilegal y otro fiscal»,2026-04-10 00:39
+cobre,3,3,9.59,100,elcorreo,1,Investigan a dos personas por provocar un incendio forestal en Ea al quemar cables para obtener cobre,2026-04-10 00:39
+quemar,3,0,5.0,100,elcorreo,1,Investigan a dos personas por provocar un incendio forestal en Ea al quemar cables para obtener cobre,2026-04-10 00:39
+forestal,3,2,14.38,100,elcorreo,1,Investigan a dos personas por provocar un incendio forestal en Ea al quemar cables para obtener cobre,2026-04-10 00:39
+provocar,3,1,28.76,100,elcorreo,1,Investigan a dos personas por provocar un incendio forestal en Ea al quemar cables para obtener cobre,2026-04-10 00:39
+investigan,3,4,7.19,100,elcorreo,1,Investigan a dos personas por provocar un incendio forestal en Ea al quemar cables para obtener cobre,2026-04-10 00:39
+euroliga,4,3,12.78,100,"google_news_es, elespanol",2,"Fenerbahçe - Real Madrid, resumen y resultado: Euroliga 2025/26 (69-74) - Diario AS",2026-04-10 00:39
+fenerbahçe,4,0,5.0,100,"google_news_es, elmundo, elespanol",3,"Fenerbahçe - Real Madrid, resumen y resultado: Euroliga 2025/26 (69-74) - Diario AS",2026-04-10 00:39
+alguna,3,2,14.38,100,"expansion, elcorreo, heraldo_aragon, google_news_internacional",4,"""En el crédito privado el riesgo es alto y se irá viendo en algunas carteras""",2026-04-10 00:39
+relación,8,6,12.78,100,"elcorreo, elmundo, heraldo_aragon, elpais, google_news_internacional",5,Melania Trump niega relación alguna con Epstein,2026-04-10 00:39
+niega,8,13,5.9,100,"elcorreo, elmundo, heraldo_aragon, elpais, google_news_internacional",5,Melania Trump niega relación alguna con Epstein,2026-04-10 00:39
+santiago,5,3,15.98,100,"okdiario, 20minutos, elcorreo, huffington_es",4,Santiago Segura sobre Almodovar en ‘La Revuelta’: «Me ha masacrado cada vez que me ha visto»,2026-04-10 00:39
+viernes,8,6,12.78,100,"okdiario, sur, 20minutos",3,La ley de multirreincidencia que entra en vigor este viernes castigará con cárcel el robo de móviles y otros delitos reiterados,2026-04-10 00:39
+melania,15,0,5.0,100,"france24_es, bbc_mundo, elcorreo, elmundo, heraldo_aragon",5,"""Las mentiras deben terminar hoy"": el sorpresivo mensaje de Melania Trump sobre un nexo con Epstein",2026-04-10 00:39
+mentiras,4,3,12.78,100,"france24_es, elpais, google_news_internacional, elespanol",4,"""Las mentiras deben terminar hoy"": el sorpresivo mensaje de Melania Trump sobre un nexo con Epstein",2026-04-10 00:39
+tenerife,3,2,14.38,100,google_news_internacional,1,El Cabildo promociona la Semana Internacional de la Moda de Tenerife 2026 en el Tranvía - El Burgado Digital,2026-04-10 00:39
+batalla,4,5,7.67,100,"expansion, elcorreo, google_news_internacional",3,ACS gana la batalla por el Metro de Praga a Strabag,2026-04-10 00:39
+párkinson,3,4,7.19,100,"elcorreo, google_news_internacional",2,Cuando el párkinson muestra todas sus caras,2026-04-10 00:39
+vinculan,5,0,5.0,100,"bbc_mundo, elpais, google_news_internacional, elespanol",4,"Melania Trump afirma que los rumores que la vinculan con Jeffrey Epstein ""deben terminar hoy mismo""",2026-04-10 00:39
+jeffrey,7,0,5.0,100,"bbc_mundo, elmundo, heraldo_aragon, elpais, google_news_internacional",5,"Melania Trump afirma que los rumores que la vinculan con Jeffrey Epstein ""deben terminar hoy mismo""",2026-04-10 00:39
+epstein,14,0,5.0,100,"france24_es, bbc_mundo, elcorreo, elmundo, heraldo_aragon",5,"""Las mentiras deben terminar hoy"": el sorpresivo mensaje de Melania Trump sobre un nexo con Epstein",2026-04-10 00:39
+terminar,6,2,28.76,100,"france24_es, bbc_mundo, elpais, google_news_internacional, elespanol",5,"""Las mentiras deben terminar hoy"": el sorpresivo mensaje de Melania Trump sobre un nexo con Epstein",2026-04-10 00:39
+deben,6,1,57.52,100,"france24_es, bbc_mundo, elpais, google_news_internacional, elespanol",5,"""Las mentiras deben terminar hoy"": el sorpresivo mensaje de Melania Trump sobre un nexo con Epstein",2026-04-10 00:39
+ucrania,13,8,15.58,100,"elcorreo, google_news_es, elpais, 20minutos, huffington_es",5,Rusia y Ucrania declaran un alto el fuego por la Pascua ortodoxa,2026-04-10 00:39
+puerta,4,7,5.48,100,"huffington_es, france24_es, elcorreo",3,Zelenski acepta la tregua de Pascua propuesta por Putin y abre la puerta a un alto el fuego temporal,2026-04-10 00:39
+friburgo,5,1,47.93,100,"okdiario, google_news_es, elpais, levante_emv",4,El Friburgo obliga al Celta a una machada en Balaídos para seguir vivo en la Europa League,2026-04-10 00:39
+celta,6,1,57.52,100,"okdiario, google_news_es, elpais, levante_emv",4,El Friburgo obliga al Celta a una machada en Balaídos para seguir vivo en la Europa League,2026-04-10 00:39
+biblioteca,3,0,5.0,100,"sur, elcorreo, 20minutos, lavanguardia",4,Un niño de 12 años muere tras ser apuñalado por un joven en una biblioteca madrileña,2026-04-10 00:39
+pascua,15,1,143.8,100,"huffington_es, elcorreo, google_news_es, elpais, 20minutos",5,Zelenski acepta la tregua de Pascua propuesta por Putin y abre la puerta a un alto el fuego temporal,2026-04-10 00:39
+putin,14,6,22.37,100,"huffington_es, lavanguardia, google_news_es, elpais, 20minutos",5,Zelenski acepta la tregua de Pascua propuesta por Putin y abre la puerta a un alto el fuego temporal,2026-04-10 00:39
+primitiva,7,2,33.55,100,"20minutos, sur, elcorreo, levante_emv, okdiario",5,Un acertante de La Primitiva gana más de un millón de euros,2026-04-10 00:39
+apuñalado,8,0,5.0,100,"sur, elcorreo, okdiario, elconfidencial, 20minutos",5,Un niño de 12 años muere tras ser apuñalado por un joven en una biblioteca madrileña,2026-04-10 00:39
+campo,3,6,4.79,95,"google_news_internacional, elpais, google_news_es",3,La Mancomunidad conmemoró ayer el Día Internacional del Pueblo Gitano - Campo de Gibraltar Siglo XXI,2026-04-10 00:39
+digital,4,8,4.79,95,"google_news_internacional, google_news_es, elcorreo, google_news_politica",4,El Cabildo promociona la Semana Internacional de la Moda de Tenerife 2026 en el Tranvía - El Burgado Digital,2026-04-10 00:39
+resultado,11,22,4.79,95,"expansion, sur, google_news_es, elcorreo, levante_emv",5,Los sectores que más mejorarán y empeorarán sus resultados,2026-04-10 00:39
+basket,3,6,4.79,95,levante_emv,1,El Roig Arena vibra con un Valencia Basket cabeza de serie,2026-04-10 00:39
+nacional,5,10,4.79,95,"google_news_internacional, sur, okdiario, elpais, elcorreo",5,Muestra Internacional de Teatro Universitario 2026 | MITEU de Vigo - VIGO PLAN,2026-04-10 00:39
+violencia,3,6,4.79,95,"google_news_internacional, elmundo_internacional",2,Nueve países del sur de la UE reclaman un cese inmediato de la violencia en Oriente Próximo - Demócrata,2026-04-10 00:39
+cambia,4,8,4.79,95,"huffington_es, okdiario",2,La reapertura de Ormuz no cambia nada: las aerolíneas europeas advierten de que las reservas de queroseno no volverán a la normalidad &quot;en meses&quot;,2026-04-10 00:39
+venezuela,5,10,4.79,95,"elpais, france24_es, elcorreo",3,El chavismo designa nuevo fiscal general en Venezuela,2026-04-10 00:39
+muere,7,15,4.47,89,"sur, elpais, lavanguardia, elcorreo, okdiario",5,Un niño de 12 años muere tras ser apuñalado por un joven en una biblioteca madrileña,2026-04-10 00:39
+izquierda,6,13,4.42,88,"20minutos, infolibre, google_news_internacional, eldiario, elcorreo",5,"Rufián pide con Montero que ERC ""lidere"" e ""inspire"" el frente de izquierdas: ""Nos matarán por separado""",2026-04-10 00:39
+piden,4,9,4.26,85,"levante_emv, elpais, google_news_es, heraldo_aragon",4,Las víctimas de Adamuz piden responsabilidades políticas y jurídicas a la Junta de Andalucía,2026-04-10 00:39
+izquierdas,3,7,4.11,82,"20minutos, infolibre, elcorreo",3,"Rufián pide con Montero que ERC ""lidere"" e ""inspire"" el frente de izquierdas: ""Nos matarán por separado""",2026-04-10 00:39
+alemania,3,7,4.11,82,"levante_emv, google_news_es, google_news_internacional",3,El Celta desaparece en Alemania ante un Friburgo insaciable,2026-04-10 00:39
+málaga,14,33,4.07,81,sur,1,Treinta años del primer niño trasplantado de médula en Málaga: «Fue una odisea»,2026-04-10 00:39
+países,3,8,3.6,71,"expansion, google_news_internacional",2,La familia que exporta cosmética 'made in Toledo' a 65 países,2026-04-10 00:39
+abril,32,86,3.57,71,"elcorreo, sur, 20minutos, levante_emv, okdiario",5,"Horóscopo diario, 11 de abril de 2026",2026-04-10 00:39
+regreso,3,9,3.2,63,"elcorreo, sur, google_news_es",3,Velocidad extrema y 3.000 grados de temperatura: así es el peligroso regreso a casa de la Artemis 2,2026-04-10 00:39
+valencia,6,18,3.2,63,"google_news_es, levante_emv, elpais, sur",4,En 2050 España será el país con mayor prevalencia de Parkinson por habitante - Geriatricarea,2026-04-10 00:39
+muestra,3,9,3.2,63,"google_news_internacional, elcorreo, 20minutos",3,Muestra Internacional de Teatro Universitario 2026 | MITEU de Vigo - VIGO PLAN,2026-04-10 00:39
+incendio,3,9,3.2,63,elcorreo,1,Investigan a dos personas por provocar un incendio forestal en Ea al quemar cables para obtener cobre,2026-04-10 00:39
+turismo,4,13,2.95,58,"sur, google_news_economia, elpais",3,El turismo de la Costa empleó en 2025 a más del 20% de la población ocupada,2026-04-10 00:39
+advierte,3,10,2.88,57,"google_news_es, okdiario, elpais, huffington_es",4,"Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Trump advierte a Irán por su plan de cobrar a los buques para atravesar el estrecho de Ormuz: “¡Más les vale no estar haciéndolo!” - EL PAÍS",2026-04-10 00:39
+estar,3,10,2.88,57,"elcorreo, lavanguardia, google_news_es, elpais, bbc_mundo",5,"La batalla en silencio contra la fascitis de Boyé: «Estará incómodo, pero no se queja»",2026-04-10 00:39
+infobae,3,10,2.88,57,"google_news_politica, google_news_internacional",2,Politico llegará a España este año con un boletín digital elaborado en Madrid - Infobae,2026-04-10 00:39
+pasado,3,10,2.88,57,"elcorreo, okdiario",2,"Los extranjeros compraron 1.800 casas el año pasado en Euskadi, una cifra récord",2026-04-10 00:39
+joven,5,17,2.82,56,"sur, elcorreo, elmundo, elpais",4,Un niño de 12 años muere tras ser apuñalado por un joven en una biblioteca madrileña,2026-04-10 00:39
+irene,4,14,2.74,54,"20minutos, eldiario, heraldo_aragon, huffington_es",4,"Las frases más virales de Gabriel Rufián en el acto junto a Irene Montero: ""Prefiero llenar tiktoks que bibliotecas""",2026-04-10 00:39
+salir,3,11,2.61,52,"20minutos, huffington_es, elcorreo",3,"Ilia Topuria avanza en 'El Hormiguero' una 'sorpresa' desde el despacho de Trump: ""A ver qué se nos ocurre para no salir esposados""",2026-04-10 00:39
+league,6,22,2.61,52,"okdiario, google_news_es, elpais",3,El Friburgo obliga al Celta a una machada en Balaídos para seguir vivo en la Europa League,2026-04-10 00:39
+rufián,11,41,2.57,51,"20minutos, infolibre, google_news_es, google_news_internacional, eldiario",5,"Las frases más virales de Gabriel Rufián en el acto junto a Irene Montero: ""Prefiero llenar tiktoks que bibliotecas""",2026-04-10 00:39
+diario,6,24,2.4,47,"elcorreo, google_news_internacional, google_news_es, 20minutos, okdiario",5,"Horóscopo diario, 11 de abril de 2026",2026-04-10 00:39
+andalucía,5,20,2.4,47,"sur, levante_emv",2,La iglesia de Nueva Andalucía organiza un concierto católico para financiar la reparación del templo,2026-04-10 00:39
+final,9,36,2.4,47,"expansion, elcorreo, google_news_internacional, google_news_es, elpais",5,"Recta final de Meloni para renovar la cúpula de Enel, dueño de Endesa",2026-04-10 00:39
+mientras,4,16,2.4,47,"elmundo_espana, bbc_mundo, france24_es, huffington_es",4,El Gobierno se mete en la 'nevera' mientras se multiplica el escándalo de Ábalos en el Supremo,2026-04-10 00:39
+ee.uu,3,12,2.4,47,"bbc_mundo, elcorreo, elpais",3,EE.UU. planea inscribir automáticamente a los jóvenes varones en el registro para prestar el servicio militar,2026-04-10 00:39
+madre,3,12,2.4,47,"sur, 20minutos",2,El lado más personal de Chupete: «Cuando se enfadan mi padre o mi madre me llaman 'Carlos'»,2026-04-10 00:39
+trump,31,129,2.3,46,"huffington_es, sur, expansion, france24_es, bbc_mundo",5,Trump acusa a Irán de incumplir el acuerdo en Ormuz: &quot;Ese no es el trato que tenemos&quot;,2026-04-10 00:39
+pedro,5,21,2.28,45,"levante_emv, okdiario, huffington_es",3,Pedro Sánchez se pasa por un día a los videojuegos y se divierte con el 'Mario Kart',2026-04-10 00:39
+fiscal,4,17,2.26,45,"elpais, elmundo, okdiario, heraldo_aragon",4,El chavismo designa nuevo fiscal general en Venezuela,2026-04-10 00:39
+asegura,4,18,2.13,42,"elpais, google_news_es",2,El Madrid emerge y el Valencia es segundo y se asegura el factor campo en los cuartos de final,2026-04-10 00:39
+haber,5,23,2.08,41,"sur, heraldo_aragon, infolibre, levante_emv, 20minutos",5,Abascal acusa al PP de haber «robado» el cambio en Andalucía y pide no darle una mayoría,2026-04-10 00:39
+momento,3,14,2.05,41,"lavanguardia, elmundo, elespanol",3,El cambio de equipos sacude a Alba Paul y Jorge Javier Vázquez en 'Supervivientes 2026': “Ha llegado el momento que hasta María Pombo nos parece buena”,2026-04-10 00:39
