@@ -1,45 +1,44 @@
 keyword,count_now,count_base,ratio,viral_score,sources,n_sources,sample_title,detected_at
-debate,5,14,5.07,100,"google_news_economia, google_news_internacional, elespanol",3,"Ecos del patinazo de Carlos Cuerpo: los salarios reales en España no crecen desde hace ocho años, y él lo sabe - El Debate",2026-04-10 03:10
-general,4,7,8.12,100,"elespanol, google_news_es, elpais, elmundo",4,El Español nombra a Samary Fernández Feito nueva directora general de Negocio para impulsar su desarrollo,2026-04-10 03:10
-villanueva,3,7,6.09,100,"elmundo, okdiario, elpais",3,Un joven mata a puñaladas a un niño de 12 años en un centro cultural de Villanueva de la Cañada,2026-04-10 03:10
-miranda,3,3,14.21,100,elcorreo,1,Entre el día 13 y el último del mes de abril el Santiago Apóstol de Miranda sólo dispondrá de un quirófano,2026-04-10 03:10
-segura,3,4,10.66,100,"google_news_internacional, okdiario, 20minutos, google_news_es",4,"Guerra en Irán, última hora hoy, en directo | Trump asegura que el petróleo empezará a fluir ""con o sin la ayuda de Irán"" - El Mundo",2026-04-10 03:10
-santiago,4,5,11.37,100,"okdiario, 20minutos, elcorreo, google_news_es",4,Santiago Segura sobre Almodovar en ‘La Revuelta’: «Me ha masacrado cada vez que me ha visto»,2026-04-10 03:10
-puerta,3,8,5.33,100,"huffington_es, france24_es",2,Zelenski acepta la tregua de Pascua propuesta por Putin y abre la puerta a un alto el fuego temporal,2026-04-10 03:10
-párkinson,3,3,14.21,100,"elcorreo, google_news_internacional",2,Cuando el párkinson muestra todas sus caras,2026-04-10 03:10
-colombia,3,1,42.62,100,france24_es,1,Ecuador eleva los aranceles a Colombia del 50% al 100% y escala la disputa por la seguridad fronteriza,2026-04-10 03:10
-ecuador,3,1,42.62,100,france24_es,1,Ecuador eleva los aranceles a Colombia del 50% al 100% y escala la disputa por la seguridad fronteriza,2026-04-10 03:10
-tenerife,3,2,21.31,100,google_news_internacional,1,El Cabildo promociona la Semana Internacional de la Moda de Tenerife 2026 en el Tranvía - El Burgado Digital,2026-04-10 03:10
-terminar,3,5,8.52,100,"france24_es, bbc_mundo",2,"""Las mentiras deben terminar hoy"": el sorpresivo mensaje de Melania Trump sobre un nexo con Epstein",2026-04-10 03:10
-deben,3,4,10.66,100,"france24_es, bbc_mundo",2,"""Las mentiras deben terminar hoy"": el sorpresivo mensaje de Melania Trump sobre un nexo con Epstein",2026-04-10 03:10
-apuñalado,3,5,8.52,100,"sur, elcorreo, okdiario",3,Un niño de 12 años muere tras ser apuñalado por un joven en una biblioteca madrileña,2026-04-10 03:10
-celta,5,2,35.52,100,"google_news_es, okdiario, elpais, levante_emv",4,El Friburgo manda al Celta a la lona en la ida de la Europa League: 3-0 - La Voz de Galicia,2026-04-10 03:10
-friburgo,5,1,71.04,100,"google_news_es, okdiario, elpais, levante_emv",4,El Friburgo manda al Celta a la lona en la ida de la Europa League: 3-0 - La Voz de Galicia,2026-04-10 03:10
-cañada,3,6,7.1,100,"elmundo, okdiario, elpais",3,Un joven mata a puñaladas a un niño de 12 años en un centro cultural de Villanueva de la Cañada,2026-04-10 03:10
-estar,4,9,6.31,100,"elespanol, elcorreo, lavanguardia, google_news_es, elpais",5,"El Pentágono convocó al nuncio papal por el discurso pacifista de León XIV: ""Más le vale al Vaticano estar de lado de EEUU""",2026-04-10 03:10
-regreso,4,9,6.31,100,"elespanol, elcorreo, sur, google_news_es",4,Una reentrada a 40.000 km/h y 11 paracaídas para no estrellarse en el mar: el regreso a Tierra de los astronautas de Artemis II,2026-04-10 03:10
-batalla,4,6,9.47,100,"okdiario, expansion, elcorreo, google_news_internacional",4,"Palos, cuchillos y machetes en plena calle: batalla campal en Son Gotleu entre argelinos y marroquíes",2026-04-10 03:10
-calvario,4,0,5.0,100,"okdiario, elespanol, elcorreo",3,"El calvario de la víctima de ‘bullying’ en Mallorca: «No quería ni comer ni pensar, sólo dormía»",2026-04-10 03:10
-acepta,3,4,10.66,100,"france24_es, google_news_es, huffington_es, 20minutos",4,"Tras quedar marginado de la tregua con Irán, ¿por qué Israel se ensaña con Líbano y luego acepta dialogar?",2026-04-10 03:10
-jeffrey,3,6,7.1,100,bbc_mundo,1,Melania Trump afirma que no tenía ninguna vinculación con Jeffrey Epstein y pide que las víctimas del magnate comparezcan ante el Congreso de EE.UU.,2026-04-10 03:10
-league,5,15,4.74,94,"google_news_es, okdiario, elpais",3,El Friburgo manda al Celta a la lona en la ida de la Europa League: 3-0 - La Voz de Galicia,2026-04-10 03:10
-muestra,3,9,4.74,94,"google_news_internacional, elcorreo, 20minutos",3,Muestra Internacional de Teatro Universitario 2026 | MITEU de Vigo - VIGO PLAN,2026-04-10 03:10
-epstein,4,12,4.74,94,"bbc_mundo, france24_es",2,Melania Trump afirma que no tenía ninguna vinculación con Jeffrey Epstein y pide que las víctimas del magnate comparezcan ante el Congreso de EE.UU.,2026-04-10 03:10
-venezuela,4,12,4.74,94,"google_news_es, elpais, france24_es",3,Confirman a Larry Devoe como el nuevo fiscal general de Venezuela en reemplazo de Tarek William Saab - CNN en Español,2026-04-10 03:10
-muere,5,16,4.44,88,"sur, elpais, lavanguardia, elcorreo, okdiario",5,Un niño de 12 años muere tras ser apuñalado por un joven en una biblioteca madrileña,2026-04-10 03:10
-melania,4,13,4.37,87,"bbc_mundo, france24_es",2,Melania Trump afirma que no tenía ninguna vinculación con Jeffrey Epstein y pide que las víctimas del magnate comparezcan ante el Congreso de EE.UU.,2026-04-10 03:10
-cobrar,3,10,4.26,85,"elespanol, google_news_es, elpais",3,PSOE y Gobierno en el calvario del TS: tres testigos rotundos les acusan de cobrar sobornos por hidrocarburos y Air Europa,2026-04-10 03:10
-dólares,3,10,4.26,85,"expansion, elmundo",2,"Whoop, la empresa que seduce a Ronaldo y ya vale 10.000 millones de dólares",2026-04-10 03:10
-advierte,3,11,3.87,77,"google_news_es, okdiario, elpais",3,"Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Trump advierte a Irán por su plan de cobrar a los buques para atravesar el estrecho de Ormuz: “¡Más les vale no estar haciéndolo!” - EL PAÍS",2026-04-10 03:10
-madre,3,11,3.87,77,"sur, 20minutos",2,El lado más personal de Chupete: «Cuando se enfadan mi padre o mi madre me llaman 'Carlos'»,2026-04-10 03:10
-málaga,8,33,3.44,68,sur,1,Treinta años del primer niño trasplantado de médula en Málaga: «Fue una odisea»,2026-04-10 03:10
-joven,4,17,3.34,66,"sur, elcorreo, elmundo, elpais",4,Un niño de 12 años muere tras ser apuñalado por un joven en una biblioteca madrileña,2026-04-10 03:10
-espacio,3,13,3.28,65,"google_news_internacional, sur",2,Inicia la Feria Internacional del Aire y del Espacio en Chile con amplia participación internacional - CGTN en Español,2026-04-10 03:10
-pascua,3,14,3.04,60,"google_news_es, huffington_es, elcorreo",3,Zelenski acepta tregua con Rusia durante la Pascua ortodoxa - dw.com,2026-04-10 03:10
-fiscal,4,19,2.99,59,"elespanol, google_news_es, elpais, elmundo",4,"La Audiencia desoye a José Luis Moreno y le manda a juicio por estafa, blanqueo, organización criminal y fraude fiscal",2026-04-10 03:10
-afirma,3,15,2.84,56,bbc_mundo,1,Melania Trump afirma que no tenía ninguna vinculación con Jeffrey Epstein y pide que las víctimas del magnate comparezcan ante el Congreso de EE.UU.,2026-04-10 03:10
-turismo,3,16,2.66,53,"google_news_economia, sur",2,La guerra impulsa un ‘efecto refugio’ que puede dejar una propina de 4.200 millones al turismo en España - El Debate,2026-04-10 03:10
-mientras,3,20,2.13,42,"elmundo, elespanol",2,Examen definitivo a la autoridad de Montero: juzga hoy la lista 'rebelde' de Cádiz mientras intenta limitar a los 'barones' provinciales,2026-04-10 03:10
-estrecho,4,28,2.03,40,"elmundo_internacional, google_news_es, okdiario, elpais",4,Irán ataca oleoductos y presume de minar el Estrecho para que el crudo suba durante el alto el fuego,2026-04-10 03:10
-andalucía,3,21,2.03,40,"sur, levante_emv",2,La iglesia de Nueva Andalucía organiza un concierto católico para financiar la reparación del templo,2026-04-10 03:10
-español,7,49,2.03,40,"huffington_es, google_news_internacional, elespanol, elmundo, google_news_es",5,"Son dos de los grandes del cine español, pero su relación no pasa por el mejor momento: &quot;Cada vez que me ha visto, me ha masacrado&quot;",2026-04-10 03:10
+impulsa,4,8,6.0,100,"france24_es, heraldo_aragon, google_news_economia, levante_emv, elespanol",5,México impulsa el ‘fracking’ “con matices” para reducir su dependencia energética de EE. UU.,2026-04-10 03:40
+augusta,4,4,12.01,100,"heraldo_aragon, elcorreo, google_news_es",3,Masters de Augusta 2026: Jon Rahm explica cómo salir vivo del temido Amen Corner,2026-04-10 03:40
+santiago,3,6,6.0,100,"okdiario, 20minutos, elcorreo",3,Santiago Segura sobre Almodovar en ‘La Revuelta’: «Me ha masacrado cada vez que me ha visto»,2026-04-10 03:40
+párkinson,3,3,12.01,100,"elcorreo, google_news_internacional",2,Cuando el párkinson muestra todas sus caras,2026-04-10 03:40
+colombia,3,1,36.02,100,france24_es,1,Ecuador eleva los aranceles a Colombia del 50% al 100% y escala la disputa por la seguridad fronteriza,2026-04-10 03:40
+ecuador,3,1,36.02,100,france24_es,1,Ecuador eleva los aranceles a Colombia del 50% al 100% y escala la disputa por la seguridad fronteriza,2026-04-10 03:40
+terminar,3,5,7.2,100,"france24_es, bbc_mundo",2,"""Las mentiras deben terminar hoy"": el sorpresivo mensaje de Melania Trump sobre un nexo con Epstein",2026-04-10 03:40
+deben,3,4,9.01,100,"france24_es, bbc_mundo",2,"""Las mentiras deben terminar hoy"": el sorpresivo mensaje de Melania Trump sobre un nexo con Epstein",2026-04-10 03:40
+general,4,7,6.86,100,"elespanol, google_news_es, elpais, elmundo",4,El Español nombra a Samary Fernández Feito nueva directora general de Negocio para impulsar su desarrollo,2026-04-10 03:40
+acepta,3,4,9.01,100,"france24_es, google_news_es, huffington_es",3,"Tras quedar marginado de la tregua con Irán, ¿por qué Israel se ensaña con Líbano y luego acepta dialogar?",2026-04-10 03:40
+calvario,4,0,5.0,100,"okdiario, elespanol, elcorreo",3,"El calvario de la víctima de ‘bullying’ en Mallorca: «No quería ni comer ni pensar, sólo dormía»",2026-04-10 03:40
+batalla,4,6,8.0,100,"okdiario, expansion, elcorreo, google_news_internacional",4,"Palos, cuchillos y machetes en plena calle: batalla campal en Son Gotleu entre argelinos y marroquíes",2026-04-10 03:40
+jeffrey,3,6,6.0,100,bbc_mundo,1,Melania Trump afirma que no tenía ninguna vinculación con Jeffrey Epstein y pide que las víctimas del magnate comparezcan ante el Congreso de EE.UU.,2026-04-10 03:40
+miranda,3,2,18.01,100,elcorreo,1,Entre el día 13 y el último del mes de abril el Santiago Apóstol de Miranda sólo dispondrá de un quirófano,2026-04-10 03:40
+crece,3,3,12.01,100,"heraldo_aragon, google_news_economia, expansion, elcorreo",4,La vermutería de Biescas que crece y se expande por toda España,2026-04-10 03:40
+trabajadores,3,6,6.0,100,"heraldo_aragon, google_news_economia, levante_emv",3,Una empresa de Albacete abonará 100 euros cada seis meses a sus trabajadores si no sufren accidentes con baja,2026-04-10 03:40
+maratón,3,1,36.02,100,"heraldo_aragon, elmundo",2,Del maratón de Filípides a los emoticonos de Whatsapp: así han cambiado mensajes y mensajeros,2026-04-10 03:40
+ciudad,4,11,4.37,87,"heraldo_aragon, elmundo, elcorreo, sur",4,Zaragoza se posiciona como gran ciudad en 2026 con más inversión y mejores servicios,2026-04-10 03:40
+debate,5,14,4.29,85,"google_news_economia, google_news_internacional, elespanol",3,"Ecos del patinazo de Carlos Cuerpo: los salarios reales en España no crecen desde hace ocho años, y él lo sabe - El Debate",2026-04-10 03:40
+epstein,4,12,4.0,80,"bbc_mundo, france24_es",2,Melania Trump afirma que no tenía ninguna vinculación con Jeffrey Epstein y pide que las víctimas del magnate comparezcan ante el Congreso de EE.UU.,2026-04-10 03:40
+estoy,3,9,4.0,80,"elespanol, heraldo_aragon, levante_emv",3,"Rufián desafía a ERC junto a Irene Montero: ""Si me tengo que ir a casa me iré, no estoy para leer argumentarios""",2026-04-10 03:40
+estar,3,9,4.0,80,"heraldo_aragon, elespanol, elcorreo, lavanguardia, google_news_es",5,El nuevo acceso a la Plataforma Logística de Zaragoza estará listo a finales de 2027,2026-04-10 03:40
+víctimas,3,9,4.0,80,"heraldo_aragon, google_news_es, bbc_mundo",3,"Lucía Ruiz, delegada de AVT en Aragón: “Si Josu Ternera tiene problemas de salud, las víctimas de terrorismo más”",2026-04-10 03:40
+muestra,3,9,4.0,80,"google_news_internacional, elcorreo, 20minutos",3,Muestra Internacional de Teatro Universitario 2026 | MITEU de Vigo - VIGO PLAN,2026-04-10 03:40
+melania,4,13,3.69,73,"bbc_mundo, france24_es",2,Melania Trump afirma que no tenía ninguna vinculación con Jeffrey Epstein y pide que las víctimas del magnate comparezcan ante el Congreso de EE.UU.,2026-04-10 03:40
+regreso,3,10,3.6,72,"elespanol, elcorreo, sur",3,Una reentrada a 40.000 km/h y 11 paracaídas para no estrellarse en el mar: el regreso a Tierra de los astronautas de Artemis II,2026-04-10 03:40
+dólares,3,10,3.6,72,"expansion, elmundo",2,"Whoop, la empresa que seduce a Ronaldo y ya vale 10.000 millones de dólares",2026-04-10 03:40
+rusia,3,10,3.6,72,"google_news_es, elcorreo",2,Zelenski acepta tregua con Rusia durante la Pascua ortodoxa - dw.com,2026-04-10 03:40
+aragón,7,24,3.5,70,heraldo_aragon,1,Aragón ya tiene la mayor concentración de centros de datos proyectados en España y Portugal,2026-04-10 03:40
+pascua,4,14,3.43,68,"google_news_es, huffington_es, elcorreo",3,Zelenski acepta tregua con Rusia durante la Pascua ortodoxa - dw.com,2026-04-10 03:40
+fiscal,5,19,3.16,63,"google_news_economia, elespanol, google_news_es, elpais, elmundo",5,Llenar el depósito en España es más barato que en la Unión Europea tras la rebaja fiscal del Gobierno - Infobae,2026-04-10 03:40
+muere,4,16,3.0,60,"sur, elpais, lavanguardia, elcorreo",4,Un niño de 12 años muere tras ser apuñalado por un joven en una biblioteca madrileña,2026-04-10 03:40
+espacio,3,13,2.77,55,"google_news_internacional, sur",2,Inicia la Feria Internacional del Aire y del Espacio en Chile con amplia participación internacional - CGTN en Español,2026-04-10 03:40
+venezuela,3,13,2.77,55,"google_news_es, elpais, france24_es",3,Confirman a Larry Devoe como el nuevo fiscal general de Venezuela en reemplazo de Tarek William Saab - CNN en Español,2026-04-10 03:40
+ortodoxa,3,13,2.77,55,"google_news_es, elcorreo",2,Zelenski acepta tregua con Rusia durante la Pascua ortodoxa - dw.com,2026-04-10 03:40
+league,3,13,2.77,55,"google_news_es, okdiario",2,El Friburgo manda al Celta a la lona en la ida de la Europa League: 3-0 - La Voz de Galicia,2026-04-10 03:40
+afirma,3,15,2.4,48,bbc_mundo,1,Melania Trump afirma que no tenía ninguna vinculación con Jeffrey Epstein y pide que las víctimas del magnate comparezcan ante el Congreso de EE.UU.,2026-04-10 03:40
+turismo,3,16,2.25,45,"google_news_economia, sur",2,La guerra impulsa un ‘efecto refugio’ que puede dejar una propina de 4.200 millones al turismo en España - El Debate,2026-04-10 03:40
+huesca,3,16,2.25,45,heraldo_aragon,1,La sencilla ruta de senderismo en un pueblo de Huesca con vistas increíbles a un majestuoso castillo,2026-04-10 03:40
+mejores,3,17,2.12,42,"heraldo_aragon, elcorreo",2,Zaragoza se posiciona como gran ciudad en 2026 con más inversión y mejores servicios,2026-04-10 03:40
+joven,3,18,2.0,40,"sur, elcorreo, elmundo",3,Un niño de 12 años muere tras ser apuñalado por un joven en una biblioteca madrileña,2026-04-10 03:40
+mejor,4,24,2.0,40,"heraldo_aragon, huffington_es, expansion, elcorreo",4,"El mejor imitador de Enrique Bunbury llega a Zaragoza: ""Me operé la nariz para parecerme a él""",2026-04-10 03:40
+tiempo,4,24,2.0,40,"levante_emv, heraldo_aragon, google_news_es, elespanol",4,"El tiempo en Gandia: previsión meteorológica para hoy, viernes 10 de abril",2026-04-10 03:40
