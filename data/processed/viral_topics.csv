@@ -1,74 +1,90 @@
 keyword,count_now,count_base,ratio,viral_score,sources,n_sources,sample_title,detected_at
-confirmado,3,3,9.38,100,"okdiario, huffington_es",2,Confirmado por las Cabañuelas de Jorge Rey: no estamos preparados para el festival de lluvias que llega,2026-04-10 05:40
-multas,3,1,28.13,100,"huffington_es, levante_emv, elcorreo",3,"Tokio cambia las normas del turismo masivo que destruye la vida de sus vecinos: multas a comercios, papeleras inteligentes y 1.900 millones de yenes para frenarlo",2026-04-10 05:40
-atlántico,4,6,6.25,100,"google_news_internacional, heraldo_aragon, 20minutos, google_news_economia",4,"Frankfurt o Bruselas, peticiones de empresarios para Peinador - Atlántico",2026-04-10 05:40
-campaña,4,7,5.36,100,"levante_emv, 20minutos, elespanol, expansion",4,Concluye la campaña electoral peruana en medio de un fuerte desinterés ciudadano y con Keiko Fujimori primera en los sondeos,2026-04-10 05:40
-grados,3,4,7.03,100,"eldiario, elpais",2,El tiempo primaveral se despide este viernes con temperaturas cercanas a los 30 grados,2026-04-10 05:40
-prueba,3,5,5.63,100,"okdiario, elpais, heraldo_aragon, 20minutos",4,Defensa paralizó 2 meses las entregas del blindado 8×8 Dragón porque no supera la prueba de lluvia: «Ponían una lona»,2026-04-10 05:40
-lluvia,3,3,9.38,100,"okdiario, eldiario, elpais, 20minutos",4,Confirmado por las Cabañuelas de Jorge Rey: no estamos preparados para el festival de lluvias que llega,2026-04-10 05:40
-participación,4,5,7.5,100,"google_news_internacional, google_news_es, elpais",3,El 67º Concurso Internacional de Piano Premio ‘Jaén’ contará con la participación de 48 pianistas de 13 países - Hora Jaén,2026-04-10 05:40
-miedo,3,4,7.03,100,"elpais_internacional, elpais, google_news_internacional",3,Beirut espanta el miedo tras la ofensiva israelí más letal: “Dejad que nos maten cuanto antes”,2026-04-10 05:40
-respaldo,3,0,5.0,100,"google_news_es, elpais, 20minutos",3,"La soledad de Lamine Yamal: sin el respaldo de la afición, el delantero firmó sin éxito ante el Atlético 19 regates y 11 apariciones en el área - EL PAÍS",2026-04-10 05:40
-apariciones,3,0,5.0,100,"google_news_es, elpais, 20minutos",3,"La soledad de Lamine Yamal: sin el respaldo de la afición, el delantero firmó sin éxito ante el Atlético 19 regates y 11 apariciones en el área - EL PAÍS",2026-04-10 05:40
-reentrada,3,0,5.0,100,"elpais, 20minutos, elespanol",3,"Los astronautas de Artemis, ante el momento más peligroso que les queda, la reentrada: “Iremos montados en una bola de fuego”",2026-04-10 05:40
-negra,3,5,5.63,100,elpais,1,"Banana Negra, las ‘frutinovelas’ y el cerebro frito",2026-04-10 05:40
-buena,3,3,9.38,100,"elpais, levante_emv",2,‘La buena hija’: notable acercamiento a un padre maltratador,2026-04-10 05:40
-álvarez,3,4,7.03,100,"elpais, 20minutos, elmundo",3,Sed de Henar Álvarez,2026-04-10 05:40
-media,3,3,9.38,100,"levante_emv, infolibre, elpais, google_news_economia, el_confidencial_tech",5,El Museu de Prehistòria de València se ofrece a mediar tras el bloqueo en la Cova del Bolomor de Tavernes de la Valldigna,2026-04-10 05:40
-comercial,3,4,7.03,100,"elpais, 20minutos",2,"Luz del Tajo, el mayor centro comercial de Toledo, sale a la venta",2026-04-10 05:40
-maratón,3,1,28.13,100,"heraldo_aragon, elmundo",2,Del maratón de Filípides a los emoticonos de Whatsapp: así han cambiado mensajes y mensajeros,2026-04-10 05:40
-debate,7,13,5.05,100,"20minutos, google_news_economia, google_news_internacional, elespanol",4,Sánchez se aferra al comodín del aborto y pisa el acelerador para colocar el debate justo antes de la campaña andaluza,2026-04-10 05:40
-sufren,3,2,14.07,100,"elpais, heraldo_aragon, google_news_es",3,Piel calmada y sin tirantez: la solución definitiva para los rostros que sufren con los cambios de temperatura,2026-04-10 05:40
-calvario,3,1,28.13,100,"okdiario, elespanol, elcorreo",3,"El calvario de la víctima de ‘bullying’ en Mallorca: «No quería ni comer ni pensar, sólo dormía»",2026-04-10 05:40
-viento,3,4,7.03,100,"okdiario, 20minutos",2,"Previsión AEMET: Castilla y León con nubes, chubascos y viento variable hoy",2026-04-10 05:40
-drones,4,3,12.5,100,"levante_emv, elpais, el_confidencial_tech, 20minutos",4,Telefónica lanza un servicio con drones de última generación pilotados desde un ‘búnker tecnológico’ a cientos de kilómetros,2026-04-10 05:40
-viernes,8,14,5.36,100,"okdiario, eldiario, levante_emv",3,"Predicción del horóscopo para Cáncer hoy, viernes 10 de abril de 2026",2026-04-10 05:40
-tormentas,3,1,28.13,100,"okdiario, infolibre, 20minutos",3,"Andalucía: cielos nublados y chubascos, AEMET prevé tormentas y vientos fuertes hoy",2026-04-10 05:40
-vanguardia,3,5,5.63,100,"okdiario, google_news_economia, google_news_internacional",3,El desafío del Glaucoma: tecnología de vanguardia para proteger la visión irreversible,2026-04-10 05:40
-augusta,3,6,4.69,93,"heraldo_aragon, elpais, elcorreo",3,Masters de Augusta 2026: Jon Rahm explica cómo salir vivo del temido Amen Corner,2026-04-10 05:40
-plazo,3,6,4.69,93,"levante_emv, heraldo_aragon, 20minutos",3,Sumar estira el plazo para votar el decreto de vivienda a la espera de arrancar la negociación y con la incógnita de Junts,2026-04-10 05:40
-trabajadores,3,6,4.69,93,"heraldo_aragon, google_news_economia, levante_emv",3,Una empresa de Albacete abonará 100 euros cada seis meses a sus trabajadores si no sufren accidentes con baja,2026-04-10 05:40
-histórica,3,6,4.69,93,"elmundo_internacional, elpais, 20minutos",3,Histórica reunión en Pekín entre Xi Jinping y la líder de la oposición de Taiwan,2026-04-10 05:40
-temperaturas,4,9,4.17,83,"okdiario, eldiario, 20minutos, google_news_es",4,"AEMET prevé cielo despejado y brumas en Barcelona, con temperaturas en ligero ascenso y viento variable",2026-04-10 05:40
-siempre,3,7,4.02,80,"elpais, 20minutos, elcorreo",3,Enamorarse o romper en un pueblo: “Es como si siempre estuvieses en el instituto”,2026-04-10 05:40
-víctimas,3,8,3.52,70,"heraldo_aragon, google_news_es, bbc_mundo",3,"Lucía Ruiz, delegada de AVT en Aragón: “Si Josu Ternera tiene problemas de salud, las víctimas de terrorismo más”",2026-04-10 05:40
-públicas,3,8,3.52,70,"elpais, 20minutos, google_news_economia",3,Madrid penaliza con 355.000 euros a una empresa a la que acusa de no reparar 1.000 “incidencias críticas” en viviendas públicas,2026-04-10 05:40
-tengo,3,8,3.52,70,"elpais, elespanol, elcorreo",3,"Jesulín de Ubrique llega a ‘Tu cara me suena’: “¿Si me toca una mujer? Pues nada, aquí está el tío. Tengo la rodilla fastidiada, pero llevaré tacones”",2026-04-10 05:40
-servicio,3,8,3.52,70,"levante_emv, elpais, heraldo_aragon, 20minutos",4,Telefónica lanza un servicio con drones de última generación pilotados desde un ‘búnker tecnológico’ a cientos de kilómetros,2026-04-10 05:40
-cobrar,3,8,3.52,70,"google_news_es, okdiario, elespanol",3,"Guerra en Irán, en directo | Trump advierte a Irán por su plan de cobrar a los buques que pasen por Ormuz: ""Más les vale no hacerlo"" - LaSexta",2026-04-10 05:40
-ciudad,4,12,3.13,62,"levante_emv, elpais, heraldo_aragon, 20minutos, elmundo",5,Concluye la campaña electoral peruana en medio de un fuerte desinterés ciudadano y con Keiko Fujimori primera en los sondeos,2026-04-10 05:40
-autónomos,3,9,3.13,62,"okdiario, elpais, levante_emv",3,"PP, Vox y Junts revertirán en el Congreso el hachazo a los autónomos que el Gobierno se niega a reparar",2026-04-10 05:40
-impulsa,3,9,3.13,62,"france24_es, heraldo_aragon, google_news_economia, levante_emv, google_news_internacional",5,México impulsa el ‘fracking’ “con matices” para reducir su dependencia energética de EE. UU.,2026-04-10 05:40
-tierra,7,21,3.13,62,"elpais, huffington_es, google_news_es, elpais_espana, 20minutos",5,"A oscuras, con el agua al cuello y una espera agónica: los 13 días bajo tierra de un minero en Sinaloa",2026-04-10 05:40
-comunidad,4,12,3.13,62,"20minutos, okdiario, levante_emv, eldiario, google_news_internacional",5,La mayor comunidad de chimpancés salvajes se divide e instaura una violencia mutua,2026-04-10 05:40
-tiempo,8,24,3.13,62,"huffington_es, eldiario, elpais, levante_emv, heraldo_aragon",5,Soraya Vega (PSOE): &quot;Es tiempo de que una mujer lidere el Partido Socialista en Extremadura&quot;,2026-04-10 05:40
-telefónica,3,9,3.13,62,"levante_emv, elpais, 20minutos",3,Telefónica lanza un servicio con drones de última generación pilotados desde un ‘búnker tecnológico’ a cientos de kilómetros,2026-04-10 05:40
-turismo,6,19,2.96,59,"elcorreo, huffington_es, google_news_internacional, elpais, google_news_economia",5,"Peugeot 408, el gancho distintivo de un turismo de fusión",2026-04-10 05:40
-inversores,3,10,2.81,56,"okdiario, elpais",2,La tregua en Irán devuelve el optimismo a los inversores que apuestan por China y nuevos índices globales,2026-04-10 05:40
-amazon,3,10,2.81,56,"elpais, huffington_es",2,Estos son los hervidores de agua eléctricos por debajo de 20 euros mejor valorados en Amazon,2026-04-10 05:40
-hungría,3,10,2.81,56,"elpais_internacional, google_news_internacional, elespanol",3,"Hungría, pulso europeo en el laboratorio iliberal",2026-04-10 05:40
-europea,3,10,2.81,56,"huffington_es, google_news_economia, heraldo_aragon",3,Confirmado por Bruselas: la Unión Europea se encamina a la &quot;estanflación&quot; a pesar de la tímida reapertura del estrecho de Ormuz,2026-04-10 05:40
-astronautas,4,14,2.68,53,"elpais, 20minutos, elespanol",3,"Los astronautas de Artemis, ante el momento más peligroso que les queda, la reentrada: “Iremos montados en una bola de fuego”",2026-04-10 05:40
-aragón,7,25,2.63,52,heraldo_aragon,1,Aragón ya tiene la mayor concentración de centros de datos proyectados en España y Portugal,2026-04-10 05:40
-mejores,5,18,2.6,52,"elpais, heraldo_aragon, 20minutos",3,Adiós al escozor y la fricción al caminar: estas son las mejores cremas antirozaduras por debajo de 10 euros,2026-04-10 05:40
-llega,6,22,2.56,51,"okdiario, elpais, heraldo_aragon, google_news_es",4,Confirmado por las Cabañuelas de Jorge Rey: no estamos preparados para el festival de lluvias que llega,2026-04-10 05:40
-espera,3,11,2.56,51,"levante_emv, elpais, elespanol",3,Sumar estira el plazo para votar el decreto de vivienda a la espera de arrancar la negociación y con la incógnita de Junts,2026-04-10 05:40
-tener,3,11,2.56,51,"bbc_mundo, elpais_internacional, google_news_internacional, elpais",4,Los 5 enormes retos que enfrentan los negociadores para mantener a flote el frágil acuerdo de paz entre EE.UU. e Irán,2026-04-10 05:40
-bruselas,4,15,2.5,50,"huffington_es, google_news_internacional, okdiario, google_news_economia",4,Confirmado por Bruselas: la Unión Europea se encamina a la &quot;estanflación&quot; a pesar de la tímida reapertura del estrecho de Ormuz,2026-04-10 05:40
-infobae,3,12,2.34,46,"google_news_economia, google_news_internacional",2,Llenar el depósito en España es más barato que en la Unión Europea tras la rebaja fiscal del Gobierno - Infobae,2026-04-10 05:40
-dw.com,3,12,2.34,46,google_news_es,1,"Hezbolá lanza nuevos ataques en Israel, sin dejar víctimas - DW.com",2026-04-10 05:40
-precio,5,20,2.34,46,"huffington_es, levante_emv, elpais, 20minutos, sur",5,"María Gómez, ganadera cántabra, tras el recorte al precio de la leche: &quot;Si pudiera, me ataba a la cadena todo el mes para que no entrara ni un camión de leche de fuera&quot;",2026-04-10 05:40
-predicción,4,16,2.34,46,okdiario,1,"Predicción del horóscopo para Cáncer hoy, viernes 10 de abril de 2026",2026-04-10 05:40
-salud,3,12,2.34,46,"okdiario, elpais, heraldo_aragon",3,Los cinco hitos científicos que han marcado un antes y un después en la salud sexual masculina,2026-04-10 05:40
-china,6,24,2.34,46,"okdiario, elespanol",2,Sánchez cuela en su viaje a China a un empresario implicado en la desaparición de 80 millones de la Junta,2026-04-10 05:40
-viaje,3,12,2.34,46,"google_news_internacional, okdiario, elpais, elespanol",4,Marruecos quiere destacar como destino internacional de golf - Expreso - Diario de viajes y turismo,2026-04-10 05:40
-horóscopo,4,16,2.34,46,okdiario,1,"Predicción del horóscopo para Cáncer hoy, viernes 10 de abril de 2026",2026-04-10 05:40
-ofensiva,3,13,2.16,43,"elpais_internacional, google_news_internacional, elespanol",3,Beirut espanta el miedo tras la ofensiva israelí más letal: “Dejad que nos maten cuanto antes”,2026-04-10 05:40
-ee.uu,3,13,2.16,43,"google_news_internacional, google_news_economia, bbc_mundo",3,La cooperación internacional se desploma un 23% (y EE UU es responsable de tres cuartas partes de la caída) - EL PAÍS,2026-04-10 05:40
-película,3,13,2.16,43,"infolibre, 20minutos, google_news_es",3,La grandeza esquiva de ‘Kill Bill’: la película “que Tarantino nació para hacer” regresa a los cines,2026-04-10 05:40
-obras,3,13,2.16,43,"levante_emv, elpais",2,Los ingenieros de caminos urgen a rescatar ocho obras civiles valencianas,2026-04-10 05:40
-cinco,5,22,2.13,42,"levante_emv, okdiario, elpais, google_news_es",4,La segunda vida como artista del alcalde de las cinco mayorías absolutas en l'Alcúdia de Crespins,2026-04-10 05:40
-nuevos,4,18,2.08,41,"20minutos, okdiario, el_confidencial_tech, google_news_es",4,Spotify presenta nuevos controles de vídeo: ahora se puede elegir lo que ven los miembros de tu plan,2026-04-10 05:40
-beirut,3,14,2.01,40,"elpais_internacional, google_news_internacional, 20minutos",3,Beirut espanta el miedo tras la ofensiva israelí más letal: “Dejad que nos maten cuanto antes”,2026-04-10 05:40
-regreso,3,14,2.01,40,"eldiario, huffington_es, elespanol",3,Más de 30 grados en la Comunidad de Madrid este viernes antes del regreso de las lluvias el fin de semana,2026-04-10 05:40
-horas,3,14,2.01,40,"okdiario, levante_emv, huffington_es",3,El rincón secreto a 2 horas de Sevilla: safari entre bisontes y linces en Andalucía,2026-04-10 05:40
+calvario,3,1,25.28,100,"okdiario, elespanol, elcorreo",3,"El calvario de la víctima de ‘bullying’ en Mallorca: «No quería ni comer ni pensar, sólo dormía»",2026-04-10 06:10
+miedo,3,4,6.32,100,"elpais_internacional, elpais, google_news_internacional",3,Beirut espanta el miedo tras la ofensiva israelí más letal: “Dejad que nos maten cuanto antes”,2026-04-10 06:10
+negra,3,5,5.06,100,elpais,1,"Banana Negra, las ‘frutinovelas’ y el cerebro frito",2026-04-10 06:10
+sufren,3,2,12.64,100,"elpais, heraldo_aragon, google_news_es",3,Piel calmada y sin tirantez: la solución definitiva para los rostros que sufren con los cambios de temperatura,2026-04-10 06:10
+viernes,11,14,6.62,100,"okdiario, eldiario, levante_emv",3,"Predicción del horóscopo para Virgo hoy, viernes 10 de abril de 2026",2026-04-10 06:10
+coinciden,3,5,5.06,100,"20minutos, heraldo_aragon",2,Los aficionados coinciden: suspenso masivo al nuevo reglamento de la Fórmula 1,2026-04-10 06:10
+ascenso,3,2,12.64,100,"levante_emv, okdiario",2,"El CF Gandia pelea por el ascenso directo: ""Cuando dentro de un club hay estabilidad, eso se transmite sobre el campo""",2026-04-10 06:10
+temperaturas,7,9,6.56,100,"okdiario, eldiario, 20minutos, google_news_es",4,AEMET prevé en Bilbao cielos poco nubosos y temperaturas en ascenso con viento flojo,2026-04-10 06:10
+buena,4,3,11.24,100,"okdiario, elpais, levante_emv",3,Estrenos de la cartelera: ‘Kill Bill’ regresa a los cines y ‘La buena hija’ es la principal novedad del cine español,2026-04-10 06:10
+apariciones,3,0,5.0,100,"google_news_es, elpais, 20minutos",3,"La soledad de Lamine Yamal: sin el respaldo de la afición, el delantero firmó sin éxito ante el Atlético 19 regates y 11 apariciones en el área - EL PAÍS",2026-04-10 06:10
+ciudades,3,2,12.64,100,"okdiario, 20minutos, elmundo",3,"Precio de la gasolina hoy 10 de abril: localiza las gasolineras más baratas de Sevilla, Cádiz y otras ciudades de Andalucía",2026-04-10 06:10
+álvarez,3,4,6.32,100,"elpais, 20minutos, elmundo",3,Sed de Henar Álvarez,2026-04-10 06:10
+participación,4,5,6.74,100,"google_news_internacional, google_news_es, elpais",3,El 67º Concurso Internacional de Piano Premio ‘Jaén’ contará con la participación de 48 pianistas de 13 países - Hora Jaén,2026-04-10 06:10
+lluvia,4,3,11.24,100,"levante_emv, okdiario, eldiario, elpais, 20minutos",5,Las Tablas de Daimiel resucitan: explosión de avifauna gracias a las últimas lluvias,2026-04-10 06:10
+prueba,3,5,5.06,100,"okdiario, elpais, heraldo_aragon, 20minutos",4,Defensa paralizó 2 meses las entregas del blindado 8×8 Dragón porque no supera la prueba de lluvia: «Ponían una lona»,2026-04-10 06:10
+atlántico,6,6,8.43,100,"google_news_internacional, heraldo_aragon, 20minutos, google_news_economia",4,Ratifican la condena a la célula de la Mocro Maffia que intentó mover cocaína por el puerto vigués - Atlántico,2026-04-10 06:10
+debate,8,13,5.19,100,"huffington_es, 20minutos, google_news_economia, google_news_internacional, elespanol",5,Pone una mala reseña en un bar porque le hacen consumir para ir al baño y se abre un debate monumental,2026-04-10 06:10
+grados,3,4,6.32,100,"eldiario, elpais",2,El tiempo primaveral se despide este viernes con temperaturas cercanas a los 30 grados,2026-04-10 06:10
+drones,4,3,11.24,100,"levante_emv, elpais, el_confidencial_tech, 20minutos",4,Telefónica lanza un servicio con drones de última generación pilotados desde un ‘búnker tecnológico’ a cientos de kilómetros,2026-04-10 06:10
+histórica,4,5,6.74,100,"elmundo_internacional, elpais, 20minutos",3,Histórica reunión en Pekín entre Xi Jinping y la líder de la oposición de Taiwan,2026-04-10 06:10
+ideas,3,2,12.64,100,"elpais, 20minutos",2,"‘Buena suerte, pásalo bien, no mueras’: borbotones de ideas desordenadas",2026-04-10 06:10
+reentrada,4,0,5.0,100,"elpais, 20minutos, elespanol",3,"Los astronautas de Artemis, ante el momento más peligroso que les queda, la reentrada: “Iremos montados en una bola de fuego”",2026-04-10 06:10
+nadie,3,3,8.43,100,"okdiario, 20minutos, google_news_es, elpais_espana",4,La novedad que cambia las normas de los bares y restaurantes para siempre: el BOE lo ha confirmado y nadie da crédito a la multa,2026-04-10 06:10
+síndrome,3,4,6.32,100,"20minutos, elpais, google_news_es",3,"María, madre de Jaime, con síndrome de West: ""Cada crisis epiléptica es un paso atrás en su desarrollo""",2026-04-10 06:10
+gracias,3,5,5.06,100,"levante_emv, elpais, heraldo_aragon",3,Las Tablas de Daimiel resucitan: explosión de avifauna gracias a las últimas lluvias,2026-04-10 06:10
+lluvias,4,4,8.43,100,"levante_emv, okdiario, eldiario",3,Las Tablas de Daimiel resucitan: explosión de avifauna gracias a las últimas lluvias,2026-04-10 06:10
+maratón,3,1,25.28,100,"heraldo_aragon, elmundo",2,Del maratón de Filípides a los emoticonos de Whatsapp: así han cambiado mensajes y mensajeros,2026-04-10 06:10
+40.000,4,2,16.86,100,"levante_emv, 20minutos, elespanol",3,Artemis se prepara para un amerizaje de alto riesgo a 40.000 km/h y 3.000ºC: las grietas en el escudo térmico elevan la tensión,2026-04-10 06:10
+confirmado,4,3,11.24,100,"okdiario, huffington_es",2,La novedad que cambia las normas de los bares y restaurantes para siempre: el BOE lo ha confirmado y nadie da crédito a la multa,2026-04-10 06:10
+comercial,3,4,6.32,100,"elpais, 20minutos",2,"Luz del Tajo, el mayor centro comercial de Toledo, sale a la venta",2026-04-10 06:10
+viento,5,4,10.53,100,"okdiario, 20minutos",2,"AEMET prevé un día soleado y cálido en Zaragoza, con nubes en el Ibérico y viento suave",2026-04-10 06:10
+vanguardia,4,5,6.74,100,"okdiario, google_news_economia, google_news_politica, google_news_internacional",4,El desafío del Glaucoma: tecnología de vanguardia para proteger la visión irreversible,2026-04-10 06:10
+tormentas,5,1,42.14,100,"okdiario, infolibre, 20minutos",3,La AEMET avisa de fuertes lluvias y tormentas para el fin de semana: lo que llega no es normal,2026-04-10 06:10
+siempre,5,7,6.02,100,"okdiario, elpais, 20minutos, elcorreo",4,La novedad que cambia las normas de los bares y restaurantes para siempre: el BOE lo ha confirmado y nadie da crédito a la multa,2026-04-10 06:10
+vistas,3,1,25.28,100,"elpais, heraldo_aragon, google_news_economia",3,"La Venta, la casa de comidas con vistas a Barcelona en la que los jóvenes pagan según su edad",2026-04-10 06:10
+normas,3,2,12.64,100,"okdiario, huffington_es, 20minutos",3,La novedad que cambia las normas de los bares y restaurantes para siempre: el BOE lo ha confirmado y nadie da crédito a la multa,2026-04-10 06:10
+media,3,3,8.43,100,"huffington_es, levante_emv, infolibre, elpais, google_news_economia",5,"Pakistán, mediador en la paz, acusa a Israel de cometer un genocidio en Líbano: &quot;Es una maldición para la humanidad&quot;",2026-04-10 06:10
+campaña,4,7,4.82,96,"levante_emv, 20minutos, elespanol, expansion",4,Concluye la campaña electoral peruana en medio de un fuerte desinterés ciudadano y con Keiko Fujimori primera en los sondeos,2026-04-10 06:10
+trabajadores,3,6,4.21,84,"heraldo_aragon, google_news_economia, levante_emv",3,Una empresa de Albacete abonará 100 euros cada seis meses a sus trabajadores si no sufren accidentes con baja,2026-04-10 06:10
+plazo,3,6,4.21,84,"levante_emv, heraldo_aragon, 20minutos",3,Sumar estira el plazo para votar el decreto de vivienda a la espera de arrancar la negociación y con la incógnita de Junts,2026-04-10 06:10
+augusta,3,6,4.21,84,"heraldo_aragon, elpais, elcorreo",3,Masters de Augusta 2026: Jon Rahm explica cómo salir vivo del temido Amen Corner,2026-04-10 06:10
+reclama,3,6,4.21,84,"elcorreo, elconfidencial, levante_emv",3,Visto para sentencia el juicio de un vasco que reclama la herencia de 14 millones de su padre,2026-04-10 06:10
+buques,3,7,3.61,72,"google_news_es, 20minutos",2,"Guerra en Irán, en directo | Trump advierte a Irán por su plan de cobrar a los buques que pasen por Ormuz: ""Más les vale no hacerlo"" - LaSexta",2026-04-10 06:10
+padre,3,7,3.61,72,"elcorreo, elpais, 20minutos",3,Visto para sentencia el juicio de un vasco que reclama la herencia de 14 millones de su padre,2026-04-10 06:10
+astronautas,6,14,3.61,72,"elpais, 20minutos, elespanol",3,"Los astronautas de Artemis, ante el momento más peligroso que les queda, la reentrada: “Iremos montados en una bola de fuego”",2026-04-10 06:10
+tierra,8,21,3.21,64,"elpais, huffington_es, google_news_es, elpais_espana, 20minutos",5,"A oscuras, con el agua al cuello y una espera agónica: los 13 días bajo tierra de un minero en Sinaloa",2026-04-10 06:10
+tengo,3,8,3.16,63,"elpais, elespanol, elcorreo",3,"Jesulín de Ubrique llega a ‘Tu cara me suena’: “¿Si me toca una mujer? Pues nada, aquí está el tío. Tengo la rodilla fastidiada, pero llevaré tacones”",2026-04-10 06:10
+víctimas,3,8,3.16,63,"heraldo_aragon, google_news_es, bbc_mundo",3,"Lucía Ruiz, delegada de AVT en Aragón: “Si Josu Ternera tiene problemas de salud, las víctimas de terrorismo más”",2026-04-10 06:10
+públicas,3,8,3.16,63,"elpais, 20minutos, google_news_economia",3,Madrid penaliza con 355.000 euros a una empresa a la que acusa de no reparar 1.000 “incidencias críticas” en viviendas públicas,2026-04-10 06:10
+servicio,3,8,3.16,63,"levante_emv, elpais, heraldo_aragon, 20minutos",4,Telefónica lanza un servicio con drones de última generación pilotados desde un ‘búnker tecnológico’ a cientos de kilómetros,2026-04-10 06:10
+tiempo,9,24,3.16,63,"okdiario, huffington_es, eldiario, elpais, levante_emv",5,Mercadona desata la locura: recupera su producto estrella para el buen tiempo y te aseguro que es mejor que el de tu abuela,2026-04-10 06:10
+predicción,6,16,3.16,63,okdiario,1,"Predicción del horóscopo para Virgo hoy, viernes 10 de abril de 2026",2026-04-10 06:10
+horóscopo,6,16,3.16,63,okdiario,1,"Predicción del horóscopo para Virgo hoy, viernes 10 de abril de 2026",2026-04-10 06:10
+cobrar,3,8,3.16,63,"google_news_es, okdiario, elespanol",3,"Guerra en Irán, en directo | Trump advierte a Irán por su plan de cobrar a los buques que pasen por Ormuz: ""Más les vale no hacerlo"" - LaSexta",2026-04-10 06:10
+dispara,3,8,3.16,63,"elcorreo, levante_emv",2,La ley contra el desperdicio dispara la actividad del Banco de Alimentos de Bizkaia,2026-04-10 06:10
+turismo,7,19,3.11,62,"google_news_internacional, elcorreo, huffington_es, elpais, google_news_economia",5,"El rey Felipe VI acepta presidir el Comité de Honor del VIII Congreso Internacional de Calidad y Sostenibilidad Turística, que se inaugura hoy en Córdoba - Gaceta del Turismo -",2026-04-10 06:10
+impulsa,3,9,2.81,56,"google_news_economia, france24_es, heraldo_aragon, levante_emv, google_news_internacional",5,La OCDE urge a España a invertir en redes eléctricas y educación para impulsar la productividad - upday News,2026-04-10 06:10
+comunidad,4,12,2.81,56,"20minutos, okdiario, levante_emv, eldiario",4,La mayor comunidad de chimpancés salvajes se divide e instaura una violencia mutua,2026-04-10 06:10
+electoral,3,9,2.81,56,"levante_emv, elpais, 20minutos",3,Concluye la campaña electoral peruana en medio de un fuerte desinterés ciudadano y con Keiko Fujimori primera en los sondeos,2026-04-10 06:10
+llega,7,21,2.81,56,"okdiario, elpais, heraldo_aragon, google_news_es",4,La AEMET avisa de fuertes lluvias y tormentas para el fin de semana: lo que llega no es normal,2026-04-10 06:10
+telefónica,3,9,2.81,56,"levante_emv, elpais, 20minutos",3,Telefónica lanza un servicio con drones de última generación pilotados desde un ‘búnker tecnológico’ a cientos de kilómetros,2026-04-10 06:10
+autónomos,3,9,2.81,56,"okdiario, elpais, levante_emv",3,"PP, Vox y Junts revertirán en el Congreso el hachazo a los autónomos que el Gobierno se niega a reparar",2026-04-10 06:10
+inversores,3,9,2.81,56,"okdiario, elpais",2,La tregua en Irán devuelve el optimismo a los inversores que apuestan por China y nuevos índices globales,2026-04-10 06:10
+amazon,3,10,2.53,50,"elpais, huffington_es",2,Estos son los hervidores de agua eléctricos por debajo de 20 euros mejor valorados en Amazon,2026-04-10 06:10
+petróleo,3,10,2.53,50,"expansion, elpais, google_news_es",3,El Ibex respira con la mayor tregua del petróleo,2026-04-10 06:10
+precio,6,20,2.53,50,"okdiario, huffington_es, levante_emv, elpais, 20minutos",5,"Precio de la gasolina hoy 10 de abril: localiza las gasolineras más baratas de Sevilla, Cádiz y otras ciudades de Andalucía",2026-04-10 06:10
+hungría,3,10,2.53,50,"elpais_internacional, google_news_internacional, elespanol",3,"Hungría, pulso europeo en el laboratorio iliberal",2026-04-10 06:10
+europea,3,10,2.53,50,"huffington_es, google_news_economia, heraldo_aragon",3,Confirmado por Bruselas: la Unión Europea se encamina a la &quot;estanflación&quot; a pesar de la tímida reapertura del estrecho de Ormuz,2026-04-10 06:10
+china,7,24,2.46,49,"el_confidencial_tech, okdiario, elespanol",3,China evacúa pueblos enteros sin motivo aparente. Un satélite ha descubierto la (inquietante) razón,2026-04-10 06:10
+aragón,7,25,2.36,47,heraldo_aragon,1,Aragón ya tiene la mayor concentración de centros de datos proyectados en España y Portugal,2026-04-10 06:10
+mejores,5,18,2.34,46,"elpais, heraldo_aragon, 20minutos",3,Adiós al escozor y la fricción al caminar: estas son las mejores cremas antirozaduras por debajo de 10 euros,2026-04-10 06:10
+sevilla,3,11,2.3,45,"okdiario, elespanol",2,"Precio de la gasolina hoy 10 de abril: localiza las gasolineras más baratas de Sevilla, Cádiz y otras ciudades de Andalucía",2026-04-10 06:10
+vasco,3,11,2.3,45,"elcorreo, 20minutos",2,Visto para sentencia el juicio de un vasco que reclama la herencia de 14 millones de su padre,2026-04-10 06:10
+calidad,3,11,2.3,45,"google_news_internacional, 20minutos, elcorreo",3,"El rey Felipe VI acepta presidir el Comité de Honor del VIII Congreso Internacional de Calidad y Sostenibilidad Turística, que se inaugura hoy en Córdoba - Gaceta del Turismo -",2026-04-10 06:10
+espera,3,11,2.3,45,"levante_emv, elpais, google_news_es, elespanol",4,Sumar estira el plazo para votar el decreto de vivienda a la espera de arrancar la negociación y con la incógnita de Junts,2026-04-10 06:10
+gandia,3,11,2.3,45,levante_emv,1,"El CF Gandia pelea por el ascenso directo: ""Cuando dentro de un club hay estabilidad, eso se transmite sobre el campo""",2026-04-10 06:10
+tener,3,11,2.3,45,"bbc_mundo, elpais_internacional, google_news_internacional, elpais",4,Los 5 enormes retos que enfrentan los negociadores para mantener a flote el frágil acuerdo de paz entre EE.UU. e Irán,2026-04-10 06:10
+cambia,3,11,2.3,45,"okdiario, huffington_es, heraldo_aragon, 20minutos",4,La novedad que cambia las normas de los bares y restaurantes para siempre: el BOE lo ha confirmado y nadie da crédito a la multa,2026-04-10 06:10
+prevé,4,15,2.25,44,okdiario,1,"AEMET prevé un día soleado y cálido en Zaragoza, con nubes en el Ibérico y viento suave",2026-04-10 06:10
+bruselas,4,15,2.25,44,"huffington_es, google_news_internacional, okdiario, google_news_economia",4,Confirmado por Bruselas: la Unión Europea se encamina a la &quot;estanflación&quot; a pesar de la tímida reapertura del estrecho de Ormuz,2026-04-10 06:10
+aemet,8,31,2.17,43,okdiario,1,"AEMET prevé un día soleado y cálido en Zaragoza, con nubes en el Ibérico y viento suave",2026-04-10 06:10
+viaje,3,12,2.11,42,"google_news_internacional, okdiario, elpais, elespanol",4,Marruecos quiere destacar como destino internacional de golf - Expreso - Diario de viajes y turismo,2026-04-10 06:10
+ee.uu,3,12,2.11,42,"google_news_internacional, google_news_economia, bbc_mundo",3,La cooperación internacional se desploma un 23% (y EE UU es responsable de tres cuartas partes de la caída) - EL PAÍS,2026-04-10 06:10
+cinco,5,20,2.11,42,"levante_emv, okdiario, elpais, google_news_es",4,La segunda vida como artista del alcalde de las cinco mayorías absolutas en l'Alcúdia de Crespins,2026-04-10 06:10
+crédito,3,12,2.11,42,"okdiario, expansion, levante_emv",3,La novedad que cambia las normas de los bares y restaurantes para siempre: el BOE lo ha confirmado y nadie da crédito a la multa,2026-04-10 06:10
+trabajo,4,16,2.11,42,"google_news_internacional, 20minutos, google_news_economia, heraldo_aragon",4,"Guerra en Irán, última hora hoy, en directo | Trump dice que Irán está haciendo un trabajo pésimo en el estrecho de Ormuz: ""¡Ese no es el acuerdo que tenemos!"" - El Mundo",2026-04-10 06:10
+infobae,3,12,2.11,42,"google_news_economia, google_news_internacional",2,Llenar el depósito en España es más barato que en la Unión Europea tras la rebaja fiscal del Gobierno - Infobae,2026-04-10 06:10
+salud,3,12,2.11,42,"okdiario, elpais, heraldo_aragon",3,Los cinco hitos científicos que han marcado un antes y un después en la salud sexual masculina,2026-04-10 06:10
+artemis,9,37,2.05,41,"levante_emv, heraldo_aragon, huffington_es, elpais, 20minutos",5,Artemis se prepara para un amerizaje de alto riesgo a 40.000 km/h y 3.000ºC: las grietas en el escudo térmico elevan la tensión,2026-04-10 06:10
