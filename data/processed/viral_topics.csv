@@ -1,115 +1,104 @@
 keyword,count_now,count_base,ratio,viral_score,sources,n_sources,sample_title,detected_at
-gatillazo,3,0,5.0,100,"elpais, google_news_es",2,"Álvaro Arbeloa, contra los árbitros tras otro gatillazo liguero: “Es otra más, nadie entiende cuándo entra el VAR”",2026-04-10 23:40
-bernabéu,5,1,37.58,100,"google_news_es, levante_emv, elcorreo, 20minutos",4,"LaLiga estrena toque 'retro' a medias en el Bernabéu: marcadores, balón, equipaciones y más con la ausencia del Real Madrid - Cadena SER",2026-04-10 23:40
-polémica,6,4,11.27,100,"20minutos, elespanol, okdiario, google_news_economia",4,"Kiko Rivera aclara su polémica actitud en su última entrevista en '¡De viernes!': ""Me sentí engañado""",2026-04-10 23:40
-cuponazo,4,2,15.03,100,"sur, okdiario, elcorreo",3,"Comprobar Lotería del viernes, 10 de abril: resultados de la Bonoloto, del Euromillones, del Eurojackpot de la ONCE y del Cuponazo de la ONCE",2026-04-10 23:40
-eurojackpot,4,1,30.06,100,"sur, okdiario, elcorreo",3,"Comprobar Lotería del viernes, 10 de abril: resultados de la Bonoloto, del Euromillones, del Eurojackpot de la ONCE y del Cuponazo de la ONCE",2026-04-10 23:40
-euromillones,9,1,67.64,100,"sur, 20minutos, elcorreo, okdiario, elpais",5,"Comprobar Lotería del viernes, 10 de abril: resultados de la Bonoloto, del Euromillones, del Eurojackpot de la ONCE y del Cuponazo de la ONCE",2026-04-10 23:40
-bonoloto,8,7,8.59,100,"sur, 20minutos, elcorreo, levante_emv, okdiario",5,"Comprobar Lotería del viernes, 10 de abril: resultados de la Bonoloto, del Euromillones, del Eurojackpot de la ONCE y del Cuponazo de la ONCE",2026-04-10 23:40
-resultados,9,13,5.2,100,"sur, elcorreo, 20minutos",3,"Comprobar Lotería del viernes, 10 de abril: resultados de la Bonoloto, del Euromillones, del Eurojackpot de la ONCE y del Cuponazo de la ONCE",2026-04-10 23:40
-comprobar,13,18,5.43,100,"sur, elcorreo, okdiario, elpais, 20minutos",5,"Comprobar Lotería del viernes, 10 de abril: resultados de la Bonoloto, del Euromillones, del Eurojackpot de la ONCE y del Cuponazo de la ONCE",2026-04-10 23:40
-regresa,4,5,6.01,100,"huffington_es, levante_emv, eldiario, google_news_internacional",4,Vídeo en directo: la tripulación de Artemis II regresa a la Tierra,2026-04-10 23:40
-puertas,3,1,22.55,100,elcorreo,1,El jardín de la Casa de Don Lope de Miranda abre sus puertas,2026-04-10 23:40
-envuelta,4,0,5.0,100,"elmundo, google_news_es",2,"En directo, Artemis 2 está volviendo ya a la Tierra: así será el rescate de los astronautas tras la peligrosa reentrada de la nave envuelta en una bola de fuego",2026-04-10 23:40
-miranda,5,3,12.53,100,elcorreo,1,El jardín de la Casa de Don Lope de Miranda abre sus puertas,2026-04-10 23:40
-rivera,5,3,12.53,100,"okdiario, 20minutos, google_news_es",3,"Kiko Rivera explota contra Ángela Portero en ‘¡De viernes!’: “Eres la que trincaba, ¿eh?»",2026-04-10 23:40
-girona,26,16,12.21,100,"elpais, sur, elmundo, levante_emv, elespanol",5,Arbeloa vuelve a hablar del esfuerzo de los jugadores tras otro gatillazo con el Girona: “Necesitamos dar el 200%”,2026-04-10 23:40
-orban,5,5,7.52,100,"elmundo_internacional, google_news_es, france24_es",3,"""Todos cruzamos los dedos"": la UE suspira por la derrota electoral de Orban, pero nadie espera ""un cambio total"" en Hungría",2026-04-10 23:40
-derrota,4,1,30.06,100,"elmundo_internacional, google_news_es, elcorreo, levante_emv",4,"""Todos cruzamos los dedos"": la UE suspira por la derrota electoral de Orban, pero nadie espera ""un cambio total"" en Hungría",2026-04-10 23:40
-dedos,3,0,5.0,100,"elmundo_internacional, google_news_es, levante_emv",3,"""Todos cruzamos los dedos"": la UE suspira por la derrota electoral de Orban, pero nadie espera ""un cambio total"" en Hungría",2026-04-10 23:40
-choque,3,3,7.52,100,"elcorreo, elpais, elespanol",3,Choque de desconfianzas,2026-04-10 23:40
-cambios,5,6,6.26,100,"elcorreo, google_news_internacional, 20minutos, elespanol",4,Elecciones y cambios en el mapa político,2026-04-10 23:40
-rescate,4,0,5.0,100,"elmundo, google_news_es",2,"En directo, Artemis 2 está volviendo ya a la Tierra: así será el rescate de los astronautas tras la peligrosa reentrada de la nave envuelta en una bola de fuego",2026-04-10 23:40
-empata,3,0,5.0,100,"elcorreo, elmundo, 20minutos",3,El Real Madrid empata y se coloca a 6 puntos del Barcelona,2026-04-10 23:40
-washington,9,5,13.53,100,"okdiario, google_news_internacional, elpais, europapress, levante_emv",5,Israel y Líbano iniciarán conversaciones de paz en Washington el martes,2026-04-10 23:40
-sábado,8,1,60.12,100,"20minutos, sur",2,Tu horóscopo diario: sábado 11 de abril de 2026,2026-04-10 23:40
-jesús,3,3,7.52,100,"20minutos, sur, elespanol",3,María Jesús Montero cede ante el PSOE de Cádiz en su intento de retocar sus listas de cara a las elecciones del 17-M,2026-04-10 23:40
-choca,3,2,11.27,100,"elcorreo, elmundo, google_news_internacional",3,Un coche de la Ertzaintza choca contra un turismo cuando acudía a una emergencia en Bilbao,2026-04-10 23:40
-difamación,3,2,11.27,100,"elespanol, huffington_es, elcorreo",3,"El príncipe Harry, demandado por difamación por su antigua ONG en África ante el Tribunal Superior de Inglaterra y Gales",2026-04-10 23:40
-demandado,3,4,5.64,100,"elespanol, huffington_es, lavanguardia",3,"El príncipe Harry, demandado por difamación por su antigua ONG en África ante el Tribunal Superior de Inglaterra y Gales",2026-04-10 23:40
-harry,3,1,22.55,100,"elespanol, huffington_es, elcorreo",3,"El príncipe Harry, demandado por difamación por su antigua ONG en África ante el Tribunal Superior de Inglaterra y Gales",2026-04-10 23:40
-príncipe,5,1,37.58,100,"elespanol, huffington_es, elcorreo, lavanguardia",4,"El príncipe Harry, demandado por difamación por su antigua ONG en África ante el Tribunal Superior de Inglaterra y Gales",2026-04-10 23:40
-cuñado,4,0,5.0,100,"levante_emv, elconfidencial, elmundo",3,Detenido un hombre tras apuñalar a su cuñado en una vivienda en Madrid,2026-04-10 23:40
-apuñalar,4,0,5.0,100,"levante_emv, elconfidencial, elmundo",3,Detenido un hombre tras apuñalar a su cuñado en una vivienda en Madrid,2026-04-10 23:40
-mónaco,3,1,22.55,100,"elpais, google_news_es, okdiario",3,El Barcelona cae ante el Mónaco y se mete en un lío tremendo,2026-04-10 23:40
-amnistía,3,0,5.0,100,google_news_internacional,1,Venezuela: la ley de amnistía no puede convertirse en un mecanismo de represión - Amnesty International,2026-04-10 23:40
-diálogos,3,2,11.27,100,france24_es,1,Informe desde Beirut: Netanyahu autoriza diálogos directos con Líbano,2026-04-10 23:40
-organización,4,1,30.06,100,"google_news_internacional, huffington_es, elcorreo",3,La Organización Marítima Internacional no ve base legal a peajes ni cambios de ruta en Ormuz - ABC,2026-04-10 23:40
-formación,3,4,5.64,100,"elmundo_espana, heraldo_aragon, huffington_es, google_news_internacional",4,"Nadie en Oviedo vio a la amiga de Ábalos buscando libros de trenes: ""Si la Justicia lo pide, daremos la información""",2026-04-10 23:40
-informe,4,5,6.01,100,france24_es,1,Informe desde Caracas: Venezuela aprueba ley de minas,2026-04-10 23:40
-seguro,3,3,7.52,100,"google_news_internacional, elmundo",2,"Amnistía pide a Israel garantizar el paso ""seguro"" de la Flotilla rumbo a Gaza, que zarpa este domingo desde Barcelona - Europa Press",2026-04-10 23:40
-fundó,3,0,5.0,100,"elpais, huffington_es, elcorreo",3,"Sentebale, la ONG que fundó Enrique de Inglaterra, le demanda por crear “una campaña mediática adversa” contra ellos",2026-04-10 23:40
-supera,6,7,6.44,100,"elcorreo, elpais, okdiario, google_news_economia",4,Rahm olvida el desastre y supera el corte en el Masters por la mínima,2026-04-10 23:40
-sorteo,9,11,6.15,100,"sur, levante_emv, okdiario, elpais",4,"Resultado del sorteo de la Bonoloto del viernes, 10 de abril de 2026",2026-04-10 23:40
-martes,5,2,18.79,100,"okdiario, google_news_internacional, elpais, europapress, levante_emv",5,Israel y Líbano iniciarán conversaciones de paz en Washington el martes,2026-04-10 23:40
-provocó,3,0,5.0,100,"elespanol, el_confidencial_tech",2,"La furia de Chloe: el segundo gato de Ábalos provocó heridas profundas a Koldo: ""Araña rápido y se entretuvo""",2026-04-10 23:40
-quiero,3,2,11.27,100,"elcorreo, okdiario",2,"«Mami, quiero ser médico para curarte»: cómo contarle a una niña que su madre tiene párkinson con solo 41 años",2026-04-10 23:40
-conflicto,4,4,7.52,100,"sur, elcorreo, expansion, elmundo_espana",4,"El conflicto por la falta de luz en la promoción Alma, en Estepona, llega a las calles de Málaga",2026-04-10 23:40
-árbitros,5,7,5.37,100,"elmundo, elpais, google_news_es, france24_es",4,"Arbeloa estalla contra los árbitros por el penalti no pitado sobre Mbappé: ""Cuando viene bien entra el VAR, y cuando no, no entra""",2026-04-10 23:40
-nadal,3,2,11.27,100,"elcorreo, elpais",2,"Rafa Nadal vibra con Rahm, al que mandó ánimos Alcaraz antes de su vuelta: «Dos grandes embajadores de este deporte»",2026-04-10 23:40
-construir,3,3,7.52,100,"sur, google_news_es, elmundo_internacional",3,Los propietarios del Movistar Arena de Madrid siguen interesados en construir un gran recinto de conciertos en Málaga,2026-04-10 23:40
-retro,3,4,5.64,100,"google_news_es, okdiario",2,Descubre todas las camisetas de la jornada retro - Diario AS,2026-04-10 23:40
-corte,5,1,37.58,100,"elcorreo, elpais",2,Sergio García siembra la duda sobre una posible retirada y Olazabal falla el corte en el Masters,2026-04-10 23:40
-afecta,5,5,7.52,100,"expansion, sur, heraldo_aragon, france24_es",4,¿Cómo afecta el euríbor al consumo de las familias?,2026-04-10 23:40
-finaliza,3,2,11.27,100,elcorreo,1,Jon Rahm finaliza con +4 y pasa el corte por la mínima,2026-04-10 23:40
-mbappé,4,0,5.0,100,"google_news_es, elmundo, elpais, 20minutos",4,"Álvaro Arbeloa explota contra el arbitraje tras la acción sobre Kylian Mbappé: ""Para mí es penalti aquí y en la Luna"" - DAZN",2026-04-10 23:40
-peajes,4,0,5.0,100,"levante_emv, google_news_internacional",2,"Trump asegura que no permitirá que Irán cobre peajes en el estrecho de Ormuz: ""Es agua internacional""",2026-04-10 23:40
-entra,4,3,10.02,100,"france24_es, elmundo, elpais, elmundo_internacional, google_news_es",5,Artemis II: riesgos de la entrada a la Tierra y el reto del escudo térmico,2026-04-10 23:40
-arbeloa,6,2,22.55,100,"google_news_es, elmundo, elpais, 20minutos",4,"Álvaro Arbeloa explota contra el arbitraje tras la acción sobre Kylian Mbappé: ""Para mí es penalti aquí y en la Luna"" - DAZN",2026-04-10 23:40
-demanda,4,3,10.02,100,"sur, expansion, elpais, elespanol, huffington_es",5,Una plataforma ciudadana de Málaga demanda que se reconozca la cultura como derecho fundamental,2026-04-10 23:40
-crítico,3,4,5.64,100,"elpais, elcorreo, levante_emv",3,"Última hora del regreso de Artemis 2, en directo | Los astronautas, ya vestidos y preparados para el momento crítico de la reentrada en la Tierra",2026-04-10 23:40
-maniobra,3,2,11.27,100,"bbc_mundo, levante_emv, eldiario, elpais, europapress",5,La tripulación de Artemis II inicia la peligrosa maniobra de reingreso a la Tierra,2026-04-10 23:40
-canal,3,4,5.64,100,"expansion, okdiario",2,BBVA capta seis de cada diez nuevos clientes a través del canal digital,2026-04-10 23:40
-alumnos,3,1,22.55,100,"levante_emv, heraldo_aragon, elmundo_internacional",3,"Profesores, compañeros y alumnos unidos en Geografía",2026-04-10 23:40
-peligrosa,5,2,18.79,100,"bbc_mundo, elmundo, google_news_es",3,La tripulación de Artemis II inicia la peligrosa maniobra de reingreso a la Tierra,2026-04-10 23:40
-laliga,8,6,10.02,100,"elcorreo, google_news_es, levante_emv, 20minutos",4,"Toni Martínez-Boyé, la pareja «más pesada» que se cuela entre las mejores de LaLiga",2026-04-10 23:40
-tierra,22,34,4.86,97,"bbc_mundo, france24_es, elpais, elespanol, 20minutos",5,La tripulación de Artemis II inicia la peligrosa maniobra de reingreso a la Tierra,2026-04-10 23:40
-reentrada,7,11,4.78,95,"elpais, levante_emv, elmundo, google_news_es",4,"Última hora del regreso de Artemis 2, en directo | Los astronautas, ya vestidos y preparados para el momento crítico de la reentrada en la Tierra",2026-04-10 23:40
-triunfo,3,5,4.51,90,"elespanol, elpais, heraldo_aragon",3,Polémica por el arco del triunfo de Trump en Washington: un gesto de vanidad el doble de alto que el Monumento a Lincoln,2026-04-10 23:40
-pulso,3,5,4.51,90,"elcorreo, sur, elpais",3,Euskadi es la autonomía más beneficiada por el impulso a la inversión en Defensa,2026-04-10 23:40
-ponen,3,5,4.51,90,"huffington_es, elpais, 20minutos",3,"Alba Moreno, física y divulgadora científica: &quot;Hay personas creen que la Tierra es plana pero que ponen su GPS para ir al supermercado. ¿Y eso cómo funciona mi amor?&quot;",2026-04-10 23:40
-difícil,3,5,4.51,90,"elcorreo, google_news_internacional",2,La guerra contada en un minuto | El relato del conflicto es cada vez más difícil de verificar,2026-04-10 23:40
-álvaro,4,7,4.29,85,"google_news_es, elpais, sur",3,"Álvaro Arbeloa explota contra el arbitraje tras la acción sobre Kylian Mbappé: ""Para mí es penalti aquí y en la Luna"" - DAZN",2026-04-10 23:40
-mucho,4,7,4.29,85,"elmundo, elcorreo, huffington_es",3,"Alejandro Gándara: ""Sí es posible odiar a primera vista, pasa mucho con los académicos de la RAE""",2026-04-10 23:40
-electoral,4,7,4.29,85,"elmundo_internacional, google_news_es, elespanol, elpais",4,"""Todos cruzamos los dedos"": la UE suspira por la derrota electoral de Orban, pero nadie espera ""un cambio total"" en Hungría",2026-04-10 23:40
-astronautas,10,18,4.18,83,"elpais, elmundo, eldiario, google_news_es, huffington_es",5,"Última hora del regreso de Artemis 2, en directo | Los astronautas, ya vestidos y preparados para el momento crítico de la reentrada en la Tierra",2026-04-10 23:40
-colombia,3,6,3.76,75,"france24_es, google_news_economia",2,Colombia conmemora a sus víctimas a 78 años del asesinato de Gaitán y el inicio de La Violencia,2026-04-10 23:40
-regreso,8,16,3.76,75,"elpais, elespanol, 20minutos, france24_es, heraldo_aragon",5,"Última hora del regreso de Artemis 2, en directo | Los astronautas, ya vestidos y preparados para el momento crítico de la reentrada en la Tierra",2026-04-10 23:40
-artemis,24,49,3.68,73,"bbc_mundo, france24_es, elpais, elespanol, 20minutos",5,La tripulación de Artemis II inicia la peligrosa maniobra de reingreso a la Tierra,2026-04-10 23:40
-partido,11,23,3.59,71,"elmundo_espana, elcorreo, eldiario, okdiario, 20minutos",5,"Javier Ortega Smith: ""No fundamos Vox para ser un partido donde un señor feudal hace y deshace""",2026-04-10 23:40
-incendio,5,11,3.42,68,"elcorreo, levante_emv",2,Una mujer contra los incendios: «Cambió el viento y las llamas nos rodearon»,2026-04-10 23:40
-denuncia,5,11,3.42,68,"elcorreo, 20minutos, huffington_es, eldiario",4,El PP denuncia el «caos en la gestión de la piscina climatizada» de Miranda,2026-04-10 23:40
-augusta,4,9,3.34,66,"elpais, elcorreo",2,Jon Rahm supera el corte en el Masters de Augusta animado por Rafa Nadal y Alcaraz,2026-04-10 23:40
-grupo,3,7,3.22,64,"expansion, bbc_mundo",2,Cómo Carlos Bosch pasó de reponedor en hipermercados a transformar la hostelería con Grupo GastroPortal,2026-04-10 23:40
-guagua,3,7,3.22,64,"google_news_es, eldiario",2,"Un muerto y más de 20 heridos, tres graves, tras precipitarse una guagua por un barranco en La Gomera - elDiario.es",2026-04-10 23:40
-defensa,3,7,3.22,64,"elcorreo, levante_emv",2,Prueba de estrés para la defensa de un Alavés en buena línea,2026-04-10 23:40
-directo,33,79,3.14,62,"elpais, elespanol, google_news_internacional, 20minutos, huffington_es",5,"Última hora del regreso de Artemis 2, en directo | Los astronautas, ya vestidos y preparados para el momento crítico de la reentrada en la Tierra",2026-04-10 23:40
-nadie,5,12,3.13,62,"elmundo_internacional, google_news_es, elpais, elmundo_espana",4,"""Todos cruzamos los dedos"": la UE suspira por la derrota electoral de Orban, pero nadie espera ""un cambio total"" en Hungría",2026-04-10 23:40
-guardia,4,10,3.01,60,"google_news_economia, 20minutos, sur, eldiario, google_news_es",5,Capgemini inicia un ERE en España por el impacto de la inteligencia artificial - La Vanguardia,2026-04-10 23:40
-viernes,18,47,2.88,57,"okdiario, sur, 20minutos, levante_emv, elpais",5,"Kiko Rivera explota contra Ángela Portero en ‘¡De viernes!’: “Eres la que trincaba, ¿eh?»",2026-04-10 23:40
-conversaciones,5,13,2.89,57,"okdiario, google_news_internacional, elpais, france24_es, google_news_es",5,Israel y Líbano iniciarán conversaciones de paz en Washington el martes,2026-04-10 23:40
-beirut,3,8,2.82,56,france24_es,1,Bombardeos masivos arrasan barrios en Beirut mientras paseo marítimo aparenta una frágil normalidad,2026-04-10 23:40
-viaje,3,8,2.82,56,"sur, levante_emv, huffington_es, heraldo_aragon",4,"Cávala, una cocina viajera cargada de recuerdos",2026-04-10 23:40
-tripulación,3,8,2.82,56,"bbc_mundo, huffington_es, europapress",3,La tripulación de Artemis II inicia la peligrosa maniobra de reingreso a la Tierra,2026-04-10 23:40
-misión,7,19,2.77,55,"elespanol, 20minutos, eldiario, france24_es, heraldo_aragon",5,"Regreso de Artemis II a la Tierra, en directo | La histórica misión de la NASA a la cara oculta de la Luna vuelve a casa",2026-04-10 23:40
-masters,7,19,2.77,55,"elcorreo, elpais, okdiario",3,Sergio García siembra la duda sobre una posible retirada y Olazabal falla el corte en el Masters,2026-04-10 23:40
-lista,4,11,2.73,54,"elmundo_espana, sur, elpais, google_news_politica, elmundo_internacional",5,"El Partido Socialista da la 'semilibertad' a dos etarras cada mes desde mayo y la Fiscalía alerta de un ""quebranto grave del sistema""",2026-04-10 23:40
-estado,4,11,2.73,54,"elmundo, google_news_internacional, levante_emv, elpais, france24_es",5,"El Gobierno celebra el ""aval"" del Consejo de Estado a la regularización extraordinaria",2026-04-10 23:40
-fuera,4,11,2.73,54,"elcorreo, expansion, elpais, france24_es",4,Jon Rahm finaliza con +4 y se ve fuera del Masters de Augusta,2026-04-10 23:40
-elecciones,5,14,2.68,53,"elcorreo, google_news_es, france24_es, elpais, 20minutos",5,Elecciones y cambios en el mapa político,2026-04-10 23:40
-resultado,7,20,2.63,52,"sur, elcorreo, okdiario, elespanol, 20minutos",5,"Comprobar Lotería del viernes, 10 de abril: resultados de la Bonoloto, del Euromillones, del Eurojackpot de la ONCE y del Cuponazo de la ONCE",2026-04-10 23:40
-hungría,7,20,2.63,52,"elcorreo, elmundo_internacional, google_news_es, france24_es",4,Triple examen en Hungría,2026-04-10 23:40
-vuelve,10,30,2.51,50,"elespanol, elcorreo, elpais, google_news_es, elmundo",5,"Regreso de Artemis II a la Tierra, en directo | La histórica misión de la NASA a la cara oculta de la Luna vuelve a casa",2026-04-10 23:40
-campaña,3,9,2.51,50,"elpais, google_news_es",2,"Sentebale, la ONG que fundó Enrique de Inglaterra, le demanda por crear “una campaña mediática adversa” contra ellos",2026-04-10 23:40
-prueba,3,9,2.51,50,"sur, elcorreo, france24_es",3,Toda una prueba de personalidad para el Málaga,2026-04-10 23:40
-madrid,36,108,2.51,50,"sur, google_news_es, elpais, elcorreo, elmundo",5,Los propietarios del Movistar Arena de Madrid siguen interesados en construir un gran recinto de conciertos en Málaga,2026-04-10 23:40
-pareja,4,12,2.51,50,"elcorreo, 20minutos",2,"Toni Martínez-Boyé, la pareja «más pesada» que se cuela entre las mejores de LaLiga",2026-04-10 23:40
-abril,29,86,2.53,50,"sur, elcorreo, 20minutos, levante_emv, okdiario",5,"Comprobar Lotería del viernes, 10 de abril: resultados de la Bonoloto, del Euromillones, del Eurojackpot de la ONCE y del Cuponazo de la ONCE",2026-04-10 23:40
-bilbao,5,16,2.35,46,elcorreo,1,Bilbao arrebata a Barcelona la mayor feria de cannabis de Europa,2026-04-10 23:40
-jornada,4,13,2.31,46,"google_news_es, okdiario",2,Descubre todas las camisetas de la jornada retro - Diario AS,2026-04-10 23:40
-parque,4,13,2.31,46,"elcorreo, sur, heraldo_aragon",3,"Álava pone a punto sus parques naturales con nuevos parkings, sendas y refugios",2026-04-10 23:40
-ábalos,3,10,2.25,45,"elmundo_espana, elespanol",2,"Nadie en Oviedo vio a la amiga de Ábalos buscando libros de trenes: ""Si la Justicia lo pide, daremos la información""",2026-04-10 23:40
-cádiz,5,17,2.21,44,"eldiario, 20minutos, sur, elespanol, elpais",5,Las torres miradores de Cádiz: la historia del comercio con América contada desde las alturas,2026-04-10 23:40
-vuelta,4,14,2.15,42,"elcorreo, elmundo, heraldo_aragon, elpais, france24_es",5,"Rafa Nadal vibra con Rahm, al que mandó ánimos Alcaraz antes de su vuelta: «Dos grandes embajadores de este deporte»",2026-04-10 23:40
-negociación,3,11,2.05,40,"expansion, elcorreo, google_news_internacional",3,Arranca la negociación por la paz en Irán condicionada por Israel,2026-04-10 23:40
-primavera,3,11,2.05,40,"expansion, elpais, huffington_es",3,"De Sevilla a Jerez y Córdoba, la primavera de ferias que llena los hoteles",2026-04-10 23:40
+mucho,5,7,5.63,100,"sur, elmundo, elcorreo, huffington_es",4,Mucho más que habas con jamón,2026-04-11 00:10
+crítico,3,4,5.91,100,"elpais, elcorreo, levante_emv",3,"Última hora del regreso de Artemis 2, en directo | Los astronautas, ya vestidos y preparados para el momento crítico de la reentrada en la Tierra",2026-04-11 00:10
+regresa,4,5,6.3,100,"huffington_es, levante_emv, eldiario, google_news_internacional",4,Vídeo en directo: la tripulación de Artemis II regresa a la Tierra,2026-04-11 00:10
+bernabéu,5,1,39.39,100,"google_news_es, levante_emv, elcorreo, 20minutos",4,"LaLiga estrena toque 'retro' a medias en el Bernabéu: marcadores, balón, equipaciones y más con la ausencia del Real Madrid - Cadena SER",2026-04-11 00:10
+miranda,5,3,13.13,100,elcorreo,1,El jardín de la Casa de Don Lope de Miranda abre sus puertas,2026-04-11 00:10
+rivera,4,4,7.88,100,"okdiario, 20minutos, google_news_es",3,"Kiko Rivera explota contra Ángela Portero en ‘¡De viernes!’: “Eres la que trincaba, ¿eh?»",2026-04-11 00:10
+girona,25,18,10.94,100,"elpais, lavanguardia, sur, elmundo, levante_emv",5,Arbeloa vuelve a hablar del esfuerzo de los jugadores tras otro gatillazo con el Girona: “Necesitamos dar el 200%”,2026-04-11 00:10
+gatillazo,3,0,5.0,100,"elpais, google_news_es",2,"Álvaro Arbeloa, contra los árbitros tras otro gatillazo liguero: “Es otra más, nadie entiende cuándo entra el VAR”",2026-04-11 00:10
+orban,5,5,7.88,100,"elmundo_internacional, google_news_es, france24_es",3,"""Todos cruzamos los dedos"": la UE suspira por la derrota electoral de Orban, pero nadie espera ""un cambio total"" en Hungría",2026-04-11 00:10
+derrota,4,1,31.51,100,"elmundo_internacional, google_news_es, elcorreo, levante_emv",4,"""Todos cruzamos los dedos"": la UE suspira por la derrota electoral de Orban, pero nadie espera ""un cambio total"" en Hungría",2026-04-11 00:10
+dedos,3,0,5.0,100,"elmundo_internacional, google_news_es, levante_emv",3,"""Todos cruzamos los dedos"": la UE suspira por la derrota electoral de Orban, pero nadie espera ""un cambio total"" en Hungría",2026-04-11 00:10
+choque,3,3,7.88,100,"elcorreo, elpais, elespanol",3,Choque de desconfianzas,2026-04-11 00:10
+martes,5,2,19.7,100,"okdiario, google_news_internacional, elpais, europapress, levante_emv",5,Israel y Líbano iniciarán conversaciones de paz en Washington el martes,2026-04-11 00:10
+washington,10,5,15.76,100,"okdiario, lavanguardia, google_news_internacional, elpais, europapress",5,Israel y Líbano iniciarán conversaciones de paz en Washington el martes,2026-04-11 00:10
+alumnos,3,1,23.64,100,"levante_emv, heraldo_aragon, elmundo_internacional",3,"Profesores, compañeros y alumnos unidos en Geografía",2026-04-11 00:10
+demanda,3,4,5.91,100,"sur, expansion, elpais, elespanol, huffington_es",5,Una plataforma ciudadana de Málaga demanda que se reconozca la cultura como derecho fundamental,2026-04-11 00:10
+príncipe,4,3,10.5,100,"sur, elespanol, huffington_es",3,Príncipe de Asturias: Alta cocina de raíz malagueña,2026-04-11 00:10
+retro,3,4,5.91,100,"google_news_es, okdiario",2,Descubre todas las camisetas de la jornada retro - Diario AS,2026-04-11 00:10
+laliga,7,7,7.88,100,"elcorreo, google_news_es, levante_emv, 20minutos",4,"Toni Martínez-Boyé, la pareja «más pesada» que se cuela entre las mejores de LaLiga",2026-04-11 00:10
+bonoloto,7,8,6.89,100,"sur, 20minutos, elcorreo, levante_emv, okdiario",5,"Comprobar Lotería del viernes, 10 de abril: resultados de la Bonoloto, del Euromillones, del Eurojackpot de la ONCE y del Cuponazo de la ONCE",2026-04-11 00:10
+euromillones,8,2,31.51,100,"sur, 20minutos, elcorreo, okdiario, elpais",5,"Comprobar Lotería del viernes, 10 de abril: resultados de la Bonoloto, del Euromillones, del Eurojackpot de la ONCE y del Cuponazo de la ONCE",2026-04-11 00:10
+eurojackpot,4,1,31.51,100,"sur, okdiario, elcorreo",3,"Comprobar Lotería del viernes, 10 de abril: resultados de la Bonoloto, del Euromillones, del Eurojackpot de la ONCE y del Cuponazo de la ONCE",2026-04-11 00:10
+organización,3,2,11.82,100,"google_news_internacional, huffington_es",2,La Organización Marítima Internacional no ve base legal a peajes ni cambios de ruta en Ormuz - ABC,2026-04-11 00:10
+molotov,3,0,5.0,100,"lavanguardia, levante_emv",2,La policía arresta a un joven por atacar con un cóctel molotov la casa del presidente de OpenAI en San Francisco,2026-04-11 00:10
+cóctel,3,1,23.64,100,"lavanguardia, levante_emv",2,La policía arresta a un joven por atacar con un cóctel molotov la casa del presidente de OpenAI en San Francisco,2026-04-11 00:10
+cuñado,3,1,23.64,100,"levante_emv, elconfidencial, elmundo",3,Detenido un hombre tras apuñalar a su cuñado en una vivienda en Madrid,2026-04-11 00:10
+apuñalar,3,1,23.64,100,"levante_emv, elconfidencial, elmundo",3,Detenido un hombre tras apuñalar a su cuñado en una vivienda en Madrid,2026-04-11 00:10
+sábado,7,2,27.57,100,"20minutos, sur",2,Tu horóscopo diario: sábado 11 de abril de 2026,2026-04-11 00:10
+mónaco,3,1,23.64,100,"elpais, google_news_es, okdiario",3,El Barcelona cae ante el Mónaco y se mete en un lío tremendo,2026-04-11 00:10
+artemisa,3,1,23.64,100,eldiario,1,En directo: los cuatro astronautas de la misión Artemisa II regresan a la Tierra,2026-04-11 00:10
+formación,3,4,5.91,100,"elmundo_espana, heraldo_aragon, huffington_es, google_news_internacional",4,"Nadie en Oviedo vio a la amiga de Ábalos buscando libros de trenes: ""Si la Justicia lo pide, daremos la información""",2026-04-11 00:10
+cuponazo,4,2,15.76,100,"sur, okdiario, elcorreo",3,"Comprobar Lotería del viernes, 10 de abril: resultados de la Bonoloto, del Euromillones, del Eurojackpot de la ONCE y del Cuponazo de la ONCE",2026-04-11 00:10
+seguro,3,3,7.88,100,"google_news_internacional, elmundo",2,"Amnistía pide a Israel garantizar el paso ""seguro"" de la Flotilla rumbo a Gaza, que zarpa este domingo desde Barcelona - Europa Press",2026-04-11 00:10
+supera,6,7,6.75,100,"elcorreo, elpais, okdiario, google_news_economia",4,Rahm olvida el desastre y supera el corte en el Masters por la mínima,2026-04-11 00:10
+sorteo,9,11,6.45,100,"sur, levante_emv, okdiario, elpais",4,"Resultado del sorteo de la Bonoloto del viernes, 10 de abril de 2026",2026-04-11 00:10
+amnistía,3,0,5.0,100,google_news_internacional,1,Venezuela: la ley de amnistía no puede convertirse en un mecanismo de represión - Amnesty International,2026-04-11 00:10
+empata,3,0,5.0,100,"elcorreo, elmundo, 20minutos",3,El Real Madrid empata y se coloca a 6 puntos del Barcelona,2026-04-11 00:10
+vance,3,2,11.82,100,"france24_es, lavanguardia, google_news_es",3,J.D. Vance liderará la delegación de Estados Unidos en conversaciones con Irán,2026-04-11 00:10
+polémica,6,4,11.82,100,"20minutos, elespanol, okdiario, google_news_economia",4,"Kiko Rivera aclara su polémica actitud en su última entrevista en '¡De viernes!': ""Me sentí engañado""",2026-04-11 00:10
+finaliza,3,2,11.82,100,elcorreo,1,Jon Rahm finaliza con +4 y pasa el corte por la mínima,2026-04-11 00:10
+openai,3,1,23.64,100,"lavanguardia, levante_emv",2,La policía arresta a un joven por atacar con un cóctel molotov la casa del presidente de OpenAI en San Francisco,2026-04-11 00:10
+arbeloa,6,2,23.64,100,"google_news_es, elmundo, elpais, 20minutos",4,"Álvaro Arbeloa explota contra el arbitraje tras la acción sobre Kylian Mbappé: ""Para mí es penalti aquí y en la Luna"" - DAZN",2026-04-11 00:10
+mbappé,4,0,5.0,100,"google_news_es, elmundo, elpais, 20minutos",4,"Álvaro Arbeloa explota contra el arbitraje tras la acción sobre Kylian Mbappé: ""Para mí es penalti aquí y en la Luna"" - DAZN",2026-04-11 00:10
+colombia,4,6,5.25,100,"france24_es, google_news_economia",2,Directo a Guayaquil y la subida de aranceles entre Ecuador y Colombia,2026-04-11 00:10
+maniobra,4,3,10.5,100,"elpais, google_news_es, bbc_mundo, levante_emv, eldiario",5,"Última hora del regreso de Artemis 2, en directo | La nave Orion se desengancha del módulo de servicio y realiza la última maniobra clave para evitar el desastre en la reentrada",2026-04-11 00:10
+construir,3,3,7.88,100,"sur, google_news_es, elmundo_internacional",3,Los propietarios del Movistar Arena de Madrid siguen interesados en construir un gran recinto de conciertos en Málaga,2026-04-11 00:10
+nadal,3,2,11.82,100,"elcorreo, elpais",2,"Rafa Nadal vibra con Rahm, al que mandó ánimos Alcaraz antes de su vuelta: «Dos grandes embajadores de este deporte»",2026-04-11 00:10
+acceso,3,2,11.82,100,sur,1,El programa Garantía Vivienda facilita el acceso a una casa a 2.590 andaluces,2026-04-11 00:10
+peligrosa,4,4,7.88,100,"google_news_es, bbc_mundo, elmundo",3,La tripulación de Artemis II inicia la peligrosa maniobra de reingreso a la Tierra - BBC,2026-04-11 00:10
+árbitros,5,7,5.63,100,"elmundo, elpais, google_news_es, france24_es",4,"Arbeloa estalla contra los árbitros por el penalti no pitado sobre Mbappé: ""Cuando viene bien entra el VAR, y cuando no, no entra""",2026-04-11 00:10
+entra,4,3,10.5,100,"elpais, france24_es, elmundo, elespanol, elmundo_internacional",5,"Última hora del regreso de Artemis 2, en directo | La nave Orion se desengancha del módulo de servicio y realiza la última maniobra clave para evitar el desastre en la reentrada",2026-04-11 00:10
+regreso,11,16,5.42,100,"elpais, elmundo, elespanol, 20minutos, france24_es",5,"Última hora del regreso de Artemis 2, en directo | La nave Orion se desengancha del módulo de servicio y realiza la última maniobra clave para evitar el desastre en la reentrada",2026-04-11 00:10
+corte,5,1,39.39,100,"elcorreo, elpais",2,Sergio García siembra la duda sobre una posible retirada y Olazabal falla el corte en el Masters,2026-04-11 00:10
+informe,6,5,9.45,100,france24_es,1,Informe desde Beirut: bombardeo israelí mata al menos a 13 funcionarios libaneses,2026-04-11 00:10
+orion,4,3,10.5,100,"elpais, elespanol, 20minutos",3,"Última hora del regreso de Artemis 2, en directo | La nave Orion se desengancha del módulo de servicio y realiza la última maniobra clave para evitar el desastre en la reentrada",2026-04-11 00:10
+tierra,23,36,5.03,100,"elmundo, google_news_es, bbc_mundo, france24_es, elpais",5,"En directo, el regreso de Artemis 2: la cápsula Orión se separa de la otra parte de la nave e inicia el descenso hacia la Tierra",2026-04-11 00:10
+cocina,3,4,5.91,100,sur,1,Príncipe de Asturias: Alta cocina de raíz malagueña,2026-04-11 00:10
+conflicto,4,4,7.88,100,"sur, elcorreo, expansion, elmundo_espana",4,"El conflicto por la falta de luz en la promoción Alma, en Estepona, llega a las calles de Málaga",2026-04-11 00:10
+desastre,3,0,5.0,100,"elpais, elcorreo",2,"Última hora del regreso de Artemis 2, en directo | La nave Orion se desengancha del módulo de servicio y realiza la última maniobra clave para evitar el desastre en la reentrada",2026-04-11 00:10
+peajes,4,0,5.0,100,"levante_emv, google_news_internacional",2,"Trump asegura que no permitirá que Irán cobre peajes en el estrecho de Ormuz: ""Es agua internacional""",2026-04-11 00:10
+difícil,3,5,4.73,94,"elcorreo, google_news_internacional",2,La guerra contada en un minuto | El relato del conflicto es cada vez más difícil de verificar,2026-04-11 00:10
+triunfo,3,5,4.73,94,"elespanol, elpais, heraldo_aragon",3,Polémica por el arco del triunfo de Trump en Washington: un gesto de vanidad el doble de alto que el Monumento a Lincoln,2026-04-11 00:10
+álvaro,4,7,4.5,90,"google_news_es, elpais, sur",3,"Álvaro Arbeloa explota contra el arbitraje tras la acción sobre Kylian Mbappé: ""Para mí es penalti aquí y en la Luna"" - DAZN",2026-04-11 00:10
+cambios,4,7,4.5,90,"elcorreo, google_news_internacional, 20minutos",3,Elecciones y cambios en el mapa político,2026-04-11 00:10
+comprobar,11,20,4.33,86,"sur, elcorreo, okdiario, elpais",4,"Comprobar Lotería del viernes, 10 de abril: resultados de la Bonoloto, del Euromillones, del Eurojackpot de la ONCE y del Cuponazo de la ONCE",2026-04-11 00:10
+incendio,6,11,4.3,85,"elcorreo, levante_emv",2,Un voraz incendio en la papelera de Iurreta genera alarma y destruye 50 bobinas almacenadas,2026-04-11 00:10
+reentrada,7,13,4.24,84,"elpais, elespanol, levante_emv, elmundo",4,"Última hora del regreso de Artemis 2, en directo | La nave Orion se desengancha del módulo de servicio y realiza la última maniobra clave para evitar el desastre en la reentrada",2026-04-11 00:10
+inicia,5,10,3.94,78,"elmundo, google_news_es, bbc_mundo, elcorreo, okdiario",5,"En directo, el regreso de Artemis 2: la cápsula Orión se separa de la otra parte de la nave e inicia el descenso hacia la Tierra",2026-04-11 00:10
+beirut,4,8,3.94,78,france24_es,1,Informe desde Beirut: bombardeo israelí mata al menos a 13 funcionarios libaneses,2026-04-11 00:10
+grupo,3,6,3.94,78,"expansion, bbc_mundo",2,Cómo Carlos Bosch pasó de reponedor en hipermercados a transformar la hostelería con Grupo GastroPortal,2026-04-11 00:10
+defensa,3,6,3.94,78,"elcorreo, levante_emv",2,Prueba de estrés para la defensa de un Alavés en buena línea,2026-04-11 00:10
+misión,9,19,3.73,74,"elespanol, 20minutos, eldiario, france24_es, heraldo_aragon",5,"Regreso de Artemis II a la Tierra, en directo | La histórica misión de la NASA a la cara oculta de la Luna vuelve a casa",2026-04-11 00:10
+resultados,7,15,3.68,73,"sur, elcorreo",2,"Comprobar Lotería del viernes, 10 de abril: resultados de la Bonoloto, del Euromillones, del Eurojackpot de la ONCE y del Cuponazo de la ONCE",2026-04-11 00:10
+denuncia,5,11,3.58,71,"elcorreo, 20minutos, huffington_es, eldiario",4,El PP denuncia el «caos en la gestión de la piscina climatizada» de Miranda,2026-04-11 00:10
+augusta,4,9,3.5,70,"elpais, elcorreo",2,Jon Rahm supera el corte en el Masters de Augusta animado por Rafa Nadal y Alcaraz,2026-04-11 00:10
+afecta,3,7,3.38,67,"expansion, sur",2,¿Cómo afecta el euríbor al consumo de las familias?,2026-04-11 00:10
+astronautas,9,21,3.38,67,"elpais, elmundo, eldiario, france24_es, google_news_es",5,"Última hora del regreso de Artemis 2, en directo | Los astronautas, ya vestidos y preparados para el momento crítico de la reentrada en la Tierra",2026-04-11 00:10
+artificial,3,7,3.38,67,"lavanguardia, elcorreo, google_news_economia",3,La gente en la inteligencia artificial (III),2026-04-11 00:10
+nadie,5,12,3.28,65,"elmundo_internacional, google_news_es, elpais, elmundo_espana",4,"""Todos cruzamos los dedos"": la UE suspira por la derrota electoral de Orban, pero nadie espera ""un cambio total"" en Hungría",2026-04-11 00:10
+partido,10,24,3.28,65,"elmundo_espana, elcorreo, eldiario, okdiario, 20minutos",5,"Javier Ortega Smith: ""No fundamos Vox para ser un partido donde un señor feudal hace y deshace""",2026-04-11 00:10
+hungría,8,20,3.15,63,"sur, elcorreo, elmundo_internacional, google_news_es, france24_es",5,Triple examen  en Hungría,2026-04-11 00:10
+directo,32,82,3.07,61,"elpais, france24_es, elmundo, elespanol, google_news_internacional",5,"Última hora del regreso de Artemis 2, en directo | La nave Orion se desengancha del módulo de servicio y realiza la última maniobra clave para evitar el desastre en la reentrada",2026-04-11 00:10
+artemis,22,56,3.1,61,"elpais, elmundo, google_news_es, bbc_mundo, france24_es",5,"Última hora del regreso de Artemis 2, en directo | La nave Orion se desengancha del módulo de servicio y realiza la última maniobra clave para evitar el desastre en la reentrada",2026-04-11 00:10
+resultado,7,18,3.06,61,"sur, elcorreo, okdiario, elespanol",4,"Comprobar Lotería del viernes, 10 de abril: resultados de la Bonoloto, del Euromillones, del Eurojackpot de la ONCE y del Cuponazo de la ONCE",2026-04-11 00:10
+conversaciones,5,13,3.03,60,"okdiario, google_news_internacional, elpais, france24_es, google_news_es",5,Israel y Líbano iniciarán conversaciones de paz en Washington el martes,2026-04-11 00:10
+viaje,3,8,2.95,59,"sur, levante_emv, huffington_es, heraldo_aragon",4,"Cávala, una cocina viajera cargada de recuerdos",2026-04-11 00:10
+francia,4,11,2.86,57,"huffington_es, elcorreo, okdiario, heraldo_aragon",4,En Francia ya lanzan un inquietante aviso por los precios de los combustibles: &quot;No volveremos a los niveles de antes de la guerra&quot;,2026-04-11 00:10
+estado,4,11,2.86,57,"elmundo, lavanguardia, google_news_internacional, levante_emv, elpais",5,"El Gobierno celebra el ""aval"" del Consejo de Estado a la regularización extraordinaria",2026-04-11 00:10
+elecciones,5,14,2.81,56,"elcorreo, google_news_es, france24_es, elpais, 20minutos",5,Elecciones y cambios en el mapa político,2026-04-11 00:10
+marbella,3,9,2.63,52,sur,1,La Petite Maison (Marbella): Estilo y savoir faire de la Riviera,2026-04-11 00:10
+parque,4,12,2.63,52,"elcorreo, sur, heraldo_aragon",3,"Álava pone a punto sus parques naturales con nuevos parkings, sendas y refugios",2026-04-11 00:10
+viernes,16,48,2.63,52,"okdiario, sur, 20minutos, levante_emv, elpais",5,"Kiko Rivera explota contra Ángela Portero en ‘¡De viernes!’: “Eres la que trincaba, ¿eh?»",2026-04-11 00:10
+tripulación,3,9,2.63,52,"google_news_es, bbc_mundo, huffington_es",3,La tripulación de Artemis II inicia la peligrosa maniobra de reingreso a la Tierra - BBC,2026-04-11 00:10
+inteligencia,3,9,2.63,52,"lavanguardia, google_news_economia",2,La gente en la inteligencia artificial (III),2026-04-11 00:10
+madrid,35,108,2.55,51,"france24_es, sur, google_news_es, lavanguardia, elpais",5,Informe desde Madrid: Netanyahu acusa a España de hostilidad,2026-04-11 00:10
+negociar,4,13,2.42,48,"france24_es, google_news_internacional, lavanguardia, elpais",4,Irán y EE. UU. se alistan para negociar en Islamabad,2026-04-11 00:10
+masters,6,20,2.36,47,"elcorreo, elpais",2,Sergio García siembra la duda sobre una posible retirada y Olazabal falla el corte en el Masters,2026-04-11 00:10
+abril,26,88,2.33,46,"elcorreo, sur, 20minutos, levante_emv, okdiario",5,"Horóscopo diario, 12 de abril de 2026",2026-04-11 00:10
+histórica,4,14,2.25,45,"elespanol, france24_es",2,"Regreso de Artemis II a la Tierra, en directo | La histórica misión de la NASA a la cara oculta de la Luna vuelve a casa",2026-04-11 00:10
+vuelta,4,14,2.25,45,"elcorreo, elmundo, heraldo_aragon, elpais, france24_es",5,"Rafa Nadal vibra con Rahm, al que mandó ánimos Alcaraz antes de su vuelta: «Dos grandes embajadores de este deporte»",2026-04-11 00:10
+hacia,3,11,2.15,42,"elmundo, google_news_internacional, google_news_politica",3,"En directo, el regreso de Artemis 2: la cápsula Orión se separa de la otra parte de la nave e inicia el descenso hacia la Tierra",2026-04-11 00:10
+violencia,3,11,2.15,42,"sur, france24_es",2,"La trágica, cruel e inaceptable violencia institucional",2026-04-11 00:10
+europa,12,46,2.06,41,"elcorreo, lavanguardia, expansion, okdiario, google_news_internacional",5,Bilbao arrebata a Barcelona la mayor feria de cannabis de Europa,2026-04-11 00:10
