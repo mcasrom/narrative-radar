@@ -1,119 +1,104 @@
 keyword,count_now,count_base,ratio,viral_score,sources,n_sources,sample_title,detected_at
-rechaza,3,1,16.06,100,"france24_es, eldiario, google_news_internacional",3,Informe desde Beirut: protesta pro Hezbolá rechaza diálogos con Israel sin cese el fuego,2026-04-11 23:09
-comunidad,4,4,5.35,100,"sur, google_news_internacional, huffington_es, okdiario",4,Una comunidad de vecinos logra en el Supremo que un bar con autorización para tener terraza la quite por estar en zona común,2026-04-11 23:09
-gaza»,3,0,5.0,100,"sur, google_news_es",2,La alcaldesa de El Burgo defiende la quema del muñeco: «Nos preocupa más el asesinato de niños en Gaza»,2026-04-11 23:09
-aviso,4,4,5.35,100,"20minutos, okdiario, google_news_internacional",3,"Fuerte desplome de las temperaturas en España en las próximas horas: avisos en varias zonas por lluvia, viento o nieve",2026-04-11 23:09
-descanso,3,1,16.06,100,"okdiario, elpais",2,Sin descanso para Pedri y Lamine Yamal: juegan 90 minutos a 72 horas del Atlético-Barcelona de Champions,2026-04-11 23:09
-decisión,3,2,8.03,100,"elcorreo, 20minutos",2,Areso fuera de la convocatoria por decisión técnica,2026-04-11 23:09
-junio,4,0,5.0,100,"elmundo, google_news_internacional, huffington_es",3,Cibeles calienta motores al son de la música para la visita del Papa: de la Fiesta de la Resurrección a la vigilia de León XIV en junio,2026-04-11 23:09
-clasificación,3,2,8.03,100,"heraldo_aragon, sur, okdiario",3,Así queda el Real Zaragoza en la clasificación: un gol de córner deja tiritando,2026-04-11 23:09
-muñeco,14,6,12.49,100,"heraldo_aragon, sur, google_news_es, google_news_internacional, elcorreo",5,"El pueblo que quemó un muñeco de Netanyahu replica a Israel: ""Ni somos antisemitas, ni muchísimo menos""",2026-04-11 23:09
-extremadura,10,6,8.92,100,"20minutos, levante_emv, google_news_es, elconfidencial, elespanol",5,Álvaro Sánchez Cotrina gana las primarias y se convierte en el nuevo secretario general del PSOE de Extremadura,2026-04-11 23:09
-general,5,0,5.0,100,"20minutos, google_news_es, france24_es, elconfidencial, eldiario",5,Álvaro Sánchez Cotrina gana las primarias y se convierte en el nuevo secretario general del PSOE de Extremadura,2026-04-11 23:09
-secretario,6,0,5.0,100,"20minutos, google_news_es, sur, elconfidencial, eldiario",5,Álvaro Sánchez Cotrina gana las primarias y se convierte en el nuevo secretario general del PSOE de Extremadura,2026-04-11 23:09
-primarias,8,0,5.0,100,"20minutos, google_news_es, okdiario, elespanol, huffington_es",5,Álvaro Sánchez Cotrina gana las primarias y se convierte en el nuevo secretario general del PSOE de Extremadura,2026-04-11 23:09
-cotrina,10,0,5.0,100,"20minutos, levante_emv, google_news_es, elconfidencial, elespanol",5,Álvaro Sánchez Cotrina gana las primarias y se convierte en el nuevo secretario general del PSOE de Extremadura,2026-04-11 23:09
-álvaro,9,8,6.02,100,"20minutos, levante_emv, google_news_es, elconfidencial, elespanol",5,Álvaro Sánchez Cotrina gana las primarias y se convierte en el nuevo secretario general del PSOE de Extremadura,2026-04-11 23:09
-destructores,5,2,13.39,100,"google_news_internacional, google_news_es, heraldo_aragon",3,"Guerra en Irán, última hora hoy, en directo | Estados Unidos envía dos destructores de la armada a retirar minas iraníes en el estrecho de Ormuz - El Mundo",2026-04-11 23:09
-cibeles,7,0,5.0,100,"20minutos, elmundo, elcorreo, huffington_es, elconfidencial",5,"Cibeles se prepara para acoger un ""acto histórico"" con León XIV en su visita a España",2026-04-11 23:09
-asesinato,3,2,8.03,100,"sur, google_news_es",2,La alcaldesa de El Burgo defiende la quema del muñeco: «Nos preocupa más el asesinato de niños en Gaza»,2026-04-11 23:09
-victoria,7,7,5.35,100,"sur, google_news_es, elespanol, okdiario",4,El uno a uno del Málaga en la victoria ante Las Palmas,2026-04-11 23:09
-preocupa,3,0,5.0,100,"france24_es, sur, google_news_es, okdiario",4,Elecciones Perú: la preocupación de los votantes por la situación económica del país,2026-04-11 23:09
-avanzan,3,0,5.0,100,"okdiario, elpais, google_news_es",3,EEUU e Irán avanzan a la fase técnica y mantienen las conversaciones este domingo en Islamabad,2026-04-11 23:09
-alaquàs,5,1,26.77,100,levante_emv,1,Un vehículo policial acaba empotrado contra un garaje y comienza a arder tras una persecución en Alaquàs,2026-04-11 23:09
-persecución,5,0,5.0,100,levante_emv,1,Un vehículo policial acaba empotrado contra un garaje y comienza a arder tras una persecución en Alaquàs,2026-04-11 23:09
-garaje,3,1,16.06,100,levante_emv,1,Un vehículo policial acaba empotrado contra un garaje y comienza a arder tras una persecución en Alaquàs,2026-04-11 23:09
-empotrado,4,0,5.0,100,levante_emv,1,Un vehículo policial acaba empotrado contra un garaje y comienza a arder tras una persecución en Alaquàs,2026-04-11 23:09
-policial,4,1,21.42,100,levante_emv,1,Un vehículo policial acaba empotrado contra un garaje y comienza a arder tras una persecución en Alaquàs,2026-04-11 23:09
-sorpresa,3,3,5.35,100,"huffington_es, elmundo",2,Sorpresa en el PSOE de Extremadura: Álvaro Sánchez Cotrina rompe décadas de dominio de Badajoz y se impone en las primarias,2026-04-11 23:09
-moral,3,1,16.06,100,"levante_emv, google_news_es, elcorreo",3,¿Quién enseña modales a una inteligencia sin brújula moral? Las profesiones de Letras reivindican su papel por dotar de humanidad a la IA,2026-04-11 23:09
-jannik,3,0,5.0,100,"elespanol, google_news_es, 20minutos",3,"Carlos Alcaraz - Jannik Sinner, una final de alto voltaje: el número uno en juego, la corona de Montecarlo y el cetro ATP",2026-04-11 23:09
-alcaldesa,3,1,16.06,100,"sur, google_news_es",2,La alcaldesa de El Burgo defiende la quema del muñeco: «Nos preocupa más el asesinato de niños en Gaza»,2026-04-11 23:09
-funes,3,0,5.0,100,sur,1,"Funes: «A nivel anímico, esta victoria es un empujón muy grande»",2026-04-11 23:09
-ganar,3,1,16.06,100,"sur, okdiario, levante_emv, huffington_es",4,Así está la clasificación de Segunda tras ganar el Málaga,2026-04-11 23:09
-lasexta,3,3,5.35,100,google_news_es,1,Horario y dónde ver en TV la final del Masters 1.000 de Montecarlo entre Carlos Alcaraz y Jannik Sinner - LaSexta,2026-04-11 23:09
-burgo,3,3,5.35,100,"sur, google_news_es",2,Polideportivo malagueño: El Trops Málaga puede certificar su descenso si no gana en Burgos,2026-04-11 23:09
-quema,15,11,7.3,100,"sur, google_news_es, google_news_internacional, elcorreo, infolibre",5,La alcaldesa de El Burgo defiende la quema del muñeco: «Nos preocupa más el asesinato de niños en Gaza»,2026-04-11 23:09
-minas,5,5,5.35,100,"elcorreo, google_news_internacional, heraldo_aragon",3,La Casa Blanca asegura que ya limpia Ormuz de minas,2026-04-11 23:09
-exige,4,4,5.35,100,"google_news_internacional, huffington_es, heraldo_aragon",3,"Australia confirma que sola no puede prohibir a adolescentes el acceso a redes sociales: ""Si es la comunidad internacional la que exige cambios veremos resultados"" - El HuffPost",2026-04-11 23:09
-sueldazo,3,1,16.06,100,"sur, elcorreo",2,"Comprobar Lotería del sábado, 11 de abril: resultados de la Bonoloto, La Primitiva, de la Lotería Nacional y del Sueldazo del fin de semana de la ONCE",2026-04-11 23:09
-moscú,3,1,16.06,100,"google_news_internacional, elmundo_internacional",2,"Internacional. Ante un mundo complejo y en riesgo, Moscú quiere articular a la izquierda global - Resumen Latinoamericano -",2026-04-11 23:09
-vehículo,3,2,8.03,100,"elcorreo, levante_emv",2,Un vehículo de la Policía Nacional se estampa e incendia una casa en Valencia,2026-04-11 23:09
-policía,7,6,6.25,100,"elcorreo, levante_emv, google_news_es, france24_es, elmundo",5,Un vehículo de la Policía Nacional se estampa e incendia una casa en Valencia,2026-04-11 23:09
-juicio,4,4,5.35,100,"sur, elcorreo, elmundo_espana, 20minutos",4,Las listas y los juicios animan la precampaña,2026-04-11 23:09
-agresor,3,0,5.0,100,"france24_es, google_news_internacional",2,Nueva York: ataque con machete en la estación Grand Central deja tres heridos; policía mata al agresor,2026-04-11 23:09
-grand,3,0,5.0,100,"levante_emv, sur, france24_es, heraldo_aragon, google_news_internacional",5,"Trump advierte a China que tendrá ""grandes problemas"" si envía armas a Irán",2026-04-11 23:09
-machete,3,0,5.0,100,"france24_es, elmundo",2,Nueva York: ataque con machete en la estación Grand Central deja tres heridos; policía mata al agresor,2026-04-11 23:09
-fallecido,3,3,5.35,100,"sur, google_news_es, 20minutos",3,"Los aficionados del Málaga recuerdan a Javi Gallardo, fallecido en un accidente en Pedregalejo",2026-04-11 23:09
-antisemitismo,3,1,16.06,100,"eldiario, google_news_internacional",2,"El Gobierno rechaza la ""acusación insidiosa"" de antisemitismo por parte de Israel",2026-04-11 23:09
-primitiva,7,2,18.74,100,"sur, 20minutos, elcorreo, levante_emv",4,"Comprobar Lotería del sábado, 11 de abril: resultados de la Bonoloto, La Primitiva, de la Lotería Nacional y del Sueldazo del fin de semana de la ONCE",2026-04-11 23:09
-fiesta,4,4,5.35,100,"google_news_internacional, elmundo, 20minutos, heraldo_aragon",4,"La pareja internacional que hace del entrenamiento una fiesta: ""La gente no busca solo hacer ejercicio, vuelve por cómo se siente"" - El Mundo",2026-04-11 23:09
-miranda,5,5,5.35,100,elcorreo,1,64 jóvenes de entre 16 y 30 años pasaron por el programa Itera de Cáritas Miranda en el 2025,2026-04-11 23:09
-responsable,3,1,16.06,100,"elcorreo, sur, lavanguardia",3,Israel convoca a la responsable de la Embajada de España por la quema de un muñeco de Netanyahu en Málaga,2026-04-11 23:09
-lozano,3,0,5.0,100,"okdiario, google_news_es, elpais",3,Pol Lozano retrata a los jugadores del Barça: «Ya se ve su respeto por compañeros de profesión…»,2026-04-11 23:09
-embajada,4,1,21.42,100,"elcorreo, sur, lavanguardia, elespanol",4,Israel convoca a la responsable de la Embajada de España por la quema de un muñeco de Netanyahu en Málaga,2026-04-11 23:09
-córdoba,5,1,26.77,100,heraldo_aragon,1,El uno a uno del Real Zaragoza ante el Córdoba: la garra de Cuenca y poco más,2026-04-11 23:09
-plaza,4,4,5.35,100,"sur, google_news_es, levante_emv, google_news_internacional, heraldo_aragon",5,Coín empieza a transformar el Hoyo Carazony en un gran parking público con más de 300 plazas,2026-04-11 23:09
-retirar,4,2,10.71,100,"google_news_internacional, heraldo_aragon",2,"Guerra en Irán, última hora hoy, en directo | Estados Unidos envía dos destructores de la armada a retirar minas iraníes en el estrecho de Ormuz - El Mundo",2026-04-11 23:09
-central,4,2,10.71,100,"elcorreo, france24_es, google_news_internacional",3,El Gobierno central concedió 124 semilibertades a presos de ETA entre 2003 y 2021,2026-04-11 23:09
-málaga,29,24,6.47,100,"sur, okdiario, google_news_es, google_news_internacional, elcorreo",5,Málaga es la cuarta provincia de España más afectada por las inundaciones,2026-04-11 23:09
-champions,3,2,8.03,100,"elpais, elmundo, okdiario",3,El Sevilla respira a costa de un Atlético con la mente puesta en la Champions y la final de Copa,2026-04-11 23:09
-atlético,10,5,10.71,100,"elpais, elmundo, okdiario, levante_emv, google_news_es",5,El Sevilla respira a costa de un Atlético con la mente puesta en la Champions y la final de Copa,2026-04-11 23:09
-buques,3,2,8.03,100,"elcorreo, heraldo_aragon",2,Sigue en directo la última hora de la guerra en Oriente Medio: Dos buques militares de EE UU navegan por Ormuz por primera vez desde el inicio de la guerra para desminar el estrecho,2026-04-11 23:09
-advierte,5,5,5.35,100,"levante_emv, heraldo_aragon, 20minutos, google_news_internacional, okdiario",5,"Trump advierte a China que tendrá ""grandes problemas"" si envía armas a Irán",2026-04-11 23:09
-defiende,4,1,21.42,100,"okdiario, sur, google_news_es",3,Simeone defiende su «plan» pese a las tres derrotas seguidas en Liga: «No me voy a mover de eso»,2026-04-11 23:09
-domingo,11,7,8.41,100,"sur, 20minutos, okdiario",3,"Precio de la gasolina y diésel en Málaga hoy, domingo 12 de abril: ¿Dónde están las gasolineras más baratas?",2026-04-11 23:09
-bonoloto,8,9,4.76,95,"sur, 20minutos, levante_emv, elcorreo, google_news_es",5,"Comprobar Lotería del sábado, 11 de abril: resultados de la Bonoloto, La Primitiva, de la Lotería Nacional y del Sueldazo del fin de semana de la ONCE",2026-04-11 23:09
-jóvenes,6,7,4.59,91,"elcorreo, elmundo_internacional, okdiario, huffington_es, heraldo_aragon",5,64 jóvenes de entre 16 y 30 años pasaron por el programa Itera de Cáritas Miranda en el 2025,2026-04-11 23:09
-sevilla,13,16,4.35,87,"levante_emv, elpais, elmundo, okdiario, google_news_es",5,El coraje y el balón parado rescatan al Sevilla en el estreno de García Plaza en el Sánchez-Pizjuán,2026-04-11 23:09
-ataque,4,5,4.28,85,"france24_es, google_news_internacional",2,Luto y reclamos en Líbano tras funeral de los 13 funcionarios muertos en ataque israelí,2026-04-11 23:09
-campeón,3,4,4.02,80,"20minutos, heraldo_aragon",2,"Carlos Alcaraz, sobre la final de Montecarlo ante Jannik Sinner: ""Un campeón de verdad es el que puede jugar en todas las superficies""",2026-04-11 23:09
-acaba,3,4,4.02,80,"levante_emv, okdiario, google_news_internacional",3,Un vehículo policial acaba empotrado contra un garaje y comienza a arder tras una persecución en Alaquàs,2026-04-11 23:09
-niños,3,4,4.02,80,"sur, google_news_es",2,La alcaldesa de El Burgo defiende la quema del muñeco: «Nos preocupa más el asesinato de niños en Gaza»,2026-04-11 23:09
-nueve,3,4,4.02,80,"elpais, google_news_es, heraldo_aragon",3,Barcelona - Espanyol en directo | El Barça gana el derbi y aventaja al Madrid por nueve puntos,2026-04-11 23:09
-salud,3,4,4.02,80,"sur, 20minutos, google_news_es",3,"Horóscopo de hoy, domingo 12 de abril: Predicciones de salud, amor y dinero",2026-04-11 23:09
-ferran,3,4,4.02,80,"elpais, elespanol",2,Ferran golea con el prodigioso Lamine al Espanyol,2026-04-11 23:09
-convoca,7,10,3.75,74,"elcorreo, google_news_internacional, sur, google_news_es, infolibre",5,Areso fuera de la convocatoria por decisión técnica,2026-04-11 23:09
-barça,11,16,3.68,73,"levante_emv, lavanguardia, okdiario, elpais, google_news_es",5,El Barça conquista la Liga Asobal por 33ª vez y con seis jornadas de adelanto,2026-04-11 23:09
-puede,12,18,3.57,71,"france24_es, 20minutos, google_news_es, sur, levante_emv",5,¿En qué medida Estados Unidos puede obligar a Israel a acatar lo que se acuerde con Irán?,2026-04-11 23:09
-huesca,4,6,3.57,71,heraldo_aragon,1,Una manifestación unitaria contra la guerra recorre el centro de Huesca,2026-04-11 23:09
-lleva,4,6,3.57,71,"google_news_es, huffington_es, elcorreo",3,"San Javier se lleva el primer premio de la Lotería, dotado con un millón y medio de euros - Murcia Plaza",2026-04-11 23:09
-murcia,4,6,3.57,71,"google_news_es, google_news_internacional",2,"San Javier se lleva el primer premio de la Lotería, dotado con un millón y medio de euros - Murcia Plaza",2026-04-11 23:09
-confirma,6,9,3.57,71,"elcorreo, google_news_internacional, huffington_es, heraldo_aragon, elconfidencial",5,Toca confirmar la buena dinámica,2026-04-11 23:09
-netanyahu,20,30,3.57,71,"heraldo_aragon, 20minutos, google_news_es, sur, google_news_internacional",5,"El pueblo que quemó un muñeco de Netanyahu replica a Israel: ""Ni somos antisemitas, ni muchísimo menos""",2026-04-11 23:09
-lamine,4,6,3.57,71,"elpais, okdiario, levante_emv, elespanol",4,Ferran golea con el prodigioso Lamine al Espanyol,2026-04-11 23:09
-defensa,3,5,3.21,64,"elcorreo, huffington_es, google_news_internacional, okdiario",4,La industria del motor se refugia en el bum de la defensa para escapar de su crisis,2026-04-11 23:09
-negocian,3,5,3.21,64,"elmundo_internacional, heraldo_aragon",2,"Qalibaf y Araghchi, los dos rostros del poder iraní que negocian en Islamabad",2026-04-11 23:09
-espanyol,18,30,3.21,64,"google_news_es, elpais, lavanguardia, levante_emv, elmundo",5,Así te hemos contado la victoria del Barcelona ante el Espanyol en la Liga - EL PAÍS,2026-04-11 23:09
-puntos,5,9,2.97,59,"sur, elpais, google_news_es, heraldo_aragon",4,Joaquín: «Hemos hecho un gran trabajo para que los tres puntos se queden en casa»,2026-04-11 23:09
-accidente,8,15,2.86,57,"elcorreo, huffington_es, elconfidencial, sur, google_news_es",5,"Raquel, la única pasajera que sigue ingresada por el accidente de Adamuz, da a luz a un niño",2026-04-11 23:09
-digital,3,6,2.68,53,"google_news_es, google_news_internacional, google_news_politica",3,Las noticias más destacadas de los Recursos Humanos durante la semana - RRHH Digital,2026-04-11 23:09
-millón,3,6,2.68,53,"google_news_es, 20minutos, elcorreo",3,"San Javier se lleva el primer premio de la Lotería, dotado con un millón y medio de euros - Murcia Plaza",2026-04-11 23:09
-sinner,6,12,2.68,53,"google_news_es, elespanol, 20minutos, okdiario",4,Alcaraz y Sinner se juegan el Masters 1000 de Montecarlo y el número uno mundial en su primer duelo de 2026 - RTVE.es,2026-04-11 23:09
-mejores,3,6,2.68,53,"levante_emv, huffington_es",2,Las mejores imágenes del Sevilla - Atlético,2026-04-11 23:09
-mujer,6,12,2.68,53,"levante_emv, elconfidencial, elpais, 20minutos, google_news_es",5,Una persecución policial en Alaquàs termina con un coche empotrado e incendiado y una mujer evacuada al hospital,2026-04-11 23:09
-pedro,4,8,2.68,53,"sur, elmundo_espana, eldiario, heraldo_aragon",4,El Ayuntamiento avanza en la regeneración urbana de San Pedro Alcántara,2026-04-11 23:09
-grave,3,6,2.68,53,"levante_emv, google_news_es, 20minutos, elpais, lavanguardia",5,El conductor del autobús accidentado en La Gomera es el herido más grave hospitalizado en Tenerife,2026-04-11 23:09
-estrena,3,6,2.68,53,"heraldo_aragon, sur",2,El Real Zaragoza estrena en Córdoba su uniforme azul para la jornada retro,2026-04-11 23:09
-comienza,3,6,2.68,53,"levante_emv, google_news_es",2,Un vehículo policial acaba empotrado contra un garaje y comienza a arder tras una persecución en Alaquàs,2026-04-11 23:09
-estación,3,6,2.68,53,"sur, heraldo_aragon, france24_es, google_news_internacional",4,Valle de Abdalajís tendrá conexión directa con la estación de Cercanías de Álora desde mayo,2026-04-11 23:09
-poder,4,8,2.68,53,"elmundo_espana, elmundo_internacional, elmundo, huffington_es",4,La cuadrilla que llegó corrompida al poder con la regeneración por bandera,2026-04-11 23:09
-crisis,5,11,2.43,48,"elcorreo, google_news_es, google_news_internacional",3,La industria del motor se refugia en el bum de la defensa para escapar de su crisis,2026-04-11 23:09
-visita,4,9,2.38,47,"20minutos, elmundo, elcorreo",3,"Cibeles se prepara para acoger un ""acto histórico"" con León XIV en su visita a España",2026-04-11 23:09
-resultados,11,25,2.36,47,"sur, levante_emv, elcorreo, google_news_es, google_news_internacional",5,"Comprobar Lotería del sábado, 11 de abril: resultados de la Bonoloto, La Primitiva, de la Lotería Nacional y del Sueldazo del fin de semana de la ONCE",2026-04-11 23:09
-negocios,4,9,2.38,47,"google_news_internacional, google_news_es, infolibre, elespanol",4,Israel convoca a la encargada de negocios española en Tel Aviv por la quema de una efigie de Netanyahu - Europa Press,2026-04-11 23:09
-barcelona,17,39,2.33,46,"elpais, google_news_internacional, google_news_es, okdiario, heraldo_aragon",5,El Barcelona prolonga su hegemonía tras conquistar su 16ª Liga Asobal consecutiva,2026-04-11 23:09
-líder,3,7,2.29,45,"levante_emv, elpais",2,"Álvaro Sánchez Cotrina, nuevo líder del PSOE en Extremadura",2026-04-11 23:09
-derbi,9,21,2.29,45,"google_news_internacional, lavanguardia, levante_emv, elpais, google_news_es",5,Baile y aviso a Europa: El FC Barcelona barrió en el derbi y se motiva para buscar la hazaña internacional (VIDEO) - OneFootball,2026-04-11 23:09
-principales,3,7,2.29,45,"heraldo_aragon, elcorreo, elpais",3,Irán y Estados Unidos negocian la paz en un histórico cara a cara con el Líbano y Ormuz como principales escollos,2026-04-11 23:09
-expertos,3,7,2.29,45,"huffington_es, okdiario",2,Los expertos en defensa antidron alertan: Europa está comprando tecnología ucraniana sin saber cómo integrarla y eso crea una laguna enorme en sus defensas aéreas,2026-04-11 23:09
-retro,5,12,2.23,44,"heraldo_aragon, 20minutos, sur",3,Un Real Zaragoza retro total,2026-04-11 23:09
-sánchez,17,41,2.22,44,"elmundo_espana, google_news_politica, levante_emv, 20minutos, google_news_es",5,"China compra el ""no a la guerra"" de Sánchez: ""Refleja la resistencia de España a ser arrastrada por los carros de combate de EEUU""",2026-04-11 23:09
-adamuz,5,12,2.23,44,"elcorreo, elconfidencial, elpais, google_news_es",4,"Raquel, la única pasajera que sigue ingresada por el accidente de Adamuz, da a luz a un niño",2026-04-11 23:09
-mundo,10,24,2.23,44,"elcorreo, google_news_internacional, huffington_es, heraldo_aragon",4,El oro del mundo,2026-04-11 23:09
-resultado,7,17,2.2,44,"sur, levante_emv, elcorreo, google_news_es, google_news_internacional",5,"Comprobar Lotería del sábado, 11 de abril: resultados de la Bonoloto, La Primitiva, de la Lotería Nacional y del Sueldazo del fin de semana de la ONCE",2026-04-11 23:09
-putin,4,10,2.14,42,"france24_es, 20minutos, google_news_internacional",3,Hungría: ¿la elección que asusta a Vladimir Putin?,2026-04-11 23:09
-encargada,4,10,2.14,42,"google_news_internacional, google_news_es, infolibre, elespanol",4,Israel convoca a la encargada de negocios española en Tel Aviv por la quema de una efigie de Netanyahu - Europa Press,2026-04-11 23:09
-sociales,3,8,2.01,40,"elmundo_espana, google_news_internacional, huffington_es",3,"Así lanza Vox a sus cargos en las redes sociales contra las ""traiciones"" de los críticos: ""Esto nos concierne a todos""",2026-04-11 23:09
-campaña,3,8,2.01,40,"sur, heraldo_aragon, 20minutos, levante_emv",4,Las listas y los juicios animan la precampaña,2026-04-11 23:09
-heridos,3,8,2.01,40,"france24_es, google_news_internacional",2,Nueva York: ataque con machete en la estación Grand Central deja tres heridos; policía mata al agresor,2026-04-11 23:09
+general,5,0,5.0,100,"20minutos, google_news_es, france24_es, elconfidencial, eldiario",5,Álvaro Sánchez Cotrina gana las primarias y se convierte en el nuevo secretario general del PSOE de Extremadura,2026-04-11 23:39
+extremadura,10,6,9.28,100,"20minutos, levante_emv, google_news_es, elconfidencial, elespanol",5,Álvaro Sánchez Cotrina gana las primarias y se convierte en el nuevo secretario general del PSOE de Extremadura,2026-04-11 23:39
+lasexta,3,3,5.57,100,google_news_es,1,Horario y dónde ver en TV la final del Masters 1.000 de Montecarlo entre Carlos Alcaraz y Jannik Sinner - LaSexta,2026-04-11 23:39
+jannik,3,0,5.0,100,"elespanol, google_news_es, 20minutos",3,"Carlos Alcaraz - Jannik Sinner, una final de alto voltaje: el número uno en juego, la corona de Montecarlo y el cetro ATP",2026-04-11 23:39
+victoria,7,6,6.49,100,"sur, google_news_es, elespanol, okdiario",4,El uno a uno del Málaga en la victoria ante Las Palmas,2026-04-11 23:39
+rechaza,3,1,16.7,100,"france24_es, eldiario, google_news_internacional",3,Informe desde Beirut: protesta pro Hezbolá rechaza diálogos con Israel sin cese el fuego,2026-04-11 23:39
+decisión,3,1,16.7,100,"elcorreo, 20minutos",2,Areso fuera de la convocatoria por decisión técnica,2026-04-11 23:39
+junio,3,1,16.7,100,"elmundo, google_news_internacional, huffington_es",3,Cibeles calienta motores al son de la música para la visita del Papa: de la Fiesta de la Resurrección a la vigilia de León XIV en junio,2026-04-11 23:39
+clasificación,3,2,8.35,100,"heraldo_aragon, sur, okdiario",3,Así queda el Real Zaragoza en la clasificación: un gol de córner deja tiritando,2026-04-11 23:39
+vasco,3,3,5.57,100,"elcorreo, elmundo",2,El Gobierno vasco analizará por primera vez el consumo de drogas en las aguas residuales,2026-04-11 23:39
+champions,3,1,16.7,100,"elpais, elmundo, okdiario",3,El Sevilla respira a costa de un Atlético con la mente puesta en la Champions y la final de Copa,2026-04-11 23:39
+secretario,6,0,5.0,100,"20minutos, google_news_es, sur, elconfidencial, eldiario",5,Álvaro Sánchez Cotrina gana las primarias y se convierte en el nuevo secretario general del PSOE de Extremadura,2026-04-11 23:39
+primarias,8,0,5.0,100,"20minutos, google_news_es, okdiario, elespanol, huffington_es",5,Álvaro Sánchez Cotrina gana las primarias y se convierte en el nuevo secretario general del PSOE de Extremadura,2026-04-11 23:39
+cotrina,10,0,5.0,100,"20minutos, levante_emv, google_news_es, elconfidencial, elespanol",5,Álvaro Sánchez Cotrina gana las primarias y se convierte en el nuevo secretario general del PSOE de Extremadura,2026-04-11 23:39
+álvaro,9,8,6.26,100,"20minutos, levante_emv, google_news_es, elconfidencial, elespanol",5,Álvaro Sánchez Cotrina gana las primarias y se convierte en el nuevo secretario general del PSOE de Extremadura,2026-04-11 23:39
+cibeles,6,1,33.4,100,"20minutos, elmundo, elcorreo, huffington_es, elconfidencial",5,"Cibeles se prepara para acoger un ""acto histórico"" con León XIV en su visita a España",2026-04-11 23:39
+comunidad,4,4,5.57,100,"sur, google_news_internacional, huffington_es, okdiario",4,Una comunidad de vecinos logra en el Supremo que un bar con autorización para tener terraza la quite por estar en zona común,2026-04-11 23:39
+sueldazo,3,1,16.7,100,"sur, elcorreo",2,"Comprobar Lotería del sábado, 11 de abril: resultados de la Bonoloto, La Primitiva, de la Lotería Nacional y del Sueldazo del fin de semana de la ONCE",2026-04-11 23:39
+funes,3,0,5.0,100,sur,1,"Funes: «A nivel anímico, esta victoria es un empujón muy grande»",2026-04-11 23:39
+moral,3,1,16.7,100,"levante_emv, google_news_es, elcorreo",3,¿Quién enseña modales a una inteligencia sin brújula moral? Las profesiones de Letras reivindican su papel por dotar de humanidad a la IA,2026-04-11 23:39
+avanzan,3,0,5.0,100,"okdiario, elpais, google_news_es",3,EEUU e Irán avanzan a la fase técnica y mantienen las conversaciones este domingo en Islamabad,2026-04-11 23:39
+policial,4,1,22.27,100,levante_emv,1,Un vehículo policial acaba empotrado contra un garaje y comienza a arder tras una persecución en Alaquàs,2026-04-11 23:39
+grand,3,0,5.0,100,"levante_emv, sur, france24_es, heraldo_aragon, google_news_internacional",5,"Trump advierte a China que tendrá ""grandes problemas"" si envía armas a Irán",2026-04-11 23:39
+fallecido,3,3,5.57,100,"sur, google_news_es, 20minutos",3,"Los aficionados del Málaga recuerdan a Javi Gallardo, fallecido en un accidente en Pedregalejo",2026-04-11 23:39
+antisemitismo,3,1,16.7,100,"eldiario, google_news_internacional",2,"El Gobierno rechaza la ""acusación insidiosa"" de antisemitismo por parte de Israel",2026-04-11 23:39
+lozano,3,0,5.0,100,"okdiario, google_news_es, elpais",3,Pol Lozano retrata a los jugadores del Barça: «Ya se ve su respeto por compañeros de profesión…»,2026-04-11 23:39
+exige,4,4,5.57,100,"google_news_internacional, huffington_es, heraldo_aragon",3,"Australia confirma que sola no puede prohibir a adolescentes el acceso a redes sociales: ""Si es la comunidad internacional la que exige cambios veremos resultados"" - El HuffPost",2026-04-11 23:39
+aviso,4,4,5.57,100,"20minutos, okdiario, google_news_internacional",3,"Fuerte desplome de las temperaturas en España en las próximas horas: avisos en varias zonas por lluvia, viento o nieve",2026-04-11 23:39
+gaza»,3,0,5.0,100,"sur, google_news_es",2,La alcaldesa de El Burgo defiende la quema del muñeco: «Nos preocupa más el asesinato de niños en Gaza»,2026-04-11 23:39
+asesinato,3,2,8.35,100,"sur, google_news_es",2,La alcaldesa de El Burgo defiende la quema del muñeco: «Nos preocupa más el asesinato de niños en Gaza»,2026-04-11 23:39
+preocupa,3,0,5.0,100,"france24_es, sur, google_news_es, okdiario",4,Elecciones Perú: la preocupación de los votantes por la situación económica del país,2026-04-11 23:39
+burgo,3,3,5.57,100,"sur, google_news_es",2,Polideportivo malagueño: El Trops Málaga puede certificar su descenso si no gana en Burgos,2026-04-11 23:39
+alcaldesa,3,1,16.7,100,"sur, google_news_es",2,La alcaldesa de El Burgo defiende la quema del muñeco: «Nos preocupa más el asesinato de niños en Gaza»,2026-04-11 23:39
+alaquàs,5,1,27.83,100,levante_emv,1,Un vehículo policial acaba empotrado contra un garaje y comienza a arder tras una persecución en Alaquàs,2026-04-11 23:39
+persecución,5,0,5.0,100,levante_emv,1,Un vehículo policial acaba empotrado contra un garaje y comienza a arder tras una persecución en Alaquàs,2026-04-11 23:39
+garaje,3,1,16.7,100,levante_emv,1,Un vehículo policial acaba empotrado contra un garaje y comienza a arder tras una persecución en Alaquàs,2026-04-11 23:39
+empotrado,4,0,5.0,100,levante_emv,1,Un vehículo policial acaba empotrado contra un garaje y comienza a arder tras una persecución en Alaquàs,2026-04-11 23:39
+primitiva,7,2,19.48,100,"sur, 20minutos, elcorreo, levante_emv",4,"Comprobar Lotería del sábado, 11 de abril: resultados de la Bonoloto, La Primitiva, de la Lotería Nacional y del Sueldazo del fin de semana de la ONCE",2026-04-11 23:39
+agresor,3,0,5.0,100,"france24_es, google_news_internacional",2,Nueva York: ataque con machete en la estación Grand Central deja tres heridos; policía mata al agresor,2026-04-11 23:39
+moscú,3,1,16.7,100,"google_news_internacional, elmundo_internacional",2,"Internacional. Ante un mundo complejo y en riesgo, Moscú quiere articular a la izquierda global - Resumen Latinoamericano -",2026-04-11 23:39
+miranda,5,5,5.57,100,elcorreo,1,64 jóvenes de entre 16 y 30 años pasaron por el programa Itera de Cáritas Miranda en el 2025,2026-04-11 23:39
+atlético,10,5,11.13,100,"elpais, elmundo, okdiario, levante_emv, google_news_es",5,El Sevilla respira a costa de un Atlético con la mente puesta en la Champions y la final de Copa,2026-04-11 23:39
+vehículo,3,2,8.35,100,"elcorreo, levante_emv",2,Un vehículo de la Policía Nacional se estampa e incendia una casa en Valencia,2026-04-11 23:39
+juicio,4,4,5.57,100,"sur, elcorreo, elmundo_espana, 20minutos",4,Las listas y los juicios animan la precampaña,2026-04-11 23:39
+córdoba,5,1,27.83,100,heraldo_aragon,1,El uno a uno del Real Zaragoza ante el Córdoba: la garra de Cuenca y poco más,2026-04-11 23:39
+euskadi,3,3,5.57,100,elcorreo,1,«En Euskadi no han desaparecido actitudes que cuestionan el respeto a las personas»,2026-04-11 23:39
+málaga,26,27,5.36,100,"sur, okdiario, google_news_es, google_news_internacional, elcorreo",5,Málaga es la cuarta provincia de España más afectada por las inundaciones,2026-04-11 23:39
+defiende,4,1,22.27,100,"okdiario, sur, google_news_es",3,Simeone defiende su «plan» pese a las tres derrotas seguidas en Liga: «No me voy a mover de eso»,2026-04-11 23:39
+domingo,11,7,8.75,100,"sur, 20minutos, okdiario",3,"Precio de la gasolina y diésel en Málaga hoy, domingo 12 de abril: ¿Dónde están las gasolineras más baratas?",2026-04-11 23:39
+plaza,4,4,5.57,100,"sur, google_news_es, levante_emv, google_news_internacional, heraldo_aragon",5,Coín empieza a transformar el Hoyo Carazony en un gran parking público con más de 300 plazas,2026-04-11 23:39
+central,4,2,11.13,100,"elcorreo, france24_es, google_news_internacional",3,El Gobierno central concedió 124 semilibertades a presos de ETA entre 2003 y 2021,2026-04-11 23:39
+respeto,3,0,5.0,100,"elcorreo, okdiario",2,«En Euskadi no han desaparecido actitudes que cuestionan el respeto a las personas»,2026-04-11 23:39
+fiesta,4,3,7.42,100,"google_news_internacional, elmundo, 20minutos, heraldo_aragon",4,"La pareja internacional que hace del entrenamiento una fiesta: ""La gente no busca solo hacer ejercicio, vuelve por cómo se siente"" - El Mundo",2026-04-11 23:39
+bonoloto,8,9,4.95,98,"sur, 20minutos, levante_emv, elcorreo, google_news_es",5,"Comprobar Lotería del sábado, 11 de abril: resultados de la Bonoloto, La Primitiva, de la Lotería Nacional y del Sueldazo del fin de semana de la ONCE",2026-04-11 23:39
+jóvenes,5,6,4.64,92,"elcorreo, elmundo_internacional, okdiario, huffington_es, heraldo_aragon",5,64 jóvenes de entre 16 y 30 años pasaron por el programa Itera de Cáritas Miranda en el 2025,2026-04-11 23:39
+muñeco,9,11,4.55,91,"heraldo_aragon, sur, google_news_es, google_news_internacional, elcorreo",5,"El pueblo que quemó un muñeco de Netanyahu replica a Israel: ""Ni somos antisemitas, ni muchísimo menos""",2026-04-11 23:39
+ataque,4,5,4.45,89,"france24_es, google_news_internacional",2,Luto y reclamos en Líbano tras funeral de los 13 funcionarios muertos en ataque israelí,2026-04-11 23:39
+huesca,4,5,4.45,89,heraldo_aragon,1,Una manifestación unitaria contra la guerra recorre el centro de Huesca,2026-04-11 23:39
+niños,3,4,4.17,83,"sur, google_news_es",2,La alcaldesa de El Burgo defiende la quema del muñeco: «Nos preocupa más el asesinato de niños en Gaza»,2026-04-11 23:39
+salud,3,4,4.17,83,"sur, 20minutos, google_news_es",3,"Horóscopo de hoy, domingo 12 de abril: Predicciones de salud, amor y dinero",2026-04-11 23:39
+estrena,3,4,4.17,83,"heraldo_aragon, sur",2,El Real Zaragoza estrena en Córdoba su uniforme azul para la jornada retro,2026-04-11 23:39
+acaba,3,4,4.17,83,"levante_emv, okdiario, google_news_internacional",3,Un vehículo policial acaba empotrado contra un garaje y comienza a arder tras una persecución en Alaquàs,2026-04-11 23:39
+nueve,3,4,4.17,83,"elpais, google_news_es, heraldo_aragon",3,Barcelona - Espanyol en directo | El Barça gana el derbi y aventaja al Madrid por nueve puntos,2026-04-11 23:39
+sevilla,12,17,3.93,78,"levante_emv, elpais, elmundo, okdiario, google_news_es",5,El coraje y el balón parado rescatan al Sevilla en el estreno de García Plaza en el Sánchez-Pizjuán,2026-04-11 23:39
+puede,12,18,3.71,74,"google_news_es, france24_es, 20minutos, sur, levante_emv",5,"'Verde y rojo', de Andrés Suárez y Miguel A. Almanza: ya puedes ver el primer cortometraje de la Sección Oficial - RTVE.es",2026-04-11 23:39
+murcia,4,6,3.71,74,"google_news_es, google_news_internacional",2,"San Javier se lleva el primer premio de la Lotería, dotado con un millón y medio de euros - Murcia Plaza",2026-04-11 23:39
+confirma,6,9,3.71,74,"elcorreo, google_news_internacional, huffington_es, heraldo_aragon, elconfidencial",5,Toca confirmar la buena dinámica,2026-04-11 23:39
+advierte,4,6,3.71,74,"levante_emv, heraldo_aragon, 20minutos, google_news_internacional",4,"Trump advierte a China que tendrá ""grandes problemas"" si envía armas a Irán",2026-04-11 23:39
+lamine,4,6,3.71,74,"elpais, okdiario, levante_emv, elespanol",4,Ferran golea con el prodigioso Lamine al Espanyol,2026-04-11 23:39
+principales,4,6,3.71,74,"elcorreo, heraldo_aragon, elpais",3,"«He roto el sistema», dice el empresario asturiano que gana los principales contratos",2026-04-11 23:39
+puntos,5,8,3.48,69,"sur, elpais, google_news_es, heraldo_aragon",4,Joaquín: «Hemos hecho un gran trabajo para que los tres puntos se queden en casa»,2026-04-11 23:39
+policía,5,8,3.48,69,"elcorreo, levante_emv, google_news_es, france24_es",4,Un vehículo de la Policía Nacional se estampa e incendia una casa en Valencia,2026-04-11 23:39
+industria,3,5,3.34,66,"elcorreo, sur",2,"Industria y mujeres: no es un «fracaso», es una carrera de fondo",2026-04-11 23:39
+defensa,3,5,3.34,66,"elcorreo, huffington_es, google_news_internacional, okdiario",4,La industria del motor se refugia en el bum de la defensa para escapar de su crisis,2026-04-11 23:39
+negocian,3,5,3.34,66,"elmundo_internacional, heraldo_aragon",2,"Qalibaf y Araghchi, los dos rostros del poder iraní que negocian en Islamabad",2026-04-11 23:39
+barça,10,17,3.27,65,"levante_emv, lavanguardia, okdiario, elpais, google_news_es",5,El Barça conquista la Liga Asobal por 33ª vez y con seis jornadas de adelanto,2026-04-11 23:39
+sinner,7,12,3.25,64,"google_news_es, elespanol, 20minutos, okdiario",4,El surreal empate que Alcaraz y Sinner intentarán romper en la final de Montecarlo - ATP Tour,2026-04-11 23:39
+pedro,4,7,3.18,63,"sur, elmundo_espana, eldiario, heraldo_aragon",4,El Ayuntamiento avanza en la regeneración urbana de San Pedro Alcántara,2026-04-11 23:39
+espanyol,17,30,3.15,63,"google_news_es, elpais, lavanguardia, levante_emv, elmundo",5,Así te hemos contado la victoria del Barcelona ante el Espanyol en la Liga - EL PAÍS,2026-04-11 23:39
+quema,9,17,2.95,58,"sur, google_news_es, google_news_internacional, elcorreo",4,La alcaldesa de El Burgo defiende la quema del muñeco: «Nos preocupa más el asesinato de niños en Gaza»,2026-04-11 23:39
+poder,4,8,2.78,55,"elmundo_espana, elmundo_internacional, elmundo, huffington_es",4,La cuadrilla que llegó corrompida al poder con la regeneración por bandera,2026-04-11 23:39
+comienza,3,6,2.78,55,"levante_emv, google_news_es",2,Un vehículo policial acaba empotrado contra un garaje y comienza a arder tras una persecución en Alaquàs,2026-04-11 23:39
+digital,3,6,2.78,55,"google_news_es, google_news_internacional, google_news_politica",3,Las noticias más destacadas de los Recursos Humanos durante la semana - RRHH Digital,2026-04-11 23:39
+millón,3,6,2.78,55,"google_news_es, 20minutos, elcorreo",3,"San Javier se lleva el primer premio de la Lotería, dotado con un millón y medio de euros - Murcia Plaza",2026-04-11 23:39
+líder,3,6,2.78,55,"levante_emv, google_news_es, elpais",3,"Álvaro Sánchez Cotrina, nuevo líder del PSOE en Extremadura",2026-04-11 23:39
+grave,3,6,2.78,55,"levante_emv, google_news_es, 20minutos, elpais, lavanguardia",5,El conductor del autobús accidentado en La Gomera es el herido más grave hospitalizado en Tenerife,2026-04-11 23:39
+estación,3,6,2.78,55,"sur, heraldo_aragon, france24_es, google_news_internacional",4,Valle de Abdalajís tendrá conexión directa con la estación de Cercanías de Álora desde mayo,2026-04-11 23:39
+mejores,3,6,2.78,55,"levante_emv, huffington_es",2,Las mejores imágenes del Sevilla - Atlético,2026-04-11 23:39
+resultados,11,24,2.55,51,"sur, levante_emv, elcorreo, google_news_es, google_news_internacional",5,"Comprobar Lotería del sábado, 11 de abril: resultados de la Bonoloto, La Primitiva, de la Lotería Nacional y del Sueldazo del fin de semana de la ONCE",2026-04-11 23:39
+crisis,5,11,2.53,50,"elcorreo, google_news_es, google_news_internacional",3,La industria del motor se refugia en el bum de la defensa para escapar de su crisis,2026-04-11 23:39
+derbi,9,20,2.5,50,"google_news_internacional, lavanguardia, levante_emv, elpais, google_news_es",5,Baile y aviso a Europa: El FC Barcelona barrió en el derbi y se motiva para buscar la hazaña internacional (VIDEO) - OneFootball,2026-04-11 23:39
+sociales,3,7,2.39,47,"elmundo_espana, google_news_internacional, huffington_es",3,"Así lanza Vox a sus cargos en las redes sociales contra las ""traiciones"" de los críticos: ""Esto nos concierne a todos""",2026-04-11 23:39
+lleva,3,7,2.39,47,"google_news_es, huffington_es, elcorreo",3,"San Javier se lleva el primer premio de la Lotería, dotado con un millón y medio de euros - Murcia Plaza",2026-04-11 23:39
+retro,5,12,2.32,46,"heraldo_aragon, 20minutos, sur",3,Un Real Zaragoza retro total,2026-04-11 23:39
+mujer,5,12,2.32,46,"elcorreo, levante_emv, elconfidencial, elpais, 20minutos",5,"Industria y mujeres: no es un «fracaso», es una carrera de fondo",2026-04-11 23:39
+resultado,7,17,2.29,45,"sur, levante_emv, elcorreo, google_news_es, google_news_internacional",5,"Comprobar Lotería del sábado, 11 de abril: resultados de la Bonoloto, La Primitiva, de la Lotería Nacional y del Sueldazo del fin de semana de la ONCE",2026-04-11 23:39
+barcelona,16,39,2.28,45,"elpais, google_news_internacional, google_news_es, okdiario, heraldo_aragon",5,El Barcelona prolonga su hegemonía tras conquistar su 16ª Liga Asobal consecutiva,2026-04-11 23:39
+ayuntamiento,4,10,2.23,44,"sur, huffington_es, google_news_es",3,El Ayuntamiento avanza en la regeneración urbana de San Pedro Alcántara,2026-04-11 23:39
+sánchez,16,40,2.23,44,"elmundo_espana, google_news_politica, levante_emv, 20minutos, google_news_es",5,"China compra el ""no a la guerra"" de Sánchez: ""Refleja la resistencia de España a ser arrastrada por los carros de combate de EEUU""",2026-04-11 23:39
+mundo,9,23,2.18,43,"elcorreo, google_news_internacional, huffington_es, heraldo_aragon",4,El oro del mundo,2026-04-11 23:39
+campaña,3,8,2.09,41,"sur, heraldo_aragon, 20minutos, levante_emv",4,Las listas y los juicios animan la precampaña,2026-04-11 23:39
+augusta,3,8,2.09,41,"elpais, elcorreo",2,El monólogo de Rory McIlroy da paso a una batalla apasionante en el Masters de Augusta,2026-04-11 23:39
+heridos,3,8,2.09,41,"france24_es, google_news_internacional",2,Nueva York: ataque con machete en la estación Grand Central deja tres heridos; policía mata al agresor,2026-04-11 23:39
