@@ -1,88 +1,77 @@
 keyword,count_now,count_base,ratio,viral_score,sources,n_sources,sample_title,detected_at
-palma,6,3,20.13,100,"okdiario, google_news_internacional",2,Palma reclama una indemnización de 160.000 euros al concesionario de los cerrados quioscos de prensa,2026-04-11 02:40
-regresa,5,6,8.39,100,"europapress, france24_es, huffington_es, levante_emv",4,La misión Artemis II de la NASA regresa a la Tierra tras el primer viaje lunar en más de 50 años,2026-04-11 02:40
-grupo,3,5,6.04,100,"expansion, bbc_mundo",2,Cómo Carlos Bosch pasó de reponedor en hipermercados a transformar la hostelería con Grupo GastroPortal,2026-04-11 02:40
-tripulación,5,9,5.59,100,"bbc_mundo, google_news_es, huffington_es",3,"""Montados en una bola de fuego"": cómo regresó a la Tierra la tripulación de la histórica misión Artemis II a la Luna",2026-04-11 02:40
-crítico,4,0,5.0,100,"elespanol, 20minutos, elpais, elcorreo, levante_emv",5,Milei abraza la táctica trumpista de azotar a la prensa: castiga al periodismo crítico con vetos en la Casa Rosada y el Congreso,2026-04-11 02:40
-gatillazo,3,0,5.0,100,"elpais, google_news_es",2,"Álvaro Arbeloa, contra los árbitros tras otro gatillazo liguero: “Es otra más, nadie entiende cuándo entra el VAR”",2026-04-11 02:40
-nadie,5,10,5.03,100,"elmundo_internacional, google_news_es, elpais, elmundo_espana",4,"""Todos cruzamos los dedos"": la UE suspira por la derrota electoral de Orban, pero nadie espera ""un cambio total"" en Hungría",2026-04-11 02:40
-prensa,3,2,15.1,100,"okdiario, elespanol, google_news_economia",3,Palma reclama una indemnización de 160.000 euros al concesionario de los cerrados quioscos de prensa,2026-04-11 02:40
-orion,6,6,10.06,100,"20minutos, heraldo_aragon, elpais, elespanol",4,"El espectacular momento de la reentrada de Orion a la Tierra, como una bola de fuego: 13 minutos críticos y a 40.000 kilómetros por hora",2026-04-11 02:40
-pacífico,3,1,30.19,100,"heraldo_aragon, bbc_mundo, elespanol",3,La nave tripulada Orion ameriza con éxito en el Pacífico tras una histórica misión a la Luna,2026-04-11 02:40
-peligrosa,4,5,8.05,100,"bbc_mundo, google_news_es, elmundo",3,La tripulación de Artemis II completa la peligrosa maniobra de reingreso a la Tierra y ameriza en el Pacífico,2026-04-11 02:40
-maniobra,4,4,10.06,100,"bbc_mundo, elpais, google_news_es, levante_emv",4,La tripulación de Artemis II completa la peligrosa maniobra de reingreso a la Tierra y ameriza en el Pacífico,2026-04-11 02:40
-reingreso,3,0,5.0,100,"bbc_mundo, google_news_es",2,La tripulación de Artemis II completa la peligrosa maniobra de reingreso a la Tierra y ameriza en el Pacífico,2026-04-11 02:40
-orban,4,6,6.71,100,"elmundo_internacional, google_news_es",2,"""Todos cruzamos los dedos"": la UE suspira por la derrota electoral de Orban, pero nadie espera ""un cambio total"" en Hungría",2026-04-11 02:40
-derrota,3,1,30.19,100,"elmundo_internacional, google_news_es, elcorreo",3,"""Todos cruzamos los dedos"": la UE suspira por la derrota electoral de Orban, pero nadie espera ""un cambio total"" en Hungría",2026-04-11 02:40
-cocina,3,4,7.55,100,sur,1,Príncipe de Asturias: Alta cocina de raíz malagueña,2026-04-11 02:40
-desastre,3,0,5.0,100,"elpais, elcorreo",2,"Última hora del regreso de Artemis 2, en directo | La nave Orion se desengancha del módulo de servicio y realiza la última maniobra clave para evitar el desastre en la reentrada",2026-04-11 02:40
-dedos,3,0,5.0,100,"elmundo_internacional, google_news_es, levante_emv",3,"""Todos cruzamos los dedos"": la UE suspira por la derrota electoral de Orban, pero nadie espera ""un cambio total"" en Hungría",2026-04-11 02:40
-martes,5,2,25.16,100,"okdiario, google_news_internacional, elpais, europapress, levante_emv",5,Israel y Líbano iniciarán conversaciones de paz en Washington el martes,2026-04-11 02:40
-washington,6,9,6.71,100,"okdiario, lavanguardia, google_news_internacional, elpais, europapress",5,Israel y Líbano iniciarán conversaciones de paz en Washington el martes,2026-04-11 02:40
-arbeloa,5,2,25.16,100,"google_news_es, elmundo, elpais",3,"Álvaro Arbeloa explota contra el arbitraje tras la acción sobre Kylian Mbappé: ""Para mí es penalti aquí y en la Luna"" - DAZN",2026-04-11 02:40
-sergio,3,2,15.1,100,"google_news_internacional, elcorreo, elpais",3,El activista asturiano Sergio Oceransky pide protección internacional tras sufrir una detención en México - Nortes,2026-04-11 02:40
-construir,3,2,15.1,100,"sur, google_news_es, elmundo_internacional",3,Los propietarios del Movistar Arena de Madrid siguen interesados en construir un gran recinto de conciertos en Málaga,2026-04-11 02:40
-árbitros,4,7,5.75,100,"elmundo, elpais, google_news_es, france24_es",4,"Arbeloa estalla contra los árbitros por el penalti no pitado sobre Mbappé: ""Cuando viene bien entra el VAR, y cuando no, no entra""",2026-04-11 02:40
-corte,3,3,10.06,100,elcorreo,1,Sergio García siembra la duda sobre una posible retirada y Olazabal falla el corte en el Masters,2026-04-11 02:40
-conflicto,4,4,10.06,100,"sur, elcorreo, expansion, elmundo_espana",4,"El conflicto por la falta de luz en la promoción Alma, en Estepona, llega a las calles de Málaga",2026-04-11 02:40
-permitirá,3,3,10.06,100,"levante_emv, google_news_internacional",2,"Trump asegura que no permitirá que Irán cobre peajes en el estrecho de Ormuz: ""Es agua internacional""",2026-04-11 02:40
-cobre,3,0,5.0,100,"levante_emv, google_news_internacional",2,"Trump asegura que no permitirá que Irán cobre peajes en el estrecho de Ormuz: ""Es agua internacional""",2026-04-11 02:40
-peajes,3,2,15.1,100,"levante_emv, google_news_internacional",2,"Trump asegura que no permitirá que Irán cobre peajes en el estrecho de Ormuz: ""Es agua internacional""",2026-04-11 02:40
-retro,3,4,7.55,100,google_news_es,1,Descubre todas las camisetas de la jornada retro - Diario AS,2026-04-11 02:40
-defensa,3,5,6.04,100,"elcorreo, levante_emv",2,Prueba de estrés para la defensa de un Alavés en buena línea,2026-04-11 02:40
-viaje,4,5,8.05,100,"europapress, google_news_internacional, elcorreo, sur, levante_emv",5,La misión Artemis II de la NASA regresa a la Tierra tras el primer viaje lunar en más de 50 años,2026-04-11 02:40
-ameriza,3,1,30.19,100,"france24_es, elmundo, heraldo_aragon, 20minutos, bbc_mundo",5,Artemis II: amerizaje exitoso tras histórica misión a la Luna,2026-04-11 02:40
-rivera,3,5,6.04,100,"okdiario, 20minutos",2,"Kiko Rivera explota contra Ángela Portero en ‘¡De viernes!’: “Eres la que trincaba, ¿eh?»",2026-04-11 02:40
-times,3,2,15.1,100,"google_news_es, elcorreo",2,"Ni gol de Valverde ni aparición de Bellingham como titular ayudan al Madrid, que iguala con Girona - Los Angeles Times",2026-04-11 02:40
-artemis,34,63,5.43,100,"elcorreo, huffington_es, france24_es, elmundo, okdiario",5,Los astronautas de la Artemis 2 ya están en la Tierra: culmina con éxito la primera misión tripulada a la Luna en 53 años,2026-04-11 02:40
-tierra,25,46,5.47,100,"elcorreo, okdiario, europapress, france24_es, bbc_mundo",5,Los astronautas de la Artemis 2 ya están en la Tierra: culmina con éxito la primera misión tripulada a la Luna en 53 años,2026-04-11 02:40
-culmina,3,1,30.19,100,"elcorreo, 20minutos",2,Los astronautas de la Artemis 2 ya están en la Tierra: culmina con éxito la primera misión tripulada a la Luna en 53 años,2026-04-11 02:40
-éxito,6,11,5.49,100,"elcorreo, okdiario, heraldo_aragon, elpais, elespanol",5,Los astronautas de la Artemis 2 ya están en la Tierra: culmina con éxito la primera misión tripulada a la Luna en 53 años,2026-04-11 02:40
-misión,16,28,5.75,100,"elcorreo, france24_es, okdiario, europapress, bbc_mundo",5,Los astronautas de la Artemis 2 ya están en la Tierra: culmina con éxito la primera misión tripulada a la Luna en 53 años,2026-04-11 02:40
-tripulada,4,1,40.26,100,"elcorreo, heraldo_aragon, france24_es",3,Los astronautas de la Artemis 2 ya están en la Tierra: culmina con éxito la primera misión tripulada a la Luna en 53 años,2026-04-11 02:40
-magyar,4,5,8.05,100,"france24_es, elespanol, google_news_es, elmundo_internacional",4,Elecciones en Hungría: ¿Orbán en riesgo y Magyar en ascenso?,2026-04-11 02:40
-mucho,6,9,6.71,100,"huffington_es, okdiario, el_confidencial_tech, sur, elmundo",5,Trump felicita a los astronautas de Artemis II… pero lo que dice después apunta a algo mucho más ambicioso,2026-04-11 02:40
-miranda,5,3,16.77,100,elcorreo,1,El jardín de la Casa de Don Lope de Miranda abre sus puertas,2026-04-11 02:40
-entra,5,3,16.77,100,"okdiario, elespanol, 20minutos, elpais, france24_es",5,"Un supuesto pedófilo entra en una casa de Palma, realiza tocamientos a niños y el padre le abre la cabeza a golpes",2026-04-11 02:40
-rescate,4,3,13.42,100,"elmundo, google_news_internacional",2,"En directo, los astronautas de Artemis 2 amerizan ""en excelente estado"" tras un vertiginoso descenso: comienza el rescate",2026-04-11 02:40
-niños,3,6,5.03,100,"okdiario, sur",2,"Un supuesto pedófilo entra en una casa de Palma, realiza tocamientos a niños y el padre le abre la cabeza a golpes",2026-04-11 02:40
-bernabéu,3,4,7.55,100,"google_news_es, levante_emv",2,"LaLiga estrena toque 'retro' a medias en el Bernabéu: marcadores, balón, equipaciones y más detalles con la ausencia del Real Madrid - Cadena SER",2026-04-11 02:40
-realiza,3,1,30.19,100,"okdiario, elpais, levante_emv",3,"Un supuesto pedófilo entra en una casa de Palma, realiza tocamientos a niños y el padre le abre la cabeza a golpes",2026-04-11 02:40
-amerizan,4,0,5.0,100,"elmundo, elespanol",2,"Los astronautas de Artemis 2 amerizan ""en excelente estado"" tras un vertiginoso descenso: ""Esto es sólo el comienzo"", dice el director de la NASA",2026-04-11 02:40
-vertiginoso,3,0,5.0,100,elmundo,1,"Los astronautas de Artemis 2 amerizan ""en excelente estado"" tras un vertiginoso descenso: ""Esto es sólo el comienzo"", dice el director de la NASA",2026-04-11 02:40
-comienza,3,4,7.55,100,"elmundo, huffington_es",2,"En directo, los astronautas de Artemis 2 amerizan ""en excelente estado"" tras un vertiginoso descenso: comienza el rescate",2026-04-11 02:40
-francia,5,10,5.03,100,"google_news_economia, huffington_es, elcorreo, okdiario, heraldo_aragon",5,"España, a salvo de los problemas de desabastecimiento de diésel y gasolina que acechan a Francia y Alemania - La Razón",2026-04-11 02:40
-mortal,3,3,10.06,100,"france24_es, elcorreo",2,"La ofensiva mortal en Líbano, el nuevo quiebre entre España e Israel",2026-04-11 02:40
-descenso,4,3,13.42,100,elmundo,1,"Los astronautas de Artemis 2 amerizan ""en excelente estado"" tras un vertiginoso descenso: ""Esto es sólo el comienzo"", dice el director de la NASA",2026-04-11 02:40
-estado,5,9,5.59,100,"elmundo, elcorreo, lavanguardia, google_news_internacional, levante_emv",5,"Los astronautas de Artemis 2 amerizan ""en excelente estado"" tras un vertiginoso descenso: ""Esto es sólo el comienzo"", dice el director de la NASA",2026-04-11 02:40
-excelente,3,0,5.0,100,elmundo,1,"Los astronautas de Artemis 2 amerizan ""en excelente estado"" tras un vertiginoso descenso: ""Esto es sólo el comienzo"", dice el director de la NASA",2026-04-11 02:40
-afecta,3,6,5.03,100,"expansion, sur",2,¿Cómo afecta el euríbor al consumo de las familias?,2026-04-11 02:40
-astronautas,14,29,4.86,97,"elcorreo, huffington_es, elmundo, okdiario, elpais",5,Los astronautas de la Artemis 2 ya están en la Tierra: culmina con éxito la primera misión tripulada a la Luna en 53 años,2026-04-11 02:40
-después,7,17,4.14,82,"huffington_es, okdiario, elpais, 20minutos, lavanguardia",5,Trump felicita a los astronautas de Artemis II… pero lo que dice después apunta a algo mucho más ambicioso,2026-04-11 02:40
-histórica,7,17,4.14,82,"france24_es, bbc_mundo, heraldo_aragon, elpais, elespanol",5,Artemis II: amerizaje exitoso tras histórica misión a la Luna,2026-04-11 02:40
-regreso,8,21,3.83,76,"huffington_es, elpais, elmundo, elespanol, 20minutos",5,La humanidad vuelve de la Luna 50 años después: así ha sido el regreso histórico de Artemis II,2026-04-11 02:40
-reentrada,6,16,3.77,75,"20minutos, elpais, elespanol, levante_emv, elmundo",5,"El espectacular momento de la reentrada de Orion a la Tierra, como una bola de fuego: 13 minutos críticos y a 40.000 kilómetros por hora",2026-04-11 02:40
-electoral,3,8,3.77,75,"elespanol, elmundo_internacional, google_news_es",3,Magyar encabeza los sondeos en Hungría pero necesitará más del 50% para contrarrestar el sistema electoral de Orbán,2026-04-11 02:40
-álvaro,3,8,3.77,75,"google_news_es, elpais",2,"Álvaro Arbeloa explota contra el arbitraje tras la acción sobre Kylian Mbappé: ""Para mí es penalti aquí y en la Luna"" - DAZN",2026-04-11 02:40
-mujeres,3,8,3.77,75,"okdiario, elespanol",2,Escándalo en Palma: el ‘baño de los horrores’ de un bar destapa a un espía sexual que grabó a más de 400 mujeres,2026-04-11 02:40
-conversaciones,4,11,3.66,73,"okdiario, google_news_internacional, elpais, france24_es",4,Israel y Líbano iniciarán conversaciones de paz en Washington el martes,2026-04-11 02:40
-alerta,5,14,3.59,71,"france24_es, sur, elmundo_espana, elmundo",4,Aeropuertos de Europa en alerta por falta de combustible pese al alto el fuego entre Irán y EE. UU.,2026-04-11 02:40
-hungría,8,23,3.5,70,"france24_es, elespanol, sur, elcorreo, elmundo_internacional",5,Elecciones en Hungría: ¿Orbán en riesgo y Magyar en ascenso?,2026-04-11 02:40
-padre,3,9,3.35,67,"okdiario, elespanol, elmundo",3,"Un supuesto pedófilo entra en una casa de Palma, realiza tocamientos a niños y el padre le abre la cabeza a golpes",2026-04-11 02:40
-laliga,4,12,3.35,67,"elcorreo, google_news_es",2,"Toni Martínez-Boyé, la pareja «más pesada» que se cuela entre las mejores de LaLiga",2026-04-11 02:40
-informe,3,9,3.35,67,"france24_es, elespanol",2,Informe desde Miami: Artemis II regresa a la Tierra y ameriza de manera exitosa,2026-04-11 02:40
-sorteo,4,13,3.1,61,sur,1,"Resultado del sorteo de la Bonoloto del viernes, 10 de abril de 2026",2026-04-11 02:40
-histórico,3,10,3.02,60,"huffington_es, levante_emv",2,La humanidad vuelve de la Luna 50 años después: así ha sido el regreso histórico de Artemis II,2026-04-11 02:40
-víctimas,4,14,2.88,57,"okdiario, elcorreo, france24_es",3,Acusan al condenado por espiar a más de 400 mujeres de ocultar su patrimonio para no pagar a las víctimas,2026-04-11 02:40
-incendio,3,11,2.74,54,elcorreo,1,Un voraz incendio en la papelera de Iurreta genera alarma y destruye 50 bobinas almacenadas,2026-04-11 02:40
-inicia,3,12,2.52,50,"elmundo, google_news_es, bbc_mundo, elcorreo, okdiario",5,"En directo, el regreso de Artemis 2: la cápsula Orión se separa de la otra parte de la nave e inicia el descenso hacia la Tierra",2026-04-11 02:40
-hacia,3,12,2.52,50,"elmundo_espana, google_news_economia, elmundo",3,"Los barones del PP sortean el ""pulso"" entre Abascal y Feijóo y aceleran hacia un ""pacto en las tres comunidades""",2026-04-11 02:40
-resultado,4,16,2.52,50,sur,1,"Comprobar Lotería del viernes, 10 de abril: resultados de la Bonoloto, del Euromillones, del Eurojackpot de la ONCE y del Cuponazo de la ONCE",2026-04-11 02:40
-ahora,4,17,2.37,47,"elespanol, sur, expansion, elcorreo",4,El lío de Urtasun: abanderó el plan para 'descentralizar' El Prado y ahora tiene que dar portazo al PNV con el 'Guernica',2026-04-11 02:40
-parque,3,13,2.32,46,"elcorreo, sur",2,"Álava pone a punto sus parques naturales con nuevos parkings, sendas y refugios",2026-04-11 02:40
-puntos,3,13,2.32,46,"sur, google_news_es, elcorreo",3,"Julen Guerrero: «No será fácil la permanencia, pero estuvimos a catorce puntos y ahora estamos a dos»",2026-04-11 02:40
-jornada,3,13,2.32,46,"elcorreo, google_news_es",2,Tee times de la tercera jornada del Masters de Augusta. ¿A qué hora juega Jon Rahm?,2026-04-11 02:40
-girona,8,36,2.24,44,"google_news_es, elpais, lavanguardia, sur, elmundo",5,"Ni gol de Valverde ni aparición de Bellingham como titular ayudan al Madrid, que iguala con Girona - Los Angeles Times",2026-04-11 02:40
-unidos,6,30,2.01,40,"elcorreo, levante_emv, lavanguardia, google_news_internacional, elpais",5,«Estados Unidos no quiere que una bandera china sea la primera en Marte»,2026-04-11 02:40
-vuelve,7,35,2.01,40,"huffington_es, elespanol, elcorreo, elpais, lavanguardia",5,La humanidad vuelve de la Luna 50 años después: así ha sido el regreso histórico de Artemis II,2026-04-11 02:40
-cadena,3,15,2.01,40,"google_news_internacional, google_news_es",2,El dardo de Sánchez a Trump que ha aplaudido Jimmy Kimmel - Cadena SER,2026-04-11 02:40
+tripulación,7,9,8.67,100,"okdiario, google_news_es, bbc_mundo, huffington_es",4,"Trump elogia a la tripulación de Artemis II por su «espectacular» travesía: «El siguiente paso, Marte»",2026-04-11 03:10
+maniobra,5,4,13.93,100,"google_news_es, bbc_mundo, elpais, levante_emv",4,La tripulación de Artemis II completa la peligrosa maniobra de reingreso a la Tierra y ameriza en el Pacífico - BBC,2026-04-11 03:10
+ameriza,4,1,44.58,100,"france24_es, elmundo, google_news_es, heraldo_aragon, 20minutos",5,Artemis II: amerizaje exitoso tras histórica misión a la Luna,2026-04-11 03:10
+pacífico,4,1,44.58,100,"google_news_es, heraldo_aragon, bbc_mundo, elespanol",4,La tripulación de Artemis II completa la peligrosa maniobra de reingreso a la Tierra y ameriza en el Pacífico - BBC,2026-04-11 03:10
+mortal,3,3,11.15,100,"france24_es, elcorreo",2,"La ofensiva mortal en Líbano, el nuevo quiebre entre España e Israel",2026-04-11 03:10
+francia,5,10,5.57,100,"google_news_economia, huffington_es, elcorreo, okdiario, heraldo_aragon",5,"España, a salvo de los problemas de desabastecimiento de diésel y gasolina que acechan a Francia y Alemania - La Razón",2026-04-11 03:10
+rescate,4,3,14.86,100,"elmundo, google_news_internacional",2,"En directo, los astronautas de Artemis 2 amerizan ""en excelente estado"" tras un vertiginoso descenso: comienza el rescate",2026-04-11 03:10
+artemis,34,65,5.83,100,"okdiario, elcorreo, huffington_es, france24_es, elmundo",5,"Trump elogia a la tripulación de Artemis II por su «espectacular» travesía: «El siguiente paso, Marte»",2026-04-11 03:10
+crítico,4,0,5.0,100,"elespanol, 20minutos, elpais, elcorreo, levante_emv",5,Milei abraza la táctica trumpista de azotar a la prensa: castiga al periodismo crítico con vetos en la Casa Rosada y el Congreso,2026-04-11 03:10
+orion,6,6,11.15,100,"20minutos, heraldo_aragon, elpais, elespanol",4,"El espectacular momento de la reentrada de Orion a la Tierra, como una bola de fuego: 13 minutos críticos y a 40.000 kilómetros por hora",2026-04-11 03:10
+cocina,3,4,8.36,100,sur,1,Príncipe de Asturias: Alta cocina de raíz malagueña,2026-04-11 03:10
+penalti,3,1,33.44,100,"google_news_es, elmundo",2,¿Era penalti de Vítor Reis sobre Mbappé? Iturralde González analiza la jugada polémica del Real Madrid-Girona - Cadena SER,2026-04-11 03:10
+mbappé,3,2,16.72,100,"google_news_es, elmundo",2,¿Era penalti de Vítor Reis sobre Mbappé? Iturralde González analiza la jugada polémica del Real Madrid-Girona - Cadena SER,2026-04-11 03:10
+arbeloa,5,2,27.86,100,"google_news_es, elmundo, elpais",3,"Álvaro Arbeloa explota contra el arbitraje tras la acción sobre Kylian Mbappé: ""Para mí es penalti aquí y en la Luna"" - DAZN",2026-04-11 03:10
+conflicto,4,4,11.15,100,"sur, elcorreo, expansion, elmundo_espana",4,"El conflicto por la falta de luz en la promoción Alma, en Estepona, llega a las calles de Málaga",2026-04-11 03:10
+permitirá,3,3,11.15,100,"levante_emv, google_news_internacional",2,"Trump asegura que no permitirá que Irán cobre peajes en el estrecho de Ormuz: ""Es agua internacional""",2026-04-11 03:10
+cobre,3,0,5.0,100,"levante_emv, google_news_internacional",2,"Trump asegura que no permitirá que Irán cobre peajes en el estrecho de Ormuz: ""Es agua internacional""",2026-04-11 03:10
+peajes,3,2,16.72,100,"levante_emv, google_news_internacional",2,"Trump asegura que no permitirá que Irán cobre peajes en el estrecho de Ormuz: ""Es agua internacional""",2026-04-11 03:10
+retro,3,5,6.69,100,google_news_es,1,Descubre todas las camisetas de la jornada retro - Diario AS,2026-04-11 03:10
+defensa,3,5,6.69,100,"elcorreo, levante_emv",2,Prueba de estrés para la defensa de un Alavés en buena línea,2026-04-11 03:10
+afecta,3,6,5.57,100,"expansion, sur",2,¿Cómo afecta el euríbor al consumo de las familias?,2026-04-11 03:10
+grupo,3,5,6.69,100,"expansion, bbc_mundo",2,Cómo Carlos Bosch pasó de reponedor en hipermercados a transformar la hostelería con Grupo GastroPortal,2026-04-11 03:10
+washington,5,9,6.19,100,"okdiario, lavanguardia, google_news_internacional, elpais, europapress",5,Israel y Líbano iniciarán conversaciones de paz en Washington el martes,2026-04-11 03:10
+martes,4,3,14.86,100,"okdiario, google_news_internacional, elpais, europapress",4,Israel y Líbano iniciarán conversaciones de paz en Washington el martes,2026-04-11 03:10
+dedos,3,0,5.0,100,"elmundo_internacional, google_news_es, levante_emv",3,"""Todos cruzamos los dedos"": la UE suspira por la derrota electoral de Orban, pero nadie espera ""un cambio total"" en Hungría",2026-04-11 03:10
+derrota,3,1,33.44,100,"elmundo_internacional, google_news_es, elcorreo",3,"""Todos cruzamos los dedos"": la UE suspira por la derrota electoral de Orban, pero nadie espera ""un cambio total"" en Hungría",2026-04-11 03:10
+gatillazo,3,0,5.0,100,"elpais, google_news_es",2,"Álvaro Arbeloa, contra los árbitros tras otro gatillazo liguero: “Es otra más, nadie entiende cuándo entra el VAR”",2026-04-11 03:10
+reingreso,4,0,5.0,100,"google_news_es, bbc_mundo",2,La tripulación de Artemis II completa la peligrosa maniobra de reingreso a la Tierra y ameriza en el Pacífico - BBC,2026-04-11 03:10
+miranda,5,3,18.58,100,elcorreo,1,El jardín de la Casa de Don Lope de Miranda abre sus puertas,2026-04-11 03:10
+peligrosa,5,5,11.15,100,"google_news_es, bbc_mundo, elmundo",3,La tripulación de Artemis II completa la peligrosa maniobra de reingreso a la Tierra y ameriza en el Pacífico - BBC,2026-04-11 03:10
+astronautas,14,29,5.38,100,"elcorreo, huffington_es, elmundo, okdiario, elpais",5,Los astronautas de la Artemis 2 ya están en la Tierra: culmina con éxito la primera misión tripulada a la Luna en 53 años,2026-04-11 03:10
+tripulada,4,1,44.58,100,"elcorreo, heraldo_aragon, france24_es",3,Los astronautas de la Artemis 2 ya están en la Tierra: culmina con éxito la primera misión tripulada a la Luna en 53 años,2026-04-11 03:10
+completa,3,4,8.36,100,"google_news_es, elpais, bbc_mundo, expansion",4,La tripulación de Artemis II completa la peligrosa maniobra de reingreso a la Tierra y ameriza en el Pacífico - BBC,2026-04-11 03:10
+misión,16,28,6.37,100,"elcorreo, france24_es, okdiario, europapress, bbc_mundo",5,Los astronautas de la Artemis 2 ya están en la Tierra: culmina con éxito la primera misión tripulada a la Luna en 53 años,2026-04-11 03:10
+éxito,6,11,6.08,100,"elcorreo, okdiario, heraldo_aragon, elpais, elespanol",5,Los astronautas de la Artemis 2 ya están en la Tierra: culmina con éxito la primera misión tripulada a la Luna en 53 años,2026-04-11 03:10
+entra,5,3,18.58,100,"okdiario, elespanol, 20minutos, elpais, france24_es",5,"Un supuesto pedófilo entra en una casa de Palma, realiza tocamientos a niños y el padre le abre la cabeza a golpes",2026-04-11 03:10
+realiza,3,1,33.44,100,"okdiario, elpais, levante_emv",3,"Un supuesto pedófilo entra en una casa de Palma, realiza tocamientos a niños y el padre le abre la cabeza a golpes",2026-04-11 03:10
+culmina,3,1,33.44,100,"elcorreo, 20minutos",2,Los astronautas de la Artemis 2 ya están en la Tierra: culmina con éxito la primera misión tripulada a la Luna en 53 años,2026-04-11 03:10
+niños,3,6,5.57,100,"okdiario, sur",2,"Un supuesto pedófilo entra en una casa de Palma, realiza tocamientos a niños y el padre le abre la cabeza a golpes",2026-04-11 03:10
+tierra,24,48,5.57,100,"elcorreo, google_news_es, okdiario, europapress, france24_es",5,Los astronautas de la Artemis 2 ya están en la Tierra: culmina con éxito la primera misión tripulada a la Luna en 53 años,2026-04-11 03:10
+mucho,6,9,7.43,100,"huffington_es, okdiario, el_confidencial_tech, sur, elmundo",5,Trump felicita a los astronautas de Artemis II… pero lo que dice después apunta a algo mucho más ambicioso,2026-04-11 03:10
+prensa,3,2,16.72,100,"okdiario, elespanol, google_news_economia",3,Palma reclama una indemnización de 160.000 euros al concesionario de los cerrados quioscos de prensa,2026-04-11 03:10
+estado,5,9,6.19,100,"elmundo, elcorreo, lavanguardia, google_news_internacional, levante_emv",5,"Los astronautas de Artemis 2 amerizan ""en excelente estado"" tras un vertiginoso descenso: ""Esto es sólo el comienzo"", dice el director de la NASA",2026-04-11 03:10
+amerizan,4,0,5.0,100,"elmundo, elespanol",2,"Los astronautas de Artemis 2 amerizan ""en excelente estado"" tras un vertiginoso descenso: ""Esto es sólo el comienzo"", dice el director de la NASA",2026-04-11 03:10
+descenso,4,3,14.86,100,elmundo,1,"Los astronautas de Artemis 2 amerizan ""en excelente estado"" tras un vertiginoso descenso: ""Esto es sólo el comienzo"", dice el director de la NASA",2026-04-11 03:10
+vertiginoso,3,0,5.0,100,elmundo,1,"Los astronautas de Artemis 2 amerizan ""en excelente estado"" tras un vertiginoso descenso: ""Esto es sólo el comienzo"", dice el director de la NASA",2026-04-11 03:10
+palma,6,3,22.29,100,"okdiario, google_news_internacional",2,Palma reclama una indemnización de 160.000 euros al concesionario de los cerrados quioscos de prensa,2026-04-11 03:10
+excelente,3,0,5.0,100,elmundo,1,"Los astronautas de Artemis 2 amerizan ""en excelente estado"" tras un vertiginoso descenso: ""Esto es sólo el comienzo"", dice el director de la NASA",2026-04-11 03:10
+electoral,3,7,4.78,95,"elespanol, elmundo_internacional, google_news_es",3,Magyar encabeza los sondeos en Hungría pero necesitará más del 50% para contrarrestar el sistema electoral de Orbán,2026-04-11 03:10
+histórica,7,17,4.59,91,"france24_es, bbc_mundo, heraldo_aragon, elpais, elespanol",5,Artemis II: amerizaje exitoso tras histórica misión a la Luna,2026-04-11 03:10
+después,7,17,4.59,91,"huffington_es, okdiario, elpais, 20minutos, lavanguardia",5,Trump felicita a los astronautas de Artemis II… pero lo que dice después apunta a algo mucho más ambicioso,2026-04-11 03:10
+nadie,4,10,4.46,89,"elmundo_internacional, google_news_es, elpais",3,"""Todos cruzamos los dedos"": la UE suspira por la derrota electoral de Orban, pero nadie espera ""un cambio total"" en Hungría",2026-04-11 03:10
+regreso,8,21,4.25,84,"huffington_es, elpais, elmundo, elespanol, 20minutos",5,La humanidad vuelve de la Luna 50 años después: así ha sido el regreso histórico de Artemis II,2026-04-11 03:10
+regresa,3,8,4.18,83,"europapress, france24_es, huffington_es",3,La misión Artemis II de la NASA regresa a la Tierra tras el primer viaje lunar en más de 50 años,2026-04-11 03:10
+álvaro,3,8,4.18,83,"google_news_es, elpais",2,"Álvaro Arbeloa explota contra el arbitraje tras la acción sobre Kylian Mbappé: ""Para mí es penalti aquí y en la Luna"" - DAZN",2026-04-11 03:10
+mujeres,3,8,4.18,83,"okdiario, elespanol",2,Escándalo en Palma: el ‘baño de los horrores’ de un bar destapa a un espía sexual que grabó a más de 400 mujeres,2026-04-11 03:10
+árbitros,3,8,4.18,83,"elmundo, elpais, google_news_es",3,"Arbeloa estalla contra los árbitros por el penalti no pitado sobre Mbappé: ""Cuando viene bien entra el VAR, y cuando no, no entra""",2026-04-11 03:10
+reentrada,6,16,4.18,83,"20minutos, elpais, elespanol, levante_emv, elmundo",5,"El espectacular momento de la reentrada de Orion a la Tierra, como una bola de fuego: 13 minutos críticos y a 40.000 kilómetros por hora",2026-04-11 03:10
+conversaciones,4,11,4.05,81,"okdiario, google_news_internacional, elpais, france24_es",4,Israel y Líbano iniciarán conversaciones de paz en Washington el martes,2026-04-11 03:10
+laliga,4,11,4.05,81,"elcorreo, google_news_es",2,"Toni Martínez-Boyé, la pareja «más pesada» que se cuela entre las mejores de LaLiga",2026-04-11 03:10
+informe,3,9,3.72,74,"france24_es, elespanol",2,Informe desde Miami: Artemis II regresa a la Tierra y ameriza de manera exitosa,2026-04-11 03:10
+padre,3,9,3.72,74,"okdiario, elespanol, elmundo",3,"Un supuesto pedófilo entra en una casa de Palma, realiza tocamientos a niños y el padre le abre la cabeza a golpes",2026-04-11 03:10
+víctimas,4,14,3.18,63,"okdiario, elcorreo, france24_es",3,Acusan al condenado por espiar a más de 400 mujeres de ocultar su patrimonio para no pagar a las víctimas,2026-04-11 03:10
+incendio,3,11,3.04,60,elcorreo,1,Un voraz incendio en la papelera de Iurreta genera alarma y destruye 50 bobinas almacenadas,2026-04-11 03:10
+cadena,4,15,2.97,59,"google_news_es, google_news_internacional",2,¿Era penalti de Vítor Reis sobre Mbappé? Iturralde González analiza la jugada polémica del Real Madrid-Girona - Cadena SER,2026-04-11 03:10
+hungría,6,24,2.79,55,"france24_es, elespanol, sur, elcorreo, elmundo_internacional",5,Elecciones en Hungría: ¿Orbán en riesgo y Magyar en ascenso?,2026-04-11 03:10
+inicia,3,12,2.79,55,"elmundo, google_news_es, bbc_mundo, elcorreo, okdiario",5,"En directo, el regreso de Artemis 2: la cápsula Orión se separa de la otra parte de la nave e inicia el descenso hacia la Tierra",2026-04-11 03:10
+hacia,3,12,2.79,55,"elmundo_espana, google_news_economia, elmundo",3,"Los barones del PP sortean el ""pulso"" entre Abascal y Feijóo y aceleran hacia un ""pacto en las tres comunidades""",2026-04-11 03:10
+ahora,4,17,2.62,52,"elespanol, sur, expansion, elcorreo",4,El lío de Urtasun: abanderó el plan para 'descentralizar' El Prado y ahora tiene que dar portazo al PNV con el 'Guernica',2026-04-11 03:10
+parque,3,13,2.57,51,"elcorreo, sur",2,"Álava pone a punto sus parques naturales con nuevos parkings, sendas y refugios",2026-04-11 03:10
+párkinson,3,13,2.57,51,"levante_emv, elcorreo",2,El párkinson no es solo temblor: otros síntomas que podrían permitir anticipar el diagnóstico,2026-04-11 03:10
+jornada,3,14,2.39,47,"elcorreo, google_news_es",2,Tee times de la tercera jornada del Masters de Augusta. ¿A qué hora juega Jon Rahm?,2026-04-11 03:10
+asegura,3,15,2.23,44,"levante_emv, google_news_internacional",2,"Trump asegura que no permitirá que Irán cobre peajes en el estrecho de Ormuz: ""Es agua internacional""",2026-04-11 03:10
+unidos,6,30,2.23,44,"elcorreo, levante_emv, lavanguardia, google_news_internacional, elpais",5,«Estados Unidos no quiere que una bandera china sea la primera en Marte»,2026-04-11 03:10
+vuelve,7,36,2.17,43,"huffington_es, elespanol, elcorreo, elpais, lavanguardia",5,La humanidad vuelve de la Luna 50 años después: así ha sido el regreso histórico de Artemis II,2026-04-11 03:10
+alerta,3,16,2.09,41,"france24_es, sur",2,Aeropuertos de Europa en alerta por falta de combustible pese al alto el fuego entre Irán y EE. UU.,2026-04-11 03:10
