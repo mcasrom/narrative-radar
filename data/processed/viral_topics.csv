@@ -1,96 +1,113 @@
 keyword,count_now,count_base,ratio,viral_score,sources,n_sources,sample_title,detected_at
-empuja,4,1,24.06,100,"levante_emv, google_news_internacional, elpais",3,"Ruf: ""La depresión te empuja al borde del abismo y yo lo único que quería era apagar la luz”",2026-04-12 06:38
-kitchen,3,1,18.04,100,"google_news_politica, elpais_espana, heraldo_aragon",3,"Génova 13, sede de la corrupción del PP que Feijóo mantiene mientras se desmarca de Kitchen - ElPlural.com",2026-04-12 06:38
-urnas,5,2,15.03,100,"20minutos, elpais, elpais_espana, google_news_internacional, france24_es",5,"Orbán, en el alambre: Putin, Trump y la UE otean hoy las urnas húngaras ante la posible caída del régimen euroescéptico y prorruso",2026-04-12 06:38
-oferta,6,2,18.04,100,"okdiario, huffington_es, eldiario, 20minutos, heraldo_aragon",5,Las negociaciones en Islamabad fracasan por el programa nuclear iraní y EEUU pone una «oferta final» sobre la mesa,2026-04-12 06:38
-forma,6,6,6.01,100,"okdiario, google_news_economia, infolibre, levante_emv, elpais",5,Bill Gates prefiere vagos para trabajar y el extraño motivo es éste: «Encontrará la forma más fácil de hacer el trabajo»,2026-04-12 06:38
-teherán,5,3,10.02,100,"20minutos, elcorreo, google_news_internacional, elpais",4,"EEUU anuncia que no hay acuerdo con Teherán y lanza una ""oferta final"" antes de abandonar Islamabad",2026-04-12 06:38
-colas,3,2,9.02,100,"okdiario, elpais",2,Colas kilométricas en Lidl por la barcacoa de cerámica para asar y ahumar que no vas a parar de usar éste verano,2026-04-12 06:38
-retira,3,1,18.04,100,"google_news_es, elpais, bbc_mundo",3,EE.UU. anuncia que se retira de las conversaciones de paz con Irán sin un acuerdo - BBC,2026-04-12 06:38
-generan,3,0,5.0,100,"huffington_es, google_news_es",2,"Jaime Palomera, experto en vivienda, sobre el debate de la densificación: &quot;Hay municipios en los que la saturación no la generan los residentes. La generan los flujos del turismo&quot;",2026-04-12 06:38
-excesivas,3,0,5.0,100,"heraldo_aragon, elcorreo, google_news_internacional, elpais",4,"Irán dice que la situación en el estrecho de Ormuz no cambiará y que las condiciones de EE. UU. son ""excesivas""",2026-04-12 06:38
-washington,3,2,9.02,100,"elcorreo, google_news_internacional, elpais",3,Sigue en directo la última hora de la guerra en Oriente Medio: Teherán acusa a Washington de «exigencias excesivas» en las conversaciones,2026-04-12 06:38
-génova,3,1,18.04,100,"google_news_politica, heraldo_aragon, elconfidencial",3,"Génova 13, sede de la corrupción del PP que Feijóo mantiene mientras se desmarca de Kitchen - ElPlural.com",2026-04-12 06:38
-banca,3,1,18.04,100,"heraldo_aragon, sur, okdiario, google_news_economia",4,Los hungaros votan ya en las elecciones más importantes en décadas que podrían desbancar a Viktor Orbán,2026-04-12 06:38
-casas,3,2,9.02,100,"20minutos, elpais_espana, heraldo_aragon",3,España cuenta ya con 18 centros 'Barnahus' o 'Casas de los Niños' para atender a menores que han sufrido violencia sexual,2026-04-12 06:38
-presos,3,1,18.04,100,"google_news_es, elpais_espana",2,Los presos de ETA que piden perdón por escrito: qué dicen sus cartas y por qué generan tanta controversia - EL PAÍS,2026-04-12 06:38
-cartas,3,1,18.04,100,"google_news_es, elpais_espana",2,Los presos de ETA que piden perdón por escrito: qué dicen sus cartas y por qué generan tanta controversia - EL PAÍS,2026-04-12 06:38
-chile,3,3,6.01,100,"google_news_internacional, elpais, france24_es",3,El Menor gana la Final Internacional de Red Bull Batalla y mete a Chile en el olimpo del freestyle - MARCA,2026-04-12 06:38
-martín,3,3,6.01,100,"levante_emv, heraldo_aragon",2,Así se hizo la falla Joaquín Costa-Conde Altea de Marina Puche y Manolo Martín,2026-04-12 06:38
-futuro,6,5,7.22,100,"levante_emv, okdiario, elpais, heraldo_aragon, france24_es",5,El futuro del Valencia se pone aún más feo en Elche,2026-04-12 06:38
-antonio,3,3,6.01,100,"okdiario, heraldo_aragon",2,"José Antonio Gurpegui, experto en Relaciones Internacionales: «Europa se derrotará a sí misma, desde dentro»",2026-04-12 06:38
-gómez,4,2,12.03,100,"okdiario, elespanol",2,Un alto cargo de Sánchez acompañó a Begoña Gómez en varios actos de negocios como «directora de cátedra»,2026-04-12 06:38
-sector,5,1,30.07,100,"okdiario, elpais, heraldo_aragon",3,El sector eléctrico carga contra el nuevo impuesto europeo y alerta del riesgo para la energía barata,2026-04-12 06:38
-deportiva,3,1,18.04,100,"google_news_internacional, heraldo_aragon",2,"La AEPD, representada en el 88º Congreso de la Asociación Internacional de la Prensa Deportiva - Asociación Española de la Prensa Deportiva",2026-04-12 06:38
-mallorca,3,3,6.01,100,okdiario,1,Palma se convierte en el epicentro del breaking juvenil: nace la primer liga U18 de Mallorca,2026-04-12 06:38
-prefiere,3,1,18.04,100,"huffington_es, okdiario, elpais",3,Un español en Suiza que huye del alquiler y prefiere vivir en una autocaravana: &quot;Lo mejor son mis dos días libres&quot;,2026-04-12 06:38
-onefootball,3,2,9.02,100,google_news_internacional,1,Umkämpftes Grenal-Derby ohne Sieger! Internacional nun 5 Spiele ungeschlagen | Internacional-Gremio - OneFootball,2026-04-12 06:38
-hijos,5,6,5.01,100,"20minutos, levante_emv, heraldo_aragon, google_news_economia",4,¿Los nuevos hijos?,2026-04-12 06:38
-nuclear,4,2,12.03,100,"okdiario, elespanol, elcorreo, elmundo",4,Las negociaciones en Islamabad fracasan por el programa nuclear iraní y EEUU pone una «oferta final» sobre la mesa,2026-04-12 06:38
-santa,3,2,9.02,100,"okdiario, heraldo_aragon",2,En Alemania ya están cambiando fábricas de coche por plantas de blindados militares y Santa Bárbara quiere que España siga el camino,2026-04-12 06:38
-viktor,3,3,6.01,100,"heraldo_aragon, huffington_es, france24_es",3,Los hungaros votan ya en las elecciones más importantes en décadas que podrían desbancar a Viktor Orbán,2026-04-12 06:38
-abandona,3,1,18.04,100,"huffington_es, elespanol, eldiario, 20minutos, google_news_internacional",5,Irán y EEUU dan por terminadas las conversaciones de paz: Vance pone sobre la mesa una &quot;oferta final y definitiva&quot; y abandona Islamabad,2026-04-12 06:38
-corrupción,5,2,15.03,100,"20minutos, google_news_politica, elpais_internacional, google_news_internacional, elconfidencial",5,"Corrupción y desafección, la semana negra de la democracia",2026-04-12 06:38
-acuerdo,14,17,4.95,99,"elespanol, eldiario, 20minutos, google_news_es, heraldo_aragon",5,"EEUU abandona Islamabad ""sin acuerdo"" y marca la renuncia iraní al armamento nuclear como principal ""línea roja""",2026-04-12 06:38
-acusa,4,5,4.81,96,"elcorreo, google_news_internacional, elpais, elespanol",4,Sigue en directo la última hora de la guerra en Oriente Medio: Teherán acusa a Washington de «exigencias excesivas» en las conversaciones,2026-04-12 06:38
-nuevos,3,4,4.51,90,"20minutos, heraldo_aragon, google_news_internacional",3,¿Los nuevos hijos?,2026-04-12 06:38
-rosalía,3,4,4.51,90,"huffington_es, elpais, elespanol",3,"Se acabó la espera por &#039;Euphoria&#039;, pero no la polémica: de los conflictos con su creador a las pérdidas en su elenco pasando por el papel de Rosalía",2026-04-12 06:38
-global,3,4,4.51,90,"infolibre, elpais_internacional, google_news_internacional",3,Una Global Sumud Flotilla reforzada zarpa hacia Gaza: “La voz de los palestinos guía cada decisión que tomamos”,2026-04-12 06:38
-sheinbaum,3,4,4.51,90,"google_news_internacional, elpais",2,Sheinbaum empuja el liderazgo de México en la alianza progresista internacional - EL PAÍS,2026-04-12 06:38
-magyar,6,8,4.51,90,"okdiario, heraldo_aragon, france24_es, google_news_internacional",4,"Hungría dividida: las urbes votan a Magyar, el campo a Orbán y las elecciones las decidirá la minoría romaní",2026-04-12 06:38
-begoña,3,4,4.51,90,"okdiario, elespanol",2,Un alto cargo de Sánchez acompañó a Begoña Gómez en varios actos de negocios como «directora de cátedra»,2026-04-12 06:38
-prevé,3,4,4.51,90,okdiario,1,Cielo nublado y lluvias en Zaragoza: AEMET prevé descenso de temperaturas y vientos moderados,2026-04-12 06:38
-caída,3,4,4.51,90,"20minutos, elpais, france24_es",3,"Orbán, en el alambre: Putin, Trump y la UE otean hoy las urnas húngaras ante la posible caída del régimen euroescéptico y prorruso",2026-04-12 06:38
-péter,3,4,4.51,90,"heraldo_aragon, france24_es, google_news_internacional",3,"... Mientras Péter Magyar, pasa de cachorro de Orbán a su mayor azote",2026-04-12 06:38
-domingo,13,18,4.34,86,"okdiario, 20minutos, levante_emv, google_news_internacional",4,"Predicción del horóscopo para Escorpio hoy, domingo 12 de abril de 2026",2026-04-12 06:38
-vance,5,7,4.3,85,"huffington_es, elmundo, google_news_es, google_news_internacional, france24_es",5,Irán y EEUU dan por terminadas las conversaciones de paz: Vance pone sobre la mesa una &quot;oferta final y definitiva&quot; y abandona Islamabad,2026-04-12 06:38
-cinco,5,7,4.3,85,"levante_emv, elpais, google_news_es, heraldo_aragon, france24_es",5,Cinco meses con el vial agujereado en Xàbia,2026-04-12 06:38
-valència,4,6,4.01,80,"levante_emv, google_news_internacional",2,"El tiempo en València: previsión meteorológica para hoy, domingo 12 de abril",2026-04-12 06:38
-cambios,4,6,4.01,80,"okdiario, huffington_es, elpais",3,Nubosidad y lluvias en Bilbao: AEMET prevé cambios de tiempo y descenso de temperaturas,2026-04-12 06:38
-metros,4,6,4.01,80,"okdiario, huffington_es, heraldo_aragon, el_confidencial_tech",4,EEUU desafía las leyes naturales: va a hundir un barco transatlántico de 300 metros de largo para crear el mayor arrecife artificial de la historia del mundo,2026-04-12 06:38
-predicción,8,13,3.7,74,okdiario,1,"Predicción del horóscopo para Escorpio hoy, domingo 12 de abril de 2026",2026-04-12 06:38
-parque,3,5,3.61,72,"huffington_es, heraldo_aragon",2,&#039;Otro día en Galicia&#039;: 500.000 metros cúbicos de lodos serán vertidos al mar a las puertas de un parque nacional,2026-04-12 06:38
-trabajo,3,5,3.61,72,"20minutos, okdiario, levante_emv, elpais",4,Medio siglo de trabajo por la discapacidad a través de 12 historias de vida,2026-04-12 06:38
-hungría,12,20,3.61,72,"levante_emv, infolibre, okdiario, elpais_internacional, google_news_internacional",5,Elecciones en Hungría: ¿el final del caballo de Troya de Putin y Trump en la UE?,2026-04-12 06:38
-calles,3,5,3.61,72,"okdiario, heraldo_aragon, google_news_internacional",3,"En España lo vemos a diario por las calles, pero en Japón se considera una costumbre ofensiva y de mala educación",2026-04-12 06:38
-cambio,6,10,3.61,72,"okdiario, huffington_es, elpais, google_news_es, elpais_espana",5,Nubosidad y lluvias en Bilbao: AEMET prevé cambios de tiempo y descenso de temperaturas,2026-04-12 06:38
-elplural.com,3,5,3.61,72,"google_news_internacional, google_news_politica",2,"Teresa Aranguren: ""Occidente solo aplica el Derecho Internacional cuando el agresor no es de los nuestros"" - ElPlural.com",2026-04-12 06:38
-haber,3,5,3.61,72,"20minutos, okdiario, elpais",3,Perú elige este domingo nuevo presidente entre 35 candidatos... y después de haber tenido cuatro en los últimos cuatro años,2026-04-12 06:38
-alquiler,4,7,3.44,68,"huffington_es, 20minutos, okdiario, elpais, heraldo_aragon",5,Un español en Suiza que huye del alquiler y prefiere vivir en una autocaravana: &quot;Lo mejor son mis dos días libres&quot;,2026-04-12 06:38
-camino,4,7,3.44,68,"okdiario, levante_emv, heraldo_aragon",3,En Alemania ya están cambiando fábricas de coche por plantas de blindados militares y Santa Bárbara quiere que España siga el camino,2026-04-12 06:38
-campo,4,7,3.44,68,"okdiario, elpais_internacional, google_news_internacional, elconfidencial",4,"Hungría dividida: las urbes votan a Magyar, el campo a Orbán y las elecciones las decidirá la minoría romaní",2026-04-12 06:38
-aemet,5,9,3.34,66,okdiario,1,Cielo nublado y lluvias en Zaragoza: AEMET prevé descenso de temperaturas y vientos moderados,2026-04-12 06:38
-orbán,12,22,3.28,65,"heraldo_aragon, 20minutos, okdiario, elpais_internacional, google_news_internacional",5,Los hungaros votan ya en las elecciones más importantes en décadas que podrían desbancar a Viktor Orbán,2026-04-12 06:38
-horóscopo,8,16,3.01,60,okdiario,1,"Predicción del horóscopo para Escorpio hoy, domingo 12 de abril de 2026",2026-04-12 06:38
-digital,3,6,3.01,60,"infolibre, okdiario, google_news_internacional, google_news_economia",4,"Dar la batalla cultural en las redes, la guerra digital que también libran Estados Unidos e Irán",2026-04-12 06:38
-industria,4,8,3.01,60,"levante_emv, google_news_es, elpais, heraldo_aragon",4,ART Technologies: lo que el ojo no puede ver en la industria alimentaria,2026-04-12 06:38
-cerca,3,6,3.01,60,"levante_emv, okdiario, heraldo_aragon",3,El PP activa la comisión sobre la SEPI en el Senado para cercar a Montero en la precampaña andaluza,2026-04-12 06:38
-primavera,5,10,3.01,60,"okdiario, elpais, heraldo_aragon",3,"Los expertos en plantas lo tienen claro: para que estallen de flores en primavera, el truco es pinzarlas correctamente",2026-04-12 06:38
-único,4,8,3.01,60,"levante_emv, okdiario, heraldo_aragon",3,"Ruf: ""La depresión te empuja al borde del abismo y yo lo único que quería era apagar la luz”",2026-04-12 06:38
-temperaturas,4,8,3.01,60,okdiario,1,Cielo nublado y lluvias en Zaragoza: AEMET prevé descenso de temperaturas y vientos moderados,2026-04-12 06:38
-semana,7,15,2.81,56,"20minutos, huffington_es, google_news_economia, heraldo_aragon, elpais",5,"Corrupción y desafección, la semana negra de la democracia",2026-04-12 06:38
-andalucía,5,11,2.73,54,"okdiario, newtral, elpais_espana, heraldo_aragon",4,"Precio de la gasolina hoy 12 de abril: localiza las gasolineras más baratas de Sevilla, Cádiz y otras ciudades de Andalucía",2026-04-12 06:38
-convierte,4,9,2.67,53,"heraldo_aragon, okdiario, france24_es",3,Convierte una casa con más de cinco siglos en un destino para el turismo del silencio cerca de Biescas,2026-04-12 06:38
-papel,4,9,2.67,53,"huffington_es, elpais, levante_emv, google_news_internacional",4,"Se acabó la espera por &#039;Euphoria&#039;, pero no la polémica: de los conflictos con su creador a las pérdidas en su elenco pasando por el papel de Rosalía",2026-04-12 06:38
-lluvias,4,9,2.67,53,okdiario,1,Cielo nublado y lluvias en Zaragoza: AEMET prevé descenso de temperaturas y vientos moderados,2026-04-12 06:38
-descenso,4,9,2.67,53,okdiario,1,Cielo nublado y lluvias en Zaragoza: AEMET prevé descenso de temperaturas y vientos moderados,2026-04-12 06:38
-hacienda,4,9,2.67,53,"okdiario, google_news_es, elpais",3,Hacienda lo confirma: están pagando 840€ si has ido al dentista en alguna de estas comunidades,2026-04-12 06:38
-mientras,7,16,2.63,52,"heraldo_aragon, google_news_politica, okdiario, elespanol, france24_es",5,"EE. UU. se va de las negociaciones sin acuerdo con Irán pero con una última oferta mientras Irán ve las exigencias ""excesivas""",2026-04-12 06:38
-izquierda,3,7,2.58,51,"levante_emv, google_news_internacional",2,"""Con Oltra vemos la vía real para la unidad de las izquierdas""",2026-04-12 06:38
-pueden,3,7,2.58,51,"google_news_economia, okdiario, heraldo_aragon",3,España cambia las reglas: los trabajadores con sueldos bajos pueden deducirse hasta 340 euros en la Renta de esta forma - El Español,2026-04-12 06:38
-galicia,3,7,2.58,51,"huffington_es, infolibre, google_news_internacional",3,&#039;Otro día en Galicia&#039;: 500.000 metros cúbicos de lodos serán vertidos al mar a las puertas de un parque nacional,2026-04-12 06:38
-candidatos,3,7,2.58,51,"20minutos, newtral, heraldo_aragon",3,Perú elige este domingo nuevo presidente entre 35 candidatos... y después de haber tenido cuatro en los últimos cuatro años,2026-04-12 06:38
-sistema,5,12,2.51,50,"okdiario, elpais_espana, elpais, heraldo_aragon, google_news_internacional",5,"Los científicos encuentran 45 planetas donde podría haber vida, pero ninguno está dentro del Sistema Solar",2026-04-12 06:38
-aragón,5,12,2.51,50,heraldo_aragon,1,"Las empresas chinas en Aragón redoblan la búsqueda de pisos de alquiler: ""Pagan hasta un 40 % más""",2026-04-12 06:38
-lanza,4,10,2.41,48,"levante_emv, 20minutos, okdiario, elconfidencial, elespanol",5,2.350 euros al mes por pilotar drones: las brigadas ucranianas de guerra robótica se lanzan a la caza de talentos,2026-04-12 06:38
-cuatro,4,10,2.41,48,"20minutos, levante_emv, elpais_internacional",3,Perú elige este domingo nuevo presidente entre 35 candidatos... y después de haber tenido cuatro en los últimos cuatro años,2026-04-12 06:38
-presidente,5,13,2.31,46,"20minutos, elpais, okdiario, heraldo_aragon, france24_es",5,Perú elige este domingo nuevo presidente entre 35 candidatos... y después de haber tenido cuatro en los últimos cuatro años,2026-04-12 06:38
-ábalos,3,8,2.26,45,"huffington_es, elpais_espana",2,Ábalos impacta en la estrategia de Moncloa,2026-04-12 06:38
-siglo,3,8,2.26,45,"20minutos, heraldo_aragon, elconfidencial",3,Medio siglo de trabajo por la discapacidad a través de 12 historias de vida,2026-04-12 06:38
-palma,4,11,2.19,43,okdiario,1,"El requisito de catalán sin pies ni cabeza: Palma lo pide a los taxistas, pero no a los chóferes de la EMT",2026-04-12 06:38
-conversaciones,8,22,2.19,43,"huffington_es, google_news_es, elcorreo, elmundo, google_news_internacional",5,Irán y EEUU dan por terminadas las conversaciones de paz: Vance pone sobre la mesa una &quot;oferta final y definitiva&quot; y abandona Islamabad,2026-04-12 06:38
-anuncia,4,11,2.19,43,"20minutos, google_news_es, bbc_mundo, google_news_internacional",4,"EEUU anuncia que no hay acuerdo con Teherán y lanza una ""oferta final"" antes de abandonar Islamabad",2026-04-12 06:38
-quiere,5,14,2.15,42,"okdiario, infolibre, elpais, heraldo_aragon",4,En Alemania ya están cambiando fábricas de coche por plantas de blindados militares y Santa Bárbara quiere que España siga el camino,2026-04-12 06:38
-menos,5,15,2.0,40,"okdiario, elpais, levante_emv, heraldo_aragon",4,Miedo entre los biólogos: encuentran nidos de aves endémicas arrasados por roedores en menos de 24 horas,2026-04-12 06:38
-tiempo,6,18,2.0,40,"levante_emv, okdiario, elpais",3,"El tiempo en València: previsión meteorológica para hoy, domingo 12 de abril",2026-04-12 06:38
-hacia,3,9,2.0,40,"infolibre, elpais, google_news_internacional",3,Una Global Sumud Flotilla reforzada zarpa hacia Gaza: “La voz de los palestinos guía cada decisión que tomamos”,2026-04-12 06:38
+onefootball,3,2,7.78,100,google_news_internacional,1,Umkämpftes Grenal-Derby ohne Sieger! Internacional nun 5 Spiele ungeschlagen | Internacional-Gremio - OneFootball,2026-04-12 07:08
+gómez,4,2,10.37,100,"okdiario, elespanol",2,Un alto cargo de Sánchez acompañó a Begoña Gómez en varios actos de negocios como «directora de cátedra»,2026-04-12 07:08
+retira,3,1,15.56,100,"google_news_es, elpais, bbc_mundo",3,EE.UU. anuncia que se retira de las conversaciones de paz con Irán sin un acuerdo - BBC,2026-04-12 07:08
+sheinbaum,3,3,5.19,100,"google_news_internacional, elpais",2,Sheinbaum empuja el liderazgo de México en la alianza progresista internacional - EL PAÍS,2026-04-12 07:08
+génova,3,1,15.56,100,"google_news_politica, heraldo_aragon, elconfidencial",3,"Génova 13, sede de la corrupción del PP que Feijóo mantiene mientras se desmarca de Kitchen - ElPlural.com",2026-04-12 07:08
+washington,3,2,7.78,100,"elcorreo, google_news_internacional, elpais",3,Sigue en directo la última hora de la guerra en Oriente Medio: Teherán acusa a Washington de «exigencias excesivas» en las conversaciones,2026-04-12 07:08
+abandona,4,1,20.75,100,"huffington_es, elespanol, eldiario, google_news_internacional, 20minutos",5,Irán y EEUU dan por terminadas las conversaciones de paz: Vance pone sobre la mesa una &quot;oferta final y definitiva&quot; y abandona Islamabad,2026-04-12 07:08
+viktor,3,3,5.19,100,"heraldo_aragon, huffington_es, france24_es",3,Los hungaros votan ya en las elecciones más importantes en décadas que podrían desbancar a Viktor Orbán,2026-04-12 07:08
+casas,4,2,10.37,100,"20minutos, elpais_espana, google_news_es, heraldo_aragon",4,España cuenta ya con 18 centros 'Barnahus' o 'Casas de los Niños' para atender a menores que han sufrido violencia sexual,2026-04-12 07:08
+martín,3,3,5.19,100,"levante_emv, heraldo_aragon",2,Así se hizo la falla Joaquín Costa-Conde Altea de Marina Puche y Manolo Martín,2026-04-12 07:08
+prefiere,3,1,15.56,100,"huffington_es, okdiario, elpais",3,Un español en Suiza que huye del alquiler y prefiere vivir en una autocaravana: &quot;Lo mejor son mis dos días libres&quot;,2026-04-12 07:08
+“exigencias,3,0,5.0,100,"google_news_internacional, elpais",2,"Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Irán acusa a EE UU de “exigencias excesivas” en las conversaciones - EL PAÍS",2026-04-12 07:08
+excesivas”,3,0,5.0,100,"google_news_internacional, elpais",2,"Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Irán acusa a EE UU de “exigencias excesivas” en las conversaciones - EL PAÍS",2026-04-12 07:08
+chile,3,3,5.19,100,"google_news_internacional, elpais, france24_es",3,El Menor gana la Final Internacional de Red Bull Batalla y mete a Chile en el olimpo del freestyle - MARCA,2026-04-12 07:08
+cartas,3,1,15.56,100,"google_news_es, elpais_espana",2,Los presos de ETA que piden perdón por escrito: qué dicen sus cartas y por qué generan tanta controversia - EL PAÍS,2026-04-12 07:08
+presos,3,1,15.56,100,"google_news_es, elpais_espana",2,Los presos de ETA que piden perdón por escrito: qué dicen sus cartas y por qué generan tanta controversia - EL PAÍS,2026-04-12 07:08
+vemos,3,0,5.0,100,"okdiario, 20minutos, levante_emv, france24_es",4,"En España lo vemos a diario por las calles, pero en Japón se considera una costumbre ofensiva y de mala educación",2026-04-12 07:08
+urnas,4,3,6.92,100,"20minutos, elpais, elpais_espana, google_news_internacional",4,"Orbán, en el alambre: Putin, Trump y la UE otean hoy las urnas húngaras ante la posible caída del régimen euroescéptico y prorruso",2026-04-12 07:08
+caída,3,3,5.19,100,"20minutos, elpais, france24_es",3,"Orbán, en el alambre: Putin, Trump y la UE otean hoy las urnas húngaras ante la posible caída del régimen euroescéptico y prorruso",2026-04-12 07:08
+nuestra,3,2,7.78,100,"eldiario, google_news_internacional, levante_emv",3,EEUU abandona Islamabad sin llegar a un acuerdo con Irán: “Es nuestra oferta final. Veremos si los iraníes lo aceptan”,2026-04-12 07:08
+oferta,7,2,18.15,100,"okdiario, huffington_es, eldiario, google_news_internacional, 20minutos",5,Las negociaciones en Islamabad fracasan por el programa nuclear iraní y EEUU pone una «oferta final» sobre la mesa,2026-04-12 07:08
+forma,6,6,5.19,100,"okdiario, google_news_economia, infolibre, levante_emv, elpais",5,Bill Gates prefiere vagos para trabajar y el extraño motivo es éste: «Encontrará la forma más fácil de hacer el trabajo»,2026-04-12 07:08
+recomienda,3,2,7.78,100,"20minutos, heraldo_aragon",2,"El restaurante de Valencia situado en primera línea de playa que recomienda la Guía Repsol: ""Solo por las vistas merece la pena la reserva""",2026-04-12 07:08
+colas,3,2,7.78,100,"okdiario, elpais",2,Colas kilométricas en Lidl por la barcacoa de cerámica para asar y ahumar que no vas a parar de usar éste verano,2026-04-12 07:08
+drones,3,1,15.56,100,"google_news_economia, levante_emv, okdiario",3,Adaptarse ya no es opción: los drones que encarecieron tu vida esta semana - Infobae,2026-04-12 07:08
+antonio,3,2,7.78,100,"okdiario, heraldo_aragon",2,"José Antonio Gurpegui, experto en Relaciones Internacionales: «Europa se derrotará a sí misma, desde dentro»",2026-04-12 07:08
+santa,3,2,7.78,100,"okdiario, heraldo_aragon",2,En Alemania ya están cambiando fábricas de coche por plantas de blindados militares y Santa Bárbara quiere que España siga el camino,2026-04-12 07:08
+cúpula,3,3,5.19,100,"levante_emv, heraldo_aragon",2,Las 153 anotaciones de Villarejo que detallan al tribunal de Kitchen la actuación de la cúpula policial contra Bárcenas,2026-04-12 07:08
+empuja,4,1,20.75,100,"levante_emv, google_news_internacional, elpais",3,"Ruf: ""La depresión te empuja al borde del abismo y yo lo único que quería era apagar la luz”",2026-04-12 07:08
+mallorca,3,3,5.19,100,okdiario,1,Palma se convierte en el epicentro del breaking juvenil: nace la primer liga U18 de Mallorca,2026-04-12 07:08
+excesivas,3,1,15.56,100,"google_news_internacional, heraldo_aragon, elcorreo, elpais",4,"Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Irán acusa a EE UU de “exigencias excesivas” en las conversaciones - EL PAÍS",2026-04-12 07:08
+generan,3,0,5.0,100,"huffington_es, google_news_es",2,"Jaime Palomera, experto en vivienda, sobre el debate de la densificación: &quot;Hay municipios en los que la saturación no la generan los residentes. La generan los flujos del turismo&quot;",2026-04-12 07:08
+acuerdo,17,17,5.19,100,"20minutos, elespanol, eldiario, google_news_internacional, google_news_es",5,Irán dice que la situación en el estrecho de Ormuz no cambiará si EEUU no acepta un acuerdo,2026-04-12 07:08
+romper,3,3,5.19,100,heraldo_aragon,1,"Semana decisiva para los pactos en Aragón: ""Vox está estirando el chicle, pero no puede romper la cuerda""",2026-04-12 07:08
+deportiva,3,1,15.56,100,"google_news_internacional, heraldo_aragon",2,"La AEPD, representada en el 88º Congreso de la Asociación Internacional de la Prensa Deportiva - Asociación Española de la Prensa Deportiva",2026-04-12 07:08
+femenino,3,3,5.19,100,"elpais, google_news_es, heraldo_aragon",3,"Es el turno del ‘Karolchella’: Karol G reina en Coachella como mujer, latina y exponente del perreo en femenino",2026-04-12 07:08
+claro,3,1,15.56,100,"huffington_es, okdiario",2,Un abogado compara el sistema de despidos de EEUU y España: muchos ya tienen un claro ganador,2026-04-12 07:08
+kitchen,4,1,20.75,100,"levante_emv, google_news_politica, elpais_espana, heraldo_aragon",4,Las 153 anotaciones de Villarejo que detallan al tribunal de Kitchen la actuación de la cúpula policial contra Bárcenas,2026-04-12 07:08
+corrupción,5,2,12.97,100,"20minutos, google_news_politica, elpais_internacional, google_news_internacional, elconfidencial",5,"Corrupción y desafección, la semana negra de la democracia",2026-04-12 07:08
+banca,3,1,15.56,100,"heraldo_aragon, sur, okdiario, google_news_economia",4,Los hungaros votan ya en las elecciones más importantes en décadas que podrían desbancar a Viktor Orbán,2026-04-12 07:08
+votar,3,0,5.0,100,"okdiario, heraldo_aragon",2,"El Gobierno gasta 1,7 millones en acelerar la nacionalidad para que 2,3 millones de ‘nietos del exilio’ puedan votar",2026-04-12 07:08
+fracasan,3,0,5.0,100,"levante_emv, okdiario",2,Fracasan las negociaciones entre EEUU e Irán en Pakistán para terminar con la guerra en Oriente Medio,2026-04-12 07:08
+nuclear,5,2,12.97,100,"okdiario, elespanol, elcorreo, elmundo",4,Las negociaciones en Islamabad fracasan por el programa nuclear iraní y EEUU pone una «oferta final» sobre la mesa,2026-04-12 07:08
+teherán,6,3,10.37,100,"okdiario, 20minutos, elcorreo, google_news_internacional, elpais",5,Las negociaciones entre EEUU e Irán en Islamabad fracasan por el programa nuclear de Teherán,2026-04-12 07:08
+sector,5,1,25.94,100,"okdiario, elpais, heraldo_aragon",3,El sector eléctrico carga contra el nuevo impuesto europeo y alerta del riesgo para la energía barata,2026-04-12 07:08
+nuevos,4,4,5.19,100,"20minutos, heraldo_aragon, google_news_internacional",3,¿Los nuevos hijos?,2026-04-12 07:08
+futuro,5,6,4.32,86,"levante_emv, okdiario, elpais, heraldo_aragon, france24_es",5,El futuro del Valencia se pone aún más feo en Elche,2026-04-12 07:08
+acusa,5,6,4.32,86,"google_news_internacional, elcorreo, elpais, elespanol",4,"Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Irán acusa a EE UU de “exigencias excesivas” en las conversaciones - EL PAÍS",2026-04-12 07:08
+hijos,5,6,4.32,86,"20minutos, levante_emv, heraldo_aragon, google_news_economia",4,¿Los nuevos hijos?,2026-04-12 07:08
+experto,4,5,4.15,82,"okdiario, huffington_es, 20minutos",3,"Los expertos en plantas lo tienen claro: para que estallen de flores en primavera, el truco es pinzarlas correctamente",2026-04-12 07:08
+domingo,14,18,4.03,80,"okdiario, 20minutos, levante_emv, google_news_internacional",4,"Predicción del horóscopo para Sagitario hoy, domingo 12 de abril de 2026",2026-04-12 07:08
+fiestas,3,4,3.89,77,"okdiario, heraldo_aragon",2,Vallecas celebra sus Fiestas de Primavera para todas las edades,2026-04-12 07:08
+prevé,3,4,3.89,77,okdiario,1,Cielo nublado y lluvias en Zaragoza: AEMET prevé descenso de temperaturas y vientos moderados,2026-04-12 07:08
+dinero,3,4,3.89,77,"okdiario, elpais_espana, google_news_es",3,La banca saca su artillería pesada: busca captar más clientes a cambio de dinero en efectivo,2026-04-12 07:08
+péter,3,4,3.89,77,"heraldo_aragon, france24_es, google_news_internacional",3,"... Mientras Péter Magyar, pasa de cachorro de Orbán a su mayor azote",2026-04-12 07:08
+cinco,6,8,3.89,77,"heraldo_aragon, 20minutos, levante_emv, elpais, google_news_es",5,"Cinco personas atendidas por inhalación de humo, entre ellas un bebé, tras el incendio de una vivienda en Zaragoza",2026-04-12 07:08
+global,3,4,3.89,77,"infolibre, elpais_internacional, google_news_internacional",3,Una Global Sumud Flotilla reforzada zarpa hacia Gaza: “La voz de los palestinos guía cada decisión que tomamos”,2026-04-12 07:08
+begoña,3,4,3.89,77,"okdiario, elespanol",2,Un alto cargo de Sánchez acompañó a Begoña Gómez en varios actos de negocios como «directora de cátedra»,2026-04-12 07:08
+vance,5,7,3.71,74,"huffington_es, elmundo, google_news_es, google_news_internacional, france24_es",5,Irán y EEUU dan por terminadas las conversaciones de paz: Vance pone sobre la mesa una &quot;oferta final y definitiva&quot; y abandona Islamabad,2026-04-12 07:08
+candidatos,5,7,3.71,74,"levante_emv, 20minutos, newtral, heraldo_aragon",4,Elecciones presidenciales en Perú: 35 candidatos y la derecha como gran favorita,2026-04-12 07:08
+predicción,9,13,3.59,71,okdiario,1,"Predicción del horóscopo para Sagitario hoy, domingo 12 de abril de 2026",2026-04-12 07:08
+valència,4,6,3.46,69,"levante_emv, google_news_internacional",2,"El tiempo en València: previsión meteorológica para hoy, domingo 12 de abril",2026-04-12 07:08
+industria,4,6,3.46,69,"levante_emv, google_news_es, elpais, heraldo_aragon",4,ART Technologies: lo que el ojo no puede ver en la industria alimentaria,2026-04-12 07:08
+cambios,4,6,3.46,69,"okdiario, huffington_es, elpais",3,Nubosidad y lluvias en Bilbao: AEMET prevé cambios de tiempo y descenso de temperaturas,2026-04-12 07:08
+seguridad,4,6,3.46,69,"levante_emv, okdiario",2,"Juanma Moreno: ""Adif está tardando en asumir responsabilidades por Adamuz, faltó mantenimiento en la vía y en la seguridad""",2026-04-12 07:08
+metros,4,6,3.46,69,"okdiario, huffington_es, 20minutos, heraldo_aragon, el_confidencial_tech",5,EEUU desafía las leyes naturales: va a hundir un barco transatlántico de 300 metros de largo para crear el mayor arrecife artificial de la historia del mundo,2026-04-12 07:08
+magyar,5,8,3.24,64,"okdiario, heraldo_aragon, france24_es, google_news_internacional",4,"Hungría dividida: las urbes votan a Magyar, el campo a Orbán y las elecciones las decidirá la minoría romaní",2026-04-12 07:08
+pueden,5,8,3.24,64,"el_confidencial_tech, google_news_economia, okdiario, heraldo_aragon",4,Hay cucarachas que pueden comer plástico. Y el resultado es algo que nos puede ser muy útil,2026-04-12 07:08
+rosalía,3,5,3.11,62,"huffington_es, elpais, 20minutos",3,"Se acabó la espera por &#039;Euphoria&#039;, pero no la polémica: de los conflictos con su creador a las pérdidas en su elenco pasando por el papel de Rosalía",2026-04-12 07:08
+elplural.com,3,5,3.11,62,"google_news_internacional, google_news_politica",2,"Teresa Aranguren: ""Occidente solo aplica el Derecho Internacional cuando el agresor no es de los nuestros"" - ElPlural.com",2026-04-12 07:08
+hungría,12,20,3.11,62,"levante_emv, google_news_es, infolibre, okdiario, elpais_internacional",5,Elecciones en Hungría: ¿el final del caballo de Troya de Putin y Trump en la UE?,2026-04-12 07:08
+falta,3,5,3.11,62,"levante_emv, heraldo_aragon, elpais",3,Falta de aparcamiento en la playa de La Pobla de Farnals: un problema que se agrava con las caravanas,2026-04-12 07:08
+calles,3,5,3.11,62,"okdiario, heraldo_aragon, google_news_internacional",3,"En España lo vemos a diario por las calles, pero en Japón se considera una costumbre ofensiva y de mala educación",2026-04-12 07:08
+cambio,6,10,3.11,62,"okdiario, huffington_es, elpais, google_news_es, elpais_espana",5,Nubosidad y lluvias en Bilbao: AEMET prevé cambios de tiempo y descenso de temperaturas,2026-04-12 07:08
+trabajo,3,5,3.11,62,"20minutos, okdiario, levante_emv, elpais",4,Medio siglo de trabajo por la discapacidad a través de 12 historias de vida,2026-04-12 07:08
+niños,3,5,3.11,62,"20minutos, infolibre, elpais, heraldo_aragon",4,España cuenta ya con 18 centros 'Barnahus' o 'Casas de los Niños' para atender a menores que han sufrido violencia sexual,2026-04-12 07:08
+primavera,6,10,3.11,62,"okdiario, 20minutos, elpais, heraldo_aragon",4,"Los expertos en plantas lo tienen claro: para que estallen de flores en primavera, el truco es pinzarlas correctamente",2026-04-12 07:08
+obras,3,5,3.11,62,"20minutos, google_news_internacional, elpais",3,Óscar Puente anuncia obras de emergencia en más de 200 km de autovías de la Región de Murcia,2026-04-12 07:08
+parque,3,5,3.11,62,"huffington_es, heraldo_aragon",2,&#039;Otro día en Galicia&#039;: 500.000 metros cúbicos de lodos serán vertidos al mar a las puertas de un parque nacional,2026-04-12 07:08
+haber,3,5,3.11,62,"20minutos, okdiario, elpais",3,Perú elige este domingo nuevo presidente entre 35 candidatos... y después de haber tenido cuatro en los últimos cuatro años,2026-04-12 07:08
+alquiler,4,7,2.96,59,"huffington_es, 20minutos, okdiario, elpais, heraldo_aragon",5,Un español en Suiza que huye del alquiler y prefiere vivir en una autocaravana: &quot;Lo mejor son mis dos días libres&quot;,2026-04-12 07:08
+campo,4,7,2.96,59,"okdiario, elpais_internacional, google_news_internacional, elconfidencial",4,"Hungría dividida: las urbes votan a Magyar, el campo a Orbán y las elecciones las decidirá la minoría romaní",2026-04-12 07:08
+camino,4,7,2.96,59,"okdiario, levante_emv, heraldo_aragon",3,En Alemania ya están cambiando fábricas de coche por plantas de blindados militares y Santa Bárbara quiere que España siga el camino,2026-04-12 07:08
+horóscopo,9,16,2.92,58,okdiario,1,"Predicción del horóscopo para Sagitario hoy, domingo 12 de abril de 2026",2026-04-12 07:08
+papel,5,9,2.88,57,"huffington_es, europapress, elpais, levante_emv, google_news_internacional",5,"Se acabó la espera por &#039;Euphoria&#039;, pero no la polémica: de los conflictos con su creador a las pérdidas en su elenco pasando por el papel de Rosalía",2026-04-12 07:08
+aemet,5,9,2.88,57,okdiario,1,Cielo nublado y lluvias en Zaragoza: AEMET prevé descenso de temperaturas y vientos moderados,2026-04-12 07:08
+sistema,6,11,2.83,56,"huffington_es, okdiario, elpais_espana, elpais, heraldo_aragon",5,Un abogado compara el sistema de despidos de EEUU y España: muchos ya tienen un claro ganador,2026-04-12 07:08
+semana,8,15,2.77,55,"google_news_economia, 20minutos, huffington_es, heraldo_aragon, elpais",5,Adaptarse ya no es opción: los drones que encarecieron tu vida esta semana - Infobae,2026-04-12 07:08
+orbán,11,21,2.72,54,"heraldo_aragon, 20minutos, okdiario, elpais_internacional, google_news_internacional",5,Los hungaros votan ya en las elecciones más importantes en décadas que podrían desbancar a Viktor Orbán,2026-04-12 07:08
+único,4,8,2.59,51,"levante_emv, okdiario, heraldo_aragon",3,"Ruf: ""La depresión te empuja al borde del abismo y yo lo único que quería era apagar la luz”",2026-04-12 07:08
+convierte,4,8,2.59,51,"20minutos, heraldo_aragon, okdiario, france24_es",4,"""La igualdad de género duradera se logra cuando los hombres se convierten en participantes activos""",2026-04-12 07:08
+digital,3,6,2.59,51,"infolibre, okdiario, google_news_internacional, google_news_economia",4,"Dar la batalla cultural en las redes, la guerra digital que también libran Estados Unidos e Irán",2026-04-12 07:08
+cerca,3,6,2.59,51,"20minutos, levante_emv, okdiario, heraldo_aragon",4,La guerra de Irán acerca a Trump a sus objetivos y desplaza el coste a sus grandes competidores,2026-04-12 07:08
+presidente,6,12,2.59,51,"20minutos, elpais, okdiario, heraldo_aragon, france24_es",5,Perú elige este domingo nuevo presidente entre 35 candidatos... y después de haber tenido cuatro en los últimos cuatro años,2026-04-12 07:08
+claves,3,6,2.59,51,"20minutos, huffington_es",2,La llegada de un gatito a casa: claves para una adaptación sin estrés,2026-04-12 07:08
+ábalos,4,8,2.59,51,"huffington_es, elpais_espana, google_news_es",3,Ábalos impacta en la estrategia de Moncloa,2026-04-12 07:08
+temperaturas,4,8,2.59,51,okdiario,1,Cielo nublado y lluvias en Zaragoza: AEMET prevé descenso de temperaturas y vientos moderados,2026-04-12 07:08
+anuncia,5,11,2.36,47,"20minutos, google_news_es, bbc_mundo, google_news_internacional",4,"EEUU anuncia que no hay acuerdo con Teherán y lanza una ""oferta final"" antes de abandonar Islamabad",2026-04-12 07:08
+andalucía,5,11,2.36,47,"okdiario, newtral, elpais_espana, heraldo_aragon",4,"Precio de la gasolina hoy 12 de abril: localiza las gasolineras más baratas de Sevilla, Cádiz y otras ciudades de Andalucía",2026-04-12 07:08
+tiempo,8,18,2.31,46,"20minutos, huffington_es, levante_emv, okdiario, elpais",5,"Los cólicos equinos: causas, síntomas y claves para actuar a tiempo",2026-04-12 07:08
+lluvias,4,9,2.31,46,okdiario,1,Cielo nublado y lluvias en Zaragoza: AEMET prevé descenso de temperaturas y vientos moderados,2026-04-12 07:08
+hacienda,4,9,2.31,46,"okdiario, google_news_es, elpais",3,Hacienda lo confirma: están pagando 840€ si has ido al dentista en alguna de estas comunidades,2026-04-12 07:08
+cuatro,4,9,2.31,46,"20minutos, levante_emv, elpais_internacional",3,Perú elige este domingo nuevo presidente entre 35 candidatos... y después de haber tenido cuatro en los últimos cuatro años,2026-04-12 07:08
+descenso,4,9,2.31,46,okdiario,1,Cielo nublado y lluvias en Zaragoza: AEMET prevé descenso de temperaturas y vientos moderados,2026-04-12 07:08
+conversaciones,10,23,2.26,45,"huffington_es, google_news_internacional, google_news_es, elcorreo, elmundo",5,Irán y EEUU dan por terminadas las conversaciones de paz: Vance pone sobre la mesa una &quot;oferta final y definitiva&quot; y abandona Islamabad,2026-04-12 07:08
+galicia,3,7,2.22,44,"huffington_es, infolibre, google_news_internacional",3,&#039;Otro día en Galicia&#039;: 500.000 metros cúbicos de lodos serán vertidos al mar a las puertas de un parque nacional,2026-04-12 07:08
+izquierda,3,7,2.22,44,"levante_emv, google_news_internacional",2,"""Con Oltra vemos la vía real para la unidad de las izquierdas""",2026-04-12 07:08
+hacia,3,7,2.22,44,"infolibre, elpais, google_news_internacional",3,Una Global Sumud Flotilla reforzada zarpa hacia Gaza: “La voz de los palestinos guía cada decisión que tomamos”,2026-04-12 07:08
+aragón,5,12,2.16,43,heraldo_aragon,1,"Las empresas chinas en Aragón redoblan la búsqueda de pisos de alquiler: ""Pagan hasta un 40 % más""",2026-04-12 07:08
+jóvenes,4,10,2.07,41,"infolibre, heraldo_aragon",2,"Menores gratis en las salas, una forma de abrir la música en vivo a niños y jóvenes: ""Hay que hacer cantera""",2026-04-12 07:08
+lanza,4,10,2.07,41,"levante_emv, 20minutos, okdiario, elconfidencial, elespanol",5,2.350 euros al mes por pilotar drones: las brigadas ucranianas de guerra robótica se lanzan a la caza de talentos,2026-04-12 07:08
+millones,7,18,2.02,40,"levante_emv, okdiario, heraldo_aragon, elconfidencial, 20minutos",5,El Consell 'pierde' más de 600 millones por el camino de la prórroga presupuestaria,2026-04-12 07:08
