@@ -1,55 +1,53 @@
 keyword,count_now,count_base,ratio,viral_score,sources,n_sources,sample_title,detected_at
-verde,3,0,5.0,100,"heraldo_aragon, lavanguardia, elcorreo, google_news_es",4,"Protestas en Valverde, una pedanía de Calamocha, porque su único acceso es por un camino de tierra",2026-04-12 04:38
-industria,6,6,6.44,100,"levante_emv, google_news_es, elpais, heraldo_aragon, elcorreo",5,ART Technologies: lo que el ojo no puede ver en la industria alimentaria,2026-04-12 04:38
-onefootball,3,2,9.66,100,google_news_internacional,1,Umkämpftes Grenal-Derby ohne Sieger! Internacional nun 5 Spiele ungeschlagen | Internacional-Gremio - OneFootball,2026-04-12 04:38
-asturiano,3,1,19.32,100,"elpais, elcorreo",2,El ‘brunch’ de un asturiano que crea colas en París,2026-04-12 04:38
-deportiva,3,1,19.32,100,"google_news_internacional, heraldo_aragon",2,"La AEPD, representada en el 88º Congreso de la Asociación Internacional de la Prensa Deportiva - Asociación Española de la Prensa Deportiva",2026-04-12 04:38
-urnas,4,1,25.76,100,"elpais_espana, google_news_internacional, france24_es",3,Las urnas pasan consulta al sistema sanitario andaluz,2026-04-12 04:38
-grêmio,3,1,19.32,100,google_news_internacional,1,Internacional held by Grêmio after late red - OneFootball,2026-04-12 04:38
-presos,3,0,5.0,100,"google_news_es, elpais_espana, elcorreo",3,"Las cartas de disculpa de los presos de ETA: “El sufrimiento que creé es irreparable, pero trataré de sanar el daño que causé” - EL PAÍS",2026-04-12 04:38
-contratos,3,0,5.0,100,"okdiario, elcorreo",2,La trampa del fijo discontinuo: 865.000 «parados invisibles» y más de 9 millones de contratos desde 2022,2026-04-12 04:38
-sector,5,1,32.21,100,"okdiario, elpais, heraldo_aragon",3,El sector eléctrico carga contra el nuevo impuesto europeo y alerta del riesgo para la energía barata,2026-04-12 04:38
-gómez,3,2,9.66,100,"okdiario, elespanol",2,Un alto cargo de Sánchez acompañó a Begoña Gómez en varios actos de negocios como «directora de cátedra»,2026-04-12 04:38
-consumo,3,0,5.0,100,"google_news_internacional, elcorreo",2,Se respira un ambiente internacional de cara a la inauguración de la Exposición Internacional de Productos de Consumo de China - CGTN en Español,2026-04-12 04:38
-electoral,4,4,6.44,100,"okdiario, heraldo_aragon, elmundo_internacional, google_news_internacional, sur",5,El gran robo electoral que se avecina,2026-04-12 04:38
-antonio,3,3,6.44,100,"okdiario, heraldo_aragon",2,"José Antonio Gurpegui, experto en Relaciones Internacionales: «Europa se derrotará a sí misma, desde dentro»",2026-04-12 04:38
-mcilroy,3,1,19.32,100,"lavanguardia, elcorreo, elpais",3,McIlroy se hunde en una mala tercera ronda y luchará con Young y Burns por la chaqueta verde,2026-04-12 04:38
-relato,3,1,19.32,100,"elespanol, elmundo_internacional, google_news_es",3,El juicio a Ábalos desmonta el relato de Sánchez contra la 'fachosfera' y la 'máquina del fango': toda España habla de ello,2026-04-12 04:38
-futuro,6,5,7.73,100,"levante_emv, okdiario, elpais, heraldo_aragon, france24_es",5,El futuro del Valencia se pone aún más feo en Elche,2026-04-12 04:38
-viktor,3,1,19.32,100,"france24_es, elmundo_internacional, google_news_es",3,Péter Magyar y Viktor Orbán: dos visiones distintas para Hungría,2026-04-12 04:38
-hungría,13,17,4.93,98,"infolibre, okdiario, elpais_internacional, google_news_internacional, heraldo_aragon",5,El colectivo LGTBIQ+ aspira a reconstruir un país arrasado por el odio tras las elecciones en Hungría,2026-04-12 04:38
-magyar,6,8,4.83,96,"okdiario, heraldo_aragon, france24_es, google_news_internacional",4,"Hungría dividida: las urbes votan a Magyar, el campo a Orbán y las elecciones las decidirá la minoría romaní",2026-04-12 04:38
-prepara,3,4,4.83,96,"google_news_internacional, elmundo_internacional, google_news_es",3,VI Exposición Internacional de Productos de Consumo de China se prepara en Hainan - 新华网,2026-04-12 04:38
-global,3,4,4.83,96,"infolibre, elpais_internacional, google_news_internacional",3,Una Global Sumud Flotilla reforzada zarpa hacia Gaza: “La voz de los palestinos guía cada decisión que tomamos”,2026-04-12 04:38
-begoña,3,4,4.83,96,"okdiario, elespanol",2,Un alto cargo de Sánchez acompañó a Begoña Gómez en varios actos de negocios como «directora de cátedra»,2026-04-12 04:38
-péter,3,4,4.83,96,"heraldo_aragon, france24_es, google_news_internacional",3,"... Mientras Péter Magyar, pasa de cachorro de Orbán a su mayor azote",2026-04-12 04:38
-nuevos,3,4,4.83,96,"heraldo_aragon, google_news_internacional, sur",3,Relevo en un bar en la Magdalena: 'juepintxo' con nuevos aires uruguayos,2026-04-12 04:38
-izquierda,4,6,4.29,85,"levante_emv, google_news_internacional, sur",3,"""Con Oltra vemos la vía real para la unidad de las izquierdas""",2026-04-12 04:38
-vance,4,6,4.29,85,"google_news_es, google_news_internacional, france24_es, elespanol",4,"Las negociaciones entre EE.UU. e Irán en Islamabad terminan sin acuerdo, Vance regresa a Estados Unidos - RTVE.es",2026-04-12 04:38
-hijos,4,6,4.29,85,"levante_emv, heraldo_aragon, google_news_economia",3,"La búsqueda de un soldado republicano en Valencia: ""Se nos están muriendo los hijos de las víctimas sin encontrar las fosas y es muy triste""",2026-04-12 04:38
-camino,4,6,4.29,85,"levante_emv, heraldo_aragon, elespanol",3,El Consell 'pierde' más de 600 millones por el camino de la prórroga presupuestaria,2026-04-12 04:38
-ábalos,4,6,4.29,85,"elpais_espana, elespanol",2,"Tres días de juicio que refuerzan los indicios contra Ábalos: enchufes, casas y trasiego de dinero",2026-04-12 04:38
-forma,4,6,4.29,85,"infolibre, levante_emv, elpais, okdiario, heraldo_aragon",5,"Menores gratis en las salas, una forma de abrir la música en vivo a niños y jóvenes: ""Hay que hacer cantera""",2026-04-12 04:38
-batalla,10,16,4.03,80,"google_news_internacional, infolibre, elpais_internacional, elconfidencial, elcorreo",5,El Menor gana la Final Internacional de Red Bull Batalla y mete a Chile en el olimpo del freestyle - MARCA,2026-04-12 04:38
-cinco,5,8,4.03,80,"levante_emv, elpais, google_news_es, heraldo_aragon, france24_es",5,Cinco meses con el vial agujereado en Xàbia,2026-04-12 04:38
-obras,3,5,3.86,77,"google_news_internacional, elpais, elcorreo",3,El jurado de la Bienal Internacional de Cerámica de Manises selecciona sus obras ganadoras - Valencia Plaza,2026-04-12 04:38
-cambio,6,10,3.86,77,"okdiario, elpais, google_news_es, elpais_espana, google_news_internacional",5,La banca saca su artillería pesada: busca captar más clientes a cambio de dinero en efectivo,2026-04-12 04:38
-carrera,3,5,3.86,77,"france24_es, sur, elcorreo",3,Ciclismo: el prodigio Paul Seixas se convierte en el primer francés desde 2007 en ganar una carrera por etapas,2026-04-12 04:38
-vasco,3,5,3.86,77,elcorreo,1,El Gobierno vasco no declarará Uribe Kosta como Biotopo Protegido,2026-04-12 04:38
-campo,4,8,3.22,64,"okdiario, elpais_internacional, google_news_internacional, elconfidencial",4,"Hungría dividida: las urbes votan a Magyar, el campo a Orbán y las elecciones las decidirá la minoría romaní",2026-04-12 04:38
-cerca,3,6,3.22,64,"okdiario, heraldo_aragon",2,Jaque al cáncer de riñón en un único tratamiento: más cerca de una terapia dirigida e inmunoterapia,2026-04-12 04:38
-valència,3,6,3.22,64,"levante_emv, google_news_internacional",2,"Armand Guerra, el virtuoso que proyectó en València la primera película con sonido en España",2026-04-12 04:38
-digital,3,6,3.22,64,"infolibre, okdiario, google_news_internacional, google_news_economia",4,"Dar la batalla cultural en las redes, la guerra digital que también libran Estados Unidos e Irán",2026-04-12 04:38
-sistema,5,11,2.93,58,"elpais_espana, elpais, heraldo_aragon, google_news_internacional, sur",5,Las urnas pasan consulta al sistema sanitario andaluz,2026-04-12 04:38
-aragón,5,11,2.93,58,heraldo_aragon,1,"Las empresas chinas en Aragón redoblan la búsqueda de pisos de alquiler: ""Pagan hasta un 40 % más""",2026-04-12 04:38
-hacienda,4,9,2.86,57,"okdiario, google_news_es, elpais, elespanol",4,Hacienda se forra con el precio de la vivienda: un 20% de todos los impuestos son del sector inmobiliario,2026-04-12 04:38
-galicia,3,7,2.76,55,"infolibre, google_news_internacional",2,Huelva ya rivaliza con Galicia como gran puerta de entrada de cocaína en Europa,2026-04-12 04:38
-orbán,9,22,2.64,52,"okdiario, elpais_internacional, heraldo_aragon, france24_es, google_news_internacional",5,"Hungría dividida: las urbes votan a Magyar, el campo a Orbán y las elecciones las decidirá la minoría romaní",2026-04-12 04:38
-hacia,4,10,2.58,51,"infolibre, elpais, google_news_internacional, elcorreo",4,Una Global Sumud Flotilla reforzada zarpa hacia Gaza: “La voz de los palestinos guía cada decisión que tomamos”,2026-04-12 04:38
-acuerdo,6,16,2.42,48,"bbc_mundo, france24_es, google_news_es, google_news_internacional, elpais",5,EE.UU. anuncia que se retira de las conversaciones de paz con Irán sin un acuerdo,2026-04-12 04:38
-juicio,3,8,2.42,48,"elpais_espana, okdiario, elespanol, sur",4,"Tres días de juicio que refuerzan los indicios contra Ábalos: enchufes, casas y trasiego de dinero",2026-04-12 04:38
-europa,9,25,2.32,46,"infolibre, okdiario, elpais_internacional, google_news_internacional, elpais",5,Huelva ya rivaliza con Galicia como gran puerta de entrada de cocaína en Europa,2026-04-12 04:38
-porque,3,9,2.15,42,"heraldo_aragon, elmundo",2,"Apicultor de Calanda: ""No he hecho trashumancia a Andalucía, porque al precio que está el gasoil no es rentable""",2026-04-12 04:38
-convierte,3,9,2.15,42,"heraldo_aragon, okdiario, france24_es",3,Convierte una casa con más de cinco siglos en un destino para el turismo del silencio cerca de Biescas,2026-04-12 04:38
-busca,7,21,2.15,42,"okdiario, elpais_internacional, heraldo_aragon, elcorreo",4,La banca saca su artillería pesada: busca captar más clientes a cambio de dinero en efectivo,2026-04-12 04:38
-papel,3,9,2.15,42,"elpais, levante_emv, google_news_internacional",3,Por qué el papel puede incendiarse en la freidora de aire y el accesorio que lo evita,2026-04-12 04:38
+antonio,3,3,6.93,100,"okdiario, heraldo_aragon",2,"José Antonio Gurpegui, experto en Relaciones Internacionales: «Europa se derrotará a sí misma, desde dentro»",2026-04-12 05:09
+empuja,3,1,20.78,100,"google_news_internacional, elpais",2,Sheinbaum empuja el liderazgo de México en la alianza progresista internacional - EL PAÍS,2026-04-12 05:09
+prepara,3,3,6.93,100,"google_news_internacional, elmundo_internacional, google_news_es",3,VI Exposición Internacional de Productos de Consumo de China se prepara en Hainan - 新华网,2026-04-12 05:09
+grêmio,3,1,20.78,100,google_news_internacional,1,Internacional held by Grêmio after late red - OneFootball,2026-04-12 05:09
+onefootball,3,2,10.39,100,google_news_internacional,1,Umkämpftes Grenal-Derby ohne Sieger! Internacional nun 5 Spiele ungeschlagen | Internacional-Gremio - OneFootball,2026-04-12 05:09
+viktor,3,1,20.78,100,"france24_es, elmundo_internacional, google_news_es",3,Péter Magyar y Viktor Orbán: dos visiones distintas para Hungría,2026-04-12 05:09
+consumo,3,0,5.0,100,"google_news_internacional, elcorreo",2,Se respira un ambiente internacional de cara a la inauguración de la Exposición Internacional de Productos de Consumo de China - CGTN en Español,2026-04-12 05:09
+péter,3,4,5.2,100,"heraldo_aragon, france24_es, google_news_internacional",3,"... Mientras Péter Magyar, pasa de cachorro de Orbán a su mayor azote",2026-04-12 05:09
+deportiva,3,1,20.78,100,"google_news_internacional, heraldo_aragon",2,"La AEPD, representada en el 88º Congreso de la Asociación Internacional de la Prensa Deportiva - Asociación Española de la Prensa Deportiva",2026-04-12 05:09
+sector,5,1,34.64,100,"okdiario, elpais, heraldo_aragon",3,El sector eléctrico carga contra el nuevo impuesto europeo y alerta del riesgo para la energía barata,2026-04-12 05:09
+gómez,3,2,10.39,100,"okdiario, elespanol",2,Un alto cargo de Sánchez acompañó a Begoña Gómez en varios actos de negocios como «directora de cátedra»,2026-04-12 05:09
+begoña,3,4,5.2,100,"okdiario, elespanol",2,Un alto cargo de Sánchez acompañó a Begoña Gómez en varios actos de negocios como «directora de cátedra»,2026-04-12 05:09
+magyar,6,8,5.2,100,"okdiario, heraldo_aragon, france24_es, google_news_internacional",4,"Hungría dividida: las urbes votan a Magyar, el campo a Orbán y las elecciones las decidirá la minoría romaní",2026-04-12 05:09
+electoral,4,4,6.93,100,"okdiario, heraldo_aragon, elmundo_internacional, google_news_internacional",4,El gran robo electoral que se avecina,2026-04-12 05:09
+urnas,4,2,13.85,100,"elpais, elpais_espana, google_news_internacional, france24_es",4,Perú elige en las urnas a su noveno presidente en 10 años,2026-04-12 05:09
+relato,3,0,5.0,100,"elespanol, elmundo_internacional, google_news_es",3,El juicio a Ábalos desmonta el relato de Sánchez contra la 'fachosfera' y la 'máquina del fango': toda España habla de ello,2026-04-12 05:09
+global,3,4,5.2,100,"infolibre, elpais_internacional, google_news_internacional",3,Una Global Sumud Flotilla reforzada zarpa hacia Gaza: “La voz de los palestinos guía cada decisión que tomamos”,2026-04-12 05:09
+futuro,6,5,8.31,100,"levante_emv, okdiario, elpais, heraldo_aragon, france24_es",5,El futuro del Valencia se pone aún más feo en Elche,2026-04-12 05:09
+industria,5,7,4.95,98,"levante_emv, google_news_es, elpais, heraldo_aragon, elcorreo",5,ART Technologies: lo que el ojo no puede ver en la industria alimentaria,2026-04-12 05:09
+ábalos,4,6,4.62,92,"elpais_espana, elespanol",2,"Tres días de juicio que refuerzan los indicios contra Ábalos: enchufes, casas y trasiego de dinero",2026-04-12 05:09
+forma,4,6,4.62,92,"infolibre, levante_emv, elpais, okdiario, heraldo_aragon",5,"Menores gratis en las salas, una forma de abrir la música en vivo a niños y jóvenes: ""Hay que hacer cantera""",2026-04-12 05:09
+hijos,4,6,4.62,92,"levante_emv, heraldo_aragon, google_news_economia",3,"La búsqueda de un soldado republicano en Valencia: ""Se nos están muriendo los hijos de las víctimas sin encontrar las fosas y es muy triste""",2026-04-12 05:09
+hungría,12,18,4.62,92,"infolibre, okdiario, elpais_internacional, google_news_internacional, heraldo_aragon",5,El colectivo LGTBIQ+ aspira a reconstruir un país arrasado por el odio tras las elecciones en Hungría,2026-04-12 05:09
+vance,4,6,4.62,92,"google_news_es, google_news_internacional, france24_es, elespanol",4,"Las negociaciones entre EE.UU. e Irán en Islamabad terminan sin acuerdo, Vance regresa a Estados Unidos - RTVE.es",2026-04-12 05:09
+camino,4,6,4.62,92,"levante_emv, heraldo_aragon, elespanol",3,El Consell 'pierde' más de 600 millones por el camino de la prórroga presupuestaria,2026-04-12 05:09
+izquierda,4,6,4.62,92,"levante_emv, google_news_internacional, sur",3,"""Con Oltra vemos la vía real para la unidad de las izquierdas""",2026-04-12 05:09
+cinco,5,8,4.33,86,"levante_emv, elpais, google_news_es, heraldo_aragon, france24_es",5,Cinco meses con el vial agujereado en Xàbia,2026-04-12 05:09
+cambio,6,10,4.16,83,"okdiario, elpais, google_news_es, elpais_espana, google_news_internacional",5,La banca saca su artillería pesada: busca captar más clientes a cambio de dinero en efectivo,2026-04-12 05:09
+carrera,3,5,4.16,83,"france24_es, sur, elcorreo",3,Ciclismo: el prodigio Paul Seixas se convierte en el primer francés desde 2007 en ganar una carrera por etapas,2026-04-12 05:09
+batalla,10,17,4.07,81,"google_news_politica, google_news_internacional, infolibre, elpais_internacional, elconfidencial",5,El “Guernica” de Picasso desencadena una batalla política en España - La Nación,2026-04-12 05:09
+campo,4,8,3.46,69,"okdiario, elpais_internacional, google_news_internacional, elconfidencial",4,"Hungría dividida: las urbes votan a Magyar, el campo a Orbán y las elecciones las decidirá la minoría romaní",2026-04-12 05:09
+hacienda,4,8,3.46,69,"okdiario, google_news_es, elpais, elespanol",4,Hacienda se forra con el precio de la vivienda: un 20% de todos los impuestos son del sector inmobiliario,2026-04-12 05:09
+cerca,3,6,3.46,69,"okdiario, heraldo_aragon",2,Jaque al cáncer de riñón en un único tratamiento: más cerca de una terapia dirigida e inmunoterapia,2026-04-12 05:09
+valència,3,6,3.46,69,"levante_emv, google_news_internacional",2,"Armand Guerra, el virtuoso que proyectó en València la primera película con sonido en España",2026-04-12 05:09
+digital,3,6,3.46,69,"infolibre, okdiario, google_news_internacional, google_news_economia",4,"Dar la batalla cultural en las redes, la guerra digital que también libran Estados Unidos e Irán",2026-04-12 05:09
+aragón,5,11,3.15,62,heraldo_aragon,1,"Las empresas chinas en Aragón redoblan la búsqueda de pisos de alquiler: ""Pagan hasta un 40 % más""",2026-04-12 05:09
+sistema,5,11,3.15,62,"elpais_espana, elpais, heraldo_aragon, google_news_internacional, sur",5,Las urnas pasan consulta al sistema sanitario andaluz,2026-04-12 05:09
+galicia,3,7,2.97,59,"infolibre, google_news_internacional",2,Huelva ya rivaliza con Galicia como gran puerta de entrada de cocaína en Europa,2026-04-12 05:09
+orbán,9,22,2.83,56,"okdiario, elpais_internacional, heraldo_aragon, france24_es, google_news_internacional",5,"Hungría dividida: las urbes votan a Magyar, el campo a Orbán y las elecciones las decidirá la minoría romaní",2026-04-12 05:09
+acuerdo,6,16,2.6,51,"bbc_mundo, france24_es, google_news_es, google_news_internacional, elpais",5,EE.UU. anuncia que se retira de las conversaciones de paz con Irán sin un acuerdo,2026-04-12 05:09
+juicio,3,8,2.6,51,"elpais_espana, okdiario, elespanol",3,"Tres días de juicio que refuerzan los indicios contra Ábalos: enchufes, casas y trasiego de dinero",2026-04-12 05:09
+presidente,4,11,2.52,50,"elpais, okdiario, heraldo_aragon, france24_es, elmundo",5,Perú elige en las urnas a su noveno presidente en 10 años,2026-04-12 05:09
+convierte,3,9,2.31,46,"heraldo_aragon, okdiario, france24_es",3,Convierte una casa con más de cinco siglos en un destino para el turismo del silencio cerca de Biescas,2026-04-12 05:09
+porque,3,9,2.31,46,"heraldo_aragon, elmundo",2,"Apicultor de Calanda: ""No he hecho trashumancia a Andalucía, porque al precio que está el gasoil no es rentable""",2026-04-12 05:09
+papel,3,9,2.31,46,"elpais, levante_emv, google_news_internacional",3,Por qué el papel puede incendiarse en la freidora de aire y el accesorio que lo evita,2026-04-12 05:09
+domingo,6,18,2.31,46,"okdiario, levante_emv, google_news_internacional",3,"Predicción del horóscopo para Géminis hoy, domingo 12 de abril de 2026",2026-04-12 05:09
+millones,6,19,2.19,43,"levante_emv, okdiario, heraldo_aragon, elconfidencial",4,El Consell 'pierde' más de 600 millones por el camino de la prórroga presupuestaria,2026-04-12 05:09
+europa,8,26,2.13,42,"infolibre, okdiario, elpais_internacional, google_news_internacional, elpais",5,Huelva ya rivaliza con Galicia como gran puerta de entrada de cocaína en Europa,2026-04-12 05:09
+bilbao,3,10,2.08,41,"elpais, elcorreo",2,La huella de Marcelino sigue viva en Bilbao,2026-04-12 05:09
+jóvenes,3,10,2.08,41,"infolibre, heraldo_aragon",2,"Menores gratis en las salas, una forma de abrir la música en vivo a niños y jóvenes: ""Hay que hacer cantera""",2026-04-12 05:09
+andalucía,3,10,2.08,41,"elpais_espana, heraldo_aragon, elespanol",3,El PP prescindirá de Aznar y Rajoy en la campaña de Andalucía,2026-04-12 05:09
+primavera,3,10,2.08,41,"elpais, heraldo_aragon",2,Piel de porcelana: la tendencia ‘beauty’ que triunfa en primavera (y cómo conseguirla),2026-04-12 05:09
