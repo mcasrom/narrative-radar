@@ -45,7 +45,9 @@ PERSONAS = {
 }
 
 POSITIVE_WORDS = {"victoria","acuerdo","apoya","celebra","gana","logra","anuncia",
-                  "aprueba","avance","éxito","lidera","propone","defiende","recupera"}
+                  "aprueba","avance","éxito","lidera","propone","defiende","recupera",
+                  "presenta","reúne","firma","inaugura","visita","impulsa","destaca",
+                  "refuerza","coopera","lanza","consolida","mejora","alcanza","promueve"}
 NEGATIVE_WORDS = {"dimite","acusa","denuncia","critica","rechaza","pierde","escándalo",
                   "corrupción","detienen","condena","fracasa","protesta","investigado",
                   "expulsa","suspende","renuncia","derrota","crisis","polémica"}
