@@ -75,7 +75,7 @@ def _freshness_block():
 
     PROCESSED = Path(BASE_DIR)
     DATE_COLS = ["date", "fecha", "cycle", "last_update", "timestamp"]
-    EXCLUIR = {"feeds_processed.csv"}  # ficheros de configuración estática
+    EXCLUIR = {"feeds_processed.csv", "audit_autocorrections.csv", "lessons_learned.csv"}  # ficheros de configuración estática
     UMBRAL_OK = 2       # horas
     UMBRAL_CRIT = 24    # horas
     NOW = pd.Timestamp.now(tz="UTC")
