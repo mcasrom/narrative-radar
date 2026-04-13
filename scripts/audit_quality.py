@@ -179,14 +179,13 @@ def validar_csvs():
                 entrada["pct_fechas_recientes"] = 1.0  # sin col fecha → OK
 
             # Score
-            s_filas  = score_filas(entrada["filas"])
+            _csv_name = os.path.basename(entrada.get("csv",""))
+            s_filas  = 100 if _csv_name in CSVS_SUMMARY else score_filas(entrada["filas"])
             s_fechas = score_fechas(entrada["pct_fechas_recientes"])
             s_nulos  = 100 if entrada["pct_nulos"] < 0.1 else (50 if entrada["pct_nulos"] < 0.3 else 0)
             entrada["score_datos"] = int((s_filas + s_fechas + s_nulos) / 3)
 
-            # Alertas
             alertas = []
-            _csv_name = os.path.basename(entrada.get("csv",""))
             if entrada["filas"] < UMBRAL_FILAS_WARN and _csv_name not in CSVS_SUMMARY:
                 alertas.append(f"Pocas filas ({entrada['filas']})")
             if entrada["pct_fechas_recientes"] < UMBRAL_FECHAS_WARN:
