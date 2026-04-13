@@ -1,378 +1,317 @@
 keyword,count_now,count_base,ratio,viral_score,sources,n_sources,sample_title,detected_at
-sufre,10,4,7.54,100,"elcorreo, okdiario, elmundo, heraldo_aragon, sur",5,El Portugalete sufre su primera derrota del año ya como campeón de liga,2026-04-13 17:08
-pragmata,3,1,9.04,100,google_news_es,1,Pragmata se lleva estas excelentes notas de parte de la prensa - Nintenderos,2026-04-13 17:08
-injurias,9,5,5.43,100,"elmundo, google_news_es, 20minutos, elespanol, elpais",5,"El ex ciclista Óscar Freire, condenado por un delito leve de injurias a su mujer",2026-04-13 17:08
-delito,10,0,5.0,100,"levante_emv, elmundo, heraldo_aragon, 20minutos, huffington_es",5,El juez Peinado procesa a Begoña Gómez por cuatro delitos pero no por intrusismo profesional,2026-04-13 17:08
-condenado,11,2,16.58,100,"elmundo, elpais, heraldo_aragon, google_news_es, 20minutos",5,"El ex ciclista Óscar Freire, condenado por un delito leve de injurias a su mujer",2026-04-13 17:08
-freire,18,0,5.0,100,"elmundo, heraldo_aragon, google_news_es, 20minutos, huffington_es",5,"El ex ciclista Óscar Freire, condenado por un delito leve de injurias a su mujer",2026-04-13 17:08
-óscar,17,4,12.81,100,"elmundo, heraldo_aragon, google_news_es, 20minutos, huffington_es",5,"El ex ciclista Óscar Freire, condenado por un delito leve de injurias a su mujer",2026-04-13 17:08
-ciclista,4,0,5.0,100,"elmundo, heraldo_aragon, google_news_es, eldiario, elpais",5,"El ex ciclista Óscar Freire, condenado por un delito leve de injurias a su mujer",2026-04-13 17:08
-firma,3,1,9.04,100,"heraldo_aragon, infolibre, google_news_internacional, okdiario, lavanguardia",5,Un millar de artistas de Hollywood firman una carta contra la fusión de Warner y Paramount,2026-04-13 17:08
-medalla,13,1,39.19,100,"elcorreo, google_news_internacional, 20minutos, google_news_es",4,Los jóvenes del club de Gernika de taekwondo suman 32 medallas en la Copa Benidorm,2026-04-13 17:08
-impuesto,3,0,5.0,100,"bbc_mundo, okdiario, elcorreo",3,En qué consiste el bloqueo naval impuesto por Trump a Irán en el estrecho de Ormuz que entró en vigor este lunes,2026-04-13 17:08
-vigor,3,1,9.04,100,"elmundo_internacional, bbc_mundo, huffington_es",3,"Entra en vigor el bloqueo de Trump en el Estrecho de Ormuz: ""Si cualquier buque iraní se acerca lo más mínimo, será eliminado de inmediato""",2026-04-13 17:08
-barco,4,1,12.06,100,"sur, heraldo_aragon, elcorreo, france24_es",4,Trump activa el bloqueo naval sobre Irán en Ormuz: «Si un barco se acerca será eliminado inmediatamente»,2026-04-13 17:08
-póstumo,9,0,5.0,100,"google_news_internacional, elpais, google_news_es",3,Madrid entrega la Medalla Internacional de las Artes a Vargas Llosa a título póstumo - ABC,2026-04-13 17:08
-llosa,14,2,21.1,100,"google_news_internacional, 20minutos, elpais, google_news_es",4,Madrid entrega la Medalla Internacional de las Artes a Vargas Llosa a título póstumo - ABC,2026-04-13 17:08
-vargas,14,1,42.2,100,"google_news_internacional, 20minutos, elpais, google_news_es",4,Madrid entrega la Medalla Internacional de las Artes a Vargas Llosa a título póstumo - ABC,2026-04-13 17:08
-santander,6,2,9.04,100,"google_news_es, google_news_economia",2,La séptima edición de Santander Escénica ofrecerá 19 experiencias artísticas para conectar con el teatro y la danza de la ciudad de abril a junio - santandercreativa.com,2026-04-13 17:08
-escénica,3,0,5.0,100,google_news_es,1,La séptima edición de Santander Escénica ofrecerá 19 experiencias artísticas para conectar con el teatro y la danza de la ciudad de abril a junio - santandercreativa.com,2026-04-13 17:08
-santandercreativa.com,3,0,5.0,100,google_news_es,1,La séptima edición de Santander Escénica ofrecerá 19 experiencias artísticas para conectar con el teatro y la danza de la ciudad de abril a junio - santandercreativa.com,2026-04-13 17:08
-esposa,4,1,12.06,100,google_news_politica,1,La justicia acorrala a la esposa de Pedro Sánchez y desata una crisis política en España - La Nación,2026-04-13 17:08
-rígido”,3,0,5.0,100,"elpais, lavanguardia",2,La expareja de Koldo asegura que el PSOE era “muy rígido” al abonar los gastos y afirma no reconocer los mensajes de las “chistorras”,2026-04-13 17:08
-gastos,8,1,24.11,100,"elpais, heraldo_aragon, europapress, elmundo, lavanguardia",5,La expareja de Koldo asegura que el PSOE era “muy rígido” al abonar los gastos y afirma no reconocer los mensajes de las “chistorras”,2026-04-13 17:08
-mensajes,4,0,5.0,100,"elpais, europapress, google_news_es",3,La expareja de Koldo asegura que el PSOE era “muy rígido” al abonar los gastos y afirma no reconocer los mensajes de las “chistorras”,2026-04-13 17:08
-hackeo,3,1,9.04,100,"20minutos, elpais, elmundo",3,Qué hacer si eres uno de los afectados por el hackeo a Basic-Fit: estos son los pasos a seguir,2026-04-13 17:08
-basic-fit,10,0,5.0,100,"20minutos, sur, elpais, expansion, heraldo_aragon",5,Qué hacer si eres uno de los afectados por el hackeo a Basic-Fit: estos son los pasos a seguir,2026-04-13 17:08
-universidad,5,2,7.54,100,"google_news_internacional, sur, okdiario, google_news_es",4,"Internacional de Andalucía, 25 años de universidad de posgrado en Málaga - Diario Sur",2026-04-13 17:08
-palmera,5,0,5.0,100,levante_emv,1,La Ofrenda a San Vicente acaba... con incendio de una palmera,2026-04-13 17:08
-avanza,3,1,9.04,100,"elcorreo, okdiario, newtral, elespanol",4,"El PP avanza una ofensiva  parlamentaria y en los tribunales contra la ""barbaridad"" de la regularización masiva de inmigrantes",2026-04-13 17:08
-mascletà,3,0,5.0,100,levante_emv,1,Una palmera se incendia tras la mascletà de San Vicente,2026-04-13 17:08
-bancarios,4,2,6.03,100,"sur, elpais, elmundo, eldiario",4,Basic-Fit sufre un ataque que compromete los datos personales y bancarios de sus socios,2026-04-13 17:08
-exciclista,6,0,5.0,100,"heraldo_aragon, google_news_es, eldiario, elpais, elmundo",5,"El exciclista Óscar Freire, condenado por un delito leve de vejaciones hacia su mujer",2026-04-13 17:08
-vejaciones,4,0,5.0,100,"heraldo_aragon, huffington_es, elcorreo, eldiario, elespanol",5,"El exciclista Óscar Freire, condenado por un delito leve de vejaciones hacia su mujer",2026-04-13 17:08
-hunde,3,1,9.04,100,"levante_emv, okdiario, google_news_economia",3,La guerra en Irán provoca la mayor caída de las reservas de la OPEP desde 1980: el cierre de Ormuz hunde la producción en 8 millones,2026-04-13 17:08
-artes,13,0,5.0,100,"levante_emv, google_news_internacional, eldiario, 20minutos, google_news_es",5,La nueva reunión entre Sanidad y los sindicatos médicos acaba sin acuerdo: las dos partes seguirán negociando,2026-04-13 17:08
-entrega,16,2,24.11,100,"google_news_internacional, 20minutos, google_news_es, eldiario, elpais",5,Madrid entrega la Medalla Internacional de las Artes a Vargas Llosa a título póstumo - ABC,2026-04-13 17:08
-iberia,5,3,5.02,100,"20minutos, huffington_es, elmundo, expansion",4,Qué aerolíneas siguen volando a Cuba tras la cancelación de todos los vuelos de Iberia a la isla,2026-04-13 17:08
-raval,6,1,18.09,100,"elcorreo, lavanguardia, heraldo_aragon, 20minutos, elmundo",5,El pederasta del Raval de Barcelona acepta 83 años por violar y prostituir a una menor tutelada,2026-04-13 17:08
-mendoza,6,0,5.0,100,"eldiario, 20minutos, elcorreo, lavanguardia, elmundo",5,"Eduardo Mendoza: “Yo nunca me he considerado un artista, pero sí un artesano”",2026-04-13 17:08
-eduardo,5,2,7.54,100,"eldiario, okdiario, 20minutos, elcorreo, lavanguardia",5,"Eduardo Mendoza: “Yo nunca me he considerado un artista, pero sí un artesano”",2026-04-13 17:08
-tutelada,6,0,5.0,100,"elcorreo, lavanguardia, heraldo_aragon, 20minutos, elmundo",5,El pederasta del Raval de Barcelona acepta 83 años por violar y prostituir a una menor tutelada,2026-04-13 17:08
-prostituir,3,0,5.0,100,"elcorreo, lavanguardia, heraldo_aragon",3,El pederasta del Raval de Barcelona acepta 83 años por violar y prostituir a una menor tutelada,2026-04-13 17:08
-violar,6,3,6.03,100,"elcorreo, lavanguardia, heraldo_aragon, 20minutos, elmundo",5,El pederasta del Raval de Barcelona acepta 83 años por violar y prostituir a una menor tutelada,2026-04-13 17:08
-acepta,6,2,9.04,100,"elcorreo, lavanguardia, heraldo_aragon, 20minutos, elmundo",5,El pederasta del Raval de Barcelona acepta 83 años por violar y prostituir a una menor tutelada,2026-04-13 17:08
-pederasta,6,0,5.0,100,"elcorreo, lavanguardia, heraldo_aragon, 20minutos, elmundo",5,El pederasta del Raval de Barcelona acepta 83 años por violar y prostituir a una menor tutelada,2026-04-13 17:08
-ofensiva,4,2,6.03,100,"levante_emv, elcorreo, elmundo_espana, elpais",4,Espaldarazo de Letizia a la ONU en plena ofensiva de Trump contra el sistema multilateral,2026-04-13 17:08
-imágenes,7,3,7.03,100,"lavanguardia, newtral, 20minutos, levante_emv, expansion",5,"La espera del concierto de la Rosalía, el Papa visita Argelia y más imágenes del día",2026-04-13 17:08
-curar,3,0,5.0,100,"20minutos, google_news_es, europapress",3,Un equipo con participación española logra curar al décimo paciente con VIH del mundo,2026-04-13 17:08
-libre,5,3,5.02,100,"eldiario, expansion, lavanguardia, sur, 20minutos",5,Foment adelanta sus elecciones a mayo y Sánchez Libre repetirá como candidato a presidente,2026-04-13 17:08
-regularización,8,4,6.03,100,"huffington_es, elcorreo, elmundo_espana, elpais, 20minutos",5,Bruselas advierte de que la regularización extraordinaria del Gobierno &quot;puede tener consecuencias en el resto de la UE&quot;: &quot;Las autoridades tendrán que cooperar&quot;,2026-04-13 17:08
-haber,6,1,18.09,100,"20minutos, elespanol, maldita, elcorreo, okdiario",5,Booking alerta de que los datos de sus clientes podrían haber sido filtrados por un fallo,2026-04-13 17:08
-ofrenda,3,0,5.0,100,levante_emv,1,La ofrenda vicentina de Carmen Prades y Marta Mercader,2026-04-13 17:08
-hablo,3,0,5.0,100,"elcorreo, okdiario, europapress",3,"El Papa responde a Trump: «No soy político, hablo del Evangelio»",2026-04-13 17:08
-portugal,4,1,12.06,100,"elcorreo, elpais, google_news_internacional, google_news_economia",4,El Portugalete sufre su primera derrota del año ya como campeón de liga,2026-04-13 17:08
-bolsa,4,2,6.03,100,"heraldo_aragon, elcorreo, google_news_es, google_news_economia, okdiario",5,Las Bolsas caen y el petróleo sube por el bloqueo de Trump del estrecho de Ormuz,2026-04-13 17:08
-bolaños,6,3,6.03,100,"levante_emv, google_news_politica, okdiario, elcorreo, elmundo",5,Bolaños replica al juez Peinado tras procesar a Begoña Gómez: “Un tribunal imparcial lo revocará”,2026-04-13 17:08
-ayuso,14,2,21.1,100,"okdiario, google_news_internacional, europapress, elpais, google_news_es",5,El Gobierno de Ayuso lo confirma y la agricultura lo celebra: se mantienen las dos ayudas más necesarias para el sector,2026-04-13 17:08
-inmigrantes,5,3,5.02,100,"newtral, elcorreo, elpais, 20minutos",4,"El vídeo de inmigrantes en Melilla lanzando piedras a la Guardia Civil no es actual, son imágenes de 2021",2026-04-13 17:08
-apuñalar,3,0,5.0,100,"levante_emv, elcorreo, sur",3,"Un joven de 25 años, a juicio por apuñalar e intentar matar a su pareja: ""¿Qué hiciste el viernes, me has sido infiel?""",2026-04-13 17:08
-22.000,4,0,5.0,100,"levante_emv, lavanguardia, elespanol, 20minutos",4,La UE prepara medidas tras gastar 22.000 millones extra en energía en 44 días de guerra en Irán,2026-04-13 17:08
-título,10,5,6.03,100,"elcorreo, google_news_internacional, okdiario, google_news_es",4,"El Tabirako Baqué masculino luchará por el título liguero y las chicas, por jugar la ‘Final Four’",2026-04-13 17:08
-explica,3,1,9.04,100,"elcorreo, huffington_es, france24_es",3,"Amaia Agirre explica su decisión: «Se cierra una etapa, es el momento de abrir paso a nuevas personas»",2026-04-13 17:08
-triunfa,4,2,6.03,100,"elcorreo, levante_emv, elpais, google_news_internacional, sur",5,Un empate ante el colista empaña la racha triunfal del Barakaldo en Lasesarre,2026-04-13 17:08
-socios,5,2,7.54,100,"expansion, sur, elmundo, eldiario, huffington_es",5,Los socios de Ashurst y Perkins Coie aprueban su fusión para crear un gigante de la abogacía,2026-04-13 17:08
-gigante,3,0,5.0,100,"expansion, okdiario, google_news_economia",3,Los socios de Ashurst y Perkins Coie aprueban su fusión para crear un gigante de la abogacía,2026-04-13 17:08
-abogacía,3,0,5.0,100,"expansion, okdiario, efe",3,Los socios de Ashurst y Perkins Coie aprueban su fusión para crear un gigante de la abogacía,2026-04-13 17:08
-japón,4,1,12.06,100,"el_confidencial_tech, huffington_es, france24_es",3,Japón planifica un anillo solar de 11.000 km para convertir la Luna en una central eléctrica,2026-04-13 17:08
-simeone,5,1,15.07,100,"okdiario, elcorreo, lavanguardia, google_news_es",4,Lamine Yamal reta a Simeone entre risas: «A ver si me hace un favor y me pone uno contra uno»,2026-04-13 17:08
-palma,5,2,7.54,100,"levante_emv, okdiario",2,Palma de Gandia incorpora a un conserje en el polideportivo municipal,2026-04-13 17:08
-maltrato,11,0,5.0,100,"levante_emv, google_news_es, elespanol, 20minutos, elpais",5,"Los radiólogos, figura clave ante la sospecha de maltrato infantil: ""En muchos casos no hay signos visibles""",2026-04-13 17:08
-forbes,5,3,5.02,100,google_news_economia,1,Travelplan (Ávoris) retoma su operativa directa entre España y Uzbekistán - Forbes España,2026-04-13 17:08
-cuidado,3,1,9.04,100,"maldita, 20minutos",2,Cuidado con esta imagen que muestra a los astronautas de la misión Artemis II en un croma: tiene indicios de haber sido manipulada,2026-04-13 17:08
-conectividad,4,1,12.06,100,"google_news_economia, europapress",2,"Economía.- (AMP) Gualda (SEPI) defiende que Plus Ultra es ""estratégica"" para la conectividad y el turismo en España - Bolsamania",2026-04-13 17:08
-intensifica,3,0,5.0,100,"20minutos, heraldo_aragon",2,"​Vox reconoce que ""el tiempo apremia"" para llegar a acuerdos en Extremadura y Aragón e ""intensifica"" los contactos con el PP",2026-04-13 17:08
-apremia,4,0,5.0,100,"20minutos, levante_emv, heraldo_aragon",3,"​Vox reconoce que ""el tiempo apremia"" para llegar a acuerdos en Extremadura y Aragón e ""intensifica"" los contactos con el PP",2026-04-13 17:08
-bayra,3,0,5.0,100,google_news_internacional,1,El Museo de Almería acoge la presentación del III Congreso Internacional de Arqueología Bayra - Diario de Almería,2026-04-13 17:08
-arqueología,3,0,5.0,100,google_news_internacional,1,El Museo de Almería acoge la presentación del III Congreso Internacional de Arqueología Bayra - Diario de Almería,2026-04-13 17:08
-presentación,3,0,5.0,100,"google_news_internacional, google_news_es",2,El Museo de Almería acoge la presentación del III Congreso Internacional de Arqueología Bayra - Diario de Almería,2026-04-13 17:08
-llíria,3,1,9.04,100,levante_emv,1,"La procesión de Sant Vicent en Llíria, en imágenes",2026-04-13 17:08
-gualda,4,1,12.06,100,"google_news_economia, europapress",2,"Economía.- (AMP) Gualda (SEPI) defiende que Plus Ultra es ""estratégica"" para la conectividad y el turismo en España - Bolsamania",2026-04-13 17:08
-participan,3,1,9.04,100,"google_news_internacional, 20minutos",2,Unos 32 productores cántabros participan en el 39 Salón Internacional del Club de Gourmets - ifomo.es,2026-04-13 17:08
-defiende,10,5,6.03,100,"eldiario, google_news_economia, expansion, okdiario, europapress",5,La expareja de Koldo García no se reconoce en los wasaps sobre las ‘chistorras’ y defiende la legalidad de las entregas en efectivo del PSOE,2026-04-13 17:08
-varios,3,1,9.04,100,"eldiario, okdiario, sur",3,La isla que cuenta con una ley propia contra la contaminación lumínica y en la que podrás disfrutar de varios miradores astronómicos,2026-04-13 17:08
-efectivo,7,3,7.03,100,"europapress, elcorreo, eldiario, elmundo, levante_emv",5,Expareja de Koldo no reconoce los mensajes sobre dinero como 'chistorras' y dice que Ferraz pagaba gastos en efectivo,2026-04-13 17:08
-pagaba,3,0,5.0,100,"europapress, elmundo, levante_emv, elconfidencial",4,Expareja de Koldo no reconoce los mensajes sobre dinero como 'chistorras' y dice que Ferraz pagaba gastos en efectivo,2026-04-13 17:08
-impuso,4,0,5.0,100,"europapress, elmundo_internacional, elmundo, google_news_internacional",4,García Ortiz pide al TC que anule la condena que le impuso el Supremo por revelación de secretos de la pareja de Ayuso,2026-04-13 17:08
-police,3,0,5.0,100,sur,1,Alicante police arrest man who stabbed ex-partner's parents at their home in Malaga,2026-04-13 17:08
-migrantes,5,2,7.54,100,"newtral, elcorreo, elpais, 20minutos, eldiario",5,"El vídeo de inmigrantes en Melilla lanzando piedras a la Guardia Civil no es actual, son imágenes de 2021",2026-04-13 17:08
-goyescas,3,1,9.04,100,"google_news_es, heraldo_aragon",2,Zaragoza celebrará sus Fiestas Goyescas del 24 al 26 de abril - Onda Cero,2026-04-13 17:08
-amenazó,3,1,9.04,100,"lavanguardia, 20minutos",2,"Villarejo amenazó con “llevarse por delante” a Rajoy, apodado 'El barbas' por la trama Kitchen",2026-04-13 17:08
-barbas,3,1,9.04,100,"lavanguardia, 20minutos",2,"Villarejo amenazó con “llevarse por delante” a Rajoy, apodado 'El barbas' por la trama Kitchen",2026-04-13 17:08
-inestabilidad,3,1,9.04,100,"expansion, google_news_economia",2,"""A pesar de la inestabilidad energética, el mundo es más resiliente de lo esperado""",2026-04-13 17:08
-invertir,3,1,9.04,100,"efe, elpais",2,Aagesen sostiene que en España hay «un gran apetito» por invertir en proyectos sostenibles,2026-04-13 17:08
-sabemos,4,2,6.03,100,"20minutos, maldita",2,Así serán las nuevas gafas inteligentes de Apple con Siri: esto es todo lo que sabemos,2026-04-13 17:08
-requisitos,4,1,12.06,100,"lavanguardia, google_news_economia, elpais",3,"Los tres requisitos para que un mal olor se pueda considerar molesto en una comunidad de vecinos, según la Ley de Propiedad Horizontal",2026-04-13 17:08
-alberola,3,0,5.0,100,"elcorreo, okdiario",2,Alberola Rojas pitará en la final de la Copa del Rey,2026-04-13 17:08
-mbappé,4,1,12.06,100,"20minutos, okdiario",2,Arberola Rojas arbitrará la final de la Copa del Rey: es el que no señaló penalti sobre Mbappé ante el Girona,2026-04-13 17:08
-mayorías,3,0,5.0,100,"elmundo_internacional, elmundo, google_news_internacional",3,"Von der Leyen quiere cambiar el sistema de mayorías en las votaciones de la UE papara evitar ""bloqueos sistemáticos"" como el que impuso Orban",2026-04-13 17:08
-bloqueos,3,0,5.0,100,"elmundo_internacional, elmundo, google_news_internacional",3,"Von der Leyen quiere cambiar el sistema de mayorías en las votaciones de la UE papara evitar ""bloqueos sistemáticos"" como el que impuso Orban",2026-04-13 17:08
-sistemáticos,3,0,5.0,100,"elmundo_internacional, elmundo, google_news_internacional",3,"Von der Leyen quiere cambiar el sistema de mayorías en las votaciones de la UE papara evitar ""bloqueos sistemáticos"" como el que impuso Orban",2026-04-13 17:08
-premia,3,0,5.0,100,"google_news_internacional, huffington_es, levante_emv, 20minutos, heraldo_aragon",5,"Sonríe Tempranillo y Win Espumoso Rosé, premiados en e concurso internacional Cinve - Radio Intereconomía",2026-04-13 17:08
-“cumplía,3,0,5.0,100,"google_news_economia, elpais",2,SEPI defiende el rescate de Plus Ultra: “Cumplía con los requisitos. España hubiese sido menos competitiva para el turismo” - EL PAÍS,2026-04-13 17:08
-hubiese,3,0,5.0,100,"google_news_economia, elpais",2,SEPI defiende el rescate de Plus Ultra: “Cumplía con los requisitos. España hubiese sido menos competitiva para el turismo” - EL PAÍS,2026-04-13 17:08
-competitiva,3,0,5.0,100,"google_news_economia, elpais",2,SEPI defiende el rescate de Plus Ultra: “Cumplía con los requisitos. España hubiese sido menos competitiva para el turismo” - EL PAÍS,2026-04-13 17:08
-chistorras,3,0,5.0,100,"elpais, elespanol, europapress, eldiario, elmundo",5,La expareja de Koldo asegura que el PSOE era “muy rígido” al abonar los gastos y afirma no reconocer los mensajes de las “chistorras”,2026-04-13 17:08
-hablar,3,1,9.04,100,"elespanol, okdiario",2,"Patricia Uriz no recuerda hablar de ""chistorras"" y contradice al instructor del TS: el PSOE era ""muy rígido"" con los pagos",2026-04-13 17:08
-gáldar,3,0,5.0,100,google_news_internacional,1,12 días de actos para celebrar en Gáldar el Día Internacional del Libro 2026 - InfonorteDigital,2026-04-13 17:08
-mario,7,1,21.1,100,"levante_emv, google_news_internacional, google_news_es",3,"Mariona Caldentey, de romper mitos a encontrar la gloria: España e Inglaterra se citan en Wembley",2026-04-13 17:08
-asiático,3,0,5.0,100,"google_news_economia, okdiario",2,Bodegas Osborne se expande en Singapur para llevar vino español a todo el sudeste asiático - ABC,2026-04-13 17:08
-grabar,3,0,5.0,100,"elmundo, eldiario, elmundo_espana",3,El pederasta del Raval acepta 83 años de cárcel por violar a una menor de 12 años tutelada y grabar las agresiones sexuales,2026-04-13 17:08
-agresiones,3,1,9.04,100,"elmundo, eldiario, elespanol",3,El pederasta del Raval acepta 83 años de cárcel por violar a una menor de 12 años tutelada y grabar las agresiones sexuales,2026-04-13 17:08
-sexuales,3,0,5.0,100,"elmundo, elcorreo, levante_emv",3,El pederasta del Raval acepta 83 años de cárcel por violar a una menor de 12 años tutelada y grabar las agresiones sexuales,2026-04-13 17:08
-inmigración,3,0,5.0,100,"newtral, elmundo_espana, elespanol, okdiario",4,Cuentas antiinmigración viralizan una supuesta “invasión migratoria” a España con un vídeo grabado en Senegal,2026-04-13 17:08
-cámara,3,1,9.04,100,google_news_economia,1,Santander y Cámara de España amplían al 5 de mayo el plazo de inscripción para el Premio Pyme 2026 - Revista Capital,2026-04-13 17:08
-amplían,3,0,5.0,100,google_news_economia,1,Santander y Cámara de España amplían al 5 de mayo el plazo de inscripción para el Premio Pyme 2026 - Revista Capital,2026-04-13 17:08
-incluidos,3,1,9.04,100,"elpais, google_news_es",2,"El juez Peinado procesa a Begoña Gómez por cuatro delitos, incluidos malversación y tráfico de influencias tras una polémica instrucción",2026-04-13 17:08
-pedido,3,0,5.0,100,"maldita, newtral",2,"Cuidado con los contenidos que afirman que Pedro Sánchez ha pedido oficialmente la detención del “criminal” Netanyahu: a 13 de abril de 2026, no hay rastro de tales declaraciones",2026-04-13 17:08
-malaga,7,4,5.28,100,sur,1,Skateboarding showcase thrills as 12-year-old from Malaga shines on home stage,2026-04-13 17:08
-bienzobas,7,3,7.03,100,"okdiario, heraldo_aragon, elpais, huffington_es, 20minutos",5,El PP estalla por la excarcelación de Bienzobas: «Ninguna ley se creó para beneficiar a unos presos»,2026-04-13 17:08
-leyen,6,3,6.03,100,"heraldo_aragon, okdiario, elcorreo, levante_emv, elespanol",5,Zaragoza recibe a las mejores leyendas del balonmano en el Campeonato de España de veteranos y veteranas,2026-04-13 17:08
-cumplir,3,0,5.0,100,"okdiario, eldiario, elmundo",3,España necesita reducir un 43% más sus emisiones para cumplir los objetivos climáticos de la UE en 2030,2026-04-13 17:08
-llamada,3,1,9.04,100,"maldita, expansion, okdiario",3,"No, por devolver la llamada al teléfono 693955444 o al 636634795 no te cobrarán 1.500€ ni 1.355€",2026-04-13 17:08
-estratégica,5,3,5.02,100,"okdiario, google_news_economia, europapress",3,HONOR anuncia una alianza estratégica con ZXMOTO,2026-04-13 17:08
-pintura,3,1,9.04,100,"heraldo_aragon, google_news_internacional, elpais, google_news_es",4,El MNAC estudia la resolución judicial que pone fecha a la vuelta de las pinturas de Sijena,2026-04-13 17:08
-susanna,3,0,5.0,100,"20minutos, okdiario",2,"Susanna Griso, testigo de la entrega de un premio a Juan Carlos I: ""Fue autocrítico y le gustaría ver a la reina Sofía""",2026-04-13 17:08
-griso,3,0,5.0,100,"20minutos, okdiario",2,"Susanna Griso, testigo de la entrega de un premio a Juan Carlos I: ""Fue autocrítico y le gustaría ver a la reina Sofía""",2026-04-13 17:08
-ferraz,8,1,24.11,100,"heraldo_aragon, europapress, elcorreo, elmundo, 20minutos",5,"La exmujer de Koldo dice que ""Ferraz era muy rígido"" con los reintegros de gastos a José Luis Ábalos",2026-04-13 17:08
-reglas,3,1,9.04,100,"okdiario, eldiario, elcorreo",3,China desafía las reglas de la ingeniería: construye un macropuente de 24 km sobre el mar con túnel y 2 islas artificiales,2026-04-13 17:08
-islas,3,0,5.0,100,"okdiario, huffington_es, lavanguardia",3,China desafía las reglas de la ingeniería: construye un macropuente de 24 km sobre el mar con túnel y 2 islas artificiales,2026-04-13 17:08
-spain's,4,0,5.0,100,sur,1,Housing prices in Spain's suburbs spiral out of control with more than 100% increases in three years,2026-04-13 17:08
-aagesen,3,0,5.0,100,"google_news_economia, efe",2,Aagesen detalla que el fondo España Crece reserva al menos 2.800 millones para acción climática - Demócrata,2026-04-13 17:08
-grado,6,2,9.04,100,"google_news_internacional, sur, heraldo_aragon, huffington_es, 20minutos",5,"Internacional de Andalucía, 25 años de universidad de posgrado en Málaga - Diario Sur",2026-04-13 17:08
-asesino,6,2,9.04,100,"heraldo_aragon, elpais, huffington_es, 20minutos, eldiario",5,"El Gobierno Vasco concede el tercer grado al preso de ETA Jon Bienzobas, asesino de Tomás y Valiente",2026-04-13 17:08
-tomás,7,2,10.55,100,"heraldo_aragon, elpais, huffington_es, 20minutos, eldiario",5,"El Gobierno Vasco concede el tercer grado al preso de ETA Jon Bienzobas, asesino de Tomás y Valiente",2026-04-13 17:08
-valiente,7,3,7.03,100,"levante_emv, heraldo_aragon, elpais, huffington_es, 20minutos",5,"Flick: ""Tenemos que ser valientes. Creer que lo podemos lograr""",2026-04-13 17:08
-denunciado,4,0,5.0,100,"elespanol, elpais, okdiario",3,"Óscar Freire, condenado por un delito de injurias tras ser denunciado por su mujer por maltrato en el ámbito familiar",2026-04-13 17:08
-libertad,5,3,5.02,100,"okdiario, france24_es, elpais, google_news_internacional, lavanguardia",5,"Avance de ‘Sueños de libertad’ de hoy, 13 de abril: Beatriz descubre algo sobre Begoña y Gabriel",2026-04-13 17:08
-etarra,4,2,6.03,100,"elpais, 20minutos, elmundo",3,"El Gobierno vasco da la semilibertad al etarra Jon Bienzobas, asesino de Tomás y Valiente",2026-04-13 17:08
-eliminar,5,2,7.54,100,"okdiario, google_news_es, elpais, google_news_internacional, europapress",5,Trump amenaza con «eliminar inmediatamente» en Ormuz cualquier buque iraní que intente sortear el bloqueo de EEUU,2026-04-13 17:08
-extra,3,1,9.04,100,"huffington_es, levante_emv, eldiario, elespanol, elmundo",5,Bruselas advierte de que la regularización extraordinaria del Gobierno &quot;puede tener consecuencias en el resto de la UE&quot;: &quot;Las autoridades tendrán que cooperar&quot;,2026-04-13 17:08
-clientes,9,1,27.13,100,"okdiario, levante_emv, 20minutos, elmundo, heraldo_aragon",5,Booking sufre el robo de datos personales de sus clientes tras un ciberataque,2026-04-13 17:08
-alguien,3,0,5.0,100,"huffington_es, elmundo, google_news_es",3,"Leonard Cohen, cantautor y poeta: &quot;Un pesimista es alguien que espera a que llueva, y yo me siento completamente empapado hasta los huesos&quot;",2026-04-13 17:08
-cholo,6,0,5.0,100,"levante_emv, elcorreo, elmundo, google_news_es, elpais",5,"Lamine Yamal: ""A ver si el Cholo me hace un favor y me pone uno contra uno con un jugador""",2026-04-13 17:08
-favor,6,1,18.09,100,"levante_emv, elcorreo, elmundo, google_news_es, okdiario",5,"Lamine Yamal: ""A ver si el Cholo me hace un favor y me pone uno contra uno con un jugador""",2026-04-13 17:08
-nicole,3,0,5.0,100,"huffington_es, lavanguardia, elpais",3,Nicole Kidman sorprende con su nueva profesión: doula de la muerte,2026-04-13 17:08
-kidman,3,0,5.0,100,"huffington_es, lavanguardia, elpais",3,Nicole Kidman sorprende con su nueva profesión: doula de la muerte,2026-04-13 17:08
-doula,3,0,5.0,100,"huffington_es, lavanguardia, elpais",3,Nicole Kidman sorprende con su nueva profesión: doula de la muerte,2026-04-13 17:08
-booking,4,1,12.06,100,"okdiario, levante_emv, 20minutos, elmundo, heraldo_aragon",5,Booking sufre el robo de datos personales de sus clientes tras un ciberataque,2026-04-13 17:08
-personales,5,0,5.0,100,"okdiario, sur, elpais, elmundo, eldiario",5,Booking sufre el robo de datos personales de sus clientes tras un ciberataque,2026-04-13 17:08
-ciberataque,8,0,5.0,100,"okdiario, levante_emv, elmundo, heraldo_aragon, expansion",5,Booking sufre el robo de datos personales de sus clientes tras un ciberataque,2026-04-13 17:08
-ester,3,1,9.04,100,"huffington_es, newtral",2,"Es cierto lo que dice Ester Muñoz, del PP: la izquierda obtuvo 0 escaños en Hungría, pero porque decidió no presentarse",2026-04-13 17:08
-muñoz,3,1,9.04,100,"huffington_es, newtral",2,"Es cierto lo que dice Ester Muñoz, del PP: la izquierda obtuvo 0 escaños en Hungría, pero porque decidió no presentarse",2026-04-13 17:08
-musical,4,2,6.03,100,"sur, elcorreo, google_news_internacional",3,Entradas Tootsie- El Musical en el Teatro del Soho CaixaBank a mitad de precio,2026-04-13 17:08
-último,9,5,5.43,100,"elcorreo, levante_emv, 20minutos, elpais, google_news_politica",5,Últimos ensayos de los concursantes de OT antes del arranque de la gira en Bilbao,2026-04-13 17:08
-millonaria,3,0,5.0,100,"elpais, 20minutos, levante_emv",3,Un juez desestima la demanda millonaria de Trump contra Murdoch y ‘The Wall Street Journal’ por el dibujo erótico enviado a Epstein,2026-04-13 17:08
-optará,3,0,5.0,100,"elmundo, expansion, lavanguardia",3,La alcaldesa Agirre (PNV) agrava la parálisis en Getxo al anunciar que no optará a la reelección tras el escándalo del palacete,2026-04-13 17:08
-reelección,3,0,5.0,100,"elmundo, lavanguardia, elcorreo",3,La alcaldesa Agirre (PNV) agrava la parálisis en Getxo al anunciar que no optará a la reelección tras el escándalo del palacete,2026-04-13 17:08
-escándalo,3,0,5.0,100,"elmundo, okdiario",2,La alcaldesa Agirre (PNV) agrava la parálisis en Getxo al anunciar que no optará a la reelección tras el escándalo del palacete,2026-04-13 17:08
-llegada,4,1,12.06,100,"europapress, lavanguardia, sur, elespanol",4,"Sheinbaum destaca que ""hay un avance"" en cómo el Rey Felipe VI percibe la llegada de los españoles a México",2026-04-13 17:08
-flick,3,0,5.0,100,"levante_emv, lavanguardia, okdiario, elpais",4,"Flick: ""Tenemos que ser valientes. Creer que lo podemos lograr""",2026-04-13 17:08
-cambiar,5,3,5.02,100,"heraldo_aragon, france24_es, huffington_es, elpais, google_news_internacional",5,¿Qué puede cambiar en la UE tras la caída de Viktor Orban en Hungría?,2026-04-13 17:08
-paciente,8,1,24.11,100,"levante_emv, google_news_es, 20minutos, heraldo_aragon, okdiario",5,"Un paciente de Oslo, el décimo caso de curación del VIH en el mundo tras un trasplante de células madre",2026-04-13 17:08
-décimo,6,0,5.0,100,"levante_emv, 20minutos, heraldo_aragon, okdiario, google_news_es",5,"Un paciente de Oslo, el décimo caso de curación del VIH en el mundo tras un trasplante de células madre",2026-04-13 17:08
-lamine,10,5,6.03,100,"levante_emv, elcorreo, elmundo, google_news_es, lavanguardia",5,"Lamine Yamal: ""A ver si el Cholo me hace un favor y me pone uno contra uno con un jugador""",2026-04-13 17:08
-taller,3,1,9.04,100,"google_news_internacional, eldiario, okdiario",3,La UJA celebra el Día Internacional de la Danza con un taller de iniciación al baile flamenco - Cadena SER,2026-04-13 17:08
-trasplante,6,0,5.0,100,"levante_emv, google_news_es, heraldo_aragon, elpais, elmundo",5,"Un paciente de Oslo, el décimo caso de curación del VIH en el mundo tras un trasplante de células madre",2026-04-13 17:08
-personal,4,1,12.06,100,"huffington_es, okdiario, sur, elpais, elmundo",5,"&#039;Famesick&#039;, la autobiografía de Lena Dunham en la que revela lo complicado de su vida personal: &quot;Adam Driver me gritó y tiró una silla&quot;",2026-04-13 17:08
-acogerá,3,0,5.0,100,"elcorreo, google_news_internacional",2,Amorebieta acogerá este jueves la I Feria de Formación y Empleo Joven,2026-04-13 17:08
-durango,3,0,5.0,100,elcorreo,1,El Elkartegi de Durango acoge mañana una conferencia sobre las vidas de mujeres ejemplares y sumidas en el olvido,2026-04-13 17:08
-inicia,7,3,7.03,100,"levante_emv, elcorreo, google_news_internacional, okdiario, elpais",5,"Catarroja inicia la rehabilitación de su sede de Servicios Sociales, afectada por la dana, con fondos estatales y un plazo de cuatro meses",2026-04-13 17:08
-sociales,6,2,9.04,100,"levante_emv, google_news_internacional, heraldo_aragon, elmundo_espana, newtral",5,"Catarroja inicia la rehabilitación de su sede de Servicios Sociales, afectada por la dana, con fondos estatales y un plazo de cuatro meses",2026-04-13 17:08
-jesucristo,4,2,6.03,100,"elcorreo, elespanol, 20minutos",3,El presidente de EEUU borra su polémica foto en la que se retrataba como Jesucristo,2026-04-13 17:08
-inmediatamente»,3,0,5.0,100,"okdiario, sur, elcorreo",3,Trump amenaza con «eliminar inmediatamente» en Ormuz cualquier buque iraní que intente sortear el bloqueo de EEUU,2026-04-13 17:08
-iraní,8,2,12.06,100,"okdiario, elespanol, heraldo_aragon, google_news_es, elmundo_internacional",5,Trump amenaza con «eliminar inmediatamente» en Ormuz cualquier buque iraní que intente sortear el bloqueo de EEUU,2026-04-13 17:08
-médicos,4,2,6.03,100,"elcorreo, levante_emv, eldiario, newtral",4,Médicos y enfermeras de la zona de Añana y Valdegovía inician una semana de huelga,2026-04-13 17:08
-huelga,3,1,9.04,100,"elcorreo, sur, eldiario",3,Médicos y enfermeras de la zona de Añana y Valdegovía inician una semana de huelga,2026-04-13 17:08
-dentro,6,1,18.09,100,"elcorreo, levante_emv, google_news_es, 20minutos",4,Malestar en los pueblos cercanos que no podrán aparcar dentro de Lekeitio,2026-04-13 17:08
-reclaman,3,1,9.04,100,"levante_emv, 20minutos",2,Los Comités de Reconstrucción reclaman al Gobierno un plan para mejorar Cercanías y Metrovalencia ante el deterioro del transporte,2026-04-13 17:08
-wembley,3,0,5.0,100,"levante_emv, okdiario, google_news_es",3,"Mariona Caldentey, de romper mitos a encontrar la gloria: España e Inglaterra se citan en Wembley",2026-04-13 17:08
-tramo,4,1,12.06,100,"elcorreo, levante_emv, heraldo_aragon",3,El Aurrera de Ondarroa y el Bermeo miran sin problemas al tramo final de la Liga,2026-04-13 17:08
-villarejo,5,3,5.02,100,"20minutos, elmundo_espana, lavanguardia",3,El agente que instruyó la investigación contra Villarejo testifica que el comisario reportaba sobre la Kitchen al dos de Interior y también al DAO,2026-04-13 17:08
-federación,4,0,5.0,100,"google_news_internacional, google_news_es, okdiario",3,Maite Jiménez-Orta y Jesús Vela continúan con una buena progresión internacional en su paso por la Copa de Europa de Monte Gordo - Federación Andaluza de Triatlón,2026-04-13 17:08
-eliminado,5,1,15.07,100,"elespanol, heraldo_aragon, sur, elmundo_internacional, lavanguardia",5,"Trump, tras comenzar el bloqueo en Ormuz: ""Si algún buque iraní se acerca, será eliminado inmediatamente""",2026-04-13 17:08
-sheinbaum,6,1,18.09,100,"eldiario, levante_emv, europapress, elpais, google_news_politica",5,"Sheinbaum reconoce los gestos de España sobre la conquista antes de su visita a Barcelona, pero insiste: ""Saquearon nuestros territorios durante 300 años""",2026-04-13 17:08
-organización,6,0,5.0,100,"levante_emv, google_news_internacional, lavanguardia",3,La Organización Marítima Internacional avisa a EEUU que un bloqueo del estrecho de Ormuz va contra la ley internacional,2026-04-13 17:08
-marítima,5,0,5.0,100,"levante_emv, google_news_internacional",2,La Organización Marítima Internacional avisa a EEUU que un bloqueo del estrecho de Ormuz va contra la ley internacional,2026-04-13 17:08
-régimen,4,0,5.0,100,"okdiario, 20minutos, elespanol",3,El juez acusa a Begoña de conductas propias de un régimen absolutista: «Habría que remontarse a Fernando VII»,2026-04-13 17:08
-complicado,3,0,5.0,100,"huffington_es, heraldo_aragon, 20minutos",3,"&#039;Famesick&#039;, la autobiografía de Lena Dunham en la que revela lo complicado de su vida personal: &quot;Adam Driver me gritó y tiró una silla&quot;",2026-04-13 17:08
-curación,4,0,5.0,100,"levante_emv, heraldo_aragon, okdiario, elmundo",4,"Un paciente de Oslo, el décimo caso de curación del VIH en el mundo tras un trasplante de células madre",2026-04-13 17:08
-turismo”,3,0,5.0,100,"google_news_economia, elpais",2,SEPI defiende el rescate de Plus Ultra: “Cumplía con los requisitos. España hubiese sido menos competitiva para el turismo” - EL PAÍS,2026-04-13 17:08
-decisión,3,0,5.0,100,"okdiario, elcorreo, google_news_politica",3,"Avance de ‘La Promesa’ de hoy, 13 de abril: María Fernández toma una decisión sobre su futuro",2026-04-13 17:08
-ponga,3,0,5.0,100,"elmundo, google_news_es, elpais",3,"Lamine y su táctica para remontar ante el Atlético: ""Ojalá el Cholo me haga un favor y me ponga uno contra uno con alguien""",2026-04-13 17:08
-concierto,4,2,6.03,100,"sur, levante_emv, lavanguardia, eldiario, huffington_es",5,"De Alaska a Marisol, sin olvidar a Nino Bravo: 400 niños de Alhaurín de la Torre preparan su primer concierto y tienen lleno asegurado",2026-04-13 17:08
-células,7,0,5.0,100,"levante_emv, google_news_es, heraldo_aragon, elpais, elmundo",5,"Un paciente de Oslo, el décimo caso de curación del VIH en el mundo tras un trasplante de células madre",2026-04-13 17:08
-carta,3,1,9.04,100,"heraldo_aragon, 20minutos, eldiario, elcorreo",4,Un millar de artistas de Hollywood firman una carta contra la fusión de Warner y Paramount,2026-04-13 17:08
-fusión,3,0,5.0,100,"heraldo_aragon, expansion, eldiario, elmundo_espana",4,Un millar de artistas de Hollywood firman una carta contra la fusión de Warner y Paramount,2026-04-13 17:08
-fecha,4,2,6.03,100,"okdiario, 20minutos, heraldo_aragon, google_news_es",4,"‘The Invite’: fecha de estreno, reparto y todo sobre el ‘remake’ de ‘Sentimental’ con Penélope Cruz",2026-04-13 17:08
-táctica,3,1,9.04,100,"lavanguardia, elmundo, google_news_es",3,Flick:“Remontar dependerá de la táctica y también de las emociones; hay que creer”,2026-04-13 17:08
-remontar,3,0,5.0,100,"okdiario, lavanguardia, elmundo, google_news_es",4,El juez acusa a Begoña de conductas propias de un régimen absolutista: «Habría que remontarse a Fernando VII»,2026-04-13 17:08
-denuncia,9,4,6.78,100,"levante_emv, elcorreo, google_news_es, 20minutos, elespanol",5,"El relato de una mujer que denuncia una agresión sexual en Castellón: «Cogí una toalla, me tapé sólo con eso y escapé a la calle»",2026-04-13 17:08
-propias,3,2,4.52,90,"okdiario, elconfidencial, google_news_politica",3,El juez acusa a Begoña de conductas propias de un régimen absolutista: «Habría que remontarse a Fernando VII»,2026-04-13 17:08
-ayudas,3,2,4.52,90,"okdiario, elpais, levante_emv",3,El Gobierno de Ayuso lo confirma y la agricultura lo celebra: se mantienen las dos ayudas más necesarias para el sector,2026-04-13 17:08
-información,3,2,4.52,90,"elmundo_espana, google_news_internacional, 20minutos",3,"""Me lo llevo por delante; le busco una avería"": el investigador del 'caso Kitchen' recuerda en el juicio la amenaza de Villarejo a Rajoy de  sacar ""información comprometedora""",2026-04-13 17:08
-felipe,3,2,4.52,90,"google_news_internacional, europapress, huffington_es",3,La Final Six de la Euroliga más internacional: Zaragoza acogerá en el pabellón Príncipe Felipe a jugadoras de 22 países - El Periódico de Aragón,2026-04-13 17:08
-pantalla,3,2,4.52,90,"lavanguardia, 20minutos",2,Lenovo tiene la tablet que se usa para todo: gran batería y pantalla,2026-04-13 17:08
-empresario,3,2,4.52,90,"eldiario, heraldo_aragon",2,Detenidos un empresario y un encargado por la contratación irregular de ocho migrantes en granjas de Lorca y Puerto Lumbreras,2026-04-13 17:08
-preparan,3,2,4.52,90,"sur, elcorreo, lavanguardia",3,"De Alaska a Marisol, sin olvidar a Nino Bravo: 400 niños de Alhaurín de la Torre preparan su primer concierto y tienen lleno asegurado",2026-04-13 17:08
-disponible,3,2,4.52,90,"heraldo_aragon, 20minutos",2,El nuevo tratamiento inyectable para prevenir el VIH ya está disponible en España,2026-04-13 17:08
-presión,3,2,4.52,90,"levante_emv, google_news_internacional, okdiario",3,"Netanyahu, entre la decepción interna por no lograr resultados en Irán y la presión internacional para detener los ataques en el Líbano",2026-04-13 17:08
-especial,3,2,4.52,90,"20minutos, huffington_es, sur, levante_emv, google_news_es",5,"'El precio justo' arranca una semana especial en la que quiere ayudar a pagar facturas: ""¡Recibos fuera!""",2026-04-13 17:08
-plazo,6,4,4.52,90,"levante_emv, google_news_economia, france24_es",3,"Catarroja inicia la rehabilitación de su sede de Servicios Sociales, afectada por la dana, con fondos estatales y un plazo de cuatro meses",2026-04-13 17:08
-procesar,3,2,4.52,90,"levante_emv, google_news_politica, okdiario",3,Bolaños replica al juez Peinado tras procesar a Begoña Gómez: “Un tribunal imparcial lo revocará”,2026-04-13 17:08
-inteligencia,6,4,4.52,90,"eldiario, efe, maldita, google_news_economia, france24_es",5,La inteligencia artificial falla en los diagnósticos médicos sin supervisión humana,2026-04-13 17:08
-renovables,3,2,4.52,90,"expansion, google_news_economia",2,"Baterías e interconexiones, claves para el desarrollo de las renovables",2026-04-13 17:08
-foment,3,2,4.52,90,"eldiario, expansion, lavanguardia",3,Foment adelanta sus elecciones a mayo y Sánchez Libre repetirá como candidato a presidente,2026-04-13 17:08
-recuerda,3,2,4.52,90,"elmundo_espana, elespanol, elmundo",3,"""Me lo llevo por delante; le busco una avería"": el investigador del 'caso Kitchen' recuerda en el juicio la amenaza de Villarejo a Rajoy de  sacar ""información comprometedora""",2026-04-13 17:08
-redes,9,6,4.52,90,"elespanol, levante_emv, eldiario, heraldo_aragon, elmundo_espana",5,Trump da marcha atrás y elimina de sus redes la imagen hecha con IA en la que se compara con Jesucristo,2026-04-13 17:08
-artificial,6,4,4.52,90,"eldiario, okdiario, efe, maldita, google_news_economia",5,La inteligencia artificial falla en los diagnósticos médicos sin supervisión humana,2026-04-13 17:08
-promete,3,2,4.52,90,"elmundo_espana, 20minutos, sur, europapress, google_news_internacional",5,"""Me lo llevo por delante; le busco una avería"": el investigador del 'caso Kitchen' recuerda en el juicio la amenaza de Villarejo a Rajoy de  sacar ""información comprometedora""",2026-04-13 17:08
-palabras,3,2,4.52,90,"maldita, huffington_es, lavanguardia",3,"Sí, Donald Trump ha calificado de “débil” al papa León XIV en un post de Truth Social a raíz de las palabras del pontífice sobre poner fin a los ataques en Irán",2026-04-13 17:08
-fiestas,3,2,4.52,90,"google_news_es, heraldo_aragon",2,Zaragoza celebrará sus Fiestas Goyescas del 24 al 26 de abril - Onda Cero,2026-04-13 17:08
-empleo,3,2,4.52,90,"elcorreo, levante_emv",2,Amorebieta acogerá este jueves la I Feria de Formación y Empleo Joven,2026-04-13 17:08
-húngaro,3,2,4.52,90,"elmundo_internacional, levante_emv, newtral, elcorreo",4,"Péter Magyar pide la dimisión del presidente húngaro y le acusa de actuar como ""títere"" de Orban",2026-04-13 17:08
-ciclismo,3,2,4.52,90,"heraldo_aragon, levante_emv",2,Detenido el triple campeón del mundo de ciclismo Óscar Freire tras la denuncia de su mujer,2026-04-13 17:08
-bloquea,3,2,4.52,90,"google_news_es, expansion, levante_emv, huffington_es, elpais",5,"Guerra entre Estados Unidos, Israel e Irán, EN VIVO: la Marina de Estados Unidos ya bloquea el estrecho de Ormuz y Trump amenaza con eliminar cualquier buque iraní que se acerque - Clarin.com",2026-04-13 17:08
-viene,3,2,4.52,90,"lavanguardia, google_news_es, france24_es",3,Magyar: de dónde viene el apellido del cambio en Hungría,2026-04-13 17:08
-viviendas,3,2,4.52,90,"okdiario, newtral, sur",3,"Alicante inicia su otro PGOU: un superparque con 1.400 viviendas, 14 vías y 420 millones de inversión",2026-04-13 17:08
-construye,3,2,4.52,90,"okdiario, google_news_internacional",2,Chile rompe los récords: construye 195 km de tuberías para llevar agua del mar a una mina a 4.400 metros de altitud,2026-04-13 17:08
-granada,3,2,4.52,90,"okdiario, google_news_internacional",2,Un informe jurídico rechaza prohibir el burka en Granada pese a que la moción de Vox salió adelante,2026-04-13 17:08
-caras,3,2,4.52,90,"okdiario, sur",2,Las dos caras de Lamine: de estallar por el «musulmán el que no bote» a cánticos ofensivos contra el Espanyol,2026-04-13 17:08
-rechaza,6,4,4.52,90,"heraldo_aragon, okdiario, elcorreo, eldiario, efe",5,Lío vecinal por el cierre nocturno del parque Bruil de Zaragoza: la FABZ lo rechaza y pide una solución para los sintecho,2026-04-13 17:08
-rescate,6,4,4.52,90,"heraldo_aragon, okdiario, 20minutos, google_news_economia, elpais",5,Complicado rescate en el Aneto: 8 horas para auxiliar a un esquiador a pie y en moto de nieve,2026-04-13 17:08
-límite,3,2,4.52,90,"elcorreo, france24_es",2,El SEPE exigirá devolver los cobros indebidos del subsidio de mayores de 52 años si se supera el límite de rentas,2026-04-13 17:08
-delante,3,2,4.52,90,"elmundo_espana, okdiario, eldiario, lavanguardia, 20minutos",5,"""Me lo llevo por delante; le busco una avería"": el investigador del 'caso Kitchen' recuerda en el juicio la amenaza de Villarejo a Rajoy de  sacar ""información comprometedora""",2026-04-13 17:08
-tenemos,3,2,4.52,90,"levante_emv, 20minutos, elmundo",3,"Flick: ""Tenemos que ser valientes. Creer que lo podemos lograr""",2026-04-13 17:08
-presenta,10,7,4.31,86,"google_news_es, heraldo_aragon, levante_emv, sur, huffington_es",5,Indra presenta en la feria UDT de Londres sus tecnologías de vanguardia para submarinos de última generación - Empresa Exterior,2026-04-13 17:08
-muestra,7,5,4.22,84,"okdiario, 20minutos, huffington_es, maldita, google_news_es",5,‘Los juegos del hambre’ prepara su película definitiva: ‘Amanecer en la cosecha’ muestra un nuevo y épico tráiler,2026-04-13 17:08
-yamal,7,5,4.22,84,"levante_emv, elcorreo, lavanguardia, okdiario, elpais",5,"Lamine Yamal: ""A ver si el Cholo me hace un favor y me pone uno contra uno con un jugador""",2026-04-13 17:08
-metro,7,5,4.22,84,"levante_emv, 20minutos, expansion, okdiario, google_news_es",5,Los Comités de Reconstrucción reclaman al Gobierno un plan para mejorar Cercanías y Metrovalencia ante el deterioro del transporte,2026-04-13 17:08
-berlín,4,3,4.02,80,"elpais, google_news_es, google_news_internacional, 20minutos",4,Las lecciones que dejan los 10 ‘curados’ del VIH tras un trasplante de células madre: del icónico caso de Berlín al ‘paciente de Oslo’,2026-04-13 17:08
-exmujer,4,3,4.02,80,"heraldo_aragon, elcorreo, levante_emv",3,"La exmujer de Koldo dice que ""Ferraz era muy rígido"" con los reintegros de gastos a José Luis Ábalos",2026-04-13 17:08
-causa,4,3,4.02,80,"levante_emv, europapress",2,"Reabren la causa por presuntos abusos sexuales a alumnos de preescolar en un colegio religioso de Torrent al ver ""indicios claros""",2026-04-13 17:08
-vicente,4,3,4.02,80,levante_emv,1,La Ofrenda a San Vicente acaba... con incendio de una palmera,2026-04-13 17:08
-millón,4,3,4.02,80,"eldiario, google_news_internacional, levante_emv, 20minutos",4,Roban los datos personales y bancarios de un millón de socios de los gimnasios Basic-Fit,2026-04-13 17:08
-trimestre,4,3,4.02,80,"google_news_economia, okdiario, 20minutos",3,España registra 38.135 nuevas empresas en el primer trimestre del año - Economía 3,2026-04-13 17:08
-diputación,4,3,4.02,80,"levante_emv, eldiario, europapress",3,Ontinyent inicia la mejora del Carril de la Costa con una subvención de 490.000 euros de la Diputación,2026-04-13 17:08
-entradas,4,3,4.02,80,"sur, elcorreo, heraldo_aragon",3,Entradas Tootsie- El Musical en el Teatro del Soho CaixaBank a mitad de precio,2026-04-13 17:08
-destaca,4,3,4.02,80,"levante_emv, europapress, elespanol, sur",4,"Sheinbaum destaca un ""acercamiento distinto"" de España en el último año sobre los agravios de la Conquista",2026-04-13 17:08
-alianza,4,3,4.02,80,"sur, okdiario, google_news_internacional",3,Unicaja y Wizink negocian una alianza para sumar fuerzas en préstamos al consumo,2026-04-13 17:08
-judicial,4,3,4.02,80,"heraldo_aragon, elmundo_espana, google_news_es",3,El MNAC estudia la resolución judicial que pone fecha a la vuelta de las pinturas de Sijena,2026-04-13 17:08
-bruselas,4,3,4.02,80,"huffington_es, elpais, 20minutos",3,Bruselas advierte de que la regularización extraordinaria del Gobierno &quot;puede tener consecuencias en el resto de la UE&quot;: &quot;Las autoridades tendrán que cooperar&quot;,2026-04-13 17:08
-pleno,4,3,4.02,80,"levante_emv, elpais, heraldo_aragon",3,Compromís propone al pleno reivindicar los servicios sanitarios necesarios para Ontinyent y la apertura del nuevo hospital,2026-04-13 17:08
-fundación,4,3,4.02,80,"sur, google_news_internacional, google_news_es",3,Fundación Unicaja renueva su apoyo al Obispado de Málaga para la conservación del patrimonio histórico-artístico de la provincia,2026-04-13 17:08
-vídeo,5,4,3.77,75,"newtral, maldita",2,Cuentas antiinmigración viralizan una supuesta “invasión migratoria” a España con un vídeo grabado en Senegal,2026-04-13 17:08
-sistema,5,4,3.77,75,"heraldo_aragon, levante_emv, elpais, elmundo_internacional, elmundo",5,"Los expertos coinciden: ""Para limpiar la mampara hay que elegir sistemas de liberación de puertas o tratamientos antical""",2026-04-13 17:08
-reservas,5,4,3.77,75,"elmundo, heraldo_aragon, levante_emv, google_news_economia",4,La plataforma Booking sufre un ciberataque que expone datos de reservas de clientes,2026-04-13 17:08
-junio,5,4,3.77,75,"google_news_es, huffington_es, elmundo, 20minutos, expansion",5,La séptima edición de Santander Escénica ofrecerá 19 experiencias artísticas para conectar con el teatro y la danza de la ciudad de abril a junio - santandercreativa.com,2026-04-13 17:08
-atlético,5,4,3.77,75,"elmundo, google_news_es, elpais",3,"Lamine y su táctica para remontar ante el Atlético: ""Ojalá el Cholo me haga un favor y me ponga uno contra uno con alguien""",2026-04-13 17:08
-moncloa,6,5,3.62,72,"heraldo_aragon, google_news_politica, google_news_es, elmundo",4,"""Indignación"" en Moncloa por el auto de Peinado contra Begoña Gómez en pleno viaje oficial a China",2026-04-13 17:08
-vuelos,6,5,3.62,72,"20minutos, okdiario, huffington_es, elmundo, expansion",5,Qué aerolíneas siguen volando a Cuba tras la cancelación de todos los vuelos de Iberia a la isla,2026-04-13 17:08
-polémica,6,5,3.62,72,"elcorreo, 20minutos, levante_emv, elpais, google_news_es",5,El presidente de EEUU borra su polémica foto en la que se retrataba como Jesucristo,2026-04-13 17:08
-crisis,12,10,3.62,72,"france24_es, google_news_politica, elpais, okdiario, lavanguardia",5,Geopolítica del café: ¿puede la crisis global cambiar el consumo mundial?,2026-04-13 17:08
-acusa,7,6,3.52,70,"okdiario, elmundo_internacional, 20minutos, google_news_es, lavanguardia",5,El juez acusa a Begoña de conductas propias de un régimen absolutista: «Habría que remontarse a Fernando VII»,2026-04-13 17:08
-menor,8,7,3.44,68,"elpais, elcorreo, lavanguardia, heraldo_aragon, google_news_internacional",5,La Audiencia de Valencia cuestiona la “deriva procesal” de un caso de agresión sexual a 11 menores en un colegio del Opus: “Los niños deben ser oídos”,2026-04-13 17:08
-tráfico,9,8,3.39,67,"huffington_es, google_news_internacional, elpais, google_news_es, sur",5,Ester Muñoz compara al soldado español retenido por Israel con un control de tráfico y lo que le responde un transportista es demoledor,2026-04-13 17:08
-premio,9,8,3.39,67,"levante_emv, google_news_internacional, google_news_economia, 20minutos, elpais",5,El hotel Las Arenas acoge una nueva edición de los Premios Empresa del Año Banco Sabadell,2026-04-13 17:08
-londres,3,3,3.01,60,"google_news_es, google_news_internacional, huffington_es",3,Indra presenta en la feria UDT de Londres sus tecnologías de vanguardia para submarinos de última generación - Empresa Exterior,2026-04-13 17:08
-parque,5,5,3.01,60,"okdiario, heraldo_aragon, elpais",3,"Alicante inicia su otro PGOU: un superparque con 1.400 viviendas, 14 vías y 420 millones de inversión",2026-04-13 17:08
-proyección,3,3,3.01,60,google_news_internacional,1,Dansa València refuerza su proyección internacional con un centenar de agentes culturales - Actualidad Valencia,2026-04-13 17:08
-romper,3,3,3.01,60,"levante_emv, elpais, google_news_internacional",3,"Mariona Caldentey, de romper mitos a encontrar la gloria: España e Inglaterra se citan en Wembley",2026-04-13 17:08
-descuentos,3,3,3.01,60,"levante_emv, lavanguardia",2,La Feria del Vehículo de Ocasión de València reúne 2.000 coches con descuentos desde este viernes,2026-04-13 17:08
-banquillo,3,3,3.01,60,"elconfidencial, elcorreo",2,"Begoña Gómez, camino del banquillo por “conductas propias de regímenes absolutistas”",2026-04-13 17:08
-comunidad,9,9,3.01,60,"google_news_internacional, google_news_es, elpais, lavanguardia",4,Tres años de guerra en Sudán: las ONG instan a la comunidad internacional a actuar en la Conferencia de Berlín ante una crisis humanitaria sin precedentes - La Coordinadora de Organizaciones para el Desarrollo,2026-04-13 17:08
-imagen,6,6,3.01,60,"heraldo_aragon, elespanol, elcorreo, maldita, newtral",5,Trump elimina la imagen que publicó representado como Jesús tras una oleada de críticas por blasfemia,2026-04-13 17:08
-actos,3,3,3.01,60,"google_news_internacional, 20minutos, okdiario",3,12 días de actos para celebrar en Gáldar el Día Internacional del Libro 2026 - InfonorteDigital,2026-04-13 17:08
-viaje,7,7,3.01,60,"heraldo_aragon, 20minutos, sur, elpais, eldiario",5,"""Indignación"" en Moncloa por el auto de Peinado contra Begoña Gómez en pleno viaje oficial a China",2026-04-13 17:08
-reconoce,13,13,3.01,60,"eldiario, elpais, google_news_politica, europapress, elcorreo",5,"Sheinbaum reconoce los gestos de España sobre la conquista antes de su visita a Barcelona, pero insiste: ""Saquearon nuestros territorios durante 300 años""",2026-04-13 17:08
-ontinyent,3,3,3.01,60,levante_emv,1,Compromís propone al pleno reivindicar los servicios sanitarios necesarios para Ontinyent y la apertura del nuevo hospital,2026-04-13 17:08
-preso,3,3,3.01,60,"elcorreo, okdiario, heraldo_aragon, huffington_es, eldiario",5,Dos postales de presos polacos pasan a formar parte del Centro de Interpretación de Miranda,2026-04-13 17:08
-logran,3,3,3.01,60,"okdiario, efe, elpais",3,Hito colosal de la ciencia española: investigadores gallegos logran criopreservar por primera vez larvas de medusa,2026-04-13 17:08
-pruebas,3,3,3.01,60,"sur, europapress",2,"Juanpe no se entrena, a la espera de pruebas médicas",2026-04-13 17:08
-reparto,3,3,3.01,60,"okdiario, eldiario, sur",3,"‘The Invite’: fecha de estreno, reparto y todo sobre el ‘remake’ de ‘Sentimental’ con Penélope Cruz",2026-04-13 17:08
-influencias,3,3,3.01,60,"elpais, google_news_es",2,"El juez Peinado procesa a Begoña Gómez por cuatro delitos, incluidos malversación y tráfico de influencias tras una polémica instrucción",2026-04-13 17:08
-asegura,7,7,3.01,60,"elcorreo, sur, elpais, google_news_internacional, google_news_es",5,Última hora de la guerra en Oriente Medio | Trump asegura que Irán tiene «muchas ganas» de llegar a un acuerdo con EEUU,2026-04-13 17:08
-theobjective.com,3,3,3.01,60,"google_news_politica, google_news_economia",2,El PP ve «increíble» la situación de la esposa de Sánchez tras procesarla el juez - theobjective.com,2026-04-13 17:08
-salvación,3,3,3.01,60,"elcorreo, heraldo_aragon, levante_emv",3,La salvación se abarata ahora y al Mirandés le podría bastar con 'sólo' 46 puntos,2026-04-13 17:08
-indignación,3,3,3.01,60,"20minutos, heraldo_aragon, elmundo",3,La polémica con Sydney Sweeney en 'Euphoria 3' no ha hecho más que empezar: indignación por sus escenas,2026-04-13 17:08
-prensa,5,5,3.01,60,"google_news_es, elpais, 20minutos, google_news_internacional",4,Pragmata se lleva estas excelentes notas de parte de la prensa - Nintenderos,2026-04-13 17:08
-inyectable,3,3,3.01,60,"heraldo_aragon, 20minutos, google_news_es",3,El nuevo tratamiento inyectable para prevenir el VIH ya está disponible en España,2026-04-13 17:08
-koldo,20,20,3.01,60,"elpais, elmundo, heraldo_aragon, newtral, europapress",5,La expareja de Koldo asegura que el PSOE era “muy rígido” al abonar los gastos y afirma no reconocer los mensajes de las “chistorras”,2026-04-13 17:08
-afirma,4,4,3.01,60,"infolibre, elpais, maldita, elcorreo, google_news_internacional",5,León XIV responde al ataque de Trump sin miedo y reafirmando su compromiso con la paz,2026-04-13 17:08
-cuentas,3,3,3.01,60,"heraldo_aragon, newtral, okdiario",3,"El Huesca, obligado a rozar la perfección: las cuentas de la salvación pasan por un final casi impecable",2026-04-13 17:08
-concurso,4,4,3.01,60,google_news_internacional,1,"Sonríe Tempranillo y Win Espumoso Rosé, premiados en e concurso internacional Cinve - Radio Intereconomía",2026-04-13 17:08
-capital,5,5,3.01,60,"google_news_internacional, google_news_economia, elespanol",3,La Pola se suma al Día Internacional de los Monumentos y Sitios: PolArte ofrecerá visitas guiadas por la capital sierense el próximo fin de semana - La Nueva España,2026-04-13 17:08
-cualquier,8,8,3.01,60,"okdiario, heraldo_aragon, google_news_es, elcorreo, elmundo_internacional",5,Trump amenaza con «eliminar inmediatamente» en Ormuz cualquier buque iraní que intente sortear el bloqueo de EEUU,2026-04-13 17:08
-declaraciones,3,3,3.01,60,"huffington_es, maldita, 20minutos",3,Un prestigioso historiador tiene algo que decir a Pérez-Reverte tras sus declaraciones sobre la Guerra Civil,2026-04-13 17:08
-afecta,4,4,3.01,60,"levante_emv, 20minutos, elpais, elmundo, sur",5,"Catarroja inicia la rehabilitación de su sede de Servicios Sociales, afectada por la dana, con fondos estatales y un plazo de cuatro meses",2026-04-13 17:08
-político,5,5,3.01,60,"elcorreo, okdiario, google_news_internacional, 20minutos, europapress",5,"El Papa responde a Trump: «No soy político, hablo del Evangelio»",2026-04-13 17:08
-familias,3,3,3.01,60,"heraldo_aragon, 20minutos, levante_emv",3,Familias del colegio Cesáreo Alierta de Zaragoza recogen más de 300 firmas para pedir un cambio en la dirección del centro,2026-04-13 17:08
-central,3,3,3.01,60,"el_confidencial_tech, elpais, heraldo_aragon",3,Japón planifica un anillo solar de 11.000 km para convertir la Luna en una central eléctrica,2026-04-13 17:08
-votaciones,3,3,3.01,60,"elmundo_internacional, elmundo, google_news_internacional",3,"Von der Leyen quiere cambiar el sistema de mayorías en las votaciones de la UE papara evitar ""bloqueos sistemáticos"" como el que impuso Orban",2026-04-13 17:08
-popular,3,3,3.01,60,"google_news_es, newtral, heraldo_aragon",3,Peinado cierra la instrucción de Begoña Gómez y propone juzgarla ante jurado popular por cuatro delitos - RTVE.es,2026-04-13 17:08
-críticas,11,12,2.76,55,"heraldo_aragon, sur, france24_es, 20minutos, google_news_es",5,Trump elimina la imagen que publicó representado como Jesús tras una oleada de críticas por blasfemia,2026-04-13 17:08
-ultra,8,9,2.68,53,"google_news_economia, okdiario, europapress, elpais, elmundo",5,"Economía.- (AMP) Gualda (SEPI) defiende que Plus Ultra es ""estratégica"" para la conectividad y el turismo en España - Bolsamania",2026-04-13 17:08
-espera,8,9,2.68,53,"huffington_es, expansion, lavanguardia, levante_emv, elmundo_espana",5,"Leonard Cohen, cantautor y poeta: &quot;Un pesimista es alguien que espera a que llueva, y yo me siento completamente empapado hasta los huesos&quot;",2026-04-13 17:08
-empresas,6,7,2.58,51,"google_news_economia, 20minutos, levante_emv, heraldo_aragon, okdiario",5,España registra 38.135 nuevas empresas en el primer trimestre del año - Economía 3,2026-04-13 17:08
-centro,11,13,2.55,51,"elcorreo, heraldo_aragon, google_news_internacional, maldita",4,Documental sobre el duelo por la pérdida de un hijo este viernes en el centro cultural San Agustín de Durango,2026-04-13 17:08
-apoyo,6,7,2.58,51,"google_news_internacional, sur, huffington_es, elpais, lavanguardia",5,Sevilla refuerza en Miami el apoyo empresarial internacional a la conexión aérea directa con Estados Unidos - Ayuntamiento de Sevilla,2026-04-13 17:08
-proyectos,5,6,2.51,50,"google_news_internacional, efe",2,El Ayuntamiento de Lucena destina 200.000 euros a subvenciones para asociaciones y proyectos de cooperación internacional - Diario Córdoba,2026-04-13 17:08
-vasco,5,6,2.51,50,"elcorreo, heraldo_aragon, elpais, eldiario, elmundo",5,Apika Lab impulsa «nuevas voces» del cine vasco,2026-04-13 17:08
-antigua,5,6,2.51,50,"20minutos, elmundo_espana, okdiario, europapress",4,Estas son las ideas para darle una segunda vida a la antigua estación de autobuses de Lleida,2026-04-13 17:08
-miles,10,12,2.51,50,"levante_emv, expansion, elpais, heraldo_aragon, google_news_es",5,Booking alerta de un probable aumento de estafas tras sufrir un ciberataque y el robo de miles de datos de clientes,2026-04-13 17:08
-datos,14,17,2.48,49,"okdiario, levante_emv, 20minutos, elmundo, heraldo_aragon",5,Booking sufre el robo de datos personales de sus clientes tras un ciberataque,2026-04-13 17:08
-mitad,4,5,2.41,48,"sur, elespanol, huffington_es, elpais",4,Entradas Tootsie- El Musical en el Teatro del Soho CaixaBank a mitad de precio,2026-04-13 17:08
-tercer,8,10,2.41,48,"expansion, lavanguardia, 20minutos, elmundo, heraldo_aragon",5,Foment convoca elecciones en mayo y Sánchez Llibre optará a un tercer mandato,2026-04-13 17:08
-exige,4,5,2.41,48,"expansion, elespanol, google_news_internacional, lavanguardia",4,"""La gran oportunidad de las renovables exige mayor seguridad jurídica""",2026-04-13 17:08
-forma,4,5,2.41,48,"elcorreo, elmundo_espana, 20minutos, google_news_internacional, elmundo",5,Amorebieta acogerá este jueves la I Feria de Formación y Empleo Joven,2026-04-13 17:08
-línea,4,5,2.41,48,"sur, 20minutos, expansion, okdiario",4,"Mayoral presenta en Málaga su nueva línea de moda femenina, BRIA",2026-04-13 17:08
-sexual,4,5,2.41,48,"elpais, levante_emv, elmundo, elcorreo, 20minutos",5,La Audiencia de Valencia cuestiona la “deriva procesal” de un caso de agresión sexual a 11 menores en un colegio del Opus: “Los niños deben ser oídos”,2026-04-13 17:08
-costa,4,5,2.41,48,"sur, levante_emv, elcorreo",3,La Costa del Sol refuerza el turismo de negocios en los Países Nórdicos,2026-04-13 17:08
-producción,4,5,2.41,48,"levante_emv, elcorreo, google_news_internacional",3,La guerra en Irán provoca la mayor caída de las reservas de la OPEP desde 1980: el cierre de Ormuz hunde la producción en 8 millones,2026-04-13 17:08
-asturiano,4,5,2.41,48,"heraldo_aragon, levante_emv, 20minutos",3,"El Asturiano, Chisco, la Pequeñita, Big o Cospedín: los motes de la trama Kitchen",2026-04-13 17:08
-rojas,4,5,2.41,48,"elcorreo, 20minutos, okdiario",3,Alberola Rojas pitará en la final de la Copa del Rey,2026-04-13 17:08
-periódico,4,5,2.41,48,google_news_internacional,1,La Final Six de la Euroliga más internacional: Zaragoza acogerá en el pabellón Príncipe Felipe a jugadoras de 22 países - El Periódico de Aragón,2026-04-13 17:08
-latina,4,5,2.41,48,"20minutos, lavanguardia, huffington_es, france24_es",4,"Karol G, reivindicativa en el Coachella: ""Lleva 27 años y es la primera vez que una latina encabeza el cartel""",2026-04-13 17:08
-expareja,13,16,2.45,48,"elpais, huffington_es, eldiario, europapress, lavanguardia",5,La expareja de Koldo asegura que el PSOE era “muy rígido” al abonar los gastos y afirma no reconocer los mensajes de las “chistorras”,2026-04-13 17:08
-meses,8,10,2.41,48,"levante_emv, google_news_internacional, elpais, google_news_es, heraldo_aragon",5,"Catarroja inicia la rehabilitación de su sede de Servicios Sociales, afectada por la dana, con fondos estatales y un plazo de cuatro meses",2026-04-13 17:08
-alicante,8,10,2.41,48,"okdiario, elpais, sur, google_news_internacional, elespanol",5,"Alicante inicia su otro PGOU: un superparque con 1.400 viviendas, 14 vías y 420 millones de inversión",2026-04-13 17:08
-oficial,7,9,2.34,46,"heraldo_aragon, google_news_politica, google_news_internacional, maldita, huffington_es",5,La expresidenta de las Cortes Marta Fernández estrena su retrato oficial,2026-04-13 17:08
-estrella,3,4,2.26,45,"20minutos, lavanguardia, eldiario",3,Del jersey de 'El diablo viste de Prada' a tu sofá: el azul se convierte en el color estrella en el área de la decoración,2026-04-13 17:08
-decisiones,3,4,2.26,45,"eldiario, google_news_internacional",2,"La  inteligencia artificial falla y alucina en decisiones de inversión en Bolsa, alerta la CNMV",2026-04-13 17:08
-puerta,3,4,2.26,45,"heraldo_aragon, sur",2,"Los expertos coinciden: ""Para limpiar la mampara hay que elegir sistemas de liberación de puertas o tratamientos antical""",2026-04-13 17:08
-jurado,3,4,2.26,45,"google_news_es, heraldo_aragon",2,Peinado cierra la instrucción de Begoña Gómez y propone juzgarla ante jurado popular por cuatro delitos - RTVE.es,2026-04-13 17:08
-empresa,3,4,2.26,45,"levante_emv, google_news_es, google_news_internacional, google_news_economia, 20minutos",5,El hotel Las Arenas acoge una nueva edición de los Premios Empresa del Año Banco Sabadell,2026-04-13 17:08
-éxito,3,4,2.26,45,"levante_emv, google_news_internacional, sur",3,El tortuoso camino de Rory McIlroy hasta prodigarse en el éxito en Augusta,2026-04-13 17:08
-jueves,3,4,2.26,45,"elcorreo, google_news_es, google_news_politica",3,Amorebieta acogerá este jueves la I Feria de Formación y Empleo Joven,2026-04-13 17:08
-reúne,3,4,2.26,45,"levante_emv, 20minutos",2,La Feria del Vehículo de Ocasión de València reúne 2.000 coches con descuentos desde este viernes,2026-04-13 17:08
-energía,3,4,2.26,45,"levante_emv, expansion, 20minutos",3,La UE prepara medidas tras gastar 22.000 millones extra en energía en 44 días de guerra en Irán,2026-04-13 17:08
-cumple,3,4,2.26,45,"efe, 20minutos, google_news_internacional",3,Fatou cumple 69 años y es la gorila más longeva del mundo,2026-04-13 17:08
-euphoria,3,4,2.26,45,"okdiario, 20minutos, google_news_internacional",3,No se pueden hacer ‘spoilers’ de lo nuevo de ‘Euphoria’ porque no pasa gran cosa,2026-04-13 17:08
-lograr,3,4,2.26,45,"levante_emv, google_news_internacional",2,"Netanyahu, entre la decepción interna por no lograr resultados en Irán y la presión internacional para detener los ataques en el Líbano",2026-04-13 17:08
-inglaterra,3,4,2.26,45,"levante_emv, google_news_es, lavanguardia",3,"Mariona Caldentey, de romper mitos a encontrar la gloria: España e Inglaterra se citan en Wembley",2026-04-13 17:08
-conde,3,4,2.26,45,"levante_emv, elcorreo, elmundo, okdiario, elpais",5,"Alcaraz, ante su debut en el Conde de Godó: ""Tengo que ganar aquí si quiero recuperar el número uno""",2026-04-13 17:08
-abrir,3,4,2.26,45,"elcorreo, europapress, 20minutos, elespanol",4,"Amaia Agirre explica su decisión: «Se cierra una etapa, es el momento de abrir paso a nuevas personas»",2026-04-13 17:08
-creación,3,4,2.26,45,"google_news_economia, sur, google_news_internacional",3,"Boom empresarial: la creación de compañías se dispara un 45% en febrero, hasta las 12.684, la mayor cifra en 19 años - Infobae",2026-04-13 17:08
-restaurante,3,4,2.26,45,"20minutos, heraldo_aragon, elcorreo",3,"Reabre la histórica 'Capilla Sixtina del Azulejo' en Madrid: tendrá una taberna, un restaurante y una sala de espectáculos",2026-04-13 17:08
-productos,3,4,2.26,45,"okdiario, huffington_es, 20minutos",3,Adiós a los productos químicos: el sorprendente truco profesional para mantener tu casa sin insectos esta primavera,2026-04-13 17:08
-danza,3,4,2.26,45,"google_news_internacional, google_news_es",2,La UJA celebra el Día Internacional de la Danza con un taller de iniciación al baile flamenco - Cadena SER,2026-04-13 17:08
-hollywood,3,4,2.26,45,"heraldo_aragon, eldiario, lavanguardia",3,Un millar de artistas de Hollywood firman una carta contra la fusión de Warner y Paramount,2026-04-13 17:08
-rajoy,6,8,2.26,45,"elmundo_espana, levante_emv, heraldo_aragon, lavanguardia, 20minutos",5,"""Me lo llevo por delante; le busco una avería"": el investigador del 'caso Kitchen' recuerda en el juicio la amenaza de Villarejo a Rajoy de  sacar ""información comprometedora""",2026-04-13 17:08
-marcha,3,4,2.26,45,"elespanol, 20minutos, google_news_es",3,Trump da marcha atrás y elimina de sus redes la imagen hecha con IA en la que se compara con Jesucristo,2026-04-13 17:08
-artista,3,4,2.26,45,"heraldo_aragon, eldiario, lavanguardia, elcorreo",4,Un millar de artistas de Hollywood firman una carta contra la fusión de Warner y Paramount,2026-04-13 17:08
-malversación,3,4,2.26,45,"elpais, google_news_es",2,"El juez Peinado procesa a Begoña Gómez por cuatro delitos, incluidos malversación y tráfico de influencias tras una polémica instrucción",2026-04-13 17:08
-karol,3,4,2.26,45,"20minutos, lavanguardia, huffington_es",3,"Karol G, reivindicativa en el Coachella: ""Lleva 27 años y es la primera vez que una latina encabeza el cartel""",2026-04-13 17:08
-madre,11,15,2.21,44,"okdiario, levante_emv, google_news_es, heraldo_aragon, 20minutos",5,La dedicatoria de Sara Carbonero a su madre en la tarjeta del funeral: «Una parte de nosotras se va contigo»,2026-04-13 17:08
-champions,5,7,2.15,43,"levante_emv, okdiario, google_news_es, eldiario",4,"El Liverpool se refugia en Anfield, la casa del terror que le mantiene con esperanza frente al PSG en la Champions",2026-04-13 17:08
-trama,5,7,2.15,43,"heraldo_aragon, lavanguardia, 20minutos",3,"El Asturiano, Chisco, la Pequeñita, Big o Cospedín: los motes de la trama Kitchen",2026-04-13 17:08
-pareja,8,11,2.19,43,"elcorreo, levante_emv, sur, elpais, huffington_es",5,La duranguesa Maialen Bilbao vence en la categoría mixta de parejas y alcanza la final en féminas,2026-04-13 17:08
-conquista,5,7,2.15,43,"eldiario, levante_emv, elpais, google_news_politica, google_news_internacional",5,"Sheinbaum reconoce los gestos de España sobre la conquista antes de su visita a Barcelona, pero insiste: ""Saquearon nuestros territorios durante 300 años""",2026-04-13 17:08
-pagar,5,7,2.15,43,"heraldo_aragon, expansion, 20minutos, okdiario",4,"Caso ataúdes: ""Nos quitábamos de comer por pagar el recibo de los muertos, que era sagrado, y nos han engañado""",2026-04-13 17:08
-impulsar,5,7,2.15,43,"heraldo_aragon, 20minutos, google_news_internacional, elcorreo, expansion",5,El ejército de Star Wars une fuerzas con el Banco de Alimentos de Zaragoza para impulsar las donaciones,2026-04-13 17:08
-peinado,15,21,2.15,43,"levante_emv, elpais, google_news_politica, google_news_es, heraldo_aragon",5,El juez Peinado procesa a Begoña Gómez por cuatro delitos pero no por intrusismo profesional,2026-04-13 17:08
-evitar,7,10,2.11,42,"20minutos, google_news_economia, levante_emv, heraldo_aragon, elmundo_internacional",5,Los cinco errores que pueden arruinar tu vestido de novia (y cómo evitarlos): de mezclar inspiraciones a tenerlo con mucho tiempo,2026-04-13 17:08
-vuelve,14,20,2.11,42,"levante_emv, google_news_economia, okdiario, lavanguardia, 20minutos",5,El Atzeneta vuelve a ganar en su visita a Crevillente,2026-04-13 17:08
-almería,7,10,2.11,42,"sur, google_news_internacional, eldiario, levante_emv, europapress",5,"El Almería-Málaga, declarado partido de alto riesgo",2026-04-13 17:08
-netanyahu,9,13,2.09,41,"levante_emv, google_news_internacional, maldita, elpais",4,"Netanyahu, entre la decepción interna por no lograr resultados en Irán y la presión internacional para detener los ataques en el Líbano",2026-04-13 17:08
-gobierno,18,26,2.09,41,"levante_emv, huffington_es, sur, okdiario, elcorreo",5,Los Comités de Reconstrucción reclaman al Gobierno un plan para mejorar Cercanías y Metrovalencia ante el deterioro del transporte,2026-04-13 17:08
-congreso,10,15,2.01,40,"levante_emv, lavanguardia, elmundo_espana, google_news_internacional, eldiario",5,Dolors López pide reuniones con los grupos en el Congreso contra la discriminación económica a los familiares de muertos por suicidio,2026-04-13 17:08
-problema,4,6,2.01,40,"elcorreo, heraldo_aragon, google_news_economia, eldiario, el_confidencial_tech",5,El Aurrera de Ondarroa y el Bermeo miran sin problemas al tramo final de la Liga,2026-04-13 17:08
-ministro,4,6,2.01,40,"okdiario, newtral, elmundo, google_news_es, huffington_es",5,Vox rechaza ir a un acto de Puente en Alicante para «no participar en el blanqueamiento» del ministro,2026-04-13 17:08
-noche,4,6,2.01,40,"okdiario, sur, heraldo_aragon, levante_emv",4,Palma se enfunda los guantes para una noche histórica de boxeo con dos títulos en juego en el Trofeu Ciutat de Palma,2026-04-13 17:08
-instrucción,6,9,2.01,40,"elpais, google_news_es, elcorreo",3,"El juez Peinado procesa a Begoña Gómez por cuatro delitos, incluidos malversación y tráfico de influencias tras una polémica instrucción",2026-04-13 17:08
-colegio,4,6,2.01,40,"elpais, heraldo_aragon, levante_emv",3,La Audiencia de Valencia cuestiona la “deriva procesal” de un caso de agresión sexual a 11 menores en un colegio del Opus: “Los niños deben ser oídos”,2026-04-13 17:08
-rivera,6,9,2.01,40,"elcorreo, heraldo_aragon, okdiario",3,Francisco Rivera confirma la relación de su hija Tana con el torero Roca Rey,2026-04-13 17:08
-fondo,4,6,2.01,40,"levante_emv, google_news_economia, europapress, 20minutos",4,"Catarroja inicia la rehabilitación de su sede de Servicios Sociales, afectada por la dana, con fondos estatales y un plazo de cuatro meses",2026-04-13 17:08
-dinero,8,12,2.01,40,"europapress, elcorreo, google_news_es, maldita, eldiario",5,Expareja de Koldo no reconoce los mensajes sobre dinero como 'chistorras' y dice que Ferraz pagaba gastos en efectivo,2026-04-13 17:08
-momento,4,6,2.01,40,"levante_emv, elcorreo, 20minutos, heraldo_aragon, okdiario",5,"Dentro de los ensayos de la gira de OT 2025: ""Habrá cachondeo, bailoteos y también momentos para llorar""",2026-04-13 17:08
-cambio,6,9,2.01,40,"20minutos, heraldo_aragon, lavanguardia, okdiario, sur",5,"Magyar promete un cambio de régimen para alejarse de Putin: ""El lugar de Hungría era, es y será en Europa""",2026-04-13 17:08
+afirma,7,4,5.56,100,"elpais, europapress, infolibre, maldita, elcorreo",5,"Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Trump afirma que Irán “ha llamado esta mañana” para lograr un acuerdo",2026-04-13 17:38
+carta,3,1,9.52,100,"elmundo_internacional, heraldo_aragon, 20minutos, eldiario, elcorreo",5,"Reino Unido y Francia descartan ayudar a Trump en el bloqueo de Ormuz: ""No vamos a dejarnos arrastrar a la guerra""",2026-04-13 17:38
+musical,4,2,6.35,100,"sur, elcorreo, google_news_internacional",3,Entradas Tootsie- El Musical en el Teatro del Soho CaixaBank a mitad de precio,2026-04-13 17:38
+último,9,5,5.71,100,"elcorreo, levante_emv, 20minutos, elpais, google_news_politica",5,Últimos ensayos de los concursantes de OT antes del arranque de la gira en Bilbao,2026-04-13 17:38
+desestima,3,0,5.0,100,"elpais, google_news_internacional, lavanguardia",3,Un juez desestima la demanda millonaria de Trump contra Murdoch y ‘The Wall Street Journal’ por el dibujo erótico enviado a Epstein,2026-04-13 17:38
+millonaria,4,0,5.0,100,"elpais, google_news_internacional, 20minutos, levante_emv",4,Un juez desestima la demanda millonaria de Trump contra Murdoch y ‘The Wall Street Journal’ por el dibujo erótico enviado a Epstein,2026-04-13 17:38
+epstein,3,1,9.52,100,"elpais, google_news_internacional, lavanguardia",3,Un juez desestima la demanda millonaria de Trump contra Murdoch y ‘The Wall Street Journal’ por el dibujo erótico enviado a Epstein,2026-04-13 17:38
+decepción,3,1,9.52,100,"levante_emv, google_news_internacional",2,"Netanyahu, entre la decepción interna por no lograr resultados en Irán y la presión internacional para detener los ataques en el Líbano",2026-04-13 17:38
+interna,3,1,9.52,100,"google_news_internacional, levante_emv, sur, elcorreo, google_news_es",5,Las claves de la caída de Orbán: descontento económico y escoramiento internacional - Europa Press,2026-04-13 17:38
+presión,4,2,6.35,100,"levante_emv, google_news_internacional, okdiario",3,"Netanyahu, entre la decepción interna por no lograr resultados en Irán y la presión internacional para detener los ataques en el Líbano",2026-04-13 17:38
+detener,3,0,5.0,100,"levante_emv, google_news_internacional",2,"Netanyahu, entre la decepción interna por no lograr resultados en Irán y la presión internacional para detener los ataques en el Líbano",2026-04-13 17:38
+optará,3,0,5.0,100,"elmundo, expansion, lavanguardia",3,La alcaldesa Agirre (PNV) agrava la parálisis en Getxo al anunciar que no optará a la reelección tras el escándalo del palacete,2026-04-13 17:38
+reelección,3,0,5.0,100,"elmundo, lavanguardia, elcorreo",3,La alcaldesa Agirre (PNV) agrava la parálisis en Getxo al anunciar que no optará a la reelección tras el escándalo del palacete,2026-04-13 17:38
+fundación,5,3,5.29,100,"sur, google_news_internacional, google_news_es",3,Fundación Unicaja renueva su apoyo al Obispado de Málaga para la conservación del patrimonio histórico-artístico de la provincia,2026-04-13 17:38
+palmera,5,0,5.0,100,levante_emv,1,La Ofrenda a San Vicente acaba... con incendio de una palmera,2026-04-13 17:38
+basic-fit,8,2,12.7,100,"20minutos, sur, elpais, expansion, heraldo_aragon",5,Qué hacer si eres uno de los afectados por el hackeo a Basic-Fit: estos son los pasos a seguir,2026-04-13 17:38
+mensajes,5,0,5.0,100,"elpais, europapress, google_news_es",3,La expareja de Koldo asegura que el PSOE era “muy rígido” al abonar los gastos y afirma no reconocer los mensajes de las “chistorras”,2026-04-13 17:38
+paciente,8,1,25.4,100,"levante_emv, google_news_es, 20minutos, heraldo_aragon, okdiario",5,"Un paciente de Oslo, el décimo caso de curación del VIH en el mundo tras un trasplante de células madre",2026-04-13 17:38
+décimo,6,0,5.0,100,"levante_emv, 20minutos, heraldo_aragon, okdiario, google_news_es",5,"Un paciente de Oslo, el décimo caso de curación del VIH en el mundo tras un trasplante de células madre",2026-04-13 17:38
+curación,4,0,5.0,100,"levante_emv, heraldo_aragon, okdiario, elmundo",4,"Un paciente de Oslo, el décimo caso de curación del VIH en el mundo tras un trasplante de células madre",2026-04-13 17:38
+trasplante,6,0,5.0,100,"levante_emv, google_news_es, heraldo_aragon, elpais, elmundo",5,"Un paciente de Oslo, el décimo caso de curación del VIH en el mundo tras un trasplante de células madre",2026-04-13 17:38
+células,7,0,5.0,100,"levante_emv, google_news_es, heraldo_aragon, elpais, elmundo",5,"Un paciente de Oslo, el décimo caso de curación del VIH en el mundo tras un trasplante de células madre",2026-04-13 17:38
+osborne,3,1,9.52,100,"20minutos, google_news_economia, expansion",3,"Osborne se alía en Asia-Pacífico con el distribuidor Octopus (APAC) Holdings Limited (Coronita, Paulaner)",2026-04-13 17:38
+mascletà,3,0,5.0,100,levante_emv,1,Una palmera se incendia tras la mascletà de San Vicente,2026-04-13 17:38
+muñoz,3,1,9.52,100,"huffington_es, newtral",2,"Es cierto lo que dice Ester Muñoz, del PP: la izquierda obtuvo 0 escaños en Hungría, pero porque decidió no presentarse",2026-04-13 17:38
+ester,3,1,9.52,100,"huffington_es, newtral",2,"Es cierto lo que dice Ester Muñoz, del PP: la izquierda obtuvo 0 escaños en Hungría, pero porque decidió no presentarse",2026-04-13 17:38
+cholo,6,0,5.0,100,"levante_emv, elcorreo, elmundo, google_news_es, elpais",5,"Lamine Yamal: ""A ver si el Cholo me hace un favor y me pone uno contra uno con un jugador""",2026-04-13 17:38
+marítima,6,0,5.0,100,"levante_emv, google_news_internacional",2,La Organización Marítima Internacional avisa a EEUU que un bloqueo del estrecho de Ormuz va contra la ley internacional,2026-04-13 17:38
+régimen,4,1,12.7,100,"okdiario, 20minutos, elespanol",3,El juez acusa a Begoña de conductas propias de un régimen absolutista: «Habría que remontarse a Fernando VII»,2026-04-13 17:38
+complicado,3,0,5.0,100,"huffington_es, heraldo_aragon, 20minutos",3,"&#039;Famesick&#039;, la autobiografía de Lena Dunham en la que revela lo complicado de su vida personal: &quot;Adam Driver me gritó y tiró una silla&quot;",2026-04-13 17:38
+personal,4,1,12.7,100,"huffington_es, okdiario, sur, elpais, elmundo",5,"&#039;Famesick&#039;, la autobiografía de Lena Dunham en la que revela lo complicado de su vida personal: &quot;Adam Driver me gritó y tiró una silla&quot;",2026-04-13 17:38
+taller,3,1,9.52,100,"google_news_internacional, eldiario, okdiario",3,La UJA celebra el Día Internacional de la Danza con un taller de iniciación al baile flamenco - Cadena SER,2026-04-13 17:38
+alguien,3,0,5.0,100,"huffington_es, elmundo, google_news_es",3,"Leonard Cohen, cantautor y poeta: &quot;Un pesimista es alguien que espera a que llueva, y yo me siento completamente empapado hasta los huesos&quot;",2026-04-13 17:38
+hunde,3,1,9.52,100,"levante_emv, okdiario, google_news_economia",3,La guerra en Irán provoca la mayor caída de las reservas de la OPEP desde 1980: el cierre de Ormuz hunde la producción en 8 millones,2026-04-13 17:38
+lamine,10,5,6.35,100,"levante_emv, elcorreo, elmundo, google_news_es, lavanguardia",5,"Lamine Yamal: ""A ver si el Cholo me hace un favor y me pone uno contra uno con un jugador""",2026-04-13 17:38
+yamal,8,5,5.08,100,"levante_emv, elcorreo, lavanguardia, okdiario, elpais",5,"Lamine Yamal: ""A ver si el Cholo me hace un favor y me pone uno contra uno con un jugador""",2026-04-13 17:38
+favor,6,1,19.05,100,"levante_emv, elcorreo, elmundo, google_news_es, okdiario",5,"Lamine Yamal: ""A ver si el Cholo me hace un favor y me pone uno contra uno con un jugador""",2026-04-13 17:38
+bancarios,4,2,6.35,100,"sur, elpais, elmundo, eldiario",4,Basic-Fit sufre un ataque que compromete los datos personales y bancarios de sus socios,2026-04-13 17:38
+nicole,3,0,5.0,100,"huffington_es, lavanguardia, elpais",3,Nicole Kidman sorprende con su nueva profesión: doula de la muerte,2026-04-13 17:38
+barco,4,1,12.7,100,"sur, heraldo_aragon, elcorreo, france24_es",4,Trump activa el bloqueo naval sobre Irán en Ormuz: «Si un barco se acerca será eliminado inmediatamente»,2026-04-13 17:38
+doula,3,0,5.0,100,"huffington_es, lavanguardia, elpais",3,Nicole Kidman sorprende con su nueva profesión: doula de la muerte,2026-04-13 17:38
+vejaciones,3,1,9.52,100,"heraldo_aragon, huffington_es, elcorreo, eldiario",4,"El exciclista Óscar Freire, condenado por un delito leve de vejaciones hacia su mujer",2026-04-13 17:38
+exciclista,6,0,5.0,100,"heraldo_aragon, google_news_es, eldiario, elpais, elmundo",5,"El exciclista Óscar Freire, condenado por un delito leve de vejaciones hacia su mujer",2026-04-13 17:38
+booking,4,1,12.7,100,"okdiario, levante_emv, 20minutos, elmundo, heraldo_aragon",5,Booking sufre el robo de datos personales de sus clientes tras un ciberataque,2026-04-13 17:38
+personales,5,0,5.0,100,"okdiario, sur, elpais, elmundo, eldiario",5,Booking sufre el robo de datos personales de sus clientes tras un ciberataque,2026-04-13 17:38
+clientes,8,2,12.7,100,"okdiario, levante_emv, 20minutos, elmundo, heraldo_aragon",5,Booking sufre el robo de datos personales de sus clientes tras un ciberataque,2026-04-13 17:38
+ciberataque,7,1,22.22,100,"okdiario, levante_emv, elmundo, heraldo_aragon, expansion",5,Booking sufre el robo de datos personales de sus clientes tras un ciberataque,2026-04-13 17:38
+llamado,3,0,5.0,100,"elpais, levante_emv, okdiario",3,"Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Trump afirma que Irán “ha llamado esta mañana” para lograr un acuerdo",2026-04-13 17:38
+fusión,3,0,5.0,100,"heraldo_aragon, expansion, eldiario, elmundo_espana",4,Un millar de artistas de Hollywood firman una carta contra la fusión de Warner y Paramount,2026-04-13 17:38
+maltrato,10,1,31.75,100,"levante_emv, google_news_es, elespanol, 20minutos, elpais",5,"Los radiólogos, figura clave ante la sospecha de maltrato infantil: ""En muchos casos no hay signos visibles""",2026-04-13 17:38
+gastos,9,1,28.57,100,"elpais, heraldo_aragon, europapress, elmundo, lavanguardia",5,La expareja de Koldo asegura que el PSOE era “muy rígido” al abonar los gastos y afirma no reconocer los mensajes de las “chistorras”,2026-04-13 17:38
+22.000,3,1,9.52,100,"levante_emv, lavanguardia, elespanol",3,La UE prepara medidas tras gastar 22.000 millones extra en energía en 44 días de guerra en Irán,2026-04-13 17:38
+chueca,3,0,5.0,100,heraldo_aragon,1,Natalia Chueca abre la puerta a reformar el tramo final de la calle Miguel Servet en Zaragoza,2026-04-13 17:38
+reformar,3,1,9.52,100,heraldo_aragon,1,Natalia Chueca abre la puerta a reformar el tramo final de la calle Miguel Servet en Zaragoza,2026-04-13 17:38
+servet,3,1,9.52,100,heraldo_aragon,1,Natalia Chueca abre la puerta a reformar el tramo final de la calle Miguel Servet en Zaragoza,2026-04-13 17:38
+pragmata,3,1,9.52,100,google_news_es,1,Pragmata se lleva estas excelentes notas de parte de la prensa - Nintenderos,2026-04-13 17:38
+explica,3,1,9.52,100,"elcorreo, huffington_es, france24_es",3,"Amaia Agirre explica su decisión: «Se cierra una etapa, es el momento de abrir paso a nuevas personas»",2026-04-13 17:38
+firma,3,1,9.52,100,"elpais, europapress, okdiario, heraldo_aragon, infolibre",5,"Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Trump afirma que Irán “ha llamado esta mañana” para lograr un acuerdo",2026-04-13 17:38
+triunfa,4,2,6.35,100,"elcorreo, levante_emv, elpais, google_news_internacional, sur",5,Un empate ante el colista empaña la racha triunfal del Barakaldo en Lasesarre,2026-04-13 17:38
+abogacía,3,0,5.0,100,"expansion, okdiario, efe",3,Los socios de Ashurst y Perkins Coie aprueban su fusión para crear un gigante de la abogacía,2026-04-13 17:38
+japón,4,1,12.7,100,"el_confidencial_tech, huffington_es, france24_es",3,Japón planifica un anillo solar de 11.000 km para convertir la Luna en una central eléctrica,2026-04-13 17:38
+impuesto,3,0,5.0,100,"bbc_mundo, okdiario, elcorreo",3,En qué consiste el bloqueo naval impuesto por Trump a Irán en el estrecho de Ormuz que entró en vigor este lunes,2026-04-13 17:38
+simeone,5,1,15.87,100,"okdiario, elcorreo, lavanguardia, google_news_es",4,Lamine Yamal reta a Simeone entre risas: «A ver si me hace un favor y me pone uno contra uno»,2026-04-13 17:38
+vigor,3,1,9.52,100,"elmundo_internacional, bbc_mundo, huffington_es",3,"Entra en vigor el bloqueo de Trump en el Estrecho de Ormuz: ""Si cualquier buque iraní se acerca lo más mínimo, será eliminado de inmediato""",2026-04-13 17:38
+palma,5,2,7.94,100,"levante_emv, okdiario",2,Palma de Gandia incorpora a un conserje en el polideportivo municipal,2026-04-13 17:38
+ofensiva,4,2,6.35,100,"levante_emv, elcorreo, elmundo_espana, elpais",4,Espaldarazo de Letizia a la ONU en plena ofensiva de Trump contra el sistema multilateral,2026-04-13 17:38
+entrega,16,2,25.4,100,"google_news_internacional, 20minutos, google_news_es, eldiario, elpais",5,Madrid entrega la Medalla Internacional de las Artes a Vargas Llosa a título póstumo - ABC,2026-04-13 17:38
+medalla,13,1,41.27,100,"elcorreo, google_news_internacional, 20minutos, google_news_es",4,Los jóvenes del club de Gernika de taekwondo suman 32 medallas en la Copa Benidorm,2026-04-13 17:38
+artes,13,0,5.0,100,"heraldo_aragon, levante_emv, google_news_internacional, eldiario, 20minutos",5,"La regularización extraordinaria de hasta 17.000 inmigrantes en Aragón se aprobará previsiblemente este martes, 14 de abril",2026-04-13 17:38
+vargas,14,1,44.45,100,"google_news_internacional, 20minutos, elpais, google_news_es",4,Madrid entrega la Medalla Internacional de las Artes a Vargas Llosa a título póstumo - ABC,2026-04-13 17:38
+llosa,14,2,22.22,100,"google_news_internacional, 20minutos, elpais, google_news_es",4,Madrid entrega la Medalla Internacional de las Artes a Vargas Llosa a título póstumo - ABC,2026-04-13 17:38
+póstumo,9,0,5.0,100,"google_news_internacional, elpais, google_news_es",3,Madrid entrega la Medalla Internacional de las Artes a Vargas Llosa a título póstumo - ABC,2026-04-13 17:38
+ciclista,4,0,5.0,100,"elmundo, heraldo_aragon, google_news_es, eldiario, elpais",5,"El ex ciclista Óscar Freire, condenado por un delito leve de injurias a su mujer",2026-04-13 17:38
+óscar,16,5,10.16,100,"elmundo, heraldo_aragon, google_news_es, 20minutos, huffington_es",5,"El ex ciclista Óscar Freire, condenado por un delito leve de injurias a su mujer",2026-04-13 17:38
+ayuso,12,4,9.52,100,"okdiario, google_news_internacional, europapress, elpais, google_news_es",5,El Gobierno de Ayuso lo confirma y la agricultura lo celebra: se mantienen las dos ayudas más necesarias para el sector,2026-04-13 17:38
+ofrenda,3,0,5.0,100,levante_emv,1,La ofrenda vicentina de Carmen Prades y Marta Mercader,2026-04-13 17:38
+táctica,3,1,9.52,100,"lavanguardia, elmundo, google_news_es",3,Flick:“Remontar dependerá de la táctica y también de las emociones; hay que creer”,2026-04-13 17:38
+rígido”,3,0,5.0,100,"elpais, lavanguardia",2,La expareja de Koldo asegura que el PSOE era “muy rígido” al abonar los gastos y afirma no reconocer los mensajes de las “chistorras”,2026-04-13 17:38
+remontar,3,0,5.0,100,"okdiario, lavanguardia, elmundo, google_news_es",4,El juez acusa a Begoña de conductas propias de un régimen absolutista: «Habría que remontarse a Fernando VII»,2026-04-13 17:38
+ponga,3,0,5.0,100,"elmundo, google_news_es, elpais",3,"Lamine y su táctica para remontar ante el Atlético: ""Ojalá el Cholo me haga un favor y me ponga uno contra uno con alguien""",2026-04-13 17:38
+fecha,4,2,6.35,100,"okdiario, 20minutos, heraldo_aragon, google_news_es",4,"‘The Invite’: fecha de estreno, reparto y todo sobre el ‘remake’ de ‘Sentimental’ con Penélope Cruz",2026-04-13 17:38
+esposa,4,1,12.7,100,google_news_politica,1,La justicia acorrala a la esposa de Pedro Sánchez y desata una crisis política en España - La Nación,2026-04-13 17:38
+santandercreativa.com,3,0,5.0,100,google_news_es,1,La séptima edición de Santander Escénica ofrecerá 19 experiencias artísticas para conectar con el teatro y la danza de la ciudad de abril a junio - santandercreativa.com,2026-04-13 17:38
+ofrecerá,4,1,12.7,100,"google_news_es, google_news_internacional",2,La séptima edición de Santander Escénica ofrecerá 19 experiencias artísticas para conectar con el teatro y la danza de la ciudad de abril a junio - santandercreativa.com,2026-04-13 17:38
+eliminar,5,2,7.94,100,"elpais_internacional, okdiario, google_news_es, elpais, google_news_internacional",5,Trump amenaza con “eliminar” los buques iraníes que desafíen el bloqueo de Ormuz,2026-04-13 17:38
+escénica,4,0,5.0,100,google_news_es,1,La séptima edición de Santander Escénica ofrecerá 19 experiencias artísticas para conectar con el teatro y la danza de la ciudad de abril a junio - santandercreativa.com,2026-04-13 17:38
+freire,17,1,53.97,100,"elmundo, heraldo_aragon, google_news_es, 20minutos, huffington_es",5,"El ex ciclista Óscar Freire, condenado por un delito leve de injurias a su mujer",2026-04-13 17:38
+haber,6,1,19.05,100,"20minutos, elespanol, maldita, elcorreo, okdiario",5,Booking alerta de que los datos de sus clientes podrían haber sido filtrados por un fallo,2026-04-13 17:38
+santander,8,2,12.7,100,"google_news_es, google_news_economia",2,La séptima edición de Santander Escénica ofrecerá 19 experiencias artísticas para conectar con el teatro y la danza de la ciudad de abril a junio - santandercreativa.com,2026-04-13 17:38
+libre,5,2,7.94,100,"eldiario, expansion, lavanguardia, sur, 20minutos",5,Foment adelanta sus elecciones a mayo y Sánchez Libre repetirá como candidato a presidente,2026-04-13 17:38
+curar,3,0,5.0,100,"20minutos, google_news_es, europapress",3,Un equipo con participación española logra curar al décimo paciente con VIH del mundo,2026-04-13 17:38
+injurias,9,5,5.71,100,"elmundo, google_news_es, 20minutos, elespanol, elpais",5,"El ex ciclista Óscar Freire, condenado por un delito leve de injurias a su mujer",2026-04-13 17:38
+mendoza,4,2,6.35,100,"eldiario, 20minutos, elcorreo",3,"Eduardo Mendoza: “Yo nunca me he considerado un artista, pero sí un artesano”",2026-04-13 17:38
+delito,9,1,28.57,100,"levante_emv, elmundo, heraldo_aragon, 20minutos, huffington_es",5,El juez Peinado procesa a Begoña Gómez por cuatro delitos pero no por intrusismo profesional,2026-04-13 17:38
+condenado,11,2,17.46,100,"elmundo, elpais, heraldo_aragon, google_news_es, 20minutos",5,"El ex ciclista Óscar Freire, condenado por un delito leve de injurias a su mujer",2026-04-13 17:38
+hablo,3,0,5.0,100,"elcorreo, okdiario, europapress",3,"El Papa responde a Trump: «No soy político, hablo del Evangelio»",2026-04-13 17:38
+organización,7,0,5.0,100,"levante_emv, google_news_internacional, lavanguardia",3,La Organización Marítima Internacional avisa a EEUU que un bloqueo del estrecho de Ormuz va contra la ley internacional,2026-04-13 17:38
+kidman,3,0,5.0,100,"huffington_es, lavanguardia, elpais",3,Nicole Kidman sorprende con su nueva profesión: doula de la muerte,2026-04-13 17:38
+gáldar,3,0,5.0,100,google_news_internacional,1,12 días de actos para celebrar en Gáldar el Día Internacional del Libro 2026 - InfonorteDigital,2026-04-13 17:38
+llíria,3,1,9.52,100,levante_emv,1,"La procesión de Sant Vicent en Llíria, en imágenes",2026-04-13 17:38
+vacuna,3,0,5.0,100,google_news_es,1,Galicia amplía la vacuna contra la gripe a todos los mayores de 65 años - Redacción Médica,2026-04-13 17:38
+reglas,3,1,9.52,100,"okdiario, eldiario, elcorreo",3,China desafía las reglas de la ingeniería: construye un macropuente de 24 km sobre el mar con túnel y 2 islas artificiales,2026-04-13 17:38
+sufre,10,5,6.35,100,"elcorreo, okdiario, elmundo, heraldo_aragon, sur",5,Vuelven a licitar la obra para cimentar un instituto de Cruces que sufre filtraciones,2026-04-13 17:38
+título,10,5,6.35,100,"elcorreo, google_news_internacional, okdiario, google_news_es",4,"El Tabirako Baqué masculino luchará por el título liguero y las chicas, por jugar la ‘Final Four’",2026-04-13 17:38
+ferraz,10,1,31.75,100,"heraldo_aragon, europapress, elcorreo, elmundo, 20minutos",5,"La exmujer de Koldo dice que ""Ferraz era muy rígido"" con los reintegros de gastos a José Luis Ábalos",2026-04-13 17:38
+islas,3,1,9.52,100,"okdiario, huffington_es",2,La megaconstrucción que deja sin palabras a los ingenieros: un puente de 24 km con dos islas artificiales y un museo,2026-04-13 17:38
+palabras,4,2,6.35,100,"okdiario, maldita, huffington_es, lavanguardia",4,La megaconstrucción que deja sin palabras a los ingenieros: un puente de 24 km con dos islas artificiales y un museo,2026-04-13 17:38
+ampliación,3,1,9.52,100,"okdiario, levante_emv",2,Llorca anuncia nuevas infraestructuras para Alicante y reclama a Sánchez la ampliación del aeropuerto,2026-04-13 17:38
+desafíen,3,0,5.0,100,"elpais_internacional, elpais, google_news_internacional",3,Trump amenaza con “eliminar” los buques iraníes que desafíen el bloqueo de Ormuz,2026-04-13 17:38
+sociales,6,2,9.52,100,"levante_emv, google_news_internacional, heraldo_aragon, elmundo_espana, newtral",5,"Catarroja inicia la rehabilitación de su sede de Servicios Sociales, afectada por la dana, con fondos estatales y un plazo de cuatro meses",2026-04-13 17:38
+goyescas,3,1,9.52,100,"google_news_es, heraldo_aragon",2,Zaragoza celebrará sus Fiestas Goyescas del 24 al 26 de abril - Onda Cero,2026-04-13 17:38
+marta,3,0,5.0,100,"20minutos, heraldo_aragon, levante_emv",3,"Marta López recuerda los abusos que sufrió con nueve años: ""Toda la vida he sido incapaz de verbalizarlo""",2026-04-13 17:38
+recuerda,4,2,6.35,100,"20minutos, elmundo_espana, elespanol, elmundo",4,"Marta López recuerda los abusos que sufrió con nueve años: ""Toda la vida he sido incapaz de verbalizarlo""",2026-04-13 17:38
+mario,7,1,22.22,100,"levante_emv, google_news_internacional, google_news_es",3,"Mariona Caldentey, de romper mitos a encontrar la gloria: España e Inglaterra se citan en Wembley",2026-04-13 17:38
+pagaba,4,0,5.0,100,"europapress, elmundo, levante_emv, elconfidencial, google_news_es",5,Expareja de Koldo no reconoce los mensajes sobre dinero como 'chistorras' y dice que Ferraz pagaba gastos en efectivo,2026-04-13 17:38
+inmediatamente»,3,0,5.0,100,"okdiario, sur, elcorreo",3,Trump amenaza con «eliminar inmediatamente» en Ormuz cualquier buque iraní que intente sortear el bloqueo de EEUU,2026-04-13 17:38
+spain's,4,0,5.0,100,sur,1,Housing prices in Spain's suburbs spiral out of control with more than 100% increases in three years,2026-04-13 17:38
+aagesen,3,0,5.0,100,"google_news_economia, efe",2,Aagesen detalla que el fondo España Crece reserva al menos 2.800 millones para acción climática - Demócrata,2026-04-13 17:38
+denunciado,4,0,5.0,100,"elespanol, elpais, okdiario",3,"Óscar Freire, condenado por un delito de injurias tras ser denunciado por su mujer por maltrato en el ámbito familiar",2026-04-13 17:38
+pintura,3,1,9.52,100,"heraldo_aragon, google_news_internacional, elpais, google_news_es",4,El MNAC estudia la resolución judicial que pone fecha a la vuelta de las pinturas de Sijena,2026-04-13 17:38
+police,3,0,5.0,100,sur,1,Alicante police arrest man who stabbed ex-partner's parents at their home in Malaga,2026-04-13 17:38
+durango,6,0,5.0,100,elcorreo,1,Durango realizará trabajos de restauración y limpieza en la cruz de Pinondo y la escultura de Pedro Pablo Astarloa,2026-04-13 17:38
+escultura,3,0,5.0,100,"elcorreo, elpais, google_news_es",3,Durango realizará trabajos de restauración y limpieza en la cruz de Pinondo y la escultura de Pedro Pablo Astarloa,2026-04-13 17:38
+flick,4,0,5.0,100,"okdiario, levante_emv, lavanguardia, elpais",4,Flick no sufre más bajas para la Champions: Bernal se entrena en el Metropolitano con normalidad,2026-04-13 17:38
+efectivo,9,3,9.52,100,"europapress, elcorreo, eldiario, elmundo, levante_emv",5,Expareja de Koldo no reconoce los mensajes sobre dinero como 'chistorras' y dice que Ferraz pagaba gastos en efectivo,2026-04-13 17:38
+prostituir,4,0,5.0,100,"levante_emv, elcorreo, lavanguardia, heraldo_aragon",4,El pederasta del Raval acepta 83 años de prisión por violar y prostituir a una menor tutelada,2026-04-13 17:38
+chistorras,4,0,5.0,100,"elpais, elespanol, europapress, eldiario, elmundo",5,La expareja de Koldo asegura que el PSOE era “muy rígido” al abonar los gastos y afirma no reconocer los mensajes de las “chistorras”,2026-04-13 17:38
+violar,7,3,7.41,100,"levante_emv, elcorreo, lavanguardia, heraldo_aragon, 20minutos",5,El pederasta del Raval acepta 83 años de prisión por violar y prostituir a una menor tutelada,2026-04-13 17:38
+acepta,7,2,11.11,100,"levante_emv, elcorreo, lavanguardia, heraldo_aragon, 20minutos",5,El pederasta del Raval acepta 83 años de prisión por violar y prostituir a una menor tutelada,2026-04-13 17:38
+raval,7,1,22.22,100,"levante_emv, elcorreo, lavanguardia, heraldo_aragon, 20minutos",5,El pederasta del Raval acepta 83 años de prisión por violar y prostituir a una menor tutelada,2026-04-13 17:38
+inmigrantes,6,3,6.35,100,"heraldo_aragon, newtral, elcorreo, elpais, 20minutos",5,"La regularización extraordinaria de hasta 17.000 inmigrantes en Aragón se aprobará previsiblemente este martes, 14 de abril",2026-04-13 17:38
+hablar,3,1,9.52,100,"elespanol, okdiario",2,"Patricia Uriz no recuerda hablar de ""chistorras"" y contradice al instructor del TS: el PSOE era ""muy rígido"" con los pagos",2026-04-13 17:38
+pederasta,7,0,5.0,100,"levante_emv, elcorreo, lavanguardia, heraldo_aragon, 20minutos",5,El pederasta del Raval acepta 83 años de prisión por violar y prostituir a una menor tutelada,2026-04-13 17:38
+carril,3,0,5.0,100,"okdiario, elmundo, levante_emv, 20minutos",4,"He visto ‘El Sótano Club’, el programa de Alba Carrillo y tengo un consejo para ella: relájate",2026-04-13 17:38
+varios,3,1,9.52,100,"eldiario, okdiario, sur",3,La isla que cuenta con una ley propia contra la contaminación lumínica y en la que podrás disfrutar de varios miradores astronómicos,2026-04-13 17:38
+recogió,3,0,5.0,100,"20minutos, elconfidencial, google_news_es",3,"La ex de Koldo confirma que recogió ""sobres"" en Ferraz para reembolsar gastos de Ábalos y el exasesor",2026-04-13 17:38
+tutelada,7,0,5.0,100,"levante_emv, elcorreo, lavanguardia, heraldo_aragon, 20minutos",5,El pederasta del Raval acepta 83 años de prisión por violar y prostituir a una menor tutelada,2026-04-13 17:38
+iraní,8,2,12.7,100,"elpais_internacional, okdiario, elespanol, heraldo_aragon, google_news_es",5,Trump amenaza con “eliminar” los buques iraníes que desafíen el bloqueo de Ormuz,2026-04-13 17:38
+sheinbaum,7,1,22.22,100,"eldiario, heraldo_aragon, levante_emv, europapress, elpais",5,"Sheinbaum reconoce los gestos de España sobre la conquista antes de su visita a Barcelona, pero insiste: ""Saquearon nuestros territorios durante 300 años""",2026-04-13 17:38
+valentía,3,0,5.0,100,"google_news_politica, google_news_internacional",2,"Sánchez cierra filas con el Papa tras los ataques de Trump: ""Siembra la paz, con valentía y coraje"" - ElPlural.com",2026-04-13 17:38
+inmigración,3,0,5.0,100,"newtral, elmundo_espana, elespanol, okdiario",4,Cuentas antiinmigración viralizan una supuesta “invasión migratoria” a España con un vídeo grabado en Senegal,2026-04-13 17:38
+sexuales,3,0,5.0,100,"elmundo, elcorreo, levante_emv",3,El pederasta del Raval acepta 83 años de cárcel por violar a una menor de 12 años tutelada y grabar las agresiones sexuales,2026-04-13 17:38
+grabar,3,0,5.0,100,"elmundo, eldiario, elmundo_espana",3,El pederasta del Raval acepta 83 años de cárcel por violar a una menor de 12 años tutelada y grabar las agresiones sexuales,2026-04-13 17:38
+menores,3,1,9.52,100,"20minutos, elpais, newtral",3,Los pisos del Plan Vive destinados a menores de 35 años se iniciarán este año en ocho municipios madrileños,2026-04-13 17:38
+federación,4,0,5.0,100,"google_news_internacional, google_news_es, okdiario",3,Maite Jiménez-Orta y Jesús Vela continúan con una buena progresión internacional en su paso por la Copa de Europa de Monte Gordo - Federación Andaluza de Triatlón,2026-04-13 17:38
+eliminado,5,1,15.87,100,"elespanol, heraldo_aragon, sur, elmundo_internacional, lavanguardia",5,"Trump, tras comenzar el bloqueo en Ormuz: ""Si algún buque iraní se acerca, será eliminado inmediatamente""",2026-04-13 17:38
+asiático,3,0,5.0,100,"google_news_economia, okdiario",2,Bodegas Osborne se expande en Singapur para llevar vino español a todo el sudeste asiático - ABC,2026-04-13 17:38
+médicos,4,2,6.35,100,"elcorreo, levante_emv, eldiario, newtral",4,Médicos y enfermeras de la zona de Añana y Valdegovía inician una semana de huelga,2026-04-13 17:38
+participan,3,1,9.52,100,"google_news_internacional, 20minutos",2,Unos 32 productores cántabros participan en el 39 Salón Internacional del Club de Gourmets - ifomo.es,2026-04-13 17:38
+cuidado,3,1,9.52,100,"maldita, 20minutos",2,Cuidado con esta imagen que muestra a los astronautas de la misión Artemis II en un croma: tiene indicios de haber sido manipulada,2026-04-13 17:38
+destaca,5,3,5.29,100,"heraldo_aragon, levante_emv, europapress, elespanol, sur",5,"Sheinbaum destaca que ""hay un avance"" en cómo Felipe VI percibe la llegada de los españoles a México",2026-04-13 17:38
+felipe,4,2,6.35,100,"heraldo_aragon, google_news_internacional, europapress, huffington_es",4,"Sheinbaum destaca que ""hay un avance"" en cómo Felipe VI percibe la llegada de los españoles a México",2026-04-13 17:38
+viene,4,2,6.35,100,"france24_es, lavanguardia, google_news_es",3,¿Quién es Péter Magyar y qué viene para Hungría y la UE tras su triunfo?,2026-04-13 17:38
+ayudar,3,1,9.52,100,"elmundo_internacional, elcorreo, 20minutos",3,"Reino Unido y Francia descartan ayudar a Trump en el bloqueo de Ormuz: ""No vamos a dejarnos arrastrar a la guerra""",2026-04-13 17:38
+llegada,5,1,15.87,100,"heraldo_aragon, europapress, lavanguardia, sur, elespanol",5,"Sheinbaum destaca que ""hay un avance"" en cómo Felipe VI percibe la llegada de los españoles a México",2026-04-13 17:38
+cámara,3,0,5.0,100,google_news_economia,1,Santander y Cámara de España amplían al 5 de mayo el plazo de inscripción para el Premio Pyme 2026 - Revista Capital,2026-04-13 17:38
+tramo,5,1,15.87,100,"elcorreo, heraldo_aragon, levante_emv",3,El Aurrera de Ondarroa y el Bermeo miran sin problemas al tramo final de la Liga,2026-04-13 17:38
+invertir,3,1,9.52,100,"efe, elpais",2,Aagesen sostiene que en España hay «un gran apetito» por invertir en proyectos sostenibles,2026-04-13 17:38
+avanza,4,1,12.7,100,"okdiario, elcorreo, newtral, elespanol",4,La UFC avanza la pelea de Topuria en la Casa Blanca: «La idea más revolucionaria de la historia del deporte»,2026-04-13 17:38
+libertad,6,3,6.35,100,"okdiario, france24_es, elpais, google_news_internacional, lavanguardia",5,Los linces aragoneses Windtail y Wynx buscan la libertad encarando la colonización del Valle del Ebro,2026-04-13 17:38
+amplían,3,0,5.0,100,google_news_economia,1,Santander y Cámara de España amplían al 5 de mayo el plazo de inscripción para el Premio Pyme 2026 - Revista Capital,2026-04-13 17:38
+elimina,3,1,9.52,100,"elpais, elpais_internacional, okdiario, heraldo_aragon, elespanol",5,Trump elimina la imagen que publicó en la red social Truth en la que aparece como Jesucristo,2026-04-13 17:38
+incluidos,3,1,9.52,100,"elpais, google_news_es",2,"El juez Peinado procesa a Begoña Gómez por cuatro delitos, incluidos malversación y tráfico de influencias tras una polémica instrucción",2026-04-13 17:38
+reclaman,3,1,9.52,100,"levante_emv, 20minutos",2,Los Comités de Reconstrucción reclaman al Gobierno un plan para mejorar Cercanías y Metrovalencia ante el deterioro del transporte,2026-04-13 17:38
+huelga,3,1,9.52,100,"elcorreo, sur, eldiario",3,Médicos y enfermeras de la zona de Añana y Valdegovía inician una semana de huelga,2026-04-13 17:38
+jesucristo,7,2,11.11,100,"elpais, elcorreo, eldiario, 20minutos, elespanol",5,Trump elimina la imagen que publicó en la red social Truth en la que aparece como Jesucristo,2026-04-13 17:38
+gigante,4,0,5.0,100,"okdiario, expansion, google_news_economia",3,Así será el escenario del combate de Topuria en la Casa Blanca: un octágono con un arco metálico gigante,2026-04-13 17:38
+fiestas,4,2,6.35,100,"elcorreo, google_news_es, heraldo_aragon",3,"Barracas, disfraces, danza y magia para celebrar las fiestas de Lutxana",2026-04-13 17:38
+decisión,4,0,5.0,100,"20minutos, okdiario, elcorreo, google_news_politica",4,​El MNAC recurrirá contra la decisión de la juez que da 56 semanas para trasladar las obras de Sijena,2026-04-13 17:38
+dentro,5,2,7.94,100,"elcorreo, levante_emv, google_news_es, 20minutos",4,Malestar en los pueblos cercanos que no podrán aparcar dentro de Lekeitio,2026-04-13 17:38
+sobres,3,0,5.0,100,"20minutos, elconfidencial, google_news_es",3,"La ex de Koldo confirma que recogió ""sobres"" en Ferraz para reembolsar gastos de Ábalos y el exasesor",2026-04-13 17:38
+rechaza,6,4,4.76,95,"heraldo_aragon, okdiario, elcorreo, eldiario, efe",5,Lío vecinal por el cierre nocturno del parque Bruil de Zaragoza: la FABZ lo rechaza y pide una solución para los sintecho,2026-04-13 17:38
+disponible,3,2,4.76,95,"heraldo_aragon, 20minutos",2,El nuevo tratamiento inyectable para prevenir el VIH ya está disponible en España,2026-04-13 17:38
+procesar,3,2,4.76,95,"levante_emv, google_news_politica, okdiario",3,Bolaños replica al juez Peinado tras procesar a Begoña Gómez: “Un tribunal imparcial lo revocará”,2026-04-13 17:38
+foment,3,2,4.76,95,"elcorreo, eldiario, expansion, lavanguardia",4,Durango fomentará la creación literaria en euskera,2026-04-13 17:38
+húngaro,3,2,4.76,95,"elmundo_internacional, levante_emv, newtral, elcorreo",4,"Péter Magyar pide la dimisión del presidente húngaro y le acusa de actuar como ""títere"" de Orban",2026-04-13 17:38
+imagen,9,6,4.76,95,"elpais, eldiario, heraldo_aragon, elespanol, 20minutos",5,Trump elimina la imagen que publicó en la red social Truth en la que aparece como Jesucristo,2026-04-13 17:38
+ciclismo,3,2,4.76,95,"heraldo_aragon, levante_emv",2,Detenido el triple campeón del mundo de ciclismo Óscar Freire tras la denuncia de su mujer,2026-04-13 17:38
+ayudas,3,2,4.76,95,"okdiario, elpais, levante_emv",3,El Gobierno de Ayuso lo confirma y la agricultura lo celebra: se mantienen las dos ayudas más necesarias para el sector,2026-04-13 17:38
+promete,3,2,4.76,95,"elmundo_espana, 20minutos, sur, europapress, google_news_internacional",5,"""Me lo llevo por delante; le busco una avería"": el investigador del 'caso Kitchen' recuerda en el juicio la amenaza de Villarejo a Rajoy de  sacar ""información comprometedora""",2026-04-13 17:38
+ontinyent,3,2,4.76,95,levante_emv,1,Compromís propone al pleno reivindicar los servicios sanitarios necesarios para Ontinyent y la apertura del nuevo hospital,2026-04-13 17:38
+viviendas,3,2,4.76,95,"okdiario, newtral, sur",3,"Alicante inicia su otro PGOU: un superparque con 1.400 viviendas, 14 vías y 420 millones de inversión",2026-04-13 17:38
+plataforma,3,2,4.76,95,"levante_emv, elmundo, heraldo_aragon",3,Las mujeres bajitas coinciden: estas sandalias con plataforma de Skechers son muy cómodas y estilizan la silueta,2026-04-13 17:38
+información,3,2,4.76,95,"elmundo_espana, google_news_internacional, 20minutos",3,"""Me lo llevo por delante; le busco una avería"": el investigador del 'caso Kitchen' recuerda en el juicio la amenaza de Villarejo a Rajoy de  sacar ""información comprometedora""",2026-04-13 17:38
+construye,3,2,4.76,95,"okdiario, google_news_internacional",2,Chile rompe los récords: construye 195 km de tuberías para llevar agua del mar a una mina a 4.400 metros de altitud,2026-04-13 17:38
+tenemos,3,2,4.76,95,"levante_emv, 20minutos, elmundo",3,"Flick: ""Tenemos que ser valientes. Creer que lo podemos lograr""",2026-04-13 17:38
+preparan,3,2,4.76,95,"sur, elcorreo, lavanguardia",3,"De Alaska a Marisol, sin olvidar a Nino Bravo: 400 niños de Alhaurín de la Torre preparan su primer concierto y tienen lleno asegurado",2026-04-13 17:38
+límite,3,2,4.76,95,"elcorreo, france24_es",2,El SEPE exigirá devolver los cobros indebidos del subsidio de mayores de 52 años si se supera el límite de rentas,2026-04-13 17:38
+propias,3,2,4.76,95,"okdiario, elconfidencial, google_news_politica",3,El juez acusa a Begoña de conductas propias de un régimen absolutista: «Habría que remontarse a Fernando VII»,2026-04-13 17:38
+renovables,3,2,4.76,95,"expansion, google_news_economia",2,"Baterías e interconexiones, claves para el desarrollo de las renovables",2026-04-13 17:38
+plazo,6,4,4.76,95,"levante_emv, google_news_economia, france24_es",3,"Catarroja inicia la rehabilitación de su sede de Servicios Sociales, afectada por la dana, con fondos estatales y un plazo de cuatro meses",2026-04-13 17:38
+premiado,3,2,4.76,95,"okdiario, google_news_internacional, huffington_es, levante_emv",4,"Comprobar Bonoloto: resultado y número premiado hoy, lunes 13 de abril de 2026",2026-04-13 17:38
+inicia,6,4,4.76,95,"levante_emv, elcorreo, google_news_politica, 20minutos, google_news_internacional",5,"Catarroja inicia la rehabilitación de su sede de Servicios Sociales, afectada por la dana, con fondos estatales y un plazo de cuatro meses",2026-04-13 17:38
+presenta,10,7,4.54,90,"google_news_es, heraldo_aragon, levante_emv, sur, huffington_es",5,Indra presenta en la feria UDT de Londres sus tecnologías de vanguardia para submarinos de última generación - Empresa Exterior,2026-04-13 17:38
+polémica,7,5,4.44,88,"elcorreo, 20minutos, levante_emv, elpais, google_news_es",5,El presidente de EEUU borra su polémica foto en la que se retrataba como Jesucristo,2026-04-13 17:38
+alianza,4,3,4.23,84,"sur, okdiario, google_news_internacional",3,Unicaja y Wizink negocian una alianza para sumar fuerzas en préstamos al consumo,2026-04-13 17:38
+berlín,4,3,4.23,84,"elpais, google_news_es, google_news_internacional, 20minutos",4,Las lecciones que dejan los 10 ‘curados’ del VIH tras un trasplante de células madre: del icónico caso de Berlín al ‘paciente de Oslo’,2026-04-13 17:38
+socios,4,3,4.23,84,"expansion, sur, elmundo, eldiario",4,Los socios de Ashurst y Perkins Coie aprueban su fusión para crear un gigante de la abogacía,2026-04-13 17:38
+entradas,4,3,4.23,84,"sur, elcorreo, heraldo_aragon",3,Entradas Tootsie- El Musical en el Teatro del Soho CaixaBank a mitad de precio,2026-04-13 17:38
+vicente,4,3,4.23,84,levante_emv,1,La Ofrenda a San Vicente acaba... con incendio de una palmera,2026-04-13 17:38
+universidad,4,3,4.23,84,"google_news_internacional, sur, okdiario, google_news_es",4,"Internacional de Andalucía, 25 años de universidad de posgrado en Málaga - Diario Sur",2026-04-13 17:38
+exmujer,4,3,4.23,84,"heraldo_aragon, elcorreo, levante_emv",3,"La exmujer de Koldo dice que ""Ferraz era muy rígido"" con los reintegros de gastos a José Luis Ábalos",2026-04-13 17:38
+bolsa,4,3,4.23,84,"heraldo_aragon, elcorreo, google_news_es, google_news_economia, okdiario",5,Las Bolsas caen y el petróleo sube por el bloqueo de Trump del estrecho de Ormuz,2026-04-13 17:38
+pleno,4,3,4.23,84,"levante_emv, elpais, heraldo_aragon",3,Compromís propone al pleno reivindicar los servicios sanitarios necesarios para Ontinyent y la apertura del nuevo hospital,2026-04-13 17:38
+regularización,8,6,4.23,84,"heraldo_aragon, google_news_politica, huffington_es, elcorreo, elmundo_espana",5,"La regularización extraordinaria de hasta 17.000 inmigrantes en Aragón se aprobará previsiblemente este martes, 14 de abril",2026-04-13 17:38
+judicial,4,3,4.23,84,"heraldo_aragon, elmundo_espana, google_news_es",3,El MNAC estudia la resolución judicial que pone fecha a la vuelta de las pinturas de Sijena,2026-04-13 17:38
+redes,9,7,4.08,81,"huffington_es, elespanol, levante_emv, eldiario, heraldo_aragon",5,‘Frutinovelas’: ¿entretenimiento viral o contenido tóxico sin control en redes?,2026-04-13 17:38
+lograr,5,4,3.97,79,"elpais, levante_emv, google_news_internacional",3,"Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Trump afirma que Irán “ha llamado esta mañana” para lograr un acuerdo",2026-04-13 17:38
+danza,5,4,3.97,79,"elcorreo, google_news_internacional, google_news_es",3,"Barracas, disfraces, danza y magia para celebrar las fiestas de Lutxana",2026-04-13 17:38
+vídeo,5,4,3.97,79,"newtral, maldita",2,Cuentas antiinmigración viralizan una supuesta “invasión migratoria” a España con un vídeo grabado en Senegal,2026-04-13 17:38
+atlético,5,4,3.97,79,"elmundo, google_news_es, elpais",3,"Lamine y su táctica para remontar ante el Atlético: ""Ojalá el Cholo me haga un favor y me ponga uno contra uno con alguien""",2026-04-13 17:38
+imágenes,5,4,3.97,79,"lavanguardia, newtral, 20minutos, levante_emv, expansion",5,"La espera del concierto de la Rosalía, el Papa visita Argelia y más imágenes del día",2026-04-13 17:38
+comunidad,10,8,3.97,79,"google_news_es, google_news_internacional, elpais, lavanguardia",4,Seis producciones en el Festival 'Ópera a quemarropa' de la Comunidad de Madrid - Ópera Actual,2026-04-13 17:38
+malaga,6,5,3.81,76,sur,1,Skateboarding showcase thrills as 12-year-old from Malaga shines on home stage,2026-04-13 17:38
+parque,6,5,3.81,76,"elcorreo, okdiario, heraldo_aragon, elpais",4,Leioa celebrará el Txiki Eguna en el parque Arriena con actividades creativas,2026-04-13 17:38
+acusa,7,6,3.7,74,"okdiario, elmundo_internacional, 20minutos, google_news_es, lavanguardia",5,El juez acusa a Begoña de conductas propias de un régimen absolutista: «Habría que remontarse a Fernando VII»,2026-04-13 17:38
+denuncia,7,6,3.7,74,"levante_emv, elcorreo, google_news_es, 20minutos, elespanol",5,"El relato de una mujer que denuncia una agresión sexual en Castellón: «Cogí una toalla, me tapé sólo con eso y escapé a la calle»",2026-04-13 17:38
+koldo,22,19,3.68,73,"elpais, elmundo, heraldo_aragon, newtral, europapress",5,La expareja de Koldo asegura que el PSOE era “muy rígido” al abonar los gastos y afirma no reconocer los mensajes de las “chistorras”,2026-04-13 17:38
+asegura,8,7,3.63,72,"levante_emv, elcorreo, sur, elpais, google_news_internacional",5,"Trump asegura que Irán le ha llamado esta mañana: ""Tienen muchas ganas de llegar a un acuerdo""",2026-04-13 17:38
+tráfico,9,8,3.57,71,"huffington_es, google_news_internacional, elpais, google_news_es, sur",5,Ester Muñoz compara al soldado español retenido por Israel con un control de tráfico y lo que le responde un transportista es demoledor,2026-04-13 17:38
+premio,9,8,3.57,71,"levante_emv, google_news_internacional, google_news_economia, 20minutos, elpais",5,El hotel Las Arenas acoge una nueva edición de los Premios Empresa del Año Banco Sabadell,2026-04-13 17:38
+influencias,3,3,3.17,63,"elpais, google_news_es",2,"El juez Peinado procesa a Begoña Gómez por cuatro delitos, incluidos malversación y tráfico de influencias tras una polémica instrucción",2026-04-13 17:38
+declaraciones,3,3,3.17,63,"huffington_es, maldita, 20minutos",3,Un prestigioso historiador tiene algo que decir a Pérez-Reverte tras sus declaraciones sobre la Guerra Civil,2026-04-13 17:38
+proyección,3,3,3.17,63,google_news_internacional,1,Dansa València refuerza su proyección internacional con un centenar de agentes culturales - Actualidad Valencia,2026-04-13 17:38
+capital,5,5,3.17,63,"google_news_internacional, google_news_economia, elespanol",3,La Pola se suma al Día Internacional de los Monumentos y Sitios: PolArte ofrecerá visitas guiadas por la capital sierense el próximo fin de semana - La Nueva España,2026-04-13 17:38
+concurso,4,4,3.17,63,google_news_internacional,1,"Sonríe Tempranillo y Win Espumoso Rosé, premiados en e concurso internacional Cinve - Radio Intereconomía",2026-04-13 17:38
+prensa,5,5,3.17,63,"google_news_es, elpais, 20minutos, google_news_internacional",4,Pragmata se lleva estas excelentes notas de parte de la prensa - Nintenderos,2026-04-13 17:38
+expareja,15,15,3.17,63,"elpais, huffington_es, eldiario, europapress, lavanguardia",5,La expareja de Koldo asegura que el PSOE era “muy rígido” al abonar los gastos y afirma no reconocer los mensajes de las “chistorras”,2026-04-13 17:38
+sabemos,3,3,3.17,63,"20minutos, maldita",2,Así serán las nuevas gafas inteligentes de Apple con Siri: esto es todo lo que sabemos,2026-04-13 17:38
+metro,6,6,3.17,63,"okdiario, levante_emv, 20minutos, expansion, google_news_es",5,La DGT confirma los nuevos radares en España: con tecnología láser para detectar vehículos «a cientos de metros»,2026-04-13 17:38
+éxito,3,3,3.17,63,"levante_emv, google_news_internacional, sur",3,El tortuoso camino de Rory McIlroy hasta prodigarse en el éxito en Augusta,2026-04-13 17:38
+romper,3,3,3.17,63,"levante_emv, elpais, google_news_internacional",3,"Mariona Caldentey, de romper mitos a encontrar la gloria: España e Inglaterra se citan en Wembley",2026-04-13 17:38
+periódico,4,4,3.17,63,google_news_internacional,1,La Final Six de la Euroliga más internacional: Zaragoza acogerá en el pabellón Príncipe Felipe a jugadoras de 22 países - El Periódico de Aragón,2026-04-13 17:38
+londres,3,3,3.17,63,"google_news_es, google_news_internacional, huffington_es",3,Indra presenta en la feria UDT de Londres sus tecnologías de vanguardia para submarinos de última generación - Empresa Exterior,2026-04-13 17:38
+descuentos,3,3,3.17,63,"levante_emv, lavanguardia",2,La Feria del Vehículo de Ocasión de València reúne 2.000 coches con descuentos desde este viernes,2026-04-13 17:38
+salvación,3,3,3.17,63,"elcorreo, heraldo_aragon, levante_emv",3,La salvación se abarata ahora y al Mirandés le podría bastar con 'sólo' 46 puntos,2026-04-13 17:38
+cualquier,8,8,3.17,63,"okdiario, heraldo_aragon, google_news_es, elcorreo, elmundo_internacional",5,Trump amenaza con «eliminar inmediatamente» en Ormuz cualquier buque iraní que intente sortear el bloqueo de EEUU,2026-04-13 17:38
+nueve,4,4,3.17,63,"20minutos, levante_emv, sur, elpais",4,"Marta López recuerda los abusos que sufrió con nueve años: ""Toda la vida he sido incapaz de verbalizarlo""",2026-04-13 17:38
+cuentas,3,3,3.17,63,"heraldo_aragon, newtral, okdiario",3,"El Huesca, obligado a rozar la perfección: las cuentas de la salvación pasan por un final casi impecable",2026-04-13 17:38
+trimestre,4,4,3.17,63,"expansion, google_news_economia, okdiario",3,Las ventas de LVMH caen un 6% en el primer trimestre por la guerra en Oriente Medio,2026-04-13 17:38
+reúne,4,4,3.17,63,"heraldo_aragon, levante_emv, 20minutos",3,La gestora de dos piscinas de Zaragoza se reúne con el Ayuntamiento para decidir el futuro de sus 50 trabajadores,2026-04-13 17:38
+logran,3,3,3.17,63,"okdiario, efe, elpais",3,Hito colosal de la ciencia española: investigadores gallegos logran criopreservar por primera vez larvas de medusa,2026-04-13 17:38
+concierto,3,3,3.17,63,"sur, levante_emv, lavanguardia, eldiario",4,"De Alaska a Marisol, sin olvidar a Nino Bravo: 400 niños de Alhaurín de la Torre preparan su primer concierto y tienen lleno asegurado",2026-04-13 17:38
+artificial,5,5,3.17,63,"okdiario, eldiario, efe, maldita, google_news_economia",5,La megaconstrucción que deja sin palabras a los ingenieros: un puente de 24 km con dos islas artificiales y un museo,2026-04-13 17:38
+inteligencia,5,5,3.17,63,"eldiario, efe, maldita, google_news_economia",4,La inteligencia artificial falla en los diagnósticos médicos sin supervisión humana,2026-04-13 17:38
+familias,3,3,3.17,63,"heraldo_aragon, 20minutos, levante_emv",3,Familias del colegio Cesáreo Alierta de Zaragoza recogen más de 300 firmas para pedir un cambio en la dirección del centro,2026-04-13 17:38
+banquillo,3,3,3.17,63,"elconfidencial, elcorreo",2,"Begoña Gómez, camino del banquillo por “conductas propias de regímenes absolutistas”",2026-04-13 17:38
+central,3,3,3.17,63,"el_confidencial_tech, elpais, heraldo_aragon",3,Japón planifica un anillo solar de 11.000 km para convertir la Luna en una central eléctrica,2026-04-13 17:38
+llegar,5,5,3.17,63,"levante_emv, elcorreo, okdiario, 20minutos, france24_es",5,"Trump asegura que Irán le ha llamado esta mañana: ""Tienen muchas ganas de llegar a un acuerdo""",2026-04-13 17:38
+creación,4,4,3.17,63,"elcorreo, google_news_economia, sur, google_news_internacional",4,Durango fomentará la creación literaria en euskera,2026-04-13 17:38
+alicante,9,9,3.17,63,"okdiario, elpais, sur, google_news_internacional, elespanol",5,Llorca anuncia nuevas infraestructuras para Alicante y reclama a Sánchez la ampliación del aeropuerto,2026-04-13 17:38
+político,5,5,3.17,63,"elcorreo, okdiario, google_news_internacional, 20minutos, europapress",5,"El Papa responde a Trump: «No soy político, hablo del Evangelio»",2026-04-13 17:38
+muestra,6,6,3.17,63,"okdiario, 20minutos, huffington_es, maldita, google_news_es",5,‘Los juegos del hambre’ prepara su película definitiva: ‘Amanecer en la cosecha’ muestra un nuevo y épico tráiler,2026-04-13 17:38
+menor,8,8,3.17,63,"levante_emv, 20minutos, elpais, elcorreo, lavanguardia",5,El pederasta del Raval acepta 83 años de prisión por violar y prostituir a una menor tutelada,2026-04-13 17:38
+calidad,3,3,3.17,63,"heraldo_aragon, google_news_internacional",2,"Marco Aurelio, filósofo y emperador romano: ""La calidad de tu vida depende de la calidad de tus pensamientos""",2026-04-13 17:38
+centro,12,13,2.93,58,"elcorreo, heraldo_aragon, google_news_internacional, maldita",4,El centro de interpretación de Kobaron será realidad en mayo,2026-04-13 17:38
+avance,7,8,2.78,55,"okdiario, heraldo_aragon, europapress, france24_es",4,"Avance de ‘En tierra lejana’ de hoy, 13 de abril: Sahin se enfrenta a su padre",2026-04-13 17:38
+champions,6,7,2.72,54,"okdiario, levante_emv, google_news_es, eldiario",4,Flick no sufre más bajas para la Champions: Bernal se entrena en el Metropolitano con normalidad,2026-04-13 17:38
+proyectos,5,6,2.65,52,"google_news_internacional, efe",2,El Ayuntamiento de Lucena destina 200.000 euros a subvenciones para asociaciones y proyectos de cooperación internacional - Diario Córdoba,2026-04-13 17:38
+crisis,10,12,2.65,52,"france24_es, google_news_politica, elpais, okdiario, lavanguardia",5,Geopolítica del café: ¿puede la crisis global cambiar el consumo mundial?,2026-04-13 17:38
+exige,4,5,2.54,50,"expansion, elespanol, google_news_internacional, lavanguardia",4,"""La gran oportunidad de las renovables exige mayor seguridad jurídica""",2026-04-13 17:38
+galicia,4,5,2.54,50,"google_news_es, elmundo_espana, google_news_economia",3,Galicia amplía la vacuna contra la gripe a todos los mayores de 65 años - Redacción Médica,2026-04-13 17:38
+autónomos,4,5,2.54,50,"okdiario, 20minutos, eldiario, elpais",4,El hachazo oculto del Gobierno a los autónomos,2026-04-13 17:38
+línea,4,5,2.54,50,"sur, 20minutos, expansion, okdiario",4,"Mayoral presenta en Málaga su nueva línea de moda femenina, BRIA",2026-04-13 17:38
+tierra,4,5,2.54,50,"okdiario, elcorreo, el_confidencial_tech, google_news_es, efe",5,"Avance de ‘En tierra lejana’ de hoy, 13 de abril: Sahin se enfrenta a su padre",2026-04-13 17:38
+reconoce,12,15,2.54,50,"eldiario, elpais, google_news_politica, europapress, elcorreo",5,"Sheinbaum reconoce los gestos de España sobre la conquista antes de su visita a Barcelona, pero insiste: ""Saquearon nuestros territorios durante 300 años""",2026-04-13 17:38
+costa,4,5,2.54,50,"sur, levante_emv, elcorreo",3,La Costa del Sol refuerza el turismo de negocios en los Países Nórdicos,2026-04-13 17:38
+mitad,4,5,2.54,50,"sur, elespanol, huffington_es",3,Entradas Tootsie- El Musical en el Teatro del Soho CaixaBank a mitad de precio,2026-04-13 17:38
+bolaños,4,5,2.54,50,"levante_emv, google_news_politica, okdiario, elcorreo",4,Bolaños replica al juez Peinado tras procesar a Begoña Gómez: “Un tribunal imparcial lo revocará”,2026-04-13 17:38
+oficial,7,9,2.47,49,"heraldo_aragon, google_news_politica, google_news_internacional, maldita, huffington_es",5,La expresidenta de las Cortes Marta Fernández estrena su retrato oficial,2026-04-13 17:38
+abrir,3,4,2.38,47,"elcorreo, europapress, 20minutos, elespanol",4,"Amaia Agirre explica su decisión: «Se cierra una etapa, es el momento de abrir paso a nuevas personas»",2026-04-13 17:38
+euphoria,3,4,2.38,47,"okdiario, 20minutos, google_news_internacional",3,No se pueden hacer ‘spoilers’ de lo nuevo de ‘Euphoria’ porque no pasa gran cosa,2026-04-13 17:38
+estrella,3,4,2.38,47,"20minutos, lavanguardia, eldiario",3,Del jersey de 'El diablo viste de Prada' a tu sofá: el azul se convierte en el color estrella en el área de la decoración,2026-04-13 17:38
+convierte,6,8,2.38,47,"20minutos, eldiario, okdiario, lavanguardia, google_news_internacional",5,Rusia se convierte en el ganador del bloqueo de Ormuz y duplica sus ingresos petroleros,2026-04-13 17:38
+conde,3,4,2.38,47,"levante_emv, elcorreo, elmundo, okdiario, elpais",5,"Alcaraz, ante su debut en el Conde de Godó: ""Tengo que ganar aquí si quiero recuperar el número uno""",2026-04-13 17:38
+eduardo,3,4,2.38,47,"eldiario, okdiario, 20minutos, elcorreo",4,"Eduardo Mendoza: “Yo nunca me he considerado un artista, pero sí un artesano”",2026-04-13 17:38
+atrás,3,4,2.38,47,"heraldo_aragon, elespanol, elcorreo",3,"Cuenta atrás para la inauguración de The Wave, el gran evento tecnológico de Aragón: ""Hay 15.000 inscritos""",2026-04-13 17:38
+artista,3,4,2.38,47,"heraldo_aragon, eldiario, lavanguardia, elcorreo",4,Un millar de artistas de Hollywood firman una carta contra la fusión de Warner y Paramount,2026-04-13 17:38
+nolan,3,4,2.38,47,"heraldo_aragon, 20minutos",2,"Muere John Nolan, actor de El caballero oscuro y tío de Christopher Nolan",2026-04-13 17:38
+vecinos,3,4,2.38,47,"elcorreo, lavanguardia",2,Los vecinos de Uribe Kosta podrán ayudar en la lucha contra las plantas invasoras,2026-04-13 17:38
+street,3,4,2.38,47,"elpais, google_news_internacional, france24_es",3,Un juez desestima la demanda millonaria de Trump contra Murdoch y ‘The Wall Street Journal’ por el dibujo erótico enviado a Epstein,2026-04-13 17:38
+restaurante,3,4,2.38,47,"20minutos, heraldo_aragon, elcorreo",3,"Reabre la histórica 'Capilla Sixtina del Azulejo' en Madrid: tendrá una taberna, un restaurante y una sala de espectáculos",2026-04-13 17:38
+migrantes,3,4,2.38,47,"heraldo_aragon, newtral, elcorreo, elpais, 20minutos",5,"La regularización extraordinaria de hasta 17.000 inmigrantes en Aragón se aprobará previsiblemente este martes, 14 de abril",2026-04-13 17:38
+decisiones,3,4,2.38,47,"eldiario, google_news_internacional",2,"La  inteligencia artificial falla y alucina en decisiones de inversión en Bolsa, alerta la CNMV",2026-04-13 17:38
+millón,3,4,2.38,47,"eldiario, google_news_internacional, levante_emv",3,Roban los datos personales y bancarios de un millón de socios de los gimnasios Basic-Fit,2026-04-13 17:38
+salón,3,4,2.38,47,"20minutos, google_news_internacional, google_news_es",3,"La casa de lujo prefabricada de Amazon: cocina, salón, dos habitaciones y baño equipado por 11.000 euros",2026-04-13 17:38
+jueves,3,4,2.38,47,"elcorreo, google_news_es, google_news_politica",3,Amorebieta acogerá este jueves la I Feria de Formación y Empleo Joven,2026-04-13 17:38
+hollywood,3,4,2.38,47,"heraldo_aragon, eldiario, lavanguardia",3,Un millar de artistas de Hollywood firman una carta contra la fusión de Warner y Paramount,2026-04-13 17:38
+cumple,3,4,2.38,47,"efe, 20minutos, google_news_internacional",3,Fatou cumple 69 años y es la gorila más longeva del mundo,2026-04-13 17:38
+malversación,3,4,2.38,47,"elpais, google_news_es",2,"El juez Peinado procesa a Begoña Gómez por cuatro delitos, incluidos malversación y tráfico de influencias tras una polémica instrucción",2026-04-13 17:38
+inglaterra,3,4,2.38,47,"levante_emv, google_news_es, lavanguardia",3,"Mariona Caldentey, de romper mitos a encontrar la gloria: España e Inglaterra se citan en Wembley",2026-04-13 17:38
+empresa,3,4,2.38,47,"levante_emv, google_news_es, google_news_internacional, google_news_economia, 20minutos",5,El hotel Las Arenas acoge una nueva edición de los Premios Empresa del Año Banco Sabadell,2026-04-13 17:38
+madre,11,15,2.33,46,"okdiario, levante_emv, google_news_es, heraldo_aragon, 20minutos",5,La dedicatoria de Sara Carbonero a su madre en la tarjeta del funeral: «Una parte de nosotras se va contigo»,2026-04-13 17:38
+pareja,8,11,2.31,46,"elcorreo, levante_emv, sur, elpais, huffington_es",5,La duranguesa Maialen Bilbao vence en la categoría mixta de parejas y alcanza la final en féminas,2026-04-13 17:38
+empresas,5,7,2.27,45,"google_news_economia, 20minutos, levante_emv, heraldo_aragon",4,España registra 38.135 nuevas empresas en el primer trimestre del año - Economía 3,2026-04-13 17:38
+conquista,5,7,2.27,45,"eldiario, levante_emv, elpais, google_news_politica, google_news_internacional",5,"Sheinbaum reconoce los gestos de España sobre la conquista antes de su visita a Barcelona, pero insiste: ""Saquearon nuestros territorios durante 300 años""",2026-04-13 17:38
+críticas,10,14,2.27,45,"heraldo_aragon, sur, france24_es, 20minutos, google_news_es",5,Trump elimina la imagen que publicó representado como Jesús tras una oleada de críticas por blasfemia,2026-04-13 17:38
+visita,7,10,2.22,44,"eldiario, levante_emv, lavanguardia, google_news_internacional, france24_es",5,"Sheinbaum reconoce los gestos de España sobre la conquista antes de su visita a Barcelona, pero insiste: ""Saquearon nuestros territorios durante 300 años""",2026-04-13 17:38
+miles,9,13,2.2,43,"levante_emv, expansion, elpais, heraldo_aragon, google_news_es",5,Booking alerta de un probable aumento de estafas tras sufrir un ciberataque y el robo de miles de datos de clientes,2026-04-13 17:38
+datos,13,19,2.17,43,"okdiario, levante_emv, 20minutos, elmundo, heraldo_aragon",5,Booking sufre el robo de datos personales de sus clientes tras un ciberataque,2026-04-13 17:38
+museo,4,6,2.12,42,"okdiario, google_news_es, google_news_internacional",3,La megaconstrucción que deja sin palabras a los ingenieros: un puente de 24 km con dos islas artificiales y un museo,2026-04-13 17:38
+momento,4,6,2.12,42,"levante_emv, elcorreo, 20minutos, heraldo_aragon, okdiario",5,"Dentro de los ensayos de la gira de OT 2025: ""Habrá cachondeo, bailoteos y también momentos para llorar""",2026-04-13 17:38
+méxico,4,6,2.12,42,"google_news_politica, heraldo_aragon, europapress, okdiario",4,México y España: Rumbo a la distensión diplomática en Barcelona - Cadena Politica,2026-04-13 17:38
+cambio,6,9,2.12,42,"20minutos, heraldo_aragon, lavanguardia, okdiario, sur",5,Cambios en el plano de la Feria de Abril de Sevilla 2026: estas son las nuevas calles y todas las casetas,2026-04-13 17:38
+cierra,6,9,2.12,42,"google_news_politica, elcorreo, heraldo_aragon, google_news_es, okdiario",5,"Sánchez cierra filas con el Papa tras los ataques de Trump: ""Siembra la paz, con valentía y coraje"" - ElPlural.com",2026-04-13 17:38
+noche,4,6,2.12,42,"okdiario, sur, heraldo_aragon, levante_emv",4,Palma se enfunda los guantes para una noche histórica de boxeo con dos títulos en juego en el Trofeu Ciutat de Palma,2026-04-13 17:38
+ministro,4,6,2.12,42,"okdiario, newtral, elmundo, google_news_es, huffington_es",5,Vox rechaza ir a un acto de Puente en Alicante para «no participar en el blanqueamiento» del ministro,2026-04-13 17:38
+instrucción,6,9,2.12,42,"elpais, google_news_es, elcorreo",3,"El juez Peinado procesa a Begoña Gómez por cuatro delitos, incluidos malversación y tráfico de influencias tras una polémica instrucción",2026-04-13 17:38
+junio,4,6,2.12,42,"google_news_es, huffington_es, elmundo",3,La séptima edición de Santander Escénica ofrecerá 19 experiencias artísticas para conectar con el teatro y la danza de la ciudad de abril a junio - santandercreativa.com,2026-04-13 17:38
+bienzobas,4,6,2.12,42,"okdiario, heraldo_aragon, elpais, huffington_es",4,El PP estalla por la excarcelación de Bienzobas: «Ninguna ley se creó para beneficiar a unos presos»,2026-04-13 17:38
+hacia,6,9,2.12,42,"heraldo_aragon, elcorreo, eldiario, sur, okdiario",5,"El exciclista Óscar Freire, condenado por un delito leve de vejaciones hacia su mujer",2026-04-13 17:38
+colegio,4,6,2.12,42,"elpais, heraldo_aragon, levante_emv",3,La Audiencia de Valencia cuestiona la “deriva procesal” de un caso de agresión sexual a 11 menores en un colegio del Opus: “Los niños deben ser oídos”,2026-04-13 17:38
+ayuntamiento,6,9,2.12,42,"heraldo_aragon, google_news_internacional, google_news_es, levante_emv",4,La gestora de dos piscinas de Zaragoza se reúne con el Ayuntamiento para decidir el futuro de sus 50 trabajadores,2026-04-13 17:38
+informe,7,11,2.02,40,"elmundo, okdiario, 20minutos, france24_es, levante_emv",5,"Adif sale al paso del informe de la Guardia Civil que apunta a una rotura del carril en Adamuz antes del accidente: interpreta elementos ""de manera incorrecta""",2026-04-13 17:38
+jóvenes,7,11,2.02,40,"elcorreo, levante_emv, google_news_internacional, maldita",4,Los jóvenes del club de Gernika de taekwondo suman 32 medallas en la Copa Benidorm,2026-04-13 17:38
+inversión,7,11,2.02,40,"okdiario, google_news_economia, eldiario, 20minutos",4,"Alicante inicia su otro PGOU: un superparque con 1.400 viviendas, 14 vías y 420 millones de inversión",2026-04-13 17:38
