@@ -1,52 +1,41 @@
 keyword,count_now,count_base,ratio,viral_score,sources,n_sources,sample_title,detected_at
-venezuela,3,2,19.97,100,"france24_es, levante_emv, elmundo",3,Petrolera estadounidense Chevron explotará más crudo en Venezuela en acuerdo con venezolana PDVSA,2026-04-14 03:39
-chinos,6,1,79.88,100,"europapress, elcorreo, google_news_economia",3,"Sánchez se reúne con empresarios chinos de la automoción, renovables y baterías para generar más empleo en España",2026-04-14 03:39
-déficit,5,2,33.28,100,"elcorreo, google_news_economia",2,El boom de los coches chinos dispara el déficit comercial de España con Pekín desde 2018,2026-04-14 03:39
-coches,6,11,7.26,100,"elcorreo, google_news_economia, expansion",3,El boom de los coches chinos dispara el déficit comercial de España con Pekín desde 2018,2026-04-14 03:39
-dudas,3,4,9.99,100,"elmundo_espana, google_news_politica, elcorreo",3,El Gobierno da vía libre a regularizar a 500.000 inmigrantes entre dudas del Consejo de Estado y reclamaciones judiciales en España y Europa,2026-04-14 03:39
-húngaro,3,3,13.31,100,"elmundo_internacional, google_news_internacional, elcorreo",3,Derrota del 'caballo de Troya' húngaro,2026-04-14 03:39
-demócrata,3,7,5.71,100,"elpais, google_news_politica",2,El congresista demócrata Eric Swalwell anuncia que demitirá tras denuncias de agresión sexual,2026-04-14 03:39
-dispara,6,15,5.33,100,"elcorreo, expansion, google_news_economia",3,El precio de la salvación se dispara para el Alavés,2026-04-14 03:39
-comercio,3,2,19.97,100,"google_news_economia, google_news_internacional, elcorreo",3,Los riesgos del comercio con China: la importación de alta tecnología de Pekín restaría 2.300 millones al PIB de España - El Español,2026-04-14 03:39
-pekín,7,10,9.32,100,"elespanol, google_news_economia, elcorreo",3,Siempre les quedará Pekín,2026-04-14 03:39
-consejo,4,2,26.63,100,"elespanol, elmundo_espana, google_news_politica, elcorreo, huffington_es",5,"El Consejo de Estado dictamina que el decreto de regularización masiva de inmigrantes debe ser ""repensado y revisado""",2026-04-14 03:39
-hezbolá,3,1,39.94,100,"elespanol, elcorreo",2,"Los libaneses chiíes rechazan la tregua con Israel: ""Si Hezbolá acepta la paz con Netanyahu, yo mismo lucharé contra Hezbolá""",2026-04-14 03:39
-renovables,3,7,5.71,100,"google_news_economia, europapress, expansion",3,El Gobierno acelera la implantación de renovables en España para contener la crisis energética mundial - EL PAÍS,2026-04-14 03:39
-chevron,3,1,39.94,100,"france24_es, levante_emv, elmundo",3,Petrolera estadounidense Chevron explotará más crudo en Venezuela en acuerdo con venezolana PDVSA,2026-04-14 03:39
-petrolera,3,0,5.0,100,"france24_es, levante_emv, elmundo",3,Petrolera estadounidense Chevron explotará más crudo en Venezuela en acuerdo con venezolana PDVSA,2026-04-14 03:39
-consumo,4,6,8.88,100,"google_news_internacional, expansion",2,Arranca en Hainan la VI Exposición Internacional de Productos de Consumo de China - CGTN en Español,2026-04-14 03:39
-comercial,5,7,9.51,100,"elcorreo, google_news_economia",2,El boom de los coches chinos dispara el déficit comercial de España con Pekín desde 2018,2026-04-14 03:39
-medidas,3,6,6.66,100,"heraldo_aragon, google_news_internacional, elespanol",3,Jaca urge al Ministerio medidas disuasorias en el viaducto del hospital tras dos recientes suicidios,2026-04-14 03:39
-ventas,3,6,6.66,100,"heraldo_aragon, el_confidencial_economia, expansion",3,Hacienda vigila en la declaración de la Renta estas ventas en Vinted o Wallapop y envía 437.000 avisos,2026-04-14 03:39
-energía,3,5,7.99,100,"el_confidencial_tech, levante_emv",2,Proponen una nueva fuente de energía: es cuántica y se carga retrocediendo en el tiempo,2026-04-14 03:39
-vivir,5,9,7.4,100,"heraldo_aragon, el_confidencial_economia, google_news_internacional, elmundo",4,¿Colonias humanas en la Luna? Qué dice el derecho internacional sobre instalarse a vivir allí,2026-04-14 03:39
-colonias,3,0,5.0,100,"heraldo_aragon, google_news_internacional, elcorreo",3,¿Colonias humanas en la Luna? Qué dice el derecho internacional sobre instalarse a vivir allí,2026-04-14 03:39
-presunta,3,3,13.31,100,"elconfidencial, google_news_politica, sur",3,"4,7 M de euros, un billete agraciado y una presunta estafa: juicio al lotero de A Coruña",2026-04-14 03:39
-baloncesto,3,0,5.0,100,"heraldo_aragon, elpais, google_news_es",3,"El tutor de Aday Mara en su colegio de Zaragoza: ""Tuve miedo de que dejara el baloncesto""",2026-04-14 03:39
-cumbre,3,8,4.99,99,"google_news_internacional, google_news_politica",2,Francia y el Reino Unido preparan una cumbre para discutir sobre una misión en Ormuz - heraldo.es,2026-04-14 03:39
-inmigrantes,3,8,4.99,99,"elespanol, elmundo_espana, google_news_politica",3,"El Consejo de Estado dictamina que el decreto de regularización masiva de inmigrantes debe ser ""repensado y revisado""",2026-04-14 03:39
-tener,4,11,4.84,96,"google_news_economia, elmundo, elcorreo, lavanguardia, expansion",5,El Gobierno acelera la implantación de renovables en España para contener la crisis energética mundial - EL PAÍS,2026-04-14 03:39
-español,9,27,4.44,88,"elconfidencial, el_confidencial_economia, google_news_internacional, elpais, elespanol",5,Muere un español cada 14 minutos esperando su ayuda a la dependencia,2026-04-14 03:39
-rosalía,4,13,4.1,81,"huffington_es, heraldo_aragon, elmundo",3,Rosalía deslumbra en su regreso a casa: consagración total en el Sant Jordi,2026-04-14 03:39
-mallorca,3,10,3.99,79,okdiario,1,Los ecoseparatistas de Més repudian el cicloturismo en Mallorca y lo añaden a su discurso turismofóbico,2026-04-14 03:39
-sigue,3,10,3.99,79,"france24_es, okdiario, google_news_es, sur",4,Perú en el limbo electoral: cierran las mesas y Keiko sigue a la espera de su rival en el balotaje,2026-04-14 03:39
-simeone,3,10,3.99,79,"heraldo_aragon, elespanol, google_news_es",3,El Cholo Simeone abre paso a dos aragoneses,2026-04-14 03:39
-crisis,6,21,3.8,76,"google_news_economia, elconfidencial, elmundo, elmundo_espana, elcorreo",5,El Gobierno acelera la implantación de renovables en España para contener la crisis energética mundial - EL PAÍS,2026-04-14 03:39
-electoral,3,13,3.07,61,france24_es,1,Perú en el limbo electoral: cierran las mesas y Keiko sigue a la espera de su rival en el balotaje,2026-04-14 03:39
-digital,3,13,3.07,61,"heraldo_aragon, google_news_economia, google_news_es",3,Deep tech: tecnologías digitales profundas para resolver retos industriales,2026-04-14 03:39
-ee.uu,3,14,2.85,57,"google_news_economia, google_news_es, lavanguardia",3,La Justicia bloquea un intento del Gobierno para frenar los embargos a España en EE.UU. - El Debate,2026-04-14 03:39
-historia,4,19,2.8,56,"elespanol, google_news_es, elcorreo, levante_emv",4,"Los jóvenes que crecieron en la Hungría de Orbán y votaron a Magyar para quitarle el poder: ""Estamos haciendo historia""",2026-04-14 03:39
-poder,4,20,2.66,53,"elespanol, france24_es, elcorreo",3,"Sánchez pide que Occidente ""renuncie"" a parte de su poder antes de ver a Xi, en pleno pulso entre China y EEUU por Ormuz",2026-04-14 03:39
-declaración,3,15,2.66,53,"heraldo_aragon, expansion",2,Cómo es posible desgravarse el alquiler en la declaración de la Renta en Aragón,2026-04-14 03:39
-debate,4,20,2.66,53,"google_news_economia, elcorreo",2,La Justicia bloquea un intento del Gobierno para frenar los embargos a España en EE.UU. - El Debate,2026-04-14 03:39
-justicia,3,15,2.66,53,"france24_es, google_news_economia, elmundo",3,España: ¿por qué la esposa de Pedro Sánchez afronta a la Justicia?,2026-04-14 03:39
-visita,3,15,2.66,53,"elmundo, france24_es, google_news_internacional, elmundo_espana",4,Los Cañitas Maite desembarcan en Málaga: la nueva excusa para visitar la ciudad sabe a croqueta y ensaladilla de gamba blanca malagueña,2026-04-14 03:39
-málaga,6,32,2.5,49,"elconfidencial, elmundo, sur",3,Tapones para teletrabajar y dormir: la vida con una discoteca bajo casa en el centro de Málaga,2026-04-14 03:39
-regularización,3,16,2.5,49,"elconfidencial, elespanol, elcorreo",3,El PP trasladó a la Conferencia Episcopal su oposición a la regularización masiva del Gobierno,2026-04-14 03:39
-gobierno,9,50,2.4,47,"google_news_economia, elconfidencial, elespanol, elmundo, elcorreo",5,El Gobierno acelera la implantación de renovables en España para contener la crisis energética mundial - EL PAÍS,2026-04-14 03:39
-acuerdo,4,23,2.32,46,"france24_es, okdiario, elcorreo, levante_emv, elmundo",5,Petrolera estadounidense Chevron explotará más crudo en Venezuela en acuerdo con venezolana PDVSA,2026-04-14 03:39
-estado,3,17,2.35,46,"france24_es, google_news_internacional, elespanol, elmundo_espana, google_news_politica",5,Petrolera estadounidense Chevron explotará más crudo en Venezuela en acuerdo con venezolana PDVSA,2026-04-14 03:39
-centro,4,24,2.22,44,"elconfidencial, elcorreo, bbc_mundo",3,Tapones para teletrabajar y dormir: la vida con una discoteca bajo casa en el centro de Málaga,2026-04-14 03:39
-dónde,3,19,2.1,42,"okdiario, sur",2,A qué hora es el Carlos Alcaraz – Virtanen y dónde ver gratis en directo y por TV el partido del Trofeo Conde de Godó 2026,2026-04-14 03:39
-diario,6,39,2.05,40,"google_news_internacional, google_news_es, elcorreo, google_news_economia",4,"Balls Up lleva el caos al fútbol internacional con una comedia sobre marketing, escándalo y persecuciones - MUNDIARIO",2026-04-14 03:39
-madre,4,26,2.05,40,"google_news_es, elcorreo, elmundo",3,Paciente noruego logra la remisión del VIH tras un trasplante de células madre de su hermano - Bloomberg Línea,2026-04-14 03:39
+acabar,3,6,7.31,100,"elpais_internacional, google_news_internacional, heraldo_aragon",3,Von der Leyen plantea acabar con la unanimidad en la toma de decisiones en la UE ante bloqueos como el de Hungría,2026-04-14 04:09
+energía,3,5,8.77,100,"el_confidencial_tech, levante_emv",2,Proponen una nueva fuente de energía: es cuántica y se carga retrocediendo en el tiempo,2026-04-14 04:09
+baloncesto,3,0,5.0,100,"heraldo_aragon, elpais, google_news_es",3,"El tutor de Aday Mara en su colegio de Zaragoza: ""Tuve miedo de que dejara el baloncesto""",2026-04-14 04:09
+escuela,3,1,43.84,100,"levante_emv, heraldo_aragon, elcorreo",3,"Joan Negre, de Gandia a la Escuela de Estudios Árabes en Granada",2026-04-14 04:09
+medidas,3,6,7.31,100,"heraldo_aragon, google_news_internacional, elespanol",3,Jaca urge al Ministerio medidas disuasorias en el viaducto del hospital tras dos recientes suicidios,2026-04-14 04:09
+sistema,4,7,8.35,100,"okdiario, elpais, google_news_economia, google_news_internacional, elcorreo",5,¿Ayudan realmente los baños de sauna al sistema inmunitario? Un estudio abre el debate,2026-04-14 04:09
+ventas,3,7,6.26,100,"okdiario, heraldo_aragon, el_confidencial_economia",3,"El conflicto en Irán pasa factura al lujo: Porsche, Bentley y Lamborghini hunden sus ventas un 14%",2026-04-14 04:09
+colonias,3,0,5.0,100,"heraldo_aragon, google_news_internacional, elcorreo",3,¿Colonias humanas en la Luna? Qué dice el derecho internacional sobre instalarse a vivir allí,2026-04-14 04:09
+esposa,3,5,8.77,100,"20minutos, google_news_politica, france24_es",3,"El juez acusa a Begoña Gómez de usar su estatus de ""esposa de"" desde su llegada a Moncloa para ""influir"" y ganar dinero",2026-04-14 04:09
+asturias,3,6,7.31,100,okdiario,1,La respuesta de Puente cuando se enteró de la colocación de Miss Asturias en LogiRail: «Puff»,2026-04-14 04:09
+vivir,5,9,8.12,100,"heraldo_aragon, el_confidencial_economia, google_news_internacional, elmundo",4,¿Colonias humanas en la Luna? Qué dice el derecho internacional sobre instalarse a vivir allí,2026-04-14 04:09
+masiva,3,5,8.77,100,"okdiario, elconfidencial, elespanol",3,El chantaje de Sánchez: regularización masiva de inmigrantes o subida de impuestos,2026-04-14 04:09
+regularización,8,18,6.49,100,"okdiario, huffington_es, elpais_espana, elconfidencial, 20minutos",5,El chantaje de Sánchez: regularización masiva de inmigrantes o subida de impuestos,2026-04-14 04:09
+consumo,3,7,6.26,100,google_news_internacional,1,Arranca en Hainan la VI Exposición Internacional de Productos de Consumo de China - CGTN en Español,2026-04-14 04:09
+hezbolá,3,1,43.84,100,"elespanol, elcorreo",2,"Los libaneses chiíes rechazan la tregua con Israel: ""Si Hezbolá acepta la paz con Netanyahu, yo mismo lucharé contra Hezbolá""",2026-04-14 04:09
+público,3,9,4.87,97,"okdiario, heraldo_aragon",2,Amenazan al edil de Vox en Cercedilla por destapar irregularidades en público: «Nos vemos en la calle»,2026-04-14 04:09
+electoral,4,12,4.87,97,"elpais, france24_es",2,La coalición de izquierda: inventemos algo electoral,2026-04-14 04:09
+inmigrantes,3,10,4.38,87,"okdiario, 20minutos, elespanol",3,El chantaje de Sánchez: regularización masiva de inmigrantes o subida de impuestos,2026-04-14 04:09
+mallorca,3,10,4.38,87,okdiario,1,Los ecoseparatistas de Més repudian el cicloturismo en Mallorca y lo añaden a su discurso turismofóbico,2026-04-14 04:09
+español,8,27,4.33,86,"elconfidencial, el_confidencial_economia, google_news_internacional, elpais, elespanol",5,Muere un español cada 14 minutos esperando su ayuda a la dependencia,2026-04-14 04:09
+puente,4,14,4.17,83,okdiario,1,La respuesta de Puente cuando se enteró de la colocación de Miss Asturias en LogiRail: «Puff»,2026-04-14 04:09
+simeone,3,11,3.99,79,"google_news_es, heraldo_aragon, elespanol",3,"El dilema de Simeone, entre las manos de Oblak o el buen pie de Musso - EL PAÍS",2026-04-14 04:09
+debate,5,20,3.65,73,"okdiario, google_news_economia, elcorreo",3,¿Ayudan realmente los baños de sauna al sistema inmunitario? Un estudio abre el debate,2026-04-14 04:09
+digital,3,13,3.37,67,"heraldo_aragon, google_news_economia, google_news_es",3,Deep tech: tecnologías digitales profundas para resolver retos industriales,2026-04-14 04:09
+convierte,3,13,3.37,67,"elpais_internacional, google_news_internacional, huffington_es",3,León XIV se convierte al fin en el Papa anti-Trump,2026-04-14 04:09
+crisis,5,23,3.18,63,"elpais_internacional, google_news_economia, elconfidencial, elmundo, elmundo_espana",5,La guerra daña las bases de la economía iraní y agrava su crisis,2026-04-14 04:09
+rosalía,3,14,3.13,62,"huffington_es, heraldo_aragon",2,Rosalía deslumbra en su regreso a casa: consagración total en el Sant Jordi,2026-04-14 04:09
+ultra,3,14,3.13,62,"okdiario, elpais_espana, elconfidencial",3,El abogado de Plus Ultra al que registraron la casa recurre porque el caso lleva 5 meses en secreto sin motivo,2026-04-14 04:09
+dónde,4,20,2.92,58,"elpais_espana, 20minutos, okdiario",3,"Los extranjeros en España: cuántos son, dónde viven y a quién afecta la regularización",2026-04-14 04:09
+pekín,3,15,2.92,58,"okdiario, elespanol, google_news_economia",3,Begoña Gómez ‘celebra’ su procesamiento con un banquete junto al dictador Xi Jinping en Pekín,2026-04-14 04:09
+justicia,3,15,2.92,58,"france24_es, google_news_economia, elmundo",3,España: ¿por qué la esposa de Pedro Sánchez afronta a la Justicia?,2026-04-14 04:09
+obras,3,17,2.58,51,"levante_emv, okdiario",2,Las obras de traslado del Pont de Xàtiva eliminarán un punto crítico en el barranco de la Casella de Alzira,2026-04-14 04:09
+tiempo,4,23,2.54,50,"okdiario, levante_emv, heraldo_aragon, el_confidencial_tech, sur",5,Tiempos de extremos,2026-04-14 04:09
+poder,3,19,2.31,46,"elespanol, france24_es",2,"Sánchez pide que Occidente ""renuncie"" a parte de su poder antes de ver a Xi, en pleno pulso entre China y EEUU por Ormuz",2026-04-14 04:09
+gobierno,8,51,2.29,45,"google_news_economia, 20minutos, elconfidencial, elespanol, elmundo",5,El Gobierno acelera la implantación de renovables en España para contener la crisis energética mundial - EL PAÍS,2026-04-14 04:09
+precio,4,26,2.25,44,"okdiario, google_news_economia, el_confidencial_tech, google_news_es, elcorreo",5,Sánchez llama «problema europeo» a que el precio de la vivienda en España suba un 30% más que los sueldos,2026-04-14 04:09
+salud,3,20,2.19,43,"okdiario, heraldo_aragon, elcorreo",3,Okupan la casa de una mujer con problemas de salud mental y cerca de perder su negocio por las deudas,2026-04-14 04:09
+historia,3,20,2.19,43,"elmundo_espana, elespanol, google_news_es",3,"Xi hace equipo con Sánchez ante las guerras que respalda Trump: ""China y España estamos del lado correcto de la historia"" y rechanzan el ""retorno a la ley de la selva""",2026-04-14 04:09
+sánchez,16,108,2.16,43,"elmundo_espana, okdiario, google_news_economia, 20minutos, heraldo_aragon",5,"Xi hace equipo con Sánchez ante las guerras que respalda Trump: ""China y España estamos del lado correcto de la historia"" y rechanzan el ""retorno a la ley de la selva""",2026-04-14 04:09
+china,10,68,2.15,42,"elmundo_espana, okdiario, bbc_mundo, el_confidencial_tech, google_news_internacional",5,"Xi hace equipo con Sánchez ante las guerras que respalda Trump: ""China y España estamos del lado correcto de la historia"" y rechanzan el ""retorno a la ley de la selva""",2026-04-14 04:09
