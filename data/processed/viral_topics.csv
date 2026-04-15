@@ -1,37 +1,58 @@
 keyword,count_now,count_base,ratio,viral_score,sources,n_sources,sample_title,detected_at
-pasado,3,5,9.07,100,"elconfidencial, huffington_es, lavanguardia",3,"Un viaje al pasado: así es el mercado medieval a solo 30 minutos de Murcia con artesanía, gastronomía tradicional y atracciones infantiles",2026-04-15 04:09
-fuerza,3,5,9.07,100,"google_news_politica, heraldo_aragon, sur",3,El debate | ¿Qué fuerza tiene el republicanismo en España? - EL PAÍS,2026-04-15 04:09
-ejército,4,5,12.1,100,"elmundo, google_news_internacional, elcorreo, levante_emv",4,Mueren cuatro personas tras un ataque del ejército estadounidense a una embarcación en el Pacífico,2026-04-15 04:09
-picasso,3,7,6.48,100,"bbc_mundo, google_news_es",2,"El hombre que ganó un cuadro de Picasso valorado en US$1,2 millones en una rifa benéfica por la que pagó apenas US$118",2026-04-15 04:09
-taiwán,3,1,45.36,100,"google_news_politica, elcorreo",2,¿Qué es la política de 'una sola China'? La ambigua postura de España y la UE sobre Taiwán - El Correo,2026-04-15 04:09
-postura,3,2,22.68,100,"google_news_politica, elcorreo",2,¿Qué es la política de 'una sola China'? La ambigua postura de España y la UE sobre Taiwán - El Correo,2026-04-15 04:09
-ambigua,3,0,5.0,100,"google_news_politica, elcorreo",2,¿Qué es la política de 'una sola China'? La ambigua postura de España y la UE sobre Taiwán - El Correo,2026-04-15 04:09
-veces,4,11,5.5,100,"google_news_economia, okdiario, sur",3,El 20 % más rico acumula 15 veces más patrimonio que el más pobre en España - El Debate,2026-04-15 04:09
-apagón,3,3,15.12,100,"heraldo_aragon, 20minutos, elespanol",3,"Así vivió Zaragoza el gran apagón que cerró tiendas y colegios, paro trenes y paralizó la ciudad: ""Hubo momentos de pánico""",2026-04-15 04:09
-garcía,3,8,5.67,100,"heraldo_aragon, elcorreo",2,"Mikel García, segundo en la maratón de Zaragoza: ""Soy un atleta un poco extraño""",2026-04-15 04:09
-martín,3,9,5.04,100,"heraldo_aragon, elcorreo",2,"Jordi Martín y Javi Mier, los ""fichajes"" que no pasaron por caja pero sí por el once del Huesca",2026-04-15 04:09
-amistad,3,0,5.0,100,"heraldo_aragon, elmundo, google_news_internacional",3,Una bocatería que nace de la amistad junto a la plaza del Pilar de Zaragoza,2026-04-15 04:09
-diálogo,4,6,10.08,100,"heraldo_aragon, elespanol, france24_es, google_news_es",4,Israel y Líbano pactan el inicio de un diálogo directo para negociar la paz,2026-04-15 04:09
-puertos,3,3,15.12,100,"france24_es, google_news_es, bbc_mundo",3,"EE. UU. asegura que bloqueó los puertos de Irán y detuvo ""por completo"" su comercio marítimo",2026-04-15 04:09
-impuesto,3,3,15.12,100,"elespanol, google_news_es, expansion, bbc_mundo",4,La líder de Cepyme dice que un tercio de las pymes están en pérdidas: Garamendi y Sànchez Llibre piden bajar impuestos,2026-04-15 04:09
-sudán,4,3,20.16,100,"elpais_internacional, france24_es, google_news_es",3,Sudán cumple su tercer año de guerra civil sin perspectivas de paz,2026-04-15 04:09
-comisión,3,9,5.04,100,"huffington_es, elespanol, elmundo",3,Las aerolíneas lanzan un SOS a la Comisión Europea: la guerra en Irán continúa y el queroseno se agota,2026-04-15 04:09
-aagesen,3,1,45.36,100,okdiario,1,Lo de los Aagesen es la versión danesa del ‘caso Begoña Gómez’,2026-04-15 04:09
-ataque,3,8,5.67,100,"okdiario, elmundo, google_news_internacional",3,"Jésica le rompió una pata a Pequeño Ratón, el gato que adoptó con Ábalos, tras estamparlo contra la pared en un ataque de ira",2026-04-15 04:09
-vivir,3,7,6.48,100,"okdiario, heraldo_aragon",2,Júbilo en el consulado de Marruecos: «Me dan 1.200 euros para vivir y ahora los papeles para la residencia»,2026-04-15 04:09
-doble,3,6,7.56,100,"elpais_internacional, elespanol, elmundo_internacional",3,¿Qué busca Trump con el doble bloqueo de Ormuz? Un órdago con muchas limitaciones,2026-04-15 04:09
-impacto,3,10,4.54,90,"heraldo_aragon, elespanol, google_news_economia",3,El impacto transformador de la IA en Aragón,2026-04-15 04:09
-piden,3,10,4.54,90,"heraldo_aragon, elespanol, elcorreo",3,Los pediatras piden preservativos gratis para adolescentes para frenar la avalancha de venéreas,2026-04-15 04:09
-miércoles,4,15,4.03,80,"okdiario, levante_emv, elconfidencial",3,"Los OK y KO del miércoles, 15 de abril de 2026",2026-04-15 04:09
-mallorca,4,18,3.36,67,okdiario,1,El ‘monstruo homófobo’ de Mallorca: revienta a dos turistas porque no le gustan los homosexuales,2026-04-15 04:09
-ábalos,3,16,2.84,56,"okdiario, heraldo_aragon, lavanguardia",3,"Jésica le rompió una pata a Pequeño Ratón, el gato que adoptó con Ábalos, tras estamparlo contra la pared en un ataque de ira",2026-04-15 04:09
-final,7,39,2.71,54,"huffington_es, elconfidencial, heraldo_aragon, elespanol, elcorreo",5,Donald Trump insiste (otra vez) en que el final de la guerra está cerca: &quot;Irán busca desesperadamente un acuerdo&quot;,2026-04-15 04:09
-zaragoza,12,69,2.63,52,heraldo_aragon,1,"La vuelta a Europa en Vespa del jubilado zaragozano Carlos Casaucau: ""He vuelto como un hombre nuevo""",2026-04-15 04:09
-china,12,78,2.33,46,"okdiario, heraldo_aragon, elcorreo, google_news_politica, google_news_internacional",5,La corrupción en China es cosa ‘sepia’,2026-04-15 04:09
-semana,3,20,2.27,45,"heraldo_aragon, okdiario, elcorreo",3,EE. UU. anuncia una segunda reunión con Irán antes del fin de semana,2026-04-15 04:09
-euros,9,60,2.27,45,"el_confidencial_economia, okdiario, elconfidencial, heraldo_aragon, google_news_es",5,"José Ramón López, asesor fiscal: ""Es bastante ridículo que la nueva deducción de 340 euros no se aplique por defecto en tu declaración de la renta""",2026-04-15 04:09
-cuatro,4,27,2.24,44,"okdiario, elmundo, google_news_internacional, elcorreo",4,Baleares registró con Armengol cuatro veces más denuncias por ataques al catalán que con el PP y Vox,2026-04-15 04:09
-europea,4,28,2.16,43,"huffington_es, elespanol, elmundo, google_news_internacional",4,Las aerolíneas lanzan un SOS a la Comisión Europea: la guerra en Irán continúa y el queroseno se agota,2026-04-15 04:09
-lópez,3,21,2.16,43,"el_confidencial_economia, 20minutos, google_news_es",3,"José Ramón López, asesor fiscal: ""Es bastante ridículo que la nueva deducción de 340 euros no se aplique por defecto en tu declaración de la renta""",2026-04-15 04:09
-busca,3,22,2.06,41,"huffington_es, elpais_internacional, elcorreo, okdiario",4,Donald Trump insiste (otra vez) en que el final de la guerra está cerca: &quot;Irán busca desesperadamente un acuerdo&quot;,2026-04-15 04:09
-tiempo,4,30,2.02,40,"levante_emv, elcorreo, expansion",3,"El tiempo en València: previsión meteorológica para hoy, miércoles 15 de abril",2026-04-15 04:09
+garcía,4,9,5.42,100,"google_news_internacional, heraldo_aragon, elcorreo",3,El empresario Pedro García compra Aralia Global en Cartagena y potencia su expansión internacional - Murcia Plaza,2026-04-15 04:39
+diálogo,3,7,5.22,100,"heraldo_aragon, elespanol, france24_es",3,Israel y Líbano pactan el inicio de un diálogo directo para negociar la paz,2026-04-15 04:39
+quieren,3,4,9.14,100,"okdiario, elpais, elespanol",3,OKDIARIO en las colas de marroquíes ilegales que quieren regularizarse: «¡Viva Pedro Sánchez y ahora a votarle!»,2026-04-15 04:39
+doble,3,6,6.09,100,"elpais_internacional, elespanol, elmundo_internacional",3,¿Qué busca Trump con el doble bloqueo de Ormuz? Un órdago con muchas limitaciones,2026-04-15 04:39
+fuerza,4,5,9.75,100,"google_news_politica, elpais, heraldo_aragon, sur",4,El debate | ¿Qué fuerza tiene el republicanismo en España? - EL PAÍS,2026-04-15 04:39
+seguir,3,6,6.09,100,"elpais_espana, elpais, heraldo_aragon",3,El movimiento contra el aborto y contra los derechos LGTBIQ+ pierde con Orbán su modelo a seguir,2026-04-15 04:39
+viral,3,2,18.28,100,"elpais, google_news_es, huffington_es",3,‘Rosas danst Rosas’: el hito de la danza contemporánea que se hizo viral antes de internet,2026-04-15 04:39
+producción,3,4,9.14,100,"google_news_es, elpais, google_news_internacional",3,"Gestamp, tranquilo ante la tormenta: “Si no se defiende la producción, no va a haber empleo en Europa” - EL PAÍS",2026-04-15 04:39
+ejército,3,7,5.22,100,"elpais, elmundo, google_news_internacional",3,El consorcio de Indra afronta una multa millonaria por los blindados 8x8 si no entrega al Ejército las 60 unidades que prometió para junio,2026-04-15 04:39
+amistad,3,0,5.0,100,"heraldo_aragon, elmundo, google_news_internacional",3,Una bocatería que nace de la amistad junto a la plaza del Pilar de Zaragoza,2026-04-15 04:39
+aagesen,3,1,36.56,100,okdiario,1,Lo de los Aagesen es la versión danesa del ‘caso Begoña Gómez’,2026-04-15 04:39
+residencia,3,2,18.28,100,"okdiario, heraldo_aragon, 20minutos, france24_es, elcorreo",5,Júbilo en el consulado de Marruecos: «Me dan 1.200 euros para vivir y ahora los papeles para la residencia»,2026-04-15 04:39
+discapacidad,3,4,9.14,100,"heraldo_aragon, 20minutos, okdiario",3,"Ante la discapacidad: ""Espero poder vivir sola aunque necesite algo de ayuda porque los pisos tutelados no son para siempre""",2026-04-15 04:39
+apagón,3,3,12.19,100,"heraldo_aragon, 20minutos, elespanol",3,"Así vivió Zaragoza el gran apagón que cerró tiendas y colegios, paro trenes y paralizó la ciudad: ""Hubo momentos de pánico""",2026-04-15 04:39
+regularizados,3,0,5.0,100,"20minutos, elespanol",2,El Gobierno no prevé recursos adicionales a las autonomías para sanidad y ayudas a las que accederán los inmigrantes regularizados,2026-04-15 04:39
+ambigua,3,0,5.0,100,"google_news_politica, elcorreo",2,¿Qué es la política de 'una sola China'? La ambigua postura de España y la UE sobre Taiwán - El Correo,2026-04-15 04:39
+postura,3,3,12.19,100,"google_news_politica, elcorreo",2,¿Qué es la política de 'una sola China'? La ambigua postura de España y la UE sobre Taiwán - El Correo,2026-04-15 04:39
+taiwán,3,1,36.56,100,"google_news_politica, elcorreo",2,¿Qué es la política de 'una sola China'? La ambigua postura de España y la UE sobre Taiwán - El Correo,2026-04-15 04:39
+vivir,3,7,5.22,100,"infolibre, okdiario, heraldo_aragon",3,"“La República Islámica está dispuesta a todo para sobrevivir”: Irán y EEUU, historia de un fracaso",2026-04-15 04:39
+sudán,5,3,20.31,100,"elpais_internacional, elpais, france24_es, google_news_es",4,Sudán cumple su tercer año de guerra civil sin perspectivas de paz,2026-04-15 04:39
+picasso,3,7,5.22,100,"bbc_mundo, google_news_es",2,"El hombre que ganó un cuadro de Picasso valorado en US$1,2 millones en una rifa benéfica por la que pagó apenas US$118",2026-04-15 04:39
+otros,3,7,5.22,100,"bbc_mundo, france24_es, elmundo",3,"""A un joven le pegaron tanto que se desmayó"": cómo la policía de Grecia utiliza migrantes enmascarados para expulsar a otros migrantes en su frontera con Turquía",2026-04-15 04:39
+ayudas,5,11,5.54,100,"levante_emv, 20minutos, elespanol, google_news_economia",4,Conoce las ayudas de cada municipio de Morvedre para luchar contra el fuego,2026-04-15 04:39
+técnicos,3,0,5.0,100,"levante_emv, google_news_internacional, elmundo",3,Oliva aplaza la subida de sueldo a una decena de técnicos municipales,2026-04-15 04:39
+crece,3,7,5.22,100,"google_news_internacional, infolibre, google_news_economia, elcorreo",4,CaixaBank pone foco en los hoteles para crecer en la financiación internacional - El Economista,2026-04-15 04:39
+montero,3,7,5.22,100,"levante_emv, elmundo",2,Llorca reta a España a enmendar a Montero y plantear otro modelo de financiación,2026-04-15 04:39
+sindicatos,3,2,18.28,100,"levante_emv, elpais, 20minutos",3,Los sindicatos creen que el fallo europeo sobre los interinos no afectará a los procesos de estabilización de la Generalitat,2026-04-15 04:39
+empresas,3,6,6.09,100,"google_news_internacional, okdiario, elconfidencial",3,"El riesgo de impago por la tensión internacional lo detecta el 39,5% de las empresas españolas - La Vanguardia",2026-04-15 04:39
+miércoles,6,15,4.87,97,"okdiario, eldiario, levante_emv, elconfidencial",4,"Horóscopo diario gratis: la predicción para hoy, miércoles 15 de abril",2026-04-15 04:39
+piden,4,10,4.87,97,"infolibre, heraldo_aragon, elespanol, elcorreo",4,Los comunes piden a Rufián que aterrice su propuesta mientras crece la presión interna para que la lidere,2026-04-15 04:39
+ataque,3,8,4.57,91,"okdiario, elmundo, google_news_internacional",3,"Jésica le rompió una pata a Pequeño Ratón, el gato que adoptó con Ábalos, tras estamparlo contra la pared en un ataque de ira",2026-04-15 04:39
+óscar,3,8,4.57,91,"heraldo_aragon, 20minutos",2,"La mujer de Óscar Freire: ""Me obligaba a realizar prácticas sexuales que hacía con sus amantes""",2026-04-15 04:39
+internet,3,8,4.57,91,"elpais, google_news_es, elespanol",3,‘Rosas danst Rosas’: el hito de la danza contemporánea que se hizo viral antes de internet,2026-04-15 04:39
+manos,3,9,4.06,81,"elpais, 20minutos",2,De seguir a un ultraligero a morir a manos de un búho: el duro aprendizaje del ibis para migrar,2026-04-15 04:39
+martín,3,9,4.06,81,"heraldo_aragon, elcorreo",2,"Jordi Martín y Javi Mier, los ""fichajes"" que no pasaron por caja pero sí por el once del Huesca",2026-04-15 04:39
+comisión,3,9,4.06,81,"huffington_es, elespanol, elmundo",3,Las aerolíneas lanzan un SOS a la Comisión Europea: la guerra en Irán continúa y el queroseno se agota,2026-04-15 04:39
+veces,4,12,4.06,81,"google_news_internacional, google_news_economia, okdiario",3,"Lluís Abad, asesor en fiscalidad internacional: “Muchas veces el problema no es el país, sino cómo tienes montada la estructura” - La Vanguardia",2026-04-15 04:39
+impacto,3,10,3.66,73,"heraldo_aragon, elespanol, google_news_economia",3,El impacto transformador de la IA en Aragón,2026-04-15 04:39
+familia,3,10,3.66,73,"okdiario, elpais, heraldo_aragon, elcorreo",4,El Gobierno ha dado más de 3 millones de euros a las empresas de la familia Aagesen,2026-04-15 04:39
+haber,3,10,3.66,73,"google_news_es, elpais, elespanol",3,"Gestamp, tranquilo ante la tormenta: “Si no se defiende la producción, no va a haber empleo en Europa” - EL PAÍS",2026-04-15 04:39
+mallorca,5,18,3.39,67,"levante_emv, okdiario",2,"La presencia de Hugo en Mallorca, en vilo y pendiente de más pruebas",2026-04-15 04:39
+joven,3,11,3.32,66,"bbc_mundo, elcorreo",2,"""A un joven le pegaron tanto que se desmayó"": cómo la policía de Grecia utiliza migrantes enmascarados para expulsar a otros migrantes en su frontera con Turquía",2026-04-15 04:39
+cambio,3,12,3.05,60,"google_news_es, elpais",2,"Solo el 13% de los emails está escrito por personas y más de la mitad cae en el filtro de spam: “No es un dato técnico, es un cambio estructural” - EL PAÍS",2026-04-15 04:39
+esther,3,13,2.81,56,"20minutos, google_news_es",2,"Un zulo, hongos y ""manos de lavandera"": por qué el sótano hallado en la casa de Óscar cambia la investigación del caso Esther López",2026-04-15 04:39
+cuatro,6,27,2.71,54,"infolibre, elpais, okdiario, elmundo, google_news_internacional",5,Los argumentos con los que las defensas tratan de desmontar los cuatro delitos del 'caso Begoña',2026-04-15 04:39
+final,9,40,2.74,54,"levante_emv, huffington_es, elpais, elconfidencial, heraldo_aragon",5,Gençana representarà a les comarques de València en la final de la Copa Cangur,2026-04-15 04:39
+medidas,3,14,2.61,52,"okdiario, google_news_economia, 20minutos",3,Bruselas exigirá responsabilidades a España por Adamuz si no cumplió con las medidas de seguridad,2026-04-15 04:39
+histórica,3,14,2.61,52,"elpais, heraldo_aragon, france24_es",3,Cómo Trump ha roto la diplomacia histórica de Estados Unidos con el Vaticano,2026-04-15 04:39
+arranca,4,19,2.57,51,"levante_emv, 20minutos, elcorreo",3,La primera conexión en autobús con Parc Sagunt arranca entre críticas,2026-04-15 04:39
+valència,4,19,2.57,51,levante_emv,1,Gençana representarà a les comarques de València en la final de la Copa Cangur,2026-04-15 04:39
+debate,4,20,2.44,48,"levante_emv, google_news_politica, elpais, google_news_economia",4,El jefe de la presa de Buseo reaviva el debate por la falta de avisos al señalar a la CHJ,2026-04-15 04:39
+cambia,3,15,2.44,48,"20minutos, huffington_es",2,"Un zulo, hongos y ""manos de lavandera"": por qué el sótano hallado en la casa de Óscar cambia la investigación del caso Esther López",2026-04-15 04:39
+lópez,4,21,2.32,46,"el_confidencial_economia, 20minutos, google_news_es",3,"José Ramón López, asesor fiscal: ""Es bastante ridículo que la nueva deducción de 340 euros no se aplique por defecto en tu declaración de la renta""",2026-04-15 04:39
+mercado,3,16,2.29,45,"elpais, elconfidencial, elcorreo",3,"El mercado de bonos, el frente más incómodo para Trump",2026-04-15 04:39
+zaragoza,12,68,2.15,43,heraldo_aragon,1,"La vuelta a Europa en Vespa del jubilado zaragozano Carlos Casaucau: ""He vuelto como un hombre nuevo""",2026-04-15 04:39
+contra,22,124,2.16,43,"levante_emv, eldiario, google_news_internacional, google_news_economia, okdiario",5,Conoce las ayudas de cada municipio de Morvedre para luchar contra el fuego,2026-04-15 04:39
+juicio,6,36,2.03,40,"elpais_espana, elpais, 20minutos, elmundo_espana",4,El juicio de Kitchen aguarda el testimonio de Cosidó: “No sé quién tenía conocimiento de esa operación”,2026-04-15 04:39
