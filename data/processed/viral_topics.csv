@@ -1,72 +1,61 @@
 keyword,count_now,count_base,ratio,viral_score,sources,n_sources,sample_title,detected_at
-hansi,3,0,5.0,100,"elpais, google_news_es, 20minutos",3,"Hansi Flick, tras la eliminación en la Champions: “Hay que aceptarlo, no tuvimos suerte”",2026-04-15 02:09
-porque,3,5,7.47,100,"20minutos, okdiario, elmundo",3,"Hansi Flick pasa de criticar el arbitraje: ""No voy a hablar sobre eso porque ya no se puede cambiar""",2026-04-15 02:09
-champions,29,50,7.22,100,"elpais, okdiario, google_news_es, lavanguardia, levante_emv",5,"Simeone, tras la clasificación a las semifinales de Champions: “Llevo 14 años en el club y no dejo de emocionarme”",2026-04-15 02:09
-goles,4,7,7.12,100,"elcorreo, google_news_es, okdiario",3,Boyé regatea al dolor a base de goles,2026-04-15 02:09
-siendo,3,3,12.46,100,"elcorreo, okdiario",2,«Seguimos siendo romanos sin que nos demos cuenta»,2026-04-15 02:09
-barça,15,26,7.19,100,"lavanguardia, elpais, okdiario, elmundo, google_news_es",5,Inferioridad solo numérica: once contra once hubiera pasado el Barça,2026-04-15 02:09
-flick,5,4,15.57,100,"elpais, google_news_es, 20minutos, okdiario",4,"Hansi Flick, tras la eliminación en la Champions: “Hay que aceptarlo, no tuvimos suerte”",2026-04-15 02:09
-atlético,26,58,5.58,100,"google_news_es, elpais, elespanol, levante_emv, elcorreo",5,"Atlético (3) 1 - 2 (2) Barcelona: resumen, goles y resultado de la vuelta de cuartos de la Champions League - Diario AS",2026-04-15 02:09
-cuartos,3,6,6.23,100,google_news_es,1,"Atlético (3) 1 - 2 (2) Barcelona: resumen, goles y resultado de la vuelta de cuartos de la Champions League - Diario AS",2026-04-15 02:09
-pasar,4,4,12.46,100,"lavanguardia, okdiario, 20minutos, elpais",4,"La desolación del Barça tras caer en la Champions: “Merecimos pasar, nos dejamos la vida”",2026-04-15 02:09
-elimina,3,3,12.46,100,"elpais, google_news_es, okdiario",3,"Hansi Flick, tras la eliminación en la Champions: “Hay que aceptarlo, no tuvimos suerte”",2026-04-15 02:09
-liverpool,3,2,18.68,100,"elpais, google_news_es, lavanguardia",3,El PSG elimina al Liverpool y alcanza su tercera semifinal consecutiva en la Champions,2026-04-15 02:09
-hemos,4,5,9.96,100,"google_news_es, elmundo, elcorreo",3,Así le hemos contado la clasificación del Atlético ante el Barcelona en los cuartos de final de la Champions - EL PAÍS,2026-04-15 02:09
-dembélé,3,0,5.0,100,"levante_emv, google_news_es, lavanguardia",3,Dembélé entierra a Salah y clasifica al PSG para las semifinales de Champions,2026-04-15 02:09
-simeone,4,8,6.23,100,"elpais, okdiario, elmundo",3,"Simeone, tras la clasificación a las semifinales de Champions: “Llevo 14 años en el club y no dejo de emocionarme”",2026-04-15 02:09
-méxico,3,4,9.34,100,"france24_es, elcorreo",2,México busca proteger el precio del combustible ante la crisis en Medio Oriente,2026-04-15 02:09
-euromillones,4,4,12.46,100,"20minutos, sur, elcorreo",3,Un acertante se lleva un millón de euros del sorteo de Euromillones,2026-04-15 02:09
-pierde,4,6,8.3,100,"google_news_es, elcorreo, elespanol, levante_emv",4,Resumen de la jornada 3 de los Clasificatorios Europeos Femeninos para la Copa Mundial 2027: España pierde ante Inglaterra en Wembley - UEFA.com,2026-04-15 02:09
-wembley,4,8,6.23,100,"google_news_es, elcorreo, elpais, levante_emv",4,Resumen de la jornada 3 de los Clasificatorios Europeos Femeninos para la Copa Mundial 2027: España pierde ante Inglaterra en Wembley - UEFA.com,2026-04-15 02:09
-levanta,3,3,12.46,100,"levante_emv, 20minutos, elcorreo",3,EEUU levanta las sanciones que limitaban la actividad del Banco Central de Venezuela,2026-04-15 02:09
-sanciones,3,3,12.46,100,"levante_emv, 20minutos, elcorreo",3,EEUU levanta las sanciones que limitaban la actividad del Banco Central de Venezuela,2026-04-15 02:09
-central,3,6,6.23,100,"levante_emv, 20minutos, elcorreo",3,EEUU levanta las sanciones que limitaban la actividad del Banco Central de Venezuela,2026-04-15 02:09
-venezuela,3,5,7.47,100,"levante_emv, 20minutos, elcorreo",3,EEUU levanta las sanciones que limitaban la actividad del Banco Central de Venezuela,2026-04-15 02:09
-atleti,3,1,37.37,100,"elmundo, elpais, google_news_es",3,El Atleti y el sueño de un loco: ya sólo quedan cuatro,2026-04-15 02:09
-sonsoles,3,4,9.34,100,"elcorreo, okdiario, 20minutos",3,La confesión de Sonsoles Ónega: «Conseguí mi mejor exclusiva haciendo pis en los baños del Congreso»,2026-04-15 02:09
-ónega,3,4,9.34,100,"elcorreo, okdiario, 20minutos",3,La confesión de Sonsoles Ónega: «Conseguí mi mejor exclusiva haciendo pis en los baños del Congreso»,2026-04-15 02:09
-semifinales,13,3,53.97,100,"elpais, levante_emv, google_news_es, elcorreo, okdiario",5,"Simeone, tras la clasificación a las semifinales de Champions: “Llevo 14 años en el club y no dejo de emocionarme”",2026-04-15 02:09
-10.000,3,5,7.47,100,"elmundo, okdiario",2,"El fenómeno de Fuente Palmera, el pueblo cordobés donde cada año nacen 10.000 vestidos de novia: ""La idea es que no sea algo que quede en el armario, queremos que siga vivo""",2026-04-15 02:09
-impuesto,3,3,12.46,100,"elespanol, google_news_es, expansion, bbc_mundo",4,La líder de Cepyme dice que un tercio de las pymes están en pérdidas: Garamendi y Sànchez Llibre piden bajar impuestos,2026-04-15 02:09
-garcía,3,7,5.34,100,"elcorreo, elespanol",2,"Martín García García, el joven pianista que arrasa en Japón, actúa en Bilbao",2026-04-15 02:09
-costa,4,5,9.96,100,"elespanol, sur, levante_emv",3,Radiografía de los 500.000 migrantes de la regularización: el 90% latinos y 8.500 rusos y nórdicos de la Costa del Sol,2026-04-15 02:09
-diálogo,4,5,9.96,100,"elespanol, france24_es, google_news_es, elcorreo",4,Sánchez firma un estatus de 'diálogo estratégico' con China como el que la UE suspendió al considerarla 'rival sistémico',2026-04-15 02:09
-picasso,4,6,8.3,100,"bbc_mundo, google_news_es, levante_emv",3,"El hombre que ganó un cuadro de Picasso valorado en US$1,2 millones en una rifa benéfica por la que pagó apenas US$118",2026-04-15 02:09
-valorado,3,4,9.34,100,"bbc_mundo, google_news_es, levante_emv",3,"El hombre que ganó un cuadro de Picasso valorado en US$1,2 millones en una rifa benéfica por la que pagó apenas US$118",2026-04-15 02:09
-500.000,3,5,7.47,100,"elespanol, lavanguardia",2,Sánchez cifra los migrantes que serán regularizados en menos de 500.000 pero Extranjería dice que serán más del doble,2026-04-15 02:09
-ejército,3,5,7.47,100,"elmundo, elcorreo, levante_emv",3,Mueren cuatro personas tras un ataque del ejército estadounidense a una embarcación en el Pacífico,2026-04-15 02:09
-jesús,3,6,6.23,100,"elmundo, okdiario",2,Un juez reactiva la causa de los avales de la Junta y pide de urgencia una resolución que implica a María Jesús Montero,2026-04-15 02:09
-doble,3,6,6.23,100,"elespanol, elmundo_internacional, elmundo, lavanguardia",4,Sánchez cifra los migrantes que serán regularizados en menos de 500.000 pero Extranjería dice que serán más del doble,2026-04-15 02:09
-pasado,3,4,9.34,100,"huffington_es, lavanguardia, google_news_es",3,El lío viral de las fans confundidas con Bad Bunny tiene final: Bunbury ya ha tomado una decisión que no ha pasado desapercibida,2026-04-15 02:09
-bunny,3,0,5.0,100,"huffington_es, 20minutos, elcorreo",3,El lío viral de las fans confundidas con Bad Bunny tiene final: Bunbury ya ha tomado una decisión que no ha pasado desapercibida,2026-04-15 02:09
-bunbury,4,0,5.0,100,"huffington_es, heraldo_aragon, 20minutos, elcorreo",4,El lío viral de las fans confundidas con Bad Bunny tiene final: Bunbury ya ha tomado una decisión que no ha pasado desapercibida,2026-04-15 02:09
-resiste,4,10,4.98,99,"heraldo_aragon, elpais, google_news_es, huffington_es",4,El Atlético de Madrid resiste y deja al Barcelona sin remontada para meterse en las semifinales de la Champions,2026-04-15 02:09
-comisión,3,8,4.67,93,"elespanol, elmundo, sur",3,"La comisión del apagón dice que Red Eléctrica no contaba con alertas para ""localizar"" los fallos con margen de reacción",2026-04-15 02:09
-remontada,3,8,4.67,93,"google_news_es, heraldo_aragon, europapress",3,Bayern-Real Madrid: a por la remontada en Múnich - Real Madrid CF | Web Oficial,2026-04-15 02:09
-sorteo,4,12,4.15,83,"20minutos, sur",2,Un acertante se lleva un millón de euros del sorteo de Euromillones,2026-04-15 02:09
-parís,3,9,4.15,83,"google_news_es, elmundo_internacional, google_news_internacional",3,Un francés gana un Picasso valorado en un millón de euros en una rifa solidaria en París - RTVE.es,2026-04-15 02:09
-lleva,4,13,3.83,76,"google_news_economia, 20minutos, heraldo_aragon, levante_emv",4,"""La energía alta de precios altos más los salarios altos te lleva a un drama, y es lo que nos está pasando en España"" - COPE",2026-04-15 02:09
-resultado,7,24,3.63,72,"google_news_es, sur, okdiario, elcorreo",4,"Atlético (3) 1 - 2 (2) Barcelona: resumen, goles y resultado de la vuelta de cuartos de la Champions League - Diario AS",2026-04-15 02:09
-league,9,31,3.62,72,"google_news_es, levante_emv, okdiario, europapress, elespanol",5,"Atlético (3) 1 - 2 (2) Barcelona: resumen, goles y resultado de la vuelta de cuartos de la Champions League - Diario AS",2026-04-15 02:09
-llega,4,14,3.56,71,"france24_es, elmundo, google_news_es, 20minutos, elcorreo",5,Papa León XIV llega a Argelia en su gira de 10 días por África,2026-04-15 02:09
-jornada,3,11,3.4,67,"sur, google_news_es, lavanguardia",3,"El Málaga, ante un ensayo de los 'play-off' la próxima jornada",2026-04-15 02:09
-joven,3,11,3.4,67,"elcorreo, elmundo, sur",3,"Martín García García, el joven pianista que arrasa en Japón, actúa en Bilbao",2026-04-15 02:09
-mensaje,3,12,3.11,62,"huffington_es, elcorreo, okdiario",3,Vance lanza un mensaje a Irán que cambia el tono: &quot;Puede prosperar… si cumple esta condición&quot;,2026-04-15 02:09
-ortega,3,12,3.11,62,"okdiario, elcorreo",2,"El ex jefe de ETA ‘Pototo’, carcelero de Ortega Lara, en libertad tras pasar 30 años en prisión",2026-04-15 02:09
-metropolitano,4,17,2.93,58,"elespanol, okdiario, elpais",3,Fiesta total en el Metropolitano: los jugadores del Atlético regresaron de los vestuarios para festejar el pase,2026-04-15 02:09
-final,8,34,2.93,58,"elespanol, huffington_es, elcorreo, elpais, google_news_es",5,El amargo final de 80 de los hipopótamos del narco Pablo Escobar: el plan desesperado para que reciban la eutanasia,2026-04-15 02:09
-menos,7,30,2.91,58,"elespanol, elcorreo, elmundo, 20minutos, google_news_es",5,Sánchez cifra los migrantes que serán regularizados en menos de 500.000 pero Extranjería dice que serán más del doble,2026-04-15 02:09
-banco,3,13,2.87,57,"levante_emv, 20minutos, elcorreo",3,EEUU levanta las sanciones que limitaban la actividad del Banco Central de Venezuela,2026-04-15 02:09
-digital,3,14,2.67,53,"google_news_es, google_news_politica",2,"Barcelona acoge mañana la III edición de ‘Formación, talento y liderazgo’ - RRHH Digital",2026-04-15 02:09
-cuatro,5,25,2.49,49,"elmundo, elcorreo, elpais, elmundo_espana",4,Mueren cuatro personas tras un ataque del ejército estadounidense a una embarcación en el Pacífico,2026-04-15 02:09
-lamine,3,15,2.49,49,"elpais, elmundo, okdiario, heraldo_aragon",4,El Atlético sobrevive al arte de Lamine y se mete en las semifinales de la Champions,2026-04-15 02:09
-social,3,15,2.49,49,"elcorreo, elmundo, 20minutos",3,El PP busca en el Parlamento vasco cambiar la ley para permitir el bingo social,2026-04-15 02:09
-mascarillas,4,21,2.37,47,"elmundo_espana, elpais, elmundo, google_news_es",4,Y al fin unos señores trajeados hablaron sobre mascarillas,2026-04-15 02:09
-millón,4,21,2.37,47,"google_news_es, 20minutos, levante_emv",3,Un francés gana un Picasso valorado en un millón de euros en una rifa solidaria en París - RTVE.es,2026-04-15 02:09
-muere,3,16,2.34,46,"elmundo, sur, france24_es, 20minutos",4,Mueren cuatro personas tras un ataque del ejército estadounidense a una embarcación en el Pacífico,2026-04-15 02:09
-washington,3,16,2.34,46,"france24_es, elmundo_internacional, google_news_internacional",3,"EE. UU. celebra la ""oportunidad histórica"" para la paz tras el diálogo entre Líbano e Israel en Washington",2026-04-15 02:09
-meloni,5,27,2.31,46,"elespanol, elmundo, google_news_internacional, lavanguardia, france24_es",5,"Trump contra todos: rompe con Meloni, su última gran aliada europea, mientras Starmer y Macron presionan con Ormuz",2026-04-15 02:09
-frente,4,23,2.17,43,"elmundo_internacional, google_news_internacional, elpais, france24_es",4,Roma frente a Washington: el choque entre el Papa y Trump,2026-04-15 02:09
-inglaterra,3,18,2.08,41,"google_news_es, okdiario, elpais",3,Resumen de la jornada 3 de los Clasificatorios Europeos Femeninos para la Copa Mundial 2027: España pierde ante Inglaterra en Wembley - UEFA.com,2026-04-15 02:09
-semana,3,18,2.08,41,"elcorreo, 20minutos",2,Más de 30 vuelos unirán Sevilla y Loiu este fin de semana por la final copera,2026-04-15 02:09
-barcelona,14,87,2.0,40,"google_news_es, elmundo, heraldo_aragon, elpais, okdiario",5,"Barcelona acoge mañana la III edición de ‘Formación, talento y liderazgo’ - RRHH Digital",2026-04-15 02:09
+pierde,4,7,7.47,100,"google_news_economia, google_news_es, elcorreo, elespanol",4,España pierde fuelle y dejará de crecer más que sus socios del euro en términos per cápita este mismo año - ABC,2026-04-15 02:39
+remontada,3,7,5.6,100,"google_news_es, heraldo_aragon, europapress",3,Bayern-Real Madrid: a por la remontada en Múnich - Real Madrid CF | Web Oficial,2026-04-15 02:39
+bunbury,4,0,5.0,100,"huffington_es, heraldo_aragon, 20minutos, elcorreo",4,El lío viral de las fans confundidas con Bad Bunny tiene final: Bunbury ya ha tomado una decisión que no ha pasado desapercibida,2026-04-15 02:39
+taiwán,3,0,5.0,100,"google_news_politica, elcorreo, elmundo_espana",3,¿Qué es la política de 'una sola China'? La ambigua postura de España y la UE sobre Taiwán - El Correo,2026-04-15 02:39
+impuesto,3,3,13.07,100,"elespanol, google_news_es, expansion, bbc_mundo",4,La líder de Cepyme dice que un tercio de las pymes están en pérdidas: Garamendi y Sànchez Llibre piden bajar impuestos,2026-04-15 02:39
+simeone,4,8,6.54,100,"elpais, okdiario, elmundo",3,"Simeone, tras la clasificación a las semifinales de Champions: “Llevo 14 años en el club y no dejo de emocionarme”",2026-04-15 02:39
+semifinales,13,3,56.65,100,"elpais, levante_emv, google_news_es, elcorreo, okdiario",5,"Simeone, tras la clasificación a las semifinales de Champions: “Llevo 14 años en el club y no dejo de emocionarme”",2026-04-15 02:39
+champions,26,51,6.66,100,"elpais, okdiario, google_news_es, lavanguardia, levante_emv",5,"Simeone, tras la clasificación a las semifinales de Champions: “Llevo 14 años en el club y no dejo de emocionarme”",2026-04-15 02:39
+siendo,3,3,13.07,100,"elcorreo, okdiario",2,«Seguimos siendo romanos sin que nos demos cuenta»,2026-04-15 02:39
+barça,13,27,6.29,100,"lavanguardia, elpais, okdiario, elmundo, google_news_es",5,Inferioridad solo numérica: once contra once hubiera pasado el Barça,2026-04-15 02:39
+hansi,3,0,5.0,100,"elpais, google_news_es, 20minutos",3,"Hansi Flick, tras la eliminación en la Champions: “Hay que aceptarlo, no tuvimos suerte”",2026-04-15 02:39
+flick,5,4,16.34,100,"elpais, google_news_es, 20minutos, okdiario",4,"Hansi Flick, tras la eliminación en la Champions: “Hay que aceptarlo, no tuvimos suerte”",2026-04-15 02:39
+cuartos,3,6,6.54,100,google_news_es,1,"Atlético (3) 1 - 2 (2) Barcelona: resumen, goles y resultado de la vuelta de cuartos de la Champions League - Diario AS",2026-04-15 02:39
+jesús,3,6,6.54,100,"elmundo, okdiario",2,Un juez reactiva la causa de los avales de la Junta y pide de urgencia una resolución que implica a María Jesús Montero,2026-04-15 02:39
+pasar,4,4,13.07,100,"lavanguardia, okdiario, 20minutos, elpais",4,"La desolación del Barça tras caer en la Champions: “Merecimos pasar, nos dejamos la vida”",2026-04-15 02:39
+elimina,3,3,13.07,100,"elpais, google_news_es, okdiario",3,"Hansi Flick, tras la eliminación en la Champions: “Hay que aceptarlo, no tuvimos suerte”",2026-04-15 02:39
+liverpool,3,2,19.61,100,"elpais, google_news_es, lavanguardia",3,El PSG elimina al Liverpool y alcanza su tercera semifinal consecutiva en la Champions,2026-04-15 02:39
+hemos,4,5,10.46,100,"google_news_es, elmundo, elcorreo",3,Así le hemos contado la clasificación del Atlético ante el Barcelona en los cuartos de final de la Champions - EL PAÍS,2026-04-15 02:39
+dembélé,3,0,5.0,100,"levante_emv, google_news_es, lavanguardia",3,Dembélé entierra a Salah y clasifica al PSG para las semifinales de Champions,2026-04-15 02:39
+méxico,3,4,9.8,100,"france24_es, elcorreo",2,México busca proteger el precio del combustible ante la crisis en Medio Oriente,2026-04-15 02:39
+euromillones,3,5,7.84,100,"20minutos, sur",2,Un acertante se lleva un millón de euros del sorteo de Euromillones,2026-04-15 02:39
+atleti,3,1,39.22,100,"elmundo, elpais, google_news_es",3,El Atleti y el sueño de un loco: ya sólo quedan cuatro,2026-04-15 02:39
+resiste,4,10,5.23,100,"heraldo_aragon, elpais, google_news_es, huffington_es",4,El Atlético de Madrid resiste y deja al Barcelona sin remontada para meterse en las semifinales de la Champions,2026-04-15 02:39
+sonsoles,3,4,9.8,100,"elcorreo, okdiario, 20minutos",3,La confesión de Sonsoles Ónega: «Conseguí mi mejor exclusiva haciendo pis en los baños del Congreso»,2026-04-15 02:39
+bunny,3,0,5.0,100,"huffington_es, 20minutos, elcorreo",3,El lío viral de las fans confundidas con Bad Bunny tiene final: Bunbury ya ha tomado una decisión que no ha pasado desapercibida,2026-04-15 02:39
+pasado,3,4,9.8,100,"huffington_es, lavanguardia, google_news_es",3,El lío viral de las fans confundidas con Bad Bunny tiene final: Bunbury ya ha tomado una decisión que no ha pasado desapercibida,2026-04-15 02:39
+ónega,3,4,9.8,100,"elcorreo, okdiario, 20minutos",3,La confesión de Sonsoles Ónega: «Conseguí mi mejor exclusiva haciendo pis en los baños del Congreso»,2026-04-15 02:39
+diálogo,4,5,10.46,100,"elespanol, france24_es, google_news_es, elcorreo",4,Sánchez firma un estatus de 'diálogo estratégico' con China como el que la UE suspendió al considerarla 'rival sistémico',2026-04-15 02:39
+venezuela,4,5,10.46,100,"france24_es, levante_emv, 20minutos, elcorreo",4,Informe desde Caracas: el Tesoro levanta sanciones al Banco Central de Venezuela,2026-04-15 02:39
+500.000,3,5,7.84,100,"elespanol, lavanguardia",2,Sánchez cifra los migrantes que serán regularizados en menos de 500.000 pero Extranjería dice que serán más del doble,2026-04-15 02:39
+doble,3,5,7.84,100,"elespanol, elmundo_internacional, elmundo, lavanguardia",4,Sánchez cifra los migrantes que serán regularizados en menos de 500.000 pero Extranjería dice que serán más del doble,2026-04-15 02:39
+porque,4,5,10.46,100,"okdiario, 20minutos, elmundo",3,El ‘monstruo homófobo’ de Mallorca: revienta a dos turistas porque no le gustan los homosexuales,2026-04-15 02:39
+costa,4,5,10.46,100,"elespanol, sur, levante_emv",3,Radiografía de los 500.000 migrantes de la regularización: el 90% latinos y 8.500 rusos y nórdicos de la Costa del Sol,2026-04-15 02:39
+central,4,6,8.71,100,"france24_es, levante_emv, 20minutos, elcorreo",4,Informe desde Caracas: el Tesoro levanta sanciones al Banco Central de Venezuela,2026-04-15 02:39
+picasso,3,7,5.6,100,"bbc_mundo, google_news_es",2,"El hombre que ganó un cuadro de Picasso valorado en US$1,2 millones en una rifa benéfica por la que pagó apenas US$118",2026-04-15 02:39
+sanciones,4,3,17.43,100,"france24_es, levante_emv, 20minutos, elcorreo",4,Informe desde Caracas: el Tesoro levanta sanciones al Banco Central de Venezuela,2026-04-15 02:39
+levanta,4,3,17.43,100,"france24_es, levante_emv, 20minutos, elcorreo",4,Informe desde Caracas: el Tesoro levanta sanciones al Banco Central de Venezuela,2026-04-15 02:39
+ejército,3,5,7.84,100,"elmundo, elcorreo, levante_emv",3,Mueren cuatro personas tras un ataque del ejército estadounidense a una embarcación en el Pacífico,2026-04-15 02:39
+próxima,3,2,19.61,100,"okdiario, sur, elcorreo",3,Baleares abre su quincena andaluza: esta semana Feria en Ibiza y la próxima en Palma,2026-04-15 02:39
+ataques,3,8,4.9,98,"okdiario, google_news_es, france24_es",3,Baleares registró con Armengol cuatro veces más denuncias por ataques al catalán que con el PP y Vox,2026-04-15 02:39
+atlético,21,62,4.43,88,"google_news_es, elpais, elespanol, levante_emv, elcorreo",5,"Atlético (3) 1 - 2 (2) Barcelona: resumen, goles y resultado de la vuelta de cuartos de la Champions League - Diario AS",2026-04-15 02:39
+sorteo,4,12,4.36,87,"20minutos, sur",2,Un acertante se lleva un millón de euros del sorteo de Euromillones,2026-04-15 02:39
+parís,3,9,4.36,87,"google_news_es, elmundo_internacional, google_news_internacional",3,Un francés gana un Picasso valorado en un millón de euros en una rifa solidaria en París - RTVE.es,2026-04-15 02:39
+banco,4,13,4.02,80,"france24_es, levante_emv, 20minutos, elcorreo",4,Informe desde Caracas: el Tesoro levanta sanciones al Banco Central de Venezuela,2026-04-15 02:39
+jornada,3,10,3.92,78,"sur, google_news_es, lavanguardia",3,"El Málaga, ante un ensayo de los 'play-off' la próxima jornada",2026-04-15 02:39
+llega,4,14,3.73,74,"france24_es, elmundo, google_news_es, 20minutos, elcorreo",5,Papa León XIV llega a Argelia en su gira de 10 días por África,2026-04-15 02:39
+joven,3,11,3.57,71,"elcorreo, elmundo, sur",3,"Martín García García, el joven pianista que arrasa en Japón, actúa en Bilbao",2026-04-15 02:39
+mensaje,3,12,3.27,65,"huffington_es, elcorreo, okdiario",3,Vance lanza un mensaje a Irán que cambia el tono: &quot;Puede prosperar… si cumple esta condición&quot;,2026-04-15 02:39
+cuatro,6,25,3.14,62,"okdiario, elmundo, elcorreo, elpais, elmundo_espana",5,Baleares registró con Armengol cuatro veces más denuncias por ataques al catalán que con el PP y Vox,2026-04-15 02:39
+final,8,34,3.08,61,"elespanol, huffington_es, elcorreo, elpais, google_news_es",5,El amargo final de 80 de los hipopótamos del narco Pablo Escobar: el plan desesperado para que reciban la eutanasia,2026-04-15 02:39
+metropolitano,4,17,3.08,61,"elespanol, okdiario, elpais",3,Fiesta total en el Metropolitano: los jugadores del Atlético regresaron de los vestuarios para festejar el pase,2026-04-15 02:39
+veces,3,13,3.02,60,"okdiario, sur",2,Viola varias veces a su hijastra de 10 años con discapacidad y la deja embarazada en Mallorca,2026-04-15 02:39
+mallorca,4,18,2.9,58,okdiario,1,El ‘monstruo homófobo’ de Mallorca: revienta a dos turistas porque no le gustan los homosexuales,2026-04-15 02:39
+lleva,3,14,2.8,56,"google_news_economia, 20minutos, heraldo_aragon",3,"""La energía alta de precios altos más los salarios altos te lleva a un drama, y es lo que nos está pasando en España"" - COPE",2026-04-15 02:39
+lamine,3,15,2.61,52,"elpais, elmundo, okdiario",3,El Atlético sobrevive al arte de Lamine y se mete en las semifinales de la Champions,2026-04-15 02:39
+menos,6,31,2.53,50,"elespanol, elcorreo, elmundo, 20minutos",4,Sánchez cifra los migrantes que serán regularizados en menos de 500.000 pero Extranjería dice que serán más del doble,2026-04-15 02:39
+washington,3,16,2.45,49,"france24_es, elmundo_internacional, google_news_internacional",3,"EE. UU. celebra la ""oportunidad histórica"" para la paz tras el diálogo entre Líbano e Israel en Washington",2026-04-15 02:39
+meloni,5,27,2.42,48,"elespanol, elmundo, google_news_internacional, lavanguardia, france24_es",5,"Trump contra todos: rompe con Meloni, su última gran aliada europea, mientras Starmer y Macron presionan con Ormuz",2026-04-15 02:39
+frente,4,22,2.38,47,"elmundo_internacional, google_news_internacional, elpais, france24_es",4,Roma frente a Washington: el choque entre el Papa y Trump,2026-04-15 02:39
+league,6,34,2.31,46,"google_news_es, levante_emv, okdiario, europapress, elespanol",5,"Atlético (3) 1 - 2 (2) Barcelona: resumen, goles y resultado de la vuelta de cuartos de la Champions League - Diario AS",2026-04-15 02:39
