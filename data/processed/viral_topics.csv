@@ -1,236 +1,254 @@
 keyword,count_now,count_base,ratio,viral_score,sources,n_sources,sample_title,detected_at
-convocatoria,3,2,7.29,100,"google_news_internacional, levante_emv, elpais",3,Convocatoria de elecciones en la Comisión de Justicia Penal Internacional y Derechos Humanos - ICAB,2026-04-16 09:10
-hermana,3,1,14.59,100,"elpais, 20minutos, google_news_es",3,"Ivana Rodríguez, hermana de Georgina, ganadora de ‘Top Chef: Dulces y famosos’",2026-04-16 09:10
-líderes,9,4,10.94,100,"google_news_internacional, infolibre, elpais, elcorreo, france24_es",5,"Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Trump dice que este jueves hablarán “los líderes” de Israel y Líbano pero Beirut niega “tener conocimiento” de un contacto próximo - EL PAÍS",2026-04-16 09:10
-miles,3,1,14.59,100,"lavanguardia, elpais, google_news_economia",3,"Miles de alicantinos peregrinan a la Santa Faz, que el Consell declara Bien de Interés Cultural",2026-04-16 09:10
-mantenimiento,3,2,7.29,100,"sur, 20minutos, levante_emv",3,Muere arrollado por un tren mientras trabajaba en el mantenimiento de vías en Ciudad Real,2026-04-16 09:10
-trabajaba,4,0,5.0,100,"sur, 20minutos, levante_emv, elconfidencial",4,Muere arrollado por un tren mientras trabajaba en el mantenimiento de vías en Ciudad Real,2026-04-16 09:10
-arrollado,7,0,5.0,100,"sur, 20minutos, levante_emv, elespanol, elcorreo",5,Muere arrollado por un tren mientras trabajaba en el mantenimiento de vías en Ciudad Real,2026-04-16 09:10
-guerrera,3,0,5.0,100,"eldiario, elcorreo, okdiario, 20minutos",4,"Muere María Caamaño, ""la princesa futbolera guerrera""  que convirtió su enfermedad en un proyecto solidario",2026-04-16 09:10
-futbolera,4,0,5.0,100,"eldiario, elcorreo, okdiario, 20minutos",4,"Muere María Caamaño, ""la princesa futbolera guerrera""  que convirtió su enfermedad en un proyecto solidario",2026-04-16 09:10
-princesa,3,1,14.59,100,"eldiario, elcorreo, okdiario, 20minutos",4,"Muere María Caamaño, ""la princesa futbolera guerrera""  que convirtió su enfermedad en un proyecto solidario",2026-04-16 09:10
-santa,3,2,7.29,100,"sur, elcorreo, lavanguardia, levante_emv, heraldo_aragon",5,"El perito concluye que la pasarela de Santander colapsó por un fallo de los herrajes, que estaban corroídos",2026-04-16 09:10
-acabó,3,1,14.59,100,"eldiario, google_news_es, elpais",3,El actor que mató al presidente Abraham Lincoln y acabó practicando el primer magnicidio de Estados Unidos,2026-04-16 09:10
-pacífico,3,1,14.59,100,"okdiario, 20minutos, google_news_internacional",3,Hito en la ingeniería: confirman la perforación de un megatúnel en Los Andes para abrirse paso al océano Pacífico,2026-04-16 09:10
-entrada,3,1,14.59,100,"huffington_es, sur, levante_emv, okdiario",4,¿Monopolio en la venta de entradas por parte de Live Nation y Ticketmaster? Esto dice una sentencia estadounidense,2026-04-16 09:10
-petróleo,7,6,5.67,100,"levante_emv, okdiario, elmundo, google_news_es",4,¿Por qué el Golfo Pérsico tiene más petróleo y gas que cualquier otro lugar del planeta?,2026-04-16 09:10
-octubre,3,2,7.29,100,"eldiario, lavanguardia, elpais",3,Las llamadas comerciales deberán utilizar obligatoriamente el prefijo 400 desde octubre,2026-04-16 09:10
-trabajador,3,2,7.29,100,"levante_emv, elespanol, sur, elconfidencial",4,Muere un trabajador arrollado por un tren mientras trabajaba en mantenimiento de vías en Ciudad Real,2026-04-16 09:10
-cuánto,4,2,9.72,100,"okdiario, 20minutos, google_news_economia",3,‘Top Chef’: ¿quién es el ganador de la edición y cuánto dinero se ha llevado?,2026-04-16 09:10
-productor,3,0,5.0,100,"elmundo, elcorreo, elpais",3,"El productor Jesús Cimarro, premio Max de Honor 2026: ""He estado al borde de la ruina""",2026-04-16 09:10
-cimarro,3,1,14.59,100,"elmundo, google_news_es, elpais",3,"El productor Jesús Cimarro, premio Max de Honor 2026: ""He estado al borde de la ruina""",2026-04-16 09:10
-silencio,4,1,19.45,100,"elcorreo, 20minutos, elpais_internacional, google_news_internacional",4,Aitana rompe su silencio tras los rumores de crisis con Plex,2026-04-16 09:10
-instalación,3,0,5.0,100,"elcorreo, elpais",2,Destrozan y tiran abajo un baño público de 9.000 euros en el parque natural de Gorbeia tres meses después de su instalación,2026-04-16 09:10
-robots,3,2,7.29,100,"elmundo_internacional, google_news_internacional, expansion",3,"Ucrania conquista una posición rusa sólo con drones aéreos y robots terrestres, sin intervención directa de soldados sobre el terreno",2026-04-16 09:10
-aviar,3,0,5.0,100,"20minutos, google_news_economia, levante_emv",3,El Gobierno levanta el confinamiento a las aves de corral en toda España por la gripe aviar,2026-04-16 09:10
-cuesta,5,3,8.1,100,"elcorreo, okdiario, google_news_economia, elpais, lavanguardia",5,El sorprendente motivo por el que Jota Peleteiro no fue a la comunión de uno de sus hijos con Jessica Bueno: «Cuesta creerlo»,2026-04-16 09:10
-georgina,3,1,14.59,100,"elpais, 20minutos, google_news_es",3,"Ivana Rodríguez, hermana de Georgina, ganadora de ‘Top Chef: Dulces y famosos’",2026-04-16 09:10
-ivana,3,2,7.29,100,"elpais, 20minutos, google_news_es",3,"Ivana Rodríguez, hermana de Georgina, ganadora de ‘Top Chef: Dulces y famosos’",2026-04-16 09:10
-confinamiento,7,0,5.0,100,"20minutos, google_news_economia, google_news_es, levante_emv",4,El Gobierno levanta el confinamiento a las aves de corral en toda España por la gripe aviar,2026-04-16 09:10
-alejandra,5,3,8.1,100,"google_news_internacional, 20minutos, levante_emv, google_news_economia",4,"La poeta colombiana Lidia Corcione Crescini, Premio Internacional de Poesía “Alejandra Pizarnik” 2026 - Diario Siglo XXI",2026-04-16 09:10
-agenda,7,6,5.67,100,"okdiario, elcorreo, google_news_internacional, google_news_politica, google_news_es",5,Las localizaciones del Papa León XIV que colapsarán España: agenda completa con horas y actos,2026-04-16 09:10
-circulación,4,0,5.0,100,"20minutos, levante_emv, elconfidencial",3,Retrasos en cuatro líneas de Metrovalencia tras interrumpirse una hora la circulación por fallos técnicos,2026-04-16 09:10
-metrovalencia,3,1,14.59,100,"20minutos, levante_emv",2,Retrasos en cuatro líneas de Metrovalencia tras interrumpirse una hora la circulación por fallos técnicos,2026-04-16 09:10
-vida”,3,0,5.0,100,"google_news_internacional, elpais",2,La última alegría de Feid en su gira que confirma su proyección internacional: “Es el mejor día de toda mi vida” - LOS40,2026-04-16 09:10
-triplicará,3,0,5.0,100,"okdiario, google_news_economia, lavanguardia",3,Repsol retoma el control en Venezuela: doblará su producción en un año y la triplicará en tres,2026-04-16 09:10
-caben,4,1,19.45,100,levante_emv,1,"El llamativo reclamo de fiesta y apartamento turístico en Xàbia: ""Donde caben 2 caben 3, 4, 5 y 7""",2026-04-16 09:10
-cargo,3,2,7.29,100,"huffington_es, levante_emv",2,Denuncian que Ayuso usó a un cargo público para ayudarle en la posible compra de un piso de 850.000 euros en Madrid,2026-04-16 09:10
-maltrato,3,0,5.0,100,"huffington_es, elpais, elconfidencial",3,Un concejal valenciano de Vox dimite tras salir a la luz que fue denunciado por maltrato,2026-04-16 09:10
-denunciado,5,1,24.31,100,"huffington_es, levante_emv, 20minutos, elpais, elconfidencial",5,Un concejal valenciano de Vox dimite tras salir a la luz que fue denunciado por maltrato,2026-04-16 09:10
-detenida,4,1,19.45,100,"france24_es, elconfidencial, sur, elcorreo",4,"Narges Mohammadi, Nobel de la Paz detenida en Irán, en estado crítico, denuncian sus allegados",2026-04-16 09:10
-concejal,6,1,29.17,100,"huffington_es, levante_emv, 20minutos, elpais, elconfidencial",5,Un concejal valenciano de Vox dimite tras salir a la luz que fue denunciado por maltrato,2026-04-16 09:10
-islas,3,2,7.29,100,"expansion, lavanguardia, elpais",3,"El precio de la vivienda sube un 14,7% liderado por las islas y la costa mediterránea",2026-04-16 09:10
-condiciones,3,2,7.29,100,"google_news_es, europapress, levante_emv",3,Repsol acuerda las condiciones para incrementar su producción de petróleo en Venezuela - Repsol,2026-04-16 09:10
-venezuela,18,3,29.17,100,"elcorreo, 20minutos, okdiario, elmundo, google_news_economia",5,Repsol recupera el control de sus operaciones en Venezuela,2026-04-16 09:10
-operaciones,10,0,5.0,100,"elcorreo, 20minutos, elmundo, google_news_economia, elpais",5,Repsol recupera el control de sus operaciones en Venezuela,2026-04-16 09:10
-existe,3,2,7.29,100,"okdiario, google_news_politica",2,"La joya botánica que solo existe en la península ibérica: florece solo 11 días al año, y es justo ahora en primavera",2026-04-16 09:10
-montserrat,4,1,19.45,100,"levante_emv, 20minutos, elpais, elconfidencial",4,Dimite el concejal de Vox en Montserrat denunciado por malos tratos,2026-04-16 09:10
-repsol,16,1,77.79,100,"elcorreo, 20minutos, okdiario, elmundo, google_news_economia",5,Repsol recupera el control de sus operaciones en Venezuela,2026-04-16 09:10
-historias,3,1,14.59,100,"levante_emv, okdiario, lavanguardia",3,"Historias inspiradoras: Columbus Venture Partners, el fondo español que convierte ciencia en industria y terapias reales",2026-04-16 09:10
-activa,4,3,6.48,100,"sur, levante_emv, elespanol, elpais, google_news_es",5,Más de 2.600 plazas en Policía Nacional reactivan el interés por las oposiciones en Andalucía,2026-04-16 09:10
-incendiar,3,0,5.0,100,"elconfidencial, sur, elcorreo, okdiario, lavanguardia",5,Detenida una mujer de 45 años en Bilbao tras incendiar una lonja con su pareja dentro,2026-04-16 09:10
-crimen,3,0,5.0,100,"elconfidencial, google_news_es, 20minutos",3,Vecinos de Villanueva (Madrid) hallan dos armas blancas del crimen del niño de 11 años,2026-04-16 09:10
-lonja,3,2,7.29,100,"elconfidencial, sur, elcorreo",3,Detenida una mujer de 45 años en Bilbao tras incendiar una lonja con su pareja dentro,2026-04-16 09:10
-corral,7,0,5.0,100,"20minutos, google_news_economia, google_news_es, levante_emv",4,El Gobierno levanta el confinamiento a las aves de corral en toda España por la gripe aviar,2026-04-16 09:10
-gripe,4,1,19.45,100,"20minutos, google_news_economia, levante_emv",3,El Gobierno levanta el confinamiento a las aves de corral en toda España por la gripe aviar,2026-04-16 09:10
-levanta,8,2,19.45,100,"20minutos, google_news_economia, google_news_es, levante_emv, infolibre",5,El Gobierno levanta el confinamiento a las aves de corral en toda España por la gripe aviar,2026-04-16 09:10
-calla,3,0,5.0,100,"eldiario, 20minutos, levante_emv",3,"Ayuso calla sobre el uso de su jefe de despacho para negociar la compra de un piso y la oposición la acusa de ""ponerle el traje de Tecnocasa""",2026-04-16 09:10
-ryanair,3,0,5.0,100,"levante_emv, google_news_economia",2,"Alejandra Ruiz, portavoz de Ryanair en España: ""Tenemos la mirada puesta en una posible escasez de combustible si el estrecho de Ormuz no reabre""",2026-04-16 09:10
-caamaño,7,0,5.0,100,"okdiario, eldiario, levante_emv, elcorreo, 20minutos",5,Reacciones de famosos a la muerte de María Caamaño: «La sonrisa más bonita que jamás pisó la Tierra»,2026-04-16 09:10
-batalla,6,5,5.83,100,"levante_emv, lavanguardia, okdiario, google_news_politica, elpais_espana",5,Batalla entre Elon Musk y la EUIPO por la marca Robotaxi,2026-04-16 09:10
-morante,3,0,5.0,100,heraldo_aragon,1,"Aarón Palacio, torero aragonés: ""Es normal que la gente esté obsesionada con Morante de La Puebla""",2026-04-16 09:10
-puebla,3,2,7.29,100,heraldo_aragon,1,"Aarón Palacio, torero aragonés: ""Es normal que la gente esté obsesionada con Morante de La Puebla""",2026-04-16 09:10
-personalidad,3,2,7.29,100,"levante_emv, elpais",2,Administrar oxitocina mejora las psicoterapias para pacientes con Trastorno Límite de Personalidad (TLP),2026-04-16 09:10
-prefijo,3,0,5.0,100,"huffington_es, eldiario, elpais",3,Confirmado por el BOE: todas las llamadas comerciales deberán llevar un mismo prefijo y los ciudadanos podrán bloquearlas todas de golpe,2026-04-16 09:10
-comerciales,3,0,5.0,100,"huffington_es, eldiario, elpais",3,Confirmado por el BOE: todas las llamadas comerciales deberán llevar un mismo prefijo y los ciudadanos podrán bloquearlas todas de golpe,2026-04-16 09:10
-llamadas,3,0,5.0,100,"huffington_es, eldiario, elpais",3,Confirmado por el BOE: todas las llamadas comerciales deberán llevar un mismo prefijo y los ciudadanos podrán bloquearlas todas de golpe,2026-04-16 09:10
-viajes,3,1,14.59,100,"okdiario, lavanguardia, huffington_es",3,Viajes cinematográficos en España: Lugares fuera de Europa a los que te llevan las series y TikTok,2026-04-16 09:10
-combustibles,4,1,19.45,100,"el_confidencial_economia, okdiario, google_news_economia, elpais",4,"Santiago Niño Becerra, economista, sobre la subida del coste de los combustibles: “El aumento del precio de los pasajes de avión se va a disparar",2026-04-16 09:10
-detiene,3,2,7.29,100,"eldiario, elpais_internacional, google_news_internacional",3,"La secularización no se detiene, pese al repunte religioso entre los jóvenes",2026-04-16 09:10
-derecho,6,5,5.83,100,"google_news_internacional, elespanol, huffington_es, lavanguardia, elpais",5,II Jornadas de Derecho Internacional Privado de Canarias - ULL,2026-04-16 09:10
-recuperación,3,2,7.29,100,"infolibre, levante_emv",2,"“No hay indicios de recuperación de la anguila”, dice la UE el mismo día que la Xunta levanta su veda",2026-04-16 09:10
-truth,3,0,5.0,100,"lavanguardia, google_news_es",2,"Truth Social, el refugio de las frustraciones y los ajustes de cuentas de Trump",2026-04-16 09:10
-contacto,3,0,5.0,100,"google_news_internacional, elpais, huffington_es",3,"Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Trump dice que este jueves hablarán “los líderes” de Israel y Líbano pero Beirut niega “tener conocimiento” de un contacto próximo - EL PAÍS",2026-04-16 09:10
-marido,4,2,9.72,100,"okdiario, elpais_internacional, google_news_internacional",3,La empresa del marido de Aagesen recibe ayudas del Gobierno para promocionarse en Hispanoamérica,2026-04-16 09:10
-líderes”,4,0,5.0,100,"google_news_internacional, elpais",2,"Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Trump dice que este jueves hablarán “los líderes” de Israel y Líbano pero Beirut niega “tener conocimiento” de un contacto próximo - EL PAÍS",2026-04-16 09:10
-hablarán,11,1,53.48,100,"google_news_internacional, elpais, elcorreo, france24_es, google_news_es",5,"Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Trump dice que este jueves hablarán “los líderes” de Israel y Líbano pero Beirut niega “tener conocimiento” de un contacto próximo - EL PAÍS",2026-04-16 09:10
-jueves,31,27,5.58,100,"google_news_internacional, okdiario, google_news_economia, elpais, sur",5,"Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Trump dice que este jueves hablarán “los líderes” de Israel y Líbano pero Beirut niega “tener conocimiento” de un contacto próximo - EL PAÍS",2026-04-16 09:10
-aerolíneas,3,1,14.59,100,"okdiario, google_news_economia",2,Las aerolíneas recomiendan comprar ya los billetes de verano: «El precio subirá porque falta queroseno»,2026-04-16 09:10
-portavoz,3,0,5.0,100,"levante_emv, google_news_economia",2,"Alejandra Ruiz, portavoz de Ryanair en España: ""Tenemos la mirada puesta en una posible escasez de combustible si el estrecho de Ormuz no reabre""",2026-04-16 09:10
-puesta,3,1,14.59,100,"expansion, elespanol, levante_emv, google_news_economia, okdiario",5,Los bajistas dudan en su apuesta contra Amadeus,2026-04-16 09:10
-ucrania,8,7,5.56,100,"elpais, google_news_internacional, huffington_es, france24_es, elespanol",5,Rusia retoma los bombardeos en Ucrania tras la tregua de Pascua y causa al menos 15 muertos,2026-04-16 09:10
-retoma,4,0,5.0,100,"elpais, google_news_internacional, okdiario, europapress",4,Rusia retoma los bombardeos en Ucrania tras la tregua de Pascua y causa al menos 15 muertos,2026-04-16 09:10
-ligeras,3,1,14.59,100,"google_news_es, okdiario, huffington_es",3,El Ibex 35 quieren revertir las caídas de ayer; ligeras subidas en los futuros - Yahoo,2026-04-16 09:10
-blanco,4,3,6.48,100,"levante_emv, elespanol, elcorreo, 20minutos",4,Florentino bajó al vestuario en Múnich: “Una temporada en blanco es un fracaso en el Real Madrid. Dos es intolerable”,2026-04-16 09:10
-florentino,3,0,5.0,100,levante_emv,1,Florentino bajó al vestuario en Múnich: “Una temporada en blanco es un fracaso en el Real Madrid. Dos es intolerable”,2026-04-16 09:10
-podrían,3,2,7.29,100,"20minutos, okdiario",2,Hallan en Villanueva dos armas blancas que podrían haber sido usadas para matar al niño de 11 años,2026-04-16 09:10
-dolor,4,2,9.72,100,"okdiario, lavanguardia",2,Los médicos explican cómo diferenciar entre dolor de riñón y dolor de espalda,2026-04-16 09:10
-egipto,3,1,14.59,100,"okdiario, elpais_internacional, google_news_internacional",3,Estupefacción en la arqueología: descubren una entrada secreta en una de las pirámides de Giza en Egipto,2026-04-16 09:10
-rusos,4,0,5.0,100,"europapress, elmundo_internacional, elpais_internacional, google_news_internacional",4,Al menos 15 muertos y casi un centenar de heridos en ataques rusos contra Kiev y otras dos ciudades ucranianas,2026-04-16 09:10
-definitivamente,3,0,5.0,100,"okdiario, huffington_es, europapress",3,Vox expulsa definitivamente a Ortega Smith,2026-04-16 09:10
-expulsa,4,0,5.0,100,"okdiario, huffington_es, elconfidencial, europapress, google_news_internacional",5,Vox expulsa definitivamente a Ortega Smith,2026-04-16 09:10
-smith,3,2,7.29,100,"okdiario, huffington_es, elconfidencial, europapress",4,Vox expulsa definitivamente a Ortega Smith,2026-04-16 09:10
-rusia,10,6,8.1,100,"elpais, google_news_internacional, huffington_es, france24_es, elespanol",5,Rusia retoma los bombardeos en Ucrania tras la tregua de Pascua y causa al menos 15 muertos,2026-04-16 09:10
-camión,3,0,5.0,100,"elcorreo, 20minutos, sur",3,"Roba un coche, se queda sin combustible en la autovía en Málaga y muere arrollado por un camión",2026-04-16 09:10
-hijos,3,1,14.59,100,"elcorreo, elespanol, elpais",3,El sorprendente motivo por el que Jota Peleteiro no fue a la comunión de uno de sus hijos con Jessica Bueno: «Cuesta creerlo»,2026-04-16 09:10
-consigue,6,1,29.17,100,"elcorreo, 20minutos, lavanguardia, okdiario",4,Una auxiliar administrativa de 37 años consigue una pensión vitalicia de 2.773 euros por agotamiento físico y mental,2026-04-16 09:10
-pacientes,3,2,7.29,100,"eldiario, europapress, levante_emv",3,El 22% de los pacientes esperan más de seis meses por una operación,2026-04-16 09:10
-físico,3,0,5.0,100,"elcorreo, elpais",2,Una auxiliar administrativa de 37 años consigue una pensión vitalicia de 2.773 euros por agotamiento físico y mental,2026-04-16 09:10
-oposición,5,4,6.08,100,"eldiario, levante_emv, google_news_politica, elpais_espana, elpais",5,"Ayuso calla sobre el uso de su jefe de despacho para negociar la compra de un piso y la oposición la acusa de ""ponerle el traje de Tecnocasa""",2026-04-16 09:10
-presión,4,4,4.86,97,"huffington_es, expansion, elpais, google_news_es, france24_es",5,La reflexión de Antonio Carmona sobre el dinero: lo resume todo en la expresión &quot;rico te veas&quot;,2026-04-16 09:10
-últimos,3,3,4.86,97,"elespanol, okdiario, elcorreo",3,"Feijóo: ""Necesitamos un despertar democrático para desactivar el legado envenenado construido en los últimos años""",2026-04-16 09:10
-artes,3,3,4.86,97,"okdiario, google_news_es, elpais",3,Vuelven las lluvias a España y la AEMET lo confirma: adiós al buen tiempo el fin de semana en estas partes de España,2026-04-16 09:10
-escalada,3,3,4.86,97,"okdiario, elpais, google_news_es",3,"Guerra de Irán, en directo: última hora de la tensión, la vía diplomática y el riesgo de nueva escalada",2026-04-16 09:10
-méxico,3,3,4.86,97,"lavanguardia, levante_emv, google_news_internacional",3,"El 'atractivo animal' de Taylor Momsen: un murciélago la mordió en Sevilla; ahora, una araña la pica en México y acaba en el hospital",2026-04-16 09:10
-ejemplo,3,3,4.86,97,"20minutos, eldiario, huffington_es",3,"Muere María Caamaño, la 'princesa futbolera guerrera' y ejemplo de visibilidad del cáncer infantil",2026-04-16 09:10
-varias,3,3,4.86,97,"elespanol, google_news_internacional, google_news_es",3,"Aparecen rotas varias ventanillas de coches aparcados en Os Castros, en A Coruña",2026-04-16 09:10
-otras,4,4,4.86,97,"europapress, okdiario, lavanguardia, elpais",4,Al menos 15 muertos y casi un centenar de heridos en ataques rusos contra Kiev y otras dos ciudades ucranianas,2026-04-16 09:10
-marcha,3,3,4.86,97,"okdiario, levante_emv",2,"El Ibex 35 sube un 0,1% con el petróleo firme en los 95 dólares y nuevas negociaciones en marcha",2026-04-16 09:10
-fármacos,3,3,4.86,97,"google_news_es, elcorreo, eldiario",3,Un análisis de 17 ensayos concluye que los fármacos contra el Alzheimer basados en beta-amiloide no mejoran la cognición - Infosalus,2026-04-16 09:10
-autobús,3,3,4.86,97,"heraldo_aragon, huffington_es",2,"Zaragoza probará la prioridad semafórica para el autobús en cuatro cruces conflictivos de Centro, Actur, Parque Goya y Santa Isabel",2026-04-16 09:10
-beneficios,3,3,4.86,97,"eldiario, levante_emv, okdiario, lavanguardia",4,La fiebre de los chips continúa y TSMC lo aprovecha: la gran factoría de Taiwán vuelve a pulverizar su récord de beneficios,2026-04-16 09:10
-causa,3,3,4.86,97,"okdiario, elpais, google_news_internacional",3,"Gaspar Zarrías, ex consejero de la Junta, declara en la causa de Leire Díez por su «su relación con la investigada»",2026-04-16 09:10
-mental,4,4,4.86,97,"elcorreo, lavanguardia, okdiario",3,Una auxiliar administrativa de 37 años consigue una pensión vitalicia de 2.773 euros por agotamiento físico y mental,2026-04-16 09:10
-hallan,3,3,4.86,97,"20minutos, elconfidencial, levante_emv",3,Hallan en Villanueva dos armas blancas que podrían haber sido usadas para matar al niño de 11 años,2026-04-16 09:10
-confirmado,4,4,4.86,97,"huffington_es, okdiario",2,Confirmado por el BOE: todas las llamadas comerciales deberán llevar un mismo prefijo y los ciudadanos podrán bloquearlas todas de golpe,2026-04-16 09:10
-lucha,5,5,4.86,97,"20minutos, levante_emv, elpais",3,"Paddington vive, la lucha sigue: el osito confirma una cuarta película para cines",2026-04-16 09:10
-municipal,3,3,4.86,97,"levante_emv, google_news_internacional",2,"Dona'm la ma, la asociación de migrantes de Torrent, recibe apoyo tras la retirada de subvención municipal",2026-04-16 09:10
-predicción,13,14,4.51,90,okdiario,1,"Predicción del horóscopo para Aries hoy, jueves 16 de abril de 2026",2026-04-16 09:10
-líbano,22,25,4.28,85,"google_news_internacional, infolibre, elcorreo, lavanguardia, elpais",5,"Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Trump dice que este jueves hablarán “los líderes” de Israel y Líbano pero Beirut niega “tener conocimiento” de un contacto próximo - EL PAÍS",2026-04-16 09:10
-combustible,6,7,4.17,83,"elcorreo, levante_emv, google_news_economia, el_confidencial_economia, sur",5,"Roba un coche, se queda sin combustible en la autovía en Málaga y muere arrollado por un camión",2026-04-16 09:10
-dinero,6,7,4.17,83,"okdiario, huffington_es, el_confidencial_economia, elcorreo, levante_emv",5,‘Top Chef’: ¿quién es el ganador de la edición y cuánto dinero se ha llevado?,2026-04-16 09:10
-papel,5,6,4.05,81,"google_news_internacional, okdiario, elpais, elpais_espana",4,Canarias refuerza su papel en cooperación internacional alineada con los objetivos de desarrollo sostenible - Radio Faro del Noroeste,2026-04-16 09:10
-horóscopo,13,16,3.95,79,okdiario,1,"Predicción del horóscopo para Aries hoy, jueves 16 de abril de 2026",2026-04-16 09:10
-cáncer,4,5,3.89,77,"levante_emv, elcorreo, 20minutos, okdiario",4,"Muere a los 13 años María Caamaño Núñez, símbolo de la lucha contra el cáncer infantil",2026-04-16 09:10
-dentro,4,5,3.89,77,"elconfidencial, sur, elcorreo, lavanguardia",4,Detenida una mujer de 45 años en Bilbao tras incendiar una lonja con su pareja dentro,2026-04-16 09:10
-pareja,4,5,3.89,77,"20minutos, elconfidencial, sur, elcorreo, lavanguardia",5,Un concejal de Vox de Montserrat entrega su acta tras ser denunciado por malos tratos por su pareja,2026-04-16 09:10
-recibe,4,5,3.89,77,"levante_emv, google_news_internacional, okdiario",3,"Dona'm la ma, la asociación de migrantes de Torrent, recibe apoyo tras la retirada de subvención municipal",2026-04-16 09:10
-móvil,4,5,3.89,77,"20minutos, levante_emv, google_news_es, okdiario, google_news_internacional",5,"Llega el realme 16 5G, el móvil con espejo para selfis con la cámara trasera",2026-04-16 09:10
-siete,4,5,3.89,77,"heraldo_aragon, levante_emv, sur, lavanguardia",4,El DAT Alierta de Zaragoza sigue creciendo: siete nuevas empresas se mudarán al parque tecnológico,2026-04-16 09:10
-gente,7,9,3.78,75,"expansion, heraldo_aragon, okdiario, lavanguardia, elpais_internacional",5,Los 'robots inteligentes' de Theker automatizan la logística de Paack,2026-04-16 09:10
-ataques,7,9,3.78,75,"okdiario, france24_es, levante_emv, europapress, elmundo_internacional",5,"Guerra de Irán, en directo | Ataques, precio del petróleo hoy, bloqueo naval y noticias de Trump hoy",2026-04-16 09:10
-recupera,7,9,3.78,75,"elcorreo, 20minutos, elmundo, google_news_economia, elpais",5,Repsol recupera el control de sus operaciones en Venezuela,2026-04-16 09:10
-primavera,7,9,3.78,75,"okdiario, elcorreo, lavanguardia",3,No todas valen: las 6 zapatillas Nike que sí merecen la pena para entrenar en gimnasio esta primavera,2026-04-16 09:10
-turismo,3,4,3.65,72,"okdiario, elcorreo, lavanguardia, google_news_economia, elpais",5,Estadounidenses compran un pueblo deshabitado en Zamora y lo convierten en negocio: este es el plan que traerá turismo internacional,2026-04-16 09:10
-concluye,3,4,3.65,72,"sur, elcorreo, google_news_es",3,"El perito concluye que la pasarela de Santander colapsó por un fallo de los herrajes, que estaban corroídos",2026-04-16 09:10
-jesucristo,3,4,3.65,72,"20minutos, elpais_internacional, google_news_es",3,"Trump, abrazado con Jesucristo: el presidente vuelve a la carga y publica otra imagen religiosa",2026-04-16 09:10
-fiesta,3,4,3.65,72,"levante_emv, elcorreo, elpais",3,"El llamativo reclamo de fiesta y apartamento turístico en Xàbia: ""Donde caben 2 caben 3, 4, 5 y 7""",2026-04-16 09:10
-frena,3,4,3.65,72,"lavanguardia, google_news_internacional, elpais, google_news_es",4,Freno a la financiación pública del fármaco que frena la progresión del alzheimer,2026-04-16 09:10
-comunidades,3,4,3.65,72,"okdiario, google_news_es",2,El BOE lo confirma y es oficial: el 23 de abril es festivo y hay puente escolar en estas comunidades,2026-04-16 09:10
-hoteles,3,4,3.65,72,"lavanguardia, elpais, google_news_es",3,Hoteles extraordinarios para amantes del tenis,2026-04-16 09:10
-natural,3,4,3.65,72,"levante_emv, elcorreo",2,"La medicina estética abandona el bótox y busca el efecto natural: ""Ya no vemos rostros congelados""",2026-04-16 09:10
-entrega,3,4,3.65,72,"20minutos, elpais, elconfidencial",3,Un concejal de Vox de Montserrat entrega su acta tras ser denunciado por malos tratos por su pareja,2026-04-16 09:10
-posición,3,4,3.65,72,"eldiario, levante_emv, elmundo_internacional, google_news_internacional, google_news_politica",5,"Ayuso calla sobre el uso de su jefe de despacho para negociar la compra de un piso y la oposición la acusa de ""ponerle el traje de Tecnocasa""",2026-04-16 09:10
-sostenible,3,4,3.65,72,"google_news_internacional, elmundo",2,Canarias refuerza su papel en cooperación internacional alineada con los objetivos de desarrollo sostenible - Radio Faro del Noroeste,2026-04-16 09:10
-primeras,3,4,3.65,72,"levante_emv, el_confidencial_economia, huffington_es",3,"Hay ganas de ""playoff"" de ascenso en Gandia: Se agotan las 100 primeras entradas en dos horas para ver a Proinbeni UpB",2026-04-16 09:10
-estadounidense,3,4,3.65,72,"huffington_es, okdiario, elpais_internacional, google_news_internacional",4,¿Monopolio en la venta de entradas por parte de Live Nation y Ticketmaster? Esto dice una sentencia estadounidense,2026-04-16 09:10
-reabre,3,4,3.65,72,"levante_emv, google_news_economia",2,"Alejandra Ruiz, portavoz de Ryanair en España: ""Tenemos la mirada puesta en una posible escasez de combustible si el estrecho de Ormuz no reabre""",2026-04-16 09:10
-educación,3,4,3.65,72,"elpais, okdiario",2,"Cuando la inteligencia artificial hace los deberes, la educación cambia de reglas",2026-04-16 09:10
-comida,3,4,3.65,72,"eldiario, google_news_economia, lavanguardia",3,"Adiós a los refrescos, la bollería y la comida basura: los colegios deben ofrecer desde hoy alimentos saludables",2026-04-16 09:10
-confirma,13,18,3.51,70,"huffington_es, google_news_internacional, 20minutos, elcorreo, okdiario",5,Confirmado por el BOE: todas las llamadas comerciales deberán llevar un mismo prefijo y los ciudadanos podrán bloquearlas todas de golpe,2026-04-16 09:10
-acceso,5,7,3.47,69,"google_news_internacional, levante_emv, sur, okdiario, lavanguardia",5,El Bachillerato Internacional en Madrid: una ruta estratégica para el acceso a la universidad con éxito garantizado - Madridiario,2026-04-16 09:10
-europeo,5,7,3.47,69,"huffington_es, google_news_es, lavanguardia, okdiario, google_news_economia",5,"Varios gobiernos europeos exigen a sus funcionarios desinstalar WhatsApp: &quot;La tecnología es una herramienta de poder, supone un riesgo&quot;",2026-04-16 09:10
-producción,7,10,3.4,68,"20minutos, okdiario, elmundo, google_news_economia, google_news_es",5,Repsol recupera el control de sus operaciones en Venezuela e incrementará la producción,2026-04-16 09:10
-relación,7,10,3.4,68,"okdiario, heraldo_aragon, elcorreo, levante_emv, lavanguardia",5,"Gaspar Zarrías, ex consejero de la Junta, declara en la causa de Leire Díez por su «su relación con la investigada»",2026-04-16 09:10
-coche,8,12,3.24,64,"okdiario, elespanol, sur, google_news_economia, heraldo_aragon",5,"Toyota lanza el coche más barato de su historia: cuánto cuesta, características y cuándo estará a la venta en España",2026-04-16 09:10
-tenemos,4,6,3.24,64,"levante_emv, google_news_economia",2,"Alejandra Ruiz, portavoz de Ryanair en España: ""Tenemos la mirada puesta en una posible escasez de combustible si el estrecho de Ormuz no reabre""",2026-04-16 09:10
-ciudad,8,12,3.24,64,"huffington_es, sur, 20minutos, levante_emv, elespanol",5,Confirmado por el BOE: todas las llamadas comerciales deberán llevar un mismo prefijo y los ciudadanos podrán bloquearlas todas de golpe,2026-04-16 09:10
-muere,15,23,3.17,63,"eldiario, sur, 20minutos, levante_emv, elcorreo",5,"Muere María Caamaño, ""la princesa futbolera guerrera""  que convirtió su enfermedad en un proyecto solidario",2026-04-16 09:10
-nadie,5,8,3.04,60,"levante_emv, el_confidencial_tech, okdiario, 20minutos",4,Nadie tarda tanto como un andaluz para operarse: las listas de espera del SAS se estancan y la demora media se mantiene en seis meses,2026-04-16 09:10
-honor,3,5,2.92,58,"elmundo, google_news_es, elpais",3,"El productor Jesús Cimarro, premio Max de Honor 2026: ""He estado al borde de la ruina""",2026-04-16 09:10
-estatal,3,5,2.92,58,"sur, elpais, google_news_economia",3,Siete de cada diez viviendas turísticas rurales no pueden inscribirse en el Registro estatal,2026-04-16 09:10
-historia,9,15,2.92,58,"levante_emv, okdiario, eldiario, elespanol, infolibre",5,"Historias inspiradoras: Columbus Venture Partners, el fondo español que convierte ciencia en industria y terapias reales",2026-04-16 09:10
-resultados,3,5,2.92,58,"elcorreo, levante_emv, france24_es",3,Los resultados de la prueba piloto del cribado de cáncer de próstata en Euskadi,2026-04-16 09:10
-gratis,9,15,2.92,58,"okdiario, 20minutos, heraldo_aragon, google_news_es",4,Chupa Chups sorprende con un nuevo sabor inspirado en las albóndigas de IKEA: se repartirán gratis en junio,2026-04-16 09:10
-parque,3,5,2.92,58,"heraldo_aragon, elcorreo",2,El DAT Alierta de Zaragoza sigue creciendo: siete nuevas empresas se mudarán al parque tecnológico,2026-04-16 09:10
-mucho,3,5,2.92,58,"levante_emv, elcorreo, 20minutos, lavanguardia",4,Oliver Kahn estalla contra los lloros del Real Madrid: ”Dice mucho de cómo han conseguido ganar 15 Champions”,2026-04-16 09:10
-escasez,3,5,2.92,58,"levante_emv, google_news_economia",2,"Alejandra Ruiz, portavoz de Ryanair en España: ""Tenemos la mirada puesta en una posible escasez de combustible si el estrecho de Ormuz no reabre""",2026-04-16 09:10
-socialista,3,5,2.92,58,"heraldo_aragon, google_news_internacional, levante_emv",3,El Congreso aprueba una iniciativa socialista para combatir el fuego bacteriano,2026-04-16 09:10
-trimestre,3,5,2.92,58,"google_news_internacional, elpais",2,Las acciones de Rentokil caen por el retraso internacional pese al crecimiento del primer trimestre - Investing.com España,2026-04-16 09:10
-mirada,3,5,2.92,58,"levante_emv, google_news_economia",2,"Alejandra Ruiz, portavoz de Ryanair en España: ""Tenemos la mirada puesta en una posible escasez de combustible si el estrecho de Ormuz no reabre""",2026-04-16 09:10
-aitana,3,5,2.92,58,"huffington_es, elcorreo, 20minutos",3,Aitana se pronuncia tras los rumores de crisis con Plex: &quot;Tampoco me gusta que ensuciéis lo más bonito que tengo con mentiras&quot;,2026-04-16 09:10
-convierte,3,5,2.92,58,"levante_emv, okdiario, google_news_internacional, lavanguardia",4,"Historias inspiradoras: Columbus Venture Partners, el fondo español que convierte ciencia en industria y terapias reales",2026-04-16 09:10
-proceso,3,5,2.92,58,"levante_emv, elpais",2,"Un mensaje al futuro desde la regularización postdana: ""A los que empiecen ahora el proceso les diría que no tengan miedo""",2026-04-16 09:10
-grados,3,5,2.92,58,"okdiario, eldiario",2,34 grados y calor veraniego: la AEMET pone fecha y lanza una alerta a ésta parte de España,2026-04-16 09:10
-insiste,3,5,2.92,58,"levante_emv, elpais_internacional, google_news_es",3,Dos años y seis meses con el teatro de Pego cerrado: Compromís insiste en utilizar el Mercat Municipal como espacio alternativo,2026-04-16 09:10
-israel,26,45,2.81,56,"google_news_internacional, infolibre, elcorreo, lavanguardia, elpais",5,"Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Trump dice que este jueves hablarán “los líderes” de Israel y Líbano pero Beirut niega “tener conocimiento” de un contacto próximo - EL PAÍS",2026-04-16 09:10
-jóvenes,4,7,2.78,55,"levante_emv, google_news_es, eldiario, sur",4,El Papa arrancará su visita a España con un saludo a jóvenes desde el papamóvil en la zona del estadio Santiago Bernabéu,2026-04-16 09:10
-recuperar,4,7,2.78,55,"elmundo, elpais, sur",3,Repsol firma un acuerdo con el Gobierno de Venezuela para recuperar el control de sus operaciones en el país y triplicar la producción de petróleo,2026-04-16 09:10
-moreno,4,7,2.78,55,"levante_emv, okdiario, google_news_es, elpais_espana",4,Juanma Moreno se distancia de Feijóo y de otros gobiernos del PP para evitar el desgaste del rechazo frontal a la regularización de inmigrantes,2026-04-16 09:10
-rodríguez,5,9,2.7,54,"google_news_internacional, elpais, france24_es, 20minutos, google_news_es",5,Nuria Rodríguez Lázaro gana el Premio Internacional Sial Pigmalión de Pensamiento y Ensayo 2026 - El Diario de Madrid,2026-04-16 09:10
-sevilla,10,18,2.7,54,"google_news_internacional, levante_emv, lavanguardia, heraldo_aragon, okdiario",5,El Puerto de Sevilla impulsa su posicionamiento internacional en Miami con una nueva estrategia para cruceros y megayates - Noticias Logística y Transporte,2026-04-16 09:10
-compra,6,11,2.65,53,"eldiario, huffington_es, okdiario, google_news_economia, 20minutos",5,"Ayuso calla sobre el uso de su jefe de despacho para negociar la compra de un piso y la oposición la acusa de ""ponerle el traje de Tecnocasa""",2026-04-16 09:10
-nunca,6,11,2.65,53,"okdiario, expansion, huffington_es, elpais_espana",4,La AEMET se adelanta y sentencia a España por la llegada del ‘Súper Niño’: riesgo nunca visto por su capacidad destructiva,2026-04-16 09:10
-control,12,22,2.65,53,"elcorreo, 20minutos, okdiario, elmundo, google_news_economia",5,Repsol recupera el control de sus operaciones en Venezuela,2026-04-16 09:10
-promete,3,6,2.43,48,"google_news_internacional, elpais",2,La comunidad internacional promete a Sudán 1.500 millones de euros para frenar “la mayor catástrofe humanitaria” - EL PAÍS,2026-04-16 09:10
-salir,4,8,2.43,48,"huffington_es, heraldo_aragon, okdiario, elpais",4,Un concejal valenciano de Vox dimite tras salir a la luz que fue denunciado por maltrato,2026-04-16 09:10
-críticas,4,8,2.43,48,"20minutos, elmundo_internacional, elpais_internacional, google_news_es",4,"Lluvia de críticas a Camavinga por su expulsión: ""Gracias por eliminar al Real Madrid de la Champions""",2026-04-16 09:10
-sentencia,3,6,2.43,48,"huffington_es, okdiario, 20minutos, elpais_espana, elpais",5,¿Monopolio en la venta de entradas por parte de Live Nation y Ticketmaster? Esto dice una sentencia estadounidense,2026-04-16 09:10
-escolar,3,6,2.43,48,"elpais, eldiario, okdiario",3,Educación presenta el primer protocolo antiacoso escolar común para toda España,2026-04-16 09:10
-espera,6,12,2.43,48,"levante_emv, eldiario, europapress, elpais, lavanguardia",5,Nadie tarda tanto como un andaluz para operarse: las listas de espera del SAS se estancan y la demora media se mantiene en seis meses,2026-04-16 09:10
-mejora,3,6,2.43,48,"google_news_economia, levante_emv, google_news_es, okdiario",4,España levanta el confinamiento de las aves de corral al mejorar la situación de la gripe - The Objective,2026-04-16 09:10
-drones,4,8,2.43,48,"huffington_es, elespanol, elmundo_internacional, google_news_internacional",4,Rusia aprieta en Ucrania con 660 drones al día: van 16 civiles muertos y cien heridos en su última andanada,2026-04-16 09:10
-truco,3,6,2.43,48,"okdiario, elpais",2,Ni vinagre ni bicarbonato: el truco de las expertas en hogar para quitar el ‘olor a viejo’ con este tipo de jabón,2026-04-16 09:10
-pierden,3,6,2.43,48,levante_emv,1,Por qué los astronautas de Artemis II pierden masa ósea y qué significa para nuestra salud,2026-04-16 09:10
-recurso,3,6,2.43,48,"huffington_es, elconfidencial, europapress, infolibre",4,Vox expulsa definitivamente a Javier Ortega-Smith tras tumbar su último recurso,2026-04-16 09:10
-tener,5,10,2.43,48,"google_news_internacional, huffington_es, maldita, okdiario, elcorreo",5,"Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Trump dice que este jueves hablarán “los líderes” de Israel y Líbano pero Beirut niega “tener conocimiento” de un contacto próximo - EL PAÍS",2026-04-16 09:10
-administración,3,6,2.43,48,"google_news_es, elpais, google_news_economia",3,La jornada de 35 horas llega a la Administración central (y ponen en aprietos a varias comunidades) - EL PAÍS,2026-04-16 09:10
-sagunt,3,6,2.43,48,levante_emv,1,Hallan animales decapitados en Sagunt en un posible ritual,2026-04-16 09:10
-madre,5,10,2.43,48,"elcorreo, 20minutos, levante_emv, sur, okdiario",5,La felicidad también se entrena: 7 regalos para regalar a las mamás fitness este Día de la Madre,2026-04-16 09:10
-bilbao,5,10,2.43,48,"google_news_internacional, elconfidencial, sur, elcorreo, okdiario",5,El mundo en cinco minutos: la información internacional de este jueves 16 - Radio Popular de Bilbao,2026-04-16 09:10
-oficial,7,14,2.43,48,"okdiario, elcorreo, levante_emv, huffington_es",4,Es oficial: las empresas tendrán que compensar los días festivos que caigan en sábado este 2026,2026-04-16 09:10
-número,3,6,2.43,48,"20minutos, google_news_internacional, okdiario",3,El thriller con Halle Berry y Chris Hemsworth que fracasó en cines consigue su número uno en Prime Video,2026-04-16 09:10
-expertos,6,12,2.43,48,"okdiario, google_news_internacional, huffington_es, levante_emv",4,Los expertos ponen el grito en el cielo: cada año se desperdician 2.400 toneladas de lana de oveja en Escandinavia,2026-04-16 09:10
-amazon,3,6,2.43,48,"20minutos, elpais",2,Amazon revoluciona con su nuevo Fire TV Stick HD y un televisor que parece una obra de arte,2026-04-16 09:10
-okdiario,3,6,2.43,48,google_news_economia,1,Scope alerta de que las aerolíneas de Europa comienzan a sufrir desabastecimiento de combustible por Irán - OkDiario,2026-04-16 09:10
-isabel,4,8,2.43,48,"france24_es, heraldo_aragon, lavanguardia, elpais",4,"María Isabel Puerta: ""Delcy Rodríguez quiere permanecer en el poder""",2026-04-16 09:10
-aemet,9,18,2.43,48,"huffington_es, okdiario",2,Confirmado por la Aemet: temperaturas que superarán los 30ºC y polvo sahariano en estas zonas,2026-04-16 09:10
-maría,11,23,2.33,46,"okdiario, eldiario, levante_emv, elcorreo, 20minutos",5,Reacciones de famosos a la muerte de María Caamaño: «La sonrisa más bonita que jamás pisó la Tierra»,2026-04-16 09:10
-jesús,5,11,2.21,44,"elmundo_internacional, elmundo, google_news_es, levante_emv, elpais",5,Trump publica una nueva imagen junto a Jesús mientras continúa la polémica por sus críticas al Papa,2026-04-16 09:10
-estas,6,13,2.24,44,"huffington_es, okdiario, levante_emv, elcorreo, elpais",5,Confirmado por la Aemet: temperaturas que superarán los 30ºC y polvo sahariano en estas zonas,2026-04-16 09:10
-venta,4,9,2.16,43,"huffington_es, okdiario, elcorreo, elespanol, elpais",5,¿Monopolio en la venta de entradas por parte de Live Nation y Ticketmaster? Esto dice una sentencia estadounidense,2026-04-16 09:10
-porque,4,9,2.16,43,"elcorreo, huffington_es, okdiario, google_news_economia",4,Pablo Motos pide disculpas: «Sonsoles nos propuso hablar del IVA de los libros porque le parecía excesivo un 21%»,2026-04-16 09:10
-campaña,4,9,2.16,43,"lavanguardia, el_confidencial_economia, levante_emv, google_news_es, elpais_espana",5,"Superdomingo electoral en Andalucía: Sánchez, Feijóo y los ministros de Sumar en precampaña",2026-04-16 09:10
-polémica,4,9,2.16,43,"elmundo_internacional, huffington_es, levante_emv, 20minutos",4,Trump publica una nueva imagen junto a Jesús mientras continúa la polémica por sus críticas al Papa,2026-04-16 09:10
-parece,4,9,2.16,43,"elespanol, 20minutos, heraldo_aragon, okdiario, google_news_es",5,"Aparecen rotas varias ventanillas de coches aparcados en Os Castros, en A Coruña",2026-04-16 09:10
-operación,4,9,2.16,43,"eldiario, google_news_internacional, europapress, elpais, okdiario",5,El 22% de los pacientes esperan más de seis meses por una operación,2026-04-16 09:10
-huelga,4,9,2.16,43,"levante_emv, sur, okdiario",3,Caos en Metrovalencia: una avería eléctrica interrumpe la circulación en plena jornada de huelga,2026-04-16 09:10
-artemis,4,9,2.16,43,"levante_emv, el_confidencial_tech, 20minutos",3,Por qué los astronautas de Artemis II pierden masa ósea y qué significa para nuestra salud,2026-04-16 09:10
-social,7,16,2.13,42,"okdiario, heraldo_aragon, google_news_internacional, levante_emv, lavanguardia",5,La Seguridad Social lo confirma: si llevas más de un año de baja mantendrás la prestación pero hay una condición,2026-04-16 09:10
-precio,11,25,2.14,42,"okdiario, expansion, google_news_economia, elcorreo, google_news_es",5,"Guerra de Irán, en directo | Ataques, precio del petróleo hoy, bloqueo naval y noticias de Trump hoy",2026-04-16 09:10
-gasolina,3,7,2.08,41,"google_news_economia, okdiario",2,¿Cuánto cuesta cargar el coche? Este es el precio del litro de gasolina y el del gasóleo este jueves 16 de abril - El Cronista,2026-04-16 09:10
-cielo,3,7,2.08,41,"okdiario, google_news_internacional, eldiario",3,Los expertos ponen el grito en el cielo: cada año se desperdician 2.400 toneladas de lana de oveja en Escandinavia,2026-04-16 09:10
-agricultura,3,7,2.08,41,"google_news_es, google_news_economia",2,"Agricultura, Pesca y Alimentación levanta las medidas de confinamiento de aves de corral en toda España - La Moncloa",2026-04-16 09:10
-coinciden,3,7,2.08,41,"okdiario, huffington_es",2,Los científicos coinciden: encuentran al murciélago que puede provocar una nueva epidemia,2026-04-16 09:10
-firma,3,7,2.08,41,"huffington_es, google_news_internacional, 20minutos, elcorreo, okdiario",5,Confirmado por el BOE: todas las llamadas comerciales deberán llevar un mismo prefijo y los ciudadanos podrán bloquearlas todas de golpe,2026-04-16 09:10
-canarias,3,7,2.08,41,"google_news_internacional, google_news_economia",2,II Jornadas de Derecho Internacional Privado de Canarias - ULL,2026-04-16 09:10
-último,3,7,2.08,41,"huffington_es, elconfidencial, europapress, elespanol, okdiario",5,Vox expulsa definitivamente a Javier Ortega-Smith tras tumbar su último recurso,2026-04-16 09:10
-vecinos,3,7,2.08,41,"elconfidencial, 20minutos, lavanguardia",3,Vecinos de Villanueva (Madrid) hallan dos armas blancas del crimen del niño de 11 años,2026-04-16 09:10
-cádiz,3,7,2.08,41,"okdiario, google_news_es, elpais",3,"Precio de la gasolina hoy 16 de abril: localiza las gasolineras más baratas de Sevilla, Cádiz y otras ciudades de Andalucía",2026-04-16 09:10
-manuel,3,7,2.08,41,"heraldo_aragon, google_news_es, elpais_espana",3,Horario y dónde ver gratis la corrida del 18 de abril en la Feria de Sevilla: mano a mano de Manuel Escribano y Borja Jiménez,2026-04-16 09:10
-netanyahu,3,7,2.08,41,"google_news_internacional, elpais, elcorreo",3,"Última hora de la guerra en Irán y el bloqueo de Trump en Ormuz, en directo: Israel confirma que Netanyahu hablará con Líbano - La Vanguardia",2026-04-16 09:10
-palacio,3,7,2.08,41,"elcorreo, heraldo_aragon",2,Este es el programa de conciertos del Festival de Jazz de Vitoria en el Palacio Europa,2026-04-16 09:10
-imagen,3,7,2.08,41,"elmundo_internacional, 20minutos, elcorreo",3,Trump publica una nueva imagen junto a Jesús mientras continúa la polémica por sus críticas al Papa,2026-04-16 09:10
-agresión,3,7,2.08,41,"huffington_es, elconfidencial, 20minutos",3,La Policía australiana investiga la acusación de agresión sexual contra Katy Perry,2026-04-16 09:10
-primer,13,31,2.04,40,"expansion, heraldo_aragon, elcorreo, levante_emv, google_news_internacional",5,Carrefour y Heineken lanzan su primer plan de sostenibilidad conjunto,2026-04-16 09:10
-mejores,10,24,2.03,40,"20minutos, elcorreo, okdiario, lavanguardia, levante_emv",5,Los mejores 'looks' de la actriz Anya Taylor-Joy en su 30 cumpleaños,2026-04-16 09:10
+blanco,4,3,6.23,100,"levante_emv, elespanol, elcorreo, 20minutos",4,Florentino bajó al vestuario en Múnich: “Una temporada en blanco es un fracaso en el Real Madrid. Dos es intolerable”,2026-04-16 09:39
+propiedad,7,0,5.0,100,"el_confidencial_economia, elcorreo, google_news_economia, 20minutos, elpais",5,El porcentaje de 'millennials' con casa en propiedad a los 39 años es el mismo que el de los 'X' cuando tenían 25,2026-04-16 09:39
+causa,4,3,6.23,100,"okdiario, elpais, google_news_internacional",3,"Gaspar Zarrías, ex consejero de la Junta, declara en la causa de Leire Díez por su «su relación con la investigada»",2026-04-16 09:39
+consejero,3,1,14.01,100,okdiario,1,"Gaspar Zarrías, ex consejero de la Junta, declara en la causa de Leire Díez por su «su relación con la investigada»",2026-04-16 09:39
+petróleo,8,6,6.23,100,"expansion, levante_emv, okdiario, elmundo, google_news_es",5,Por qué el estrecho de Ormuz es clave en el futuro de las Bolsas y el petróleo,2026-04-16 09:39
+venezuela,18,3,28.03,100,"elcorreo, 20minutos, okdiario, elmundo, google_news_economia",5,Repsol recupera el control de sus operaciones en Venezuela,2026-04-16 09:39
+ucrania,9,7,6.01,100,"google_news_economia, elpais, google_news_internacional, huffington_es, france24_es",5,Las familias españolas elevaron su riqueza un 3% en los dos primeros años de la guerra de Ucrania - El Periódico,2026-04-16 09:39
+utilizar,3,2,7.01,100,"heraldo_aragon, eldiario, levante_emv",3,"Los chefs valencianos coinciden: ""Para hacer el arroz perfecto se debe elegir bien el grano y utilizar el aceite justo""",2026-04-16 09:39
+concejal,6,1,28.03,100,"huffington_es, levante_emv, 20minutos, elpais, elconfidencial",5,Un concejal valenciano de Vox dimite tras salir a la luz que fue denunciado por maltrato,2026-04-16 09:39
+puebla,4,2,9.34,100,"okdiario, heraldo_aragon",2,Horario y dónde ver la corrida de toros de Morante de la Puebla en la Feria de Abril de Sevilla 2026 por TV y en vivo,2026-04-16 09:39
+morante,4,0,5.0,100,"okdiario, heraldo_aragon",2,Horario y dónde ver la corrida de toros de Morante de la Puebla en la Feria de Abril de Sevilla 2026 por TV y en vivo,2026-04-16 09:39
+corrida,3,2,7.01,100,"okdiario, heraldo_aragon",2,Horario y dónde ver la corrida de toros de Morante de la Puebla en la Feria de Abril de Sevilla 2026 por TV y en vivo,2026-04-16 09:39
+denunciado,5,1,23.36,100,"huffington_es, levante_emv, 20minutos, elpais, elconfidencial",5,Un concejal valenciano de Vox dimite tras salir a la luz que fue denunciado por maltrato,2026-04-16 09:39
+maltrato,3,0,5.0,100,"huffington_es, elpais, elconfidencial",3,Un concejal valenciano de Vox dimite tras salir a la luz que fue denunciado por maltrato,2026-04-16 09:39
+jorge,3,2,7.01,100,"google_news_es, okdiario",2,"Huesca celebrará San Jorge 2026 con una programación diversa, participativa y para todos los públicos - Ayuntamiento de Huesca",2026-04-16 09:39
+futbolera,5,0,5.0,100,"okdiario, eldiario, elcorreo, 20minutos",4,"El fútbol español llora la muerte de María Caamaño, la ‘Princesa Futbolera Guerrera’",2026-04-16 09:39
+vida”,3,0,5.0,100,"google_news_internacional, elpais",2,La última alegría de Feid en su gira que confirma su proyección internacional: “Es el mejor día de toda mi vida” - LOS40,2026-04-16 09:39
+alquileres,3,0,5.0,100,"20minutos, elmundo, levante_emv",3,"Díaz tiene ""esperanza"" en que el decreto sobre alquileres salga adelante pero evita criticar la quietud del PSOE",2026-04-16 09:39
+monumentos,3,2,7.01,100,"google_news_internacional, okdiario",2,Antequera celebra el Día Internacional de los Monumentos y Sitios con un programa de rutas y visitas guiadas - 101TV,2026-04-16 09:39
+metrovalencia,3,1,14.01,100,"20minutos, levante_emv",2,Retrasos en cuatro líneas de Metrovalencia tras interrumpirse una hora la circulación por fallos técnicos,2026-04-16 09:39
+circulación,4,0,5.0,100,"20minutos, levante_emv, elconfidencial",3,Retrasos en cuatro líneas de Metrovalencia tras interrumpirse una hora la circulación por fallos técnicos,2026-04-16 09:39
+cuesta,5,3,7.79,100,"elcorreo, okdiario, google_news_economia, elpais, lavanguardia",5,El sorprendente motivo por el que Jota Peleteiro no fue a la comunión de uno de sus hijos con Jessica Bueno: «Cuesta creerlo»,2026-04-16 09:39
+triplicará,3,0,5.0,100,"okdiario, google_news_economia, lavanguardia",3,Repsol retoma el control en Venezuela: doblará su producción en un año y la triplicará en tres,2026-04-16 09:39
+estaban,3,1,14.01,100,"levante_emv, sur, elcorreo",3,Liberan a 14 mujeres que estaban siendo obligadas a prostituirse en pisos de Valencia,2026-04-16 09:39
+barato,3,2,7.01,100,"okdiario, huffington_es",2,"Adiós a inducción y la vitrocerámica: su sustituto es un 50% más rápido, más seguro y barato",2026-04-16 09:39
+riqueza,4,0,5.0,100,"google_news_economia, eldiario",2,"Los hogares mejoran su renta pero siguen sin recuperar la riqueza previa a la crisis, según el Banco de España - Demócrata",2026-04-16 09:39
+caben,4,1,18.68,100,levante_emv,1,"El llamativo reclamo de fiesta y apartamento turístico en Xàbia: ""Donde caben 2 caben 3, 4, 5 y 7""",2026-04-16 09:39
+gimnasio,3,2,7.01,100,"20minutos, okdiario, levante_emv",3,"Así entrena en el gimnasio el presidente de Brasil, Lula da Silva, a sus 80 años",2026-04-16 09:39
+operaciones,10,0,5.0,100,"elcorreo, 20minutos, elmundo, google_news_economia, elpais",5,Repsol recupera el control de sus operaciones en Venezuela,2026-04-16 09:39
+repsol,16,1,74.74,100,"elcorreo, 20minutos, okdiario, elmundo, google_news_economia",5,Repsol recupera el control de sus operaciones en Venezuela,2026-04-16 09:39
+historias,3,1,14.01,100,"levante_emv, okdiario, lavanguardia",3,"Historias inspiradoras: Columbus Venture Partners, el fondo español que convierte ciencia en industria y terapias reales",2026-04-16 09:39
+crimen,3,0,5.0,100,"elconfidencial, google_news_es, 20minutos",3,Vecinos de Villanueva (Madrid) hallan dos armas blancas del crimen del niño de 11 años,2026-04-16 09:39
+podrían,3,2,7.01,100,"20minutos, okdiario",2,Hallan en Villanueva dos armas blancas que podrían haber sido usadas para matar al niño de 11 años,2026-04-16 09:39
+calla,3,0,5.0,100,"eldiario, 20minutos, levante_emv",3,"Ayuso calla sobre el uso de su jefe de despacho para negociar la compra de un piso y la oposición la acusa de ""ponerle el traje de Tecnocasa""",2026-04-16 09:39
+florentino,3,0,5.0,100,levante_emv,1,Florentino bajó al vestuario en Múnich: “Una temporada en blanco es un fracaso en el Real Madrid. Dos es intolerable”,2026-04-16 09:39
+expulsa,4,0,5.0,100,"levante_emv, okdiario, huffington_es, elconfidencial, europapress",5,El precedente de la expulsión de Eduardo Camavinga: Toldo expulsado en Mestalla por perder tiempo en el minuto 87,2026-04-16 09:39
+definitivamente,3,0,5.0,100,"okdiario, huffington_es, europapress",3,Vox expulsa definitivamente a Ortega Smith,2026-04-16 09:39
+actos,3,0,5.0,100,"20minutos, okdiario, elcorreo",3,El Vaticano confirma la agenda del Papa en España: ciudades y horas de los actos,2026-04-16 09:39
+smith,3,2,7.01,100,"okdiario, huffington_es, elconfidencial, europapress",4,Vox expulsa definitivamente a Ortega Smith,2026-04-16 09:39
+levanta,8,2,18.68,100,"20minutos, google_news_economia, google_news_es, levante_emv, infolibre",5,El Gobierno levanta el confinamiento a las aves de corral en toda España por la gripe aviar,2026-04-16 09:39
+confinamiento,7,0,5.0,100,"20minutos, google_news_economia, google_news_es, levante_emv",4,El Gobierno levanta el confinamiento a las aves de corral en toda España por la gripe aviar,2026-04-16 09:39
+corral,7,0,5.0,100,"20minutos, google_news_economia, google_news_es, levante_emv",4,El Gobierno levanta el confinamiento a las aves de corral en toda España por la gripe aviar,2026-04-16 09:39
+gripe,4,1,18.68,100,"20minutos, google_news_economia, levante_emv",3,El Gobierno levanta el confinamiento a las aves de corral en toda España por la gripe aviar,2026-04-16 09:39
+derecho,6,5,5.61,100,"google_news_internacional, elespanol, huffington_es, lavanguardia, elpais",5,II Jornadas de Derecho Internacional Privado de Canarias - ULL,2026-04-16 09:39
+aviar,3,0,5.0,100,"20minutos, google_news_economia, levante_emv",3,El Gobierno levanta el confinamiento a las aves de corral en toda España por la gripe aviar,2026-04-16 09:39
+basura,3,1,14.01,100,"20minutos, eldiario, okdiario",3,Cachorritos a la basura: investigan a un hombre por arrojarlos a un contenedor y dejarlos morir en Huelva,2026-04-16 09:39
+contacto,3,0,5.0,100,"google_news_internacional, elpais, huffington_es",3,"Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Trump dice que este jueves hablarán “los líderes” de Israel y Líbano pero Beirut niega “tener conocimiento” de un contacto próximo - EL PAÍS",2026-04-16 09:39
+líderes”,4,0,5.0,100,"google_news_internacional, elpais",2,"Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Trump dice que este jueves hablarán “los líderes” de Israel y Líbano pero Beirut niega “tener conocimiento” de un contacto próximo - EL PAÍS",2026-04-16 09:39
+cuánto,4,1,18.68,100,"okdiario, 20minutos, google_news_economia",3,‘Top Chef’: ¿quién es el ganador de la edición y cuánto dinero se ha llevado?,2026-04-16 09:39
+princesa,3,1,14.01,100,"okdiario, eldiario, elcorreo, 20minutos",4,"El fútbol español llora la muerte de María Caamaño, la ‘Princesa Futbolera Guerrera’",2026-04-16 09:39
+guerrera,3,0,5.0,100,"okdiario, eldiario, elcorreo, 20minutos",4,"El fútbol español llora la muerte de María Caamaño, la ‘Princesa Futbolera Guerrera’",2026-04-16 09:39
+especialista,3,0,5.0,100,"elmundo, okdiario, levante_emv",3,"Las listas de espera vuelven a crecer: 4.925.648 pacientes, 853.509 para una cirugía y 4.072.139 para ver al especialista",2026-04-16 09:39
+pacientes,6,2,14.01,100,"google_news_es, elmundo, 20minutos, eldiario, europapress",5,El Colegio de Médicos de Ciudad Real reconoce la investigación médica con los premios al Mejor Trabajo Científico y a la Mejor Tesis Doctoral - medicosypacientes.com,2026-04-16 09:39
+arrollado,7,0,5.0,100,"maldita, sur, 20minutos, levante_emv, elespanol",5,"No, el bioquímico Mariano Barbacid no ha desarrollado un producto contra la pérdida de memoria: es un timo",2026-04-16 09:39
+mantenimiento,3,2,7.01,100,"sur, 20minutos, levante_emv",3,Muere arrollado por un tren mientras trabajaba en el mantenimiento de vías en Ciudad Real,2026-04-16 09:39
+camión,4,0,5.0,100,"heraldo_aragon, elcorreo, 20minutos, sur",4,El vuelco de un camión obliga a cortar la A-222 que conecta Belchite con Mediana de Aragón,2026-04-16 09:39
+eduardo,3,1,14.01,100,"levante_emv, heraldo_aragon",2,El precedente de la expulsión de Eduardo Camavinga: Toldo expulsado en Mestalla por perder tiempo en el minuto 87,2026-04-16 09:39
+hogares,10,1,46.71,100,"google_news_economia, elcorreo, elespanol, eldiario, elpais",5,"La proporción de hogares propietarios de su vivienda principal cae a mínimos en 2024, según Banco de España - Europa Press",2026-04-16 09:39
+cargo,3,2,7.01,100,"huffington_es, levante_emv",2,Denuncian que Ayuso usó a un cargo público para ayudarle en la posible compra de un piso de 850.000 euros en Madrid,2026-04-16 09:39
+caamaño,8,0,5.0,100,"okdiario, eldiario, levante_emv, elcorreo, 20minutos",5,"El fútbol español llora la muerte de María Caamaño, la ‘Princesa Futbolera Guerrera’",2026-04-16 09:39
+hablarán,12,1,56.05,100,"google_news_internacional, elpais, elcorreo, france24_es, google_news_es",5,Última hora de la guerra de EE.UU. e Israel contra Irán | Trump asegura que hoy hablarán los líderes de Israel y Líbano pero Beirut niega tener conocimiento - La Vanguardia,2026-04-16 09:39
+ryanair,4,0,5.0,100,"okdiario, levante_emv, google_news_economia",3,"Ryanair estrena esta temporada turística tres nuevas rutas desde Palma a Friedrichshafen, Gdansk y Malta",2026-04-16 09:39
+condiciones,3,2,7.01,100,"google_news_es, europapress, levante_emv",3,Repsol acuerda las condiciones para incrementar su producción de petróleo en Venezuela - Repsol,2026-04-16 09:39
+trabajador,3,2,7.01,100,"levante_emv, elespanol, sur, elconfidencial",4,Muere un trabajador arrollado por un tren mientras trabajaba en mantenimiento de vías en Ciudad Real,2026-04-16 09:39
+memoria,4,2,9.34,100,"google_news_internacional, maldita, huffington_es",3,"Zamora celebra el Día Internacional del Pueblo Gitano con memoria, educación y emprendimiento - Tu Voz Digital",2026-04-16 09:39
+gitano,4,2,9.34,100,"google_news_internacional, levante_emv",2,"Zamora celebra el Día Internacional del Pueblo Gitano con memoria, educación y emprendimiento - Tu Voz Digital",2026-04-16 09:39
+robots,3,2,7.01,100,"elmundo_internacional, google_news_internacional, expansion",3,"Ucrania conquista una posición rusa sólo con drones aéreos y robots terrestres, sin intervención directa de soldados sobre el terreno",2026-04-16 09:39
+montserrat,5,1,23.36,100,"levante_emv, 20minutos, elpais, elconfidencial",4,Dimitix el regidor de Vox a Montserrat denunciat per maltractaments,2026-04-16 09:39
+beneficios,4,3,6.23,100,"okdiario, eldiario, levante_emv, lavanguardia",4,"Escribano (EM&E) obtuvo unos beneficios récord en 2025 tras ganar 161,1 millones de euros, un 43,1% más",2026-04-16 09:39
+beirut,3,2,7.01,100,"google_news_internacional, elpais",2,Última hora de la guerra de EE.UU. e Israel contra Irán | Trump asegura que hoy hablarán los líderes de Israel y Líbano pero Beirut niega tener conocimiento - La Vanguardia,2026-04-16 09:39
+ligeras,3,1,14.01,100,"google_news_es, okdiario, huffington_es",3,El Ibex 35 quieren revertir las caídas de ayer; ligeras subidas en los futuros - Yahoo,2026-04-16 09:39
+líderes,10,4,11.68,100,"google_news_internacional, infolibre, elpais, elcorreo, france24_es",5,Última hora de la guerra de EE.UU. e Israel contra Irán | Trump asegura que hoy hablarán los líderes de Israel y Líbano pero Beirut niega tener conocimiento - La Vanguardia,2026-04-16 09:39
+dolor,4,2,9.34,100,"okdiario, lavanguardia",2,Los médicos explican cómo diferenciar entre dolor de riñón y dolor de espalda,2026-04-16 09:39
+rutas,4,1,18.68,100,"okdiario, google_news_internacional",2,"Ryanair estrena esta temporada turística tres nuevas rutas desde Palma a Friedrichshafen, Gdansk y Malta",2026-04-16 09:39
+octubre,4,3,6.23,100,"levante_emv, eldiario, lavanguardia, google_news_es",4,"El 31 de octubre, ""fecha crítica"" para tener una respuesta a la prórroga de Almaraz",2026-04-16 09:39
+portavoz,3,0,5.0,100,"levante_emv, google_news_economia",2,"Alejandra Ruiz, portavoz de Ryanair en España: ""Tenemos la mirada puesta en una posible escasez de combustible si el estrecho de Ormuz no reabre""",2026-04-16 09:39
+puesta,3,1,14.01,100,"levante_emv, expansion, elespanol, google_news_economia, okdiario",5,"El 31 de octubre, ""fecha crítica"" para tener una respuesta a la prórroga de Almaraz",2026-04-16 09:39
+detenida,5,1,23.36,100,"france24_es, elconfidencial, sur, elcorreo",4,"Detenida a los 86 años: la historia de Marie-Thérèse Ross, la viuda francesa en manos de ICE",2026-04-16 09:39
+viajes,3,1,14.01,100,"okdiario, lavanguardia, huffington_es",3,Viajes cinematográficos en España: Lugares fuera de Europa a los que te llevan las series y TikTok,2026-04-16 09:39
+reflexión,3,2,7.01,100,"okdiario, huffington_es",2,La sentida reflexión de Mary de Dinamarca tras la muerte de su padre: «Es difícil mantener el equilibrio»,2026-04-16 09:39
+combustibles,3,2,7.01,100,"el_confidencial_economia, okdiario, google_news_economia",3,"Santiago Niño Becerra, economista, sobre la subida del coste de los combustibles: “El aumento del precio de los pasajes de avión se va a disparar",2026-04-16 09:39
+revisión,3,2,7.01,100,"okdiario, eldiario, lavanguardia, google_news_es",4,Previsión del tiempo en Castilla y León: cielos despejados y vientos moderados según AEMET,2026-04-16 09:39
+recuperación,3,2,7.01,100,"infolibre, levante_emv",2,"“No hay indicios de recuperación de la anguila”, dice la UE el mismo día que la Xunta levanta su veda",2026-04-16 09:39
+truth,3,0,5.0,100,"lavanguardia, google_news_es",2,"Truth Social, el refugio de las frustraciones y los ajustes de cuentas de Trump",2026-04-16 09:39
+aerolíneas,3,1,14.01,100,"okdiario, google_news_economia",2,Las aerolíneas recomiendan comprar ya los billetes de verano: «El precio subirá porque falta queroseno»,2026-04-16 09:39
+entrada,3,1,14.01,100,"google_news_internacional, huffington_es, sur, levante_emv, okdiario",5,Simed refuerza su alcance internacional en una nueva edición centrada en la colaboración público-privada - Europa Press,2026-04-16 09:39
+privado,3,1,14.01,100,"google_news_economia, google_news_internacional",2,"El capital privado eleva su inversión en España por encima de 7.000 millones en 2025, un 11,5% más, según SpainCap - Demócrata",2026-04-16 09:39
+pacífico,3,1,14.01,100,"okdiario, 20minutos, google_news_internacional",3,Hito en la ingeniería: confirman la perforación de un megatúnel en Los Andes para abrirse paso al océano Pacífico,2026-04-16 09:39
+compró,3,1,14.01,100,"google_news_economia, okdiario",2,España es el país de Europa que más combustible compró a Rusia el mes de marzo: más del doble que en febrero - MARCA,2026-04-16 09:39
+existe,3,2,7.01,100,"okdiario, google_news_politica",2,"La joya botánica que solo existe en la península ibérica: florece solo 11 días al año, y es justo ahora en primavera",2026-04-16 09:39
+municipal,4,3,6.23,100,"levante_emv, google_news_internacional",2,El PSPV de Ontinyent pide al consistorio que refuerce los recursos municipales para la regularización de migrantes,2026-04-16 09:39
+trabajaba,5,0,5.0,100,"elcorreo, sur, 20minutos, levante_emv, elconfidencial",5,Un hombre muere atropellado por un tren en Ciudad Real mientras trabajaba en las vías,2026-04-16 09:39
+incendiar,3,0,5.0,100,"elconfidencial, sur, elcorreo, okdiario, lavanguardia",5,Detenida una mujer de 45 años en Bilbao tras incendiar una lonja con su pareja dentro,2026-04-16 09:39
+lonja,3,2,7.01,100,"elconfidencial, sur, elcorreo",3,Detenida una mujer de 45 años en Bilbao tras incendiar una lonja con su pareja dentro,2026-04-16 09:39
+entrega,4,3,6.23,100,"levante_emv, 20minutos, elpais, elconfidencial",4,"Tess Defence entrega a Defensa otros once vehículos de combate 8x8 ""Dragón""",2026-04-16 09:39
+productor,3,1,14.01,100,"google_news_es, elmundo, elcorreo",3,El productor teatral José Cimarro recibirá el premio Max de honor - Hoy,2026-04-16 09:39
+consigue,7,1,32.7,100,"okdiario, elcorreo, 20minutos, lavanguardia",4,La innovación con IA consigue cómo recuperar uno de cada cinco envases agrícolas de plástico,2026-04-16 09:39
+cimarro,3,2,7.01,100,"google_news_es, elmundo",2,El productor teatral José Cimarro recibirá el premio Max de honor - Hoy,2026-04-16 09:39
+santa,3,2,7.01,100,"sur, elcorreo, lavanguardia, levante_emv, heraldo_aragon",5,"El perito concluye que la pasarela de Santander colapsó por un fallo de los herrajes, que estaban corroídos",2026-04-16 09:39
+rusia,9,8,5.25,100,"google_news_economia, elpais, google_news_internacional, huffington_es, france24_es",5,España es el país de Europa que más combustible compró a Rusia el mes de marzo: más del doble que en febrero - MARCA,2026-04-16 09:39
+retoma,4,0,5.0,100,"elpais, google_news_internacional, okdiario, europapress",4,Rusia retoma los bombardeos en Ucrania tras la tregua de Pascua y causa al menos 15 muertos,2026-04-16 09:39
+alejandra,5,3,7.79,100,"google_news_internacional, 20minutos, levante_emv, google_news_economia",4,"La poeta colombiana Lidia Corcione Crescini, Premio Internacional de Poesía “Alejandra Pizarnik” 2026 - Diario Siglo XXI",2026-04-16 09:39
+ivana,3,2,7.01,100,"elpais, 20minutos, google_news_es",3,"Ivana Rodríguez, hermana de Georgina, ganadora de ‘Top Chef: Dulces y famosos’",2026-04-16 09:39
+hermana,3,1,14.01,100,"elpais, 20minutos, google_news_es",3,"Ivana Rodríguez, hermana de Georgina, ganadora de ‘Top Chef: Dulces y famosos’",2026-04-16 09:39
+básicos,3,1,14.01,100,"elpais, google_news_es, elcorreo",3,Feijóo acusa al Gobierno de “traicionar los pilares básicos del europeísmo” con la regularización de inmigrantes,2026-04-16 09:39
+pilares,4,1,18.68,100,"elpais, google_news_es, elcorreo, levante_emv",4,Feijóo acusa al Gobierno de “traicionar los pilares básicos del europeísmo” con la regularización de inmigrantes,2026-04-16 09:39
+georgina,3,1,14.01,100,"elpais, 20minutos, google_news_es",3,"Ivana Rodríguez, hermana de Georgina, ganadora de ‘Top Chef: Dulces y famosos’",2026-04-16 09:39
+miles,3,1,14.01,100,"lavanguardia, elpais, google_news_economia",3,"Miles de alicantinos peregrinan a la Santa Faz, que el Consell declara Bien de Interés Cultural",2026-04-16 09:39
+alcance,4,0,5.0,100,"google_news_internacional, newtral, sur",3,Simed refuerza su alcance internacional en una nueva edición centrada en la colaboración público-privada - Europa Press,2026-04-16 09:39
+colaboración,3,1,14.01,100,"google_news_internacional, levante_emv, elmundo",3,Simed refuerza su alcance internacional en una nueva edición centrada en la colaboración público-privada - Europa Press,2026-04-16 09:39
+últimos,3,3,4.67,93,"elespanol, okdiario, elcorreo",3,"Feijóo: ""Necesitamos un despertar democrático para desactivar el legado envenenado construido en los últimos años""",2026-04-16 09:39
+hallan,3,3,4.67,93,"20minutos, elconfidencial, levante_emv",3,Hallan en Villanueva dos armas blancas que podrían haber sido usadas para matar al niño de 11 años,2026-04-16 09:39
+varias,3,3,4.67,93,"elespanol, google_news_internacional, google_news_es",3,"Aparecen rotas varias ventanillas de coches aparcados en Os Castros, en A Coruña",2026-04-16 09:39
+mental,4,4,4.67,93,"levante_emv, elcorreo, lavanguardia, okdiario",4,Pilar Távora presenta en Sagunt su documental sobre el intento de exterminio del pueblo gitano,2026-04-16 09:39
+marcha,3,3,4.67,93,"okdiario, levante_emv",2,"El Ibex 35 sube un 0,1% con el petróleo firme en los 95 dólares y nuevas negociaciones en marcha",2026-04-16 09:39
+sostenible,3,3,4.67,93,"google_news_internacional, elmundo",2,Canarias refuerza su papel en cooperación internacional alineada con los objetivos de desarrollo sostenible - Radio Faro del Noroeste,2026-04-16 09:39
+méxico,3,3,4.67,93,"lavanguardia, levante_emv, google_news_internacional",3,"El 'atractivo animal' de Taylor Momsen: un murciélago la mordió en Sevilla; ahora, una araña la pica en México y acaba en el hospital",2026-04-16 09:39
+fármacos,3,3,4.67,93,"google_news_es, elcorreo, eldiario",3,Un análisis de 17 ensayos concluye que los fármacos contra el Alzheimer basados en beta-amiloide no mejoran la cognición - Infosalus,2026-04-16 09:39
+autobús,3,3,4.67,93,"heraldo_aragon, huffington_es",2,"Zaragoza probará la prioridad semafórica para el autobús en cuatro cruces conflictivos de Centro, Actur, Parque Goya y Santa Isabel",2026-04-16 09:39
+ejemplo,3,3,4.67,93,"20minutos, eldiario, huffington_es",3,"Muere María Caamaño, la 'princesa futbolera guerrera' y ejemplo de visibilidad del cáncer infantil",2026-04-16 09:39
+primeras,4,4,4.67,93,"okdiario, levante_emv, el_confidencial_economia, huffington_es",4,El Gobierno de Murcia pagará las dos primeras cuotas a los autónomos que estén de baja médica,2026-04-16 09:39
+combustible,7,7,4.67,93,"google_news_economia, elcorreo, levante_emv, el_confidencial_economia, sur",5,España es el país de Europa que más combustible compró a Rusia el mes de marzo: más del doble que en febrero - MARCA,2026-04-16 09:39
+educación,4,4,4.67,93,"google_news_internacional, elpais, okdiario",3,"Zamora celebra el Día Internacional del Pueblo Gitano con memoria, educación y emprendimiento - Tu Voz Digital",2026-04-16 09:39
+marzo,3,3,4.67,93,"google_news_economia, okdiario",2,España es el país de Europa que más combustible compró a Rusia el mes de marzo: más del doble que en febrero - MARCA,2026-04-16 09:39
+combate,3,3,4.67,93,levante_emv,1,"Tess Defence entrega a Defensa otros once vehículos de combate 8x8 ""Dragón""",2026-04-16 09:39
+jueves,29,29,4.67,93,"google_news_internacional, okdiario, google_news_economia, elpais, sur",5,"Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Trump dice que este jueves hablarán “los líderes” de Israel y Líbano pero Beirut niega “tener conocimiento” de un contacto próximo - EL PAÍS",2026-04-16 09:39
+ataques,9,9,4.67,93,"europapress, elcorreo, okdiario, france24_es, levante_emv",5,"Jueces de instrucción de Madrid apoyan a Peinado frente a los ""ataques"" y ""descalificaciones"" de Bolaños",2026-04-16 09:39
+filtración,3,3,4.67,93,"20minutos, elcorreo, expansion",3,La 'espantada' de Quevedo en 'Lo de Évole' al preguntarle por la filtración del disco,2026-04-16 09:39
+confirmado,4,4,4.67,93,"huffington_es, okdiario",2,Confirmado por el BOE: todas las llamadas comerciales deberán llevar un mismo prefijo y los ciudadanos podrán bloquearlas todas de golpe,2026-04-16 09:39
+comida,4,4,4.67,93,"elespanol, eldiario, google_news_economia, lavanguardia",4,Los hogares españoles recortan 400 euros de su presupuesto anual en comida por la pérdida de poder adquisitivo,2026-04-16 09:39
+predicción,13,14,4.34,86,okdiario,1,"Predicción del horóscopo para Aries hoy, jueves 16 de abril de 2026",2026-04-16 09:39
+líbano,23,26,4.13,82,"google_news_internacional, infolibre, elcorreo, lavanguardia, elpais",5,Última hora de la guerra de EE.UU. e Israel contra Irán | Trump asegura que hoy hablarán los líderes de Israel y Líbano pero Beirut niega tener conocimiento - La Vanguardia,2026-04-16 09:39
+recupera,7,8,4.09,81,"okdiario, google_news_economia, elcorreo, 20minutos, elmundo",5,La innovación con IA consigue cómo recuperar uno de cada cinco envases agrícolas de plástico,2026-04-16 09:39
+producción,7,8,4.09,81,"20minutos, okdiario, elmundo, google_news_economia, google_news_es",5,Repsol recupera el control de sus operaciones en Venezuela e incrementará la producción,2026-04-16 09:39
+europeo,6,7,4.0,80,"newtral, huffington_es, google_news_economia, google_news_es, lavanguardia",5,"laSexta, Onda Cero, Newtral y el portugués Público impulsan IberCHECK, un proyecto europeo para ampliar el alcance de la información verificada",2026-04-16 09:39
+dinero,6,7,4.0,80,"okdiario, huffington_es, el_confidencial_economia, elcorreo, levante_emv",5,‘Top Chef’: ¿quién es el ganador de la edición y cuánto dinero se ha llevado?,2026-04-16 09:39
+confirma,15,18,3.89,77,"levante_emv, huffington_es, google_news_internacional, 20minutos, elcorreo",5,Se confirma el cara a cara en la Fallas de Alzira: Luis Gisbert y Bernardo Cortés se disputarán en las urnas la presidencia de la JLF,2026-04-16 09:39
+ciudad,10,12,3.89,77,"levante_emv, google_news_es, elcorreo, huffington_es, 20minutos",5,"Los jueces de Madrid salen en defensa de Peinado frente a Bolaños, al que acusan de ""socavar la confianza de los ciudadanos"" en su trabajo",2026-04-16 09:39
+sagunt,5,6,3.89,77,levante_emv,1,Pilar Távora presenta en Sagunt su documental sobre el intento de exterminio del pueblo gitano,2026-04-16 09:39
+horóscopo,13,16,3.8,75,okdiario,1,"Predicción del horóscopo para Aries hoy, jueves 16 de abril de 2026",2026-04-16 09:39
+cáncer,4,5,3.74,74,"levante_emv, elcorreo, 20minutos, okdiario",4,"Muere a los 13 años María Caamaño Núñez, símbolo de la lucha contra el cáncer infantil",2026-04-16 09:39
+pareja,4,5,3.74,74,"20minutos, elconfidencial, sur, elcorreo",4,Un concejal de Vox de Montserrat entrega su acta tras ser denunciado por malos tratos por su pareja,2026-04-16 09:39
+dentro,4,5,3.74,74,"elconfidencial, sur, elcorreo, lavanguardia",4,Detenida una mujer de 45 años en Bilbao tras incendiar una lonja con su pareja dentro,2026-04-16 09:39
+móvil,4,5,3.74,74,"20minutos, levante_emv, google_news_es, okdiario, google_news_internacional",5,"Llega el realme 16 5G, el móvil con espejo para selfis con la cámara trasera",2026-04-16 09:39
+recibe,4,5,3.74,74,"levante_emv, google_news_internacional, okdiario",3,"Dona'm la ma, la asociación de migrantes de Torrent, recibe apoyo tras la retirada de subvención municipal",2026-04-16 09:39
+siete,4,5,3.74,74,"heraldo_aragon, levante_emv, sur, lavanguardia",4,El DAT Alierta de Zaragoza sigue creciendo: siete nuevas empresas se mudarán al parque tecnológico,2026-04-16 09:39
+primavera,7,9,3.63,72,"okdiario, elcorreo, lavanguardia",3,No todas valen: las 6 zapatillas Nike que sí merecen la pena para entrenar en gimnasio esta primavera,2026-04-16 09:39
+intento,3,4,3.5,70,"levante_emv, expansion",2,Pilar Távora presenta en Sagunt su documental sobre el intento de exterminio del pueblo gitano,2026-04-16 09:39
+peinado,3,4,3.5,70,"europapress, levante_emv, okdiario",3,"Jueces de instrucción de Madrid apoyan a Peinado frente a los ""ataques"" y ""descalificaciones"" de Bolaños",2026-04-16 09:39
+concluye,3,4,3.5,70,"sur, elcorreo, google_news_es",3,"El perito concluye que la pasarela de Santander colapsó por un fallo de los herrajes, que estaban corroídos",2026-04-16 09:39
+posición,3,4,3.5,70,"eldiario, levante_emv, elmundo_internacional, google_news_internacional",4,"Ayuso calla sobre el uso de su jefe de despacho para negociar la compra de un piso y la oposición la acusa de ""ponerle el traje de Tecnocasa""",2026-04-16 09:39
+ciudades,3,4,3.5,70,"20minutos, europapress, okdiario",3,El Vaticano confirma la agenda del Papa en España: ciudades y horas de los actos,2026-04-16 09:39
+agenda,6,8,3.5,70,"20minutos, okdiario, elcorreo, google_news_internacional, google_news_politica",5,El Vaticano confirma la agenda del Papa en España: ciudades y horas de los actos,2026-04-16 09:39
+fiesta,3,4,3.5,70,"levante_emv, elcorreo, elpais",3,"El llamativo reclamo de fiesta y apartamento turístico en Xàbia: ""Donde caben 2 caben 3, 4, 5 y 7""",2026-04-16 09:39
+comunidades,3,4,3.5,70,"okdiario, google_news_es",2,El BOE lo confirma y es oficial: el 23 de abril es festivo y hay puente escolar en estas comunidades,2026-04-16 09:39
+natural,3,4,3.5,70,"levante_emv, elcorreo",2,"La medicina estética abandona el bótox y busca el efecto natural: ""Ya no vemos rostros congelados""",2026-04-16 09:39
+alonso,3,4,3.5,70,"levante_emv, okdiario",2,"Anabel Alonso protagoniza 'La mujer rota': ""El hombre progresista no siempre es menos machista""",2026-04-16 09:39
+reabre,3,4,3.5,70,"levante_emv, google_news_economia",2,"Alejandra Ruiz, portavoz de Ryanair en España: ""Tenemos la mirada puesta en una posible escasez de combustible si el estrecho de Ormuz no reabre""",2026-04-16 09:39
+presidentes,3,4,3.5,70,"google_news_politica, levante_emv",2,"En modo campaña, Kicillof llega a España para reunirse con empresarios y participar de una cumbre de presidentes progresistas - TN",2026-04-16 09:39
+listas,3,4,3.5,70,"elmundo, levante_emv, elpais, lavanguardia",4,"Las listas de espera vuelven a crecer: 4.925.648 pacientes, 853.509 para una cirugía y 4.072.139 para ver al especialista",2026-04-16 09:39
+película,3,4,3.5,70,"eldiario, 20minutos",2,Dirigir y protagonizar una película en Hollywood: no todo el mundo es capaz pero suele ser sinónimo de éxito,2026-04-16 09:39
+acceso,5,7,3.34,66,"google_news_internacional, levante_emv, sur, okdiario, lavanguardia",5,El Bachillerato Internacional en Madrid: una ruta estratégica para el acceso a la universidad con éxito garantizado - Madridiario,2026-04-16 09:39
+coinciden,5,7,3.34,66,"heraldo_aragon, okdiario, huffington_es",3,"Los entrenadores coinciden: ""Después de los 50 años, es clave entrenar la fuerza y el core con ejercicios simples""",2026-04-16 09:39
+jóvenes,5,7,3.34,66,"20minutos, levante_emv, google_news_es, eldiario, sur",5,El porcentaje de jóvenes menores de 35 años con vivienda en propiedad sube y rompe con más de una década a la baja,2026-04-16 09:39
+muere,16,23,3.25,64,"elcorreo, eldiario, sur, 20minutos, levante_emv",5,Un hombre muere atropellado por un tren en Ciudad Real mientras trabajaba en las vías,2026-04-16 09:39
+lucha,4,6,3.11,62,"20minutos, levante_emv, elpais",3,"Paddington vive, la lucha sigue: el osito confirma una cuarta película para cines",2026-04-16 09:39
+pueblo,8,12,3.11,62,"google_news_internacional, levante_emv, okdiario, elcorreo, elespanol",5,"Zamora celebra el Día Internacional del Pueblo Gitano con memoria, educación y emprendimiento - Tu Voz Digital",2026-04-16 09:39
+perder,4,6,3.11,62,"levante_emv, elmundo, 20minutos, expansion",4,El precedente de la expulsión de Eduardo Camavinga: Toldo expulsado en Mestalla por perder tiempo en el minuto 87,2026-04-16 09:39
+coche,8,12,3.11,62,"okdiario, elespanol, sur, google_news_economia, heraldo_aragon",5,"Toyota lanza el coche más barato de su historia: cuánto cuesta, características y cuándo estará a la venta en España",2026-04-16 09:39
+tenemos,4,6,3.11,62,"levante_emv, google_news_economia",2,"Alejandra Ruiz, portavoz de Ryanair en España: ""Tenemos la mirada puesta en una posible escasez de combustible si el estrecho de Ormuz no reabre""",2026-04-16 09:39
+gratis,9,14,3.0,60,"okdiario, 20minutos, heraldo_aragon, google_news_es",4,Chupa Chups sorprende con un nuevo sabor inspirado en las albóndigas de IKEA: se repartirán gratis en junio,2026-04-16 09:39
+nadie,5,8,2.92,58,"levante_emv, el_confidencial_tech, okdiario, 20minutos",4,Nadie tarda tanto como un andaluz para operarse: las listas de espera del SAS se estancan y la demora media se mantiene en seis meses,2026-04-16 09:39
+recuperar,5,8,2.92,58,"okdiario, google_news_economia, elmundo, elpais, sur",5,La innovación con IA consigue cómo recuperar uno de cada cinco envases agrícolas de plástico,2026-04-16 09:39
+sevilla,11,18,2.85,57,"okdiario, google_news_internacional, levante_emv, lavanguardia, heraldo_aragon",5,Horario y dónde ver la corrida de toros de Morante de la Puebla en la Feria de Abril de Sevilla 2026 por TV y en vivo,2026-04-16 09:39
+vivienda,12,20,2.8,56,"google_news_economia, elcorreo, eldiario, 20minutos, elpais",5,"La proporción de hogares propietarios de su vivienda principal cae a mínimos en 2024, según Banco de España - Europa Press",2026-04-16 09:39
+ontinyent,3,5,2.8,56,levante_emv,1,El PSPV de Ontinyent pide al consistorio que refuerce los recursos municipales para la regularización de migrantes,2026-04-16 09:39
+caída,3,5,2.8,56,"elpais, google_news_es, huffington_es",3,El Banco de España detecta una caída de los hogares con vivienda en propiedad,2026-04-16 09:39
+resultados,3,5,2.8,56,"elcorreo, levante_emv, france24_es",3,Los resultados de la prueba piloto del cribado de cáncer de próstata en Euskadi,2026-04-16 09:39
+trimestre,3,5,2.8,56,"google_news_internacional, elpais",2,Las acciones de Rentokil caen por el retraso internacional pese al crecimiento del primer trimestre - Investing.com España,2026-04-16 09:39
+otras,3,5,2.8,56,"europapress, okdiario, lavanguardia",3,Al menos 15 muertos y casi un centenar de heridos en ataques rusos contra Kiev y otras dos ciudades ucranianas,2026-04-16 09:39
+vehículos,3,5,2.8,56,"levante_emv, elcorreo",2,"Tess Defence entrega a Defensa otros once vehículos de combate 8x8 ""Dragón""",2026-04-16 09:39
+grados,3,5,2.8,56,"okdiario, eldiario",2,34 grados y calor veraniego: la AEMET pone fecha y lanza una alerta a ésta parte de España,2026-04-16 09:39
+aitana,3,5,2.8,56,"huffington_es, elcorreo, 20minutos",3,Aitana se pronuncia tras los rumores de crisis con Plex: &quot;Tampoco me gusta que ensuciéis lo más bonito que tengo con mentiras&quot;,2026-04-16 09:39
+estatal,3,5,2.8,56,"sur, elpais, google_news_economia",3,Siete de cada diez viviendas turísticas rurales no pueden inscribirse en el Registro estatal,2026-04-16 09:39
+convierte,3,5,2.8,56,"levante_emv, okdiario, google_news_internacional, lavanguardia",4,"Historias inspiradoras: Columbus Venture Partners, el fondo español que convierte ciencia en industria y terapias reales",2026-04-16 09:39
+mirada,3,5,2.8,56,"levante_emv, google_news_economia",2,"Alejandra Ruiz, portavoz de Ryanair en España: ""Tenemos la mirada puesta en una posible escasez de combustible si el estrecho de Ormuz no reabre""",2026-04-16 09:39
+administración,3,5,2.8,56,"google_news_es, elpais, google_news_economia",3,La jornada de 35 horas llega a la Administración central (y ponen en aprietos a varias comunidades) - EL PAÍS,2026-04-16 09:39
+pasado,3,5,2.8,56,"elcorreo, lavanguardia",2,"Valverde pide el máximo al equipo y a la afición para eludir el descenso: «Si les ha pasado a otros, también nos podría pasar»",2026-04-16 09:39
+escasez,3,5,2.8,56,"levante_emv, google_news_economia",2,"Alejandra Ruiz, portavoz de Ryanair en España: ""Tenemos la mirada puesta en una posible escasez de combustible si el estrecho de Ormuz no reabre""",2026-04-16 09:39
+activa,3,5,2.8,56,"el_confidencial_economia, sur, levante_emv, elespanol",4,Japón activa la mayor planta nuclear del mundo tras 14 años cerrada,2026-04-16 09:39
+parque,3,5,2.8,56,"heraldo_aragon, elcorreo",2,El DAT Alierta de Zaragoza sigue creciendo: siete nuevas empresas se mudarán al parque tecnológico,2026-04-16 09:39
+información,3,5,2.8,56,"newtral, google_news_internacional, levante_emv",3,"laSexta, Onda Cero, Newtral y el portugués Público impulsan IberCHECK, un proyecto europeo para ampliar el alcance de la información verificada",2026-04-16 09:39
+mucho,3,5,2.8,56,"levante_emv, elcorreo, 20minutos, lavanguardia",4,Oliver Kahn estalla contra los lloros del Real Madrid: ”Dice mucho de cómo han conseguido ganar 15 Champions”,2026-04-16 09:39
+israel,27,46,2.74,54,"google_news_internacional, infolibre, elcorreo, lavanguardia, elpais",5,Última hora de la guerra de EE.UU. e Israel contra Irán | Trump asegura que hoy hablarán los líderes de Israel y Líbano pero Beirut niega tener conocimiento - La Vanguardia,2026-04-16 09:39
+espera,7,12,2.72,54,"20minutos, elmundo, levante_emv, eldiario, europapress",5,"Díaz tiene ""esperanza"" en que el decreto sobre alquileres salga adelante pero evita criticar la quietud del PSOE",2026-04-16 09:39
+oficial,8,14,2.67,53,"levante_emv, okdiario, elcorreo, huffington_es",4,Oficial Maquinista Sector Alimentación | ARDO Benimodo,2026-04-16 09:39
+papel,4,7,2.67,53,"google_news_internacional, okdiario, elpais",3,Canarias refuerza su papel en cooperación internacional alineada con los objetivos de desarrollo sostenible - Radio Faro del Noroeste,2026-04-16 09:39
+agricultura,4,7,2.67,53,"google_news_es, google_news_economia",2,"Agricultura, Pesca y Alimentación levanta las medidas de confinamiento de aves de corral en toda España - La Moncloa",2026-04-16 09:39
+canarias,4,7,2.67,53,"elmundo_espana, google_news_internacional, google_news_economia",3,La Iglesia y los organizadores piden que se facilite teletrabajar y que no haya clases presenciales durante la visita del Papa a Canarias,2026-04-16 09:39
+batalla,4,7,2.67,53,"levante_emv, lavanguardia, okdiario",3,Batalla entre Elon Musk y la EUIPO por la marca Robotaxi,2026-04-16 09:39
+madre,5,9,2.6,51,"elcorreo, 20minutos, levante_emv, sur, okdiario",5,La felicidad también se entrena: 7 regalos para regalar a las mamás fitness este Día de la Madre,2026-04-16 09:39
+aemet,10,18,2.6,51,"elcorreo, huffington_es, okdiario",3,La Aemet anuncia tres días seguidos de «lluvias débiles» en Bizkaia,2026-04-16 09:39
+rodríguez,5,9,2.6,51,"google_news_internacional, elpais, france24_es, 20minutos, google_news_es",5,Nuria Rodríguez Lázaro gana el Premio Internacional Sial Pigmalión de Pensamiento y Ensayo 2026 - El Diario de Madrid,2026-04-16 09:39
+operación,5,9,2.6,51,"20minutos, eldiario, google_news_internacional, europapress, elpais",5,"Más de 853.000 pacientes esperaban una operación en diciembre de 2025, 20.000 más que seis meses antes",2026-04-16 09:39
+control,12,22,2.55,50,"elcorreo, 20minutos, okdiario, elmundo, google_news_economia",5,Repsol recupera el control de sus operaciones en Venezuela,2026-04-16 09:39
+tener,6,11,2.55,50,"okdiario, levante_emv, google_news_internacional, huffington_es, maldita",5,La sentida reflexión de Mary de Dinamarca tras la muerte de su padre: «Es difícil mantener el equilibrio»,2026-04-16 09:39
+banco,7,13,2.52,50,"google_news_economia, elpais, google_news_es, okdiario",4,"La proporción de hogares propietarios de su vivienda principal cae a mínimos en 2024, según Banco de España - Europa Press",2026-04-16 09:39
+expulsión,6,11,2.55,50,"levante_emv, 20minutos, elpais",3,El precedente que desmonta las quejas del Real Madrid por la expulsión de Camavinga: Toldo en Mestalla y Farinós de portero,2026-04-16 09:39
+relación,6,11,2.55,50,"okdiario, heraldo_aragon, elcorreo, levante_emv, lavanguardia",5,"Gaspar Zarrías, ex consejero de la Junta, declara en la causa de Leire Díez por su «su relación con la investigada»",2026-04-16 09:39
+historia,9,17,2.47,49,"france24_es, eldiario, levante_emv, okdiario, elespanol",5,"Detenida a los 86 años: la historia de Marie-Thérèse Ross, la viuda francesa en manos de ICE",2026-04-16 09:39
+maría,12,23,2.44,48,"okdiario, eldiario, levante_emv, elcorreo, 20minutos",5,"El fútbol español llora la muerte de María Caamaño, la ‘Princesa Futbolera Guerrera’",2026-04-16 09:39
+premios,3,6,2.34,46,"google_news_es, 20minutos, infolibre",3,El Colegio de Médicos de Ciudad Real reconoce la investigación médica con los premios al Mejor Trabajo Científico y a la Mejor Tesis Doctoral - medicosypacientes.com,2026-04-16 09:39
+jueces,4,8,2.34,46,"europapress, elcorreo, levante_emv, okdiario",4,"Jueces de instrucción de Madrid apoyan a Peinado frente a los ""ataques"" y ""descalificaciones"" de Bolaños",2026-04-16 09:39
+mejora,3,6,2.34,46,"google_news_economia, levante_emv, google_news_es, okdiario",4,"Los hogares mejoran su renta pero siguen sin recuperar la riqueza previa a la crisis, según el Banco de España - Demócrata",2026-04-16 09:39
+vivir,3,6,2.34,46,"okdiario, google_news_internacional, el_confidencial_tech",3,"Joan Manuel Serrat, muy crítico contra el edadismo: “Tengo ganas de vivir, soy útil”",2026-04-16 09:39
+artemis,4,8,2.34,46,"levante_emv, el_confidencial_tech, 20minutos",3,Por qué los astronautas de Artemis II pierden masa ósea y qué significa para nuestra salud,2026-04-16 09:39
+expertos,6,12,2.34,46,"okdiario, google_news_internacional, huffington_es, levante_emv",4,Los expertos ponen el grito en el cielo: cada año se desperdician 2.400 toneladas de lana de oveja en Escandinavia,2026-04-16 09:39
+pierden,3,6,2.34,46,levante_emv,1,Por qué los astronautas de Artemis II pierden masa ósea y qué significa para nuestra salud,2026-04-16 09:39
+compra,6,12,2.34,46,"eldiario, huffington_es, okdiario, google_news_economia, 20minutos",5,"Ayuso calla sobre el uso de su jefe de despacho para negociar la compra de un piso y la oposición la acusa de ""ponerle el traje de Tecnocasa""",2026-04-16 09:39
+médica,3,6,2.34,46,"okdiario, google_news_es",2,El Gobierno de Murcia pagará las dos primeras cuotas a los autónomos que estén de baja médica,2026-04-16 09:39
+sentencia,3,6,2.34,46,"huffington_es, okdiario, 20minutos",3,¿Monopolio en la venta de entradas por parte de Live Nation y Ticketmaster? Esto dice una sentencia estadounidense,2026-04-16 09:39
+número,3,6,2.34,46,"20minutos, google_news_internacional, okdiario",3,El thriller con Halle Berry y Chris Hemsworth que fracasó en cines consigue su número uno en Prime Video,2026-04-16 09:39
+recurso,3,6,2.34,46,"levante_emv, huffington_es, elconfidencial, europapress, infolibre",5,El PSPV de Ontinyent pide al consistorio que refuerce los recursos municipales para la regularización de migrantes,2026-04-16 09:39
+proyecto,4,8,2.34,46,"newtral, elespanol, eldiario, google_news_economia",4,"laSexta, Onda Cero, Newtral y el portugués Público impulsan IberCHECK, un proyecto europeo para ampliar el alcance de la información verificada",2026-04-16 09:39
+bilbao,5,10,2.34,46,"google_news_internacional, elconfidencial, sur, elcorreo, okdiario",5,El mundo en cinco minutos: la información internacional de este jueves 16 - Radio Popular de Bilbao,2026-04-16 09:39
+okdiario,3,6,2.34,46,google_news_economia,1,Scope alerta de que las aerolíneas de Europa comienzan a sufrir desabastecimiento de combustible por Irán - OkDiario,2026-04-16 09:39
+escolar,3,6,2.34,46,"elpais, eldiario, okdiario",3,Educación presenta el primer protocolo antiacoso escolar común para toda España,2026-04-16 09:39
+drones,4,8,2.34,46,"huffington_es, elespanol, elmundo_internacional, google_news_internacional",4,Rusia aprieta en Ucrania con 660 drones al día: van 16 civiles muertos y cien heridos en su última andanada,2026-04-16 09:39
+clave,6,12,2.34,46,"heraldo_aragon, expansion, google_news_es, google_news_economia, lavanguardia",5,"Los entrenadores coinciden: ""Después de los 50 años, es clave entrenar la fuerza y el core con ejercicios simples""",2026-04-16 09:39
+honor,3,6,2.34,46,"google_news_es, elmundo",2,El productor teatral José Cimarro recibirá el premio Max de honor - Hoy,2026-04-16 09:39
+estas,6,13,2.16,43,"huffington_es, okdiario, levante_emv, elcorreo, elpais",5,Confirmado por la Aemet: temperaturas que superarán los 30ºC y polvo sahariano en estas zonas,2026-04-16 09:39
+refuerza,5,11,2.12,42,"google_news_internacional, google_news_es, infolibre, google_news_politica",4,Simed refuerza su alcance internacional en una nueva edición centrada en la colaboración público-privada - Europa Press,2026-04-16 09:39
+gente,5,11,2.12,42,"expansion, heraldo_aragon, okdiario, lavanguardia",4,Los 'robots inteligentes' de Theker automatizan la logística de Paack,2026-04-16 09:39
+europeos,4,9,2.08,41,"huffington_es, google_news_economia, elpais",3,"Varios gobiernos europeos exigen a sus funcionarios desinstalar WhatsApp: &quot;La tecnología es una herramienta de poder, supone un riesgo&quot;",2026-04-16 09:39
+press,4,9,2.08,41,"google_news_economia, google_news_internacional",2,Reden y Circle Energy se alían para el codesarrollo de hasta 200 MW de almacenamiento en baterías en España - PressDigital,2026-04-16 09:39
+precio,11,25,2.06,41,"okdiario, expansion, google_news_economia, elcorreo, google_news_es",5,"Guerra de Irán, en directo | Ataques, precio del petróleo hoy, bloqueo naval y noticias de Trump hoy",2026-04-16 09:39
+parece,4,9,2.08,41,"elespanol, 20minutos, heraldo_aragon, okdiario, google_news_es",5,"Aparecen rotas varias ventanillas de coches aparcados en Os Castros, en A Coruña",2026-04-16 09:39
+trabajo,4,9,2.08,41,"levante_emv, google_news_es, 20minutos, huffington_es, lavanguardia",5,"Los jueces de Madrid salen en defensa de Peinado frente a Bolaños, al que acusan de ""socavar la confianza de los ciudadanos"" en su trabajo",2026-04-16 09:39
+porque,4,9,2.08,41,"elcorreo, huffington_es, okdiario, google_news_economia",4,Pablo Motos pide disculpas: «Sonsoles nos propuso hablar del IVA de los libros porque le parecía excesivo un 21%»,2026-04-16 09:39
+polémica,4,9,2.08,41,"elmundo_internacional, huffington_es, levante_emv, 20minutos",4,Trump publica una nueva imagen junto a Jesús mientras continúa la polémica por sus críticas al Papa,2026-04-16 09:39
+elplural.com,4,9,2.08,41,"google_news_politica, google_news_economia, google_news_internacional",3,El veto a la regularización de los saharauis provoca un cisma interno entre socios de Gobierno - ElPlural.com,2026-04-16 09:39
+huelga,4,9,2.08,41,"levante_emv, sur, okdiario",3,Caos en Metrovalencia: una avería eléctrica interrumpe la circulación en plena jornada de huelga,2026-04-16 09:39
+fútbol,3,7,2.0,40,"okdiario, 20minutos, levante_emv",3,"El fútbol español llora la muerte de María Caamaño, la ‘Princesa Futbolera Guerrera’",2026-04-16 09:39
+imagen,3,7,2.0,40,"elmundo_internacional, 20minutos, elcorreo",3,Trump publica una nueva imagen junto a Jesús mientras continúa la polémica por sus críticas al Papa,2026-04-16 09:39
+último,3,7,2.0,40,"huffington_es, elconfidencial, europapress, elespanol, okdiario",5,Vox expulsa definitivamente a Javier Ortega-Smith tras tumbar su último recurso,2026-04-16 09:39
+gasolina,3,7,2.0,40,"google_news_economia, okdiario",2,¿Cuánto cuesta cargar el coche? Este es el precio del litro de gasolina y el del gasóleo este jueves 16 de abril - El Cronista,2026-04-16 09:39
+cielo,3,7,2.0,40,"okdiario, google_news_internacional, eldiario",3,Los expertos ponen el grito en el cielo: cada año se desperdician 2.400 toneladas de lana de oveja en Escandinavia,2026-04-16 09:39
+netanyahu,3,7,2.0,40,"google_news_internacional, elpais, elcorreo",3,"Última hora de la guerra en Irán y el bloqueo de Trump en Ormuz, en directo: Israel confirma que Netanyahu hablará con Líbano - La Vanguardia",2026-04-16 09:39
+palacio,3,7,2.0,40,"elcorreo, heraldo_aragon",2,Este es el programa de conciertos del Festival de Jazz de Vitoria en el Palacio Europa,2026-04-16 09:39
+agresión,3,7,2.0,40,"huffington_es, elconfidencial, 20minutos",3,La Policía australiana investiga la acusación de agresión sexual contra Katy Perry,2026-04-16 09:39
+estrena,3,7,2.0,40,"okdiario, huffington_es, sur",3,"Ryanair estrena esta temporada turística tres nuevas rutas desde Palma a Friedrichshafen, Gdansk y Malta",2026-04-16 09:39
+firma,3,7,2.0,40,"levante_emv, huffington_es, google_news_internacional, 20minutos, elcorreo",5,Se confirma el cara a cara en la Fallas de Alzira: Luis Gisbert y Bernardo Cortés se disputarán en las urnas la presidencia de la JLF,2026-04-16 09:39
+vecinos,3,7,2.0,40,"elconfidencial, 20minutos, lavanguardia",3,Vecinos de Villanueva (Madrid) hallan dos armas blancas del crimen del niño de 11 años,2026-04-16 09:39
