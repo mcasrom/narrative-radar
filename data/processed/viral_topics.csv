@@ -1,116 +1,106 @@
 keyword,count_now,count_base,ratio,viral_score,sources,n_sources,sample_title,detected_at
-planes,3,3,8.83,100,"elespanol, sur",2,"El Pentágono intensifica sus planes para una posible intervención militar en Cuba, según medios estadounidenses",2026-04-16 01:09
-múnich,18,15,10.59,100,"google_news_es, elpais, elmundo, elcorreo, lavanguardia",5,"Bayern Múnich - Real Madrid en directo | Arbeloa, sobre la roja a Camavinga: “No se puede expulsar a alguien por una acción así” - EL PAÍS",2026-04-16 01:09
-fechas,3,3,8.83,100,"sur, google_news_es",2,"Final Four de la BCL 2026: entradas, fechas y horarios",2026-04-16 01:09
-eliminado,4,1,35.31,100,"google_news_es, elpais, huffington_es, sur",4,Bayern Múnich - Real Madrid en directo | El Madrid cae en Múnich ante el Bayern y queda eliminado de la Champions - EL PAÍS,2026-04-16 01:09
-arsenal,7,0,5.0,100,"elpais, okdiario, google_news_es, levante_emv, lavanguardia",5,Un Arsenal rebajado se cita con el Atlético en las semifinales de la Champions,2026-04-16 01:09
-confianza,3,5,5.3,100,"expansion, elcorreo, google_news_es",3,"Toni Salort: ""La confianza es la base del liderazgo real""",2026-04-16 01:09
-tienda,4,2,17.65,100,"google_news_internacional, sur, heraldo_aragon, elcorreo",4,Archy Welfare refuerza su expansión internacional con una nueva tienda en Polanco - Ediciones Sibila,2026-04-16 01:09
-mitad,3,4,6.62,100,"expansion, google_news_es, elpais",3,VMO2 reduce a casi la mitad el dividendo a Telefónica en 2025,2026-04-16 01:09
-reforzar,6,8,6.62,100,"expansion, elpais, google_news_internacional, levante_emv, google_news_economia",5,Deutsche Bank ficha en UBS para reforzar su banca de inversión en España,2026-04-16 01:09
-street,3,5,5.3,100,"expansion, levante_emv, google_news_es",3,Seis escenarios para la Bolsa tras el récord histórico de Wall Street,2026-04-16 01:09
-bayern,25,19,11.61,100,"google_news_es, elpais, elmundo, elcorreo, heraldo_aragon",5,¿Era segunda amarilla para Eduardo Camavinga? Iturralde González resuelve la jugada polémica del Bayern-Real Madrid - Cadena SER,2026-04-16 01:09
-invitado,3,0,5.0,100,"levante_emv, sur, lavanguardia",3,"Guitarricadelafuente, nuevo invitado del confesionario en el concierto de Rosalía con un cambio inédito que sorprende al público",2026-04-16 01:09
-árbitro,6,4,13.24,100,"elpais, elmundo, levante_emv, google_news_es",4,Arbeloa culpa al árbitro tras la eliminación con el Bayern: “Es inexplicable la expulsión de Camavinga”,2026-04-16 01:09
-pactos,3,2,13.24,100,"elespanol, elmundo",2,"Vox intenta espaciar el anuncio de los pactos en Extremadura, Aragón y CyL para que el PP no pueda apuntarse el éxito",2026-04-16 01:09
-alborán,5,0,5.0,100,"huffington_es, okdiario, 20minutos, elcorreo",4,Pablo Alborán cuenta lo que le pasó en un avión y deja a todos en shock: &quot;Se me pusieron los ojos para atrás&quot;,2026-04-16 01:09
-bayern-real,5,2,22.07,100,"google_news_es, elmundo",2,¿Era segunda amarilla para Eduardo Camavinga? Iturralde González resuelve la jugada polémica del Bayern-Real Madrid - Cadena SER,2026-04-16 01:09
-reduce,3,2,13.24,100,"google_news_internacional, expansion, elcorreo, 20minutos",4,Decor Internacional apuesta por la sostenibilidad con una planta fotovoltaica que reduce 50 toneladas de CO₂ al año - El Día,2026-04-16 01:09
-ganar,4,4,8.83,100,"google_news_politica, elcorreo, sur, elpais",4,Kicillof desembarca en España con agenda política y económica para ganar protagonismo internacional - Opinando San Nicolás,2026-04-16 01:09
-negro,3,1,26.48,100,"elcorreo, 20minutos",2,Condenada por amenazar con «cortarle los huevos» a un niño al que llamó «puto negro» y «puto mono» en Aranda de Duero,2026-04-16 01:09
-rosalía,3,4,6.62,100,"levante_emv, lavanguardia, 20minutos",3,"Guitarricadelafuente, nuevo invitado del confesionario en el concierto de Rosalía con un cambio inédito que sorprende al público",2026-04-16 01:09
-bonoloto,6,7,7.57,100,"sur, elcorreo, okdiario, levante_emv, elpais",5,"Comprobar Lotería del miércoles, 15 de abril: resultados de la Bonoloto, del Cupón de la ONCE y de la Quiniela",2026-04-16 01:09
-cupón,3,5,5.3,100,"sur, okdiario",2,"Comprobar Lotería del miércoles, 15 de abril: resultados de la Bonoloto, del Cupón de la ONCE y de la Quiniela",2026-04-16 01:09
-sporting,4,1,35.31,100,"okdiario, google_news_es, lavanguardia",3,El Arsenal neutraliza al Sporting y se cita en semifinales de Champions con el Atlético,2026-04-16 01:09
-inditex,6,0,5.0,100,"lavanguardia, okdiario, elpais, google_news_es, huffington_es",5,Inditex sufre un ataque informático contra sus bases de datos,2026-04-16 01:09
-tercero,3,0,5.0,100,"elcorreo, elpais",2,MBappé hace el tercero para empatar la eliminatoria,2026-04-16 01:09
-mbappé,4,2,17.65,100,"elcorreo, elpais, huffington_es",3,MBappé hace el tercero para empatar la eliminatoria,2026-04-16 01:09
-ministerio,3,2,13.24,100,"elpais, elmundo",2,"Víctor de Aldama, uno más en el Ministerio de Transportes",2026-04-16 01:09
-obligatorio,3,4,6.62,100,"google_news_es, heraldo_aragon",2,La UE planteará teletrabajo obligatorio y reducir la velocidad en autopistas si se prolonga el cierre de Ormuz - ABC,2026-04-16 01:09
-territorio,3,1,26.48,100,"google_news_internacional, elpais, huffington_es",3,El Seminario Internacional de Comarcas Sostenibles se centra en conocer soluciones reales de economía circular en territorios insulares - Noticias de Agüimes,2026-04-16 01:09
-máscara,4,0,5.0,100,okdiario,1,"Pistas y teorías de Bocata de Calamares, máscara de ‘Mask Singer 5’",2026-04-16 01:09
-experto,3,2,13.24,100,"huffington_es, google_news_economia",2,"Julen Bollain, economista experto en vivienda: &quot;El mercado en España funciona como una trituradora&quot;",2026-04-16 01:09
-teorías,7,0,5.0,100,"okdiario, google_news_es",2,Todas las pistas de Caracol de ‘Mask Singer 5’: teorías para saber quién es,2026-04-16 01:09
-‘mask,6,0,5.0,100,okdiario,1,Todas las pistas de Caracol de ‘Mask Singer 5’: teorías para saber quién es,2026-04-16 01:09
-pistas,7,1,61.79,100,"okdiario, google_news_internacional, google_news_es",3,Todas las pistas de Caracol de ‘Mask Singer 5’: teorías para saber quién es,2026-04-16 01:09
-comprobó,3,0,5.0,100,"elpais, 20minutos, huffington_es",3,Pablo Motos y Sonsoles Ónega se disculpan tras afirmar erróneamente que los libros tienen el 21% de IVA: “Nadie comprobó el dato”,2026-04-16 01:09
-empata,3,0,5.0,100,"elcorreo, elpais",2,Luis Díaz empata el partido y deja al Madrid al límite,2026-04-16 01:09
-sorteo,6,10,5.3,100,"sur, okdiario, levante_emv, elpais",4,"Resultado del sorteo de la Quiniela del miércoles, 15 de abril de 2026",2026-04-16 01:09
-acceso,4,3,11.77,100,"okdiario, elpais, google_news_es",3,Inditex sufre un ataque informático con acceso a bases de datos de sus filiales,2026-04-16 01:09
-bases,5,5,8.83,100,"lavanguardia, okdiario, elpais, google_news_es",4,Inditex sufre un ataque informático contra sus bases de datos,2026-04-16 01:09
-informático,5,2,22.07,100,"lavanguardia, okdiario, elpais, google_news_es",4,Inditex sufre un ataque informático contra sus bases de datos,2026-04-16 01:09
-sufre,5,3,14.71,100,"lavanguardia, okdiario, elpais, google_news_es, heraldo_aragon",5,Inditex sufre un ataque informático contra sus bases de datos,2026-04-16 01:09
-confesionario,3,0,5.0,100,"levante_emv, lavanguardia, 20minutos",3,"Guitarricadelafuente, nuevo invitado del confesionario en el concierto de Rosalía con un cambio inédito que sorprende al público",2026-04-16 01:09
-arbeloa,5,3,14.71,100,"elpais, google_news_es, levante_emv",3,Arbeloa culpa al árbitro tras la eliminación con el Bayern: “Es inexplicable la expulsión de Camavinga”,2026-04-16 01:09
-guitarricadelafuente,3,0,5.0,100,"levante_emv, lavanguardia, 20minutos",3,"Guitarricadelafuente, nuevo invitado del confesionario en el concierto de Rosalía con un cambio inédito que sorprende al público",2026-04-16 01:09
-ticketmaster,4,0,5.0,100,"elcorreo, bbc_mundo, levante_emv, elpais",4,Un jurado de EE UU falla que Ticketmaster actúa como monopolio ilegal en la venta de entradas,2026-04-16 01:09
-febrero,3,1,26.48,100,"elespanol, google_news_economia, huffington_es",3,España debe repartir 28.000 millones de fondos 'Next Generation' en seis meses tras adjudicar apenas 482 en febrero,2026-04-16 01:09
-polémica,4,6,5.88,100,"france24_es, google_news_es, levante_emv, elmundo",4,El papa llega a Camerún con un mensaje de paz en medio de la polémica por la arremetida de Trump,2026-04-16 01:09
-fondos,7,7,8.83,100,"elespanol, google_news_economia, google_news_politica, levante_emv, elcorreo",5,España debe repartir 28.000 millones de fondos 'Next Generation' en seis meses tras adjudicar apenas 482 en febrero,2026-04-16 01:09
-repartir,3,0,5.0,100,"elespanol, google_news_economia, elcorreo",3,España debe repartir 28.000 millones de fondos 'Next Generation' en seis meses tras adjudicar apenas 482 en febrero,2026-04-16 01:09
-recta,3,2,13.24,100,"elmundo, levante_emv, google_news_economia",3,Recta final a los pactos PP-Vox: el acuerdo de Extremadura servirá de modelo en Aragón y esperan cerrarlo la próxima semana,2026-04-16 01:09
-netanyahu,3,3,8.83,100,"elespanol, elpais, google_news_internacional",3,Trump presiona a Netanyahu para detener sus ataques contra Hezbolá en Líbano y mantener a flote las negociaciones con Irán,2026-04-16 01:09
-plantilla,3,4,6.62,100,"elmundo, elcorreo, google_news_es",3,"Los jefes de Indra, a la plantilla: ""Aquí hay mucho salseo. Hay que llevar a la empresa a una escala europea. O todos o ninguno""",2026-04-16 01:09
-generation,3,5,5.3,100,"elespanol, google_news_economia, elcorreo",3,España debe repartir 28.000 millones de fondos 'Next Generation' en seis meses tras adjudicar apenas 482 en febrero,2026-04-16 01:09
-último,3,5,5.3,100,"sur, elmundo_espana, elmundo",3,El último hombre en la Tierra,2026-04-16 01:09
-eliminatoria,7,5,12.36,100,"elespanol, levante_emv, elpais, okdiario, google_news_es",5,"Una expulsión que vale una temporada y por la que clama todo el Real Madrid: ""Se ha cargado la eliminatoria""",2026-04-16 01:09
-expulsión,4,5,7.06,100,"elespanol, elpais, elmundo_espana",3,"Una expulsión que vale una temporada y por la que clama todo el Real Madrid: ""Se ha cargado la eliminatoria""",2026-04-16 01:09
-jurado,4,0,5.0,100,"elcorreo, bbc_mundo, levante_emv, elpais",4,Un jurado de EE UU falla que Ticketmaster actúa como monopolio ilegal en la venta de entradas,2026-04-16 01:09
-adjudicar,5,4,11.03,100,"elespanol, google_news_economia, levante_emv, elcorreo",4,España debe repartir 28.000 millones de fondos 'Next Generation' en seis meses tras adjudicar apenas 482 en febrero,2026-04-16 01:09
-monopolio,4,0,5.0,100,"elcorreo, bbc_mundo, levante_emv, elpais",4,Un jurado de EE UU falla que Ticketmaster actúa como monopolio ilegal en la venta de entradas,2026-04-16 01:09
-camavinga,11,1,97.1,100,"elespanol, google_news_es, elpais, elmundo, levante_emv",5,¿Temeridad de Camavinga o exceso de rigor de Vincic?: dos amarillas en 8 minutos para apagar el sueño del Madrid,2026-04-16 01:09
-extremadura,3,5,5.3,100,"elespanol, elmundo, google_news_economia",3,"Vox intenta espaciar el anuncio de los pactos en Extremadura, Aragón y CyL para que el PP no pueda apuntarse el éxito",2026-04-16 01:09
-singer,10,0,5.0,100,"20minutos, google_news_internacional, okdiario",3,"La Fregona de 'Mask Singer', una leyenda mundial que deja al plató en shock: ""¡El mejor desenmascaramiento de la historia!""",2026-04-16 01:09
-israelíes,3,0,5.0,100,"elpais, elespanol, google_news_internacional",3,"Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Tres nuevos ataques israelíes en el sur de Líbano dejan al menos diez muertos",2026-04-16 01:09
-fregona,3,0,5.0,100,"20minutos, google_news_internacional, okdiario",3,"La Fregona de 'Mask Singer', una leyenda mundial que deja al plató en shock: ""¡El mejor desenmascaramiento de la historia!""",2026-04-16 01:09
-kicillof,4,1,35.31,100,google_news_politica,1,Kicillof va a España para buscar fondos y perfilarse como “antiMilei” - La Prensa Digital,2026-04-16 01:09
-transportes,5,9,4.9,98,"elespanol, elpais, elmundo",3,El exalto mando de Puertos encargado del contrato de mascarillas sitúa a Aldama en el núcleo de poder en Transportes,2026-04-16 01:09
-aldama,7,13,4.75,95,"elespanol, elmundo_espana, elpais, heraldo_aragon, elmundo",5,El exalto mando de Puertos encargado del contrato de mascarillas sitúa a Aldama en el núcleo de poder en Transportes,2026-04-16 01:09
-teletrabajo,4,8,4.41,88,"expansion, google_news_es, heraldo_aragon",3,Bruselas plantea un día de teletrabajo para ahorrar energía,2026-04-16 01:09
-miranda,3,6,4.41,88,elcorreo,1,El Polideportivo de Miranda se prepara ya para el verano antes de perder a cuatro trabajadores temporales,2026-04-16 01:09
-minutos,3,6,4.41,88,"elespanol, elmundo, google_news_es, google_news_economia",4,¿Temeridad de Camavinga o exceso de rigor de Vincic?: dos amarillas en 8 minutos para apagar el sueño del Madrid,2026-04-16 01:09
-firma,3,6,4.41,88,"elespanol, expansion, elcorreo, google_news_es, lavanguardia",5,REE pone en 'alerta' a Almaraz y Trillo para evitar apagones y confirma lo que decían sus técnicos: la nuclear es necesaria,2026-04-16 01:09
-ataque,5,10,4.41,88,"elpais, elespanol, google_news_internacional, lavanguardia, okdiario",5,"Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Tres nuevos ataques israelíes en el sur de Líbano dejan al menos diez muertos",2026-04-16 01:09
-pablo,8,17,4.15,83,"20minutos, huffington_es, okdiario, elcorreo, elpais",5,El devastador testimonio de Pablo Ojeda sobre su adicción al juego,2026-04-16 01:09
-jueves,7,15,4.12,82,"sur, 20minutos, europapress",3,Lo que desaparece y lo que se podrá servir solo una vez al mes en los comedores escolares desde este jueves,2026-04-16 01:09
-datos,5,11,4.01,80,"lavanguardia, okdiario, elpais, google_news_es",4,Inditex sufre un ataque informático contra sus bases de datos,2026-04-16 01:09
-indra,4,9,3.92,78,"elmundo, google_news_es, elcorreo",3,"Los jefes de Indra, a la plantilla: ""Aquí hay mucho salseo. Hay que llevar a la empresa a una escala europea. O todos o ninguno""",2026-04-16 01:09
-comprobar,4,9,3.92,78,"sur, okdiario, elpais",3,"Comprobar Lotería del miércoles, 15 de abril: resultados de la Bonoloto, del Cupón de la ONCE y de la Quiniela",2026-04-16 01:09
-libros,4,9,3.92,78,"elpais, okdiario, 20minutos, huffington_es",4,Pablo Motos y Sonsoles Ónega se disculpan tras afirmar erróneamente que los libros tienen el 21% de IVA: “Nadie comprobó el dato”,2026-04-16 01:09
-europeos,3,7,3.78,75,"elmundo_espana, levante_emv, google_news_economia",3,Vox marca distancias con Trump meses después que sus aliados europeos y cuida a Meloni tras caer Orban,2026-04-16 01:09
-ataques,3,7,3.78,75,"elpais, elespanol, google_news_internacional",3,"Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Tres nuevos ataques israelíes en el sur de Líbano dejan al menos diez muertos",2026-04-16 01:09
-máximos,3,7,3.78,75,"elmundo_espana, levante_emv, google_news_es",3,"""Algún día acabaremos a tortas, como en el Oeste"": el enfrentamiento llega a máximos en el Congreso",2026-04-16 01:09
-reunirá,3,7,3.78,75,google_news_politica,1,Kicillof llega a España para marcar diferencias con la política exterior de Milei: se reunirá con Lula y representantes del gobierno español – Motor Economico - Motor Economico,2026-04-16 01:09
-tregua,3,7,3.78,75,"expansion, elcorreo",2,Ibex: la tregua reconfigura los valores ganadores desde la guerra,2026-04-16 01:09
-cuenta,4,10,3.53,70,"elcorreo, huffington_es, 20minutos, elpais",4,Cancelan la cuenta a veinte usuarios por utilizar MugiBIKE para repartir comida,2026-04-16 01:09
-semifinales,9,23,3.45,69,"elpais, google_news_es, okdiario, heraldo_aragon",4,Un Arsenal rebajado se cita con el Atlético en las semifinales de la Champions,2026-04-16 01:09
-expansión,3,8,3.31,66,"google_news_es, expansion, google_news_internacional",3,"Las 'Big Four' ingresan un 9,2% más - Expansión",2026-04-16 01:09
-política,6,17,3.12,62,"google_news_politica, efe, lavanguardia, elcorreo, huffington_es",5,Kicillof desembarca en España con agenda política y económica para ganar protagonismo internacional - Opinando San Nicolás,2026-04-16 01:09
-motos,3,9,2.94,58,"elpais, 20minutos, huffington_es",3,Pablo Motos y Sonsoles Ónega se disculpan tras afirmar erróneamente que los libros tienen el 21% de IVA: “Nadie comprobó el dato”,2026-04-16 01:09
-puertos,3,9,2.94,58,"elespanol, elmundo",2,El exalto mando de Puertos encargado del contrato de mascarillas sitúa a Aldama en el núcleo de poder en Transportes,2026-04-16 01:09
-cámara,3,9,2.94,58,"google_news_economia, sur, huffington_es",3,Banco Santander y Cámara de España amplían el plazo para inscribirse en el Premio Pyme 2026 - Diario Sur,2026-04-16 01:09
-bilbao,3,9,2.94,58,elcorreo,1,La calle Autonomía cambia de cara para dejar de ser la frontera entre dos 'bilbaos',2026-04-16 01:09
-resultado,6,18,2.94,58,"google_news_es, sur, elcorreo, okdiario",4,"Bayern 4-3 Real Madrid: resumen, goles y resultado - Diario AS",2026-04-16 01:09
-miedo,3,9,2.94,58,"20minutos, lavanguardia, elcorreo",3,Pablo Alborán cuenta en 'El Hormiguero' el místico método con el que perdió su miedo a volar,2026-04-16 01:09
-media,3,9,2.94,58,"google_news_es, sur, expansion",3,Fármacos contra el alzhéimer no tienen efectos significativos - Science Media Centre España,2026-04-16 01:09
-liderazgo,3,9,2.94,58,expansion,1,EXPANSIÓN consolida su liderazgo total en audiencia,2026-04-16 01:09
-comienza,3,9,2.94,58,"sur, google_news_es, elpais",3,Comienza la tramitación de la Estrategia Andaluza de Tauromaquia,2026-04-16 01:09
-prepara,5,16,2.76,55,"google_news_internacional, expansion, elcorreo, heraldo_aragon",4,Munébrega se prepara para la XXVII Reunión Internacional del España Moto Guzzi Club del 1 al 3 de mayo - dukvi tv,2026-04-16 01:09
-navarra,3,10,2.65,52,"elmundo, google_news_es",2,26 restaurantes de Madrid se rinden a los sabores de Navarra,2026-04-16 01:09
-partir,3,10,2.65,52,"elespanol, google_news_economia, elcorreo, europapress",4,Bruselas teme que el decreto de regularización de Sánchez provoque el 'cierre de fronteras' de algún Estado a partir de julio,2026-04-16 01:09
-goles,3,10,2.65,52,"google_news_es, levante_emv",2,"Bayern 4-3 Real Madrid: resumen, goles y resultado - Diario AS",2026-04-16 01:09
-cuartos,3,10,2.65,52,google_news_es,1,Así te hemos contado la eliminación del Real Madrid en los cuartos de la Champions ante el Bayern - EL PAÍS,2026-04-16 01:09
-vitoria,4,14,2.52,50,elcorreo,1,Vitoria estrena una residencia pionera para estudiantes y profesionales con 45 plazas,2026-04-16 01:09
-queda,4,14,2.52,50,"elcorreo, google_news_es, elpais, huffington_es",4,"Trump, el látigo de Europa que ahora se queda al margen",2026-04-16 01:09
-verano,5,19,2.32,46,"elcorreo, expansion, google_news_es",3,Un nuevo retraso deja a Artxanda sin parque de aventura otro verano más,2026-04-16 01:09
-llega,6,23,2.3,46,"elespanol, france24_es, google_news_politica, google_news_internacional, elcorreo",5,La inflación llega al Congreso de los Diputados: el precio del menú sube un 24% y el del desayuno se dispara un 80%,2026-04-16 01:09
-champions,23,87,2.33,46,"google_news_es, elpais, okdiario, heraldo_aragon, levante_emv",5,Así te hemos contado la eliminación del Real Madrid en los cuartos de la Champions ante el Bayern - EL PAÍS,2026-04-16 01:09
-madrid,37,143,2.28,45,"elespanol, elmundo, google_news_es, expansion, levante_emv",5,¿Temeridad de Camavinga o exceso de rigor de Vincic?: dos amarillas en 8 minutos para apagar el sueño del Madrid,2026-04-16 01:09
-miércoles,9,35,2.27,45,"sur, elcorreo, okdiario, levante_emv, elpais",5,"Comprobar Lotería del miércoles, 15 de abril: resultados de la Bonoloto, del Cupón de la ONCE y de la Quiniela",2026-04-16 01:09
-quién,4,16,2.21,44,"google_news_es, okdiario",2,"Así quedan las semifinales de la Champions 2025/26: cuadro, fechas, horarios y quién juega la vuelta en casa - Diario AS",2026-04-16 01:09
-adiós,4,16,2.21,44,"heraldo_aragon, levante_emv, elmundo, google_news_es",4,El Real Madrid dice adiós a la Champions con orgullo tras caer contra el Bayern,2026-04-16 01:09
-final,12,49,2.16,43,"elmundo, levante_emv, google_news_economia, google_news_es, elpais",5,Recta final a los pactos PP-Vox: el acuerdo de Extremadura servirá de modelo en Aragón y esperan cerrarlo la próxima semana,2026-04-16 01:09
-elecciones,5,21,2.1,42,"elmundo, elmundo_espana, france24_es, 20minutos, levante_emv",5,"El Gobierno descarta un adelanto de las elecciones por el juicio a Begoña Gómez: ""Serán cuando toca que sean""",2026-04-16 01:09
-bruselas,5,22,2.01,40,"elespanol, expansion, 20minutos, heraldo_aragon",4,Bruselas teme que el decreto de regularización de Sánchez provoque el 'cierre de fronteras' de algún Estado a partir de julio,2026-04-16 01:09
-récord,3,13,2.04,40,"expansion, heraldo_aragon",2,Seis escenarios para la Bolsa tras el récord histórico de Wall Street,2026-04-16 01:09
-empresas,3,13,2.04,40,expansion,1,Cataluña: más fugas de empresas en el arranque de 2026 y Madrid vuelve a saldo positivo,2026-04-16 01:09
+fregona,3,0,5.0,100,"20minutos, google_news_internacional, okdiario",3,"La Fregona de 'Mask Singer', una leyenda mundial que deja al plató en shock: ""¡El mejor desenmascaramiento de la historia!""",2026-04-16 01:40
+milei,3,2,14.31,100,"elmundo, google_news_politica",2,"El FMI elogia al gobierno de Milei y le enviará mil millones de dólares, en medio de las crecientes tensiones económicas en Argentina",2026-04-16 01:40
+monopolio,4,0,5.0,100,"elcorreo, bbc_mundo, levante_emv, elpais",4,Un jurado de EE UU falla que Ticketmaster actúa como monopolio ilegal en la venta de entradas,2026-04-16 01:40
+kicillof,4,1,38.15,100,google_news_politica,1,Kicillof va a España para buscar fondos y perfilarse como “antiMilei” - La Prensa Digital,2026-04-16 01:40
+fechas,3,3,9.54,100,"sur, google_news_es",2,"Final Four de la BCL 2026: entradas, fechas y horarios",2026-04-16 01:40
+guitarricadelafuente,3,0,5.0,100,"levante_emv, lavanguardia, 20minutos",3,"Guitarricadelafuente, nuevo invitado del confesionario en el concierto de Rosalía con un cambio inédito que sorprende al público",2026-04-16 01:40
+invitado,3,0,5.0,100,"levante_emv, sur, lavanguardia",3,"Guitarricadelafuente, nuevo invitado del confesionario en el concierto de Rosalía con un cambio inédito que sorprende al público",2026-04-16 01:40
+confesionario,3,0,5.0,100,"levante_emv, lavanguardia, 20minutos",3,"Guitarricadelafuente, nuevo invitado del confesionario en el concierto de Rosalía con un cambio inédito que sorprende al público",2026-04-16 01:40
+rosalía,3,3,9.54,100,"levante_emv, lavanguardia, 20minutos",3,"Guitarricadelafuente, nuevo invitado del confesionario en el concierto de Rosalía con un cambio inédito que sorprende al público",2026-04-16 01:40
+negro,3,1,28.61,100,"elcorreo, 20minutos",2,Condenada por amenazar con «cortarle los huevos» a un niño al que llamó «puto negro» y «puto mono» en Aranda de Duero,2026-04-16 01:40
+acceso,4,3,12.72,100,"okdiario, elpais, google_news_es",3,Inditex sufre un ataque informático con acceso a bases de datos de sus filiales,2026-04-16 01:40
+ganar,4,4,9.54,100,"google_news_politica, elcorreo, sur, elpais",4,Kicillof desembarca en España con agenda política y económica para ganar protagonismo internacional - Opinando San Nicolás,2026-04-16 01:40
+reduce,3,2,14.31,100,"google_news_internacional, expansion, elcorreo",3,Decor Internacional apuesta por la sostenibilidad con una planta fotovoltaica que reduce 50 toneladas de CO₂ al año - El Día,2026-04-16 01:40
+bayern-real,5,2,23.84,100,"google_news_es, elmundo",2,¿Era segunda amarilla para Eduardo Camavinga? Iturralde González resuelve la jugada polémica del Bayern-Real Madrid - Cadena SER,2026-04-16 01:40
+ataque,5,9,5.3,100,"elpais, elespanol, google_news_internacional, lavanguardia, okdiario",5,"Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Tres nuevos ataques israelíes en el sur de Líbano dejan al menos diez muertos",2026-04-16 01:40
+alborán,5,0,5.0,100,"huffington_es, okdiario, 20minutos, elcorreo",4,Pablo Alborán cuenta lo que le pasó en un avión y deja a todos en shock: &quot;Se me pusieron los ojos para atrás&quot;,2026-04-16 01:40
+jurado,4,0,5.0,100,"elcorreo, bbc_mundo, levante_emv, elpais",4,Un jurado de EE UU falla que Ticketmaster actúa como monopolio ilegal en la venta de entradas,2026-04-16 01:40
+arbeloa,5,3,15.9,100,"elpais, google_news_es, levante_emv",3,Arbeloa culpa al árbitro tras la eliminación con el Bayern: “Es inexplicable la expulsión de Camavinga”,2026-04-16 01:40
+árbitro,6,4,14.31,100,"elpais, elmundo, levante_emv, google_news_es",4,Arbeloa culpa al árbitro tras la eliminación con el Bayern: “Es inexplicable la expulsión de Camavinga”,2026-04-16 01:40
+bayern,25,20,11.92,100,"google_news_es, elpais, elmundo, elcorreo, heraldo_aragon",5,¿Era segunda amarilla para Eduardo Camavinga? Iturralde González resuelve la jugada polémica del Bayern-Real Madrid - Cadena SER,2026-04-16 01:40
+múnich,17,17,9.54,100,"google_news_es, elpais, elmundo, elcorreo, lavanguardia",5,"Bayern Múnich - Real Madrid en directo | Arbeloa, sobre la roja a Camavinga: “No se puede expulsar a alguien por una acción así” - EL PAÍS",2026-04-16 01:40
+sufre,5,3,15.9,100,"lavanguardia, okdiario, elpais, google_news_es",4,Inditex sufre un ataque informático contra sus bases de datos,2026-04-16 01:40
+inditex,6,0,5.0,100,"lavanguardia, okdiario, elpais, google_news_es, huffington_es",5,Inditex sufre un ataque informático contra sus bases de datos,2026-04-16 01:40
+sporting,4,0,5.0,100,"okdiario, google_news_es, lavanguardia",3,El Arsenal neutraliza al Sporting y se cita en semifinales de Champions con el Atlético,2026-04-16 01:40
+street,3,5,5.72,100,"expansion, levante_emv, google_news_es",3,Seis escenarios para la Bolsa tras el récord histórico de Wall Street,2026-04-16 01:40
+reforzar,6,8,7.15,100,"expansion, elpais, google_news_internacional, levante_emv, google_news_economia",5,Deutsche Bank ficha en UBS para reforzar su banca de inversión en España,2026-04-16 01:40
+mitad,3,4,7.15,100,"expansion, google_news_es, elpais",3,VMO2 reduce a casi la mitad el dividendo a Telefónica en 2025,2026-04-16 01:40
+cupón,3,4,7.15,100,"sur, okdiario",2,"Comprobar Lotería del miércoles, 15 de abril: resultados de la Bonoloto, del Cupón de la ONCE y de la Quiniela",2026-04-16 01:40
+bonoloto,5,8,5.96,100,"sur, elcorreo, okdiario, levante_emv",4,"Comprobar Lotería del miércoles, 15 de abril: resultados de la Bonoloto, del Cupón de la ONCE y de la Quiniela",2026-04-16 01:40
+arsenal,8,0,5.0,100,"elpais, google_news_es, okdiario, levante_emv, lavanguardia",5,Un Arsenal rebajado se cita con el Atlético en las semifinales de la Champions,2026-04-16 01:40
+ticketmaster,4,0,5.0,100,"elcorreo, bbc_mundo, levante_emv, elpais",4,Un jurado de EE UU falla que Ticketmaster actúa como monopolio ilegal en la venta de entradas,2026-04-16 01:40
+eliminado,4,1,38.15,100,"google_news_es, elpais, huffington_es, sur",4,Bayern Múnich - Real Madrid en directo | El Madrid cae en Múnich ante el Bayern y queda eliminado de la Champions - EL PAÍS,2026-04-16 01:40
+bases,5,5,9.54,100,"lavanguardia, okdiario, elpais, google_news_es",4,Inditex sufre un ataque informático contra sus bases de datos,2026-04-16 01:40
+extremadura,3,5,5.72,100,"elespanol, elmundo, google_news_economia",3,"Vox intenta espaciar el anuncio de los pactos en Extremadura, Aragón y CyL para que el PP no pueda apuntarse el éxito",2026-04-16 01:40
+israelíes,3,0,5.0,100,"elpais, elespanol, google_news_internacional",3,"Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Tres nuevos ataques israelíes en el sur de Líbano dejan al menos diez muertos",2026-04-16 01:40
+obligatorio,3,4,7.15,100,"google_news_es, heraldo_aragon",2,La UE planteará teletrabajo obligatorio y reducir la velocidad en autopistas si se prolonga el cierre de Ormuz - ABC,2026-04-16 01:40
+camavinga,11,1,104.91,100,"elespanol, google_news_es, elpais, elmundo, levante_emv",5,¿Temeridad de Camavinga o exceso de rigor de Vincic?: dos amarillas en 8 minutos para apagar el sueño del Madrid,2026-04-16 01:40
+máscara,4,0,5.0,100,okdiario,1,"Pistas y teorías de Bocata de Calamares, máscara de ‘Mask Singer 5’",2026-04-16 01:40
+expulsión,4,5,7.63,100,"elespanol, elpais, elmundo_espana",3,"Una expulsión que vale una temporada y por la que clama todo el Real Madrid: ""Se ha cargado la eliminatoria""",2026-04-16 01:40
+eliminatoria,7,3,22.25,100,"elespanol, levante_emv, elpais, okdiario, google_news_es",5,"Una expulsión que vale una temporada y por la que clama todo el Real Madrid: ""Se ha cargado la eliminatoria""",2026-04-16 01:40
+teorías,7,0,5.0,100,"okdiario, google_news_es",2,Todas las pistas de Caracol de ‘Mask Singer 5’: teorías para saber quién es,2026-04-16 01:40
+último,3,5,5.72,100,"sur, elmundo_espana, elmundo",3,El último hombre en la Tierra,2026-04-16 01:40
+‘mask,6,0,5.0,100,okdiario,1,Todas las pistas de Caracol de ‘Mask Singer 5’: teorías para saber quién es,2026-04-16 01:40
+planes,3,3,9.54,100,"elespanol, sur",2,"El Pentágono intensifica sus planes para una posible intervención militar en Cuba, según medios estadounidenses",2026-04-16 01:40
+informático,5,2,23.84,100,"lavanguardia, okdiario, elpais, google_news_es",4,Inditex sufre un ataque informático contra sus bases de datos,2026-04-16 01:40
+mbappé,3,3,9.54,100,"elcorreo, elpais",2,MBappé hace el tercero para empatar la eliminatoria,2026-04-16 01:40
+pistas,7,1,66.76,100,"okdiario, google_news_internacional, google_news_es",3,Todas las pistas de Caracol de ‘Mask Singer 5’: teorías para saber quién es,2026-04-16 01:40
+netanyahu,3,3,9.54,100,"elespanol, elpais, google_news_internacional",3,Trump presiona a Netanyahu para detener sus ataques contra Hezbolá en Líbano y mantener a flote las negociaciones con Irán,2026-04-16 01:40
+tregua,4,7,5.45,100,"france24_es, expansion, elcorreo",3,Informe desde Beirut: rumores de posible tregua Israel-Hezbolá en medio de negociaciones,2026-04-16 01:40
+comprobó,3,0,5.0,100,"elpais, 20minutos, huffington_es",3,Pablo Motos y Sonsoles Ónega se disculpan tras afirmar erróneamente que los libros tienen el 21% de IVA: “Nadie comprobó el dato”,2026-04-16 01:40
+repartir,3,0,5.0,100,"elespanol, google_news_economia, elcorreo",3,España debe repartir 28.000 millones de fondos 'Next Generation' en seis meses tras adjudicar apenas 482 en febrero,2026-04-16 01:40
+fondos,7,7,9.54,100,"elespanol, google_news_economia, google_news_politica, levante_emv, elcorreo",5,España debe repartir 28.000 millones de fondos 'Next Generation' en seis meses tras adjudicar apenas 482 en febrero,2026-04-16 01:40
+generation,3,5,5.72,100,"elespanol, google_news_economia, elcorreo",3,España debe repartir 28.000 millones de fondos 'Next Generation' en seis meses tras adjudicar apenas 482 en febrero,2026-04-16 01:40
+adjudicar,5,4,11.92,100,"elespanol, google_news_economia, levante_emv, elcorreo",4,España debe repartir 28.000 millones de fondos 'Next Generation' en seis meses tras adjudicar apenas 482 en febrero,2026-04-16 01:40
+singer,11,0,5.0,100,"google_news_internacional, 20minutos, okdiario",3,"'Mask Singer 5' desenmascaró a una estrella internacional del deporte y a un actor, y Almeida entró en las quinielas - elDiario.es",2026-04-16 01:40
+estrella,3,4,7.15,100,"google_news_internacional, google_news_economia",2,"'Mask Singer 5' desenmascaró a una estrella internacional del deporte y a un actor, y Almeida entró en las quinielas - elDiario.es",2026-04-16 01:40
+recta,3,2,14.31,100,"elmundo, levante_emv, google_news_economia",3,Recta final a los pactos PP-Vox: el acuerdo de Extremadura servirá de modelo en Aragón y esperan cerrarlo la próxima semana,2026-04-16 01:40
+tercero,3,0,5.0,100,"elcorreo, elpais",2,MBappé hace el tercero para empatar la eliminatoria,2026-04-16 01:40
+pactos,3,2,14.31,100,"elespanol, elmundo",2,"Vox intenta espaciar el anuncio de los pactos en Extremadura, Aragón y CyL para que el PP no pueda apuntarse el éxito",2026-04-16 01:40
+sorteo,5,10,4.77,95,"sur, okdiario, levante_emv",3,"Resultado del sorteo de la Quiniela del miércoles, 15 de abril de 2026",2026-04-16 01:40
+miranda,3,6,4.77,95,elcorreo,1,El Polideportivo de Miranda se prepara ya para el verano antes de perder a cuatro trabajadores temporales,2026-04-16 01:40
+teletrabajo,4,8,4.77,95,"expansion, google_news_es, heraldo_aragon",3,Bruselas plantea un día de teletrabajo para ahorrar energía,2026-04-16 01:40
+pablo,8,17,4.49,89,"20minutos, huffington_es, okdiario, elcorreo, elpais",5,El devastador testimonio de Pablo Ojeda sobre su adicción al juego,2026-04-16 01:40
+datos,5,11,4.34,86,"lavanguardia, okdiario, elpais, google_news_es",4,Inditex sufre un ataque informático contra sus bases de datos,2026-04-16 01:40
+libros,4,9,4.24,84,"elpais, okdiario, 20minutos, huffington_es",4,Pablo Motos y Sonsoles Ónega se disculpan tras afirmar erróneamente que los libros tienen el 21% de IVA: “Nadie comprobó el dato”,2026-04-16 01:40
+semifinales,10,23,4.15,82,"elpais, google_news_es, okdiario, heraldo_aragon",4,Un Arsenal rebajado se cita con el Atlético en las semifinales de la Champions,2026-04-16 01:40
+ataques,3,7,4.09,81,"elpais, elespanol, google_news_internacional",3,"Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Tres nuevos ataques israelíes en el sur de Líbano dejan al menos diez muertos",2026-04-16 01:40
+reunirá,3,7,4.09,81,google_news_politica,1,Kicillof llega a España para marcar diferencias con la política exterior de Milei: se reunirá con Lula y representantes del gobierno español – Motor Economico - Motor Economico,2026-04-16 01:40
+polémica,3,7,4.09,81,"france24_es, google_news_es, levante_emv",3,El papa llega a Camerún con un mensaje de paz en medio de la polémica por la arremetida de Trump,2026-04-16 01:40
+máximos,3,7,4.09,81,"elmundo_espana, levante_emv, google_news_es",3,"""Algún día acabaremos a tortas, como en el Oeste"": el enfrentamiento llega a máximos en el Congreso",2026-04-16 01:40
+europeos,3,7,4.09,81,"elmundo_espana, levante_emv, google_news_economia",3,Vox marca distancias con Trump meses después que sus aliados europeos y cuida a Meloni tras caer Orban,2026-04-16 01:40
+cuenta,4,10,3.81,76,"elcorreo, huffington_es, 20minutos, elpais",4,Cancelan la cuenta a veinte usuarios por utilizar MugiBIKE para repartir comida,2026-04-16 01:40
+expansión,3,8,3.58,71,"google_news_es, expansion, google_news_internacional",3,"Las 'Big Four' ingresan un 9,2% más - Expansión",2026-04-16 01:40
+jueves,6,16,3.58,71,"sur, 20minutos, europapress",3,Lo que desaparece y lo que se podrá servir solo una vez al mes en los comedores escolares desde este jueves,2026-04-16 01:40
+comienza,3,8,3.58,71,"sur, google_news_es, elpais",3,Comienza la tramitación de la Estrategia Andaluza de Tauromaquia,2026-04-16 01:40
+política,6,17,3.37,67,"google_news_politica, efe, lavanguardia, elcorreo",4,Kicillof desembarca en España con agenda política y económica para ganar protagonismo internacional - Opinando San Nicolás,2026-04-16 01:40
+resultado,6,17,3.37,67,"google_news_es, sur, elcorreo, okdiario",4,"Bayern 4-3 Real Madrid: resumen, goles y resultado - Diario AS",2026-04-16 01:40
+miedo,3,9,3.18,63,"france24_es, 20minutos, lavanguardia, elcorreo",4,"“Iré hasta el final, no tengo miedo”: una exmodelo brasileña confronta a los Trump por el caso Epstein",2026-04-16 01:40
+comprobar,3,9,3.18,63,"sur, okdiario",2,"Comprobar Lotería del miércoles, 15 de abril: resultados de la Bonoloto, del Cupón de la ONCE y de la Quiniela",2026-04-16 01:40
+motos,3,9,3.18,63,"elpais, 20minutos, huffington_es",3,Pablo Motos y Sonsoles Ónega se disculpan tras afirmar erróneamente que los libros tienen el 21% de IVA: “Nadie comprobó el dato”,2026-04-16 01:40
+goles,3,9,3.18,63,"google_news_es, levante_emv",2,"Bayern 4-3 Real Madrid: resumen, goles y resultado - Diario AS",2026-04-16 01:40
+liderazgo,3,9,3.18,63,expansion,1,EXPANSIÓN consolida su liderazgo total en audiencia,2026-04-16 01:40
+transportes,3,9,3.18,63,"elespanol, elpais",2,El exalto mando de Puertos encargado del contrato de mascarillas sitúa a Aldama en el núcleo de poder en Transportes,2026-04-16 01:40
+cámara,3,9,3.18,63,"google_news_economia, sur",2,Banco Santander y Cámara de España amplían el plazo para inscribirse en el Premio Pyme 2026 - Diario Sur,2026-04-16 01:40
+prepara,5,16,2.98,59,"google_news_internacional, expansion, elcorreo, heraldo_aragon",4,Munébrega se prepara para la XXVII Reunión Internacional del España Moto Guzzi Club del 1 al 3 de mayo - dukvi tv,2026-04-16 01:40
+queda,4,13,2.93,58,"elcorreo, google_news_es, elpais, huffington_es",4,"Trump, el látigo de Europa que ahora se queda al margen",2026-04-16 01:40
+cuartos,3,10,2.86,57,google_news_es,1,Así te hemos contado la eliminación del Real Madrid en los cuartos de la Champions ante el Bayern - EL PAÍS,2026-04-16 01:40
+champions,25,83,2.87,57,"google_news_es, elpais, okdiario, heraldo_aragon, levante_emv",5,Bayern Múnich elimina al Real Madrid y avanza en Champions - DW.com,2026-04-16 01:40
+partir,3,10,2.86,57,"elespanol, google_news_economia, elcorreo, europapress",4,Bruselas teme que el decreto de regularización de Sánchez provoque el 'cierre de fronteras' de algún Estado a partir de julio,2026-04-16 01:40
+vitoria,4,14,2.72,54,elcorreo,1,Vitoria estrena una residencia pionera para estudiantes y profesionales con 45 plazas,2026-04-16 01:40
+aldama,4,14,2.72,54,"elespanol, elmundo_espana, elpais",3,El exalto mando de Puertos encargado del contrato de mascarillas sitúa a Aldama en el núcleo de poder en Transportes,2026-04-16 01:40
+quién,4,15,2.54,50,"google_news_es, okdiario",2,"Así quedan las semifinales de la Champions 2025/26: cuadro, fechas, horarios y quién juega la vuelta en casa - Diario AS",2026-04-16 01:40
+madrid,37,139,2.54,50,"elespanol, elmundo, google_news_es, expansion, levante_emv",5,¿Temeridad de Camavinga o exceso de rigor de Vincic?: dos amarillas en 8 minutos para apagar el sueño del Madrid,2026-04-16 01:40
+llega,6,23,2.49,49,"elespanol, france24_es, google_news_politica, google_news_internacional, elcorreo",5,La inflación llega al Congreso de los Diputados: el precio del menú sube un 24% y el del desayuno se dispara un 80%,2026-04-16 01:40
+adiós,4,16,2.38,47,"heraldo_aragon, levante_emv, elmundo, google_news_es",4,El Real Madrid dice adiós a la Champions con orgullo tras caer contra el Bayern,2026-04-16 01:40
+league,8,32,2.38,47,"google_news_es, okdiario, levante_emv",3,Así quedó el cuadro de semifinales de la Champions League 2025-2026 - Yahoo,2026-04-16 01:40
+líbano,6,25,2.29,45,"elpais, elespanol, google_news_internacional, elcorreo",4,"Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Tres nuevos ataques israelíes en el sur de Líbano dejan al menos diez muertos",2026-04-16 01:40
+empresas,3,13,2.2,44,expansion,1,Cataluña: más fugas de empresas en el arranque de 2026 y Madrid vuelve a saldo positivo,2026-04-16 01:40
+récord,3,13,2.2,44,"expansion, heraldo_aragon",2,Seis escenarios para la Bolsa tras el récord histórico de Wall Street,2026-04-16 01:40
+debate,3,13,2.2,44,"france24_es, lavanguardia, google_news_es",3,Francia debate nueva ley sobre antisemitismo,2026-04-16 01:40
+miércoles,8,35,2.18,43,"sur, elcorreo, okdiario, levante_emv",4,"Comprobar Lotería del miércoles, 15 de abril: resultados de la Bonoloto, del Cupón de la ONCE y de la Quiniela",2026-04-16 01:40
+bruselas,5,22,2.17,43,"elespanol, expansion, 20minutos, heraldo_aragon",4,Bruselas teme que el decreto de regularización de Sánchez provoque el 'cierre de fronteras' de algún Estado a partir de julio,2026-04-16 01:40
+final,11,51,2.06,41,"france24_es, elmundo, levante_emv, google_news_economia, google_news_es",5,"“Iré hasta el final, no tengo miedo”: una exmodelo brasileña confronta a los Trump por el caso Epstein",2026-04-16 01:40
+medio,4,19,2.01,40,"elmundo, elespanol, france24_es, elpais",4,"El FMI elogia al gobierno de Milei y le enviará mil millones de dólares, en medio de las crecientes tensiones económicas en Argentina",2026-04-16 01:40
+sevilla,3,14,2.04,40,"google_news_internacional, heraldo_aragon, elmundo",3,"Partido internacional, no interconfesional - Diario de Sevilla",2026-04-16 01:40
