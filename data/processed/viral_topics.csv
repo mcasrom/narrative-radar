@@ -1,51 +1,70 @@
 keyword,count_now,count_base,ratio,viral_score,sources,n_sources,sample_title,detected_at
-países,7,10,9.85,100,"elpais_internacional, google_news_internacional, elespanol, expansion, google_news_economia",5,El Tribunal de Justicia de la ONU cumple 80 años cuestionado por países como EE UU e Israel,2026-04-17 04:10
-márquez,3,1,42.23,100,okdiario,1,"Kika Márquez, la universitaria que dejó su vida en el extranjero por su pasión por el campo mallorquín",2026-04-17 04:10
-siempre,3,7,6.03,100,"heraldo_aragon, elcorreo",2,"Miguel Ángel Lamata: ""La vida me ha llevado hacia la comedia, pero el terror ha sido siempre mi debilidad",2026-04-17 04:10
-relaciones,5,4,17.6,100,"google_news_es, elpais_espana",2,La querella de la exedil de Móstoles contra el alcalde: “Tras mi negativa a mantener relaciones sexuales comenzaron el aislamiento y la discriminación” - EL PAÍS,2026-04-17 04:10
-restablece,3,0,5.0,100,"google_news_internacional, google_news_es",2,Ampliación | El FMI restablece sus vínculos con Venezuela tras más de siete años de parón - Demócrata,2026-04-17 04:10
-identidades,3,0,5.0,100,"elpais_internacional, google_news_internacional, elcorreo",3,"Los buques desafían los bloqueos en Ormuz con identidades falsas, transpondedores apagados y la técnica del ‘spoofing’",2026-04-17 04:10
-buques,3,1,42.23,100,"elpais_internacional, google_news_internacional, 20minutos",3,"Los buques desafían los bloqueos en Ormuz con identidades falsas, transpondedores apagados y la técnica del ‘spoofing’",2026-04-17 04:10
-izquierda,5,12,5.87,100,"huffington_es, google_news_internacional, elpais_espana, 20minutos, elcorreo",5,Las cinco cosas que tienes que saber sobre la Movilización Progresista Mundial de Barcelona donde se reúne la izquierda global,2026-04-17 04:10
-reúne,3,7,6.03,100,"huffington_es, google_news_internacional, heraldo_aragon",3,Las cinco cosas que tienes que saber sobre la Movilización Progresista Mundial de Barcelona donde se reúne la izquierda global,2026-04-17 04:10
-vozpopuli,3,3,14.08,100,"google_news_politica, google_news_economia",2,Moncloa incentiva que la regularización masiva recaiga en cinco feudos del PP - Vozpopuli,2026-04-17 04:10
-netflix,3,8,5.28,100,"20minutos, huffington_es, levante_emv",3,El director de la Trilogía del Baztán une fuerzas con los Javis: así es su remake de un clásico español en Netflix,2026-04-17 04:10
-tienes,3,4,10.56,100,"huffington_es, google_news_internacional, okdiario",3,Las cinco cosas que tienes que saber sobre la Movilización Progresista Mundial de Barcelona donde se reúne la izquierda global,2026-04-17 04:10
-progresista,3,3,14.08,100,"huffington_es, google_news_internacional, elpais_espana, elespanol",4,Las cinco cosas que tienes que saber sobre la Movilización Progresista Mundial de Barcelona donde se reúne la izquierda global,2026-04-17 04:10
-unido,3,5,8.45,100,"bbc_mundo, google_news_internacional, expansion",3,Cómo una red clandestina de abogados alienta a migrantes a fingir ser homosexuales para obtener asilo en Reino Unido,2026-04-17 04:10
-reino,3,5,8.45,100,"bbc_mundo, google_news_internacional, expansion",3,Cómo una red clandestina de abogados alienta a migrantes a fingir ser homosexuales para obtener asilo en Reino Unido,2026-04-17 04:10
-podrá,3,4,10.56,100,"heraldo_aragon, elespanol, elmundo, expansion",4,Inclusión: las personas con discapacidad visual podrán vivir el eclipse de sol a través del sonido,2026-04-17 04:10
-apagón,3,8,5.28,100,"okdiario, google_news_economia, elespanol",3,Portugal señala a Red Eléctrica como culpable del apagón y baraja pedir una indemnización a España,2026-04-17 04:10
-magyar,3,3,14.08,100,"elmundo, google_news_internacional, elcorreo",3,Magyar afronta el reto de desmontar la máquina de propaganda sin crear una nueva,2026-04-17 04:10
-investiga,3,7,6.03,100,"okdiario, heraldo_aragon, elmundo, sur, elcorreo",5,La Audiencia Nacional investiga el impago de 315 millones que Mañueco reclama a Sánchez,2026-04-17 04:10
-militar,3,9,4.69,93,"elespanol, elpais",2,EEUU eleva su relación militar con Marruecos: durante 10 años podrá comprar las mismas armas que los países de la OTAN,2026-04-17 04:10
-saber,3,9,4.69,93,"huffington_es, google_news_internacional, elconfidencial",3,Las cinco cosas que tienes que saber sobre la Movilización Progresista Mundial de Barcelona donde se reúne la izquierda global,2026-04-17 04:10
-puente,3,10,4.22,84,"okdiario, elconfidencial, google_news_internacional",3,Récord de averías en los Cercanías de Madrid tras presumir Puente de que «el tren vive la mejor época de su historia»,2026-04-17 04:10
-global,3,10,4.22,84,"huffington_es, google_news_internacional, elpais_espana",3,Las cinco cosas que tienes que saber sobre la Movilización Progresista Mundial de Barcelona donde se reúne la izquierda global,2026-04-17 04:10
-masiva,3,11,3.84,76,"google_news_politica, 20minutos, france24_es",3,Moncloa incentiva que la regularización masiva recaiga en cinco feudos del PP - Vozpopuli,2026-04-17 04:10
-bilbao,3,11,3.84,76,elcorreo,1,Zudaire dejará la presidencia de la Cámara de Bilbao para dedicarse en exclusiva a Petronor,2026-04-17 04:10
-claves,4,15,3.75,75,"elconfidencial, el_confidencial_tech, 20minutos, elmundo",4,"Los enclaves madrileños caídos en el olvido: puentes, presas y acueductos",2026-04-17 04:10
-nacional,4,16,3.52,70,"okdiario, elpais, google_news_internacional, elconfidencial, google_news_es",5,La Audiencia Nacional investiga el impago de 315 millones que Mañueco reclama a Sánchez,2026-04-17 04:10
-premios,3,12,3.52,70,"elconfidencial, heraldo_aragon, google_news_internacional",3,Dos videojuegos de Zamora y Valladolid con premios internacionales relanzan el sector en CyL,2026-04-17 04:10
-sánchez,13,54,3.39,67,"okdiario, elpais_espana, google_news_internacional, 20minutos, huffington_es",5,La Audiencia Nacional investiga el impago de 315 millones que Mañueco reclama a Sánchez,2026-04-17 04:10
-venezuela,6,25,3.38,67,"heraldo_aragon, google_news_internacional, google_news_es, expansion",4,"Ante la regularización: ""Los documentos son más fáciles de sacar desde Colombia. Venezuela es más complicado""",2026-04-17 04:10
-cadena,4,17,3.31,66,google_news_es,1,"Isi Palazón celebra una noche histórica para el Rayo Vallecano en Atenas: ""Me cuesta ser consciente de lo que hemos conseguido"" - Cadena SER",2026-04-17 04:10
-mundial,4,17,3.31,66,"huffington_es, google_news_internacional, google_news_es, elcorreo",4,Las cinco cosas que tienes que saber sobre la Movilización Progresista Mundial de Barcelona donde se reúne la izquierda global,2026-04-17 04:10
-ahora,4,17,3.31,66,"okdiario, elpais_internacional, google_news_economia, google_news_es",4,"Isabel Pardo de Vera: «He tenido una fase de shock, nunca imaginé estar en esta situación, ahora estoy en una fase de aceptación»",2026-04-17 04:10
-cáncer,3,14,3.02,60,"google_news_es, elespanol",2,Las células infieles: la pista clave para anticipar el cáncer de mama - La Voz de Galicia,2026-04-17 04:10
-partido,3,14,3.02,60,"elconfidencial, elespanol, google_news_es",3,Las campañas opuestas de PSOE y PP: Montero implica a todo el partido y Moreno solo a Feijóo,2026-04-17 04:10
-ayuso,3,14,3.02,60,"okdiario, elconfidencial, 20minutos",3,Ayuso impulsa un proyecto de Boeing en Madrid para desarrollar taxis voladores,2026-04-17 04:10
-viernes,4,19,2.96,59,"okdiario, levante_emv, 20minutos",3,"Los OK y KO del viernes, 17 de abril de 2026",2026-04-17 04:10
-policía,4,19,2.96,59,"okdiario, heraldo_aragon, elcorreo, google_news_es",4,Los policías y guardias civiles se manifiestan,2026-04-17 04:10
-estrecho,3,15,2.82,56,"google_news_internacional, 20minutos, google_news_es",3,Reino Unido y Francia reúnen a países “no beligerantes” para reabrir el estrecho Ormuz con la ausencia de Pedro Sánchez - Infobae,2026-04-17 04:10
-siete,3,15,2.82,56,"google_news_internacional, google_news_es",2,Ampliación | El FMI restablece sus vínculos con Venezuela tras más de siete años de parón - Demócrata,2026-04-17 04:10
-feijóo,3,16,2.64,52,"elconfidencial, 20minutos",2,Las campañas opuestas de PSOE y PP: Montero implica a todo el partido y Moreno solo a Feijóo,2026-04-17 04:10
-hacia,3,16,2.64,52,"elpais_internacional, heraldo_aragon, levante_emv",3,Los drones terrestres impulsan a Ucrania hacia la infantería robotizada,2026-04-17 04:10
-ormuz,7,38,2.59,51,"elpais_internacional, google_news_internacional, 20minutos, elespanol, google_news_es",5,"Los buques desafían los bloqueos en Ormuz con identidades falsas, transpondedores apagados y la técnica del ‘spoofing’",2026-04-17 04:10
-migrantes,5,28,2.51,50,"levante_emv, okdiario, bbc_mundo, france24_es, 20minutos",5,"Efrain y su pareja, los dos de Colombia, inician el proceso de regularización de inmigrantes",2026-04-17 04:10
-informe,3,18,2.35,46,"heraldo_aragon, elespanol, elcorreo",3,Informe y ley,2026-04-17 04:10
-semana,4,25,2.25,45,"heraldo_aragon, 20minutos, okdiario, elmundo, google_news_politica",5,"Las buenas noticias de la semana, según HERALDO DE ARAGÓN: un enorme hito para Zaragoza y avances prometedores",2026-04-17 04:10
-banco,4,25,2.25,45,"google_news_economia, google_news_es, elespanol, google_news_politica",4,El Banco de España revela que solo un grupo de edad tiene más ingresos ahora que hace 22 años - El Confidencial,2026-04-17 04:10
-antes,4,26,2.17,43,"levante_emv, okdiario, bbc_mundo, france24_es, elpais_internacional",5,"Efrain y su pareja, los dos de Colombia, inician el proceso de regularización de inmigrantes",2026-04-17 04:10
-proceso,3,20,2.11,42,"levante_emv, france24_es, elcorreo",3,"Efrain y su pareja, los dos de Colombia, inician el proceso de regularización de inmigrantes",2026-04-17 04:10
-cinco,4,28,2.01,40,"huffington_es, google_news_internacional, google_news_politica, expansion",4,Las cinco cosas que tienes que saber sobre la Movilización Progresista Mundial de Barcelona donde se reúne la izquierda global,2026-04-17 04:10
+tienes,3,4,8.3,100,"huffington_es, google_news_internacional, okdiario",3,Las cinco cosas que tienes que saber sobre la Movilización Progresista Mundial de Barcelona donde se reúne la izquierda global,2026-04-17 04:40
+corina,3,6,5.53,100,"elpais, 20minutos",2,¿Delcy o María Corina? A quién prefieren los venezolanos para liderar la transición,2026-04-17 04:40
+saber,5,9,6.15,100,"huffington_es, google_news_internacional, elpais, elconfidencial",4,Las cinco cosas que tienes que saber sobre la Movilización Progresista Mundial de Barcelona donde se reúne la izquierda global,2026-04-17 04:40
+progresista,3,3,11.06,100,"huffington_es, google_news_internacional, elpais_espana, elespanol",4,Las cinco cosas que tienes que saber sobre la Movilización Progresista Mundial de Barcelona donde se reúne la izquierda global,2026-04-17 04:40
+buques,3,1,33.19,100,"elpais_internacional, google_news_internacional, 20minutos",3,"Los buques desafían los bloqueos en Ormuz con identidades falsas, transpondedores apagados y la técnica del ‘spoofing’",2026-04-17 04:40
+relaciones,6,4,16.6,100,"google_news_es, elpais_espana, elpais",3,La querella de la exedil de Móstoles contra el alcalde: “Tras mi negativa a mantener relaciones sexuales comenzaron el aislamiento y la discriminación” - EL PAÍS,2026-04-17 04:40
+sitio,3,1,33.19,100,"google_news_es, elpais",2,"Willem Dafoe: “Vivo cerca de Roma, en una granja de alpacas, es el mejor sitio para ver el río de la vida” - EL PAÍS",2026-04-17 04:40
+fuerzas,3,6,5.53,100,"elpais_espana, elpais, 20minutos",3,Las fuerzas progresistas buscan nuevo impulso global en Barcelona,2026-04-17 04:40
+inclusión,3,4,8.3,100,"elpais, google_news_internacional, heraldo_aragon",3,"Edward Enninful, un activista en la moda: “Hay que abogar por la inclusión radical. No es ninguna tendencia, es la realidad”",2026-04-17 04:40
+afronta,3,4,8.3,100,"elpais, elmundo, google_news_internacional",3,"‘Un poeta’, un director que afronta riesgos y los supera",2026-04-17 04:40
+cosas,3,1,33.19,100,"huffington_es, google_news_internacional",2,"La nueva versión de &#039;Mi querida señorita&#039; quiere visibilizar la intersexualidad: &quot;No cabía sugerir, había que contar las cosas de frente&quot;",2026-04-17 04:40
+crime,3,0,5.0,100,"elpais, okdiario, levante_emv, elespanol",4,"Detrás del crimen: los suscriptores de EL PAÍS escuchan en primicia un adelanto de ‘Rojo oscuro casi negro’, el nuevo pódcast de la SER",2026-04-17 04:40
+década,3,6,5.53,100,"elpais, google_news_es",2,El auditorio de Calatrava de Santa Cruz de Tenerife empezará unas obras que durarán 32 meses tras una década sufriendo goteras,2026-04-17 04:40
+espacio,3,4,8.3,100,"elpais, heraldo_aragon, el_confidencial_tech, google_news_es",4,"De Eduardo Mendoza a Guitarricadelafuente: ‘Sukha’, el espacio abierto que busca su sitio en la televisión vespertina",2026-04-17 04:40
+machado,3,5,6.64,100,20minutos,1,Sánchez y Feijóo confrontan el fin de semana su agenda exterior: tres cumbres de izquierda frente al respaldo público a Machado,2026-04-17 04:40
+restablece,4,0,5.0,100,"google_news_internacional, google_news_es, elpais",3,Ampliación | El FMI restablece sus vínculos con Venezuela tras más de siete años de parón - Demócrata,2026-04-17 04:40
+vozpopuli,4,3,14.75,100,"google_news_politica, google_news_economia",2,Moncloa incentiva que la regularización masiva recaiga en cinco feudos del PP - Vozpopuli,2026-04-17 04:40
+márquez,3,1,33.19,100,okdiario,1,"Kika Márquez, la universitaria que dejó su vida en el extranjero por su pasión por el campo mallorquín",2026-04-17 04:40
+global,5,10,5.53,100,"elpais, huffington_es, google_news_internacional, elpais_espana, eldiario",5,El miedo a la escasez agrieta la adicción global al petróleo,2026-04-17 04:40
+podrá,3,4,8.3,100,"heraldo_aragon, elespanol, elmundo, expansion",4,Inclusión: las personas con discapacidad visual podrán vivir el eclipse de sol a través del sonido,2026-04-17 04:40
+cerca,4,3,14.75,100,"eldiario, levante_emv, okdiario, elpais, google_news_es",5,Las temperaturas se acercan a los 30 grados en Madrid este viernes antes del posible regreso de las lluvias,2026-04-17 04:40
+conexión,4,0,5.0,100,"levante_emv, google_news_es, elpais",3,Así se ha estrenado la conexión por autobús a Parc Sagunt,2026-04-17 04:40
+única,3,3,11.06,100,"levante_emv, elpais_internacional, 20minutos",3,"El valenciano de Benifairó, Simat, Barx y Tavernes de la Valldigna: una variedad única entre la Safor y la Ribera",2026-04-17 04:40
+ahora,8,18,4.92,98,"huffington_es, google_news_economia, levante_emv, okdiario, elpais_internacional",5,Ni Élite ni La casa de papel: el programa de televisión español que llegó a tener un 20% de cuota de pantalla en Indonesia y ahora regresa a sus pantallas casi 20 años después,2026-04-17 04:40
+infarto,3,7,4.74,94,"elpais, heraldo_aragon, 20minutos",3,"La desconocida historia de supervivencia de Jaime Urrutia, ex Gabinete Caligari: un infarto y más problemas de salud de un grande de la Movida",2026-04-17 04:40
+situación,3,7,4.74,94,"levante_emv, okdiario, france24_es",3,"Las familias de alumnos del CEIP Blasco Ibáñez denuncian la aparición de jeringuillas en el patio y la ""situación de inseguridad"" de los menores",2026-04-17 04:40
+investiga,3,7,4.74,94,"levante_emv, okdiario, heraldo_aragon, elmundo, sur",5,"Dos presuntos 'enchufes' investigados por Anticorrupción, a la espera de juicio",2026-04-17 04:40
+reúne,3,7,4.74,94,"huffington_es, google_news_internacional, heraldo_aragon",3,Las cinco cosas que tienes que saber sobre la Movilización Progresista Mundial de Barcelona donde se reúne la izquierda global,2026-04-17 04:40
+izquierda,5,12,4.61,92,"google_news_internacional, huffington_es, elpais_espana, 20minutos",4,Barcelona recibe a líderes de izquierda de todo el mundo para plantar cara a Trump y al nuevo orden mundial - El Periódico,2026-04-17 04:40
+proyecto,4,10,4.43,88,"levante_emv, okdiario, elpais, elmundo_espana",4,La Generalitat financia con 240.084 euros el proyecto de Alanna en Aldaia para atender a personas sin hogar,2026-04-17 04:40
+países,5,13,4.26,85,"elpais_internacional, google_news_internacional, elespanol",3,El Tribunal de Justicia de la ONU cumple 80 años cuestionado por países como EE UU e Israel,2026-04-17 04:40
+fuera,3,8,4.15,82,"levante_emv, elpais_espana, elpais",3,El éxito vive fuera del Valencia CF de Meriton,2026-04-17 04:40
+sagunt,3,8,4.15,82,levante_emv,1,Las quejas por un consultorio sanitario de Sagunt se multiplican,2026-04-17 04:40
+netflix,3,8,4.15,82,"20minutos, huffington_es, levante_emv",3,El director de la Trilogía del Baztán une fuerzas con los Javis: así es su remake de un clásico español en Netflix,2026-04-17 04:40
+apagón,3,8,4.15,82,"okdiario, google_news_economia, elespanol",3,Portugal señala a Red Eléctrica como culpable del apagón y baraja pedir una indemnización a España,2026-04-17 04:40
+viernes,7,19,4.08,81,"okdiario, eldiario, levante_emv, 20minutos",4,"Horóscopo diario gratis: la predicción para hoy, viernes 17 de abril",2026-04-17 04:40
+récord,4,11,4.02,80,"levante_emv, okdiario, elpais, 20minutos",4,Las lluvias de récord elevan al 70 % las reservas de agua garantizan un verano sin restricciones,2026-04-17 04:40
+venezuela,8,25,3.54,70,"elpais, heraldo_aragon, google_news_internacional, google_news_es",4,¿Ha cambiado Venezuela desde la salida de Maduro?,2026-04-17 04:40
+hemos,3,10,3.32,66,"levante_emv, 20minutos, elcorreo, google_news_es",4,"""Vivimos en València desde hace años y no hemos parado de trabajar pero con sueldos precarios y sin derecho a nada""",2026-04-17 04:40
+puente,3,10,3.32,66,"okdiario, elconfidencial, google_news_internacional",3,Récord de averías en los Cercanías de Madrid tras presumir Puente de que «el tren vive la mejor época de su historia»,2026-04-17 04:40
+pasar,3,10,3.32,66,"elpais, elmundo",2,María Folguera: “Las secciones de comentarios en prensa deberían pasar a llamarse ‘Desprecios”,2026-04-17 04:40
+grandes,3,10,3.32,66,"elpais, heraldo_aragon",2,¿Cuánto consume un centro de datos? Una ley europea a la medida de las grandes tecnológicas impide saberlo,2026-04-17 04:40
+verano,3,10,3.32,66,"levante_emv, heraldo_aragon, 20minutos",3,Las lluvias de récord elevan al 70 % las reservas de agua garantizan un verano sin restricciones,2026-04-17 04:40
+ayuso,4,14,3.16,63,"okdiario, elpais, elconfidencial, 20minutos",4,Ayuso impulsa un proyecto de Boeing en Madrid para desarrollar taxis voladores,2026-04-17 04:40
+película,3,11,3.02,60,"elpais, 20minutos",2,‘La mujer más rica del mundo’: Huppert aguanta el tipo en una película sobre el escándalo L’Oréal,2026-04-17 04:40
+alcalde,3,11,3.02,60,"levante_emv, google_news_es, elpais_espana",3,El alcalde de Montserrat descarta reconstruir el pacto con Vox tras la dimisión del edil denunciado por malos tratos,2026-04-17 04:40
+masiva,3,11,3.02,60,"google_news_politica, 20minutos, france24_es",3,Moncloa incentiva que la regularización masiva recaiga en cinco feudos del PP - Vozpopuli,2026-04-17 04:40
+claves,4,15,2.95,59,"elconfidencial, el_confidencial_tech, 20minutos, elmundo",4,"Los enclaves madrileños caídos en el olvido: puentes, presas y acueductos",2026-04-17 04:40
+siete,4,15,2.95,59,"google_news_internacional, google_news_es, elpais",3,Ampliación | El FMI restablece sus vínculos con Venezuela tras más de siete años de parón - Demócrata,2026-04-17 04:40
+renta,3,12,2.77,55,"elpais, heraldo_aragon, elespanol",3,Mis padres me han dejado un piso en herencia: ¿debo incluirlo en la renta? ¿Pagaré el IRPF?,2026-04-17 04:40
+papel,3,12,2.77,55,"huffington_es, elpais, elconfidencial",3,Ni Élite ni La casa de papel: el programa de televisión español que llegó a tener un 20% de cuota de pantalla en Indonesia y ahora regresa a sus pantallas casi 20 años después,2026-04-17 04:40
+premios,3,12,2.77,55,"elconfidencial, heraldo_aragon, google_news_internacional",3,Dos videojuegos de Zamora y Valladolid con premios internacionales relanzan el sector en CyL,2026-04-17 04:40
+sánchez,13,53,2.71,54,"google_news_internacional, okdiario, elpais_espana, 20minutos, huffington_es",5,Sánchez y Lula lanzan en Barcelona un frente internacional ante la ola trumpista - La Vanguardia,2026-04-17 04:40
+mundial,4,17,2.6,52,"google_news_internacional, huffington_es, google_news_es",3,Barcelona recibe a líderes de izquierda de todo el mundo para plantar cara a Trump y al nuevo orden mundial - El Periódico,2026-04-17 04:40
+cáncer,3,14,2.37,47,"google_news_es, elespanol",2,Las células infieles: la pista clave para anticipar el cáncer de mama - La Voz de Galicia,2026-04-17 04:40
+partido,3,14,2.37,47,"elconfidencial, elespanol, google_news_es",3,Las campañas opuestas de PSOE y PP: Montero implica a todo el partido y Moreno solo a Feijóo,2026-04-17 04:40
+detenido,3,14,2.37,47,"sur, heraldo_aragon, elpais, elespanol",4,Muere un motorista de 25 años en una colisión en Marbella: hay un conductor detenido,2026-04-17 04:40
+centro,3,14,2.37,47,"elpais, google_news_internacional, elespanol, huffington_es",4,¿Cuánto consume un centro de datos? Una ley europea a la medida de las grandes tecnológicas impide saberlo,2026-04-17 04:40
+riesgo,3,14,2.37,47,"google_news_internacional, okdiario, elpais, 20minutos",4,Contratar transporte internacional sin validar la operativa sigue siendo un riesgo recurrente - Información Logística,2026-04-17 04:40
+primavera,4,19,2.33,46,"sur, elpais, 20minutos, levante_emv",4,"Planes de primavera que no fallan en Málaga: ruta, pueblo y dónde comer bien",2026-04-17 04:40
+pueblo,5,24,2.31,46,"sur, elpais, heraldo_aragon",3,"Planes de primavera que no fallan en Málaga: ruta, pueblo y dónde comer bien",2026-04-17 04:40
+personas,7,35,2.21,44,"levante_emv, sur, heraldo_aragon, 20minutos, google_news_es",5,La Generalitat financia con 240.084 euros el proyecto de Alanna en Aldaia para atender a personas sin hogar,2026-04-17 04:40
+nueva,9,45,2.21,44,"google_news_internacional, levante_emv, huffington_es, elpais, 20minutos",5,Una nueva Internacional - La Vanguardia,2026-04-17 04:40
+semana,5,26,2.13,42,"sur, elpais, heraldo_aragon, 20minutos, okdiario",5,Los trabajadores del metro de Málaga mantienen la huelga la próxima semana,2026-04-17 04:40
+estrecho,3,16,2.07,41,"google_news_internacional, 20minutos, google_news_es",3,Reino Unido y Francia reúnen a países “no beligerantes” para reabrir el estrecho Ormuz con la ausencia de Pedro Sánchez - Infobae,2026-04-17 04:40
+feijóo,3,16,2.07,41,"elconfidencial, 20minutos",2,Las campañas opuestas de PSOE y PP: Montero implica a todo el partido y Moreno solo a Feijóo,2026-04-17 04:40
+bloqueo,3,16,2.07,41,"levante_emv, elpais_internacional, google_news_internacional, elpais, google_news_es",5,El bloqueo de Adif a las tierras de un centenar de agricultores en Parc Sagunt II aumenta la indignación,2026-04-17 04:40
+hacia,3,16,2.07,41,"elpais_internacional, heraldo_aragon, levante_emv",3,Los drones terrestres impulsan a Ucrania hacia la infantería robotizada,2026-04-17 04:40
+información,3,16,2.07,41,"google_news_internacional, okdiario, google_news_economia, elespanol",4,Contratar transporte internacional sin validar la operativa sigue siendo un riesgo recurrente - Información Logística,2026-04-17 04:40
