@@ -1,60 +1,51 @@
 keyword,count_now,count_base,ratio,viral_score,sources,n_sources,sample_title,detected_at
-milei,4,6,8.37,100,google_news_politica,1,Kicillof busca proyección internacional en España mientras perfila una alternativa política a Milei - diariolapluma.com.ar,2026-04-17 02:10
-entra,5,3,20.93,100,"google_news_politica, huffington_es, france24_es, google_news_es, sur",5,Kicillof busca proyección internacional en España mientras perfila una alternativa política a Milei - diariolapluma.com.ar,2026-04-17 02:10
-braga,8,4,25.12,100,"google_news_es, 20minutos, elpais, levante_emv",4,"Real Betis 2-4 SC Braga: resumen, resultado y goles del partido de cuartos de final de la Europa League - Cadena SER",2026-04-17 02:10
-resultado,8,15,6.7,100,"google_news_es, expansion, sur, elcorreo",4,"Real Betis 2-4 SC Braga: resumen, resultado y goles del partido de cuartos de final de la Europa League - Cadena SER",2026-04-17 02:10
-cuartos,6,9,8.37,100,"google_news_es, levante_emv",2,"Real Betis 2-4 SC Braga: resumen, resultado y goles del partido de cuartos de final de la Europa League - Cadena SER",2026-04-17 02:10
-hastings,4,0,5.0,100,"levante_emv, elpais, expansion, elespanol",4,"El presidente y cofundador de Netflix, Reed Hastings, dejará la compañía en junio",2026-04-17 02:10
-junio,3,4,9.42,100,"levante_emv, elpais, elespanol",3,"El presidente y cofundador de Netflix, Reed Hastings, dejará la compañía en junio",2026-04-17 02:10
-condenan,3,4,9.42,100,"elcorreo, elmundo_internacional, google_news_internacional",3,Condenan al exmayordomo del Palacio del Elíseo por robar vajilla de porcelana,2026-04-17 02:10
-elíseo,3,3,12.56,100,"elcorreo, elmundo_internacional, google_news_internacional",3,Condenan al exmayordomo del Palacio del Elíseo por robar vajilla de porcelana,2026-04-17 02:10
-robar,3,1,37.68,100,"elcorreo, sur, elmundo_internacional, google_news_internacional",4,Condenan al exmayordomo del Palacio del Elíseo por robar vajilla de porcelana,2026-04-17 02:10
-vajilla,3,5,7.54,100,"elcorreo, elmundo_internacional, google_news_internacional",3,Condenan al exmayordomo del Palacio del Elíseo por robar vajilla de porcelana,2026-04-17 02:10
-morante,5,6,10.47,100,"google_news_es, heraldo_aragon, okdiario, elpais",4,La policía tuvo que intervenir para evitar la salida de Morante por la Puerta del Príncipe - Cadena SER,2026-04-17 02:10
-cadena,6,15,5.02,100,google_news_es,1,"Isi Palazón celebra una noche histórica para el Rayo Vallecano en Atenas: ""Me cuesta ser consciente de lo que hemos conseguido"" - Cadena SER",2026-04-17 02:10
-escolares,3,4,9.42,100,"elcorreo, sur, levante_emv",3,Los escolares de Iturritxu son los que mayor polución respiran de Vitoria,2026-04-17 02:10
-tensión,3,5,7.54,100,"elcorreo, elmundo",2,Tensión al límite en la sanidad,2026-04-17 02:10
-conference,4,0,5.0,100,"20minutos, levante_emv, google_news_es",3,"Noche histórica del Rayo Vallecano, que se mete en semifinales de la Conference League",2026-04-17 02:10
-miranda,4,4,12.56,100,elcorreo,1,El colectivo Talla Miranda ya tiene su propio espacio,2026-04-17 02:10
-euroliga,5,8,7.85,100,"elpais, google_news_es, elcorreo, elespanol",4,El Real Madrid cumple su objetivo en la Euroliga ante Luka Doncic,2026-04-17 02:10
-desembarca,3,1,37.68,100,google_news_politica,1,Axel Kicillof desembarca en España con duras críticas a la política exterior de Milei - ABC,2026-04-17 02:10
-exterior,3,5,7.54,100,"elespanol, google_news_politica",2,"Ni Moncloa, ni Exteriores, ni Defensa responden a Rusia tras señalar a una empresa española como ""objetivo militar legítimo""",2026-04-17 02:10
-primitiva,3,5,7.54,100,"sur, elcorreo",2,"Comprobar Lotería del jueves, 16 de abril: resultados de la Bonoloto, del Cupón de la ONCE, Mi día de la ONCE, La Primitiva, de la Lotería Nacional y de EuroDreams",2026-04-17 02:10
-artemis,5,10,6.28,100,"google_news_es, elmundo, 20minutos",3,"""Como tirarse de espaldas desde un rascacielos"": así fue el amerizaje de Artemis II tras los ""14 minutos gloriosos"" de reentrada - Cadena SER",2026-04-17 02:10
-betis,8,4,25.12,100,"google_news_es, 20minutos, okdiario, elpais, levante_emv",5,"Real Betis 2-4 SC Braga: resumen, resultado y goles del partido de cuartos de final de la Europa League - Cadena SER",2026-04-17 02:10
-goles,3,5,7.54,100,google_news_es,1,"Real Betis 2-4 SC Braga: resumen, resultado y goles del partido de cuartos de final de la Europa League - Cadena SER",2026-04-17 02:10
-wyoming,3,2,18.84,100,20minutos,1,El regalo de Ana Belén y Victor Manuel a Wyoming en la fiesta del 20 aniversario de 'El Intermedio',2026-04-17 02:10
-tenido,3,2,18.84,100,"elespanol, elcorreo, elmundo, 20minutos",4,"'Smae', 'Rotes' y 'Michel', los tres grafiteros españoles detenidos en Varsovia por pintar un tren: pueden estar 8 años en la cárcel",2026-04-17 02:10
-podrá,5,3,20.93,100,"elespanol, elmundo, expansion, sur, 20minutos",5,EEUU eleva su relación militar con Marruecos: durante 10 años podrá comprar las mismas armas que los países de la OTAN,2026-04-17 02:10
-armas,3,6,6.28,100,"elespanol, elcorreo, elmundo_espana",3,EEUU eleva su relación militar con Marruecos: durante 10 años podrá comprar las mismas armas que los países de la OTAN,2026-04-17 02:10
-países,4,9,5.58,100,"elespanol, expansion, google_news_economia",3,EEUU eleva su relación militar con Marruecos: durante 10 años podrá comprar las mismas armas que los países de la OTAN,2026-04-17 02:10
-misión,3,7,5.38,100,"elespanol, google_news_internacional, google_news_es",3,Sánchez condiciona que España participe en la misión de Starmer y Macron en Ormuz a que sea bajo mando de la ONU,2026-04-17 02:10
-camino,3,6,6.28,100,"elespanol, sur, elmundo",3,La tregua de Israel y Líbano despeja el camino para que Irán y EEUU regresen a la mesa de negociación en Islamabad,2026-04-17 02:10
-netflix,6,4,18.84,100,"huffington_es, levante_emv, okdiario, elpais, expansion",5,Netflix dispara su beneficio un 82%… mientras su fundador histórico anuncia su adiós definitivo,2026-04-17 02:10
-vigor,3,2,18.84,100,"france24_es, google_news_es, huffington_es",3,El Ejército de Líbano denuncia ataques de Israel tras la entrada en vigor del alto el fuego,2026-04-17 02:10
-atenas,5,1,62.8,100,"google_news_es, levante_emv, elpais",3,"Isi Palazón celebra una noche histórica para el Rayo Vallecano en Atenas: ""Me cuesta ser consciente de lo que hemos conseguido"" - Cadena SER",2026-04-17 02:10
-magyar,3,5,7.54,100,"elmundo, google_news_internacional, elcorreo",3,Magyar afronta el reto de desmontar la máquina de propaganda sin crear una nueva,2026-04-17 02:10
-sorteo,6,7,10.77,100,sur,1,"Resultado del sorteo Mi día de la ONCE del jueves, 16 de abril de 2026",2026-04-17 02:10
-rechazo,3,3,12.56,100,"elespanol, heraldo_aragon, eldiario",3,"Falete: ""He tenido una infancia muy buena y feliz. He sido un niño muy afortunado. No he recibido rechazo ni maltrato""",2026-04-17 02:10
-histórica,4,4,12.56,100,"google_news_es, 20minutos, elpais, okdiario",4,"Isi Palazón celebra una noche histórica para el Rayo Vallecano en Atenas: ""Me cuesta ser consciente de lo que hemos conseguido"" - Cadena SER",2026-04-17 02:10
-compañía,3,2,18.84,100,"google_news_es, levante_emv, elespanol",3,¡Regístrate ahora! Descubre cómo transformar la compensación en el motor estratégico de tu compañía - RRHH Digital,2026-04-17 02:10
-presidencia,3,4,9.42,100,"elcorreo, expansion, infolibre",3,Zudaire dejará la presidencia de la Cámara de Bilbao para dedicarse en exclusiva a Petronor,2026-04-17 02:10
-dejará,3,0,5.0,100,"elcorreo, levante_emv, elespanol",3,Zudaire dejará la presidencia de la Cámara de Bilbao para dedicarse en exclusiva a Petronor,2026-04-17 02:10
-astronautas,5,3,20.93,100,"huffington_es, google_news_es, elmundo, 20minutos",4,Los astronautas que han vuelto de la Luna lo confiesan: &quot;Queríamos hacer algo que uniera al mundo&quot;,2026-04-17 02:10
-bolsa,3,8,4.71,94,expansion,1,Cómo ganar en Bolsa en periodos de estanflación,2026-04-17 02:10
-resultados,4,11,4.57,91,"expansion, sur, elcorreo",3,Cinco sectores rozan el pleno de valores lanzados por sus resultados,2026-04-17 02:10
-lotería,3,9,4.19,83,sur,1,"Comprobar Lotería del jueves, 16 de abril: resultados de la Bonoloto, del Cupón de la ONCE, Mi día de la ONCE, La Primitiva, de la Lotería Nacional y de EuroDreams",2026-04-17 02:10
-militar,3,9,4.19,83,"elespanol, elpais",2,EEUU eleva su relación militar con Marruecos: durante 10 años podrá comprar las mismas armas que los países de la OTAN,2026-04-17 02:10
-semifinales,6,19,3.97,79,"20minutos, levante_emv, google_news_es, elpais",4,"Noche histórica del Rayo Vallecano, que se mete en semifinales de la Conference League",2026-04-17 02:10
-críticas,3,10,3.77,75,google_news_politica,1,Axel Kicillof desembarca en España con duras críticas a la política exterior de Milei - ABC,2026-04-17 02:10
-hemos,3,10,3.77,75,"elcorreo, google_news_es, 20minutos",3,«Hemos presentado casi 100 expedientes en este primer día de regularización»,2026-04-17 02:10
-league,7,24,3.66,73,"google_news_es, 20minutos, levante_emv",3,"Real Betis 2-4 SC Braga: resumen, resultado y goles del partido de cuartos de final de la Europa League - Cadena SER",2026-04-17 02:10
-nacional,4,14,3.59,71,"google_news_politica, google_news_internacional, elmundo_espana, elcorreo, sur",5,Kicillof busca proyección internacional en España mientras perfila una alternativa política a Milei - diariolapluma.com.ar,2026-04-17 02:10
-bilbao,3,11,3.43,68,elcorreo,1,Zudaire dejará la presidencia de la Cámara de Bilbao para dedicarse en exclusiva a Petronor,2026-04-17 02:10
-informe,4,17,2.96,59,"elespanol, elcorreo, google_news_internacional, france24_es",4,"El informe que Leire Díez hizo a Zarrías sobre Villarejo: ""Muchas páginas, todo información pública y no demostró nada""",2026-04-17 02:10
-objetivo,3,13,2.9,57,"elespanol, elpais, elmundo_espana",3,"Ni Moncloa, ni Exteriores, ni Defensa responden a Rusia tras señalar a una empresa española como ""objetivo militar legítimo""",2026-04-17 02:10
-asegura,3,14,2.69,53,"france24_es, levante_emv, elespanol, huffington_es",4,"León XIV asegura que ""el mundo está siendo destruido por unos pocos tiranos"" en su paso por Camerún",2026-04-17 02:10
-policía,4,19,2.64,52,"elcorreo, google_news_es",2,La alcaldesa de Santurtzi niega haber visto nunca la foto del policía en casa de la exconcejala,2026-04-17 02:10
-otros,3,15,2.51,50,"bbc_mundo, 20minutos",2,La artista mexicana Citlali Fabián y otros latinoamericanos ganadores de los Sony World Photography Awards,2026-04-17 02:10
-viernes,3,16,2.36,47,"sur, eldiario",2,"Precio de la gasolina y diésel en Málaga hoy, viernes 17 de abril: ¿Dónde están las gasolineras más baratas?",2026-04-17 02:10
-fuego,9,55,2.06,41,"google_news_internacional, france24_es, google_news_es, huffington_es, elpais",5,"Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | El Ejército libanés denuncia violaciones israelíes del alto el fuego - EL PAÍS",2026-04-17 02:10
+sorteo,6,7,11.57,100,sur,1,"Resultado del sorteo Mi día de la ONCE del jueves, 16 de abril de 2026",2026-04-17 02:40
+entra,5,3,22.49,100,"google_news_politica, huffington_es, france24_es, google_news_es, sur",5,Kicillof busca proyección internacional en España mientras perfila una alternativa política a Milei - diariolapluma.com.ar,2026-04-17 02:40
+astronautas,4,4,13.49,100,"huffington_es, google_news_es, elmundo, 20minutos",4,Los astronautas que han vuelto de la Luna lo confiesan: &quot;Queríamos hacer algo que uniera al mundo&quot;,2026-04-17 02:40
+tensión,3,5,8.1,100,"elcorreo, elmundo",2,Tensión al límite en la sanidad,2026-04-17 02:40
+histórica,4,4,13.49,100,"google_news_es, 20minutos, elpais, okdiario",4,"Isi Palazón celebra una noche histórica para el Rayo Vallecano en Atenas: ""Me cuesta ser consciente de lo que hemos conseguido"" - Cadena SER",2026-04-17 02:40
+atenas,5,1,67.47,100,"google_news_es, levante_emv, elpais",3,"Isi Palazón celebra una noche histórica para el Rayo Vallecano en Atenas: ""Me cuesta ser consciente de lo que hemos conseguido"" - Cadena SER",2026-04-17 02:40
+moscú,3,0,5.0,100,"google_news_internacional, google_news_es",2,El Festival Internacional de Cine de Moscú extiende la alfombra roja - ABC,2026-04-17 02:40
+márquez,3,1,40.48,100,okdiario,1,"Kika Márquez, la universitaria que dejó su vida en el extranjero por su pasión por el campo mallorquín",2026-04-17 02:40
+betis,8,4,26.99,100,"google_news_es, 20minutos, okdiario, elpais, levante_emv",5,"Real Betis 2-4 SC Braga: resumen, resultado y goles del partido de cuartos de final de la Europa League - Cadena SER",2026-04-17 02:40
+braga,8,4,26.99,100,"google_news_es, 20minutos, elpais, levante_emv",4,"Real Betis 2-4 SC Braga: resumen, resultado y goles del partido de cuartos de final de la Europa League - Cadena SER",2026-04-17 02:40
+resultado,8,15,7.2,100,"google_news_es, expansion, sur",3,"Real Betis 2-4 SC Braga: resumen, resultado y goles del partido de cuartos de final de la Europa League - Cadena SER",2026-04-17 02:40
+goles,3,5,8.1,100,google_news_es,1,"Real Betis 2-4 SC Braga: resumen, resultado y goles del partido de cuartos de final de la Europa League - Cadena SER",2026-04-17 02:40
+cuartos,6,9,9.0,100,"google_news_es, levante_emv",2,"Real Betis 2-4 SC Braga: resumen, resultado y goles del partido de cuartos de final de la Europa League - Cadena SER",2026-04-17 02:40
+morante,4,7,7.71,100,"google_news_es, heraldo_aragon, okdiario, elpais",4,La policía tuvo que intervenir para evitar la salida de Morante por la Puerta del Príncipe - Cadena SER,2026-04-17 02:40
+condenan,3,4,10.12,100,"elcorreo, elmundo_internacional, google_news_internacional",3,Condenan al exmayordomo del Palacio del Elíseo por robar vajilla de porcelana,2026-04-17 02:40
+elíseo,3,3,13.49,100,"elcorreo, elmundo_internacional, google_news_internacional",3,Condenan al exmayordomo del Palacio del Elíseo por robar vajilla de porcelana,2026-04-17 02:40
+robar,3,1,40.48,100,"elcorreo, sur, elmundo_internacional, google_news_internacional",4,Condenan al exmayordomo del Palacio del Elíseo por robar vajilla de porcelana,2026-04-17 02:40
+tenido,3,2,20.24,100,"elespanol, elcorreo, elmundo, 20minutos",4,"'Smae', 'Rotes' y 'Michel', los tres grafiteros españoles detenidos en Varsovia por pintar un tren: pueden estar 8 años en la cárcel",2026-04-17 02:40
+magyar,3,5,8.1,100,"elmundo, google_news_internacional, elcorreo",3,Magyar afronta el reto de desmontar la máquina de propaganda sin crear una nueva,2026-04-17 02:40
+wyoming,3,2,20.24,100,20minutos,1,El regalo de Ana Belén y Victor Manuel a Wyoming en la fiesta del 20 aniversario de 'El Intermedio',2026-04-17 02:40
+miranda,4,4,13.49,100,elcorreo,1,El colectivo Talla Miranda ya tiene su propio espacio,2026-04-17 02:40
+milei,3,7,5.78,100,google_news_politica,1,Kicillof busca proyección internacional en España mientras perfila una alternativa política a Milei - diariolapluma.com.ar,2026-04-17 02:40
+podrá,4,4,13.49,100,"elespanol, elmundo, expansion, sur",4,EEUU eleva su relación militar con Marruecos: durante 10 años podrá comprar las mismas armas que los países de la OTAN,2026-04-17 02:40
+armas,3,6,6.75,100,"elespanol, elcorreo, elmundo_espana",3,EEUU eleva su relación militar con Marruecos: durante 10 años podrá comprar las mismas armas que los países de la OTAN,2026-04-17 02:40
+países,4,9,6.0,100,"elespanol, expansion, google_news_economia",3,EEUU eleva su relación militar con Marruecos: durante 10 años podrá comprar las mismas armas que los países de la OTAN,2026-04-17 02:40
+semifinales,6,12,6.75,100,"20minutos, levante_emv, google_news_es, elpais",4,"Noche histórica del Rayo Vallecano, que se mete en semifinales de la Conference League",2026-04-17 02:40
+euroliga,3,6,6.75,100,"elpais, google_news_es, elcorreo",3,El Real Madrid cumple su objetivo en la Euroliga ante Luka Doncic,2026-04-17 02:40
+misión,3,7,5.78,100,"elespanol, google_news_internacional, google_news_es",3,Sánchez condiciona que España participe en la misión de Starmer y Macron en Ormuz a que sea bajo mando de la ONU,2026-04-17 02:40
+camino,3,6,6.75,100,"elespanol, sur, elmundo",3,La tregua de Israel y Líbano despeja el camino para que Irán y EEUU regresen a la mesa de negociación en Islamabad,2026-04-17 02:40
+conference,4,0,5.0,100,"20minutos, levante_emv, google_news_es",3,"Noche histórica del Rayo Vallecano, que se mete en semifinales de la Conference League",2026-04-17 02:40
+netflix,4,6,9.0,100,"huffington_es, levante_emv, okdiario, elpais",4,Netflix dispara su beneficio un 82%… mientras su fundador histórico anuncia su adiós definitivo,2026-04-17 02:40
+vigor,3,2,20.24,100,"france24_es, google_news_es, huffington_es",3,El Ejército de Líbano denuncia ataques de Israel tras la entrada en vigor del alto el fuego,2026-04-17 02:40
+vajilla,3,5,8.1,100,"elcorreo, elmundo_internacional, google_news_internacional",3,Condenan al exmayordomo del Palacio del Elíseo por robar vajilla de porcelana,2026-04-17 02:40
+artemis,4,11,4.91,98,"google_news_es, elmundo, 20minutos",3,"""Como tirarse de espaldas desde un rascacielos"": así fue el amerizaje de Artemis II tras los ""14 minutos gloriosos"" de reentrada - Cadena SER",2026-04-17 02:40
+militar,3,9,4.5,89,"elespanol, elpais",2,EEUU eleva su relación militar con Marruecos: durante 10 años podrá comprar las mismas armas que los países de la OTAN,2026-04-17 02:40
+lotería,3,9,4.5,89,sur,1,"Comprobar Lotería del jueves, 16 de abril: resultados de la Bonoloto, del Cupón de la ONCE, Mi día de la ONCE, La Primitiva, de la Lotería Nacional y de EuroDreams",2026-04-17 02:40
+cadena,5,16,4.22,84,google_news_es,1,"Isi Palazón celebra una noche histórica para el Rayo Vallecano en Atenas: ""Me cuesta ser consciente de lo que hemos conseguido"" - Cadena SER",2026-04-17 02:40
+hemos,3,10,4.05,80,"elcorreo, google_news_es, 20minutos",3,«Hemos presentado casi 100 expedientes en este primer día de regularización»,2026-04-17 02:40
+nadie,3,10,4.05,80,"okdiario, elmundo, elmundo_internacional",3,Kika Márquez: «O tienes la foto del perro con el cordero en la boca o nadie se hace cargo de los gastos»,2026-04-17 02:40
+league,7,24,3.94,78,"google_news_es, 20minutos, levante_emv",3,"Real Betis 2-4 SC Braga: resumen, resultado y goles del partido de cuartos de final de la Europa League - Cadena SER",2026-04-17 02:40
+nacional,4,14,3.86,77,"google_news_internacional, google_news_politica, elmundo_espana, elcorreo, sur",5,Ceremonia de inauguración del 16 Festival Internacional de Cine de Beijing - Xinhua Español,2026-04-17 02:40
+bilbao,3,11,3.68,73,elcorreo,1,Zudaire dejará la presidencia de la Cámara de Bilbao para dedicarse en exclusiva a Petronor,2026-04-17 02:40
+objetivo,3,13,3.11,62,"elespanol, elpais, elmundo_espana",3,"Ni Moncloa, ni Exteriores, ni Defensa responden a Rusia tras señalar a una empresa española como ""objetivo militar legítimo""",2026-04-17 02:40
+policía,4,19,2.84,56,"elcorreo, google_news_es",2,La alcaldesa de Santurtzi niega haber visto nunca la foto del policía en casa de la exconcejala,2026-04-17 02:40
+otros,3,15,2.7,53,"bbc_mundo, 20minutos",2,La artista mexicana Citlali Fabián y otros latinoamericanos ganadores de los Sony World Photography Awards,2026-04-17 02:40
+venezuela,4,24,2.25,44,"google_news_internacional, google_news_es, expansion, elmundo_internacional",4,El FMI restablece sus vínculos con Venezuela tras más de siete años de parón - Demócrata,2026-04-17 02:40
+informe,3,18,2.25,44,"elespanol, elcorreo, google_news_internacional",3,"El informe que Leire Díez hizo a Zarrías sobre Villarejo: ""Muchas páginas, todo información pública y no demostró nada""",2026-04-17 02:40
+semana,4,24,2.25,44,"okdiario, elmundo, google_news_politica, bbc_mundo, google_news_es",5,Kika Márquez: «Al coincidir el Ramadán con Semana Santa se han disparado los robos para comer cordero gratis»,2026-04-17 02:40
+sánchez,9,56,2.17,43,"okdiario, huffington_es, elespanol, elmundo, elmundo_espana",5,Palma quiere declarar persona ‘non grata’ al secretario de Memoria de Sánchez por querer tirar Sa Feixina,2026-04-17 02:40
+empresa,3,20,2.02,40,"elespanol, expansion, elmundo, elpais, elmundo_espana",5,"Ni Moncloa, ni Exteriores, ni Defensa responden a Rusia tras señalar a una empresa española como ""objetivo militar legítimo""",2026-04-17 02:40
