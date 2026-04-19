@@ -1,196 +1,216 @@
 keyword,count_now,count_base,ratio,viral_score,sources,n_sources,sample_title,detected_at
-pitos,3,2,7.17,100,"okdiario, 20minutos",2,TVE tachó de «libertad de expresión» los pitos al himno pero dijo que el «musulmán el que no bote» era racismo,2026-04-19 11:08
-infantiles,4,3,6.38,100,"lavanguardia, elmundo, google_news_es",3,Librerías infantiles promueven clubs de lectura en Madrid,2026-04-19 11:08
-sexual,10,4,11.95,100,"google_news_es, huffington_es, elconfidencial, elcorreo, lavanguardia",5,Admitida la querella contra el alcalde Móstoles por presunto acoso sexual y laboral a una exconcejala del PP - RTVE.es,2026-04-19 11:08
-racismo,3,2,7.17,100,"okdiario, google_news_internacional, 20minutos",3,TVE tachó de «libertad de expresión» los pitos al himno pero dijo que el «musulmán el que no bote» era racismo,2026-04-19 11:08
-exconcejala,5,0,5.0,100,"google_news_es, elconfidencial, eldiario",3,Admitida la querella contra el alcalde Móstoles por presunto acoso sexual y laboral a una exconcejala del PP - RTVE.es,2026-04-19 11:08
-pasará,4,0,5.0,100,"eldiario, 20minutos, google_news_es",3,"Dani Fernández pasará por el quirófano tras sufrir una caída en su concierto de València: ""Estoy bien, gracias por los mensajes""",2026-04-19 11:08
-caída,10,6,7.97,100,"eldiario, elcorreo, levante_emv, 20minutos, elconfidencial",5,"Dani Fernández pasará por el quirófano tras sufrir una caída en su concierto de València: ""Estoy bien, gracias por los mensajes""",2026-04-19 11:08
-sumar,5,1,23.91,100,"levante_emv, lavanguardia, 20minutos",3,"DIRECTO | IU, Sumar, Comuns y Más Madrid escenifican su alianza en Andalucía",2026-04-19 11:08
-bárcenas,3,0,5.0,100,"europapress, levante_emv",2,"Rajoy, Bárcenas y Cospedal, platos fuertes de la tercera semana en el juicio de 'Kitchen'",2026-04-19 11:08
-ingresado,4,1,19.13,100,"elcorreo, elconfidencial, levante_emv",3,"Dani Fernández, ingresado para ser operado de urgencia tras su caída en el Roig Arena",2026-04-19 11:08
-operado,3,0,5.0,100,"elcorreo, google_news_es, huffington_es",3,"Dani Fernández, ingresado para ser operado de urgencia tras su caída en el Roig Arena",2026-04-19 11:08
-urgencia,5,1,23.91,100,"huffington_es, elcorreo, google_news_es, elconfidencial",4,"Alex Wibberly, médico de urgencias: &quot;La soledad sube tus marcadores de inflamación y predice mortalidad prematura igual que fumar 15 cigarrillos al día&quot;",2026-04-19 11:08
-arena,5,4,5.98,100,"20minutos, elcorreo, google_news_es, elconfidencial, lavanguardia",5,Muere un joven de 27 años tras caer por un barranco con un quad en Campillo de Arenas,2026-04-19 11:08
-escenario,3,2,7.17,100,"20minutos, google_news_es, elconfidencial",3,El pianista que volvió a los escenarios tras un ictus con una sola mano,2026-04-19 11:08
-frágil,4,0,5.0,100,"okdiario, 20minutos",2,"Guerra de Irán en directo hoy 19 de abril: alto el fuego frágil, tensión en Ormuz y última situación en Oriente Próximo",2026-04-19 11:08
-oriente,6,5,5.74,100,"okdiario, google_news_es, elcorreo",3,"Guerra de Irán en directo hoy 19 de abril: alto el fuego frágil, tensión en Ormuz y última situación en Oriente Próximo",2026-04-19 11:08
-próximo,3,2,7.17,100,okdiario,1,"Guerra de Irán en directo hoy 19 de abril: alto el fuego frágil, tensión en Ormuz y última situación en Oriente Próximo",2026-04-19 11:08
-acoso,12,4,14.35,100,"google_news_es, huffington_es, europapress, elconfidencial, elcorreo",5,Admitida la querella contra el alcalde Móstoles por presunto acoso sexual y laboral a una exconcejala del PP - RTVE.es,2026-04-19 11:08
-presunto,6,3,9.56,100,"google_news_es, huffington_es, europapress, lavanguardia",4,Admitida la querella contra el alcalde Móstoles por presunto acoso sexual y laboral a una exconcejala del PP - RTVE.es,2026-04-19 11:08
-móstoles,11,3,17.53,100,"google_news_es, huffington_es, europapress, elconfidencial, elcorreo",5,Admitida la querella contra el alcalde Móstoles por presunto acoso sexual y laboral a una exconcejala del PP - RTVE.es,2026-04-19 11:08
-media,7,6,5.58,100,"elcorreo, 20minutos, huffington_es, lavanguardia, google_news_es",5,Los robots destrozan a los humanos en la media maratón de Pekín,2026-04-19 11:08
-rompe,8,1,38.25,100,"expansion, europapress, elpais, 20minutos, elcorreo",5,El Gobierno propondrá a la UE romper el Acuerdo de Asociación con Israel,2026-04-19 11:08
-ligamentos,6,0,5.0,100,"elpais, 20minutos, elcorreo, lavanguardia, levante_emv",5,El cantante Dani Fernández se rompe los ligamentos de un hombro en un concierto en Valencia y acaba en el hospital,2026-04-19 11:08
-hombro,6,1,28.69,100,"elpais, 20minutos, elcorreo, lavanguardia, levante_emv",5,El cantante Dani Fernández se rompe los ligamentos de un hombro en un concierto en Valencia y acaba en el hospital,2026-04-19 11:08
-concierto,11,6,8.77,100,"elpais, eldiario, levante_emv, 20minutos, google_news_es",5,El cantante Dani Fernández se rompe los ligamentos de un hombro en un concierto en Valencia y acaba en el hospital,2026-04-19 11:08
-robots,7,0,5.0,100,"elcorreo, 20minutos, huffington_es, lavanguardia, elpais",5,Los robots destrozan a los humanos en la media maratón de Pekín,2026-04-19 11:08
-humanos,3,1,14.35,100,"elcorreo, elpais, google_news_es",3,Los robots destrozan a los humanos en la media maratón de Pekín,2026-04-19 11:08
-maratón,8,1,38.25,100,"elcorreo, 20minutos, huffington_es, lavanguardia, okdiario",5,Los robots destrozan a los humanos en la media maratón de Pekín,2026-04-19 11:08
-alcalde,12,4,14.35,100,"google_news_es, huffington_es, europapress, elconfidencial, elcorreo",5,Admitida la querella contra el alcalde Móstoles por presunto acoso sexual y laboral a una exconcejala del PP - RTVE.es,2026-04-19 11:08
-pekín,7,1,33.47,100,"elcorreo, 20minutos, huffington_es, lavanguardia, elpais",5,Los robots destrozan a los humanos en la media maratón de Pekín,2026-04-19 11:08
-aviso,3,2,7.17,100,"heraldo_aragon, levante_emv, okdiario",3,"La mayor parte de Aragón, en aviso por lluvias y tormentas este domingo",2026-04-19 11:08
-humanoides,4,0,5.0,100,"20minutos, huffington_es, lavanguardia, elmundo",4,Los robots humanoides asustan en la media maratón de Pekín: rebajan casi dos horas el tiempo de 2025,2026-04-19 11:08
-lejos,7,2,16.74,100,"20minutos, huffington_es, elmundo, levante_emv, google_news_es",5,Al menos tres muertos y cinco heridos en el incendio de un edificio en Los Realejos,2026-04-19 11:08
-admitida,7,1,33.47,100,"google_news_es, huffington_es, europapress, lavanguardia",4,Admitida la querella contra el alcalde Móstoles por presunto acoso sexual y laboral a una exconcejala del PP - RTVE.es,2026-04-19 11:08
-querella,11,3,17.53,100,"google_news_es, huffington_es, europapress, elconfidencial, elcorreo",5,Admitida la querella contra el alcalde Móstoles por presunto acoso sexual y laboral a una exconcejala del PP - RTVE.es,2026-04-19 11:08
-sufre,3,1,14.35,100,"okdiario, lavanguardia, levante_emv",3,Dani Fernández sufre un grave accidente en concierto: «Tendré que operarme»,2026-04-19 11:08
-negociaciones,9,3,14.35,100,"google_news_internacional, google_news_es, heraldo_aragon, elcorreo, levante_emv",5,"El Gobierno de RDC y el M23 constatan ciertos ""progresos"" tras sus últimas negociaciones de paz de Suiza - Teleprensa",2026-04-19 11:08
-violenta,4,0,5.0,100,"20minutos, levante_emv, lavanguardia",3,Investigan la muerte violenta de un hombre en Barcelona después de una pelea en la vía pública,2026-04-19 11:08
-fondo,4,2,9.56,100,"okdiario, expansion, sur, google_news_internacional",4,"Tras 2.000 años perdido, el tesoro sin encontrar el Imperio Romano sale a la luz: estaba hundido en el fondo marino",2026-04-19 11:08
-balísticos,3,0,5.0,100,"elespanol, elmundo_internacional, google_news_internacional",3,Corea del Norte vuelve a atacar las aguas de Japón: lanza varios misiles balísticos de corto alcance hacia el mar nipón,2026-04-19 11:08
-corto,3,0,5.0,100,"elespanol, elmundo_internacional, google_news_internacional",3,Corea del Norte vuelve a atacar las aguas de Japón: lanza varios misiles balísticos de corto alcance hacia el mar nipón,2026-04-19 11:08
-alcance,3,0,5.0,100,"elespanol, elmundo_internacional, google_news_internacional",3,Corea del Norte vuelve a atacar las aguas de Japón: lanza varios misiles balísticos de corto alcance hacia el mar nipón,2026-04-19 11:08
-frases,4,0,5.0,100,huffington_es,1,Ignasi Guardans ve lo que ha dicho Juan Carlos I sobre el Gobierno de Sánchez: responde con cuatro frases (y qué frases),2026-04-19 11:08
-laboratorio,3,2,7.17,100,"sur, google_news_internacional, okdiario",3,Turno para el laboratorio en el caso Esther López en una causa en 'stand by',2026-04-19 11:08
-pasar,3,1,14.35,100,"eldiario, elcorreo, 20minutos, google_news_es, levante_emv",5,"Dani Fernández pasará por el quirófano tras sufrir una caída en su concierto de València: ""Estoy bien, gracias por los mensajes""",2026-04-19 11:08
-emocional,3,1,14.35,100,"20minutos, heraldo_aragon, levante_emv",3,"Niños con trastornos del neurodesarrollo: más riesgo de malestar emocional, depresión, ansiedad y problemas de conducta",2026-04-19 11:08
-aemet,7,2,16.74,100,okdiario,1,"Incredulidad en Sevilla ante el mapa de la AEMET: una Feria de Abril al límite, con 36ºC y el riesgo real de lluvia activo",2026-04-19 11:08
-refugios,3,1,14.35,100,"20minutos, google_news_es",2,"Los refugios improvisados de los desplazados en el Líbano: cristales rotos, charcos en el suelo y esperanza en que ""todo pasará""",2026-04-19 11:08
-improvisados,3,0,5.0,100,"20minutos, google_news_es",2,"Los refugios improvisados de los desplazados en el Líbano: cristales rotos, charcos en el suelo y esperanza en que ""todo pasará""",2026-04-19 11:08
-cristales,3,0,5.0,100,"20minutos, google_news_es",2,"Los refugios improvisados de los desplazados en el Líbano: cristales rotos, charcos en el suelo y esperanza en que ""todo pasará""",2026-04-19 11:08
-rotos,3,0,5.0,100,"20minutos, google_news_es",2,"Los refugios improvisados de los desplazados en el Líbano: cristales rotos, charcos en el suelo y esperanza en que ""todo pasará""",2026-04-19 11:08
-charcos,3,0,5.0,100,"20minutos, google_news_es",2,"Los refugios improvisados de los desplazados en el Líbano: cristales rotos, charcos en el suelo y esperanza en que ""todo pasará""",2026-04-19 11:08
-prevé,3,0,5.0,100,okdiario,1,"AEMET prevé cielo poco nuboso y chubascos en Zaragoza, con viento flojo y cambios por la tarde",2026-04-19 11:08
-chubascos,5,1,23.91,100,okdiario,1,"AEMET prevé cielo poco nuboso y chubascos en Zaragoza, con viento flojo y cambios por la tarde",2026-04-19 11:08
-misiles,3,2,7.17,100,"elespanol, elmundo_internacional, google_news_internacional",3,Corea del Norte vuelve a atacar las aguas de Japón: lanza varios misiles balísticos de corto alcance hacia el mar nipón,2026-04-19 11:08
-corea,3,1,14.35,100,"elespanol, elmundo_internacional, google_news_internacional",3,Corea del Norte vuelve a atacar las aguas de Japón: lanza varios misiles balísticos de corto alcance hacia el mar nipón,2026-04-19 11:08
-horóscopo,9,8,5.38,100,okdiario,1,"Predicción del horóscopo para Aries hoy, domingo 19 de abril de 2026",2026-04-19 11:08
-convierten,3,1,14.35,100,"sur, google_news_es",2,Más de 150 moteros convierten Málaga en epicentro de las dos ruedas,2026-04-19 11:08
-trabajo,3,1,14.35,100,"20minutos, huffington_es",2,"Bill Gates: ""Siempre elegiré a una persona perezosa para hacer un trabajo difícil porque encontrará una manera fácil de hacerlo""",2026-04-19 11:08
-trámite,4,0,5.0,100,"elconfidencial, elcorreo, sur, google_news_es",4,Admiten a trámite la querella de una exconcejala contra el alcalde de Móstoles por acoso sexual y laboral,2026-04-19 11:08
-abusos,4,1,19.13,100,"google_news_es, bbc_mundo",2,"Sheinbaum asegura que ""nunca"" ha habido ""una crisis diplomática"" con España por el tema de los abusos de la conquista - BBC",2026-04-19 11:08
-recuerda,4,1,19.13,100,"okdiario, levante_emv, google_news_internacional, 20minutos",4,Irán recuerda a Trump que no puede privar al país de su derecho a desarrollar energía nuclear,2026-04-19 11:08
-privar,3,0,5.0,100,"okdiario, levante_emv, google_news_internacional",3,Irán recuerda a Trump que no puede privar al país de su derecho a desarrollar energía nuclear,2026-04-19 11:08
-desarrollar,4,0,5.0,100,"okdiario, levante_emv, google_news_internacional",3,Según la psicología las personas que crecieron en la década de 1960 y 1970 desarrollaron un tipo de resiliencia que hoy pasa desapercibida,2026-04-19 11:08
-pulverizan,3,0,5.0,100,"huffington_es, elpais, google_news_es",3,Los robots humanoides también corren que vuelan: pulverizan todos sus registros en la media maratón de Pekín,2026-04-19 11:08
-predicción,10,5,9.56,100,okdiario,1,"Predicción del horóscopo para Aries hoy, domingo 19 de abril de 2026",2026-04-19 11:08
-registros,4,0,5.0,100,"huffington_es, levante_emv, elpais, google_news_es",4,Los robots humanoides también corren que vuelan: pulverizan todos sus registros en la media maratón de Pekín,2026-04-19 11:08
-avanzan,5,0,5.0,100,"google_news_es, heraldo_aragon, elcorreo, google_news_internacional",4,Sigue en directo la última hora de la guerra en Oriente Medio | Irán dice que las negociaciones con EE UU avanzan pero que el acuerdo aún «está lejos - Canarias7,2026-04-19 11:08
-«está,3,1,14.35,100,"google_news_es, elcorreo",2,Sigue en directo la última hora de la guerra en Oriente Medio | Irán dice que las negociaciones con EE UU avanzan pero que el acuerdo aún «está lejos - Canarias7,2026-04-19 11:08
-críticas,3,2,7.17,100,"okdiario, levante_emv, google_news_internacional",3,Una ex concursante de ‘Pasapalabra’ defiende a Rosa Rodríguez tras las críticas recibidas: «No entiendo a la gente»,2026-04-19 11:08
-alimentos,4,1,19.13,100,"google_news_economia, google_news_es, eldiario, okdiario",4,Producir sin miedo volvió al mapa: el abastecimiento de alimentos ya no es solo una cuestión agrícola - Infobae,2026-04-19 11:08
-precampaña,3,0,5.0,100,"lavanguardia, levante_emv, 20minutos",3,"Superdomingo electoral en Andalucía: Sánchez, Feijóo y los ministros de Sumar, en precampaña",2026-04-19 11:08
-cantante,4,0,5.0,100,"elpais, elconfidencial, 20minutos",3,El cantante Dani Fernández se rompe los ligamentos de un hombro en un concierto en Valencia y acaba en el hospital,2026-04-19 11:08
-laboral,10,1,47.82,100,"google_news_es, huffington_es, elconfidencial, lavanguardia, eldiario",5,Admitida la querella contra el alcalde Móstoles por presunto acoso sexual y laboral a una exconcejala del PP - RTVE.es,2026-04-19 11:08
-lunes,3,1,14.35,100,"google_news_es, 20minutos",2,Este lunes comienza el plazo para solicitar de forma presencial la regularización extraordinaria de migrantes - RTVE.es,2026-04-19 11:08
-cielo,4,3,6.38,100,okdiario,1,"De Zubieta al cielo: Marrero, el héroe de la Real Sociedad que emuló a Arconada con una «chuleta»",2026-04-19 11:08
-fallece,3,1,14.35,100,"elcorreo, sur, levante_emv",3,Fallece el piloto finlandés Juha Miettinen en un accidente en la clasificación de Nürburgring,2026-04-19 11:08
-cádiz,3,2,7.17,100,"huffington_es, eldiario, okdiario",3,"José Antonio, funcionario de Cádiz que vive en una caravana: &quot;Somos pobres. Dime tú a mí con un sueldo de 1.300 euros en qué piso me meto&quot;",2026-04-19 11:08
-cartagena,3,1,14.35,100,"google_news_internacional, google_news_es",2,El Puerto de Cartagena refuerza en Miami su proyección internacional - El Nuevo Digital Murcia,2026-04-19 11:08
-realejos,3,0,5.0,100,"20minutos, huffington_es, elmundo",3,Al menos tres muertos y cinco heridos en el incendio de un edificio en Los Realejos,2026-04-19 11:08
-escenifican,3,0,5.0,100,"google_news_politica, levante_emv",2,"Sheinbaum, Illa y Morant escenifican la cooperación política entre México y España en el Barcelona Supercomputing Center - Vozpopuli",2026-04-19 11:08
-edificio,5,3,7.97,100,"20minutos, huffington_es, levante_emv, okdiario",4,Al menos tres muertos y cinco heridos en el incendio de un edificio en Los Realejos,2026-04-19 11:08
-universidad,3,2,7.17,100,"elmundo_internacional, google_news_internacional, okdiario",3,Un tiroteo deja varios heridos en el campus de la Universidad de Iowa (EEUU),2026-04-19 11:08
-recorrido,3,1,14.35,100,"okdiario, google_news_es",2,España recupera el tren histórico con recorrido de 89 km y que atraviesa 75 puentes y 40 túneles,2026-04-19 11:08
-ramón,3,1,14.35,100,"el_confidencial_economia, google_news_es",2,"José Ramón López, experto fiscal, avisa sobre reclamar dinero de anteriores declaraciones de la renta: ""Por fin es Hacienda quien te devuelve dinero""",2026-04-19 11:08
-barranco,3,1,14.35,100,"elcorreo, levante_emv, 20minutos",3,Muere un joven de 27 años tras caer por un barranco con un quad en Jaén,2026-04-19 11:08
-seguro,3,2,7.17,100,"okdiario, el_confidencial_economia",2,"Oyarzabal, un seguro de vida en las finales: pleno de goles con España y la Real Sociedad",2026-04-19 11:08
-potencia,3,1,14.35,100,"huffington_es, elcorreo, okdiario",3,"Juan Luis Vicente, médico intensivista: &quot;Si no cuidas ni potencias este órgano estando sano te destruye en la UCI&quot;",2026-04-19 11:08
-derecho,9,6,7.17,100,"google_news_internacional, okdiario, levante_emv",3,"Cuba reconoce el respaldo de España, Brasil y México y demanda el respeto al Derecho Internacional frente a la crisis - Andalucía Información",2026-04-19 11:08
-agradece,4,3,6.38,100,"elcorreo, google_news_internacional, huffington_es",3,Julen Guerrero agradece el gesto del Getafe tras el fallecimiento de su mujer Elsa Landabaso,2026-04-19 11:08
-fernández,16,7,10.93,100,"huffington_es, elpais, eldiario, elcorreo, levante_emv",5,"Patricia Fernández, abogada experta en migración, desmonta a Feijóo: “Los miedos sobre la seguridad pública que pueda suponer la regularización son manifiestamente racistas y no tienen ninguna base legal”",2026-04-19 11:08
-respeto,4,2,9.56,100,google_news_internacional,1,"Cuba reconoce el respaldo de España, Brasil y México y demanda el respeto al Derecho Internacional frente a la crisis - Andalucía Información",2026-04-19 11:08
-acuerdo,10,4,11.95,100,"expansion, europapress, levante_emv, google_news_es, heraldo_aragon",5,El Gobierno propondrá a la UE romper el Acuerdo de Asociación con Israel,2026-04-19 11:08
-romper,3,1,14.35,100,"expansion, europapress, levante_emv",3,El Gobierno propondrá a la UE romper el Acuerdo de Asociación con Israel,2026-04-19 11:08
-mascotas,3,0,5.0,100,"okdiario, huffington_es",2,La Ley de Bienestar Animal lo confirma: viajar con mascotas sin ventilación adecuada está prohibido y la multa es histórica,2026-04-19 11:08
-error,3,2,7.17,100,"elcorreo, okdiario",2,El comentado error de TVE tras la final de Copa: miles de aficionados en... ¿Neptuno?,2026-04-19 11:08
-descubren,3,0,5.0,100,okdiario,1,Descubren una gigantesca plantación de marihuana con más de 400 ejemplares ocultos en una casa de Palma,2026-04-19 11:08
-piloto,3,1,14.35,100,"elcorreo, levante_emv, elmundo",3,Fallece el piloto finlandés Juha Miettinen en un accidente en la clasificación de Nürburgring,2026-04-19 11:08
-exige,4,2,9.56,100,"sur, elcorreo, okdiario, google_news_internacional",4,"El baloncesto que viene: el futuro no es una amenaza, es una exigencia",2026-04-19 11:08
-admite,3,3,4.78,95,"elconfidencial, elcorreo, sur, eldiario",4,Admiten a trámite la querella de una exconcejala contra el alcalde de Móstoles por acoso sexual y laboral,2026-04-19 11:08
-corrida,3,3,4.78,95,"elpais, heraldo_aragon",2,Morante lidiará su quinta corrida en Sevilla en la Feria de San Miguel tras su frustrada Puerta del Príncipe del jueves,2026-04-19 11:08
-situación,4,4,4.78,95,"okdiario, google_news_es",2,"Guerra de Irán en directo hoy 19 de abril: alto el fuego frágil, tensión en Ormuz y última situación en Oriente Próximo",2026-04-19 11:08
-fiscal,3,3,4.78,95,"el_confidencial_economia, okdiario",2,"José Ramón López, experto fiscal, avisa sobre reclamar dinero de anteriores declaraciones de la renta: ""Por fin es Hacienda quien te devuelve dinero""",2026-04-19 11:08
-elogia,3,3,4.78,95,"20minutos, google_news_es",2,"Donald Trump elogia el carácter ""valiente y leal"" de Israel: ""Ha demostrado ser un gran aliado de EEUU""",2026-04-19 11:08
-industria,3,3,4.78,95,"google_news_internacional, google_news_economia, okdiario",3,"""Castilla y León puede competir en industria tecnológica avanzada a nivel internacional"" - Diario de Ávila",2026-04-19 11:08
-aliado,3,3,4.78,95,"20minutos, levante_emv, google_news_internacional, google_news_es",4,"Donald Trump elogia el carácter ""valiente y leal"" de Israel: ""Ha demostrado ser un gran aliado de EEUU""",2026-04-19 11:08
-cambiar,3,3,4.78,95,"okdiario, levante_emv, 20minutos",3,"Los ajustes de privacidad que deberías cambiar en Facebook, X, Instagram y TikTok",2026-04-19 11:08
-castilla,3,3,4.78,95,"google_news_internacional, okdiario",2,"""Castilla y León puede competir en industria tecnológica avanzada a nivel internacional"" - Diario de Ávila",2026-04-19 11:08
-pública,5,5,4.78,95,"europapress, huffington_es, 20minutos, lavanguardia, google_news_economia",5,"El Consejo de Ministros del martes aprobará el nuevo Plan Estatal de Vivienda, que blinda la vivienda pública",2026-04-19 11:08
-explica,3,3,4.78,95,"levante_emv, google_news_es, huffington_es, eldiario",4,Una pirámide en plena Antártida: ¿Cuál es la explicación científica?,2026-04-19 11:08
-niños,6,6,4.78,95,"okdiario, 20minutos, huffington_es",3,Ni vinagre ni cebolla: el truco casero para eliminar las hormigas de casa y es seguro para niños y mascotas,2026-04-19 11:08
-china,7,7,4.78,95,"okdiario, europapress, elmundo, google_news_politica",4,"Parece un avión, pero es el dron más grande del mundo: lo ha fabricado China y transporta hasta 3.500 kilos",2026-04-19 11:08
-nuclear,4,4,4.78,95,"okdiario, levante_emv, google_news_internacional",3,Irán recuerda a Trump que no puede privar al país de su derecho a desarrollar energía nuclear,2026-04-19 11:08
-grande,4,4,4.78,95,"okdiario, 20minutos, levante_emv",3,"Parece un avión, pero es el dron más grande del mundo: lo ha fabricado China y transporta hasta 3.500 kilos",2026-04-19 11:08
-noche,3,3,4.78,95,"okdiario, huffington_es, 20minutos",3,"Qué es la Noche del Pescaíto, cuándo es y por qué se celebra en la Feria de Abril",2026-04-19 11:08
-alternativa,3,3,4.78,95,"okdiario, google_news_internacional",2,"Suena raro, pero la ciencia lo respalda: los hongos pueden ser la alternativa al silicio para desarrollar chips informáticos",2026-04-19 11:08
-desplazados,3,3,4.78,95,"20minutos, google_news_es",2,"Los refugios improvisados de los desplazados en el Líbano: cristales rotos, charcos en el suelo y esperanza en que ""todo pasará""",2026-04-19 11:08
-tormentas,4,4,4.78,95,"heraldo_aragon, okdiario",2,"La mayor parte de Aragón, en aviso por lluvias y tormentas este domingo",2026-04-19 11:08
-feijóo,5,5,4.78,95,"huffington_es, levante_emv, lavanguardia, google_news_politica",4,"Patricia Fernández, abogada experta en migración, desmonta a Feijóo: “Los miedos sobre la seguridad pública que pueda suponer la regularización son manifiestamente racistas y no tienen ninguna base legal”",2026-04-19 11:08
-reconstruir,3,3,4.78,95,"eldiario, levante_emv",2,El Mary Celeste quedó vacío en alta mar y la ciencia ha podido reconstruir lo que pasó en su interior,2026-04-19 11:08
-arremete,3,3,4.78,95,"google_news_internacional, google_news_es",2,"Irán arremete contra la Unión Europea por usar el derecho internacional de forma ""hipócrita"" en Ormuz - Noticias de Gipuzkoa",2026-04-19 11:08
-pleno,4,4,4.78,95,"okdiario, elcorreo, europapress",3,"Oyarzabal, un seguro de vida en las finales: pleno de goles con España y la Real Sociedad",2026-04-19 11:08
-visita,3,3,4.78,95,"heraldo_aragon, okdiario, sur, europapress",4,"El museo del origami de Zaragoza recibe a su visitante 300.000: ""Para un sitio de pago, la cifra está muy bien""",2026-04-19 11:08
-playa,3,3,4.78,95,"okdiario, levante_emv",2,Detenido un marroquí okupa por apuñala a su compañero de piso en Playa de Palma y dejarlo totalmente ensangrentado,2026-04-19 11:08
-elplural.com,6,7,4.1,81,"google_news_politica, google_news_internacional",2,Sánchez asume el timón del barco progresista tras la cumbre de Barcelona - ElPlural.com,2026-04-19 11:08
-palma,5,6,3.98,79,okdiario,1,Descubren una gigantesca plantación de marihuana con más de 400 ejemplares ocultos en una casa de Palma,2026-04-19 11:08
-cuatro,5,6,3.98,79,"levante_emv, huffington_es, lavanguardia, google_news_es",4,"La Federación Fallas Centro recibe a su ""trébol de cuatro hojas"" el día de Exaltación y ""Espurnes""",2026-04-19 11:08
-esperanza,5,6,3.98,79,"huffington_es, google_news_es, 20minutos",3,El consejo de una mujer británica de 112 años para vivir muchos años: “Mira hacia delante con esperanza y nunca hacia atrás con arrepentimiento”,2026-04-19 11:08
-forma,8,10,3.83,76,"google_news_internacional, google_news_es, elcorreo, huffington_es, 20minutos",5,"Cuba reconoce el respaldo de España, Brasil y México y demanda el respeto al Derecho Internacional frente a la crisis - Andalucía Información",2026-04-19 11:08
-conquista,4,5,3.83,76,"google_news_es, bbc_mundo",2,"Sheinbaum asegura que ""nunca"" ha habido ""una crisis diplomática"" con España por el tema de los abusos de la conquista - BBC",2026-04-19 11:08
-congreso,4,5,3.83,76,"europapress, levante_emv",2,"Sánchez vuelve a someterse al control del Congreso, tras su viaje a China y con su esposa procesada",2026-04-19 11:08
-tensión,4,5,3.83,76,"okdiario, 20minutos",2,"Guerra de Irán en directo hoy 19 de abril: alto el fuego frágil, tensión en Ormuz y última situación en Oriente Próximo",2026-04-19 11:08
-electoral,4,5,3.83,76,"lavanguardia, elcorreo, levante_emv",3,"Superdomingo electoral en Andalucía: Sánchez, Feijóo y los ministros de Sumar, en precampaña",2026-04-19 11:08
-científicos,4,5,3.83,76,"okdiario, google_news_es",2,No todo está perdido: científicos chilenos descubren un extracto de hongos que aumenta la inmunidad de las abejas,2026-04-19 11:08
-nadie,3,4,3.59,71,"okdiario, 20minutos, eldiario",3,La misteriosa isla murciana que nadie visita aunque conserva restos arqueológicos del Imperio romano,2026-04-19 11:08
-athletic,3,4,3.59,71,"elcorreo, okdiario, lavanguardia",3,El guiño al Athletic de la ganadora de 'Operación Triunfo': se pone la camiseta y se desata la locura en el BEC,2026-04-19 11:08
-tregua,3,4,3.59,71,"expansion, 20minutos",2,Se complican los intentos de llegar a un acuerdo entre EEUU e Irán tres días antes del fin de la tregua,2026-04-19 11:08
-padre,3,4,3.59,71,"bbc_mundo, okdiario, google_news_es, 20minutos",4,Se fue de viaje escolar y nunca regresó: el padre que 10 años después aún busca resolver el misterio de la muerte de su hija,2026-04-19 11:08
-información,3,4,3.59,71,"google_news_internacional, elcorreo",2,"Cuba reconoce el respaldo de España, Brasil y México y demanda el respeto al Derecho Internacional frente a la crisis - Andalucía Información",2026-04-19 11:08
-italia,3,4,3.59,71,"google_news_internacional, huffington_es, okdiario",3,El AOVE Oleaí logra la Medalla Extragold en el certamen internacional BIOL en Italia - Óleo Revista,2026-04-19 11:08
-montero,3,4,3.59,71,"levante_emv, 20minutos",2,DIRECTO | Pedro Sánchez y María Jesús Montero en Gibraleón (Huelva),2026-04-19 11:08
-domingo,16,22,3.48,69,"heraldo_aragon, lavanguardia, okdiario, levante_emv, google_news_es",5,"La mayor parte de Aragón, en aviso por lluvias y tormentas este domingo",2026-04-19 11:08
-andalucía,8,11,3.48,69,"google_news_internacional, levante_emv, lavanguardia, okdiario",4,"Cuba reconoce el respaldo de España, Brasil y México y demanda el respeto al Derecho Internacional frente a la crisis - Andalucía Información",2026-04-19 11:08
-energía,4,6,3.19,63,"google_news_economia, okdiario, levante_emv, google_news_internacional",4,La falta de energía obliga a la industria a mirar a la España vaciada como única opción de expansión - OkDiario,2026-04-19 11:08
-truco,4,6,3.19,63,"okdiario, 20minutos",2,Ni pan ni huevo: el truco del chef Ángel León para que el pescado frito quede perfecto con este ingrediente,2026-04-19 11:08
-ciencia,4,6,3.19,63,"elcorreo, eldiario, levante_emv, google_news_es, okdiario",5,"El Dacia Spring sigue progresando, y vuelve a ganar potencia, eficiencia y agrado",2026-04-19 11:08
-japón,4,6,3.19,63,"elespanol, okdiario, elmundo_internacional, google_news_internacional",4,Corea del Norte vuelve a atacar las aguas de Japón: lanza varios misiles balísticos de corto alcance hacia el mar nipón,2026-04-19 11:08
-puede,14,22,3.04,60,"google_news_internacional, huffington_es, 20minutos, okdiario, levante_emv",5,"""Castilla y León puede competir en industria tecnológica avanzada a nivel internacional"" - Diario de Ávila",2026-04-19 11:08
-hacia,7,11,3.04,60,"elcorreo, lavanguardia, huffington_es, elespanol, elmundo_internacional",5,El Alavés vuela hacia la gloria,2026-04-19 11:08
-israel,13,21,2.96,59,"expansion, europapress, google_news_internacional, lavanguardia, 20minutos",5,El Gobierno propondrá a la UE romper el Acuerdo de Asociación con Israel,2026-04-19 11:08
-renta,5,8,2.99,59,"el_confidencial_economia, okdiario, expansion",3,"José Ramón López, experto fiscal, avisa sobre reclamar dinero de anteriores declaraciones de la renta: ""Por fin es Hacienda quien te devuelve dinero""",2026-04-19 11:08
-inmigrantes,3,5,2.87,57,"europapress, google_news_es, eldiario",3,La derogación de la regularización de inmigrantes llega al Pleno del Congreso de la mano de Vox,2026-04-19 11:08
-investigan,3,5,2.87,57,"20minutos, levante_emv, lavanguardia",3,Investigan la muerte violenta de un hombre en Barcelona después de una pelea en la vía pública,2026-04-19 11:08
-podría,3,5,2.87,57,"google_news_economia, google_news_es, okdiario, google_news_internacional",4,Economía.- La primera reunión del ERE de Capgemini en España se celebrará esta semana y podría concretar el ajuste - Bolsamania,2026-04-19 11:08
-costa,3,5,2.87,57,"eldiario, okdiario, levante_emv, google_news_internacional",4,¿Por qué esta alga invade la costa de Cádiz y cómo ha acabado en planes para generar biogás?,2026-04-19 11:08
-europea,3,5,2.87,57,"okdiario, google_news_internacional",2,La Agencia Espacial Europea desarrolla un motor para satélites que funciona con el aire de la atmósfera terrestre,2026-04-19 11:08
-lópez,3,5,2.87,57,"el_confidencial_economia, sur",2,"José Ramón López, experto fiscal, avisa sobre reclamar dinero de anteriores declaraciones de la renta: ""Por fin es Hacienda quien te devuelve dinero""",2026-04-19 11:08
-volver,3,5,2.87,57,"heraldo_aragon, sur, huffington_es, 20minutos",4,El programa Volveremos 2026 llegará a 72 municipios de todo Aragón,2026-04-19 11:08
-estados,4,7,2.73,54,"google_news_es, elpais",2,"Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Irán ve “avances” en las negociaciones con EE UU, pero con el acuerdo final aún lejos - EL PAÍS",2026-04-19 11:08
-norte,4,7,2.73,54,"elespanol, okdiario, elmundo_internacional, google_news_internacional",4,Corea del Norte vuelve a atacar las aguas de Japón: lanza varios misiles balísticos de corto alcance hacia el mar nipón,2026-04-19 11:08
-pueden,4,7,2.73,54,okdiario,1,Los científicos no se lo pueden creer: los cachalotes pueden producir sus propios sonidos vocálicos similares al lenguaje humano y tiene hasta ‘vocales’,2026-04-19 11:08
-tenerife,4,7,2.73,54,"huffington_es, elmundo, levante_emv",3,Ascienden a tres los muertos por un incendio en un edificio de viviendas en Los Realejos (Tenerife),2026-04-19 11:08
-unidos,4,7,2.73,54,"google_news_es, elpais",2,"Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Irán ve “avances” en las negociaciones con EE UU, pero con el acuerdo final aún lejos - EL PAÍS",2026-04-19 11:08
-tenemos,4,7,2.73,54,"huffington_es, 20minutos, okdiario, levante_emv",4,"Carla Gracia, autora de &#039;El jardín dormido&#039;: &quot;Nos pasamos la vida comparándonos y eso te va a hacer infeliz siempre. No tenemos que ser útiles, tenemos que existir&quot;",2026-04-19 11:08
-incendio,5,9,2.66,53,"20minutos, huffington_es, elmundo, levante_emv",4,Al menos tres muertos y cinco heridos en el incendio de un edificio en Los Realejos,2026-04-19 11:08
-varios,5,9,2.66,53,"elmundo_internacional, google_news_internacional, elcorreo, elespanol",4,Un tiroteo deja varios heridos en el campus de la Universidad de Iowa (EEUU),2026-04-19 11:08
-sigue,6,11,2.61,52,"elcorreo, sur, okdiario, google_news_es",4,"El Dacia Spring sigue progresando, y vuelve a ganar potencia, eficiencia y agrado",2026-04-19 11:08
-medio,6,11,2.61,52,"okdiario, google_news_es, elcorreo, elpais",4,Descubre cuál es el medio de transporte más antiguo y su desarrollo a lo largo de la historia,2026-04-19 11:08
-francisco,3,6,2.39,47,"elmundo_internacional, elcorreo, 20minutos",3,El cura DJ hace bailar a 120.000 personas en Buenos Aires a un año de la muerte de Francisco,2026-04-19 11:08
-mejores,5,10,2.39,47,"levante_emv, 20minutos, google_news_internacional, lavanguardia",4,Las mejores fotos del Ironman 70.3,2026-04-19 11:08
-viaje,4,8,2.39,47,"bbc_mundo, europapress, lavanguardia, expansion",4,Se fue de viaje escolar y nunca regresó: el padre que 10 años después aún busca resolver el misterio de la muerte de su hija,2026-04-19 11:08
-madre,3,6,2.39,47,"levante_emv, lavanguardia, 20minutos",3,Rescatan a una madre y sus dos hijas tras desorientarse mientras realizaban una ruta en Alzira,2026-04-19 11:08
-horario,3,6,2.39,47,"google_news_es, okdiario, heraldo_aragon",3,"El recibimiento a la Real Sociedad será el lunes: horario, recorrido y cortes de tráfico programados - El Diario Vasco",2026-04-19 11:08
-alianza,3,6,2.39,47,"levante_emv, efe",2,"DIRECTO | IU, Sumar, Comuns y Más Madrid escenifican su alianza en Andalucía",2026-04-19 11:08
-pablo,3,6,2.39,47,"elmundo, okdiario, 20minutos",3,"Los 10 minutos que pudieron virar la final para el Atlético hasta el beso de Marrero a Pablo Marín: ""El partido era en los 90""",2026-04-19 11:08
-cuenta,3,6,2.39,47,"20minutos, google_news_es, okdiario",3,"Luis Rojas Marcos, psiquiatra de 82 años: ""Cuando dejé mi trabajo y me jubilé, me di cuenta de que no tenía amigos""",2026-04-19 11:08
-siempre,3,6,2.39,47,"huffington_es, 20minutos",2,"Carla Gracia, autora de &#039;El jardín dormido&#039;: &quot;Nos pasamos la vida comparándonos y eso te va a hacer infeliz siempre. No tenemos que ser útiles, tenemos que existir&quot;",2026-04-19 11:08
-vivienda,6,12,2.39,47,"europapress, google_news_economia, huffington_es, heraldo_aragon, google_news_internacional",5,"El Consejo de Ministros del martes aprobará el nuevo Plan Estatal de Vivienda, que blinda la vivienda pública",2026-04-19 11:08
-confirma,5,10,2.39,47,"okdiario, huffington_es, google_news_es",3,La Ley de Bienestar Animal lo confirma: viajar con mascotas sin ventilación adecuada está prohibido y la multa es histórica,2026-04-19 11:08
-posible,3,6,2.39,47,"google_news_internacional, lavanguardia",2,"Guerra en Irán, última hora en directo | Irán advierte de un posible ataque de EE.UU. e Israel pese al alto el fuego de Trump - La Vanguardia",2026-04-19 11:08
-ee.uu,6,12,2.39,47,"google_news_internacional, lavanguardia, google_news_es, heraldo_aragon, elcorreo",5,"Guerra en Irán, última hora en directo | Irán advierte de un posible ataque de EE.UU. e Israel pese al alto el fuego de Trump - La Vanguardia",2026-04-19 11:08
-declaración,3,6,2.39,47,"expansion, levante_emv, okdiario",3,Renta 2025: Cómo hacer la declaración si el año pasado vendió acciones o reembolsó un fondo,2026-04-19 11:08
-regularización,6,13,2.21,44,"google_news_es, huffington_es, europapress, google_news_politica",4,Este lunes comienza el plazo para solicitar de forma presencial la regularización extraordinaria de migrantes - RTVE.es,2026-04-19 11:08
-europa,11,24,2.19,43,"huffington_es, levante_emv, google_news_internacional, okdiario, europapress",5,Europa tiene influencia en la guerra contra Irán: cómo puede usarla y qué puede lograr,2026-04-19 11:08
-marca,5,11,2.17,43,"huffington_es, elmundo, google_news_es, google_news_economia, levante_emv",5,"Alex Wibberly, médico de urgencias: &quot;La soledad sube tus marcadores de inflamación y predice mortalidad prematura igual que fumar 15 cigarrillos al día&quot;",2026-04-19 11:08
-riesgo,4,9,2.13,42,"20minutos, heraldo_aragon, okdiario",3,"El riesgo de cáncer es significativamente mayor en adultos que nunca se han casado, según un amplio estudio",2026-04-19 11:08
-origen,3,7,2.05,40,"eldiario, okdiario",2,El origen del chicle -uno de los 'alimentos' más antiguos del mundo-,2026-04-19 11:08
-metros,3,7,2.05,40,"elcorreo, 20minutos, okdiario, lavanguardia",4,Rescatan con vida a un niño de 3 años que había caído a un pozo de 15 metros de profundidad en Toledo,2026-04-19 11:08
-donald,3,7,2.05,40,"lavanguardia, 20minutos",2,"Guerra en Irán, última hora | Irán advierte de un posible ataque de EE.UU. e Israel pese al alto el fuego de Donald Trump, en directo",2026-04-19 11:08
-lanza,3,7,2.05,40,"elespanol, google_news_economia, elmundo_internacional, google_news_internacional",4,Corea del Norte vuelve a atacar las aguas de Japón: lanza varios misiles balísticos de corto alcance hacia el mar nipón,2026-04-19 11:08
-córdoba,3,7,2.05,40,"levante_emv, google_news_es",2,DIRECTO | Feijóo y Moreno clausuran la Intermunicipal del Partido Popular de Andalucía en Córdoba,2026-04-19 11:08
-perder,3,7,2.05,40,"20minutos, el_confidencial_economia",2,"Christina Aguilera, irreconocible en una alfombra roja tras perder cerca de 20 kilos",2026-04-19 11:08
-última,14,33,2.03,40,"google_news_internacional, okdiario, lavanguardia, google_news_es, elcorreo",5,"Guerra en Irán, última hora en directo | Irán advierte de un posible ataque de EE.UU. e Israel pese al alto el fuego de Trump - La Vanguardia",2026-04-19 11:08
-accidente,3,7,2.05,40,"elcorreo, okdiario, elmundo",3,Fallece el piloto finlandés Juha Miettinen en un accidente en la clasificación de Nürburgring,2026-04-19 11:08
-cambia,3,7,2.05,40,"okdiario, google_news_es, levante_emv, huffington_es, 20minutos",5,"Los ajustes de privacidad que deberías cambiar en Facebook, X, Instagram y TikTok",2026-04-19 11:08
+charcos,3,0,5.0,100,"20minutos, google_news_es",2,"Los refugios improvisados de los desplazados en el Líbano: cristales rotos, charcos en el suelo y esperanza en que ""todo pasará""",2026-04-19 11:38
+«está,3,0,5.0,100,"google_news_es, elcorreo",2,Sigue en directo la última hora de la guerra en Oriente Medio | Irán dice que las negociaciones con EE UU avanzan pero que el acuerdo aún «está lejos - Canarias7,2026-04-19 11:38
+privar,3,0,5.0,100,"okdiario, levante_emv, google_news_internacional",3,Irán recuerda a Trump que no puede privar al país de su derecho a desarrollar energía nuclear,2026-04-19 11:38
+cantante,5,0,5.0,100,"elpais, google_news_es, elconfidencial, 20minutos",4,El cantante Dani Fernández se rompe los ligamentos de un hombro en un concierto en Valencia y acaba en el hospital,2026-04-19 11:38
+piloto,3,1,13.56,100,"elcorreo, levante_emv, elmundo",3,Fallece el piloto finlandés Juha Miettinen en un accidente en la clasificación de Nürburgring,2026-04-19 11:38
+fallece,3,1,13.56,100,"elcorreo, sur, levante_emv",3,Fallece el piloto finlandés Juha Miettinen en un accidente en la clasificación de Nürburgring,2026-04-19 11:38
+industria,4,3,6.03,100,"google_news_internacional, google_news_economia, okdiario",3,"""Castilla y León puede competir en industria tecnológica avanzada a nivel internacional"" - Diario de Ávila",2026-04-19 11:38
+desarrollar,4,0,5.0,100,"okdiario, levante_emv, google_news_internacional",3,Según la psicología las personas que crecieron en la década de 1960 y 1970 desarrollaron un tipo de resiliencia que hoy pasa desapercibida,2026-04-19 11:38
+ligamentos,7,0,5.0,100,"elpais, google_news_es, 20minutos, elcorreo, lavanguardia",5,El cantante Dani Fernández se rompe los ligamentos de un hombro en un concierto en Valencia y acaba en el hospital,2026-04-19 11:38
+realejos,3,0,5.0,100,"20minutos, huffington_es, elmundo",3,Al menos tres muertos y cinco heridos en el incendio de un edificio en Los Realejos,2026-04-19 11:38
+edificio,5,3,7.53,100,"20minutos, huffington_es, levante_emv, okdiario",4,Al menos tres muertos y cinco heridos en el incendio de un edificio en Los Realejos,2026-04-19 11:38
+avanzan,5,0,5.0,100,"google_news_es, heraldo_aragon, elcorreo, google_news_internacional",4,Sigue en directo la última hora de la guerra en Oriente Medio | Irán dice que las negociaciones con EE UU avanzan pero que el acuerdo aún «está lejos - Canarias7,2026-04-19 11:38
+universidad,3,2,6.78,100,"elmundo_internacional, google_news_internacional, okdiario",3,Un tiroteo deja varios heridos en el campus de la Universidad de Iowa (EEUU),2026-04-19 11:38
+recorrido,3,1,13.56,100,"okdiario, google_news_es",2,España recupera el tren histórico con recorrido de 89 km y que atraviesa 75 puentes y 40 túneles,2026-04-19 11:38
+puedes,3,2,6.78,100,20minutos,1,Tienes cita previa para el reconocimiento médico: ¿Puedes conducir con el permiso caducado?,2026-04-19 11:38
+críticas,3,2,6.78,100,"okdiario, levante_emv, google_news_internacional",3,Una ex concursante de ‘Pasapalabra’ defiende a Rosa Rodríguez tras las críticas recibidas: «No entiendo a la gente»,2026-04-19 11:38
+hombro,7,1,31.63,100,"elpais, google_news_es, 20minutos, elcorreo, lavanguardia",5,El cantante Dani Fernández se rompe los ligamentos de un hombro en un concierto en Valencia y acaba en el hospital,2026-04-19 11:38
+alimentos,4,0,5.0,100,"google_news_economia, google_news_es, eldiario, okdiario",4,Producir sin miedo volvió al mapa: el abastecimiento de alimentos ya no es solo una cuestión agrícola - Infobae,2026-04-19 11:38
+escenario,3,2,6.78,100,"20minutos, google_news_es, elconfidencial",3,El pianista que volvió a los escenarios tras un ictus con una sola mano,2026-04-19 11:38
+admitida,8,1,36.15,100,"google_news_es, huffington_es, europapress, lavanguardia",4,Admitida a trámite la querella de la edil contra el alcalde de Móstoles por presunto acoso sexual y laboral - Onda Cero,2026-04-19 11:38
+trámite,5,0,5.0,100,"google_news_es, elconfidencial, elcorreo, sur",4,Admitida a trámite la querella de la edil contra el alcalde de Móstoles por presunto acoso sexual y laboral - Onda Cero,2026-04-19 11:38
+romper,5,1,22.6,100,"heraldo_aragon, expansion, europapress, levante_emv",4,Sánchez anuncia que el Gobierno propondrá este martes a la UE romper el Acuerdo de Asociación con Israel,2026-04-19 11:38
+querella,12,3,18.08,100,"google_news_es, huffington_es, europapress, elconfidencial, elcorreo",5,Admitida a trámite la querella de la edil contra el alcalde de Móstoles por presunto acoso sexual y laboral - Onda Cero,2026-04-19 11:38
+predicción,9,6,6.78,100,okdiario,1,"Predicción del horóscopo para Aries hoy, domingo 19 de abril de 2026",2026-04-19 11:38
+racismo,3,2,6.78,100,"okdiario, google_news_internacional, 20minutos",3,TVE tachó de «libertad de expresión» los pitos al himno pero dijo que el «musulmán el que no bote» era racismo,2026-04-19 11:38
+pitos,3,2,6.78,100,"sur, okdiario, 20minutos",3,Directo | Primer cuarto estrepitoso del Unicaja ante el Covirán Granada el (24-9),2026-04-19 11:38
+mascotas,3,0,5.0,100,"okdiario, huffington_es",2,La Ley de Bienestar Animal lo confirma: viajar con mascotas sin ventilación adecuada está prohibido y la multa es histórica,2026-04-19 11:38
+médico,3,2,6.78,100,"huffington_es, 20minutos",2,"Juan Luis Vicente, médico intensivista: &quot;Si no cuidas ni potencias este órgano estando sano te destruye en la UCI&quot;",2026-04-19 11:38
+recuerda,4,1,18.08,100,"okdiario, levante_emv, google_news_internacional, 20minutos",4,Irán recuerda a Trump que no puede privar al país de su derecho a desarrollar energía nuclear,2026-04-19 11:38
+txumari,3,0,5.0,100,"elcorreo, google_news_es, 20minutos",3,"Muere Txumari Alfaro, el presentador de 'La botica de la abuela'",2026-04-19 11:38
+exige,3,2,6.78,100,"sur, elcorreo, okdiario",3,"El baloncesto que viene: el futuro no es una amenaza, es una exigencia",2026-04-19 11:38
+descubren,3,0,5.0,100,okdiario,1,Descubren una gigantesca plantación de marihuana con más de 400 ejemplares ocultos en una casa de Palma,2026-04-19 11:38
+infantiles,4,3,6.03,100,"lavanguardia, elmundo, google_news_es",3,Librerías infantiles promueven clubs de lectura en Madrid,2026-04-19 11:38
+feijóo,6,5,5.42,100,"huffington_es, levante_emv, lavanguardia, google_news_politica, elespanol",5,"Patricia Fernández, abogada experta en migración, desmonta a Feijóo: “Los miedos sobre la seguridad pública que pueda suponer la regularización son manifiestamente racistas y no tienen ninguna base legal”",2026-04-19 11:38
+potencia,3,1,13.56,100,"huffington_es, elcorreo, okdiario",3,"Juan Luis Vicente, médico intensivista: &quot;Si no cuidas ni potencias este órgano estando sano te destruye en la UCI&quot;",2026-04-19 11:38
+negociaciones,9,3,13.56,100,"google_news_internacional, google_news_es, heraldo_aragon, elcorreo, levante_emv",5,"El Gobierno de RDC y el M23 constatan ciertos ""progresos"" tras sus últimas negociaciones de paz de Suiza - Teleprensa",2026-04-19 11:38
+seguro,3,2,6.78,100,"okdiario, el_confidencial_economia",2,"Oyarzabal, un seguro de vida en las finales: pleno de goles con España y la Real Sociedad",2026-04-19 11:38
+barranco,3,1,13.56,100,"elcorreo, levante_emv, 20minutos",3,Muere un joven de 27 años tras caer por un barranco con un quad en Jaén,2026-04-19 11:38
+lunes,4,1,18.08,100,"google_news_es, 20minutos",2,Este lunes comienza el plazo para solicitar de forma presencial la regularización extraordinaria de migrantes - RTVE.es,2026-04-19 11:38
+error,3,2,6.78,100,"elcorreo, okdiario",2,El comentado error de TVE tras la final de Copa: miles de aficionados en... ¿Neptuno?,2026-04-19 11:38
+cartagena,3,1,13.56,100,"google_news_internacional, google_news_es",2,El Puerto de Cartagena refuerza en Miami su proyección internacional - El Nuevo Digital Murcia,2026-04-19 11:38
+fondo,4,2,9.04,100,"okdiario, expansion, sur, google_news_internacional",4,"Tras 2.000 años perdido, el tesoro sin encontrar el Imperio Romano sale a la luz: estaba hundido en el fondo marino",2026-04-19 11:38
+escenifican,3,0,5.0,100,"google_news_politica, levante_emv",2,"Sheinbaum, Illa y Morant escenifican la cooperación política entre México y España en el Barcelona Supercomputing Center - Vozpopuli",2026-04-19 11:38
+próximo,3,2,6.78,100,"levante_emv, okdiario",2,Los próximos tsunamis del Mediterráneo español pueden ser más violentos que nunca,2026-04-19 11:38
+oriente,6,5,5.42,100,"okdiario, google_news_es, elcorreo",3,"Guerra de Irán en directo hoy 19 de abril: alto el fuego frágil, tensión en Ormuz y última situación en Oriente Próximo",2026-04-19 11:38
+trabajo,3,1,13.56,100,"20minutos, huffington_es",2,"Bill Gates: ""Siempre elegiré a una persona perezosa para hacer un trabajo difícil porque encontrará una manera fácil de hacerlo""",2026-04-19 11:38
+ramón,3,1,13.56,100,"el_confidencial_economia, google_news_es",2,"José Ramón López, experto fiscal, avisa sobre reclamar dinero de anteriores declaraciones de la renta: ""Por fin es Hacienda quien te devuelve dinero""",2026-04-19 11:38
+abusos,4,1,18.08,100,"google_news_es, bbc_mundo",2,"Sheinbaum asegura que ""nunca"" ha habido ""una crisis diplomática"" con España por el tema de los abusos de la conquista - BBC",2026-04-19 11:38
+frágil,4,0,5.0,100,"okdiario, 20minutos",2,"Guerra de Irán en directo hoy 19 de abril: alto el fuego frágil, tensión en Ormuz y última situación en Oriente Próximo",2026-04-19 11:38
+violenta,4,0,5.0,100,"20minutos, levante_emv, lavanguardia",3,Investigan la muerte violenta de un hombre en Barcelona después de una pelea en la vía pública,2026-04-19 11:38
+abuela,3,0,5.0,100,"elcorreo, google_news_es, 20minutos",3,"Muere Txumari Alfaro, el presentador de 'La botica de la abuela'",2026-04-19 11:38
+botica,3,0,5.0,100,"elcorreo, google_news_es, 20minutos",3,"Muere Txumari Alfaro, el presentador de 'La botica de la abuela'",2026-04-19 11:38
+alfaro,3,0,5.0,100,"elcorreo, google_news_es, 20minutos",3,"Muere Txumari Alfaro, el presentador de 'La botica de la abuela'",2026-04-19 11:38
+alcalde,13,4,14.69,100,"google_news_es, huffington_es, europapress, elconfidencial, elcorreo",5,Admitida a trámite la querella de la edil contra el alcalde de Móstoles por presunto acoso sexual y laboral - Onda Cero,2026-04-19 11:38
+móstoles,12,3,18.08,100,"google_news_es, huffington_es, europapress, elconfidencial, elcorreo",5,Admitida a trámite la querella de la edil contra el alcalde de Móstoles por presunto acoso sexual y laboral - Onda Cero,2026-04-19 11:38
+presunto,7,3,10.54,100,"google_news_es, huffington_es, europapress, lavanguardia",4,Admitida a trámite la querella de la edil contra el alcalde de Móstoles por presunto acoso sexual y laboral - Onda Cero,2026-04-19 11:38
+acoso,12,5,10.85,100,"google_news_es, huffington_es, europapress, elconfidencial, elcorreo",5,Admitida a trámite la querella de la edil contra el alcalde de Móstoles por presunto acoso sexual y laboral - Onda Cero,2026-04-19 11:38
+fernández,18,7,11.62,100,"levante_emv, huffington_es, elpais, google_news_es, eldiario",5,"Dani Fernández tiene que ser ""operado de urgencia"" tras su caída en pleno concierto",2026-04-19 11:38
+exconcejala,5,0,5.0,100,"google_news_es, elconfidencial, eldiario",3,Admitida la querella contra el alcalde Móstoles por presunto acoso sexual y laboral a una exconcejala del PP - RTVE.es,2026-04-19 11:38
+precampaña,4,0,5.0,100,"elmundo, lavanguardia, levante_emv, 20minutos",4,"Pedro Sánchez arranca en Huelva la precampaña de las andaluzas y carga contra el PP: ""Un partido que se financió en 'b' quiere que los trabajadores migrantes cobren en 'b'""",2026-04-19 11:38
+andrés,3,0,5.0,100,"levante_emv, huffington_es, google_news_es",3,El Valencia CF mantiene activa y fuerte la opción de Andrés García para el lateral derecho,2026-04-19 11:38
+opción,3,1,13.56,100,"levante_emv, google_news_economia, huffington_es",3,El Valencia CF mantiene activa y fuerte la opción de Andrés García para el lateral derecho,2026-04-19 11:38
+pasar,3,1,13.56,100,"eldiario, elcorreo, 20minutos, google_news_es, levante_emv",5,"Dani Fernández pasará por el quirófano tras sufrir una caída en su concierto de València: ""Estoy bien, gracias por los mensajes""",2026-04-19 11:38
+pasará,4,0,5.0,100,"eldiario, 20minutos, google_news_es",3,"Dani Fernández pasará por el quirófano tras sufrir una caída en su concierto de València: ""Estoy bien, gracias por los mensajes""",2026-04-19 11:38
+emocional,3,1,13.56,100,"20minutos, heraldo_aragon, levante_emv",3,"Niños con trastornos del neurodesarrollo: más riesgo de malestar emocional, depresión, ansiedad y problemas de conducta",2026-04-19 11:38
+londres,3,0,5.0,100,"levante_emv, google_news_internacional, huffington_es",3,Lanzan un artefacto incendiario contra una sinagoga en Londres,2026-04-19 11:38
+asociación,7,1,31.63,100,"elespanol, elpais, google_news_es, heraldo_aragon, expansion",5,Sánchez llevará a Bruselas este martes la petición para que la UE rompa el Acuerdo de Asociación con Israel,2026-04-19 11:38
+acuerdo,16,3,24.1,100,"elespanol, elpais, europapress, google_news_es, heraldo_aragon",5,Sánchez llevará a Bruselas este martes la petición para que la UE rompa el Acuerdo de Asociación con Israel,2026-04-19 11:38
+martes,5,0,5.0,100,"elespanol, expansion, heraldo_aragon, europapress",4,Sánchez llevará a Bruselas este martes la petición para que la UE rompa el Acuerdo de Asociación con Israel,2026-04-19 11:38
+andaluzas,4,0,5.0,100,"elmundo, 20minutos",2,"Moreno promete no moverse ""nunca"" de Andalucía y fija el listón para las andaluzas: ""Va a ser una final a penaltis""",2026-04-19 11:38
+refugios,3,1,13.56,100,"20minutos, google_news_es",2,"Los refugios improvisados de los desplazados en el Líbano: cristales rotos, charcos en el suelo y esperanza en que ""todo pasará""",2026-04-19 11:38
+sumar,5,1,22.6,100,"levante_emv, lavanguardia, 20minutos",3,"DIRECTO | IU, Sumar, Comuns y Más Madrid escenifican su alianza en Andalucía",2026-04-19 11:38
+improvisados,3,0,5.0,100,"20minutos, google_news_es",2,"Los refugios improvisados de los desplazados en el Líbano: cristales rotos, charcos en el suelo y esperanza en que ""todo pasará""",2026-04-19 11:38
+asesor,3,2,6.78,100,"google_news_internacional, okdiario",2,"El asesor internacional de Jamenei agradece la ""postura sensata"" de España frente a la ""farsa"" de la reunión de París - Europa Press",2026-04-19 11:38
+ingresado,4,1,18.08,100,"elcorreo, elconfidencial, levante_emv",3,"Dani Fernández, ingresado para ser operado de urgencia tras su caída en el Roig Arena",2026-04-19 11:38
+límite,3,1,13.56,100,"elcorreo, levante_emv, okdiario",3,2.000 guerreros se ponen al límite en Gernika,2026-04-19 11:38
+cristales,3,0,5.0,100,"20minutos, google_news_es",2,"Los refugios improvisados de los desplazados en el Líbano: cristales rotos, charcos en el suelo y esperanza en que ""todo pasará""",2026-04-19 11:38
+bárcenas,3,0,5.0,100,"europapress, levante_emv",2,"Rajoy, Bárcenas y Cospedal, platos fuertes de la tercera semana en el juicio de 'Kitchen'",2026-04-19 11:38
+rotos,3,0,5.0,100,"20minutos, google_news_es",2,"Los refugios improvisados de los desplazados en el Líbano: cristales rotos, charcos en el suelo y esperanza en que ""todo pasará""",2026-04-19 11:38
+derecho,9,8,5.08,100,"google_news_internacional, levante_emv, okdiario",3,"Guerra en Irán, en directo | Teherán reprocha a la UE su doble rasero en la aplicación del derecho internacional por la crisis de Ormuz - La Vanguardia",2026-04-19 11:38
+operado,4,0,5.0,100,"levante_emv, elcorreo, google_news_es, huffington_es",4,"Dani Fernández tiene que ser ""operado de urgencia"" tras su caída en pleno concierto",2026-04-19 11:38
+urgencia,6,1,27.12,100,"levante_emv, huffington_es, elcorreo, google_news_es, elconfidencial",5,"Dani Fernández tiene que ser ""operado de urgencia"" tras su caída en pleno concierto",2026-04-19 11:38
+caída,11,6,8.29,100,"levante_emv, eldiario, elcorreo, 20minutos, elconfidencial",5,"Dani Fernández tiene que ser ""operado de urgencia"" tras su caída en pleno concierto",2026-04-19 11:38
+pleno,5,4,5.65,100,"levante_emv, okdiario, elcorreo, europapress",4,"Dani Fernández tiene que ser ""operado de urgencia"" tras su caída en pleno concierto",2026-04-19 11:38
+sexual,11,4,12.43,100,"google_news_es, huffington_es, elconfidencial, elcorreo, lavanguardia",5,Admitida a trámite la querella de la edil contra el alcalde de Móstoles por presunto acoso sexual y laboral - Onda Cero,2026-04-19 11:38
+propondrá,5,0,5.0,100,"google_news_es, heraldo_aragon, expansion, europapress",4,El Gobierno propondrá que la Unión Europea rompa su Acuerdo de Asociación con Israel - LaSexta,2026-04-19 11:38
+convierten,4,1,18.08,100,"elcorreo, sur, google_news_es",3,"Pilar, fundadora de las peluquerías Marcel Arranz, lanza con sus hijas los bolsos que se convierten en collares",2026-04-19 11:38
+hijas,3,1,13.56,100,"elcorreo, levante_emv, okdiario",3,"Pilar, fundadora de las peluquerías Marcel Arranz, lanza con sus hijas los bolsos que se convierten en collares",2026-04-19 11:38
+laboral,11,1,49.71,100,"google_news_es, huffington_es, elconfidencial, lavanguardia, eldiario",5,Admitida a trámite la querella de la edil contra el alcalde de Móstoles por presunto acoso sexual y laboral - Onda Cero,2026-04-19 11:38
+rompe,9,2,20.34,100,"okdiario, heraldo_aragon, expansion, europapress, elpais",5,Albania desafía las megaconstrucciones con un túnel submarino de 70 km inspirado en el Canal de la Mancha que rompe todas las reglas,2026-04-19 11:38
+desafía,3,2,6.78,100,okdiario,1,Albania desafía las megaconstrucciones con un túnel submarino de 70 km inspirado en el Canal de la Mancha que rompe todas las reglas,2026-04-19 11:38
+robots,4,3,6.03,100,"elcorreo, 20minutos, huffington_es, lavanguardia",4,Los robots destrozan a los humanos en la media maratón de Pekín,2026-04-19 11:38
+maratón,5,4,5.65,100,"elcorreo, 20minutos, huffington_es, lavanguardia, okdiario",5,Los robots destrozan a los humanos en la media maratón de Pekín,2026-04-19 11:38
+lejos,8,2,18.08,100,"europapress, 20minutos, huffington_es, elmundo, levante_emv",5,"El jefe negociador de Irán ve ""muy lejos"" un acuerdo final con EEUU",2026-04-19 11:38
+corea,3,1,13.56,100,"elespanol, elmundo_internacional, google_news_internacional",3,Corea del Norte vuelve a atacar las aguas de Japón: lanza varios misiles balísticos de corto alcance hacia el mar nipón,2026-04-19 11:38
+misiles,3,2,6.78,100,"elespanol, elmundo_internacional, google_news_internacional",3,Corea del Norte vuelve a atacar las aguas de Japón: lanza varios misiles balísticos de corto alcance hacia el mar nipón,2026-04-19 11:38
+balísticos,3,0,5.0,100,"elespanol, elmundo_internacional, google_news_internacional",3,Corea del Norte vuelve a atacar las aguas de Japón: lanza varios misiles balísticos de corto alcance hacia el mar nipón,2026-04-19 11:38
+&quot;si,3,1,13.56,100,huffington_es,1,"Xavier Batalla, experto en medicina regenerativa: &quot;Si duermes boca abajo aceleras el envejecimiento de la piel&quot;",2026-04-19 11:38
+corto,3,0,5.0,100,"elespanol, elmundo_internacional, google_news_internacional",3,Corea del Norte vuelve a atacar las aguas de Japón: lanza varios misiles balísticos de corto alcance hacia el mar nipón,2026-04-19 11:38
+aviso,3,2,6.78,100,"heraldo_aragon, levante_emv, okdiario",3,"La mayor parte de Aragón, en aviso por lluvias y tormentas este domingo",2026-04-19 11:38
+alcance,3,0,5.0,100,"elespanol, elmundo_internacional, google_news_internacional",3,Corea del Norte vuelve a atacar las aguas de Japón: lanza varios misiles balísticos de corto alcance hacia el mar nipón,2026-04-19 11:38
+frases,4,0,5.0,100,huffington_es,1,Ignasi Guardans ve lo que ha dicho Juan Carlos I sobre el Gobierno de Sánchez: responde con cuatro frases (y qué frases),2026-04-19 11:38
+arena,5,4,5.65,100,"20minutos, elcorreo, google_news_es, elconfidencial, lavanguardia",5,Muere un joven de 27 años tras caer por un barranco con un quad en Campillo de Arenas,2026-04-19 11:38
+agencia,4,3,6.03,100,"okdiario, google_news_internacional",2,La Agencia Internacional de Energía propone un oleoducto entre Irak y Turquía que evite el estrecho de Ormuz,2026-04-19 11:38
+humanoides,3,1,13.56,100,"20minutos, huffington_es, lavanguardia",3,Los robots humanoides asustan en la media maratón de Pekín: rebajan casi dos horas el tiempo de 2025,2026-04-19 11:38
+concierto,13,6,9.79,100,"levante_emv, elpais, google_news_es, eldiario, 20minutos",5,"Dani Fernández tiene que ser ""operado de urgencia"" tras su caída en pleno concierto",2026-04-19 11:38
+sufre,3,1,13.56,100,"okdiario, lavanguardia, levante_emv",3,Dani Fernández sufre un grave accidente en concierto: «Tendré que operarme»,2026-04-19 11:38
+playa,3,3,4.52,90,"okdiario, levante_emv",2,Detenido un marroquí okupa por apuñala a su compañero de piso en Playa de Palma y dejarlo totalmente ensangrentado,2026-04-19 11:38
+pekín,4,4,4.52,90,"elcorreo, 20minutos, huffington_es, lavanguardia",4,Los robots destrozan a los humanos en la media maratón de Pekín,2026-04-19 11:38
+situación,4,4,4.52,90,"okdiario, google_news_es",2,"Guerra de Irán en directo hoy 19 de abril: alto el fuego frágil, tensión en Ormuz y última situación en Oriente Próximo",2026-04-19 11:38
+nuclear,4,4,4.52,90,"okdiario, levante_emv, google_news_internacional",3,Irán recuerda a Trump que no puede privar al país de su derecho a desarrollar energía nuclear,2026-04-19 11:38
+visita,3,3,4.52,90,"heraldo_aragon, okdiario, sur, europapress",4,"El museo del origami de Zaragoza recibe a su visitante 300.000: ""Para un sitio de pago, la cifra está muy bien""",2026-04-19 11:38
+aliado,3,3,4.52,90,"20minutos, levante_emv, google_news_internacional, google_news_es",4,"Donald Trump elogia el carácter ""valiente y leal"" de Israel: ""Ha demostrado ser un gran aliado de EEUU""",2026-04-19 11:38
+cádiz,3,3,4.52,90,"google_news_internacional, huffington_es, eldiario",3,El Ayuntamiento de Jerez (Cádiz) se suma al Año Internacional de las Personas Voluntarias - Europa Press,2026-04-19 11:38
+desplazados,3,3,4.52,90,"20minutos, google_news_es",2,"Los refugios improvisados de los desplazados en el Líbano: cristales rotos, charcos en el suelo y esperanza en que ""todo pasará""",2026-04-19 11:38
+moreno,3,3,4.52,90,"elmundo, levante_emv",2,"Moreno promete no moverse ""nunca"" de Andalucía y fija el listón para las andaluzas: ""Va a ser una final a penaltis""",2026-04-19 11:38
+migrantes,4,4,4.52,90,"expansion, elmundo, google_news_es, europapress, eldiario",5,"Oficinas de Correos, Seguridad Social y Extranjería comienzan a atender a migrantes sobre la regularización",2026-04-19 11:38
+arremete,3,3,4.52,90,"google_news_internacional, google_news_es",2,"Irán arremete contra la Unión Europea por usar el derecho internacional de forma ""hipócrita"" en Ormuz - Noticias de Gipuzkoa",2026-04-19 11:38
+italia,3,3,4.52,90,"google_news_internacional, huffington_es, okdiario",3,El AOVE Oleaí logra la Medalla Extragold en el certamen internacional BIOL en Italia - Óleo Revista,2026-04-19 11:38
+energía,6,6,4.52,90,"okdiario, google_news_internacional, google_news_economia, levante_emv",4,La Agencia Internacional de Energía propone un oleoducto entre Irak y Turquía que evite el estrecho de Ormuz,2026-04-19 11:38
+montero,4,4,4.52,90,"levante_emv, 20minutos",2,"Montero enmienda la estrategia de ""estabilidad o lío"" de Moreno: ""Hace lo mismo que donde el PP pacta con Vox""",2026-04-19 11:38
+pescado,3,3,4.52,90,"okdiario, google_news_es",2,Fajitas de pescado con salsa de yogur,2026-04-19 11:38
+nadie,4,4,4.52,90,"okdiario, 20minutos, eldiario",3,"Hoy no se atreve nadie a hacerlo en casa, pero en la posguerra española mucha gente sobrevivió gracias a esta receta",2026-04-19 11:38
+noche,3,3,4.52,90,"okdiario, huffington_es, 20minutos",3,"Qué es la Noche del Pescaíto, cuándo es y por qué se celebra en la Feria de Abril",2026-04-19 11:38
+unión,3,3,4.52,90,"google_news_internacional, google_news_es, google_news_economia, 20minutos",4,"El asesor internacional de Jamenei agradece la ""postura sensata"" de España frente a la ""farsa"" de la reunión de París - Europa Press",2026-04-19 11:38
+lasexta,3,3,4.52,90,google_news_es,1,El Gobierno propondrá que la Unión Europea rompa su Acuerdo de Asociación con Israel - LaSexta,2026-04-19 11:38
+elogia,3,3,4.52,90,"20minutos, google_news_es",2,"Donald Trump elogia el carácter ""valiente y leal"" de Israel: ""Ha demostrado ser un gran aliado de EEUU""",2026-04-19 11:38
+cambiar,3,3,4.52,90,"okdiario, levante_emv, 20minutos",3,"Los ajustes de privacidad que deberías cambiar en Facebook, X, Instagram y TikTok",2026-04-19 11:38
+niños,6,6,4.52,90,"okdiario, 20minutos, huffington_es",3,Ni vinagre ni cebolla: el truco casero para eliminar las hormigas de casa y es seguro para niños y mascotas,2026-04-19 11:38
+admite,3,3,4.52,90,"elconfidencial, elcorreo, sur, eldiario",4,Admiten a trámite la querella de una exconcejala contra el alcalde de Móstoles por acoso sexual y laboral,2026-04-19 11:38
+corrida,3,3,4.52,90,"elpais, heraldo_aragon",2,Morante lidiará su quinta corrida en Sevilla en la Feria de San Miguel tras su frustrada Puerta del Príncipe del jueves,2026-04-19 11:38
+reconstruir,3,3,4.52,90,"eldiario, levante_emv",2,El Mary Celeste quedó vacío en alta mar y la ciencia ha podido reconstruir lo que pasó en su interior,2026-04-19 11:38
+pública,5,5,4.52,90,"europapress, eldiario, huffington_es, 20minutos, lavanguardia",5,"El Consejo de Ministros del martes aprobará el nuevo Plan Estatal de Vivienda, que blinda la vivienda pública",2026-04-19 11:38
+grande,4,4,4.52,90,"okdiario, 20minutos, levante_emv",3,"Parece un avión, pero es el dron más grande del mundo: lo ha fabricado China y transporta hasta 3.500 kilos",2026-04-19 11:38
+fiscal,3,3,4.52,90,"el_confidencial_economia, okdiario",2,"José Ramón López, experto fiscal, avisa sobre reclamar dinero de anteriores declaraciones de la renta: ""Por fin es Hacienda quien te devuelve dinero""",2026-04-19 11:38
+forma,9,10,4.07,81,"el_confidencial_tech, elpais, google_news_internacional, google_news_es, elcorreo",5,La NASA observa a EEUU desde el espacio y encuentra una extraña estructura con forma de ojo,2026-04-19 11:38
+horóscopo,8,9,4.02,80,okdiario,1,"Predicción del horóscopo para Aries hoy, domingo 19 de abril de 2026",2026-04-19 11:38
+media,6,7,3.87,77,"elcorreo, 20minutos, huffington_es, lavanguardia, google_news_es",5,Los robots destrozan a los humanos en la media maratón de Pekín,2026-04-19 11:38
+israel,18,21,3.87,77,"elespanol, elpais, google_news_es, heraldo_aragon, expansion",5,Sánchez llevará a Bruselas este martes la petición para que la UE rompa el Acuerdo de Asociación con Israel,2026-04-19 11:38
+palma,5,6,3.77,75,okdiario,1,Descubren una gigantesca plantación de marihuana con más de 400 ejemplares ocultos en una casa de Palma,2026-04-19 11:38
+cuatro,5,6,3.77,75,"levante_emv, huffington_es, lavanguardia, google_news_es",4,"La Federación Fallas Centro recibe a su ""trébol de cuatro hojas"" el día de Exaltación y ""Espurnes""",2026-04-19 11:38
+truco,5,6,3.77,75,"okdiario, 20minutos, google_news_es",3,Ni pan ni huevo: el truco del chef Ángel León para que el pescado frito quede perfecto con este ingrediente,2026-04-19 11:38
+ciencia,5,6,3.77,75,"huffington_es, heraldo_aragon, elcorreo, eldiario, levante_emv",5,Un herpetólogo se ha dejado morder cientos de veces por serpientes venenosas a lo largo de su vida: ahora está donando su sangre a la ciencia,2026-04-19 11:38
+esperanza,5,6,3.77,75,"huffington_es, google_news_es, 20minutos",3,El consejo de una mujer británica de 112 años para vivir muchos años: “Mira hacia delante con esperanza y nunca hacia atrás con arrepentimiento”,2026-04-19 11:38
+tensión,4,5,3.62,72,"okdiario, 20minutos",2,"Guerra de Irán en directo hoy 19 de abril: alto el fuego frágil, tensión en Ormuz y última situación en Oriente Próximo",2026-04-19 11:38
+congreso,4,5,3.62,72,"europapress, levante_emv",2,"Sánchez vuelve a someterse al control del Congreso, tras su viaje a China y con su esposa procesada",2026-04-19 11:38
+europea,4,5,3.62,72,"google_news_es, okdiario, google_news_internacional",3,El Gobierno propondrá que la Unión Europea rompa su Acuerdo de Asociación con Israel - LaSexta,2026-04-19 11:38
+científicos,4,5,3.62,72,"okdiario, google_news_es",2,No todo está perdido: científicos chilenos descubren un extracto de hongos que aumenta la inmunidad de las abejas,2026-04-19 11:38
+conquista,4,5,3.62,72,"google_news_es, bbc_mundo",2,"Sheinbaum asegura que ""nunca"" ha habido ""una crisis diplomática"" con España por el tema de los abusos de la conquista - BBC",2026-04-19 11:38
+espacio,3,4,3.39,67,"el_confidencial_tech, google_news_internacional, google_news_es",3,La NASA observa a EEUU desde el espacio y encuentra una extraña estructura con forma de ojo,2026-04-19 11:38
+recupera,3,4,3.39,67,"heraldo_aragon, okdiario",2,"Recupera la cadena de oro que le habían robado tras señalar al ladrón por la calle: ""¡Ha sido ese!""",2026-04-19 11:38
+información,3,4,3.39,67,"google_news_internacional, elcorreo",2,"Cuba reconoce el respaldo de España, Brasil y México y demanda el respeto al Derecho Internacional frente a la crisis - Andalucía Información",2026-04-19 11:38
+detenidos,3,4,3.39,67,"heraldo_aragon, lavanguardia, elcorreo",3,Dos detenidos en Barcelona por tráfico de drogas en alquileres temporales para 'chemsex',2026-04-19 11:38
+padre,3,4,3.39,67,"bbc_mundo, okdiario, google_news_es, 20minutos",4,Se fue de viaje escolar y nunca regresó: el padre que 10 años después aún busca resolver el misterio de la muerte de su hija,2026-04-19 11:38
+castilla,3,4,3.39,67,"google_news_internacional, okdiario",2,"""Castilla y León puede competir en industria tecnológica avanzada a nivel internacional"" - Diario de Ávila",2026-04-19 11:38
+tregua,3,4,3.39,67,"expansion, 20minutos",2,Se complican los intentos de llegar a un acuerdo entre EEUU e Irán tres días antes del fin de la tregua,2026-04-19 11:38
+martín,3,4,3.39,67,"google_news_es, efe, 20minutos",3,Jon Martín ya es realidad - Diario AS,2026-04-19 11:38
+athletic,3,4,3.39,67,"elcorreo, okdiario, lavanguardia",3,El guiño al Athletic de la ganadora de 'Operación Triunfo': se pone la camiseta y se desata la locura en el BEC,2026-04-19 11:38
+pueden,5,7,3.23,64,"levante_emv, okdiario",2,Los próximos tsunamis del Mediterráneo español pueden ser más violentos que nunca,2026-04-19 11:38
+puede,15,22,3.08,61,"levante_emv, google_news_internacional, huffington_es, 20minutos, okdiario",5,Los próximos tsunamis del Mediterráneo español pueden ser más violentos que nunca,2026-04-19 11:38
+siempre,4,6,3.01,60,"okdiario, huffington_es, 20minutos",3,Adiós a la manicura francesa de siempre: las uñas tendencia entre las cayetanas de Madrid son las ‘micro french’,2026-04-19 11:38
+japón,4,6,3.01,60,"elespanol, okdiario, elmundo_internacional, google_news_internacional",4,Corea del Norte vuelve a atacar las aguas de Japón: lanza varios misiles balísticos de corto alcance hacia el mar nipón,2026-04-19 11:38
+francisco,4,6,3.01,60,"elmundo_internacional, google_news_internacional, elcorreo, 20minutos",4,El cura DJ hace bailar a 120.000 personas en Buenos Aires a un año de la muerte de Francisco,2026-04-19 11:38
+domingo,15,23,2.95,58,"heraldo_aragon, lavanguardia, okdiario, levante_emv, google_news_es",5,"La mayor parte de Aragón, en aviso por lluvias y tormentas este domingo",2026-04-19 11:38
+hacia,7,11,2.88,57,"elcorreo, lavanguardia, huffington_es, elespanol, elmundo_internacional",5,El Alavés vuela hacia la gloria,2026-04-19 11:38
+renta,5,8,2.82,56,"el_confidencial_economia, okdiario, expansion",3,"José Ramón López, experto fiscal, avisa sobre reclamar dinero de anteriores declaraciones de la renta: ""Por fin es Hacienda quien te devuelve dinero""",2026-04-19 11:38
+sanidad,3,5,2.71,54,"heraldo_aragon, levante_emv, google_news_economia",3,"Sanidad licita las obras de mejora de la eficiencia energética del centro de salud de Casetas por 2,4 millones de euros",2026-04-19 11:38
+volver,3,5,2.71,54,"heraldo_aragon, sur, huffington_es, 20minutos",4,El programa Volveremos 2026 llegará a 72 municipios de todo Aragón,2026-04-19 11:38
+oyarzabal,3,5,2.71,54,"20minutos, okdiario, huffington_es",3,El momento en el que el rey Felipe VI entrega la Copa a la Real tras ganar a su Atlético: mensaje a Simeone y apretón con Oyarzabal,2026-04-19 11:38
+centro,6,10,2.71,54,"heraldo_aragon, eldiario, elcorreo, levante_emv, sur",5,"Sanidad licita las obras de mejora de la eficiencia energética del centro de salud de Casetas por 2,4 millones de euros",2026-04-19 11:38
+felipe,3,5,2.71,54,"20minutos, huffington_es, europapress",3,El momento en el que el rey Felipe VI entrega la Copa a la Real tras ganar a su Atlético: mensaje a Simeone y apretón con Oyarzabal,2026-04-19 11:38
+equipo,3,5,2.71,54,"google_news_es, 20minutos, elespanol",3,Solo una de cada cinco empresas está preparada para el relevo de su equipo directivo ante la jubilación - Servimedia,2026-04-19 11:38
+experto,3,5,2.71,54,"huffington_es, el_confidencial_economia",2,"Xavier Batalla, experto en medicina regenerativa: &quot;Si duermes boca abajo aceleras el envejecimiento de la piel&quot;",2026-04-19 11:38
+inmigrantes,3,5,2.71,54,"europapress, google_news_es, eldiario",3,La derogación de la regularización de inmigrantes llega al Pleno del Congreso de la mano de Vox,2026-04-19 11:38
+mejores,6,10,2.71,54,"levante_emv, 20minutos, google_news_internacional, lavanguardia",4,Las mejores fotos del Ironman 70.3,2026-04-19 11:38
+afirma,3,5,2.71,54,"levante_emv, google_news_economia, heraldo_aragon",3,"'The New York Times' afirma que las disputas de Sánchez con Trump ""desvían la atención de los problemas internos del líder español""",2026-04-19 11:38
+investigan,3,5,2.71,54,"20minutos, levante_emv, lavanguardia",3,Investigan la muerte violenta de un hombre en Barcelona después de una pelea en la vía pública,2026-04-19 11:38
+marín,3,5,2.71,54,"elmundo, 20minutos",2,"Los 10 minutos que pudieron virar la final para el Atlético hasta el beso de Marrero a Pablo Marín: ""El partido era en los 90""",2026-04-19 11:38
+aemet,3,5,2.71,54,okdiario,1,"Incredulidad en Sevilla ante el mapa de la AEMET: una Feria de Abril al límite, con 36ºC y el riesgo real de lluvia activo",2026-04-19 11:38
+agradece,3,5,2.71,54,"google_news_internacional, elcorreo",2,"El asesor internacional de Jamenei agradece la ""postura sensata"" de España frente a la ""farsa"" de la reunión de París - Europa Press",2026-04-19 11:38
+lópez,3,5,2.71,54,"el_confidencial_economia, sur",2,"José Ramón López, experto fiscal, avisa sobre reclamar dinero de anteriores declaraciones de la renta: ""Por fin es Hacienda quien te devuelve dinero""",2026-04-19 11:38
+estados,4,7,2.58,51,"google_news_es, elpais",2,"Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Irán ve “avances” en las negociaciones con EE UU, pero con el acuerdo final aún lejos - EL PAÍS",2026-04-19 11:38
+pablo,4,7,2.58,51,"elmundo, okdiario, 20minutos",3,"Los 10 minutos que pudieron virar la final para el Atlético hasta el beso de Marrero a Pablo Marín: ""El partido era en los 90""",2026-04-19 11:38
+tenerife,4,7,2.58,51,"huffington_es, elmundo, levante_emv",3,Ascienden a tres los muertos por un incendio en un edificio de viviendas en Los Realejos (Tenerife),2026-04-19 11:38
+quién,4,7,2.58,51,"levante_emv, huffington_es, 20minutos",3,Los entresijos del pacto extremeño: quién ha cedido más en el acuerdo PP-Vox,2026-04-19 11:38
+tenemos,4,7,2.58,51,"huffington_es, 20minutos, okdiario, levante_emv",4,"Carla Gracia, autora de &#039;El jardín dormido&#039;: &quot;Nos pasamos la vida comparándonos y eso te va a hacer infeliz siempre. No tenemos que ser útiles, tenemos que existir&quot;",2026-04-19 11:38
+norte,4,7,2.58,51,"elespanol, okdiario, elmundo_internacional, google_news_internacional",4,Corea del Norte vuelve a atacar las aguas de Japón: lanza varios misiles balísticos de corto alcance hacia el mar nipón,2026-04-19 11:38
+lanza,4,7,2.58,51,"levante_emv, elcorreo, elespanol, google_news_economia, elmundo_internacional",5,Lanzan un artefacto incendiario contra una sinagoga en Londres,2026-04-19 11:38
+unidos,4,7,2.58,51,"google_news_es, elpais",2,"Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Irán ve “avances” en las negociaciones con EE UU, pero con el acuerdo final aún lejos - EL PAÍS",2026-04-19 11:38
+varios,5,9,2.51,50,"elmundo_internacional, google_news_internacional, elcorreo, elespanol",4,Un tiroteo deja varios heridos en el campus de la Universidad de Iowa (EEUU),2026-04-19 11:38
+valencia,9,16,2.54,50,"levante_emv, elpais, google_news_es, 20minutos, elconfidencial",5,El Valencia CF mantiene activa y fuerte la opción de Andrés García para el lateral derecho,2026-04-19 11:38
+incendio,5,9,2.51,50,"20minutos, huffington_es, elmundo, levante_emv",4,Al menos tres muertos y cinco heridos en el incendio de un edificio en Los Realejos,2026-04-19 11:38
+china,5,9,2.51,50,"okdiario, europapress",2,"Parece un avión, pero es el dron más grande del mundo: lo ha fabricado China y transporta hasta 3.500 kilos",2026-04-19 11:38
+sigue,6,11,2.47,49,"elcorreo, sur, okdiario, google_news_es",4,"El Dacia Spring sigue progresando, y vuelve a ganar potencia, eficiencia y agrado",2026-04-19 11:38
+andalucía,7,13,2.43,48,"elmundo, google_news_internacional, levante_emv, lavanguardia",4,"Moreno promete no moverse ""nunca"" de Andalucía y fija el listón para las andaluzas: ""Va a ser una final a penaltis""",2026-04-19 11:38
+declaración,3,6,2.26,45,"expansion, levante_emv, okdiario",3,Renta 2025: Cómo hacer la declaración si el año pasado vendió acciones o reembolsó un fondo,2026-04-19 11:38
+posible,3,6,2.26,45,"google_news_internacional, lavanguardia",2,"Guerra en Irán, última hora en directo | Irán advierte de un posible ataque de EE.UU. e Israel pese al alto el fuego de Trump - La Vanguardia",2026-04-19 11:38
+ayuntamiento,3,6,2.26,45,"google_news_internacional, google_news_es",2,El Ayuntamiento de Jerez (Cádiz) se suma al Año Internacional de las Personas Voluntarias - Europa Press,2026-04-19 11:38
+ee.uu,6,12,2.26,45,"google_news_internacional, lavanguardia, google_news_es, heraldo_aragon, elcorreo",5,"Guerra en Irán, última hora en directo | Irán advierte de un posible ataque de EE.UU. e Israel pese al alto el fuego de Trump - La Vanguardia",2026-04-19 11:38
+confirma,5,10,2.26,45,"okdiario, huffington_es, google_news_es",3,La Ley de Bienestar Animal lo confirma: viajar con mascotas sin ventilación adecuada está prohibido y la multa es histórica,2026-04-19 11:38
+viaje,4,8,2.26,45,"bbc_mundo, europapress, lavanguardia, expansion",4,Se fue de viaje escolar y nunca regresó: el padre que 10 años después aún busca resolver el misterio de la muerte de su hija,2026-04-19 11:38
+cadena,5,10,2.26,45,"heraldo_aragon, google_news_es",2,"Recupera la cadena de oro que le habían robado tras señalar al ladrón por la calle: ""¡Ha sido ese!""",2026-04-19 11:38
+horario,3,6,2.26,45,"google_news_es, okdiario, heraldo_aragon",3,"El recibimiento a la Real Sociedad será el lunes: horario, recorrido y cortes de tráfico programados - El Diario Vasco",2026-04-19 11:38
+trabajadores,3,6,2.26,45,"elmundo, okdiario, elespanol",3,"Pedro Sánchez arranca en Huelva la precampaña de las andaluzas y carga contra el PP: ""Un partido que se financió en 'b' quiere que los trabajadores migrantes cobren en 'b'""",2026-04-19 11:38
+alianza,3,6,2.26,45,"levante_emv, efe",2,"DIRECTO | IU, Sumar, Comuns y Más Madrid escenifican su alianza en Andalucía",2026-04-19 11:38
+electoral,3,6,2.26,45,"lavanguardia, elcorreo, levante_emv",3,"Superdomingo electoral en Andalucía: Sánchez, Feijóo y los ministros de Sumar, en precampaña",2026-04-19 11:38
+ganar,6,12,2.26,45,"20minutos, elcorreo, sur, elespanol",4,El momento en el que el rey Felipe VI entrega la Copa a la Real tras ganar a su Atlético: mensaje a Simeone y apretón con Oyarzabal,2026-04-19 11:38
+hospital,5,10,2.26,45,"elpais, google_news_es, levante_emv",3,El cantante Dani Fernández se rompe los ligamentos de un hombro en un concierto en Valencia y acaba en el hospital,2026-04-19 11:38
+madre,3,6,2.26,45,"levante_emv, lavanguardia, 20minutos",3,Rescatan a una madre y sus dos hijas tras desorientarse mientras realizaban una ruta en Alzira,2026-04-19 11:38
+vivienda,6,13,2.09,41,"expansion, europapress, google_news_economia, huffington_es, heraldo_aragon",5,El Gobierno aprobará el martes el nuevo Plan Estatal de Vivienda,2026-04-19 11:38
+marca,5,11,2.05,41,"huffington_es, elmundo, google_news_es, google_news_economia, levante_emv",5,"Alex Wibberly, médico de urgencias: &quot;La soledad sube tus marcadores de inflamación y predice mortalidad prematura igual que fumar 15 cigarrillos al día&quot;",2026-04-19 11:38
+última,15,33,2.05,41,"google_news_internacional, okdiario, lavanguardia, google_news_es, elcorreo",5,"Guerra en Irán, última hora en directo | Irán advierte de un posible ataque de EE.UU. e Israel pese al alto el fuego de Trump - La Vanguardia",2026-04-19 11:38
+política,4,9,2.01,40,"google_news_politica, levante_emv, elespanol",3,"Sheinbaum, Illa y Morant escenifican la cooperación política entre México y España en el Barcelona Supercomputing Center - Vozpopuli",2026-04-19 11:38
+riesgo,4,9,2.01,40,"20minutos, heraldo_aragon, okdiario",3,"El riesgo de cáncer es significativamente mayor en adultos que nunca se han casado, según un amplio estudio",2026-04-19 11:38
+personas,9,20,2.03,40,"google_news_internacional, elmundo_internacional, eldiario, okdiario, google_news_es",5,El Ayuntamiento de Jerez (Cádiz) se suma al Año Internacional de las Personas Voluntarias - Europa Press,2026-04-19 11:38
