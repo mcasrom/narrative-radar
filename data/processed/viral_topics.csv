@@ -1,110 +1,99 @@
 keyword,count_now,count_base,ratio,viral_score,sources,n_sources,sample_title,detected_at
-cambia,4,3,6.02,100,"france24_es, okdiario, google_news_economia",3,"""Hoy, la vergüenza cambia de bando"": la cumbre progresista se hace fiesta en Barcelona",2026-04-19 00:39
-prórroga,6,1,27.1,100,"okdiario, elpais, google_news_es, elcorreo",4,"Atlético de Madrid – Real Sociedad en directo hoy: resultado, goles y cómo va la prórroga de la final Copa del Rey en vivo (2-2)",2026-04-19 00:39
-empata,4,0,5.0,100,"elpais, elcorreo, elespanol, okdiario",4,Atlético - Real Sociedad en directo | Julián Alvarez empata la final,2026-04-19 00:39
-fútbol,7,6,5.27,100,"google_news_es, elespanol, 20minutos",3,Atlético - Real Sociedad en directo | La final se va a la prórroga | Fútbol | Deportes - EL PAÍS,2026-04-19 00:39
-empate,4,0,5.0,100,"elpais, sur, heraldo_aragon, elcorreo",4,Atlético - Real Sociedad en directo | Últimos 15 minutos de prórroga con empate en el marcador,2026-04-19 00:39
-sueldazo,4,1,18.06,100,"sur, okdiario, elcorreo",3,"Comprobar Lotería del sábado, 18 de abril: resultados de la Bonoloto, La Primitiva, de la Lotería Nacional y del Sueldazo del fin de semana de la ONCE",2026-04-19 00:39
-primitiva,7,3,10.54,100,"sur, 20minutos, elcorreo, levante_emv, okdiario",5,"Comprobar Lotería del sábado, 18 de abril: resultados de la Bonoloto, La Primitiva, de la Lotería Nacional y del Sueldazo del fin de semana de la ONCE",2026-04-19 00:39
-bonoloto,10,8,5.65,100,"sur, google_news_es, elcorreo, 20minutos, okdiario",5,"Comprobar Lotería del sábado, 18 de abril: resultados de la Bonoloto, La Primitiva, de la Lotería Nacional y del Sueldazo del fin de semana de la ONCE",2026-04-19 00:39
-miranda,4,0,5.0,100,elcorreo,1,El Centro de Interpretación del Campo de Concentración de Miranda amplía su colección,2026-04-19 00:39
-domingo,10,5,9.03,100,"sur, elcorreo, 20minutos",3,"Precio de la gasolina y diésel en Málaga hoy, domingo 19 de abril: ¿Dónde están las gasolineras más baratas?",2026-04-19 00:39
-oyarzabal,5,2,11.29,100,"okdiario, google_news_es, elpais, sur",4,Espectáculo de goles en La Cartuja: Barrenetxea y Oyarzabal adelantan a la Real y Lookman y Julián empatan,2026-04-19 00:39
-caída,3,1,13.55,100,"google_news_internacional, levante_emv",2,Caída y resurrección de la Internacional Socialista con la que Sánchez orquestó su macroevento - El Mundo,2026-04-19 00:39
-atleti,3,0,5.0,100,"elmundo, 20minutos, huffington_es",3,Vivir y morir con Simeone: nadie sabe qué es este Atleti,2026-04-19 00:39
-cuarta,4,2,9.03,100,"okdiario, levante_emv, huffington_es",3,Marrero y Pablo Marín le dan a la Real Sociedad su cuarta Copa del Rey en la tanda de penaltis,2026-04-19 00:39
-últimos,3,2,6.77,100,"sur, elpais",2,Los últimos maestros de la EGB,2026-04-19 00:39
-lleva,3,1,13.55,100,"lavanguardia, elmundo_espana, elcorreo, google_news_es",4,"Con el poder de Zubieta, la Real se lleva la Copa y despierta al Atlético",2026-04-19 00:39
-tanda,5,0,5.0,100,"lavanguardia, okdiario, elespanol, 20minutos",4,"Unai Marrero, el héroe de la Copa: “El equipo y la afición creían en mí en la tanda de penaltis”",2026-04-19 00:39
-kudeaketa,3,0,5.0,100,elcorreo,1,"Kudeaketa, kudeaketa eta kudeaketa",2026-04-19 00:39
-barrenetxea,8,0,5.0,100,"okdiario, 20minutos, google_news_es, elespanol, elcorreo",5,Espectáculo de goles en La Cartuja: Barrenetxea y Oyarzabal adelantan a la Real y Lookman y Julián empatan,2026-04-19 00:39
-lookman,5,0,5.0,100,"okdiario, elespanol, elpais",3,Espectáculo de goles en La Cartuja: Barrenetxea y Oyarzabal adelantan a la Real y Lookman y Julián empatan,2026-04-19 00:39
-goles,10,4,11.29,100,"okdiario, google_news_es",2,"Resultado Atlético de Madrid – Real Sociedad: resumen, goles y cómo quedado la final Copa del Rey online (2-2)",2026-04-19 00:39
-adelanta,5,2,11.29,100,"okdiario, google_news_es, elpais, elcorreo",4,Espectáculo de goles en La Cartuja: Barrenetxea y Oyarzabal adelantan a la Real y Lookman y Julián empatan,2026-04-19 00:39
-ayuda,3,2,6.77,100,"google_news_es, google_news_politica",2,"España, Brasil y México prometen más ayuda humanitaria para Cuba y piden un diálogo «sincero y respetuoso» - ABC",2026-04-19 00:39
-envenenamiento,3,0,5.0,100,"elmundo, google_news_internacional, 20minutos",3,Austria retira potitos infantiles del mercado ante la sospecha de envenenamiento,2026-04-19 00:39
-musso,3,2,6.77,100,"20minutos, google_news_es",2,"Fuerte polémica por el penalti de Juan Musso en la final de la Copa del Rey: ""Me quita las ganas de ver el fútbol""",2026-04-19 00:39
-retira,3,0,5.0,100,"20minutos, elmundo, google_news_internacional",3,Austria retira de la venta todos los potitos de bebé de una marca por la sospecha de que algunos están envenenados con raticida,2026-04-19 00:39
-humanitaria,4,0,5.0,100,"google_news_es, google_news_politica",2,"España, México y Brasil expresan su ""enorme preocupación"" por la grave crisis humanitaria en Cuba - RTVE.es",2026-04-19 00:39
-martín,3,0,5.0,100,"elmundo, google_news_es",2,El pecado mortal de Borja Jiménez y Victorino Martín en Sevilla,2026-04-19 00:39
-descanso,4,2,9.03,100,"google_news_es, lavanguardia, elpais, elcorreo",4,Atlético - Real Sociedad en directo | Oyarzabal adelanta a la Real de penalti al borde del descanso - EL PAÍS,2026-04-19 00:39
-arena,3,2,6.77,100,"levante_emv, elcorreo",2,"Dani Fernández, con  el hombro vendado, reanuda el concierto en el Roig Arena",2026-04-19 00:39
-noviembre,3,1,13.55,100,"okdiario, google_news_economia",2,España cambia las normas y es oficial: a partir de noviembre deberás devolver latas y botellas para recuperar tu dinero,2026-04-19 00:39
-herido,3,0,5.0,100,"20minutos, levante_emv, eldiario",3,Herido grave un niño de dos años tras ser atropellado por un coche en Madrid,2026-04-19 00:39
-himno,8,1,36.13,100,"heraldo_aragon, elmundo, eldiario, okdiario, 20minutos",5,Pitada en la final de la Copa del Rey durante el himno de España,2026-04-19 00:39
-pitada,3,0,5.0,100,"heraldo_aragon, eldiario",2,Pitada en la final de la Copa del Rey durante el himno de España,2026-04-19 00:39
-botellas,3,0,5.0,100,"okdiario, google_news_economia",2,España cambia las normas y es oficial: a partir de noviembre deberás devolver latas y botellas para recuperar tu dinero,2026-04-19 00:39
-latas,3,1,13.55,100,"okdiario, google_news_economia",2,España cambia las normas y es oficial: a partir de noviembre deberás devolver latas y botellas para recuperar tu dinero,2026-04-19 00:39
-devolver,3,1,13.55,100,"okdiario, google_news_economia, el_confidencial_economia",3,España cambia las normas y es oficial: a partir de noviembre deberás devolver latas y botellas para recuperar tu dinero,2026-04-19 00:39
-deberás,3,0,5.0,100,"okdiario, google_news_economia",2,España cambia las normas y es oficial: a partir de noviembre deberás devolver latas y botellas para recuperar tu dinero,2026-04-19 00:39
-campeón,5,4,5.65,100,"elmundo, okdiario, europapress, elespanol, google_news_internacional",5,"La gloria de Marrero, de Zubieta a campeón de Copa: ""Hay que creer. El chico que soñaba lo ha logrado""",2026-04-19 00:39
-minuto,3,2,6.77,100,"elpais, sur, levante_emv, google_news_es, elcorreo",5,Atlético - Real Sociedad en directo | Últimos 15 minutos de prórroga con empate en el marcador,2026-04-19 00:39
-marrero,14,2,31.61,100,"france24_es, google_news_es, elpais, elmundo, lavanguardia",5,Portero Marrero se viste de héroe para coronar a la Real Sociedad en la Copa del Rey,2026-04-19 00:39
-penalti,8,2,18.06,100,"google_news_es, 20minutos, heraldo_aragon, elcorreo, elpais",5,"Atlético - Real Sociedad en directo | Pablo Marín, anotador del último penalti: “Para mí la Real es mi vida, llevo desde aquí desde que era un niño” - EL PAÍS",2026-04-19 00:39
-marín,3,1,13.55,100,"google_news_es, levante_emv, okdiario",3,"Atlético - Real Sociedad en directo | Pablo Marín, anotador del último penalti: “Para mí la Real es mi vida, llevo desde aquí desde que era un niño” - EL PAÍS",2026-04-19 00:39
-milei,4,1,18.06,100,"google_news_politica, elmundo_internacional, google_news_internacional",3,"Kicillof, en un panel en España junto a líderes: ""Las políticas de Milei son un fracaso"" - iProfesional",2026-04-19 00:39
-atlético,53,37,6.47,100,"google_news_es, 20minutos, elpais, okdiario, elmundo",5,"Atlético - Real Sociedad en directo | Pablo Marín, anotador del último penalti: “Para mí la Real es mi vida, llevo desde aquí desde que era un niño” - EL PAÍS",2026-04-19 00:39
-normas,4,2,9.03,100,"google_news_economia, okdiario",2,Adiós Airbnb de España: modifican las normas y los propietarios ya no podrán alquilar su vivienda a turistas sin este permiso clave - El Cronista,2026-04-19 00:39
-arconada,3,0,5.0,100,"elpais, lavanguardia, elmundo",3,"Unai Marrero, otro héroe vestido de azul como Arconada",2026-04-19 00:39
-policial,3,2,6.77,100,"elcorreo, eldiario",2,Alerta policial por la oleada de robos a abuelos en varios barrios de Vitoria,2026-04-19 00:39
-diálogo,3,2,6.77,100,"google_news_politica, google_news_es",2,"México, España y Brasil piden diálogo respetuoso con Cuba - DW.com",2026-04-19 00:39
-penaltis,15,1,67.74,100,"20minutos, google_news_es, heraldo_aragon, elcorreo, elpais",5,La Real Sociedad conquista la Copa del Rey en unos penaltis para el olvido del Atlético de Madrid: ni Sorloth ni Julián Álvarez marcaron,2026-04-19 00:39
-sociedad,63,40,7.11,100,"france24_es, google_news_es, huffington_es, 20minutos, elpais",5,Portero Marrero se viste de héroe para coronar a la Real Sociedad en la Copa del Rey,2026-04-19 00:39
-héroe,7,0,5.0,100,"france24_es, elpais, lavanguardia, okdiario, google_news_es",5,Portero Marrero se viste de héroe para coronar a la Real Sociedad en la Copa del Rey,2026-04-19 00:39
-resumen,6,4,6.77,100,"okdiario, google_news_es",2,"Resultado Atlético de Madrid – Real Sociedad: resumen, goles y cómo quedado la final Copa del Rey online (2-2)",2026-04-19 00:39
-julián,6,1,27.1,100,"20minutos, elcorreo, elpais, elespanol, okdiario",5,La Real Sociedad conquista la Copa del Rey en unos penaltis para el olvido del Atlético de Madrid: ni Sorloth ni Julián Álvarez marcaron,2026-04-19 00:39
-álvarez,3,0,5.0,100,"20minutos, elcorreo, elespanol",3,La Real Sociedad conquista la Copa del Rey en unos penaltis para el olvido del Atlético de Madrid: ni Sorloth ni Julián Álvarez marcaron,2026-04-19 00:39
-oficial,6,4,6.77,100,"google_news_economia, levante_emv, okdiario, huffington_es",4,Oficial y confirmado | Las Fuerzas Armadas tendrán un aumento con su próximo sueldo - El Cronista,2026-04-19 00:39
-simeone,6,5,5.42,100,"google_news_es, elcorreo, elpais, okdiario, elmundo",5,Duro golpe para Diego Simeone: perdió la final de la Copa del Rey y ahora solo le queda el sueño de la Champions - Yahoo,2026-04-19 00:39
-tercera,4,1,18.06,100,"google_news_es, elpais, google_news_economia",3,Atlético - Real Sociedad en directo | La Real gana su tercera Copa del Rey tras vencer al Atlético en los penaltis - EL PAÍS,2026-04-19 00:39
-vencer,5,1,22.58,100,"google_news_es, elpais, huffington_es, lavanguardia",4,Atlético - Real Sociedad en directo | La Real gana su tercera Copa del Rey tras vencer al Atlético en los penaltis - EL PAÍS,2026-04-19 00:39
-superan,3,0,5.0,100,"google_news_economia, elmundo_internacional, google_news_internacional",3,Preparad el bolsillo porque ya están aquí las BBC: las bodas se encarecen y superan los 30.000 euros de media en España - El Español,2026-04-19 00:39
-resultado,18,17,4.78,95,"okdiario, sur, google_news_es, elcorreo, elespanol",5,"Resultado Atlético de Madrid – Real Sociedad: resumen, goles y cómo quedado la final Copa del Rey online (2-2)",2026-04-19 00:39
-austria,3,3,4.52,90,"20minutos, elmundo, google_news_internacional",3,Austria retira de la venta todos los potitos de bebé de una marca por la sospecha de que algunos están envenenados con raticida,2026-04-19 00:39
-partir,3,3,4.52,90,"okdiario, google_news_economia",2,España cambia las normas y es oficial: a partir de noviembre deberás devolver latas y botellas para recuperar tu dinero,2026-04-19 00:39
-pablo,3,3,4.52,90,"google_news_es, levante_emv, okdiario",3,"Atlético - Real Sociedad en directo | Pablo Marín, anotador del último penalti: “Para mí la Real es mi vida, llevo desde aquí desde que era un niño” - EL PAÍS",2026-04-19 00:39
-fuerte,3,3,4.52,90,"20minutos, google_news_es",2,"Fuerte polémica por el penalti de Juan Musso en la final de la Copa del Rey: ""Me quita las ganas de ver el fútbol""",2026-04-19 00:39
-potitos,3,3,4.52,90,"20minutos, elmundo, google_news_internacional",3,Austria retira de la venta todos los potitos de bebé de una marca por la sospecha de que algunos están envenenados con raticida,2026-04-19 00:39
-sospecha,3,3,4.52,90,"20minutos, elmundo, google_news_internacional",3,Austria retira de la venta todos los potitos de bebé de una marca por la sospecha de que algunos están envenenados con raticida,2026-04-19 00:39
-cronista,3,3,4.52,90,google_news_economia,1,Oficial y confirmado | Las Fuerzas Armadas tendrán un aumento con su próximo sueldo - El Cronista,2026-04-19 00:39
-borja,3,3,4.52,90,"elcorreo, elmundo, google_news_es",3,Dos brillantes faenas de Borja Jiménez,2026-04-19 00:39
-fernández,3,3,4.52,90,levante_emv,1,"Dani Fernández, con  el hombro vendado, reanuda el concierto en el Roig Arena",2026-04-19 00:39
-accidente,3,3,4.52,90,levante_emv,1,Muere el veterano piloto Juha Miettinen tras un accidente en la clasificación de Nürburgring,2026-04-19 00:39
-comienza,3,3,4.52,90,"elmundo_espana, elpais",2,"Una masa en Madrid impulsa la vuelta a Venezuela de María Corina Machado: ""Hoy comienza el regreso a casa""",2026-04-19 00:39
-fiesta,3,3,4.52,90,"france24_es, 20minutos",2,"""Hoy, la vergüenza cambia de bando"": la cumbre progresista se hace fiesta en Barcelona",2026-04-19 00:39
-norte,3,3,4.52,90,"sur, 20minutos, elcorreo",3,Muere un soldado francés  en el sur de Líbano mientras Israel avanza hacia el norte,2026-04-19 00:39
-ganar,6,7,3.87,77,"okdiario, elpais, elcorreo, elespanol",4,"Matarazzo, pletórico: «Siento que ganar la Copa del Rey es solo el principio»",2026-04-19 00:39
-online,4,5,3.61,72,okdiario,1,"Resultado Atlético de Madrid – Real Sociedad: resumen, goles y cómo quedado la final Copa del Rey online (2-2)",2026-04-19 00:39
-derrota,4,5,3.61,72,"elpais, okdiario, elcorreo",3,Simeone asume el dolor de la derrota: “Me duele lo de hoy mucho. Necesitábamos ganar y no pudimos hacerlo”,2026-04-19 00:39
-adiós,3,4,3.39,67,"google_news_economia, lavanguardia, 20minutos",3,Adiós Airbnb de España: modifican las normas y los propietarios ya no podrán alquilar su vivienda a turistas sin este permiso clave - El Cronista,2026-04-19 00:39
-inmigración,3,4,3.39,67,"france24_es, elcorreo",2,Líderes de la extrema derecha europea se reúnen en Milán en una manifestación contra la inmigración,2026-04-19 00:39
-familia,3,4,3.39,67,"sur, google_news_es, lavanguardia",3,Cultura para toda la familia,2026-04-19 00:39
-jiménez,3,4,3.39,67,"elcorreo, elmundo, google_news_es",3,Dos brillantes faenas de Borja Jiménez,2026-04-19 00:39
-grave,3,4,3.39,67,"20minutos, levante_emv, google_news_es",3,Herido grave un niño de dos años tras ser atropellado por un coche en Madrid,2026-04-19 00:39
-minutos,3,4,3.39,67,"elpais, sur, levante_emv",3,Atlético - Real Sociedad en directo | Últimos 15 minutos de prórroga con empate en el marcador,2026-04-19 00:39
-horóscopo,3,4,3.39,67,"elcorreo, sur, 20minutos",3,"Horóscopo diario, 20 de abril de 2026",2026-04-19 00:39
-final,50,69,3.27,65,"google_news_es, huffington_es, elpais, okdiario, levante_emv",5,Duro golpe para Diego Simeone: perdió la final de la Copa del Rey y ahora solo le queda el sueño de la Champions - Yahoo,2026-04-19 00:39
-hacia,4,6,3.01,60,"lavanguardia, sur, heraldo_aragon, elcorreo",4,¿Hacia una ‘ruptura listiana’ europea?,2026-04-19 00:39
-vivienda,6,9,3.01,60,"google_news_economia, sur, huffington_es",3,"España avalará la compra de vivienda, a través del ICO, a los jóvenes que coticen en la Seguridad Social - El Cronista",2026-04-19 00:39
-resultados,8,13,2.78,55,"sur, elcorreo, levante_emv, google_news_es",4,"Comprobar Lotería del sábado, 18 de abril: resultados de la Bonoloto, La Primitiva, de la Lotería Nacional y del Sueldazo del fin de semana de la ONCE",2026-04-19 00:39
-victoria,3,5,2.71,54,"elcorreo, okdiario, sur",3,Así hemos narrado la victoria de la Real Sociedad en la final,2026-04-19 00:39
-proclama,3,5,2.71,54,"elespanol, elpais",2,Unai Marrero se viste de héroe en la tanda de penaltis y la Real Sociedad se proclama campeón de Copa tras ganar al Atlético,2026-04-19 00:39
-segundo,3,5,2.71,54,"levante_emv, sur, okdiario",3,"Del gol a los 14 segundos al penalti de Pablo Marín, la final de Copa en 5 instantes",2026-04-19 00:39
-bilbao,3,5,2.71,54,elcorreo,1,El Ayuntamiento se atasca en su reto de crear un nuevo centro de Bilbao en torno a La Casilla,2026-04-19 00:39
-concierto,3,5,2.71,54,levante_emv,1,"Dani Fernández, con  el hombro vendado, reanuda el concierto en el Roig Arena",2026-04-19 00:39
-málaga,13,22,2.67,53,sur,1,De la vivienda en Málaga a las comunicaciones en Almería,2026-04-19 00:39
-sábado,18,31,2.62,52,"sur, elcorreo, google_news_es, levante_emv, okdiario",5,"Comprobar Lotería del sábado, 18 de abril: resultados de la Bonoloto, La Primitiva, de la Lotería Nacional y del Sueldazo del fin de semana de la ONCE",2026-04-19 00:39
-matarazzo,4,7,2.58,51,"elcorreo, elpais, okdiario, google_news_es",4,"Matarazzo: «Ha sido un viaje increíble, pero esto puede ser solo el principio»",2026-04-19 00:39
-marca,4,7,2.58,51,"20minutos, elpais, okdiario, sur",4,La Real Sociedad conquista la Copa del Rey en unos penaltis para el olvido del Atlético de Madrid: ni Sorloth ni Julián Álvarez marcaron,2026-04-19 00:39
-segunda,4,7,2.58,51,"elcorreo, elpais, sur, levante_emv",4,"Tras el fin de la era Orbán, Péter Magyar afronta la segunda transición de Hungría",2026-04-19 00:39
-último,4,7,2.58,51,"google_news_es, sur, elpais, 20minutos, lavanguardia",5,"Atlético - Real Sociedad en directo | Pablo Marín, anotador del último penalti: “Para mí la Real es mi vida, llevo desde aquí desde que era un niño” - EL PAÍS",2026-04-19 00:39
-sorteo,8,14,2.58,51,"sur, google_news_es, okdiario, levante_emv",4,"Resultado del sorteo de la Lotería Nacional del sábado, 18 de abril de 2026",2026-04-19 00:39
-méxico,10,18,2.51,50,"google_news_politica, elcorreo, google_news_es, eldiario, google_news_internacional",5,"México, España y Brasil piden diálogo respetuoso con Cuba - DW.com",2026-04-19 00:39
-comprobar,10,18,2.51,50,"sur, elcorreo, google_news_es, okdiario",4,"Comprobar Lotería del sábado, 18 de abril: resultados de la Bonoloto, La Primitiva, de la Lotería Nacional y del Sueldazo del fin de semana de la ONCE",2026-04-19 00:39
-brasil,8,15,2.41,48,"google_news_politica, google_news_es, eldiario, google_news_internacional, levante_emv",5,"México, España y Brasil piden diálogo respetuoso con Cuba - DW.com",2026-04-19 00:39
-estado,3,6,2.26,45,"france24_es, lavanguardia, sur",3,¿Qué tan seguro sería trasladar uranio enriquecido de Irán a Estados Unidos?,2026-04-19 00:39
-cambio,3,6,2.26,45,"sur, google_news_internacional, huffington_es",3,Sí a la regularización masiva…y al cambio de la ley,2026-04-19 00:39
-afición,3,6,2.26,45,"lavanguardia, okdiario",2,"Unai Marrero, el héroe de la Copa: “El equipo y la afición creían en mí en la tanda de penaltis”",2026-04-19 00:39
-mercado,3,6,2.26,45,"eldiario, huffington_es, elmundo, google_news_internacional",4,El mercado de las flores parisino que es un paseo imprescindible en primavera,2026-04-19 00:39
-madrid,33,68,2.19,43,"france24_es, 20minutos, okdiario, elmundo_espana, europapress",5,Informe desde Madrid: María Corina Machado llega a España y se reúne con líderes de derecha,2026-04-19 00:39
-abril,24,52,2.08,41,"elcorreo, sur, 20minutos, levante_emv, google_news_es",5,"Horóscopo diario, 20 de abril de 2026",2026-04-19 00:39
+lleva,3,1,14.66,100,"lavanguardia, elmundo_espana, elcorreo, google_news_es",4,"Con el poder de Zubieta, la Real se lleva la Copa y despierta al Atlético",2026-04-19 01:10
+empata,4,0,5.0,100,"elpais, elcorreo, elespanol, okdiario",4,Atlético - Real Sociedad en directo | Julián Alvarez empata la final,2026-04-19 01:10
+empate,4,0,5.0,100,"elpais, sur, heraldo_aragon, elcorreo",4,Atlético - Real Sociedad en directo | Últimos 15 minutos de prórroga con empate en el marcador,2026-04-19 01:10
+sueldazo,3,2,7.33,100,"sur, okdiario",2,"Comprobar Lotería del sábado, 18 de abril: resultados de la Bonoloto, La Primitiva, de la Lotería Nacional y del Sueldazo del fin de semana de la ONCE",2026-04-19 01:10
+primitiva,6,5,5.86,100,"sur, 20minutos, elcorreo, levante_emv, okdiario",5,"Comprobar Lotería del sábado, 18 de abril: resultados de la Bonoloto, La Primitiva, de la Lotería Nacional y del Sueldazo del fin de semana de la ONCE",2026-04-19 01:10
+miranda,4,0,5.0,100,elcorreo,1,El Centro de Interpretación del Campo de Concentración de Miranda amplía su colección,2026-04-19 01:10
+prórroga,6,1,29.32,100,"okdiario, elpais, google_news_es, elcorreo",4,"Atlético de Madrid – Real Sociedad en directo hoy: resultado, goles y cómo va la prórroga de la final Copa del Rey en vivo (2-2)",2026-04-19 01:10
+caída,3,1,14.66,100,"google_news_internacional, levante_emv",2,Caída y resurrección de la Internacional Socialista con la que Sánchez orquestó su macroevento - El Mundo,2026-04-19 01:10
+cuarta,4,2,9.77,100,"okdiario, levante_emv, huffington_es",3,Marrero y Pablo Marín le dan a la Real Sociedad su cuarta Copa del Rey en la tanda de penaltis,2026-04-19 01:10
+últimos,3,2,7.33,100,"sur, elpais",2,Los últimos maestros de la EGB,2026-04-19 01:10
+péter,3,0,5.0,100,"elmundo, google_news_internacional, elcorreo",3,Péter Magyar sigue su ofensiva contra el 'sistema Orban' como si estuviese aún en campaña,2026-04-19 01:10
+tanda,4,1,19.54,100,"lavanguardia, okdiario, elespanol",3,"Unai Marrero, el héroe de la Copa: “El equipo y la afición creían en mí en la tanda de penaltis”",2026-04-19 01:10
+kudeaketa,3,0,5.0,100,elcorreo,1,"Kudeaketa, kudeaketa eta kudeaketa",2026-04-19 01:10
+campeón,5,4,6.11,100,"elmundo, okdiario, europapress, elespanol, google_news_internacional",5,"La gloria de Marrero, de Zubieta a campeón de Copa: ""Hay que creer. El chico que soñaba lo ha logrado""",2026-04-19 01:10
+goles,9,5,8.8,100,"okdiario, google_news_es",2,"Resultado Atlético de Madrid – Real Sociedad: resumen, goles y cómo quedado la final Copa del Rey online (2-2)",2026-04-19 01:10
+resumen,6,4,7.33,100,"okdiario, google_news_es",2,"Resultado Atlético de Madrid – Real Sociedad: resumen, goles y cómo quedado la final Copa del Rey online (2-2)",2026-04-19 01:10
+superan,3,0,5.0,100,"google_news_economia, elmundo_internacional, google_news_internacional",3,Preparad el bolsillo porque ya están aquí las BBC: las bodas se encarecen y superan los 30.000 euros de media en España - El Español,2026-04-19 01:10
+fútbol,7,6,5.7,100,"google_news_es, elespanol, 20minutos",3,Atlético - Real Sociedad en directo | La final se va a la prórroga | Fútbol | Deportes - EL PAÍS,2026-04-19 01:10
+barrenetxea,8,0,5.0,100,"okdiario, 20minutos, google_news_es, elespanol, elcorreo",5,Espectáculo de goles en La Cartuja: Barrenetxea y Oyarzabal adelantan a la Real y Lookman y Julián empatan,2026-04-19 01:10
+tercera,3,2,7.33,100,"google_news_es, elpais",2,Atlético - Real Sociedad en directo | La Real gana su tercera Copa del Rey tras vencer al Atlético en los penaltis - EL PAÍS,2026-04-19 01:10
+oyarzabal,5,2,12.22,100,"okdiario, google_news_es, elpais, sur",4,Espectáculo de goles en La Cartuja: Barrenetxea y Oyarzabal adelantan a la Real y Lookman y Julián empatan,2026-04-19 01:10
+retira,3,0,5.0,100,"20minutos, elmundo, google_news_internacional",3,Austria retira de la venta todos los potitos de bebé de una marca por la sospecha de que algunos están envenenados con raticida,2026-04-19 01:10
+humanitaria,3,1,14.66,100,"google_news_es, google_news_politica",2,"España, México y Brasil expresan su ""enorme preocupación"" por la grave crisis humanitaria en Cuba - RTVE.es",2026-04-19 01:10
+martín,3,0,5.0,100,"elmundo, google_news_es",2,El pecado mortal de Borja Jiménez y Victorino Martín en Sevilla,2026-04-19 01:10
+descanso,4,2,9.77,100,"google_news_es, lavanguardia, elpais, elcorreo",4,Atlético - Real Sociedad en directo | Oyarzabal adelanta a la Real de penalti al borde del descanso - EL PAÍS,2026-04-19 01:10
+adelanta,5,2,12.22,100,"okdiario, google_news_es, elpais, elcorreo",4,Espectáculo de goles en La Cartuja: Barrenetxea y Oyarzabal adelantan a la Real y Lookman y Julián empatan,2026-04-19 01:10
+arena,3,2,7.33,100,levante_emv,1,"Dani Fernández, con  el hombro vendado, reanuda el concierto en el Roig Arena",2026-04-19 01:10
+herido,3,0,5.0,100,"20minutos, levante_emv, eldiario",3,Herido grave un niño de dos años tras ser atropellado por un coche en Madrid,2026-04-19 01:10
+himno,7,2,17.1,100,"heraldo_aragon, elmundo, eldiario, okdiario, 20minutos",5,Pitada en la final de la Copa del Rey durante el himno de España,2026-04-19 01:10
+pitada,3,0,5.0,100,"heraldo_aragon, eldiario",2,Pitada en la final de la Copa del Rey durante el himno de España,2026-04-19 01:10
+botellas,3,0,5.0,100,"okdiario, google_news_economia",2,España cambia las normas y es oficial: a partir de noviembre deberás devolver latas y botellas para recuperar tu dinero,2026-04-19 01:10
+latas,3,1,14.66,100,"okdiario, google_news_economia",2,España cambia las normas y es oficial: a partir de noviembre deberás devolver latas y botellas para recuperar tu dinero,2026-04-19 01:10
+devolver,3,1,14.66,100,"okdiario, google_news_economia, el_confidencial_economia",3,España cambia las normas y es oficial: a partir de noviembre deberás devolver latas y botellas para recuperar tu dinero,2026-04-19 01:10
+deberás,3,0,5.0,100,"okdiario, google_news_economia",2,España cambia las normas y es oficial: a partir de noviembre deberás devolver latas y botellas para recuperar tu dinero,2026-04-19 01:10
+noviembre,3,1,14.66,100,"okdiario, google_news_economia",2,España cambia las normas y es oficial: a partir de noviembre deberás devolver latas y botellas para recuperar tu dinero,2026-04-19 01:10
+lookman,5,0,5.0,100,"okdiario, elespanol, elpais",3,Espectáculo de goles en La Cartuja: Barrenetxea y Oyarzabal adelantan a la Real y Lookman y Julián empatan,2026-04-19 01:10
+vencer,5,1,24.43,100,"google_news_es, elpais, huffington_es, lavanguardia",4,Atlético - Real Sociedad en directo | La Real gana su tercera Copa del Rey tras vencer al Atlético en los penaltis - EL PAÍS,2026-04-19 01:10
+musso,3,2,7.33,100,"20minutos, google_news_es",2,"Fuerte polémica por el penalti de Juan Musso en la final de la Copa del Rey: ""Me quita las ganas de ver el fútbol""",2026-04-19 01:10
+álvarez,3,0,5.0,100,"20minutos, elcorreo, elespanol",3,La Real Sociedad conquista la Copa del Rey en unos penaltis para el olvido del Atlético de Madrid: ni Sorloth ni Julián Álvarez marcaron,2026-04-19 01:10
+penalti,8,2,19.54,100,"google_news_es, 20minutos, heraldo_aragon, elcorreo, elpais",5,"Atlético - Real Sociedad en directo | Pablo Marín, anotador del último penalti: “Para mí la Real es mi vida, llevo desde aquí desde que era un niño” - EL PAÍS",2026-04-19 01:10
+magyar,3,1,14.66,100,"elmundo, google_news_internacional, elcorreo",3,Péter Magyar sigue su ofensiva contra el 'sistema Orban' como si estuviese aún en campaña,2026-04-19 01:10
+normas,4,2,9.77,100,"google_news_economia, okdiario",2,Adiós Airbnb de España: modifican las normas y los propietarios ya no podrán alquilar su vivienda a turistas sin este permiso clave - El Cronista,2026-04-19 01:10
+julián,6,1,29.32,100,"20minutos, elcorreo, elpais, elespanol, okdiario",5,La Real Sociedad conquista la Copa del Rey en unos penaltis para el olvido del Atlético de Madrid: ni Sorloth ni Julián Álvarez marcaron,2026-04-19 01:10
+sociedad,56,47,5.82,100,"france24_es, google_news_es, huffington_es, 20minutos, elpais",5,Portero Marrero se viste de héroe para coronar a la Real Sociedad en la Copa del Rey,2026-04-19 01:10
+héroe,7,0,5.0,100,"france24_es, elpais, lavanguardia, okdiario, google_news_es",5,Portero Marrero se viste de héroe para coronar a la Real Sociedad en la Copa del Rey,2026-04-19 01:10
+atlético,47,43,5.34,100,"google_news_es, 20minutos, elpais, okdiario, elmundo",5,"Atlético - Real Sociedad en directo | Pablo Marín, anotador del último penalti: “Para mí la Real es mi vida, llevo desde aquí desde que era un niño” - EL PAÍS",2026-04-19 01:10
+marrero,14,3,22.8,100,"google_news_es, france24_es, elpais, elmundo, lavanguardia",5,Marrero fue otra vez Superman - Mundo Deportivo,2026-04-19 01:10
+diálogo,3,2,7.33,100,"google_news_politica, google_news_es",2,"México, España y Brasil piden diálogo respetuoso con Cuba - DW.com",2026-04-19 01:10
+marín,3,1,14.66,100,"google_news_es, levante_emv, okdiario",3,"Atlético - Real Sociedad en directo | Pablo Marín, anotador del último penalti: “Para mí la Real es mi vida, llevo desde aquí desde que era un niño” - EL PAÍS",2026-04-19 01:10
+milei,4,1,19.54,100,"google_news_politica, elmundo_internacional, google_news_internacional",3,"Kicillof, en un panel en España junto a líderes: ""Las políticas de Milei son un fracaso"" - iProfesional",2026-04-19 01:10
+oficial,5,4,6.11,100,"google_news_economia, levante_emv, okdiario",3,Oficial y confirmado | Las Fuerzas Armadas tendrán un aumento con su próximo sueldo - El Cronista,2026-04-19 01:10
+arconada,3,0,5.0,100,"elpais, lavanguardia, elmundo",3,"Unai Marrero, otro héroe vestido de azul como Arconada",2026-04-19 01:10
+simeone,6,4,7.33,100,"google_news_es, elcorreo, elpais, okdiario, elmundo",5,Duro golpe para Diego Simeone: perdió la final de la Copa del Rey y ahora solo le queda el sueño de la Champions - Yahoo,2026-04-19 01:10
+policial,3,2,7.33,100,"elcorreo, eldiario",2,Alerta policial por la oleada de robos a abuelos en varios barrios de Vitoria,2026-04-19 01:10
+penaltis,15,1,73.29,100,"20minutos, google_news_es, heraldo_aragon, elcorreo, elpais",5,La Real Sociedad conquista la Copa del Rey en unos penaltis para el olvido del Atlético de Madrid: ni Sorloth ni Julián Álvarez marcaron,2026-04-19 01:10
+fernández,4,3,6.51,100,"elmundo, levante_emv",2,Laura Fernández recomienda para este Sant Jordi tres novelas heterodoxas para lectores poco comunes,2026-04-19 01:10
+cambia,4,2,9.77,100,"france24_es, okdiario, google_news_economia",3,"""Hoy, la vergüenza cambia de bando"": la cumbre progresista se hace fiesta en Barcelona",2026-04-19 01:10
+cronista,3,3,4.89,97,google_news_economia,1,Oficial y confirmado | Las Fuerzas Armadas tendrán un aumento con su próximo sueldo - El Cronista,2026-04-19 01:10
+partir,3,3,4.89,97,"okdiario, google_news_economia",2,España cambia las normas y es oficial: a partir de noviembre deberás devolver latas y botellas para recuperar tu dinero,2026-04-19 01:10
+borja,3,3,4.89,97,"elcorreo, elmundo, google_news_es",3,Dos brillantes faenas de Borja Jiménez,2026-04-19 01:10
+ganar,6,6,4.89,97,"okdiario, elpais, elcorreo, elespanol",4,"Matarazzo, pletórico: «Siento que ganar la Copa del Rey es solo el principio»",2026-04-19 01:10
+hacia,6,6,4.89,97,"elmundo, google_news_internacional, lavanguardia, sur, heraldo_aragon",5,"Amenazas, IA... Cuando sí hay que mirar hacia arriba",2026-04-19 01:10
+austria,3,3,4.89,97,"20minutos, elmundo, google_news_internacional",3,Austria retira de la venta todos los potitos de bebé de una marca por la sospecha de que algunos están envenenados con raticida,2026-04-19 01:10
+bonoloto,9,9,4.89,97,"sur, google_news_es, elcorreo, 20minutos, okdiario",5,"Comprobar Lotería del sábado, 18 de abril: resultados de la Bonoloto, La Primitiva, de la Lotería Nacional y del Sueldazo del fin de semana de la ONCE",2026-04-19 01:10
+potitos,3,3,4.89,97,"20minutos, elmundo, google_news_internacional",3,Austria retira de la venta todos los potitos de bebé de una marca por la sospecha de que algunos están envenenados con raticida,2026-04-19 01:10
+norte,3,3,4.89,97,"sur, 20minutos, elcorreo",3,Muere un soldado francés  en el sur de Líbano mientras Israel avanza hacia el norte,2026-04-19 01:10
+fuerte,3,3,4.89,97,"20minutos, google_news_es",2,"Fuerte polémica por el penalti de Juan Musso en la final de la Copa del Rey: ""Me quita las ganas de ver el fútbol""",2026-04-19 01:10
+pablo,3,3,4.89,97,"google_news_es, levante_emv, okdiario",3,"Atlético - Real Sociedad en directo | Pablo Marín, anotador del último penalti: “Para mí la Real es mi vida, llevo desde aquí desde que era un niño” - EL PAÍS",2026-04-19 01:10
+serie,3,3,4.89,97,"elcorreo, google_news_es, elmundo",3,'The Boys': una serie visionaria que en su última temporada va a por todas,2026-04-19 01:10
+sospecha,3,3,4.89,97,"20minutos, elmundo, google_news_internacional",3,Austria retira de la venta todos los potitos de bebé de una marca por la sospecha de que algunos están envenenados con raticida,2026-04-19 01:10
+resultado,17,19,4.37,87,"okdiario, sur, google_news_es, elcorreo, elespanol",5,"Resultado Atlético de Madrid – Real Sociedad: resumen, goles y cómo quedado la final Copa del Rey online (2-2)",2026-04-19 01:10
+domingo,7,8,4.28,85,"sur, elcorreo, 20minutos",3,"Precio de la gasolina y diésel en Málaga hoy, domingo 19 de abril: ¿Dónde están las gasolineras más baratas?",2026-04-19 01:10
+derrota,4,5,3.91,78,"elpais, okdiario, elcorreo",3,Simeone asume el dolor de la derrota: “Me duele lo de hoy mucho. Necesitábamos ganar y no pudimos hacerlo”,2026-04-19 01:10
+adiós,3,4,3.66,73,"google_news_economia, lavanguardia, 20minutos",3,Adiós Airbnb de España: modifican las normas y los propietarios ya no podrán alquilar su vivienda a turistas sin este permiso clave - El Cronista,2026-04-19 01:10
+inmigración,3,4,3.66,73,"france24_es, elcorreo",2,Líderes de la extrema derecha europea se reúnen en Milán en una manifestación contra la inmigración,2026-04-19 01:10
+grave,3,4,3.66,73,"20minutos, levante_emv, google_news_es",3,Herido grave un niño de dos años tras ser atropellado por un coche en Madrid,2026-04-19 01:10
+jiménez,3,4,3.66,73,"elcorreo, elmundo, google_news_es",3,Dos brillantes faenas de Borja Jiménez,2026-04-19 01:10
+vivienda,6,8,3.66,73,"google_news_economia, sur, huffington_es",3,"España avalará la compra de vivienda, a través del ICO, a los jóvenes que coticen en la Seguridad Social - El Cronista",2026-04-19 01:10
+minutos,3,4,3.66,73,"elpais, sur, levante_emv",3,Atlético - Real Sociedad en directo | Últimos 15 minutos de prórroga con empate en el marcador,2026-04-19 01:10
+horóscopo,3,4,3.66,73,"elcorreo, sur, 20minutos",3,"Horóscopo diario, 20 de abril de 2026",2026-04-19 01:10
+matarazzo,4,6,3.26,65,"elcorreo, elpais, okdiario, google_news_es",4,"Matarazzo: «Ha sido un viaje increíble, pero esto puede ser solo el principio»",2026-04-19 01:10
+final,44,74,2.91,58,"google_news_es, huffington_es, elpais, okdiario, levante_emv",5,Duro golpe para Diego Simeone: perdió la final de la Copa del Rey y ahora solo le queda el sueño de la Champions - Yahoo,2026-04-19 01:10
+victoria,3,5,2.93,58,"elcorreo, okdiario, sur",3,Así hemos narrado la victoria de la Real Sociedad en la final,2026-04-19 01:10
+campaña,3,5,2.93,58,"elmundo, google_news_internacional, elmundo_espana",3,Péter Magyar sigue su ofensiva contra el 'sistema Orban' como si estuviese aún en campaña,2026-04-19 01:10
+concierto,3,5,2.93,58,levante_emv,1,"Dani Fernández, con  el hombro vendado, reanuda el concierto en el Roig Arena",2026-04-19 01:10
+marca,4,7,2.79,55,"20minutos, elpais, okdiario, sur",4,La Real Sociedad conquista la Copa del Rey en unos penaltis para el olvido del Atlético de Madrid: ni Sorloth ni Julián Álvarez marcaron,2026-04-19 01:10
+sorteo,8,14,2.79,55,"sur, google_news_es, okdiario, levante_emv",4,"Resultado del sorteo de la Lotería Nacional del sábado, 18 de abril de 2026",2026-04-19 01:10
+sigue,3,6,2.44,48,"elmundo, google_news_internacional, elcorreo",3,Péter Magyar sigue su ofensiva contra el 'sistema Orban' como si estuviese aún en campaña,2026-04-19 01:10
+mercado,3,6,2.44,48,"eldiario, google_news_es, huffington_es, elmundo, google_news_internacional",5,El mercado de las flores parisino que es un paseo imprescindible en primavera,2026-04-19 01:10
+cambio,3,6,2.44,48,"sur, google_news_internacional, huffington_es",3,Sí a la regularización masiva…y al cambio de la ley,2026-04-19 01:10
+online,3,6,2.44,48,okdiario,1,"Resultado Atlético de Madrid – Real Sociedad: resumen, goles y cómo quedado la final Copa del Rey online (2-2)",2026-04-19 01:10
+méxico,9,19,2.31,46,"google_news_politica, elcorreo, google_news_es, eldiario, google_news_internacional",5,"México, España y Brasil piden diálogo respetuoso con Cuba - DW.com",2026-04-19 01:10
+historia,5,11,2.22,44,"france24_es, elpais, elcorreo, huffington_es, 20minutos",5,Marie-Louise Eta hace historia y dirige su primer partido al frente del Unión Berlín,2026-04-19 01:10
+brasil,7,16,2.14,42,"google_news_politica, google_news_es, eldiario, google_news_internacional, levante_emv",5,"México, España y Brasil piden diálogo respetuoso con Cuba - DW.com",2026-04-19 01:10
+jóvenes,3,7,2.09,41,"sur, google_news_economia, elcorreo",3,Cerca de 500 jóvenes toman las calles de Frigiliana para celebrar la Pascua,2026-04-19 01:10
+piden,3,7,2.09,41,"google_news_politica, google_news_es, levante_emv",3,"México, España y Brasil piden diálogo respetuoso con Cuba - DW.com",2026-04-19 01:10
+sábado,14,33,2.07,41,"sur, elcorreo, google_news_es, levante_emv, okdiario",5,"Comprobar Lotería del sábado, 18 de abril: resultados de la Bonoloto, La Primitiva, de la Lotería Nacional y del Sueldazo del fin de semana de la ONCE",2026-04-19 01:10
+redes,3,7,2.09,41,"elcorreo, okdiario",2,El Hub de redes inteligentes de Iberdrola y la Diputación en Larraskitu cumple cinco años y ha movilizado 120 millones,2026-04-19 01:10
