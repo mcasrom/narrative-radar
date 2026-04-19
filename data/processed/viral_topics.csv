@@ -1,116 +1,144 @@
 keyword,count_now,count_base,ratio,viral_score,sources,n_sources,sample_title,detected_at
-predicción,13,1,57.92,100,okdiario,1,"Predicción del horóscopo para Piscis hoy, domingo 19 de abril de 2026",2026-04-19 08:08
-aemet,7,1,31.19,100,okdiario,1,"Incredulidad en Sevilla ante el mapa de la AEMET: una Feria de Abril al límite, con 36ºC y el riesgo real de lluvia activo",2026-04-19 08:08
-horóscopo,12,4,13.37,100,okdiario,1,"Predicción del horóscopo para Piscis hoy, domingo 19 de abril de 2026",2026-04-19 08:08
-cielo,4,2,8.91,100,"okdiario, google_news_es",2,"AEMET prevé cielo poco nuboso y chubascos en Zaragoza, con viento flojo y cambios por la tarde",2026-04-19 08:08
-lucha,4,1,17.82,100,"20minutos, levante_emv, elpais, elconfidencial",4,"Jordi Wild pedirá a los asistentes que no haya cánticos contra Sánchez en su evento de lucha libre: ""Sé que puede volver a pasar""",2026-04-19 08:08
-chubascos,6,1,26.73,100,"okdiario, google_news_es",2,"AEMET prevé cielo poco nuboso y chubascos en Zaragoza, con viento flojo y cambios por la tarde",2026-04-19 08:08
-alternativa,5,1,22.28,100,"okdiario, google_news_internacional, el_confidencial_tech, heraldo_aragon",4,"Suena raro, pero la ciencia lo respalda: los hongos pueden ser la alternativa al silicio para desarrollar chips informáticos",2026-04-19 08:08
-laboral,3,1,13.37,100,"google_news_es, okdiario",2,Admitida a trámite la querella contra el alcalde de Móstoles por acoso sexual y laboral y otros cuatro delitos - ABC,2026-04-19 08:08
-pekín,3,0,5.0,100,"elpais, elmundo, google_news_internacional",3,Los robots chinos pulverizan registros y arrasan a los humanos en el medio maratón de Pekín,2026-04-19 08:08
-emocional,4,0,5.0,100,"20minutos, heraldo_aragon, levante_emv, okdiario",4,"Niños con trastornos del neurodesarrollo: más riesgo de malestar emocional, depresión, ansiedad y problemas de conducta",2026-04-19 08:08
-riesgo,7,6,5.2,100,"20minutos, heraldo_aragon, okdiario, infolibre, google_news_economia",5,"Niños con trastornos del neurodesarrollo: más riesgo de malestar emocional, depresión, ansiedad y problemas de conducta",2026-04-19 08:08
-niños,6,3,8.91,100,"20minutos, eldiario, elpais, google_news_es",4,"Niños con trastornos del neurodesarrollo: más riesgo de malestar emocional, depresión, ansiedad y problemas de conducta",2026-04-19 08:08
-pasar,4,1,17.82,100,"20minutos, elcorreo, levante_emv, elpais, heraldo_aragon",5,"Charlize Theron recuerda la noche en la que su madre mató a su padre: ""Sabía que algo malo iba a pasar""",2026-04-19 08:08
-pueden,6,5,5.35,100,"okdiario, elpais",2,Los científicos no se lo pueden creer: los cachalotes pueden producir sus propios sonidos vocálicos similares al lenguaje humano y tiene hasta ‘vocales’,2026-04-19 08:08
-naturaleza,3,1,13.37,100,"okdiario, heraldo_aragon",2,"Carbonato de calcio: propiedades, usos y presencia en la naturaleza",2026-04-19 08:08
-ónega,3,0,5.0,100,"okdiario, levante_emv",2,Dónde ver ‘Las hijas de la criada’: la miniserie de 8 episodios que adapta la novela literaria de Sonsoles Ónega,2026-04-19 08:08
-sonsoles,3,0,5.0,100,"okdiario, levante_emv",2,Dónde ver ‘Las hijas de la criada’: la miniserie de 8 episodios que adapta la novela literaria de Sonsoles Ónega,2026-04-19 08:08
-cáncer,3,1,13.37,100,"heraldo_aragon, okdiario, google_news_es",3,"El riesgo de cáncer es mayor en adultos que nunca se han casado, según un amplio estudio",2026-04-19 08:08
-activo,3,0,5.0,100,"okdiario, 20minutos, elpais, google_news_internacional",4,"Incredulidad en Sevilla ante el mapa de la AEMET: una Feria de Abril al límite, con 36ºC y el riesgo real de lluvia activo",2026-04-19 08:08
-rompe,3,1,13.37,100,"levante_emv, google_news_es, okdiario",3,Dani Fernández sufre una caída en el Roig Arena de València y se rompe los ligamentos del hombro,2026-04-19 08:08
-prevé,3,0,5.0,100,okdiario,1,"AEMET prevé cielo poco nuboso y chubascos en Zaragoza, con viento flojo y cambios por la tarde",2026-04-19 08:08
-cambios,4,1,17.82,100,"okdiario, el_confidencial_tech",2,La Estación Intermodal de Palma cierra hoy domingo: estos son los cambios de paradas del transporte público,2026-04-19 08:08
-exige,3,2,6.68,100,"okdiario, google_news_internacional",2,Vox reinventa el vado en Palma: exige aparcamiento libre en los de los comercios fuera del horario laboral,2026-04-19 08:08
-recomendaciones,3,0,5.0,100,levante_emv,1,"Sánchez, el paradigma del político 'tiktoker': recomendaciones y house tour para lograr una ""conexión emocional""",2026-04-19 08:08
-comer,3,0,5.0,100,"okdiario, huffington_es, elpais",3,Vox reinventa el vado en Palma: exige aparcamiento libre en los de los comercios fuera del horario laboral,2026-04-19 08:08
-extremo,3,0,5.0,100,"levante_emv, elpais",2,Las lesiones que acechan al tenis de élite: el peaje invisible de un deporte extremo,2026-04-19 08:08
-deporte,3,1,13.37,100,"levante_emv, infolibre, elpais",3,Las lesiones que acechan al tenis de élite: el peaje invisible de un deporte extremo,2026-04-19 08:08
-trabajadores,4,3,5.94,100,"okdiario, elpais, google_news_economia",3,La ley laboral lo avala y es oficial: los trabajadores en excedencia pueden cobrar el paro si se cumple este requisito con la empresa,2026-04-19 08:08
-maratón,3,1,13.37,100,"okdiario, elpais, elmundo",3,"Maratón de Madrid 2026: fecha, horarios, recorrido, inscripciones y cuántos kilómetros son",2026-04-19 08:08
-fondo,3,2,6.68,100,"sur, google_news_internacional, okdiario, elpais",4,Los fondos de inversión se forran con las decisiones de Trump,2026-04-19 08:08
-previsión,3,2,6.68,100,"google_news_internacional, levante_emv",2,"Gonzalo Bernardos discrepa con la previsión de recesión mundial del Fondo Monetario Internacional: “Ha querido espantar a la gente. Es improbable"" - Lecturas",2026-04-19 08:08
-metro,4,2,8.91,100,"okdiario, google_news_internacional, levante_emv, google_news_es, heraldo_aragon",5,"Maratón de Madrid 2026: fecha, horarios, recorrido, inscripciones y cuántos kilómetros son",2026-04-19 08:08
-meloni,3,2,6.68,100,"levante_emv, heraldo_aragon, google_news_internacional",3,La irrupción de Magyar reconfigura las fuerzas en la derecha e incentiva a Abascal a reconstruir puentes con Meloni,2026-04-19 08:08
-abascal,3,2,6.68,100,"levante_emv, heraldo_aragon, google_news_internacional",3,La irrupción de Magyar reconfigura las fuerzas en la derecha e incentiva a Abascal a reconstruir puentes con Meloni,2026-04-19 08:08
-sostenible,3,1,13.37,100,"google_news_internacional, huffington_es, okdiario",3,Crean un laboratorio internacional de tecnología para vehículos con nuevas energías para liderar la movilidad sostenible - ECOticias.com,2026-04-19 08:08
-necesita,4,1,17.82,100,"levante_emv, 20minutos, elpais, heraldo_aragon, google_news_economia",5,Por qué Adif necesita cambiar el modelo,2026-04-19 08:08
-político,3,1,13.37,100,"levante_emv, google_news_politica, elpais",3,"Sánchez, el paradigma del político 'tiktoker': recomendaciones y house tour para lograr una ""conexión emocional""",2026-04-19 08:08
-novela,5,1,22.28,100,"okdiario, levante_emv, elpais, google_news_es",4,Dónde ver ‘Las hijas de la criada’: la miniserie de 8 episodios que adapta la novela literaria de Sonsoles Ónega,2026-04-19 08:08
-destrucción,3,2,6.68,100,"20minutos, elpais_internacional, google_news_internacional",3,"Venezolanos en Madrid: ""Son 25 años de destrucción y en tres meses no cambiará, pero confío en María Corina""",2026-04-19 08:08
-podemos,3,2,6.68,100,"levante_emv, heraldo_aragon",2,"IU, Sumar Comuns y Más Madrid escenifican este domingo su alianza sin presión ante los movimientos de Podemos",2026-04-19 08:08
-alcance,3,0,5.0,100,"elespanol, elmundo_internacional, google_news_internacional",3,Corea del Norte vuelve a atacar las aguas de Japón: lanza varios misiles balísticos de corto alcance hacia el mar nipón,2026-04-19 08:08
-frágil,3,0,5.0,100,"okdiario, 20minutos",2,"Guerra de Irán en directo hoy 19 de abril: alto el fuego frágil, tensión en Ormuz y situación en Oriente Próximo",2026-04-19 08:08
-misiles,3,1,13.37,100,"elespanol, elmundo_internacional, google_news_internacional",3,Corea del Norte vuelve a atacar las aguas de Japón: lanza varios misiles balísticos de corto alcance hacia el mar nipón,2026-04-19 08:08
-oportunidad,3,1,13.37,100,"elpais_espana, google_news_internacional, okdiario",3,Los excesos de la ultraderecha abren una oportunidad para la izquierda global,2026-04-19 08:08
-lejos,4,1,17.82,100,"google_news_internacional, elpais, elcorreo, 20minutos, heraldo_aragon",5,"Guerra en Irán y el bloqueo en Ormuz, última hora en directo | Irán dice que las negociaciones con Trump y EE.UU. avanzan pero que el final está lejos - La Vanguardia",2026-04-19 08:08
-derecho,7,3,10.4,100,"google_news_internacional, eldiario, infolibre",3,"Irán arremete contra la Unión Europea por usar el derecho internacional de forma ""hipócrita"" en Ormuz - Noticias de Gipuzkoa",2026-04-19 08:08
-paradoja,3,0,5.0,100,"google_news_es, elpais",2,"Trump choca con su ‘drill, baby, drill’: la paradoja de EE UU se ahoga por la escasez de petróleo, pese a ser el primer productor mundial - EL PAÍS",2026-04-19 08:08
-principales,3,2,6.68,100,"levante_emv, google_news_internacional",2,La diplomacia del bazuca: la intolerancia de Israel a las críticas le aleja también de sus principales aliados en Europa,2026-04-19 08:08
-pérdida,3,1,13.37,100,"okdiario, google_news_economia",2,Agente de la UCAO: «La ‘Kitchen’ fue una pérdida de tiempo y una vergüenza»,2026-04-19 08:08
-batalla,4,3,5.94,100,"elcorreo, elpais_internacional, google_news_economia",3,El PNV se prepara para la próxima batalla electoral,2026-04-19 08:08
-agente,3,0,5.0,100,okdiario,1,Agente de la UCAO: «La ‘Kitchen’ fue una pérdida de tiempo y una vergüenza»,2026-04-19 08:08
-balísticos,3,0,5.0,100,"elespanol, elmundo_internacional, google_news_internacional",3,Corea del Norte vuelve a atacar las aguas de Japón: lanza varios misiles balísticos de corto alcance hacia el mar nipón,2026-04-19 08:08
-sumar,3,1,13.37,100,"levante_emv, 20minutos",2,"IU, Sumar Comuns y Más Madrid escenifican este domingo su alianza sin presión ante los movimientos de Podemos",2026-04-19 08:08
-perder,5,3,7.43,100,"20minutos, okdiario, elpais, heraldo_aragon",4,"Diego Simeone, tras perder la final de la Copa del Rey: ""Me duele mucho, necesitábamos ganar""",2026-04-19 08:08
-japón,6,4,6.68,100,"elespanol, okdiario, elmundo_internacional, google_news_internacional, google_news_es",5,Corea del Norte vuelve a atacar las aguas de Japón: lanza varios misiles balísticos de corto alcance hacia el mar nipón,2026-04-19 08:08
-laboratorio,3,2,6.68,100,"sur, google_news_internacional, okdiario",3,Turno para el laboratorio en el caso Esther López en una causa en 'stand by',2026-04-19 08:08
-pasaporte,3,0,5.0,100,"levante_emv, okdiario",2,Nace el pasaporte digital para controlar toda la vida de los productos industriales,2026-04-19 08:08
-gandia,5,0,5.0,100,levante_emv,1,"Las recomendaciones de las librerías de Gandia para el Día del Libro: De ""Mediterrània"" de Josep Piera a la última novela de Sonsoles Ónega",2026-04-19 08:08
-corea,4,0,5.0,100,"elespanol, elmundo_internacional, google_news_internacional, elpais",4,Corea del Norte vuelve a atacar las aguas de Japón: lanza varios misiles balísticos de corto alcance hacia el mar nipón,2026-04-19 08:08
-hungría,3,2,6.68,100,"google_news_internacional, elpais_internacional, elpais",3,El incierto horizonte de la extrema derecha internacional tras la derrota de Orbán en Hungría - ElPlural.com,2026-04-19 08:08
-unión,3,2,6.68,100,"google_news_internacional, 20minutos, france24_es",3,"Irán arremete contra la Unión Europea por usar el derecho internacional de forma ""hipócrita"" en Ormuz - Noticias de Gipuzkoa",2026-04-19 08:08
-domingo,20,15,5.94,100,"okdiario, levante_emv",2,"Predicción del horóscopo para Piscis hoy, domingo 19 de abril de 2026",2026-04-19 08:08
-corto,3,0,5.0,100,"elespanol, elmundo_internacional, google_news_internacional",3,Corea del Norte vuelve a atacar las aguas de Japón: lanza varios misiles balísticos de corto alcance hacia el mar nipón,2026-04-19 08:08
-invisible,3,3,4.46,89,"levante_emv, elpais_internacional, google_news_internacional",3,Las lesiones que acechan al tenis de élite: el peaje invisible de un deporte extremo,2026-04-19 08:08
-lanza,5,5,4.46,89,"elespanol, google_news_economia, elmundo_internacional, google_news_internacional, levante_emv",5,Corea del Norte vuelve a atacar las aguas de Japón: lanza varios misiles balísticos de corto alcance hacia el mar nipón,2026-04-19 08:08
-aragonesa,3,3,4.46,89,"heraldo_aragon, google_news_internacional",2,La película aragonesa El sueño de Aylan compite en el Festival Internacional Tokyo Lift-Off 2026,2026-04-19 08:08
-confidencial,3,3,4.46,89,"google_news_economia, google_news_internacional",2,"Familias menos endeudadas, con menos vivienda y más riesgo - El Confidencial",2026-04-19 08:08
-feijóo,3,3,4.46,89,"google_news_politica, levante_emv, elpais",3,Trump ilumina a Sánchez y ensombrece a Feijóo - ElPlural.com,2026-04-19 08:08
-valència,10,10,4.46,89,"levante_emv, google_news_es",2,Dani Fernández sufre una caída en el Roig Arena de València y se rompe los ligamentos del hombro,2026-04-19 08:08
-película,3,3,4.46,89,"heraldo_aragon, google_news_internacional, 20minutos",3,La película aragonesa El sueño de Aylan compite en el Festival Internacional Tokyo Lift-Off 2026,2026-04-19 08:08
-capital,3,3,4.46,89,"okdiario, elpais",2,El edificio más alto de Castilla y León no está en ninguna capital: hoy es un símbolo de la especulación inmobiliaria,2026-04-19 08:08
-negociaciones,3,3,4.46,89,"google_news_internacional, elpais, elcorreo",3,"Guerra en Irán y el bloqueo en Ormuz, última hora en directo | Irán dice que las negociaciones con Trump y EE.UU. avanzan pero que el final está lejos - La Vanguardia",2026-04-19 08:08
-empieza,3,3,4.46,89,"eldiario, okdiario, heraldo_aragon",3,La persecución a los inmigrantes empieza con el pacto en Extremadura,2026-04-19 08:08
-valenciana,3,3,4.46,89,"levante_emv, elconfidencial",2,Videojuegos: De ‘hobby’ a fenómeno con la Comunitat Valenciana como polo dinámico,2026-04-19 08:08
-libro,4,4,4.46,89,"huffington_es, levante_emv, heraldo_aragon",3,¿El día de qué libro?,2026-04-19 08:08
-cierre,5,5,4.46,89,"okdiario, google_news_internacional, europapress, elpais_internacional",4,La ruta alternativa en Europa que podría reordenar el tráfico marítimo ante el cierre del estrecho de Ormuz,2026-04-19 08:08
-europea,3,3,4.46,89,"google_news_internacional, 20minutos",2,"Irán arremete contra la Unión Europea por usar el derecho internacional de forma ""hipócrita"" en Ormuz - Noticias de Gipuzkoa",2026-04-19 08:08
-petróleo,3,3,4.46,89,"google_news_es, elpais, el_confidencial_tech",3,"Trump choca con su ‘drill, baby, drill’: la paradoja de EE UU se ahoga por la escasez de petróleo, pese a ser el primer productor mundial - EL PAÍS",2026-04-19 08:08
-norte,5,6,3.71,74,"elespanol, okdiario, elmundo_internacional, google_news_internacional",4,Corea del Norte vuelve a atacar las aguas de Japón: lanza varios misiles balísticos de corto alcance hacia el mar nipón,2026-04-19 08:08
-china,5,6,3.71,74,"okdiario, elmundo, google_news_politica",3,Italia se inspira en China y crea un perro-robot IA que recoge el 90% de las colillas enterradas en la playa,2026-04-19 08:08
-vozpopuli,4,5,3.56,71,google_news_economia,1,La inmensa mayoría de los nuevos trabajadores extranjeros proceden de fuera de la UE - Vozpopuli,2026-04-19 08:08
-puesto,3,4,3.34,66,"huffington_es, levante_emv, elpais_internacional, google_news_internacional",4,Lío por el rótulo que TVE ha puesto para informar de las celebraciones en San Sebastián por la Copa del Rey,2026-04-19 08:08
-económica,3,4,3.34,66,"20minutos, okdiario, elpais",3,"El ocio, un lujo inalcanzable para muchas personas con discapacidad intelectual: ""No debería depender de la capacidad económica""",2026-04-19 08:08
-santiago,3,4,3.34,66,"google_news_internacional, heraldo_aragon",2,De lo convencional a la acupuntura urbana: ideas del concurso internacional para la ronda histórica de Santiago - La Voz de Galicia,2026-04-19 08:08
-opinión,3,4,3.34,66,"google_news_internacional, elpais, google_news_politica",3,"Joaquín López Sánchez, experto en Derecho Internacional Humanitario: ""Se está vulnerando el derecho humanitario y no debe haber impunidad"" - La Opinión de Murcia",2026-04-19 08:08
-tormentas,3,4,3.34,66,okdiario,1,Meteored lo confirma y es oficial: el domingo las tormentas se intensifican en el Norte y el mapa se tiñe de aviso naranja,2026-04-19 08:08
-comida,3,4,3.34,66,"huffington_es, okdiario, heraldo_aragon",3,Un venezolano explica el gran cambio que siente desde que probó la comida española:,2026-04-19 08:08
-podría,3,4,3.34,66,"okdiario, google_news_internacional, elpais",3,La ruta alternativa en Europa que podría reordenar el tráfico marítimo ante el cierre del estrecho de Ormuz,2026-04-19 08:08
-digital,5,7,3.18,63,"levante_emv, google_news_es, okdiario",3,"El Raval, el primer Cupra con sistema operativo Android, marca el salto digital en la marca",2026-04-19 08:08
-también,8,12,2.97,59,"levante_emv, google_news_es, google_news_internacional, eldiario, elpais",5,La diplomacia del bazuca: la intolerancia de Israel a las críticas le aleja también de sus principales aliados en Europa,2026-04-19 08:08
-aragón,12,18,2.97,59,"google_news_internacional, heraldo_aragon",2,Internacional progresista en Barcelona - El Periódico de Aragón,2026-04-19 08:08
-cultura,4,6,2.97,59,"huffington_es, elpais",2,"Paco León: &quot;Detrás de cada discurso de odio hay analfabetismo, una falta de cultura y de conocimiento. Se tiene miedo de lo que no se conoce&quot;",2026-04-19 08:08
-cumple,4,6,2.97,59,"elcorreo, okdiario, elpais_internacional, heraldo_aragon",4,El Hub de redes inteligentes de Iberdrola y la Diputación en Larraskitu cumple cinco años y ha movilizado 210 millones,2026-04-19 08:08
-hecho,4,6,2.97,59,"huffington_es, elpais, heraldo_aragon",3,Las cámaras captan lo que ha hecho Oyarzabal cuando se ha cruzado con Ayuso y está dando la vuelta a España,2026-04-19 08:08
-clave,5,8,2.78,55,"20minutos, okdiario, google_news_economia, infolibre, elpais_internacional",5,De 12 a 24 millones en media hora: Anticorrupción desgrana el minuto a minuto del contrato clave a Ábalos,2026-04-19 08:08
-primer,8,13,2.74,54,"elcorreo, 20minutos, levante_emv, okdiario, elpais",5,Primeras evidencias de la tragedia de la pasarela de Santander,2026-04-19 08:08
-ciencia,3,5,2.67,53,"levante_emv, google_news_es, okdiario",3,¿Un emoji vale más que mil palabras? La ciencia dice que sí,2026-04-19 08:08
-tensión,3,5,2.67,53,"okdiario, 20minutos",2,"Guerra de Irán en directo hoy 19 de abril: alto el fuego frágil, tensión en Ormuz y situación en Oriente Próximo",2026-04-19 08:08
-minuto,3,5,2.67,53,"20minutos, elpais, heraldo_aragon",3,De 12 a 24 millones en media hora: Anticorrupción desgrana el minuto a minuto del contrato clave a Ábalos,2026-04-19 08:08
-llegar,3,5,2.67,53,"okdiario, elpais, heraldo_aragon",3,"Autobuses y metro para llegar a la Feria de Sevilla: horarios, líneas y precios",2026-04-19 08:08
-electoral,3,5,2.67,53,"elcorreo, levante_emv",2,El PNV se prepara para la próxima batalla electoral,2026-04-19 08:08
-italia,3,5,2.67,53,"google_news_internacional, huffington_es, okdiario",3,El AOVE Oleaí logra la Medalla Extragold en el certamen internacional BIOL en Italia - Óleo Revista,2026-04-19 08:08
-pablo,3,5,2.67,53,"20minutos, levante_emv",2,"Pablo Marín, tras el penalti ganador en la final: ""Ganar un título con el equipo de mi vida es lo más grande""",2026-04-19 08:08
-extrema,3,5,2.67,53,"eldiario, google_news_internacional, google_news_es, elpais",4,La persecución a los inmigrantes empieza con el pacto en Extremadura,2026-04-19 08:08
-festival,4,7,2.55,50,"heraldo_aragon, google_news_internacional",2,El festival Pachanga arrasa en Zaragoza con una boda y King África,2026-04-19 08:08
-elplural.com,5,9,2.48,49,"google_news_politica, google_news_internacional",2,Trump ilumina a Sánchez y ensombrece a Feijóo - ElPlural.com,2026-04-19 08:08
-nuevas,4,8,2.23,44,"google_news_internacional, levante_emv, heraldo_aragon, google_news_economia",4,Crean un laboratorio internacional de tecnología para vehículos con nuevas energías para liderar la movilidad sostenible - ECOticias.com,2026-04-19 08:08
-modelo,3,6,2.23,44,"levante_emv, elpais, heraldo_aragon",3,Por qué Adif necesita cambiar el modelo,2026-04-19 08:08
-oriente,3,6,2.23,44,"okdiario, elcorreo",2,"Guerra de Irán en directo hoy 19 de abril: alto el fuego frágil, tensión en Ormuz y situación en Oriente Próximo",2026-04-19 08:08
-tierra,3,6,2.23,44,"okdiario, elconfidencial",2,China desafía las normas con un láser con potencia de 2 vatios que transmite datos a 36.705 km de la Tierra a velocidad de 1 gigabit por segundo,2026-04-19 08:08
-varios,4,8,2.23,44,"elespanol, elmundo_internacional, google_news_internacional, heraldo_aragon",4,Corea del Norte vuelve a atacar las aguas de Japón: lanza varios misiles balísticos de corto alcance hacia el mar nipón,2026-04-19 08:08
-cerca,4,8,2.23,44,"elpais, huffington_es, 20minutos, elpais_internacional, google_news_internacional",5,"Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Irán eleva a cerca de 3.500 los muertos en la guerra",2026-04-19 08:08
-regularización,6,13,2.06,41,"google_news_es, google_news_politica, eldiario, infolibre, elpais",5,"La esperanza de refugiados como Andrés tras la regularización: ""Podremos vincularnos con las demás personas y progresar"" - Cadena SER",2026-04-19 08:08
-millones,9,20,2.0,40,"elcorreo, 20minutos, levante_emv, okdiario, newtral",5,El Hub de redes inteligentes de Iberdrola y la Diputación en Larraskitu cumple cinco años y ha movilizado 210 millones,2026-04-19 08:08
-vanguardia,5,11,2.03,40,"google_news_internacional, google_news_es, google_news_economia",3,"Guerra en Irán y el bloqueo en Ormuz, última hora en directo | Irán dice que las negociaciones con Trump y EE.UU. avanzan pero que el final está lejos - La Vanguardia",2026-04-19 08:08
+alimentos,3,1,12.54,100,"google_news_economia, eldiario, okdiario",3,Producir sin miedo volvió al mapa: el abastecimiento de alimentos ya no es solo una cuestión agrícola - Infobae,2026-04-19 08:38
+exige,3,2,6.27,100,"okdiario, google_news_internacional",2,Vox reinventa el vado en Palma: exige aparcamiento libre en los de los comercios fuera del horario laboral,2026-04-19 08:38
+trabajadores,4,3,5.58,100,"okdiario, elpais, google_news_economia",3,La ley laboral lo avala y es oficial: los trabajadores en excedencia pueden cobrar el paro si se cumple este requisito con la empresa,2026-04-19 08:38
+maratón,3,1,12.54,100,"okdiario, elpais, elmundo",3,"Maratón de Madrid 2026: fecha, horarios, recorrido, inscripciones y cuántos kilómetros son",2026-04-19 08:38
+previsión,3,2,6.27,100,"google_news_internacional, levante_emv",2,"Gonzalo Bernardos discrepa con la previsión de recesión mundial del Fondo Monetario Internacional: “Ha querido espantar a la gente. Es improbable"" - Lecturas",2026-04-19 08:38
+meloni,3,2,6.27,100,"levante_emv, heraldo_aragon, google_news_internacional",3,La irrupción de Magyar reconfigura las fuerzas en la derecha e incentiva a Abascal a reconstruir puentes con Meloni,2026-04-19 08:38
+abascal,3,2,6.27,100,"levante_emv, heraldo_aragon, google_news_internacional",3,La irrupción de Magyar reconfigura las fuerzas en la derecha e incentiva a Abascal a reconstruir puentes con Meloni,2026-04-19 08:38
+necesita,4,1,16.73,100,"levante_emv, 20minutos, elpais, heraldo_aragon, google_news_economia",5,Por qué Adif necesita cambiar el modelo,2026-04-19 08:38
+activo,3,0,5.0,100,"okdiario, 20minutos, elpais, google_news_internacional",4,"Incredulidad en Sevilla ante el mapa de la AEMET: una Feria de Abril al límite, con 36ºC y el riesgo real de lluvia activo",2026-04-19 08:38
+aemet,7,1,29.27,100,okdiario,1,"Incredulidad en Sevilla ante el mapa de la AEMET: una Feria de Abril al límite, con 36ºC y el riesgo real de lluvia activo",2026-04-19 08:38
+cáncer,3,1,12.54,100,"heraldo_aragon, okdiario, google_news_es",3,"El riesgo de cáncer es mayor en adultos que nunca se han casado, según un amplio estudio",2026-04-19 08:38
+lucha,4,1,16.73,100,"20minutos, levante_emv, elpais, elconfidencial",4,"Jordi Wild pedirá a los asistentes que no haya cánticos contra Sánchez en su evento de lucha libre: ""Sé que puede volver a pasar""",2026-04-19 08:38
+emocional,4,0,5.0,100,"20minutos, heraldo_aragon, levante_emv, okdiario",4,"Niños con trastornos del neurodesarrollo: más riesgo de malestar emocional, depresión, ansiedad y problemas de conducta",2026-04-19 08:38
+niños,5,4,5.23,100,"20minutos, eldiario, elpais",3,"Niños con trastornos del neurodesarrollo: más riesgo de malestar emocional, depresión, ansiedad y problemas de conducta",2026-04-19 08:38
+pasar,4,1,16.73,100,"20minutos, elcorreo, levante_emv, elpais, heraldo_aragon",5,"Charlize Theron recuerda la noche en la que su madre mató a su padre: ""Sabía que algo malo iba a pasar""",2026-04-19 08:38
+choca,4,3,5.58,100,"google_news_es, elpais",2,"El temor de padres españoles al clima político en EE.UU. choca con el sueño de sus hijos: ""Si te toca, rechaza la beca"" - RTVE.es",2026-04-19 08:38
+beirut,3,1,12.54,100,"levante_emv, elpais_internacional, google_news_internacional",3,"Los suburbios del sur de Beirut, epicentro de la devastación en el Líbano: ""Esperaremos 10 días para reconstruir""",2026-04-19 08:38
+pueden,6,5,5.02,100,"okdiario, elpais",2,Los científicos no se lo pueden creer: los cachalotes pueden producir sus propios sonidos vocálicos similares al lenguaje humano y tiene hasta ‘vocales’,2026-04-19 08:38
+naturaleza,3,1,12.54,100,"okdiario, heraldo_aragon",2,"Carbonato de calcio: propiedades, usos y presencia en la naturaleza",2026-04-19 08:38
+ónega,3,0,5.0,100,"okdiario, levante_emv",2,Dónde ver ‘Las hijas de la criada’: la miniserie de 8 episodios que adapta la novela literaria de Sonsoles Ónega,2026-04-19 08:38
+sonsoles,3,0,5.0,100,"okdiario, levante_emv",2,Dónde ver ‘Las hijas de la criada’: la miniserie de 8 episodios que adapta la novela literaria de Sonsoles Ónega,2026-04-19 08:38
+novela,5,1,20.91,100,"okdiario, levante_emv, elpais, google_news_es",4,Dónde ver ‘Las hijas de la criada’: la miniserie de 8 episodios que adapta la novela literaria de Sonsoles Ónega,2026-04-19 08:38
+rompe,3,1,12.54,100,"levante_emv, google_news_es, okdiario",3,"La Kitchen, al romper Bárcenas con el PP de Rajoy: ""Plan contra LB, intervención de las comunicaciones y registros""",2026-04-19 08:38
+unión,3,2,6.27,100,"google_news_internacional, 20minutos, france24_es",3,"Irán arremete contra la Unión Europea por usar el derecho internacional de forma ""hipócrita"" en Ormuz - Noticias de Gipuzkoa",2026-04-19 08:38
+laboratorio,3,2,6.27,100,"sur, google_news_internacional, okdiario",3,Turno para el laboratorio en el caso Esther López en una causa en 'stand by',2026-04-19 08:38
+extremo,3,0,5.0,100,"levante_emv, elpais",2,Las lesiones que acechan al tenis de élite: el peaje invisible de un deporte extremo,2026-04-19 08:38
+cambios,4,1,16.73,100,"okdiario, el_confidencial_tech",2,La Estación Intermodal de Palma cierra hoy domingo: estos son los cambios de paradas del transporte público,2026-04-19 08:38
+podemos,3,2,6.27,100,"levante_emv, heraldo_aragon",2,"IU, Sumar Comuns y Más Madrid escenifican este domingo su alianza sin presión ante los movimientos de Podemos",2026-04-19 08:38
+destrucción,4,2,8.36,100,"20minutos, elpais_internacional, google_news_internacional",3,"Venezolanos en Madrid: ""Son 25 años de destrucción y en tres meses no cambiará, pero confío en María Corina""",2026-04-19 08:38
+oportunidad,3,1,12.54,100,"elpais_espana, google_news_internacional, okdiario",3,Los excesos de la ultraderecha abren una oportunidad para la izquierda global,2026-04-19 08:38
+productor,3,0,5.0,100,"google_news_es, elpais",2,"Trump choca con su ‘drill, baby, drill’: la paradoja de EE UU se ahoga por la escasez de petróleo, pese a ser el primer productor mundial - EL PAÍS",2026-04-19 08:38
+petróleo,4,2,8.36,100,"google_news_es, elpais, el_confidencial_tech",3,"Trump choca con su ‘drill, baby, drill’: la paradoja de EE UU se ahoga por la escasez de petróleo, pese a ser el primer productor mundial - EL PAÍS",2026-04-19 08:38
+escasez,3,0,5.0,100,"google_news_es, elpais",2,"Trump choca con su ‘drill, baby, drill’: la paradoja de EE UU se ahoga por la escasez de petróleo, pese a ser el primer productor mundial - EL PAÍS",2026-04-19 08:38
+ahoga,3,0,5.0,100,"google_news_es, elpais",2,"Trump choca con su ‘drill, baby, drill’: la paradoja de EE UU se ahoga por la escasez de petróleo, pese a ser el primer productor mundial - EL PAÍS",2026-04-19 08:38
+paradoja,3,0,5.0,100,"google_news_es, elpais",2,"Trump choca con su ‘drill, baby, drill’: la paradoja de EE UU se ahoga por la escasez de petróleo, pese a ser el primer productor mundial - EL PAÍS",2026-04-19 08:38
+drill’,3,0,5.0,100,"google_news_es, elpais",2,"Trump choca con su ‘drill, baby, drill’: la paradoja de EE UU se ahoga por la escasez de petróleo, pese a ser el primer productor mundial - EL PAÍS",2026-04-19 08:38
+‘drill,3,0,5.0,100,"google_news_es, elpais",2,"Trump choca con su ‘drill, baby, drill’: la paradoja de EE UU se ahoga por la escasez de petróleo, pese a ser el primer productor mundial - EL PAÍS",2026-04-19 08:38
+pérdida,3,1,12.54,100,"okdiario, google_news_economia",2,Agente de la UCAO: «La ‘Kitchen’ fue una pérdida de tiempo y una vergüenza»,2026-04-19 08:38
+agente,3,0,5.0,100,okdiario,1,Agente de la UCAO: «La ‘Kitchen’ fue una pérdida de tiempo y una vergüenza»,2026-04-19 08:38
+pasaporte,3,0,5.0,100,"levante_emv, okdiario",2,Nace el pasaporte digital para controlar toda la vida de los productos industriales,2026-04-19 08:38
+gandia,5,0,5.0,100,levante_emv,1,"Las recomendaciones de las librerías de Gandia para el Día del Libro: De ""Mediterrània"" de Josep Piera a la última novela de Sonsoles Ónega",2026-04-19 08:38
+hungría,3,2,6.27,100,"google_news_internacional, elpais_internacional, elpais",3,El incierto horizonte de la extrema derecha internacional tras la derrota de Orbán en Hungría - ElPlural.com,2026-04-19 08:38
+libro,5,4,5.23,100,"google_news_internacional, huffington_es, levante_emv, google_news_es, heraldo_aragon",5,Los mejores libros de literatura internacional para regalar (y regalarse) este Sant Jordi 2026 - El Periódico,2026-04-19 08:38
+pekín,3,0,5.0,100,"elpais, elmundo, google_news_internacional",3,Los robots chinos pulverizan registros y arrasan a los humanos en el medio maratón de Pekín,2026-04-19 08:38
+alternativa,5,1,20.91,100,"okdiario, google_news_internacional, el_confidencial_tech, heraldo_aragon",4,"Suena raro, pero la ciencia lo respalda: los hongos pueden ser la alternativa al silicio para desarrollar chips informáticos",2026-04-19 08:38
+chubascos,6,1,25.09,100,"okdiario, google_news_es",2,"AEMET prevé cielo poco nuboso y chubascos en Zaragoza, con viento flojo y cambios por la tarde",2026-04-19 08:38
+cielo,4,2,8.36,100,"okdiario, google_news_es",2,"AEMET prevé cielo poco nuboso y chubascos en Zaragoza, con viento flojo y cambios por la tarde",2026-04-19 08:38
+prevé,3,0,5.0,100,okdiario,1,"AEMET prevé cielo poco nuboso y chubascos en Zaragoza, con viento flojo y cambios por la tarde",2026-04-19 08:38
+sostenible,3,1,12.54,100,"google_news_internacional, huffington_es, okdiario",3,Crean un laboratorio internacional de tecnología para vehículos con nuevas energías para liderar la movilidad sostenible - ECOticias.com,2026-04-19 08:38
+metro,4,2,8.36,100,"okdiario, google_news_internacional, levante_emv, google_news_es, heraldo_aragon",5,"Maratón de Madrid 2026: fecha, horarios, recorrido, inscripciones y cuántos kilómetros son",2026-04-19 08:38
+comer,3,0,5.0,100,"okdiario, huffington_es, elpais",3,Vox reinventa el vado en Palma: exige aparcamiento libre en los de los comercios fuera del horario laboral,2026-04-19 08:38
+recomendaciones,3,0,5.0,100,levante_emv,1,"Sánchez, el paradigma del político 'tiktoker': recomendaciones y house tour para lograr una ""conexión emocional""",2026-04-19 08:38
+perder,5,3,6.97,100,"20minutos, okdiario, elpais, heraldo_aragon",4,"Diego Simeone, tras perder la final de la Copa del Rey: ""Me duele mucho, necesitábamos ganar""",2026-04-19 08:38
+político,4,1,16.73,100,"google_news_es, levante_emv, google_news_politica, elpais",4,"El temor de padres españoles al clima político en EE.UU. choca con el sueño de sus hijos: ""Si te toca, rechaza la beca"" - RTVE.es",2026-04-19 08:38
+sumar,3,1,12.54,100,"levante_emv, 20minutos",2,"IU, Sumar Comuns y Más Madrid escenifican este domingo su alianza sin presión ante los movimientos de Podemos",2026-04-19 08:38
+derecho,8,3,11.15,100,"levante_emv, google_news_internacional, eldiario, infolibre",4,El presidente de Irán recuerda a Trump que no puede privar al país de su derecho a desarrollar energía nuclear,2026-04-19 08:38
+japón,6,4,6.27,100,"elespanol, okdiario, elmundo_internacional, google_news_internacional, google_news_es",5,Corea del Norte vuelve a atacar las aguas de Japón: lanza varios misiles balísticos de corto alcance hacia el mar nipón,2026-04-19 08:38
+domingo,21,15,5.85,100,"okdiario, levante_emv",2,"Predicción del horóscopo para Aries hoy, domingo 19 de abril de 2026",2026-04-19 08:38
+trámite,3,0,5.0,100,"elcorreo, sur, google_news_es",3,La jueza admite a trámite la querella contra el alcalde Móstoles por acoso sexual,2026-04-19 08:38
+querella,4,3,5.58,100,"elcorreo, sur, eldiario, google_news_es",4,La jueza admite a trámite la querella contra el alcalde Móstoles por acoso sexual,2026-04-19 08:38
+corea,4,0,5.0,100,"elespanol, elmundo_internacional, google_news_internacional, elpais",4,Corea del Norte vuelve a atacar las aguas de Japón: lanza varios misiles balísticos de corto alcance hacia el mar nipón,2026-04-19 08:38
+lejos,5,1,20.91,100,"elcorreo, google_news_es, google_news_internacional, elpais, 20minutos",5,Sigue en directo la última hora de la guerra en Oriente Medio | Irán dice que las negociaciones con EE UU avanzan pero que el acuerdo aún «está lejos»,2026-04-19 08:38
+móstoles,4,3,5.58,100,"elcorreo, sur, eldiario, google_news_es",4,La jueza admite a trámite la querella contra el alcalde Móstoles por acoso sexual,2026-04-19 08:38
+francisco,4,2,8.36,100,"20minutos, google_news_es, heraldo_aragon",3,Del altar a la cabina: el homenaje al papa Francisco del cura DJ Guilherme,2026-04-19 08:38
+fondo,4,2,8.36,100,"expansion, sur, google_news_internacional, okdiario, elpais",5,Renta 2025: Cómo hacer la declaración si el año pasado vendió acciones o reembolsó un fondo,2026-04-19 08:38
+acoso,5,4,5.23,100,"elcorreo, sur, eldiario, google_news_es, google_news_politica",5,La jueza admite a trámite la querella contra el alcalde Móstoles por acoso sexual,2026-04-19 08:38
+laboral,4,1,16.73,100,"eldiario, google_news_es, okdiario",3,Un juzgado admite la querella de la exconcejala de Móstoles por acoso sexual y laboral contra el alcalde y el PP,2026-04-19 08:38
+recomienda,3,1,12.54,100,"levante_emv, 20minutos, heraldo_aragon",3,"Calzado barefoot: qué es, beneficios y para quién se recomienda esta tendencia en zapatillas",2026-04-19 08:38
+sexual,5,3,6.97,100,"elcorreo, sur, eldiario, google_news_es, levante_emv",5,La jueza admite a trámite la querella contra el alcalde Móstoles por acoso sexual,2026-04-19 08:38
+kitchen,3,0,5.0,100,"levante_emv, google_news_politica, okdiario, elpais_espana",4,"La Kitchen, al romper Bárcenas con el PP de Rajoy: ""Plan contra LB, intervención de las comunicaciones y registros""",2026-04-19 08:38
+predicción,14,1,58.54,100,okdiario,1,"Predicción del horóscopo para Aries hoy, domingo 19 de abril de 2026",2026-04-19 08:38
+nuclear,3,2,6.27,100,"levante_emv, elpais",2,El presidente de Irán recuerda a Trump que no puede privar al país de su derecho a desarrollar energía nuclear,2026-04-19 08:38
+horóscopo,13,4,13.59,100,okdiario,1,"Predicción del horóscopo para Aries hoy, domingo 19 de abril de 2026",2026-04-19 08:38
+misiles,3,1,12.54,100,"elespanol, elmundo_internacional, google_news_internacional",3,Corea del Norte vuelve a atacar las aguas de Japón: lanza varios misiles balísticos de corto alcance hacia el mar nipón,2026-04-19 08:38
+negociaciones,5,3,6.97,100,"elcorreo, google_news_es, google_news_internacional, elpais",4,Sigue en directo la última hora de la guerra en Oriente Medio | Irán dice que las negociaciones con EE UU avanzan pero que el acuerdo aún «está lejos»,2026-04-19 08:38
+balísticos,3,0,5.0,100,"elespanol, elmundo_internacional, google_news_internacional",3,Corea del Norte vuelve a atacar las aguas de Japón: lanza varios misiles balísticos de corto alcance hacia el mar nipón,2026-04-19 08:38
+corto,3,0,5.0,100,"elespanol, elmundo_internacional, google_news_internacional",3,Corea del Norte vuelve a atacar las aguas de Japón: lanza varios misiles balísticos de corto alcance hacia el mar nipón,2026-04-19 08:38
+principales,3,2,6.27,100,"levante_emv, google_news_internacional",2,La diplomacia del bazuca: la intolerancia de Israel a las críticas le aleja también de sus principales aliados en Europa,2026-04-19 08:38
+reconstruir,3,2,6.27,100,"levante_emv, elpais",2,"Los suburbios del sur de Beirut, epicentro de la devastación en el Líbano: ""Esperaremos 10 días para reconstruir""",2026-04-19 08:38
+alcance,3,0,5.0,100,"elespanol, elmundo_internacional, google_news_internacional",3,Corea del Norte vuelve a atacar las aguas de Japón: lanza varios misiles balísticos de corto alcance hacia el mar nipón,2026-04-19 08:38
+avanzan,3,0,5.0,100,"elcorreo, google_news_internacional",2,Sigue en directo la última hora de la guerra en Oriente Medio | Irán dice que las negociaciones con EE UU avanzan pero que el acuerdo aún «está lejos»,2026-04-19 08:38
+frágil,3,0,5.0,100,"okdiario, 20minutos",2,"Guerra de Irán en directo hoy 19 de abril: alto el fuego frágil, tensión en Ormuz y situación en Oriente Próximo",2026-04-19 08:38
+riesgo,7,6,4.88,97,"20minutos, heraldo_aragon, okdiario, infolibre, google_news_economia",5,"Niños con trastornos del neurodesarrollo: más riesgo de malestar emocional, depresión, ansiedad y problemas de conducta",2026-04-19 08:38
+película,3,3,4.18,83,"heraldo_aragon, google_news_internacional, 20minutos",3,La película aragonesa El sueño de Aylan compite en el Festival Internacional Tokyo Lift-Off 2026,2026-04-19 08:38
+noche,3,3,4.18,83,"okdiario, huffington_es, 20minutos, elpais",4,"Qué es la Noche del Pescaíto, cuándo es y por qué se celebra en la Feria de Abril",2026-04-19 08:38
+valència,10,10,4.18,83,"levante_emv, google_news_es",2,Dani Fernández sufre una caída en el Roig Arena de València y se rompe los ligamentos del hombro,2026-04-19 08:38
+invisible,3,3,4.18,83,"levante_emv, elpais_internacional, google_news_internacional",3,Las lesiones que acechan al tenis de élite: el peaje invisible de un deporte extremo,2026-04-19 08:38
+aragonesa,3,3,4.18,83,"heraldo_aragon, google_news_internacional",2,La película aragonesa El sueño de Aylan compite en el Festival Internacional Tokyo Lift-Off 2026,2026-04-19 08:38
+confidencial,3,3,4.18,83,"google_news_economia, google_news_internacional",2,"Familias menos endeudadas, con menos vivienda y más riesgo - El Confidencial",2026-04-19 08:38
+batalla,4,4,4.18,83,"elcorreo, elpais_internacional, google_news_es",3,El PNV se prepara para la próxima batalla electoral,2026-04-19 08:38
+europea,3,3,4.18,83,"google_news_internacional, 20minutos",2,"Irán arremete contra la Unión Europea por usar el derecho internacional de forma ""hipócrita"" en Ormuz - Noticias de Gipuzkoa",2026-04-19 08:38
+capital,3,3,4.18,83,"okdiario, elpais",2,El edificio más alto de Castilla y León no está en ninguna capital: hoy es un símbolo de la especulación inmobiliaria,2026-04-19 08:38
+feijóo,3,3,4.18,83,"google_news_politica, levante_emv, elpais",3,Trump ilumina a Sánchez y ensombrece a Feijóo - ElPlural.com,2026-04-19 08:38
+cierre,5,5,4.18,83,"okdiario, google_news_internacional, europapress, elpais_internacional",4,La ruta alternativa en Europa que podría reordenar el tráfico marítimo ante el cierre del estrecho de Ormuz,2026-04-19 08:38
+admite,3,3,4.18,83,"elcorreo, sur, eldiario",3,La jueza admite a trámite la querella contra el alcalde Móstoles por acoso sexual,2026-04-19 08:38
+empieza,3,3,4.18,83,"eldiario, okdiario, heraldo_aragon",3,La persecución a los inmigrantes empieza con el pacto en Extremadura,2026-04-19 08:38
+lanza,5,5,4.18,83,"elespanol, google_news_economia, elmundo_internacional, google_news_internacional, levante_emv",5,Corea del Norte vuelve a atacar las aguas de Japón: lanza varios misiles balísticos de corto alcance hacia el mar nipón,2026-04-19 08:38
+valenciana,3,3,4.18,83,"levante_emv, elconfidencial",2,Videojuegos: De ‘hobby’ a fenómeno con la Comunitat Valenciana como polo dinámico,2026-04-19 08:38
+norte,5,6,3.48,69,"elespanol, okdiario, elmundo_internacional, google_news_internacional",4,Corea del Norte vuelve a atacar las aguas de Japón: lanza varios misiles balísticos de corto alcance hacia el mar nipón,2026-04-19 08:38
+china,5,6,3.48,69,"okdiario, elmundo, google_news_politica",3,Italia se inspira en China y crea un perro-robot IA que recoge el 90% de las colillas enterradas en la playa,2026-04-19 08:38
+oriente,4,5,3.35,66,"elcorreo, okdiario",2,Sigue en directo la última hora de la guerra en Oriente Medio | Irán dice que las negociaciones con EE UU avanzan pero que el acuerdo aún «está lejos»,2026-04-19 08:38
+alcalde,4,5,3.35,66,"elcorreo, sur, eldiario, google_news_es",4,La jueza admite a trámite la querella contra el alcalde Móstoles por acoso sexual,2026-04-19 08:38
+pablo,4,5,3.35,66,"okdiario, 20minutos, levante_emv",3,"Cariñitos a espaldas de la infanta Cristina: Pablo Urdangarin y Johanna, cómplices en el Conde de Godó",2026-04-19 08:38
+vozpopuli,4,5,3.35,66,google_news_economia,1,La inmensa mayoría de los nuevos trabajadores extranjeros proceden de fuera de la UE - Vozpopuli,2026-04-19 08:38
+cumple,4,5,3.35,66,"elcorreo, okdiario, elpais_internacional, heraldo_aragon",4,El Hub de redes inteligentes de Iberdrola y la Diputación en Larraskitu cumple cinco años y ha movilizado 210 millones,2026-04-19 08:38
+primer,10,13,3.22,64,"levante_emv, elcorreo, 20minutos, okdiario, elpais",5,"Albin Kurti, primer ministro de Kosovo: “España debería haber reconocido a Kosovo hace mucho, pero aún está a tiempo”",2026-04-19 08:38
+opinión,3,4,3.14,62,"google_news_internacional, elpais, google_news_politica",3,"Joaquín López Sánchez, experto en Derecho Internacional Humanitario: ""Se está vulnerando el derecho humanitario y no debe haber impunidad"" - La Opinión de Murcia",2026-04-19 08:38
+comida,3,4,3.14,62,"huffington_es, okdiario, heraldo_aragon",3,Un venezolano explica el gran cambio que siente desde que probó la comida española:,2026-04-19 08:38
+tormentas,3,4,3.14,62,okdiario,1,Meteored lo confirma y es oficial: el domingo las tormentas se intensifican en el Norte y el mapa se tiñe de aviso naranja,2026-04-19 08:38
+sueño,3,4,3.14,62,"google_news_es, heraldo_aragon, google_news_internacional",3,"El temor de padres españoles al clima político en EE.UU. choca con el sueño de sus hijos: ""Si te toca, rechaza la beca"" - RTVE.es",2026-04-19 08:38
+puesto,3,4,3.14,62,"huffington_es, levante_emv, elpais_internacional, google_news_internacional",4,Lío por el rótulo que TVE ha puesto para informar de las celebraciones en San Sebastián por la Copa del Rey,2026-04-19 08:38
+santiago,3,4,3.14,62,"google_news_internacional, heraldo_aragon",2,De lo convencional a la acupuntura urbana: ideas del concurso internacional para la ronda histórica de Santiago - La Voz de Galicia,2026-04-19 08:38
+económica,3,4,3.14,62,"20minutos, okdiario, elpais",3,"El ocio, un lujo inalcanzable para muchas personas con discapacidad intelectual: ""No debería depender de la capacidad económica""",2026-04-19 08:38
+podría,3,4,3.14,62,"okdiario, google_news_internacional, elpais",3,La ruta alternativa en Europa que podría reordenar el tráfico marítimo ante el cierre del estrecho de Ormuz,2026-04-19 08:38
+digital,5,7,2.99,59,"levante_emv, google_news_es, okdiario",3,"El Raval, el primer Cupra con sistema operativo Android, marca el salto digital en la marca",2026-04-19 08:38
+acuerdo,4,6,2.79,55,"elcorreo, google_news_es, elpais",3,Sigue en directo la última hora de la guerra en Oriente Medio | Irán dice que las negociaciones con EE UU avanzan pero que el acuerdo aún «está lejos»,2026-04-19 08:38
+cultura,4,6,2.79,55,"huffington_es, elpais",2,"Paco León: &quot;Detrás de cada discurso de odio hay analfabetismo, una falta de cultura y de conocimiento. Se tiene miedo de lo que no se conoce&quot;",2026-04-19 08:38
+hecho,4,6,2.79,55,"huffington_es, elpais, heraldo_aragon",3,Las cámaras captan lo que ha hecho Oyarzabal cuando se ha cruzado con Ayuso y está dando la vuelta a España,2026-04-19 08:38
+aragón,12,18,2.79,55,"google_news_internacional, heraldo_aragon",2,Internacional progresista en Barcelona - El Periódico de Aragón,2026-04-19 08:38
+esperanza,4,6,2.79,55,"huffington_es, google_news_es, 20minutos",3,El consejo de una mujer británica de 112 años para vivir muchos años: “Mira hacia delante con esperanza y nunca hacia atrás con arrepentimiento”,2026-04-19 08:38
+clave,5,8,2.61,52,"20minutos, okdiario, google_news_economia, infolibre, elpais_internacional",5,De 12 a 24 millones en media hora: Anticorrupción desgrana el minuto a minuto del contrato clave a Ábalos,2026-04-19 08:38
+medio,5,8,2.61,52,"elcorreo, elpais, okdiario, elconfidencial, heraldo_aragon",5,Sigue en directo la última hora de la guerra en Oriente Medio | Irán dice que las negociaciones con EE UU avanzan pero que el acuerdo aún «está lejos»,2026-04-19 08:38
+tensión,3,5,2.51,50,"okdiario, 20minutos",2,"Guerra de Irán en directo hoy 19 de abril: alto el fuego frágil, tensión en Ormuz y situación en Oriente Próximo",2026-04-19 08:38
+ciencia,3,5,2.51,50,"levante_emv, google_news_es, okdiario",3,¿Un emoji vale más que mil palabras? La ciencia dice que sí,2026-04-19 08:38
+italia,3,5,2.51,50,"google_news_internacional, huffington_es, okdiario",3,El AOVE Oleaí logra la Medalla Extragold en el certamen internacional BIOL en Italia - Óleo Revista,2026-04-19 08:38
+impone,3,5,2.51,50,"levante_emv, elpais_internacional, google_news_es",3,"El Gobierno se impone en TikTok para buscar el voto de la juventud ""derechizada""",2026-04-19 08:38
+electoral,3,5,2.51,50,"elcorreo, levante_emv",2,El PNV se prepara para la próxima batalla electoral,2026-04-19 08:38
+llegar,3,5,2.51,50,"okdiario, elpais, heraldo_aragon",3,"Autobuses y metro para llegar a la Feria de Sevilla: horarios, líneas y precios",2026-04-19 08:38
+extrema,3,5,2.51,50,"eldiario, google_news_internacional, google_news_es, elpais",4,La persecución a los inmigrantes empieza con el pacto en Extremadura,2026-04-19 08:38
+minuto,3,5,2.51,50,"20minutos, elpais, heraldo_aragon",3,De 12 a 24 millones en media hora: Anticorrupción desgrana el minuto a minuto del contrato clave a Ábalos,2026-04-19 08:38
+festival,4,7,2.39,47,"heraldo_aragon, google_news_internacional",2,El festival Pachanga arrasa en Zaragoza con una boda y King África,2026-04-19 08:38
+elplural.com,5,9,2.32,46,"google_news_politica, google_news_internacional",2,Trump ilumina a Sánchez y ensombrece a Feijóo - ElPlural.com,2026-04-19 08:38
+vanguardia,6,11,2.28,45,"google_news_internacional, google_news_es, google_news_economia",3,"Guerra en Irán y el bloqueo en Ormuz, última hora en directo | Irán dice que las negociaciones con Trump y EE.UU. avanzan pero que el final está lejos - La Vanguardia",2026-04-19 08:38
+también,7,13,2.25,45,"levante_emv, google_news_es, google_news_internacional, eldiario, elpais",5,La diplomacia del bazuca: la intolerancia de Israel a las críticas le aleja también de sus principales aliados en Europa,2026-04-19 08:38
+puede,10,19,2.2,44,"levante_emv, huffington_es, okdiario, 20minutos, elpais",5,El presidente de Irán recuerda a Trump que no puede privar al país de su derecho a desarrollar energía nuclear,2026-04-19 08:38
+periódico,4,8,2.09,41,google_news_internacional,1,Los mejores libros de literatura internacional para regalar (y regalarse) este Sant Jordi 2026 - El Periódico,2026-04-19 08:38
+congreso,3,6,2.09,41,levante_emv,1,El aviso del TC amenaza con cambiar las dinámicas legislativas en el Congreso,2026-04-19 08:38
+cerca,4,8,2.09,41,"elpais, huffington_es, 20minutos, elpais_internacional, google_news_internacional",5,"Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Irán eleva a cerca de 3.500 los muertos en la guerra",2026-04-19 08:38
+tierra,3,6,2.09,41,"okdiario, elconfidencial",2,China desafía las normas con un láser con potencia de 2 vatios que transmite datos a 36.705 km de la Tierra a velocidad de 1 gigabit por segundo,2026-04-19 08:38
+modelo,3,6,2.09,41,"levante_emv, elpais, heraldo_aragon",3,Por qué Adif necesita cambiar el modelo,2026-04-19 08:38
+energía,3,6,2.09,41,"levante_emv, google_news_internacional, el_confidencial_tech",3,El presidente de Irán recuerda a Trump que no puede privar al país de su derecho a desarrollar energía nuclear,2026-04-19 08:38
+varios,4,8,2.09,41,"elespanol, elmundo_internacional, google_news_internacional, heraldo_aragon",4,Corea del Norte vuelve a atacar las aguas de Japón: lanza varios misiles balísticos de corto alcance hacia el mar nipón,2026-04-19 08:38
+científicos,4,8,2.09,41,"okdiario, google_news_es",2,No todo está perdido: científicos chilenos descubren un extracto de hongos que aumenta la inmunidad de las abejas,2026-04-19 08:38
