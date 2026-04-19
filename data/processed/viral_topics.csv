@@ -1,188 +1,192 @@
 keyword,count_now,count_base,ratio,viral_score,sources,n_sources,sample_title,detected_at
-beijing,3,0,5.0,100,"france24_es, google_news_es",2,300 robots corren media maratón en Beijing y uno de ellos bate récord mundial humano,2026-04-19 20:08
-hombres,3,2,7.49,100,"levante_emv, elmundo_internacional, google_news_internacional",3,"Detienen en Trinidad y Tobago a dos hombres que fueron sorprendidos deshaciéndose de 56 cadáveres, 50 de ellos de niños",2026-04-19 20:08
-arthur,4,2,9.98,100,"elcorreo, okdiario, lavanguardia",3,Arthur Fils sorprende a Andrey Rublev para ganar el Godó,2026-04-19 20:08
-arrollamiento,6,0,5.0,100,"20minutos, levante_emv, elespanol, elconfidencial, okdiario",5,Interrumpida la circulación de trenes de alta velocidad entre Madrid y Barcelona por un arrollamiento,2026-04-19 20:08
-velocidad,8,4,9.98,100,"20minutos, heraldo_aragon, elespanol, eldiario, elconfidencial",5,Interrumpida la circulación de trenes de alta velocidad entre Madrid y Barcelona por un arrollamiento,2026-04-19 20:08
-trenes,3,1,14.97,100,"20minutos, heraldo_aragon, okdiario",3,Interrumpida la circulación de trenes de alta velocidad entre Madrid y Barcelona por un arrollamiento,2026-04-19 20:08
-circulación,3,0,5.0,100,"20minutos, levante_emv, elespanol",3,Interrumpida la circulación de trenes de alta velocidad entre Madrid y Barcelona por un arrollamiento,2026-04-19 20:08
-interrumpida,3,0,5.0,100,"20minutos, elespanol, elconfidencial",3,Interrumpida la circulación de trenes de alta velocidad entre Madrid y Barcelona por un arrollamiento,2026-04-19 20:08
-tiros,5,3,8.32,100,"elcorreo, google_news_internacional, elpais, elmundo",4,Un hombre mata a ocho niños a tiros en Estados Unidos,2026-04-19 20:08
-sondeos,6,2,14.97,100,"elmundo_internacional, google_news_es, elmundo, google_news_internacional, france24_es",5,"El ex presidente Radev gana las elecciones legislativas en Bulgaria, según los primeros sondeos a pie de urna",2026-04-19 20:08
-primeros,3,1,14.97,100,"elmundo_internacional, elmundo, google_news_internacional",3,"El ex presidente Radev gana las elecciones legislativas en Bulgaria, según los primeros sondeos a pie de urna",2026-04-19 20:08
-legislativas,3,2,7.49,100,"elmundo_internacional, google_news_es, levante_emv",3,"El ex presidente Radev gana las elecciones legislativas en Bulgaria, según los primeros sondeos a pie de urna",2026-04-19 20:08
-circense,3,0,5.0,100,"heraldo_aragon, elmundo_internacional, google_news_internacional",3,Un tigre salta de la arena al público durante un espectáculo circense en el sur de Rusia,2026-04-19 20:08
-candidato,5,1,24.96,100,"levante_emv, elpais, google_news_internacional, france24_es",4,Un candidato prorruso y euroesceptico gana las elecciones legislativas en Bulgaria,2026-04-19 20:08
-países,4,1,19.97,100,"google_news_internacional, 20minutos, huffington_es, google_news_economia",4,El puente internacional más pequeño del mundo: el pueblo de Extremadura que sirve como enlace entre dos países - Infobae,2026-04-19 20:08
-rusia,6,5,5.99,100,"sur, 20minutos, heraldo_aragon, elmundo_internacional, google_news_internacional",5,Rusia propone que su ejército pueda operar fuera de sus fronteras,2026-04-19 20:08
-móvil,4,3,6.66,100,"20minutos, elcorreo, lavanguardia, huffington_es, levante_emv",5,Tu móvil Android 'brillará' cuando reciba una llamada o interactúe con Gemini gracias a esta nueva función,2026-04-19 20:08
-asesinados,3,0,5.0,100,"okdiario, elespanol",2,8 niños asesinados en un tiroteo masivo en Luisiana,2026-04-19 20:08
-doméstica,3,0,5.0,100,"google_news_internacional, elmundo_internacional",2,Un hombre mata a tiros a al menos ocho niños tras una disputa doméstica en Luisiana - El Debate,2026-04-19 20:08
-lidera,3,1,14.97,100,"okdiario, google_news_internacional, levante_emv, google_news_economia",4,Sánchez lidera la internacional del crimen,2026-04-19 20:08
-insuficiente,3,2,7.49,100,"elmundo, google_news_internacional, expansion",3,Victoria insuficiente de Radev para distanciar a Bulgaria de la parálisis,2026-04-19 20:08
-ansiedad,3,1,14.97,100,"huffington_es, 20minutos",2,"Los golden retriever comparten con los humanos genes que explican emociones y comportamientos como la ansiedad o la depresión, según un macroestudio científico",2026-04-19 20:08
-abatido,3,2,7.49,100,"google_news_es, elespanol, google_news_internacional",3,Al menos ocho niños muertos en un tiroteo en Luisiana: el atacante ha sido abatido - LaSexta,2026-04-19 20:08
-detienen,3,0,5.0,100,"levante_emv, elmundo_internacional, google_news_internacional",3,"Detienen en Trinidad y Tobago a dos hombres que fueron sorprendidos deshaciéndose de 56 cadáveres, 50 de ellos de niños",2026-04-19 20:08
-trinidad,3,0,5.0,100,"levante_emv, elmundo_internacional, google_news_internacional",3,"Detienen en Trinidad y Tobago a dos hombres que fueron sorprendidos deshaciéndose de 56 cadáveres, 50 de ellos de niños",2026-04-19 20:08
-&quot;en,3,0,5.0,100,huffington_es,1,"Anna Bixler, audióloga: &quot;En el metro o corriendo subes el volumen de los auriculares para competir con el ruido exterior y ahí es exactamente donde la gente se mete en problemas con su audición&quot;",2026-04-19 20:08
-drones,6,3,9.98,100,"huffington_es, okdiario, france24_es",3,Los soldados estadounidenses ponen a prueba un nuevo rifle que decide automáticamente cuándo disparar para derribar drones kamikaze,2026-04-19 20:08
-negociación,4,3,6.66,100,"elcorreo, google_news_internacional",2,Trump envía a Vance a Islamabad para tratar de retomar la negociación con Irán,2026-04-19 20:08
-teletrabajo,3,0,5.0,100,"huffington_es, google_news_economia",2,Una joven explota contra los que quieren abolir el teletrabajo: &quot;¿Cómo vamos a tener hijos si no tengo tiempo?&quot;,2026-04-19 20:08
-línea,5,2,12.48,100,"heraldo_aragon, levante_emv, elconfidencial, sur, 20minutos",5,Un corte de la línea de Alta Velocidad entre Madrid y Zaragoza causa retrasos en 22 trenes,2026-04-19 20:08
-tigre,5,0,5.0,100,"20minutos, heraldo_aragon, elmundo_internacional, google_news_internacional",4,Caos en un circo de Rusia: un tigre salta al público en un espectáculo y provoca una gran estampida,2026-04-19 20:08
-bayern,3,0,5.0,100,"elpais, levante_emv, okdiario",3,El Bayern mantiene su hegemonía en Alemania: 13 de las últimas 14 ligas son suyas,2026-04-19 20:08
-mueren,11,2,27.45,100,"heraldo_aragon, france24_es, huffington_es, bbc_mundo, lavanguardia",5,Mueren ocho niños de entre uno y catorce años en tiroteo masivo en Luisiana,2026-04-19 20:08
-casademont,9,4,11.23,100,heraldo_aragon,1,Bronce del Casademont Zaragoza en un Príncipe Felipe de oro durante la Final Six,2026-04-19 20:08
-henares,7,1,34.94,100,"levante_emv, elespanol, eldiario, elconfidencial, okdiario",5,Cortada la línea de AVE Madrid-Barcelona por un arrollamiento en Alcalá de Henares,2026-04-19 20:08
-alcalá,7,1,34.94,100,"levante_emv, elespanol, eldiario, elconfidencial, okdiario",5,Cortada la línea de AVE Madrid-Barcelona por un arrollamiento en Alcalá de Henares,2026-04-19 20:08
-madrid-barcelona,4,0,5.0,100,"levante_emv, elconfidencial",2,Cortada la línea de AVE Madrid-Barcelona por un arrollamiento en Alcalá de Henares,2026-04-19 20:08
-montjuïc,3,1,14.97,100,"20minutos, lavanguardia",2,Un incendio obliga a evacuar el castillo Montjuïc,2026-04-19 20:08
-castillo,3,0,5.0,100,"20minutos, lavanguardia",2,Un incendio obliga a evacuar el castillo Montjuïc,2026-04-19 20:08
-evacuar,3,0,5.0,100,"20minutos, lavanguardia",2,Un incendio obliga a evacuar el castillo Montjuïc,2026-04-19 20:08
-catorce,7,0,5.0,100,"heraldo_aragon, huffington_es, eldiario, google_news_internacional, elespanol",5,Mueren ocho niños de entre uno y catorce años en tiroteo masivo en Luisiana,2026-04-19 20:08
-cientos,3,2,7.49,100,"levante_emv, google_news_es",2,Cientos de humanoides corren una media maratón en Pekín,2026-04-19 20:08
-aires”,3,0,5.0,100,"google_news_internacional, elpais",2,"Trump retoma las negociaciones, pero amenaza con hacer “volar Irán por los aires” si no acepta su plan - EL PAÍS",2026-04-19 20:08
-pasea,3,0,5.0,100,"20minutos, elpais, google_news_es",3,Pánico en un circo de Rusia: un tigre salta al público en un espectáculo y se pasea entre los asientos,2026-04-19 20:08
-“volar,3,0,5.0,100,"google_news_internacional, elpais",2,"Trump retoma las negociaciones, pero amenaza con hacer “volar Irán por los aires” si no acepta su plan - EL PAÍS",2026-04-19 20:08
-salta,3,0,5.0,100,"20minutos, heraldo_aragon, sur, elmundo_internacional, google_news_internacional",5,Caos en un circo de Rusia: un tigre salta al público en un espectáculo y provoca una gran estampida,2026-04-19 20:08
-retoma,5,0,5.0,100,"france24_es, elcorreo, google_news_internacional, elpais",4,Informe desde Estambul: delegación de EE. UU. llegará a Pakistán para retomar diálogos con Irán,2026-04-19 20:08
-manchester,7,0,5.0,100,"levante_emv, okdiario, elmundo, google_news_es",4,El Manchester City derrota al Arsenal y da un vuelco increíble a la Premier,2026-04-19 20:08
-espectáculo,5,1,24.96,100,"20minutos, heraldo_aragon, elmundo_internacional, google_news_internacional",4,Caos en un circo de Rusia: un tigre salta al público en un espectáculo y provoca una gran estampida,2026-04-19 20:08
-puedes,5,4,6.24,100,"20minutos, okdiario, huffington_es",3,¿Es el Jaecoo 7 SHS PHEV más lógico que te puedes comprar? Nuestra opinión tras probarlo,2026-04-19 20:08
-league,5,0,5.0,100,"google_news_internacional, sur, google_news_es",3,Clasificación de la Premier League en la jornada 33 - Mundo Deportivo,2026-04-19 20:08
-aborda,3,0,5.0,100,"elcorreo, elpais, google_news_internacional",3,Sigue en directo la última hora de la guerra en Oriente Medio | EE UU aborda y retiene un buque iraní que intentaba cruzar el estrecho de Ormuz,2026-04-19 20:08
-estampida,3,0,5.0,100,"20minutos, elmundo_internacional, google_news_internacional",3,Caos en un circo de Rusia: un tigre salta al público en un espectáculo y provoca una gran estampida,2026-04-19 20:08
-pánico,5,0,5.0,100,"20minutos, elmundo_internacional, google_news_internacional",3,Pánico en un circo de Rusia: un tigre salta al público en un espectáculo y se pasea entre los asientos,2026-04-19 20:08
-persona,3,1,14.97,100,"huffington_es, eldiario, elmundo, google_news_es, okdiario",5,"Oihan Moreno, ganadero en Navarra: &quot;En una fábrica no aguantaría una semana; entre mis yeguas y en un pueblo de siete vecinos soy la persona más feliz del mundo&quot;",2026-04-19 20:08
-intención,3,0,5.0,100,"huffington_es, elpais, google_news_internacional",3,"Alba Moreno, divulgadora científica, explica por qué los vídeos del &quot;sonido del universo” que arrasan en TikTok son técnicamente imposibles aunque su intención sea científica",2026-04-19 20:08
-tobago,3,0,5.0,100,"levante_emv, elmundo_internacional, google_news_internacional",3,"Detienen en Trinidad y Tobago a dos hombres que fueron sorprendidos deshaciéndose de 56 cadáveres, 50 de ellos de niños",2026-04-19 20:08
-deshaciéndose,3,0,5.0,100,"levante_emv, elmundo_internacional, google_news_internacional",3,"Detienen en Trinidad y Tobago a dos hombres que fueron sorprendidos deshaciéndose de 56 cadáveres, 50 de ellos de niños",2026-04-19 20:08
-mirassol,3,2,7.49,100,google_news_internacional,1,Standout star sparks Internacional fightback against Mirassol - OneFootball,2026-04-19 20:08
-prorruso,5,2,12.48,100,"elcorreo, google_news_es, levante_emv, elpais, google_news_internacional",5,El exgeneral prorruso Rumen Radev cobra ventaja en las elecciones de Bulgaria,2026-04-19 20:08
-israelí,3,1,14.97,100,"20minutos, eldiario, levante_emv",3,El Ejército israelí investiga si un soldado destruyó a martillazos un Cristo en el Líbano,2026-04-19 20:08
-bronce,3,1,14.97,100,"levante_emv, heraldo_aragon",2,El rugby español brilla en el campo: oro en el Europeo femenino de XV y bronce en las Series de 7 masculinas en Hong Kong,2026-04-19 20:08
-sector,4,2,9.98,100,"google_news_es, huffington_es, google_news_economia, levante_emv",4,"“Con Vitoria West, el proyecto que hemos adquirido en el sector 21 de Jundiz, queremos crecer y poco a poco estamos mirando más sitios” - Diario de Noticias de Álava",2026-04-19 20:08
-rodríguez,5,3,8.32,100,"google_news_internacional, elmundo_internacional, levante_emv, 20minutos",4,La Embajada de Venezuela se disculpa porque Baute llamo «mona» a Delcy Rodríguez en el acto de María Corina Machado - El Debate,2026-04-19 20:08
-pequeña,3,0,5.0,100,"20minutos, huffington_es, google_news_economia",3,Parece el Caribe pero está en Canarias: el paraíso escondido al sur de la isla más pequeña ideal para hacer submarinismo,2026-04-19 20:08
-estás,3,1,14.97,100,"eldiario, 20minutos",2,"""¿De qué lado estás?"": las críticas de 'The Strokes' a EEUU e Israel desde el Coachella por las guerras de Gaza e Irán",2026-04-19 20:08
-luisiana,26,0,5.0,100,"elcorreo, google_news_internacional, heraldo_aragon, google_news_es, france24_es",5,Un hombre armado mata a ocho niños en un tiroteo masivo en Luisiana,2026-04-19 20:08
-masivo,13,1,64.89,100,"elcorreo, google_news_internacional, heraldo_aragon, huffington_es, okdiario",5,Un hombre armado mata a ocho niños en un tiroteo masivo en Luisiana,2026-04-19 20:08
-tiroteo,27,17,7.93,100,"elcorreo, 20minutos, google_news_internacional, levante_emv, heraldo_aragon",5,Un hombre armado mata a ocho niños en un tiroteo masivo en Luisiana,2026-04-19 20:08
-niños,31,13,11.9,100,"elcorreo, google_news_internacional, heraldo_aragon, google_news_es, france24_es",5,Un hombre armado mata a ocho niños en un tiroteo masivo en Luisiana,2026-04-19 20:08
-armado,3,0,5.0,100,"elcorreo, google_news_es, expansion",3,Un hombre armado mata a ocho niños en un tiroteo masivo en Luisiana,2026-04-19 20:08
-coachella,4,2,9.98,100,"eldiario, 20minutos",2,"""¿De qué lado estás?"": las críticas de 'The Strokes' a EEUU e Israel desde el Coachella por las guerras de Gaza e Irán",2026-04-19 20:08
-justin,3,2,7.49,100,20minutos,1,"Billie Eilish, la 'One Less Lonely Girl' de Justin Bieber en Coachella: su momentazo sobre el escenario",2026-04-19 20:08
-príncipe,5,1,24.96,100,"elpais, elmundo, heraldo_aragon",3,"Cartagena, una devaluada Puerta del Príncipe",2026-04-19 20:08
-torrevieja,3,0,5.0,100,"20minutos, heraldo_aragon",2,Muere un hombre de 25 años en un tiroteo en Torrevieja,2026-04-19 20:08
-rasero,3,1,14.97,100,"expansion, google_news_es",2,"Israel critica ""el doble rasero del Gobierno de Pedro Sánchez""",2026-04-19 20:08
-gordo,5,0,5.0,100,"levante_emv, elespanol, elcorreo, 20minutos, okdiario",5,Sorteo de El Gordo de la Primitiva del domingo 19 de abril de 2026,2026-04-19 20:08
-cruzar,3,1,14.97,100,"elcorreo, elpais, google_news_internacional",3,Sigue en directo la última hora de la guerra en Oriente Medio | EE UU aborda y retiene un buque iraní que intentaba cruzar el estrecho de Ormuz,2026-04-19 20:08
-intentaba,3,0,5.0,100,"elcorreo, elpais, google_news_internacional",3,Sigue en directo la última hora de la guerra en Oriente Medio | EE UU aborda y retiene un buque iraní que intentaba cruzar el estrecho de Ormuz,2026-04-19 20:08
-alicante,3,2,7.49,100,"heraldo_aragon, levante_emv, google_news_economia",3,Muere un hombre de 25 años en un tiroteo en Torrevieja (Alicante),2026-04-19 20:08
-compañero,3,2,7.49,100,"elespanol, levante_emv, heraldo_aragon",3,A prisión tras agredir con un cuchillo de 14 centímetros al compañero de piso: “No quería bajar a pelear a la calle”,2026-04-19 20:08
-retiene,3,1,14.97,100,"elcorreo, elpais, google_news_internacional",3,Sigue en directo la última hora de la guerra en Oriente Medio | EE UU aborda y retiene un buque iraní que intentaba cruzar el estrecho de Ormuz,2026-04-19 20:08
-rumen,4,2,9.98,100,"elcorreo, google_news_es, france24_es",3,El exgeneral prorruso Rumen Radev cobra ventaja en las elecciones de Bulgaria,2026-04-19 20:08
-radev,9,2,22.46,100,"elcorreo, elmundo, google_news_internacional, elmundo_internacional, google_news_es",5,El exgeneral prorruso Rumen Radev cobra ventaja en las elecciones de Bulgaria,2026-04-19 20:08
-canarias,4,1,19.97,100,"levante_emv, elespanol, google_news_economia, 20minutos",4,El CB Canarias firma una victoria de campanillas en la cancha del Real Madrid,2026-04-19 20:08
-delcy,5,2,12.48,100,"okdiario, google_news_internacional, elmundo_internacional, levante_emv",4,Delcy brama por la masiva manifestación de Sol: la tacha de «fascista» por los gritos de «¡Fuera la mona!»,2026-04-19 20:08
-endesa,3,2,7.49,100,"elespanol, heraldo_aragon",2,El Real Madrid acusa el desgaste físico ante La Laguna Tenerife y cae derrotado en la Liga Endesa tras doce victorias consecutivas,2026-04-19 20:08
-varias,3,1,14.97,100,"20minutos, google_news_internacional",2,Un hombre mata a ocho niños en un tiroteo masivo en varias viviendas de Louisiana,2026-04-19 20:08
-reglas,3,1,14.97,100,"okdiario, google_news_internacional",2,La Universidad de Ámsterdam rompe las reglas de la física: crean el metamaterial que cobra vida y toma decisiones sin intervención humana,2026-04-19 20:08
-eibar,5,1,24.96,100,heraldo_aragon,1,El uno a uno del partido de la SD Huesca ante el Eibar (2-1),2026-04-19 20:08
-huesca,9,1,44.92,100,heraldo_aragon,1,El uno a uno del partido de la SD Huesca ante el Eibar (2-1),2026-04-19 20:08
-viviendas,5,4,6.24,100,"20minutos, google_news_internacional, elmundo, lavanguardia",4,Un hombre mata a ocho niños en un tiroteo masivo en varias viviendas de Louisiana,2026-04-19 20:08
-ministro,3,1,14.97,100,"google_news_politica, elpais, google_news_internacional",3,"Operaron de urgencia en Barcelona a Carlos Bianco, ministro de Gobierno de Kicillof - Infobae",2026-04-19 20:08
-premier,9,0,5.0,100,"elpais, google_news_internacional, levante_emv, sur, okdiario",5,Guardiola doblega al Arsenal y ataca su séptima Premier,2026-04-19 20:08
-arsenal,7,0,5.0,100,"elpais, levante_emv, okdiario, elmundo, google_news_es",5,Guardiola doblega al Arsenal y ataca su séptima Premier,2026-04-19 20:08
-ipurúa,5,0,5.0,100,heraldo_aragon,1,"Fotos del partido Eibar - SD Huesca, en el estadio de Ipurúa",2026-04-19 20:08
-bulgaria,12,5,11.98,100,"elcorreo, elmundo, google_news_internacional, elmundo_internacional, google_news_es",5,El exgeneral prorruso Rumen Radev cobra ventaja en las elecciones de Bulgaria,2026-04-19 20:08
-jerusalén,3,1,14.97,100,"google_news_internacional, okdiario, levante_emv",3,Javier Milei visita el Muro de las Lamentaciones en Jerusalén - El Mundo,2026-04-19 20:08
-llevar,4,1,19.97,100,"okdiario, huffington_es",2,Acosan en la carretera a una caravana por llevar una bandera de España con el escudo del Atlético,2026-04-19 20:08
-rechaza,3,2,7.49,100,"20minutos, elpais, google_news_internacional",3,"La Embajada de Venezuela pide disculpas por las palabras de Carlos Baute en el acto en Madrid de Corina Machado, que las rechaza",2026-04-19 20:08
-palabras,4,2,9.98,100,"20minutos, heraldo_aragon, elmundo_internacional, europapress",4,"La Embajada de Venezuela pide disculpas por las palabras de Carlos Baute en el acto en Madrid de Corina Machado, que las rechaza",2026-04-19 20:08
-cruzadas,3,0,5.0,100,"elmundo_internacional, google_news_internacional",2,Trump anuncia una nueva reunión con Irán en medio de las amenazas cruzadas por Ormuz,2026-04-19 20:08
-embajada,7,0,5.0,100,"20minutos, google_news_politica, heraldo_aragon, google_news_internacional, elmundo_internacional",5,"La Embajada de Venezuela pide disculpas por las palabras de Carlos Baute en el acto en Madrid de Corina Machado, que las rechaza",2026-04-19 20:08
-traición,3,0,5.0,100,"okdiario, lavanguardia, elmundo_internacional, google_news_internacional, europapress",5,Elon Musk acusa a Sánchez de «alta traición» por la regularización masiva de inmigrantes,2026-04-19 20:08
-disculpas,3,1,14.97,100,"20minutos, heraldo_aragon, europapress",3,"La Embajada de Venezuela pide disculpas por las palabras de Carlos Baute en el acto en Madrid de Corina Machado, que las rechaza",2026-04-19 20:08
-zaragoza-girona,3,1,14.97,100,heraldo_aragon,1,FOTOS | Búscate en el pabellón Príncipe Felipe en el partido Casademont Zaragoza-Girona de la Final Six,2026-04-19 20:08
-baute,8,1,39.93,100,"20minutos, google_news_politica, heraldo_aragon, google_news_internacional, elmundo_internacional",5,"La Embajada de Venezuela pide disculpas por las palabras de Carlos Baute en el acto en Madrid de Corina Machado, que las rechaza",2026-04-19 20:08
-escenario,3,3,4.99,99,"20minutos, google_news_es",2,"Billie Eilish, la 'One Less Lonely Girl' de Justin Bieber en Coachella: su momentazo sobre el escenario",2026-04-19 20:08
-javier,3,3,4.99,99,"levante_emv, google_news_internacional",2,Así ha sido el efusivo abrazo entre Javier Milei y Benjamin Netanyahu,2026-04-19 20:08
-provoca,4,4,4.99,99,"20minutos, elmundo_internacional, google_news_internacional",3,Caos en un circo de Rusia: un tigre salta al público en un espectáculo y provoca una gran estampida,2026-04-19 20:08
-cualquier,3,3,4.99,99,huffington_es,1,"Una española que ha vivido en Marruecos, Reino Unido y China explica qué echa de menos de cada país: &quot;En España puedes hacer cualquier plan a cualquier hora con cualquier persona y te lo vas a pasar bien&quot;",2026-04-19 20:08
-onefootball,3,3,4.99,99,google_news_internacional,1,Standout star sparks Internacional fightback against Mirassol - OneFootball,2026-04-19 20:08
-trofeo,5,5,4.99,99,"okdiario, lavanguardia, 20minutos",3,"El dinero que reparte el Trofeo Conde de Godó 2026: cuánto se lleva Arthur Fils, campeón del torneo",2026-04-19 20:08
-yolanda,3,3,4.99,99,"huffington_es, levante_emv, okdiario",3,Yolanda Díaz anuncia que dejará el Congreso en 2027: &quot;No voy a ir en ninguna lista; categóricamente no&quot;,2026-04-19 20:08
-arriba,3,3,4.99,99,"sur, elmundo, elcorreo",3,El City pone la Premier League patas arriba,2026-04-19 20:08
-rublev,4,4,4.99,99,"elcorreo, lavanguardia, elpais",3,Arthur Fils sorprende a Andrey Rublev para ganar el Godó,2026-04-19 20:08
-canal,4,4,4.99,99,"heraldo_aragon, google_news_es, lavanguardia",3,Concluye en Jaca el congreso de Canal Roya para debatir sobre su protección,2026-04-19 20:08
-ejército,3,3,4.99,99,"20minutos, sur, levante_emv",3,El Ejército israelí investiga si un soldado destruyó a martillazos un Cristo en el Líbano,2026-04-19 20:08
-isabel,3,3,4.99,99,20minutos,1,"Muere a los 43 años Víctor Eloy López, director de orquesta que trabajó con Isabel Pantoja, Pablo Alborán o Raphael",2026-04-19 20:08
-obliga,3,3,4.99,99,"20minutos, lavanguardia",2,Un incendio obliga a evacuar el castillo Montjuïc,2026-04-19 20:08
-acepta,5,5,4.99,99,"google_news_internacional, elpais",2,"Trump retoma las negociaciones, pero amenaza con hacer “volar Irán por los aires” si no acepta su plan - EL PAÍS",2026-04-19 20:08
-buque,4,4,4.99,99,"elcorreo, elpais, google_news_internacional, okdiario",4,Sigue en directo la última hora de la guerra en Oriente Medio | EE UU aborda y retiene un buque iraní que intentaba cruzar el estrecho de Ormuz,2026-04-19 20:08
-iraní,4,4,4.99,99,"elcorreo, elpais, google_news_internacional, france24_es",4,Sigue en directo la última hora de la guerra en Oriente Medio | EE UU aborda y retiene un buque iraní que intentaba cruzar el estrecho de Ormuz,2026-04-19 20:08
-prueba,3,3,4.99,99,"huffington_es, okdiario",2,Los soldados estadounidenses ponen a prueba un nuevo rifle que decide automáticamente cuándo disparar para derribar drones kamikaze,2026-04-19 20:08
-fábrica,3,3,4.99,99,"huffington_es, levante_emv, france24_es",3,"Oihan Moreno, ganadero en Navarra: &quot;En una fábrica no aguantaría una semana; entre mis yeguas y en un pueblo de siete vecinos soy la persona más feliz del mundo&quot;",2026-04-19 20:08
-islamabad,4,4,4.99,99,"elcorreo, elpais, google_news_internacional, google_news_es",4,Trump envía a Vance a Islamabad para tratar de retomar la negociación con Irán,2026-04-19 20:08
-verdad,5,5,4.99,99,"elespanol, 20minutos, okdiario, elmundo, google_news_internacional",5,"María Corina: ""No he hablado nunca con Sánchez, conozco episodios opacos que juzgaré cuando la verdad se verifique""",2026-04-19 20:08
-debate,7,8,4.37,87,google_news_internacional,1,Un hombre mata a tiros a al menos ocho niños tras una disputa doméstica en Luisiana - El Debate,2026-04-19 20:08
-público,6,7,4.28,85,"20minutos, heraldo_aragon, elmundo_internacional, google_news_internacional, sur",5,Caos en un circo de Rusia: un tigre salta al público en un espectáculo y provoca una gran estampida,2026-04-19 20:08
-hombre,19,24,3.95,79,"elcorreo, 20minutos, levante_emv, elpais, google_news_es",5,Un hombre armado mata a ocho niños en un tiroteo masivo en Luisiana,2026-04-19 20:08
-amstel,4,5,3.99,79,"elpais, elcorreo, okdiario, levante_emv",4,Remco Evenepoel acelera hacia Lieja ganando la Amstel Gold Race,2026-04-19 20:08
-venezuela,7,9,3.88,77,"20minutos, google_news_politica, heraldo_aragon, google_news_internacional, elmundo_internacional",5,"La Embajada de Venezuela pide disculpas por las palabras de Carlos Baute en el acto en Madrid de Corina Machado, que las rechaza",2026-04-19 20:08
-visita,3,4,3.74,74,"heraldo_aragon, google_news_internacional, levante_emv",3,El presidente brasileño Lula da Silva visita y reza en la Sagrada Familia de Barcelona,2026-04-19 20:08
-problemas,3,4,3.74,74,"huffington_es, google_news_es",2,"Anna Bixler, audióloga: &quot;En el metro o corriendo subes el volumen de los auriculares para competir con el ruido exterior y ahí es exactamente donde la gente se mete en problemas con su audición&quot;",2026-04-19 20:08
-popular,3,4,3.74,74,"levante_emv, google_news_es",2,Caixa Popular impulsa la quarta edició del Concurs de Dibuix per la Igualtat,2026-04-19 20:08
-doble,3,4,3.74,74,"expansion, elpais, google_news_es",3,"Israel critica ""el doble rasero del Gobierno de Pedro Sánchez""",2026-04-19 20:08
-incendio,8,11,3.63,72,"france24_es, heraldo_aragon, 20minutos, sur, lavanguardia",5,Policía antiterrorista investiga serie de incendios contra comunidad judía en Londres,2026-04-19 20:08
-reunión,5,7,3.57,71,"elmundo_internacional, google_news_internacional, 20minutos, google_news_es",4,Trump anuncia una nueva reunión con Irán en medio de las amenazas cruzadas por Ormuz,2026-04-19 20:08
-bloqueo,5,7,3.57,71,"expansion, google_news_es, elpais, google_news_internacional, france24_es",5,"Trump dice que EEUU participará el lunes en las negociaciones, pero Irán no lo hará mientras dure el bloqueo de Ormuz",2026-04-19 20:08
-acusa,7,10,3.49,69,"elespanol, okdiario, lavanguardia, elmundo_internacional, google_news_internacional",5,El Real Madrid acusa el desgaste físico ante La Laguna Tenerife y cae derrotado en la Liga Endesa tras doce victorias consecutivas,2026-04-19 20:08
-victoria,7,10,3.49,69,"heraldo_aragon, levante_emv, elespanol, elmundo, google_news_internacional",5,Gran victoria del Contazara Zaragoza en La Coruña,2026-04-19 20:08
-lunes,11,16,3.43,68,"google_news_economia, sur, levante_emv, google_news_internacional, expansion",5,Temas del día de EFE España del lunes 20 de abril de 2025 - Infobae,2026-04-19 20:08
-elecciones,8,12,3.33,66,"elcorreo, elmundo_internacional, google_news_es, levante_emv, sur",5,El exgeneral prorruso Rumen Radev cobra ventaja en las elecciones de Bulgaria,2026-04-19 20:08
-estos,4,6,3.33,66,"google_news_es, google_news_economia, lavanguardia",3,"Paz Vega, destrozada tras la ruptura con Orson Salazar: “Ha perdido dos casas por estos problemas económicos” - Diario AS",2026-04-19 20:08
-pedro,10,15,3.33,66,"expansion, levante_emv, google_news_internacional, google_news_economia, elmundo",5,"Israel critica ""el doble rasero del Gobierno de Pedro Sánchez""",2026-04-19 20:08
-después,7,11,3.18,63,"huffington_es, elcorreo, okdiario, elmundo_internacional, google_news_internacional",5,"Michel Mayor, premio Nobel de Física: “Es imposible colonizar un exoplaneta, no podemos alcanzar la energía necesaria para acelerar y después frenar cerca”",2026-04-19 20:08
-coche,5,8,3.12,62,"sur, huffington_es, okdiario",3,Un vehículo vuelca en la calle Pacífico tras colisionar con un coche de autoescuela,2026-04-19 20:08
-estados,11,18,3.05,61,"elpais, google_news_internacional, elcorreo, google_news_es",4,"Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | EE UU aborda y retiene un buque iraní que intentaba cruzar el estrecho de Ormuz",2026-04-19 20:08
-actriz,3,5,2.99,59,20minutos,1,Sebastián Gallego habla del fin de su amistad con Ana Milán y la pulla de la actriz,2026-04-19 20:08
-jornada,3,5,2.99,59,"google_news_internacional, google_news_es",2,SODERCAN y CDTI organizan una jornada sobre ayudas de I+D+i y cooperación tecnológica internacional el 30 de abril - El Faradio,2026-04-19 20:08
-blasi,3,5,2.99,59,"elcorreo, okdiario, levante_emv",3,Paula Blasi gana la Amstel Gold Race tras inscribirse a última hora,2026-04-19 20:08
-paula,3,5,2.99,59,"elcorreo, okdiario, levante_emv",3,Paula Blasi gana la Amstel Gold Race tras inscribirse a última hora,2026-04-19 20:08
-yahoo,3,5,2.99,59,google_news_es,1,2-1. Haaland acerca al City al título - Yahoo,2026-04-19 20:08
-campeón,3,5,2.99,59,"heraldo_aragon, okdiario",2,El Casademont Zaragoza conquista la tercera plaza de la Final Six y promete regresar para ser campeón,2026-04-19 20:08
-críticas,3,5,2.99,59,"20minutos, eldiario",2,WrestleMania 42: más madera al incendio de críticas a la WWE por sus historias,2026-04-19 20:08
-premiado,3,5,2.99,59,"okdiario, google_news_es",2,"El Gordo de la Primitiva: resultado y número premiado hoy, domingo 19 de abril de 2026",2026-04-19 20:08
-número,3,5,2.99,59,"okdiario, google_news_es",2,"El Gordo de la Primitiva: resultado y número premiado hoy, domingo 19 de abril de 2026",2026-04-19 20:08
-unidos,10,17,2.94,58,"elpais, google_news_internacional, elcorreo, google_news_es",4,"Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | EE UU aborda y retiene un buque iraní que intentaba cruzar el estrecho de Ormuz",2026-04-19 20:08
-conquista,4,7,2.85,57,"levante_emv, heraldo_aragon, elcorreo, lavanguardia, elpais",5,El Bayern corona una semana perfecta conquistando su 35ª Bundesliga,2026-04-19 20:08
-delegación,4,7,2.85,57,"france24_es, google_news_es, elpais, google_news_internacional",4,Informe desde Estambul: delegación de EE. UU. llegará a Pakistán para retomar diálogos con Irán,2026-04-19 20:08
-partido,13,23,2.82,56,"heraldo_aragon, google_news_es, elespanol",3,El uno a uno del partido de la SD Huesca ante el Eibar (2-1),2026-04-19 20:08
-inmigrantes,5,9,2.77,55,"okdiario, lavanguardia, elmundo_internacional, google_news_internacional, europapress",5,Elon Musk acusa a Sánchez de «alta traición» por la regularización masiva de inmigrantes,2026-04-19 20:08
-gente,6,11,2.72,54,"huffington_es, elmundo, google_news_internacional, 20minutos",4,"Anna Bixler, audióloga: &quot;En el metro o corriendo subes el volumen de los auriculares para competir con el ruido exterior y ahí es exactamente donde la gente se mete en problemas con su audición&quot;",2026-04-19 20:08
-carlos,9,17,2.64,52,"20minutos, google_news_politica, heraldo_aragon, elmundo_internacional, europapress",5,"La Embajada de Venezuela pide disculpas por las palabras de Carlos Baute en el acto en Madrid de Corina Machado, que las rechaza",2026-04-19 20:08
-negociaciones,10,19,2.63,52,"google_news_internacional, elpais, google_news_es, expansion",4,"Trump retoma las negociaciones, pero amenaza con hacer “volar Irán por los aires” si no acepta su plan - EL PAÍS",2026-04-19 20:08
-supera,3,6,2.5,49,"google_news_es, france24_es",2,Tiene un 90 en Metacritic y cuesta menos de 25€: el RPG infravalorado que supera a los grandes Triple A en la eShop de Nintendo Switch - Nintenderos,2026-04-19 20:08
-plena,3,6,2.5,49,"20minutos, levante_emv, google_news_internacional",3,Muere el hombre que recibió un disparo el martes en un tiroteo a plena luz del día en Barcelona,2026-04-19 20:08
-impulsa,3,6,2.5,49,"levante_emv, google_news_internacional",2,Caixa Popular impulsa la quarta edició del Concurs de Dibuix per la Igualtat,2026-04-19 20:08
-mujer,6,12,2.5,49,"elespanol, elpais, 20minutos, levante_emv, lavanguardia",5,"Bita Hemmati, primera mujer condenada a la horca por las protestas y estar ""a favor del gobierno hostil de EEUU""",2026-04-19 20:08
-felipe,3,6,2.5,49,heraldo_aragon,1,Bronce del Casademont Zaragoza en un Príncipe Felipe de oro durante la Final Six,2026-04-19 20:08
-podemos,3,6,2.5,49,"huffington_es, okdiario, levante_emv",3,"Michel Mayor, premio Nobel de Física: “Es imposible colonizar un exoplaneta, no podemos alcanzar la energía necesaria para acelerar y después frenar cerca”",2026-04-19 20:08
-nuestra,3,6,2.5,49,"20minutos, elmundo, google_news_internacional",3,¿Es el Jaecoo 7 SHS PHEV más lógico que te puedes comprar? Nuestra opinión tras probarlo,2026-04-19 20:08
-expertos,3,6,2.5,49,"huffington_es, okdiario",2,Los expertos militares derriban un mito: los ciclistas de enduro son mejores pilotos de drones de ataque que los jugadores de videojuego,2026-04-19 20:08
-explica,5,10,2.5,49,"huffington_es, google_news_economia",2,"Alba Moreno, divulgadora científica, explica por qué los vídeos del &quot;sonido del universo” que arrasan en TikTok son técnicamente imposibles aunque su intención sea científica",2026-04-19 20:08
-pakistán,6,13,2.3,46,"france24_es, expansion, google_news_es, elpais, google_news_internacional",5,Informe desde Estambul: delegación de EE. UU. llegará a Pakistán para retomar diálogos con Irán,2026-04-19 20:08
-comprobar,11,24,2.29,45,"elespanol, elcorreo, 20minutos, google_news_es, okdiario",5,"Gordo de la Primitiva, hoy en directo | Comprobar los resultados del sorteo del domingo 19 de abril de 2026",2026-04-19 20:08
-infobae,5,11,2.27,45,"google_news_economia, google_news_politica, google_news_internacional",3,Temas del día de EFE España del lunes 20 de abril de 2025 - Infobae,2026-04-19 20:08
-dw.com,4,9,2.22,44,google_news_es,1,"Israel critica a Pedro Sánchez y su gobierno ""doble rasero"" - dw.com",2026-04-19 20:08
-conde,6,14,2.14,42,"elespanol, okdiario, 20minutos, lavanguardia, elpais",5,"Bita Hemmati, primera mujer condenada a la horca por las protestas y estar ""a favor del gobierno hostil de EEUU""",2026-04-19 20:08
-lasexta,3,7,2.14,42,google_news_es,1,BONOLOTO | Comprobar el resultado del sorteo del domingo 19 de abril de 2026 - LaSexta,2026-04-19 20:08
-premio,3,7,2.14,42,"google_news_internacional, huffington_es, elmundo",3,David Campos y Estíbaliz Sagardoy se apuntan las victorias en el Gran Premio Internacional X-Sauce Alpedrete XCO - REAL FEDERACIÓN ESPAÑOLA DE CICLISMO,2026-04-19 20:08
-española,6,14,2.14,42,"huffington_es, google_news_internacional, heraldo_aragon, okdiario",4,"María Cuadrado, el diamante de la literatura española con 27 matrículas de honor y cinco libros a sus 21 años",2026-04-19 20:08
-festival,3,7,2.14,42,"levante_emv, google_news_internacional",2,Matt Costello reina en el festival de triples en Girona,2026-04-19 20:08
-pasar,3,7,2.14,42,"elcorreo, okdiario, huffington_es",3,El estremecedor relato de Charlize Theron sobre la noche en la que su madre mató a su padre: «Sabía que iba a pasar algo malo»,2026-04-19 20:08
-humanos,3,7,2.14,42,"huffington_es, france24_es, google_news_es",3,"Los golden retriever comparten con los humanos genes que explican emociones y comportamientos como la ansiedad o la depresión, según un macroestudio científico",2026-04-19 20:08
-clasificación,3,7,2.14,42,"sur, google_news_internacional, heraldo_aragon",3,Clasificación Liga ACB: las opciones se reducen para el Unicaja,2026-04-19 20:08
-bonoloto,7,17,2.06,41,"levante_emv, elcorreo, 20minutos, google_news_es, okdiario",5,Sorteo Bonoloto del domingo 19 de abril de 2026,2026-04-19 20:08
+captura,5,0,5.0,100,"okdiario, elmundo, huffington_es, google_news_internacional",4,Guerra de Irán en directo hoy: EEUU captura un gran carguero iraní en el Golfo de Omán,2026-04-19 20:38
+llevar,4,1,20.16,100,"okdiario, huffington_es",2,Acosan en la carretera a una caravana por llevar una bandera de España con el escudo del Atlético,2026-04-19 20:38
+“volar,3,0,5.0,100,"google_news_internacional, elpais",2,"Trump retoma las negociaciones, pero amenaza con hacer “volar Irán por los aires” si no acepta su plan - EL PAÍS",2026-04-19 20:38
+aires”,3,0,5.0,100,"google_news_internacional, elpais",2,"Trump retoma las negociaciones, pero amenaza con hacer “volar Irán por los aires” si no acepta su plan - EL PAÍS",2026-04-19 20:38
+acepta,5,5,5.04,100,"google_news_internacional, elpais",2,"Trump retoma las negociaciones, pero amenaza con hacer “volar Irán por los aires” si no acepta su plan - EL PAÍS",2026-04-19 20:38
+cientos,3,2,7.56,100,"levante_emv, google_news_es",2,Cientos de humanoides corren una media maratón en Pekín,2026-04-19 20:38
+obliga,3,3,5.04,100,"20minutos, lavanguardia",2,Un incendio obliga a evacuar el castillo Montjuïc,2026-04-19 20:38
+evacuar,3,0,5.0,100,"20minutos, lavanguardia",2,Un incendio obliga a evacuar el castillo Montjuïc,2026-04-19 20:38
+castillo,3,0,5.0,100,"20minutos, lavanguardia",2,Un incendio obliga a evacuar el castillo Montjuïc,2026-04-19 20:38
+montjuïc,3,1,15.12,100,"20minutos, lavanguardia",2,Un incendio obliga a evacuar el castillo Montjuïc,2026-04-19 20:38
+madrid-barcelona,4,0,5.0,100,"levante_emv, elconfidencial",2,Cortada la línea de AVE Madrid-Barcelona por un arrollamiento en Alcalá de Henares,2026-04-19 20:38
+alcalá,7,1,35.29,100,"levante_emv, elespanol, eldiario, elconfidencial, okdiario",5,Cortada la línea de AVE Madrid-Barcelona por un arrollamiento en Alcalá de Henares,2026-04-19 20:38
+henares,7,1,35.29,100,"levante_emv, elespanol, eldiario, elconfidencial, okdiario",5,Cortada la línea de AVE Madrid-Barcelona por un arrollamiento en Alcalá de Henares,2026-04-19 20:38
+casademont,8,5,8.07,100,heraldo_aragon,1,Bronce del Casademont Zaragoza en un Príncipe Felipe de oro durante la Final Six,2026-04-19 20:38
+bayern,3,0,5.0,100,"elpais, levante_emv, okdiario",3,El Bayern mantiene su hegemonía en Alemania: 13 de las últimas 14 ligas son suyas,2026-04-19 20:38
+tigre,6,0,5.0,100,"google_news_es, 20minutos, heraldo_aragon, elmundo_internacional, google_news_internacional",5,Tigre salta al público durante espectáculo de circo - Primera Hora,2026-04-19 20:38
+salta,4,0,5.0,100,"google_news_es, 20minutos, heraldo_aragon, sur, elmundo_internacional",5,Tigre salta al público durante espectáculo de circo - Primera Hora,2026-04-19 20:38
+público,7,7,5.04,100,"google_news_es, 20minutos, heraldo_aragon, elmundo_internacional, google_news_internacional",5,Tigre salta al público durante espectáculo de circo - Primera Hora,2026-04-19 20:38
+circo,3,0,5.0,100,"google_news_es, 20minutos",2,Tigre salta al público durante espectáculo de circo - Primera Hora,2026-04-19 20:38
+retoma,5,0,5.0,100,"france24_es, elcorreo, google_news_internacional, elpais",4,Informe desde Estambul: delegación de EE. UU. llegará a Pakistán para retomar diálogos con Irán,2026-04-19 20:38
+manchester,7,0,5.0,100,"levante_emv, okdiario, elmundo, google_news_es",4,El Manchester City derrota al Arsenal y da un vuelco increíble a la Premier,2026-04-19 20:38
+league,5,0,5.0,100,"google_news_internacional, sur, google_news_es",3,Clasificación de la Premier League en la jornada 33 - Mundo Deportivo,2026-04-19 20:38
+trenes,3,1,15.12,100,"20minutos, heraldo_aragon, okdiario",3,Interrumpida la circulación de trenes de alta velocidad entre Madrid y Barcelona por un arrollamiento,2026-04-19 20:38
+legislativas,4,2,10.08,100,"google_news_internacional, elmundo_internacional, google_news_es, levante_emv",4,El exgeneral prorruso y euroescéptico Rumen Radev gana las elecciones legislativas en Bulgaria - ABC,2026-04-19 20:38
+móvil,4,2,10.08,100,"20minutos, elcorreo, lavanguardia, huffington_es, levante_emv",5,Tu móvil Android 'brillará' cuando reciba una llamada o interactúe con Gemini gracias a esta nueva función,2026-04-19 20:38
+rusia,6,5,6.05,100,"sur, 20minutos, heraldo_aragon, elmundo_internacional, google_news_internacional",5,Rusia propone que su ejército pueda operar fuera de sus fronteras,2026-04-19 20:38
+primeros,3,1,15.12,100,"elmundo_internacional, elmundo, google_news_internacional",3,"El ex presidente Radev gana las elecciones legislativas en Bulgaria, según los primeros sondeos a pie de urna",2026-04-19 20:38
+sondeos,4,4,5.04,100,"elmundo_internacional, google_news_es, elmundo, google_news_internacional",4,"El ex presidente Radev gana las elecciones legislativas en Bulgaria, según los primeros sondeos a pie de urna",2026-04-19 20:38
+carguero,4,0,5.0,100,"okdiario, elmundo, google_news_internacional",3,Guerra de Irán en directo hoy: EEUU captura un gran carguero iraní en el Golfo de Omán,2026-04-19 20:38
+circulación,3,0,5.0,100,"20minutos, levante_emv, elespanol",3,Interrumpida la circulación de trenes de alta velocidad entre Madrid y Barcelona por un arrollamiento,2026-04-19 20:38
+velocidad,8,4,10.08,100,"20minutos, heraldo_aragon, elespanol, eldiario, elconfidencial",5,Interrumpida la circulación de trenes de alta velocidad entre Madrid y Barcelona por un arrollamiento,2026-04-19 20:38
+canal,4,4,5.04,100,"heraldo_aragon, google_news_es, lavanguardia",3,Concluye en Jaca el congreso de Canal Roya para debatir sobre su protección,2026-04-19 20:38
+arrollamiento,6,0,5.0,100,"20minutos, levante_emv, elespanol, elconfidencial, okdiario",5,Interrumpida la circulación de trenes de alta velocidad entre Madrid y Barcelona por un arrollamiento,2026-04-19 20:38
+verdad,5,5,5.04,100,"elespanol, 20minutos, okdiario, elmundo, google_news_internacional",5,"María Corina: ""No he hablado nunca con Sánchez, conozco episodios opacos que juzgaré cuando la verdad se verifique""",2026-04-19 20:38
+islamabad,4,4,5.04,100,"elcorreo, elpais, google_news_internacional, google_news_es",4,Trump envía a Vance a Islamabad para tratar de retomar la negociación con Irán,2026-04-19 20:38
+teletrabajo,3,0,5.0,100,"huffington_es, google_news_economia",2,Una joven explota contra los que quieren abolir el teletrabajo: &quot;¿Cómo vamos a tener hijos si no tengo tiempo?&quot;,2026-04-19 20:38
+línea,5,2,12.6,100,"heraldo_aragon, levante_emv, elconfidencial, sur, 20minutos",5,Un corte de la línea de Alta Velocidad entre Madrid y Zaragoza causa retrasos en 22 trenes,2026-04-19 20:38
+fábrica,3,3,5.04,100,"huffington_es, levante_emv, france24_es",3,"Oihan Moreno, ganadero en Navarra: &quot;En una fábrica no aguantaría una semana; entre mis yeguas y en un pueblo de siete vecinos soy la persona más feliz del mundo&quot;",2026-04-19 20:38
+persona,3,1,15.12,100,"huffington_es, eldiario, elmundo, google_news_es, okdiario",5,"Oihan Moreno, ganadero en Navarra: &quot;En una fábrica no aguantaría una semana; entre mis yeguas y en un pueblo de siete vecinos soy la persona más feliz del mundo&quot;",2026-04-19 20:38
+arriba,3,3,5.04,100,"sur, elmundo, elcorreo",3,El City pone la Premier League patas arriba,2026-04-19 20:38
+catorce,7,0,5.0,100,"heraldo_aragon, huffington_es, eldiario, google_news_internacional, elespanol",5,Mueren ocho niños de entre uno y catorce años en tiroteo masivo en Luisiana,2026-04-19 20:38
+espectáculo,7,1,35.29,100,"google_news_internacional, google_news_es, 20minutos, heraldo_aragon, elmundo_internacional",5,"Vilagarcía anuncia su primer gran concierto gratis para San Roque, un espectáculo internacional - Metropolitano.gal",2026-04-19 20:38
+provoca,4,4,5.04,100,"20minutos, elmundo_internacional, google_news_internacional",3,Caos en un circo de Rusia: un tigre salta al público en un espectáculo y provoca una gran estampida,2026-04-19 20:38
+viviendas,5,4,6.3,100,"20minutos, google_news_internacional, elmundo, lavanguardia",4,Un hombre mata a ocho niños en un tiroteo masivo en varias viviendas de Louisiana,2026-04-19 20:38
+trofeo,5,4,6.3,100,"okdiario, lavanguardia, 20minutos",3,"El dinero que reparte el Trofeo Conde de Godó 2026: cuánto se lleva Arthur Fils, campeón del torneo",2026-04-19 20:38
+ipurúa,5,0,5.0,100,heraldo_aragon,1,"Fotos del partido Eibar - SD Huesca, en el estadio de Ipurúa",2026-04-19 20:38
+jerusalén,3,1,15.12,100,"google_news_internacional, okdiario, levante_emv",3,Javier Milei visita el Muro de las Lamentaciones en Jerusalén - El Mundo,2026-04-19 20:38
+delcy,5,2,12.6,100,"okdiario, google_news_internacional, elmundo_internacional, levante_emv",4,Delcy brama por la masiva manifestación de Sol: la tacha de «fascista» por los gritos de «¡Fuera la mona!»,2026-04-19 20:38
+traición,3,0,5.0,100,"okdiario, lavanguardia, elmundo_internacional, google_news_internacional, europapress",5,Elon Musk acusa a Sánchez de «alta traición» por la regularización masiva de inmigrantes,2026-04-19 20:38
+yolanda,3,3,5.04,100,"huffington_es, levante_emv, okdiario",3,Yolanda Díaz anuncia que dejará el Congreso en 2027: &quot;No voy a ir en ninguna lista; categóricamente no&quot;,2026-04-19 20:38
+mirassol,3,2,7.56,100,google_news_internacional,1,Standout star sparks Internacional fightback against Mirassol - OneFootball,2026-04-19 20:38
+onefootball,3,3,5.04,100,google_news_internacional,1,Standout star sparks Internacional fightback against Mirassol - OneFootball,2026-04-19 20:38
+sector,4,2,10.08,100,"google_news_es, huffington_es, google_news_economia, levante_emv",4,"“Con Vitoria West, el proyecto que hemos adquirido en el sector 21 de Jundiz, queremos crecer y poco a poco estamos mirando más sitios” - Diario de Noticias de Álava",2026-04-19 20:38
+rodríguez,5,3,8.4,100,"google_news_internacional, elmundo_internacional, levante_emv, 20minutos",4,La Embajada de Venezuela se disculpa porque Baute llamo «mona» a Delcy Rodríguez en el acto de María Corina Machado - El Debate,2026-04-19 20:38
+pequeña,3,0,5.0,100,"20minutos, huffington_es, google_news_economia",3,Parece el Caribe pero está en Canarias: el paraíso escondido al sur de la isla más pequeña ideal para hacer submarinismo,2026-04-19 20:38
+estás,3,1,15.12,100,"eldiario, 20minutos",2,"""¿De qué lado estás?"": las críticas de 'The Strokes' a EEUU e Israel desde el Coachella por las guerras de Gaza e Irán",2026-04-19 20:38
+coachella,4,2,10.08,100,"eldiario, 20minutos",2,"""¿De qué lado estás?"": las críticas de 'The Strokes' a EEUU e Israel desde el Coachella por las guerras de Gaza e Irán",2026-04-19 20:38
+justin,3,2,7.56,100,20minutos,1,"Billie Eilish, la 'One Less Lonely Girl' de Justin Bieber en Coachella: su momentazo sobre el escenario",2026-04-19 20:38
+escenario,3,3,5.04,100,"20minutos, google_news_es",2,"Billie Eilish, la 'One Less Lonely Girl' de Justin Bieber en Coachella: su momentazo sobre el escenario",2026-04-19 20:38
+torrevieja,3,0,5.0,100,"20minutos, heraldo_aragon",2,Muere un hombre de 25 años en un tiroteo en Torrevieja,2026-04-19 20:38
+varias,3,1,15.12,100,"20minutos, google_news_internacional",2,Un hombre mata a ocho niños en un tiroteo masivo en varias viviendas de Louisiana,2026-04-19 20:38
+deshaciéndose,3,0,5.0,100,"levante_emv, elmundo_internacional, google_news_internacional",3,"Detienen en Trinidad y Tobago a dos hombres que fueron sorprendidos deshaciéndose de 56 cadáveres, 50 de ellos de niños",2026-04-19 20:38
+hombres,3,2,7.56,100,"levante_emv, elmundo_internacional, google_news_internacional",3,"Detienen en Trinidad y Tobago a dos hombres que fueron sorprendidos deshaciéndose de 56 cadáveres, 50 de ellos de niños",2026-04-19 20:38
+candidato,3,3,5.04,100,"levante_emv, elpais, google_news_internacional",3,Un candidato prorruso y euroesceptico gana las elecciones legislativas en Bulgaria,2026-04-19 20:38
+estampida,3,0,5.0,100,"20minutos, elmundo_internacional, google_news_internacional",3,Caos en un circo de Rusia: un tigre salta al público en un espectáculo y provoca una gran estampida,2026-04-19 20:38
+pánico,5,0,5.0,100,"20minutos, elmundo_internacional, google_news_internacional",3,Pánico en un circo de Rusia: un tigre salta al público en un espectáculo y se pasea entre los asientos,2026-04-19 20:38
+pasea,3,0,5.0,100,"20minutos, elpais, google_news_es",3,Pánico en un circo de Rusia: un tigre salta al público en un espectáculo y se pasea entre los asientos,2026-04-19 20:38
+arthur,4,2,10.08,100,"elcorreo, okdiario, lavanguardia",3,Arthur Fils sorprende a Andrey Rublev para ganar el Godó,2026-04-19 20:38
+rublev,4,4,5.04,100,"elcorreo, lavanguardia, elpais",3,Arthur Fils sorprende a Andrey Rublev para ganar el Godó,2026-04-19 20:38
+tiros,5,3,8.4,100,"elcorreo, google_news_internacional, elpais, elmundo",4,Un hombre mata a ocho niños a tiros en Estados Unidos,2026-04-19 20:38
+circense,3,0,5.0,100,"heraldo_aragon, elmundo_internacional, google_news_internacional",3,Un tigre salta de la arena al público durante un espectáculo circense en el sur de Rusia,2026-04-19 20:38
+países,4,1,20.16,100,"google_news_internacional, 20minutos, huffington_es, google_news_economia",4,El puente internacional más pequeño del mundo: el pueblo de Extremadura que sirve como enlace entre dos países - Infobae,2026-04-19 20:38
+tobago,3,0,5.0,100,"levante_emv, elmundo_internacional, google_news_internacional",3,"Detienen en Trinidad y Tobago a dos hombres que fueron sorprendidos deshaciéndose de 56 cadáveres, 50 de ellos de niños",2026-04-19 20:38
+asesinados,3,0,5.0,100,"okdiario, elespanol",2,8 niños asesinados en un tiroteo masivo en Luisiana,2026-04-19 20:38
+doméstica,3,0,5.0,100,"google_news_internacional, elmundo_internacional",2,Un hombre mata a tiros a al menos ocho niños tras una disputa doméstica en Luisiana - El Debate,2026-04-19 20:38
+javier,3,3,5.04,100,"levante_emv, google_news_internacional",2,Así ha sido el efusivo abrazo entre Javier Milei y Benjamin Netanyahu,2026-04-19 20:38
+ansiedad,3,1,15.12,100,"huffington_es, 20minutos",2,"Los golden retriever comparten con los humanos genes que explican emociones y comportamientos como la ansiedad o la depresión, según un macroestudio científico",2026-04-19 20:38
+abatido,3,2,7.56,100,"google_news_es, elespanol, google_news_internacional",3,Al menos ocho niños muertos en un tiroteo en Luisiana: el atacante ha sido abatido - LaSexta,2026-04-19 20:38
+detienen,3,0,5.0,100,"levante_emv, elmundo_internacional, google_news_internacional",3,"Detienen en Trinidad y Tobago a dos hombres que fueron sorprendidos deshaciéndose de 56 cadáveres, 50 de ellos de niños",2026-04-19 20:38
+trinidad,3,0,5.0,100,"levante_emv, elmundo_internacional, google_news_internacional",3,"Detienen en Trinidad y Tobago a dos hombres que fueron sorprendidos deshaciéndose de 56 cadáveres, 50 de ellos de niños",2026-04-19 20:38
+isabel,3,3,5.04,100,20minutos,1,"Muere a los 43 años Víctor Eloy López, director de orquesta que trabajó con Isabel Pantoja, Pablo Alborán o Raphael",2026-04-19 20:38
+interrumpida,3,0,5.0,100,"20minutos, elespanol, elconfidencial",3,Interrumpida la circulación de trenes de alta velocidad entre Madrid y Barcelona por un arrollamiento,2026-04-19 20:38
+cualquier,3,3,5.04,100,huffington_es,1,"Una española que ha vivido en Marruecos, Reino Unido y China explica qué echa de menos de cada país: &quot;En España puedes hacer cualquier plan a cualquier hora con cualquier persona y te lo vas a pasar bien&quot;",2026-04-19 20:38
+prorruso,6,2,15.12,100,"elcorreo, google_news_internacional, google_news_es, levante_emv, elpais",5,El exgeneral prorruso Rumen Radev cobra ventaja en las elecciones de Bulgaria,2026-04-19 20:38
+rasero,3,1,15.12,100,"expansion, google_news_es",2,"Israel critica ""el doble rasero del Gobierno de Pedro Sánchez""",2026-04-19 20:38
+rechaza,3,2,7.56,100,"20minutos, elpais, google_news_internacional",3,"La Embajada de Venezuela pide disculpas por las palabras de Carlos Baute en el acto en Madrid de Corina Machado, que las rechaza",2026-04-19 20:38
+baute,8,1,40.33,100,"20minutos, google_news_politica, heraldo_aragon, google_news_internacional, elmundo_internacional",5,"La Embajada de Venezuela pide disculpas por las palabras de Carlos Baute en el acto en Madrid de Corina Machado, que las rechaza",2026-04-19 20:38
+palabras,4,2,10.08,100,"20minutos, heraldo_aragon, elmundo_internacional, europapress",4,"La Embajada de Venezuela pide disculpas por las palabras de Carlos Baute en el acto en Madrid de Corina Machado, que las rechaza",2026-04-19 20:38
+disculpas,3,1,15.12,100,"20minutos, heraldo_aragon, europapress",3,"La Embajada de Venezuela pide disculpas por las palabras de Carlos Baute en el acto en Madrid de Corina Machado, que las rechaza",2026-04-19 20:38
+embajada,7,0,5.0,100,"20minutos, google_news_politica, heraldo_aragon, google_news_internacional, elmundo_internacional",5,"La Embajada de Venezuela pide disculpas por las palabras de Carlos Baute en el acto en Madrid de Corina Machado, que las rechaza",2026-04-19 20:38
+cruzadas,4,0,5.0,100,"elmundo_internacional, google_news_internacional",2,Trump anuncia una nueva reunión con Irán en medio de las amenazas cruzadas por Ormuz,2026-04-19 20:38
+buque,7,4,8.82,100,"elpais, google_news_internacional, huffington_es, elcorreo, okdiario",5,Estados Unidos intercepta un buque de carga iraní que trataba de superar el estrecho de Ormuz,2026-04-19 20:38
+bulgaria,11,7,7.92,100,"elcorreo, elmundo, google_news_internacional, elmundo_internacional, google_news_es",5,El exgeneral prorruso Rumen Radev cobra ventaja en las elecciones de Bulgaria,2026-04-19 20:38
+aborda,3,0,5.0,100,"elcorreo, elpais, google_news_internacional",3,Sigue en directo la última hora de la guerra en Oriente Medio | EE UU aborda y retiene un buque iraní que intentaba cruzar el estrecho de Ormuz,2026-04-19 20:38
+radev,8,4,10.08,100,"elcorreo, elmundo, google_news_internacional, elmundo_internacional, google_news_es",5,El exgeneral prorruso Rumen Radev cobra ventaja en las elecciones de Bulgaria,2026-04-19 20:38
+israelí,3,1,15.12,100,"20minutos, eldiario, levante_emv",3,El Ejército israelí investiga si un soldado destruyó a martillazos un Cristo en el Líbano,2026-04-19 20:38
+casas,3,2,7.56,100,"google_news_es, bbc_mundo",2,"Ocho niños mueren en varios tiroteos en diferentes casas en Luisiana, EE.UU. - BBC",2026-04-19 20:38
+ejército,3,3,5.04,100,"20minutos, sur, levante_emv",3,El Ejército israelí investiga si un soldado destruyó a martillazos un Cristo en el Líbano,2026-04-19 20:38
+retiene,3,1,15.12,100,"elcorreo, elpais, google_news_internacional",3,Sigue en directo la última hora de la guerra en Oriente Medio | EE UU aborda y retiene un buque iraní que intentaba cruzar el estrecho de Ormuz,2026-04-19 20:38
+bronce,3,1,15.12,100,"levante_emv, heraldo_aragon",2,El rugby español brilla en el campo: oro en el Europeo femenino de XV y bronce en las Series de 7 masculinas en Hong Kong,2026-04-19 20:38
+intentaba,3,0,5.0,100,"elcorreo, elpais, google_news_internacional",3,Sigue en directo la última hora de la guerra en Oriente Medio | EE UU aborda y retiene un buque iraní que intentaba cruzar el estrecho de Ormuz,2026-04-19 20:38
+insuficiente,3,2,7.56,100,"elmundo, google_news_internacional, expansion",3,Victoria insuficiente de Radev para distanciar a Bulgaria de la parálisis,2026-04-19 20:38
+masivo,13,1,65.53,100,"elcorreo, google_news_internacional, heraldo_aragon, huffington_es, okdiario",5,Un hombre armado mata a ocho niños en un tiroteo masivo en Luisiana,2026-04-19 20:38
+tiroteo,27,17,8.01,100,"google_news_es, elcorreo, 20minutos, google_news_internacional, levante_emv",5,"Ocho niños mueren en varios tiroteos en diferentes casas en Luisiana, EE.UU. - BBC",2026-04-19 20:38
+armado,3,0,5.0,100,"elcorreo, google_news_es, expansion",3,Un hombre armado mata a ocho niños en un tiroteo masivo en Luisiana,2026-04-19 20:38
+cruzar,3,1,15.12,100,"elcorreo, elpais, google_news_internacional",3,Sigue en directo la última hora de la guerra en Oriente Medio | EE UU aborda y retiene un buque iraní que intentaba cruzar el estrecho de Ormuz,2026-04-19 20:38
+gordo,5,0,5.0,100,"levante_emv, elespanol, elcorreo, 20minutos, okdiario",5,Sorteo de El Gordo de la Primitiva del domingo 19 de abril de 2026,2026-04-19 20:38
+príncipe,5,1,25.21,100,"elpais, elmundo, heraldo_aragon",3,"Cartagena, una devaluada Puerta del Príncipe",2026-04-19 20:38
+luisiana,27,0,5.0,100,"google_news_es, elcorreo, google_news_internacional, heraldo_aragon, france24_es",5,"Ocho niños mueren en varios tiroteos en diferentes casas en Luisiana, EE.UU. - BBC",2026-04-19 20:38
+canarias,4,1,20.16,100,"levante_emv, elespanol, google_news_economia, 20minutos",4,El CB Canarias firma una victoria de campanillas en la cancha del Real Madrid,2026-04-19 20:38
+reglas,3,1,15.12,100,"okdiario, google_news_internacional",2,La Universidad de Ámsterdam rompe las reglas de la física: crean el metamaterial que cobra vida y toma decisiones sin intervención humana,2026-04-19 20:38
+eibar,5,1,25.21,100,heraldo_aragon,1,El uno a uno del partido de la SD Huesca ante el Eibar (2-1),2026-04-19 20:38
+&quot;en,3,0,5.0,100,huffington_es,1,"Anna Bixler, audióloga: &quot;En el metro o corriendo subes el volumen de los auriculares para competir con el ruido exterior y ahí es exactamente donde la gente se mete en problemas con su audición&quot;",2026-04-19 20:38
+drones,6,3,10.08,100,"huffington_es, okdiario, france24_es",3,Los soldados estadounidenses ponen a prueba un nuevo rifle que decide automáticamente cuándo disparar para derribar drones kamikaze,2026-04-19 20:38
+arsenal,8,0,5.0,100,"okdiario, elpais, levante_emv, elmundo, google_news_es",5,Guardiola rebaja la euforia tras ganar al Arsenal: «La única realidad es…»,2026-04-19 20:38
+prueba,3,3,5.04,100,"huffington_es, okdiario",2,Los soldados estadounidenses ponen a prueba un nuevo rifle que decide automáticamente cuándo disparar para derribar drones kamikaze,2026-04-19 20:38
+intención,3,0,5.0,100,"huffington_es, elpais, google_news_internacional",3,"Alba Moreno, divulgadora científica, explica por qué los vídeos del &quot;sonido del universo” que arrasan en TikTok son técnicamente imposibles aunque su intención sea científica",2026-04-19 20:38
+capilar,3,0,5.0,100,"huffington_es, levante_emv, 20minutos",3,"Antonio Abreu, estilista, sobre la forma correcta de aplicarse una mascarilla capilar para que sea efectiva: &quot;Si no tienes tiempo no te la pongas&quot;",2026-04-19 20:38
+corona,3,3,5.04,100,"elpais, levante_emv",2,El Febernahçe se corona en la Euroliga tras vencer al Galatasaray en la final,2026-04-19 20:38
+endesa,3,2,7.56,100,"elespanol, heraldo_aragon",2,El Real Madrid acusa el desgaste físico ante La Laguna Tenerife y cae derrotado en la Liga Endesa tras doce victorias consecutivas,2026-04-19 20:38
+baloncesto,3,1,15.12,100,"levante_emv, heraldo_aragon, elespanol",3,El Fenerbahçe se corona campeón de Europa de baloncesto femenino en la final turca frente al Galatasaray,2026-04-19 20:38
+femenino,4,1,20.16,100,"levante_emv, huffington_es, heraldo_aragon",3,El Fenerbahçe se corona campeón de Europa de baloncesto femenino en la final turca frente al Galatasaray,2026-04-19 20:38
+huesca,9,1,45.37,100,heraldo_aragon,1,El uno a uno del partido de la SD Huesca ante el Eibar (2-1),2026-04-19 20:38
+niños,32,13,12.41,100,"google_news_es, elcorreo, google_news_internacional, heraldo_aragon, france24_es",5,"Ocho niños mueren en varios tiroteos en diferentes casas en Luisiana, EE.UU. - BBC",2026-04-19 20:38
+ministro,3,1,15.12,100,"google_news_politica, elpais, google_news_internacional",3,"Operaron de urgencia en Barcelona a Carlos Bianco, ministro de Gobierno de Kicillof - Infobae",2026-04-19 20:38
+premier,9,0,5.0,100,"elpais, google_news_internacional, levante_emv, sur, okdiario",5,Guardiola doblega al Arsenal y ataca su séptima Premier,2026-04-19 20:38
+golfo,5,4,6.3,100,"okdiario, elmundo, huffington_es, google_news_internacional",4,Guerra de Irán en directo hoy: EEUU captura un gran carguero iraní en el Golfo de Omán,2026-04-19 20:38
+mueren,12,2,30.25,100,"google_news_es, heraldo_aragon, france24_es, huffington_es, bbc_mundo",5,"Ocho niños mueren en varios tiroteos en diferentes casas en Luisiana, EE.UU. - BBC",2026-04-19 20:38
+iraní,10,5,10.08,100,"okdiario, elmundo, elpais, google_news_internacional, huffington_es",5,Guerra de Irán en directo hoy: EEUU captura un gran carguero iraní en el Golfo de Omán,2026-04-19 20:38
+reunión,6,7,4.32,86,"elmundo_internacional, google_news_internacional, 20minutos, google_news_es",4,Trump anuncia una nueva reunión con Irán en medio de las amenazas cruzadas por Ormuz,2026-04-19 20:38
+campeón,4,5,4.03,80,"levante_emv, heraldo_aragon, okdiario",3,El Fenerbahçe se corona campeón de Europa de baloncesto femenino en la final turca frente al Galatasaray,2026-04-19 20:38
+puedes,4,5,4.03,80,"20minutos, okdiario, huffington_es",3,¿Es el Jaecoo 7 SHS PHEV más lógico que te puedes comprar? Nuestra opinión tras probarlo,2026-04-19 20:38
+hombre,19,24,3.99,79,"elcorreo, 20minutos, levante_emv, elpais, google_news_es",5,Un hombre armado mata a ocho niños en un tiroteo masivo en Luisiana,2026-04-19 20:38
+venezuela,7,9,3.92,78,"20minutos, google_news_politica, heraldo_aragon, google_news_internacional, elmundo_internacional",5,"La Embajada de Venezuela pide disculpas por las palabras de Carlos Baute en el acto en Madrid de Corina Machado, que las rechaza",2026-04-19 20:38
+problemas,3,4,3.78,75,"huffington_es, google_news_es",2,"Anna Bixler, audióloga: &quot;En el metro o corriendo subes el volumen de los auriculares para competir con el ruido exterior y ahí es exactamente donde la gente se mete en problemas con su audición&quot;",2026-04-19 20:38
+popular,3,4,3.78,75,"levante_emv, google_news_es",2,Caixa Popular impulsa la quarta edició del Concurs de Dibuix per la Igualtat,2026-04-19 20:38
+doble,3,4,3.78,75,"expansion, elpais, google_news_es",3,"Israel critica ""el doble rasero del Gobierno de Pedro Sánchez""",2026-04-19 20:38
+rumen,3,4,3.78,75,"elcorreo, google_news_internacional, google_news_es",3,El exgeneral prorruso Rumen Radev cobra ventaja en las elecciones de Bulgaria,2026-04-19 20:38
+visita,3,4,3.78,75,"heraldo_aragon, google_news_internacional, levante_emv",3,El presidente brasileño Lula da Silva visita y reza en la Sagrada Familia de Barcelona,2026-04-19 20:38
+críticas,3,4,3.78,75,"20minutos, eldiario",2,WrestleMania 42: más madera al incendio de críticas a la WWE por sus historias,2026-04-19 20:38
+actriz,3,4,3.78,75,20minutos,1,Sebastián Gallego habla del fin de su amistad con Ana Milán y la pulla de la actriz,2026-04-19 20:38
+estados,13,18,3.64,72,"elpais, google_news_internacional, elcorreo, google_news_es",4,Estados Unidos intercepta un buque de carga iraní que trataba de superar el estrecho de Ormuz,2026-04-19 20:38
+unidos,12,17,3.56,71,"elpais, google_news_internacional, elcorreo, google_news_es",4,Estados Unidos intercepta un buque de carga iraní que trataba de superar el estrecho de Ormuz,2026-04-19 20:38
+acusa,7,10,3.53,70,"elespanol, okdiario, lavanguardia, elmundo_internacional, google_news_internacional",5,El Real Madrid acusa el desgaste físico ante La Laguna Tenerife y cae derrotado en la Liga Endesa tras doce victorias consecutivas,2026-04-19 20:38
+debate,6,9,3.36,67,google_news_internacional,1,Un hombre mata a tiros a al menos ocho niños tras una disputa doméstica en Luisiana - El Debate,2026-04-19 20:38
+estos,4,6,3.36,67,"google_news_es, google_news_economia, lavanguardia",3,"Paz Vega, destrozada tras la ruptura con Orson Salazar: “Ha perdido dos casas por estos problemas económicos” - Diario AS",2026-04-19 20:38
+pedro,10,15,3.36,67,"expansion, levante_emv, google_news_internacional, google_news_economia, elmundo",5,"Israel critica ""el doble rasero del Gobierno de Pedro Sánchez""",2026-04-19 20:38
+lunes,11,17,3.26,65,"20minutos, google_news_economia, sur, levante_emv, google_news_internacional",5,Tu horóscopo diario: lunes 20 de abril de 2026,2026-04-19 20:38
+después,7,11,3.21,64,"huffington_es, elcorreo, okdiario, elmundo_internacional, google_news_internacional",5,"Michel Mayor, premio Nobel de Física: “Es imposible colonizar un exoplaneta, no podemos alcanzar la energía necesaria para acelerar y después frenar cerca”",2026-04-19 20:38
+coche,5,8,3.15,63,"sur, huffington_es, okdiario",3,Un vehículo vuelca en la calle Pacífico tras colisionar con un coche de autoescuela,2026-04-19 20:38
+bloqueo,5,8,3.15,63,"huffington_es, expansion, google_news_es, elpais, google_news_internacional",5,Trump anuncia la captura de un buque iraní en el golfo de Omán tras intentar romper el bloqueo naval de EEUU,2026-04-19 20:38
+número,3,5,3.02,60,"okdiario, google_news_es",2,"El Gordo de la Primitiva: resultado y número premiado hoy, domingo 19 de abril de 2026",2026-04-19 20:38
+jornada,3,5,3.02,60,"google_news_internacional, google_news_es",2,SODERCAN y CDTI organizan una jornada sobre ayudas de I+D+i y cooperación tecnológica internacional el 30 de abril - El Faradio,2026-04-19 20:38
+yahoo,3,5,3.02,60,google_news_es,1,2-1. Haaland acerca al City al título - Yahoo,2026-04-19 20:38
+premiado,3,5,3.02,60,"okdiario, google_news_es",2,"El Gordo de la Primitiva: resultado y número premiado hoy, domingo 19 de abril de 2026",2026-04-19 20:38
+incendio,7,12,2.94,58,"france24_es, heraldo_aragon, 20minutos, sur, lavanguardia",5,Policía antiterrorista investiga serie de incendios contra comunidad judía en Londres,2026-04-19 20:38
+carga,7,12,2.94,58,"elpais, google_news_internacional, okdiario, elmundo_internacional, google_news_politica",5,Estados Unidos intercepta un buque de carga iraní que trataba de superar el estrecho de Ormuz,2026-04-19 20:38
+pueblo,4,7,2.88,57,"huffington_es, heraldo_aragon, google_news_internacional",3,"Miriam, ganadera burgalesa de un pueblo de 25 habitantes: “Cada vez todo vale más y lo que producimos vale menos&quot;",2026-04-19 20:38
+delegación,4,7,2.88,57,"france24_es, google_news_es, elpais, google_news_internacional",4,Informe desde Estambul: delegación de EE. UU. llegará a Pakistán para retomar diálogos con Irán,2026-04-19 20:38
+partido,12,21,2.88,57,"heraldo_aragon, google_news_es, elespanol",3,El uno a uno del partido de la SD Huesca ante el Eibar (2-1),2026-04-19 20:38
+conquista,4,7,2.88,57,"levante_emv, heraldo_aragon, elcorreo, lavanguardia, elpais",5,El Bayern corona una semana perfecta conquistando su 35ª Bundesliga,2026-04-19 20:38
+carlos,9,16,2.84,56,"20minutos, google_news_politica, heraldo_aragon, elmundo_internacional, europapress",5,"La Embajada de Venezuela pide disculpas por las palabras de Carlos Baute en el acto en Madrid de Corina Machado, que las rechaza",2026-04-19 20:38
+inmigrantes,5,9,2.8,56,"okdiario, lavanguardia, elmundo_internacional, google_news_internacional, europapress",5,Elon Musk acusa a Sánchez de «alta traición» por la regularización masiva de inmigrantes,2026-04-19 20:38
+victoria,6,11,2.75,54,"heraldo_aragon, levante_emv, elespanol, elmundo, google_news_internacional",5,Gran victoria del Contazara Zaragoza en La Coruña,2026-04-19 20:38
+gente,6,11,2.75,54,"huffington_es, elmundo, google_news_internacional, 20minutos",4,"Anna Bixler, audióloga: &quot;En el metro o corriendo subes el volumen de los auriculares para competir con el ruido exterior y ahí es exactamente donde la gente se mete en problemas con su audición&quot;",2026-04-19 20:38
+podemos,3,6,2.52,50,"huffington_es, okdiario, levante_emv",3,"Michel Mayor, premio Nobel de Física: “Es imposible colonizar un exoplaneta, no podemos alcanzar la energía necesaria para acelerar y después frenar cerca”",2026-04-19 20:38
+explica,5,10,2.52,50,"huffington_es, google_news_economia",2,"Alba Moreno, divulgadora científica, explica por qué los vídeos del &quot;sonido del universo” que arrasan en TikTok son técnicamente imposibles aunque su intención sea científica",2026-04-19 20:38
+impulsa,3,6,2.52,50,"levante_emv, google_news_internacional",2,Caixa Popular impulsa la quarta edició del Concurs de Dibuix per la Igualtat,2026-04-19 20:38
+elecciones,7,14,2.52,50,"elcorreo, google_news_internacional, elmundo_internacional, google_news_es, levante_emv",5,El exgeneral prorruso Rumen Radev cobra ventaja en las elecciones de Bulgaria,2026-04-19 20:38
+felipe,3,6,2.52,50,heraldo_aragon,1,Bronce del Casademont Zaragoza en un Príncipe Felipe de oro durante la Final Six,2026-04-19 20:38
+mujer,6,12,2.52,50,"elespanol, elpais, 20minutos, levante_emv, lavanguardia",5,"Bita Hemmati, primera mujer condenada a la horca por las protestas y estar ""a favor del gobierno hostil de EEUU""",2026-04-19 20:38
+negociaciones,10,20,2.52,50,"expansion, google_news_internacional, elpais, google_news_es",4,Irán cierra Ormuz y amenaza con retirarse de las negociaciones de paz,2026-04-19 20:38
+nuestra,3,6,2.52,50,"20minutos, elmundo, google_news_internacional",3,¿Es el Jaecoo 7 SHS PHEV más lógico que te puedes comprar? Nuestra opinión tras probarlo,2026-04-19 20:38
+infobae,5,10,2.52,50,"google_news_economia, google_news_politica, google_news_internacional",3,Temas del día de EFE España del lunes 20 de abril de 2025 - Infobae,2026-04-19 20:38
+fotos,3,6,2.52,50,heraldo_aragon,1,"Fotos del partido Eibar - SD Huesca, en el estadio de Ipurúa",2026-04-19 20:38
+bonoloto,8,17,2.37,47,"google_news_es, levante_emv, elcorreo, 20minutos, okdiario",5,Sorteo Bonoloto del domingo 19 de abril de 2026 - El Periódico,2026-04-19 20:38
+comprobar,11,24,2.31,46,"elespanol, elcorreo, 20minutos, google_news_es, okdiario",5,"Gordo de la Primitiva, hoy en directo | Comprobar los resultados del sorteo del domingo 19 de abril de 2026",2026-04-19 20:38
+conde,6,13,2.33,46,"elespanol, okdiario, 20minutos, lavanguardia, elpais",5,"Bita Hemmati, primera mujer condenada a la horca por las protestas y estar ""a favor del gobierno hostil de EEUU""",2026-04-19 20:38
+dw.com,4,9,2.24,44,google_news_es,1,"Israel critica a Pedro Sánchez y su gobierno ""doble rasero"" - dw.com",2026-04-19 20:38
+anuncia,11,25,2.22,44,"huffington_es, elmundo_internacional, google_news_internacional, okdiario, google_news_es",5,Trump anuncia la captura de un buque iraní en el golfo de Omán tras intentar romper el bloqueo naval de EEUU,2026-04-19 20:38
+congreso,3,7,2.16,43,"heraldo_aragon, huffington_es, levante_emv",3,Concluye en Jaca el congreso de Canal Roya para debatir sobre su protección,2026-04-19 20:38
+pasar,3,7,2.16,43,"elcorreo, okdiario, huffington_es",3,El estremecedor relato de Charlize Theron sobre la noche en la que su madre mató a su padre: «Sabía que iba a pasar algo malo»,2026-04-19 20:38
+festival,3,7,2.16,43,"levante_emv, google_news_internacional",2,Matt Costello reina en el festival de triples en Girona,2026-04-19 20:38
+pierde,3,7,2.16,43,heraldo_aragon,1,La SD Huesca pierde en Éibar y se deja media vida (2-1),2026-04-19 20:38
+lasexta,3,7,2.16,43,google_news_es,1,BONOLOTO | Comprobar el resultado del sorteo del domingo 19 de abril de 2026 - LaSexta,2026-04-19 20:38
+clasificación,3,7,2.16,43,"sur, google_news_internacional, heraldo_aragon",3,Clasificación Liga ACB: las opciones se reducen para el Unicaja,2026-04-19 20:38
+tierra,3,7,2.16,43,"20minutos, heraldo_aragon, okdiario",3,Rosalía hace temblar Barcelona: un sismólogo detecta movimientos de tierra por sus conciertos,2026-04-19 20:38
+premio,3,7,2.16,43,"google_news_internacional, huffington_es, elmundo",3,David Campos y Estíbaliz Sagardoy se apuntan las victorias en el Gran Premio Internacional X-Sauce Alpedrete XCO - REAL FEDERACIÓN ESPAÑOLA DE CICLISMO,2026-04-19 20:38
+domingo,16,40,2.02,40,"google_news_es, levante_emv, elespanol, elcorreo, google_news_internacional",5,Sorteo Bonoloto del domingo 19 de abril de 2026 - El Periódico,2026-04-19 20:38
+amenazas,4,10,2.02,40,"elmundo_internacional, google_news_internacional",2,Trump anuncia una nueva reunión con Irán en medio de las amenazas cruzadas por Ormuz,2026-04-19 20:38
+sorteo,6,15,2.02,40,"google_news_es, levante_emv, elespanol",3,Sorteo Bonoloto del domingo 19 de abril de 2026 - El Periódico,2026-04-19 20:38
