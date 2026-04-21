@@ -1,135 +1,116 @@
 keyword,count_now,count_base,ratio,viral_score,sources,n_sources,sample_title,detected_at
-espectáculo,4,0,5.0,100,"levante_emv, huffington_es, 20minutos",3,"Espectáculo de drones para anunciar el nuevo disco de Quevedo, 'El Baifo'",2026-04-21 01:08
-renovables,3,1,29.69,100,"eldiario, efe, elpais",3,La generación eléctrica con renovables supera al carbón por primera vez en la historia,2026-04-21 01:08
-muertos,13,1,128.68,100,"europapress, elespanol, elmundo, huffington_es, google_news_es",5,Una turista canadiense y un tirador mexicano muertos en un tiroteo en la pirámide de Teotihuacán (México),2026-04-21 01:08
-canadiense,8,0,5.0,100,"europapress, france24_es, bbc_mundo, google_news_es, 20minutos",5,Una turista canadiense y un tirador mexicano muertos en un tiroteo en la pirámide de Teotihuacán (México),2026-04-21 01:08
-turista,6,0,5.0,100,"europapress, france24_es, bbc_mundo, levante_emv, okdiario",5,Una turista canadiense y un tirador mexicano muertos en un tiroteo en la pirámide de Teotihuacán (México),2026-04-21 01:08
-ternus,16,0,5.0,100,"elcorreo, elespanol, eldiario, 20minutos, levante_emv",5,Apple cierra la etapa de Tim Cook como CEO y coloca a John Ternus al frente,2026-04-21 01:08
-apple,16,1,158.37,100,"elcorreo, elespanol, eldiario, 20minutos, levante_emv",5,Apple cierra la etapa de Tim Cook como CEO y coloca a John Ternus al frente,2026-04-21 01:08
-eurodreams,3,0,5.0,100,"sur, elcorreo",2,"Comprobar Lotería del lunes, 20 de abril: resultados de la Bonoloto, del Cupón de la ONCE, Mi día de la ONCE, La Primitiva y de EuroDreams",2026-04-21 01:08
-cupón,3,2,14.85,100,"sur, okdiario",2,"Comprobar Lotería del lunes, 20 de abril: resultados de la Bonoloto, del Cupón de la ONCE, Mi día de la ONCE, La Primitiva y de EuroDreams",2026-04-21 01:08
-comprobar,9,13,6.85,100,"sur, elcorreo, elpais, okdiario",4,"Comprobar Lotería del lunes, 20 de abril: resultados de la Bonoloto, del Cupón de la ONCE, Mi día de la ONCE, La Primitiva y de EuroDreams",2026-04-21 01:08
-energético,3,2,14.85,100,"efe, france24_es, okdiario",3,"Javier Peña, un ambientalista optimista ante la patente situación de colapso energético",2026-04-21 01:08
-pablo,3,5,5.94,100,"okdiario, google_news_politica",2,Pablo Motos sobre Ana Mena en ‘El Hormiguero’: «No sé si perdonarla»,2026-04-21 01:08
-tipos,3,4,7.42,100,"elcorreo, expansion, google_news_es",3,Tipos inolvidables,2026-04-21 01:08
-baifo,3,0,5.0,100,"levante_emv, 20minutos",2,"Espectáculo de drones para anunciar el nuevo disco de Quevedo, 'El Baifo'",2026-04-21 01:08
-quevedo,4,0,5.0,100,"levante_emv, huffington_es, 20minutos",3,"Espectáculo de drones para anunciar el nuevo disco de Quevedo, 'El Baifo'",2026-04-21 01:08
-disco,3,0,5.0,100,"levante_emv, huffington_es",2,"Espectáculo de drones para anunciar el nuevo disco de Quevedo, 'El Baifo'",2026-04-21 01:08
-cornada,3,2,14.85,100,"google_news_es, heraldo_aragon, elmundo",3,"Morante de la Puebla se encuentra ""muy grave"" tras sufrir una cornada en el glúteo en La Maestranza - RTVE.es",2026-04-21 01:08
-cogida,7,10,6.93,100,"google_news_es, elcorreo, okdiario, levante_emv",4,"Morante de la Puebla, ""muy grave"" tras sufrir una cogida en el glúteo en La Maestranza - RTVE.es",2026-04-21 01:08
-laureus,11,17,6.4,100,"google_news_es, elmundo, elpais, okdiario, lavanguardia",5,"En imágenes: Alcaraz, Sinner, Djokovic y más estrellas del ATP Tour en la ceremonia de los Laureus - ATP Tour",2026-04-21 01:08
-alcaraz,11,21,5.18,100,"google_news_es, levante_emv, elmundo, elpais, okdiario",5,"En imágenes: Alcaraz, Sinner, Djokovic y más estrellas del ATP Tour en la ceremonia de los Laureus - ATP Tour",2026-04-21 01:08
-imágenes,5,8,6.19,100,"google_news_es, levante_emv, okdiario",3,"En imágenes: Alcaraz, Sinner, Djokovic y más estrellas del ATP Tour en la ceremonia de los Laureus - ATP Tour",2026-04-21 01:08
-secretaria,4,0,5.0,100,"elpais, lavanguardia, google_news_es, google_news_internacional",4,"La secretaria de Trabajo de EE UU, Lori Chavez-DeRemer, renuncia en medio de acusaciones de abuso de poder",2026-04-21 01:08
-oficinas,3,4,7.42,100,elcorreo,1,Vitoria trasladará sus oficinas de San Antonio y pone fin a 20 años de un polémico y elevado alquiler,2026-04-21 01:08
-tiroteo,18,12,14.85,100,"europapress, france24_es, bbc_mundo, elmundo, huffington_es",5,Una turista canadiense y un tirador mexicano muertos en un tiroteo en la pirámide de Teotihuacán (México),2026-04-21 01:08
-pirámide,5,0,5.0,100,"europapress, bbc_mundo, google_news_es, elmundo, levante_emv",5,Una turista canadiense y un tirador mexicano muertos en un tiroteo en la pirámide de Teotihuacán (México),2026-04-21 01:08
-teotihuacán,22,0,5.0,100,"europapress, france24_es, bbc_mundo, google_news_es, elmundo",5,Una turista canadiense y un tirador mexicano muertos en un tiroteo en la pirámide de Teotihuacán (México),2026-04-21 01:08
-argemí,3,4,7.42,100,"levante_emv, google_news_es",2,Jordi Argemí será el nuevo CEO de Neinor a partir de 2027 al relevar a Borja García-Egotxeaga,2026-04-21 01:08
-coronados,3,0,5.0,100,"elpais, google_news_es",2,"Alcaraz, Sabalenka y Lamine Yamal, coronados en los Premios Laureus de Madrid",2026-04-21 01:08
-yamal,5,4,12.37,100,"elpais, google_news_es, okdiario, lavanguardia",4,"Alcaraz, Sabalenka y Lamine Yamal, coronados en los Premios Laureus de Madrid",2026-04-21 01:08
-sueca,4,2,19.8,100,"google_news_internacional, levante_emv",2,El 65º Concurs Internacional de Paella Valenciana de Sueca ya conoce a sus 12 participantes de la Comunidad Valenciana - elperiodic.com,2026-04-21 01:08
-valenciana,4,6,6.6,100,google_news_internacional,1,El 65º Concurs Internacional de Paella Valenciana de Sueca ya conoce a sus 12 participantes de la Comunidad Valenciana - elperiodic.com,2026-04-21 01:08
-paella,4,3,13.2,100,"google_news_internacional, levante_emv",2,El 65º Concurs Internacional de Paella Valenciana de Sueca ya conoce a sus 12 participantes de la Comunidad Valenciana - elperiodic.com,2026-04-21 01:08
-pirámides,12,0,5.0,100,"google_news_es, elmundo, levante_emv, 20minutos, lavanguardia",5,"Un hombre mata a disparos a una mujer canadiense y deja varios heridos en las pirámides de Teotihuacán, México - RTVE.es",2026-04-21 01:08
-lamine,6,3,19.8,100,"google_news_es, elpais, okdiario, lavanguardia",4,"Lamine: ""Messi es un ejemplo; ojalá pueda seguir su camino"" - Mundo Deportivo",2026-04-21 01:08
-heridos,14,14,9.9,100,"bbc_mundo, google_news_es, elmundo, huffington_es, lavanguardia",5,Una mujer canadiense muere y varios turistas resultan heridos en un tiroteo en la Pirámide de la Luna de Teotihuacán,2026-04-21 01:08
-neinor,3,4,7.42,100,"levante_emv, google_news_es",2,Jordi Argemí será el nuevo CEO de Neinor a partir de 2027 al relevar a Borja García-Egotxeaga,2026-04-21 01:08
-sabalenka,7,1,69.29,100,"elmundo, elpais, google_news_es, okdiario, lavanguardia",5,"Aryna Sabalenka, número 1 del tenis femenino: ""Antes de conocerla bien, creía que Badosa no era demasiado agradable y ella me confesó que pensaba exactamente lo mismo de mí""",2026-04-21 01:08
-méxico,13,16,8.04,100,"europapress, france24_es, google_news_es, elmundo, huffington_es",5,Una turista canadiense y un tirador mexicano muertos en un tiroteo en la pirámide de Teotihuacán (México),2026-04-21 01:08
-aryna,3,1,29.69,100,"elmundo, okdiario, elespanol",3,"Aryna Sabalenka, número 1 del tenis femenino: ""Antes de conocerla bien, creía que Badosa no era demasiado agradable y ella me confesó que pensaba exactamente lo mismo de mí""",2026-04-21 01:08
-delegado,5,2,24.75,100,"elpais, google_news_es",2,Apple nombra a John Ternus como consejero delegado y a Tim Cook como presidente ejecutivo,2026-04-21 01:08
-consejero,5,2,24.75,100,"elpais, google_news_es",2,Apple nombra a John Ternus como consejero delegado y a Tim Cook como presidente ejecutivo,2026-04-21 01:08
-nombra,8,5,15.84,100,"elespanol, okdiario, huffington_es, lavanguardia, elpais",5,"Starmer culpa a Exteriores del fallo de seguridad que permitió a Mandelson, socio de Epstein, ser nombrado embajador",2026-04-21 01:08
-septiembre,3,2,14.85,100,"20minutos, levante_emv, expansion",3,Tim Cook dejará de ser el CEO de Apple el próximo septiembre: le sustituirá John Ternus,2026-04-21 01:08
-dejará,3,0,5.0,100,"20minutos, levante_emv, expansion",3,Tim Cook dejará de ser el CEO de Apple el próximo septiembre: le sustituirá John Ternus,2026-04-21 01:08
-ejecutivo,7,0,5.0,100,"eldiario, levante_emv, lavanguardia, elpais, google_news_es",5,"Tim Cook deja el cargo de director ejecutivo de Apple después de 15 años y le releva John Ternus, director de ingeniería de hardware de la empresa",2026-04-21 01:08
-director,5,8,6.19,100,"eldiario, levante_emv, lavanguardia, google_news_es",4,"Tim Cook deja el cargo de director ejecutivo de Apple después de 15 años y le releva John Ternus, director de ingeniería de hardware de la empresa",2026-04-21 01:08
-cargo,3,3,9.9,100,"eldiario, expansion, elcorreo",3,"Tim Cook deja el cargo de director ejecutivo de Apple después de 15 años y le releva John Ternus, director de ingeniería de hardware de la empresa",2026-04-21 01:08
-carbón,3,0,5.0,100,"eldiario, efe, elpais",3,La generación eléctrica con renovables supera al carbón por primera vez en la historia,2026-04-21 01:08
-atacante,3,0,5.0,100,"google_news_es, 20minutos",2,"Al menos dos muertos, entre ellos el atacante, en un tiroteo en las pirámides de Teotihuacán (México) - Cadena SER",2026-04-21 01:08
-inacción,3,0,5.0,100,"levante_emv, google_news_internacional",2,"Amnistía Internacional pide a Europa que plante cara a los ataques de EEUU e Israel contra el derecho internacional: ""No hay excusa para su silencio y su inacción""",2026-04-21 01:08
-consulta,4,3,13.2,100,"elmundo, elcorreo, 20minutos",3,"¿Tiene solución el sistema de sanidad 40 años después? Vivimos más, pero esperamos más de 100 días una consulta",2026-04-21 01:08
-silencio,3,2,14.85,100,"levante_emv, google_news_internacional",2,"Amnistía Internacional pide a Europa que plante cara a los ataques de EEUU e Israel contra el derecho internacional: ""No hay excusa para su silencio y su inacción""",2026-04-21 01:08
-league,6,3,19.8,100,"google_news_es, levante_emv, elpais",3,El Real Madrid gana al Brujas en los penaltis y logra su segunda Youth League - RTVE.es,2026-04-21 01:08
-youth,6,2,29.69,100,"google_news_es, levante_emv, elpais",3,El Real Madrid gana al Brujas en los penaltis y logra su segunda Youth League - RTVE.es,2026-04-21 01:08
-penaltis,3,3,9.9,100,google_news_es,1,El Real Madrid gana al Brujas en los penaltis y logra su segunda Youth League - RTVE.es,2026-04-21 01:08
-vigor,3,0,5.0,100,elcorreo,1,El índice que limita el precio de los nuevos alquileres entra en vigor: de los 541 euros de la Cuchillería a los 1.071 de la Avenida,2026-04-21 01:08
-índice,3,0,5.0,100,elcorreo,1,El índice que limita el precio de los nuevos alquileres entra en vigor: de los 541 euros de la Cuchillería a los 1.071 de la Avenida,2026-04-21 01:08
-humanidad,3,1,29.69,100,google_news_internacional,1,Amnistía Internacional denuncia el incremento de las violaciones al derecho internacional: «El futuro de la humanidad está siendo atacado» - ABC,2026-04-21 01:08
-orden,4,4,9.9,100,google_news_internacional,1,Amnistía Internacional alerta de un ataque global al orden internacional y a los Derechos Humanos - El Boletín,2026-04-21 01:08
-derechos,6,5,11.88,100,"google_news_internacional, eldiario, elcorreo",3,Amnistía Internacional alerta de un ataque global al orden internacional y a los Derechos Humanos - El Boletín,2026-04-21 01:08
-humanos,6,5,11.88,100,"google_news_internacional, eldiario, elcorreo",3,Amnistía Internacional alerta de un ataque global al orden internacional y a los Derechos Humanos - El Boletín,2026-04-21 01:08
-presente,3,1,29.69,100,"elmundo, sur, 20minutos",3,"10 ensayos de no ficción para el Día del Libro: Historia, biografías, análisis e investigación para entender el presente",2026-04-21 01:08
-blanco,3,4,7.42,100,"sur, google_news_es",2,Semana en blanco,2026-04-21 01:08
-máximo,3,3,9.9,100,elcorreo,1,Consulta el precio máximo al que puedes poner en alquiler tu piso en Vitoria,2026-04-21 01:08
-muerto,3,3,9.9,100,"elespanol, europapress, elmundo, huffington_es, google_news_es",5,"La madre de Antonio, muerto a puñetazos por el 'pendenciero' David en Hellín: ""A mi hijo lo mataron como a un perro""",2026-04-21 01:08
-amnistía,15,0,5.0,100,"google_news_internacional, levante_emv, eldiario",3,Amnistía Internacional denunció que Irán alcanzó en 2025 su mayor cifra de ejecuciones en 36 años - Infobae,2026-04-21 01:08
-segundo,3,5,5.94,100,"elcorreo, google_news_es",2,Este es el equipo de Jon Uriarte para su segundo mandato al frente del Athletic,2026-04-21 01:08
-señala,5,9,5.5,100,"google_news_internacional, eldiario, elmundo",3,"Amnistía Internacional señala que España no protegió ""debidamente"" a los menores migrantes en 2025 - Servimedia",2026-04-21 01:08
-plante,3,0,5.0,100,"levante_emv, google_news_internacional",2,"Amnistía Internacional pide a Europa que plante cara a los ataques de EEUU e Israel contra el derecho internacional: ""No hay excusa para su silencio y su inacción""",2026-04-21 01:08
-excusa,3,0,5.0,100,"levante_emv, google_news_internacional",2,"Amnistía Internacional pide a Europa que plante cara a los ataques de EEUU e Israel contra el derecho internacional: ""No hay excusa para su silencio y su inacción""",2026-04-21 01:08
-grande,3,5,5.94,100,"elmundo, google_news_internacional, levante_emv",3,Un 'Bolívar' español para la desinflada Patria Grande,2026-04-21 01:08
-nuevos,5,10,4.95,98,"elcorreo, lavanguardia",2,El índice que limita el precio de los nuevos alquileres entra en vigor: de los 541 euros de la Cuchillería a los 1.071 de la Avenida,2026-04-21 01:08
-información,3,6,4.95,98,"google_news_economia, expansion, google_news_es",3,Málaga gana peso en el mapa de la innovación en España tras escalar siete puestos y superar la media nacional - Andalucía Información,2026-04-21 01:08
-miranda,3,6,4.95,98,elcorreo,1,El PP cree que Miranda debe sumarse a la lucha por el tren directo a Madrid,2026-04-21 01:08
-martes,7,14,4.95,98,"google_news_es, sur, 20minutos, huffington_es",4,"Guerra de Irán, última hora en directo | JD Vance no viajará hasta el martes a Pakistán para retomar las negociaciones con Irán - RTVE.es",2026-04-21 01:08
-alquiler,4,8,4.95,98,"elcorreo, elmundo",2,El índice que limita el precio de los nuevos alquileres entra en vigor: de los 541 euros de la Cuchillería a los 1.071 de la Avenida,2026-04-21 01:08
-partir,4,8,4.95,98,"levante_emv, google_news_es, 20minutos",3,Jordi Argemí será el nuevo CEO de Neinor a partir de 2027 al relevar a Borja García-Egotxeaga,2026-04-21 01:08
-jordi,4,8,4.95,98,"levante_emv, google_news_es, lavanguardia",3,Jordi Argemí será el nuevo CEO de Neinor a partir de 2027 al relevar a Borja García-Egotxeaga,2026-04-21 01:08
-bilbao,3,6,4.95,98,elcorreo,1,"Entra en vigor el índice que topa el precio de los nuevos alquileres: hasta 1.600 euros en la Gran Vía de Bilbao, 1.000 en el Casco Viejo...",2026-04-21 01:08
-bonoloto,5,10,4.95,98,"sur, elcorreo, levante_emv, okdiario",4,"Comprobar Lotería del lunes, 20 de abril: resultados de la Bonoloto, del Cupón de la ONCE, Mi día de la ONCE, La Primitiva y de EuroDreams",2026-04-21 01:08
-resultado,7,14,4.95,98,"sur, elcorreo, levante_emv, okdiario",4,"Comprobar Lotería del lunes, 20 de abril: resultados de la Bonoloto, del Cupón de la ONCE, Mi día de la ONCE, La Primitiva y de EuroDreams",2026-04-21 01:08
-morante,11,22,4.95,98,"google_news_es, okdiario, elcorreo, heraldo_aragon, elmundo",5,"Morante de la Puebla, ""muy grave"" tras sufrir una cogida en el glúteo en La Maestranza - RTVE.es",2026-04-21 01:08
-sorteo,8,17,4.66,93,"sur, levante_emv, elpais, okdiario",4,"Resultado del sorteo de EuroDreams del lunes, 20 de abril de 2026",2026-04-21 01:08
-fiesta,4,9,4.4,87,"elespanol, elcorreo, levante_emv",3,"Paquito d’ Rivera, el genio del jazz cubano con 16 Grammys: ""Quieren creer que aquello es una fiesta y es una tragedia""",2026-04-21 01:08
-sebastián,3,7,4.24,84,"levante_emv, google_news_es",2,Fiesta en San Sebastián para celebrar la tercera Copa del Rey de la Real Sociedad,2026-04-21 01:08
-entra,3,7,4.24,84,"elcorreo, google_news_es, elmundo, elmundo_internacional",4,El índice que limita el precio de los nuevos alquileres entra en vigor: de los 541 euros de la Cuchillería a los 1.071 de la Avenida,2026-04-21 01:08
-ataques,3,7,4.24,84,"levante_emv, google_news_internacional",2,"Amnistía Internacional pide a Europa que plante cara a los ataques de EEUU e Israel contra el derecho internacional: ""No hay excusa para su silencio y su inacción""",2026-04-21 01:08
-premios,5,12,4.12,82,"google_news_es, elpais, elespanol",3,Alcaraz es elegido Deportista del Año por los Premios Laureus - ATP Tour,2026-04-21 01:08
-primitiva,7,17,4.08,81,"sur, elcorreo, levante_emv, elpais, okdiario",5,"Comprobar Lotería del lunes, 20 de abril: resultados de la Bonoloto, del Cupón de la ONCE, Mi día de la ONCE, La Primitiva y de EuroDreams",2026-04-21 01:08
-lunes,19,46,4.09,81,"sur, elcorreo, levante_emv, elpais, okdiario",5,"Comprobar Lotería del lunes, 20 de abril: resultados de la Bonoloto, del Cupón de la ONCE, Mi día de la ONCE, La Primitiva y de EuroDreams",2026-04-21 01:08
-varios,4,10,3.96,79,"bbc_mundo, google_news_es, lavanguardia, okdiario",4,Una mujer canadiense muere y varios turistas resultan heridos en un tiroteo en la Pirámide de la Luna de Teotihuacán,2026-04-21 01:08
-poner,3,8,3.71,74,"elcorreo, france24_es",2,Consulta el precio máximo al que puedes poner en alquiler tu piso en Vitoria,2026-04-21 01:08
-lasexta,3,8,3.71,74,"google_news_es, google_news_politica",2,"Juicio del caso Kitchen, en directo | Tras las declaraciones de Bárcenas y su mujer continúa este martes - LaSexta",2026-04-21 01:08
-antonio,4,11,3.6,71,"elespanol, elcorreo, 20minutos",3,"La madre de Antonio, muerto a puñetazos por el 'pendenciero' David en Hellín: ""A mi hijo lo mataron como a un perro""",2026-04-21 01:08
-empresa,4,11,3.6,71,"google_news_internacional, sur, eldiario, elmundo, el_confidencial_tech",5,Alwayse refuerza su presencia internacional en carga aérea con soluciones de alta precisión para el movimiento de ULD - Interempresas.net,2026-04-21 01:08
-global,5,14,3.54,70,"google_news_internacional, elpais, eldiario, elmundo_internacional",4,Amnistía Internacional alerta de un ataque global al orden internacional y a los Derechos Humanos - El Boletín,2026-04-21 01:08
-resultados,6,17,3.49,69,"sur, elcorreo, levante_emv",3,"Comprobar Lotería del lunes, 20 de abril: resultados de la Bonoloto, del Cupón de la ONCE, Mi día de la ONCE, La Primitiva y de EuroDreams",2026-04-21 01:08
-menos,9,26,3.43,68,"elespanol, elmundo, huffington_es, google_news_es, lavanguardia",5,Peramato prepara la sustitución de Lastra con una fiscal sin experiencia y con 900 puestos menos en el escalafón,2026-04-21 01:08
-apagón,5,15,3.3,65,"elmundo, levante_emv, lavanguardia, elpais",4,La CNMC deja al Gobierno la 'patata caliente' de decidir la multa contra Red Eléctrica por el apagón general,2026-04-21 01:08
-falta,5,15,3.3,65,"elespanol, elmundo, efe, expansion, google_news_es",5,"Las últimas horas de la tregua entre EEUU e Irán transcurren entre amenazas, falta de avances y Ormuz aún cerrado",2026-04-21 01:08
-estos,3,9,3.3,65,"elespanol, google_news_economia, levante_emv, google_news_internacional",4,Peramato prepara la sustitución de Lastra con una fiscal sin experiencia y con 900 puestos menos en el escalafón,2026-04-21 01:08
-eldiario.es,3,9,3.3,65,google_news_internacional,1,"Amnistía Internacional alerta del deterioro global de los derechos humanos y señala a Trump, Netanyahu y Putin - elDiario.es",2026-04-21 01:08
-segunda,4,13,3.05,60,"google_news_es, elcorreo, sur, heraldo_aragon, elpais",5,El Real Madrid gana al Brujas en los penaltis y logra su segunda Youth League - RTVE.es,2026-04-21 01:08
-equipo,3,10,2.97,59,"elespanol, elcorreo, google_news_es",3,Los equipos de María Corina y Marco Rubio negociarán en Chicago las fechas y fases de la transición en Venezuela,2026-04-21 01:08
-drones,3,10,2.97,59,"levante_emv, 20minutos",2,"Espectáculo de drones para anunciar el nuevo disco de Quevedo, 'El Baifo'",2026-04-21 01:08
-acoge,3,10,2.97,59,"levante_emv, google_news_es, google_news_internacional",3,Un cielo de farolillos ya alumbra la Feria de Sevilla: el Real acoge el inicio de su fiesta más soñada con aires flamencos y una ilusión intacta,2026-04-21 01:08
-alquileres,3,10,2.97,59,elcorreo,1,El índice que limita el precio de los nuevos alquileres entra en vigor: de los 541 euros de la Cuchillería a los 1.071 de la Avenida,2026-04-21 01:08
-número,3,10,2.97,59,"elcorreo, elmundo, okdiario",3,Miranda duplica las víctimas por accidente de tráfico con el mismo número de atropellos,2026-04-21 01:08
-puebla,5,17,2.91,58,"google_news_es, heraldo_aragon, elmundo, levante_emv",4,"Morante de la Puebla, ""muy grave"" tras sufrir una cogida en el glúteo en La Maestranza - RTVE.es",2026-04-21 01:08
-derecho,4,14,2.83,56,"google_news_internacional, levante_emv, eldiario, elcorreo",4,Amnistía Internacional denuncia el incremento de las violaciones al derecho internacional: «El futuro de la humanidad está siendo atacado» - ABC,2026-04-21 01:08
-maestranza,4,14,2.83,56,"google_news_es, levante_emv",2,"Morante de la Puebla, ""muy grave"" tras sufrir una cogida en el glúteo en La Maestranza - RTVE.es",2026-04-21 01:08
-rtve.es,6,22,2.7,53,"google_news_es, google_news_internacional",2,El Real Madrid gana al Brujas en los penaltis y logra su segunda Youth League - RTVE.es,2026-04-21 01:08
-grave,4,15,2.64,52,"google_news_es, elcorreo, heraldo_aragon, elmundo",4,"Morante de la Puebla, ""muy grave"" tras sufrir una cogida en el glúteo en La Maestranza - RTVE.es",2026-04-21 01:08
-anuncia,5,19,2.6,52,"levante_emv, huffington_es, elespanol, 20minutos, okdiario",5,"Espectáculo de drones para anunciar el nuevo disco de Quevedo, 'El Baifo'",2026-04-21 01:08
-antes,4,15,2.64,52,"google_news_internacional, sur, levante_emv, elmundo, elmundo_internacional",5,"Amnistía Internacional señala que España no protegió ""debidamente"" a los menores migrantes en 2025 - Servimedia",2026-04-21 01:08
-acoso,4,16,2.47,49,"elcorreo, google_news_internacional",2,Casi 20.000 desalojos y el acoso en redes amenazan los derechos humanos en España,2026-04-21 01:08
-tregua,3,12,2.47,49,"elespanol, google_news_es, elmundo_internacional",3,"Las últimas horas de la tregua entre EEUU e Irán transcurren entre amenazas, falta de avances y Ormuz aún cerrado",2026-04-21 01:08
-venezuela,4,16,2.47,49,"elespanol, google_news_internacional, google_news_politica",3,Los equipos de María Corina y Marco Rubio negociarán en Chicago las fechas y fases de la transición en Venezuela,2026-04-21 01:08
-detenido,3,12,2.47,49,"elmundo, levante_emv, 20minutos",3,Reservaba pisos turísticos y los ofrecía como alquiler de larga duración: detenido por estafar a 32 personas en Madrid,2026-04-21 01:08
-precio,6,25,2.38,47,"elcorreo, sur",2,El índice que limita el precio de los nuevos alquileres entra en vigor: de los 541 euros de la Cuchillería a los 1.071 de la Avenida,2026-04-21 01:08
-madrid,22,95,2.29,45,"google_news_es, elcorreo, elmundo, heraldo_aragon, levante_emv",5,El Real Madrid gana al Brujas en los penaltis y logra su segunda Youth League - RTVE.es,2026-04-21 01:08
-final,7,31,2.24,44,"elcorreo, google_news_es, levante_emv, google_news_internacional",4,Las siete finales en la ACB para un Baskonia obligado al máximo,2026-04-21 01:08
-presidente,5,22,2.25,44,"lavanguardia, elpais, google_news_es",3,"Apple nombra a John Ternus como director ejecutivo y a Tim Cook, presidente ejecutivo",2026-04-21 01:08
-después,6,27,2.2,43,"elmundo, elcorreo, levante_emv, elespanol, eldiario",5,"¿Tiene solución el sistema de sanidad 40 años después? Vivimos más, pero esperamos más de 100 días una consulta",2026-04-21 01:08
-política,5,23,2.15,43,"google_news_politica, elmundo, google_news_internacional",3,"Los rodeos de Leopoldo López a la hora de reconocer la labor del Gobierno en Venezuela: ""Ha sido una política - LaSexta",2026-04-21 01:08
-sanidad,3,14,2.12,42,"elmundo, huffington_es",2,"¿Tiene solución el sistema de sanidad 40 años después? Vivimos más, pero esperamos más de 100 días una consulta",2026-04-21 01:08
-trabajo,3,14,2.12,42,"elpais, lavanguardia, google_news_es",3,"La secretaria de Trabajo de EE UU, Lori Chavez-DeRemer, renuncia en medio de acusaciones de abuso de poder",2026-04-21 01:08
-victoria,3,14,2.12,42,"elcorreo, france24_es, 20minutos",3,El gran reto de una victoria obligada,2026-04-21 01:08
-javier,3,14,2.12,42,"efe, 20minutos, levante_emv",3,"Javier Peña, un ambientalista optimista ante la patente situación de colapso energético",2026-04-21 01:08
-etapa,3,14,2.12,42,"elcorreo, el_confidencial_tech, google_news_economia",3,Apple cierra la etapa de Tim Cook como CEO y coloca a John Ternus al frente,2026-04-21 01:08
-concurso,3,14,2.12,42,"levante_emv, google_news_internacional",2,Estos son los doce cocineros valencianos que competirán en la final del concurso internacional de paella de Sueca,2026-04-21 01:08
-medio,4,19,2.08,41,"elpais, elcorreo, lavanguardia, google_news_es",4,"La secretaria de Trabajo de EE UU, Lori Chavez-DeRemer, renuncia en medio de acusaciones de abuso de poder",2026-04-21 01:08
-abril,24,116,2.05,40,"elespanol, elcorreo, sur, levante_emv, 20minutos",5,El Español redobla su liderazgo con más de 30M de usuarios en abril tras integrar ComScore las redes sociales,2026-04-21 01:08
-nuevo,13,63,2.04,40,"elespanol, elmundo, elcorreo, levante_emv, huffington_es",5,"Rumen Radev, el líder prorruso que arrasa en Bulgaria: estos son los motivos por los que no será un nuevo Orbán",2026-04-21 01:08
+coronados,3,0,5.0,100,"elpais, google_news_es",2,"Alcaraz, Sabalenka y Lamine Yamal, coronados en los Premios Laureus de Madrid",2026-04-21 01:39
+dejará,3,0,5.0,100,"20minutos, levante_emv, expansion",3,Tim Cook dejará de ser el CEO de Apple el próximo septiembre: le sustituirá John Ternus,2026-04-21 01:39
+eldiario.es,3,6,5.38,100,google_news_internacional,1,"Amnistía Internacional alerta del deterioro global de los derechos humanos y señala a Trump, Netanyahu y Putin - elDiario.es",2026-04-21 01:39
+carbón,3,0,5.0,100,"eldiario, efe, elpais",3,La generación eléctrica con renovables supera al carbón por primera vez en la historia,2026-04-21 01:39
+inacción,3,0,5.0,100,"levante_emv, google_news_internacional",2,"Amnistía Internacional pide a Europa que plante cara a los ataques de EEUU e Israel contra el derecho internacional: ""No hay excusa para su silencio y su inacción""",2026-04-21 01:39
+silencio,3,2,16.15,100,"levante_emv, google_news_internacional",2,"Amnistía Internacional pide a Europa que plante cara a los ataques de EEUU e Israel contra el derecho internacional: ""No hay excusa para su silencio y su inacción""",2026-04-21 01:39
+excusa,3,0,5.0,100,"levante_emv, google_news_internacional",2,"Amnistía Internacional pide a Europa que plante cara a los ataques de EEUU e Israel contra el derecho internacional: ""No hay excusa para su silencio y su inacción""",2026-04-21 01:39
+ataques,3,6,5.38,100,"levante_emv, google_news_internacional",2,"Amnistía Internacional pide a Europa que plante cara a los ataques de EEUU e Israel contra el derecho internacional: ""No hay excusa para su silencio y su inacción""",2026-04-21 01:39
+plante,3,0,5.0,100,"levante_emv, google_news_internacional",2,"Amnistía Internacional pide a Europa que plante cara a los ataques de EEUU e Israel contra el derecho internacional: ""No hay excusa para su silencio y su inacción""",2026-04-21 01:39
+señala,5,9,5.98,100,"google_news_internacional, eldiario, elmundo",3,"Amnistía Internacional señala que España no protegió ""debidamente"" a los menores migrantes en 2025 - Servimedia",2026-04-21 01:39
+cargo,3,3,10.77,100,"eldiario, expansion, elcorreo",3,"Tim Cook deja el cargo de director ejecutivo de Apple después de 15 años y le releva John Ternus, director de ingeniería de hardware de la empresa",2026-04-21 01:39
+humanos,6,4,16.15,100,"google_news_internacional, eldiario, elcorreo",3,Amnistía Internacional alerta de un ataque global al orden internacional y a los Derechos Humanos - El Boletín,2026-04-21 01:39
+derechos,6,5,12.92,100,"google_news_internacional, eldiario, elcorreo",3,Amnistía Internacional alerta de un ataque global al orden internacional y a los Derechos Humanos - El Boletín,2026-04-21 01:39
+orden,4,4,10.77,100,google_news_internacional,1,Amnistía Internacional alerta de un ataque global al orden internacional y a los Derechos Humanos - El Boletín,2026-04-21 01:39
+comprobar,8,13,6.62,100,"sur, elcorreo, elpais, okdiario",4,"Comprobar Lotería del lunes, 20 de abril: resultados de la Bonoloto, del Cupón de la ONCE, Mi día de la ONCE, La Primitiva y de EuroDreams",2026-04-21 01:39
+alquiler,4,7,6.15,100,"elcorreo, elmundo",2,El índice que limita el precio de los nuevos alquileres entra en vigor: de los 541 euros de la Cuchillería a los 1.071 de la Avenida,2026-04-21 01:39
+máximo,3,3,10.77,100,elcorreo,1,Consulta el precio máximo al que puedes poner en alquiler tu piso en Vitoria,2026-04-21 01:39
+renovables,5,1,53.83,100,"expansion, google_news_economia, eldiario, efe, elpais",5,Norges revoluciona el 'statu quo' del mapa español de las renovables,2026-04-21 01:39
+teotihuacán,8,14,6.15,100,"europapress, france24_es, bbc_mundo, google_news_es, elmundo",5,Una turista canadiense y un tirador mexicano muertos en un tiroteo en la pirámide de Teotihuacán (México),2026-04-21 01:39
+oficinas,3,4,8.07,100,elcorreo,1,Vitoria trasladará sus oficinas de San Antonio y pone fin a 20 años de un polémico y elevado alquiler,2026-04-21 01:39
+cupón,3,2,16.15,100,"sur, okdiario",2,"Comprobar Lotería del lunes, 20 de abril: resultados de la Bonoloto, del Cupón de la ONCE, Mi día de la ONCE, La Primitiva y de EuroDreams",2026-04-21 01:39
+sebastián,3,6,5.38,100,"levante_emv, google_news_es",2,Fiesta en San Sebastián para celebrar la tercera Copa del Rey de la Real Sociedad,2026-04-21 01:39
+bonoloto,5,8,6.73,100,"sur, elcorreo, levante_emv, okdiario",4,"Comprobar Lotería del lunes, 20 de abril: resultados de la Bonoloto, del Cupón de la ONCE, Mi día de la ONCE, La Primitiva y de EuroDreams",2026-04-21 01:39
+pablo,3,5,6.46,100,"okdiario, google_news_politica",2,Pablo Motos sobre Ana Mena en ‘El Hormiguero’: «No sé si perdonarla»,2026-04-21 01:39
+baifo,3,0,5.0,100,"levante_emv, 20minutos",2,"Espectáculo de drones para anunciar el nuevo disco de Quevedo, 'El Baifo'",2026-04-21 01:39
+quevedo,4,0,5.0,100,"levante_emv, huffington_es, 20minutos",3,"Espectáculo de drones para anunciar el nuevo disco de Quevedo, 'El Baifo'",2026-04-21 01:39
+disco,3,0,5.0,100,"levante_emv, huffington_es",2,"Espectáculo de drones para anunciar el nuevo disco de Quevedo, 'El Baifo'",2026-04-21 01:39
+espectáculo,4,0,5.0,100,"levante_emv, huffington_es, 20minutos",3,"Espectáculo de drones para anunciar el nuevo disco de Quevedo, 'El Baifo'",2026-04-21 01:39
+secretaria,4,0,5.0,100,"elpais, lavanguardia, google_news_es, google_news_internacional",4,"La secretaria de Trabajo de EE UU, Lori Chavez-DeRemer, renuncia en medio de acusaciones de abuso de poder",2026-04-21 01:39
+cornada,3,2,16.15,100,"google_news_es, heraldo_aragon, elmundo",3,"Morante de la Puebla se encuentra ""muy grave"" tras sufrir una cornada en el glúteo en La Maestranza - RTVE.es",2026-04-21 01:39
+cogida,6,11,5.87,100,"google_news_es, elcorreo, okdiario, levante_emv",4,"Morante de la Puebla, ""muy grave"" tras sufrir una cogida en el glúteo en La Maestranza - RTVE.es",2026-04-21 01:39
+turista,4,2,21.53,100,"europapress, france24_es, bbc_mundo, levante_emv",4,Una turista canadiense y un tirador mexicano muertos en un tiroteo en la pirámide de Teotihuacán (México),2026-04-21 01:39
+canadiense,5,3,17.94,100,"europapress, france24_es, bbc_mundo, google_news_es",4,Una turista canadiense y un tirador mexicano muertos en un tiroteo en la pirámide de Teotihuacán (México),2026-04-21 01:39
+laureus,9,19,5.1,100,"google_news_es, elmundo, elpais, okdiario, lavanguardia",5,"En imágenes: Alcaraz, Sinner, Djokovic y más estrellas del ATP Tour en la ceremonia de los Laureus - ATP Tour",2026-04-21 01:39
+imágenes,5,8,6.73,100,"google_news_es, levante_emv, okdiario",3,"En imágenes: Alcaraz, Sinner, Djokovic y más estrellas del ATP Tour en la ceremonia de los Laureus - ATP Tour",2026-04-21 01:39
+vigor,3,0,5.0,100,elcorreo,1,El índice que limita el precio de los nuevos alquileres entra en vigor: de los 541 euros de la Cuchillería a los 1.071 de la Avenida,2026-04-21 01:39
+bilbao,3,6,5.38,100,elcorreo,1,"Entra en vigor el índice que topa el precio de los nuevos alquileres: hasta 1.600 euros en la Gran Vía de Bilbao, 1.000 en el Casco Viejo...",2026-04-21 01:39
+miranda,3,6,5.38,100,elcorreo,1,El PP cree que Miranda debe sumarse a la lucha por el tren directo a Madrid,2026-04-21 01:39
+penaltis,3,3,10.77,100,google_news_es,1,El Real Madrid gana al Brujas en los penaltis y logra su segunda UEFA Youth League - RTVE.es,2026-04-21 01:39
+brujas,3,2,16.15,100,google_news_es,1,El Real Madrid gana al Brujas en los penaltis y logra su segunda UEFA Youth League - RTVE.es,2026-04-21 01:39
+delegado,4,3,14.35,100,"elpais, google_news_es",2,Apple nombra a John Ternus como consejero delegado y a Tim Cook como presidente ejecutivo,2026-04-21 01:39
+derecho,6,12,5.38,100,"google_news_internacional, levante_emv, eldiario, elcorreo",4,"AI: ""El Gobierno de España ha sido el único en denunciar sistemáticamente las violaciones del derecho internacional"" - ABC",2026-04-21 01:39
+consejero,4,3,14.35,100,"elpais, google_news_es",2,Apple nombra a John Ternus como consejero delegado y a Tim Cook como presidente ejecutivo,2026-04-21 01:39
+youth,5,4,13.46,100,"google_news_es, levante_emv",2,El Real Madrid gana al Brujas en los penaltis y logra su segunda UEFA Youth League - RTVE.es,2026-04-21 01:39
+league,5,5,10.77,100,"google_news_es, levante_emv",2,El Real Madrid gana al Brujas en los penaltis y logra su segunda UEFA Youth League - RTVE.es,2026-04-21 01:39
+sabalenka,6,2,32.3,100,"elmundo, elpais, google_news_es, okdiario, lavanguardia",5,"Aryna Sabalenka, número 1 del tenis femenino: ""Antes de conocerla bien, creía que Badosa no era demasiado agradable y ella me confesó que pensaba exactamente lo mismo de mí""",2026-04-21 01:39
+grande,3,5,6.46,100,"elmundo, google_news_internacional, levante_emv",3,Un 'Bolívar' español para la desinflada Patria Grande,2026-04-21 01:39
+sorteo,8,15,5.74,100,"sur, levante_emv, elpais, okdiario",4,"Resultado del sorteo de EuroDreams del lunes, 20 de abril de 2026",2026-04-21 01:39
+consulta,4,3,14.35,100,"elmundo, elcorreo, 20minutos",3,"¿Tiene solución el sistema de sanidad 40 años después? Vivimos más, pero esperamos más de 100 días una consulta",2026-04-21 01:39
+resultado,7,14,5.38,100,"sur, elcorreo, levante_emv, okdiario",4,"Comprobar Lotería del lunes, 20 de abril: resultados de la Bonoloto, del Cupón de la ONCE, Mi día de la ONCE, La Primitiva y de EuroDreams",2026-04-21 01:39
+presente,3,1,32.3,100,"elmundo, sur, 20minutos",3,"10 ensayos de no ficción para el Día del Libro: Historia, biografías, análisis e investigación para entender el presente",2026-04-21 01:39
+apple,17,1,183.01,100,"google_news_es, elcorreo, elespanol, eldiario, 20minutos",5,Ampliación: Apple anuncia que Tim Cook pasará a ser presidente ejecutivo y John Ternus nuevo director ejecutivo - Xinhua Español,2026-04-21 01:39
+amnistía,17,0,5.0,100,"google_news_internacional, levante_emv, eldiario",3,Amnistía Internacional denunció que Irán alcanzó en 2025 su mayor cifra de ejecuciones en 36 años - Infobae,2026-04-21 01:39
+nombra,8,5,17.22,100,"elespanol, okdiario, huffington_es, lavanguardia, elpais",5,"Starmer culpa a Exteriores del fallo de seguridad que permitió a Mandelson, socio de Epstein, ser nombrado embajador",2026-04-21 01:39
+lamine,6,3,21.53,100,"google_news_es, elpais, okdiario, lavanguardia",4,"Lamine: ""Messi es un ejemplo; ojalá pueda seguir su camino"" - Mundo Deportivo",2026-04-21 01:39
+ejecutivo,9,0,5.0,100,"google_news_es, eldiario, levante_emv, lavanguardia, elpais",5,Ampliación: Apple anuncia que Tim Cook pasará a ser presidente ejecutivo y John Ternus nuevo director ejecutivo - Xinhua Español,2026-04-21 01:39
+ternus,17,0,5.0,100,"google_news_es, elcorreo, elespanol, eldiario, 20minutos",5,Ampliación: Apple anuncia que Tim Cook pasará a ser presidente ejecutivo y John Ternus nuevo director ejecutivo - Xinhua Español,2026-04-21 01:39
+director,6,8,8.07,100,"google_news_es, eldiario, levante_emv, lavanguardia",4,Ampliación: Apple anuncia que Tim Cook pasará a ser presidente ejecutivo y John Ternus nuevo director ejecutivo - Xinhua Español,2026-04-21 01:39
+yamal,5,4,13.46,100,"elpais, google_news_es, okdiario, lavanguardia",4,"Alcaraz, Sabalenka y Lamine Yamal, coronados en los Premios Laureus de Madrid",2026-04-21 01:39
+humanidad,3,1,32.3,100,google_news_internacional,1,Amnistía Internacional denuncia el incremento de las violaciones al derecho internacional: «El futuro de la humanidad está siendo atacado» - ABC,2026-04-21 01:39
+índice,3,0,5.0,100,elcorreo,1,El índice que limita el precio de los nuevos alquileres entra en vigor: de los 541 euros de la Cuchillería a los 1.071 de la Avenida,2026-04-21 01:39
+putin,3,2,16.15,100,"google_news_economia, eldiario, google_news_internacional",3,España comparte abogado con Putin en sus laudos por las renovables en EE UU - La Razón,2026-04-21 01:39
+septiembre,3,2,16.15,100,"20minutos, levante_emv, expansion",3,Tim Cook dejará de ser el CEO de Apple el próximo septiembre: le sustituirá John Ternus,2026-04-21 01:39
+fiesta,4,9,4.78,95,"elespanol, elcorreo, levante_emv",3,"Paquito d’ Rivera, el genio del jazz cubano con 16 Grammys: ""Quieren creer que aquello es una fiesta y es una tragedia""",2026-04-21 01:39
+morante,10,23,4.68,93,"google_news_es, okdiario, elcorreo, heraldo_aragon, elmundo",5,"Morante de la Puebla, ""muy grave"" tras sufrir una cogida en el glúteo en La Maestranza - RTVE.es",2026-04-21 01:39
+entra,3,7,4.61,92,"elcorreo, google_news_es, elmundo, elmundo_internacional",4,El índice que limita el precio de los nuevos alquileres entra en vigor: de los 541 euros de la Cuchillería a los 1.071 de la Avenida,2026-04-21 01:39
+global,5,12,4.49,89,"google_news_internacional, elpais, eldiario, elmundo_internacional",4,Amnistía Internacional alerta de un ataque global al orden internacional y a los Derechos Humanos - El Boletín,2026-04-21 01:39
+primitiva,7,17,4.43,88,"sur, elcorreo, levante_emv, elpais, okdiario",5,"Comprobar Lotería del lunes, 20 de abril: resultados de la Bonoloto, del Cupón de la ONCE, Mi día de la ONCE, La Primitiva y de EuroDreams",2026-04-21 01:39
+muertos,4,10,4.31,86,"europapress, elespanol, elmundo, huffington_es",4,Una turista canadiense y un tirador mexicano muertos en un tiroteo en la pirámide de Teotihuacán (México),2026-04-21 01:39
+alcaraz,9,23,4.21,84,"google_news_es, levante_emv, elmundo, elpais, okdiario",5,"En imágenes: Alcaraz, Sinner, Djokovic y más estrellas del ATP Tour en la ceremonia de los Laureus - ATP Tour",2026-04-21 01:39
+lasexta,3,8,4.04,80,"google_news_es, google_news_politica",2,"Juicio del caso Kitchen, en directo | Tras las declaraciones de Bárcenas y su mujer continúa este martes - LaSexta",2026-04-21 01:39
+logra,3,8,4.04,80,"google_news_es, expansion, levante_emv",3,El Real Madrid gana al Brujas en los penaltis y logra su segunda UEFA Youth League - RTVE.es,2026-04-21 01:39
+poner,3,8,4.04,80,"elcorreo, france24_es",2,Consulta el precio máximo al que puedes poner en alquiler tu piso en Vitoria,2026-04-21 01:39
+empresa,4,11,3.91,78,"google_news_internacional, sur, eldiario, elmundo, el_confidencial_tech",5,Alwayse refuerza su presencia internacional en carga aérea con soluciones de alta precisión para el movimiento de ULD - Interempresas.net,2026-04-21 01:39
+nuevos,4,11,3.91,78,elcorreo,1,El índice que limita el precio de los nuevos alquileres entra en vigor: de los 541 euros de la Cuchillería a los 1.071 de la Avenida,2026-04-21 01:39
+antonio,4,11,3.91,78,"elespanol, elcorreo, 20minutos",3,"La madre de Antonio, muerto a puñetazos por el 'pendenciero' David en Hellín: ""A mi hijo lo mataron como a un perro""",2026-04-21 01:39
+anuncia,6,17,3.8,75,"google_news_es, levante_emv, huffington_es, elespanol, 20minutos",5,Ampliación: Apple anuncia que Tim Cook pasará a ser presidente ejecutivo y John Ternus nuevo director ejecutivo - Xinhua Español,2026-04-21 01:39
+lunes,16,48,3.59,71,"sur, elcorreo, levante_emv, elpais, okdiario",5,"Comprobar Lotería del lunes, 20 de abril: resultados de la Bonoloto, del Cupón de la ONCE, Mi día de la ONCE, La Primitiva y de EuroDreams",2026-04-21 01:39
+partir,3,9,3.59,71,"levante_emv, google_news_es, 20minutos",3,Jordi Argemí será el nuevo CEO de Neinor a partir de 2027 al relevar a Borja García-Egotxeaga,2026-04-21 01:39
+pirámides,3,9,3.59,71,"google_news_es, elmundo, levante_emv",3,"Un hombre mata a disparos a una mujer canadiense y deja varios heridos en las pirámides de Teotihuacán, México - RTVE.es",2026-04-21 01:39
+méxico,7,22,3.43,68,"europapress, france24_es, google_news_es, elmundo, huffington_es",5,Una turista canadiense y un tirador mexicano muertos en un tiroteo en la pirámide de Teotihuacán (México),2026-04-21 01:39
+rtve.es,7,22,3.43,68,"google_news_es, google_news_internacional",2,El Real Madrid gana al Brujas en los penaltis y logra su segunda UEFA Youth League - RTVE.es,2026-04-21 01:39
+martes,5,16,3.36,67,"google_news_es, sur, 20minutos",3,"Guerra de Irán, última hora en directo | JD Vance no viajará hasta el martes a Pakistán para retomar las negociaciones con Irán - RTVE.es",2026-04-21 01:39
+premios,4,13,3.31,66,"google_news_es, elpais",2,Alcaraz es elegido Deportista del Año por los Premios Laureus - ATP Tour,2026-04-21 01:39
+tiroteo,7,23,3.28,65,"europapress, france24_es, bbc_mundo, elmundo, huffington_es",5,Una turista canadiense y un tirador mexicano muertos en un tiroteo en la pirámide de Teotihuacán (México),2026-04-21 01:39
+acoge,3,10,3.23,64,"levante_emv, google_news_es, google_news_internacional",3,Un cielo de farolillos ya alumbra la Feria de Sevilla: el Real acoge el inicio de su fiesta más soñada con aires flamencos y una ilusión intacta,2026-04-21 01:39
+número,3,10,3.23,64,"elcorreo, elmundo, okdiario",3,Miranda duplica las víctimas por accidente de tráfico con el mismo número de atropellos,2026-04-21 01:39
+drones,3,10,3.23,64,"levante_emv, 20minutos",2,"Espectáculo de drones para anunciar el nuevo disco de Quevedo, 'El Baifo'",2026-04-21 01:39
+presidente,6,20,3.23,64,"google_news_es, lavanguardia, elpais",3,Ampliación: Apple anuncia que Tim Cook pasará a ser presidente ejecutivo y John Ternus nuevo director ejecutivo - Xinhua Español,2026-04-21 01:39
+alquileres,3,10,3.23,64,elcorreo,1,El índice que limita el precio de los nuevos alquileres entra en vigor: de los 541 euros de la Cuchillería a los 1.071 de la Avenida,2026-04-21 01:39
+resultados,5,17,3.17,63,"sur, elcorreo, levante_emv",3,"Comprobar Lotería del lunes, 20 de abril: resultados de la Bonoloto, del Cupón de la ONCE, Mi día de la ONCE, La Primitiva y de EuroDreams",2026-04-21 01:39
+puebla,5,17,3.17,63,"google_news_es, heraldo_aragon, elmundo, levante_emv",4,"Morante de la Puebla, ""muy grave"" tras sufrir una cogida en el glúteo en La Maestranza - RTVE.es",2026-04-21 01:39
+tregua,3,11,2.94,58,"elespanol, google_news_es, elmundo_internacional",3,"Las últimas horas de la tregua entre EEUU e Irán transcurren entre amenazas, falta de avances y Ormuz aún cerrado",2026-04-21 01:39
+venezuela,4,15,2.87,57,"elespanol, google_news_internacional, google_news_politica",3,Los equipos de María Corina y Marco Rubio negociarán en Chicago las fechas y fases de la transición en Venezuela,2026-04-21 01:39
+grave,4,15,2.87,57,"google_news_es, elcorreo, heraldo_aragon, elmundo",4,"Morante de la Puebla, ""muy grave"" tras sufrir una cogida en el glúteo en La Maestranza - RTVE.es",2026-04-21 01:39
+segunda,4,15,2.87,57,"google_news_es, elcorreo, sur, heraldo_aragon",4,El Real Madrid gana al Brujas en los penaltis y logra su segunda UEFA Youth League - RTVE.es,2026-04-21 01:39
+apagón,4,16,2.69,53,"elmundo, levante_emv, lavanguardia",3,La CNMC deja al Gobierno la 'patata caliente' de decidir la multa contra Red Eléctrica por el apagón general,2026-04-21 01:39
+medio,4,16,2.69,53,"elpais, elcorreo, lavanguardia, google_news_es",4,"La secretaria de Trabajo de EE UU, Lori Chavez-DeRemer, renuncia en medio de acusaciones de abuso de poder",2026-04-21 01:39
+acoso,4,16,2.69,53,"elcorreo, google_news_internacional",2,Casi 20.000 desalojos y el acoso en redes amenazan los derechos humanos en España,2026-04-21 01:39
+victoria,3,12,2.69,53,"elcorreo, france24_es, 20minutos",3,El gran reto de una victoria obligada,2026-04-21 01:39
+precio,6,25,2.58,51,"elcorreo, sur",2,El índice que limita el precio de los nuevos alquileres entra en vigor: de los 541 euros de la Cuchillería a los 1.071 de la Avenida,2026-04-21 01:39
+infobae,4,18,2.39,47,"google_news_internacional, google_news_politica",2,Amnistía Internacional denunció que Irán alcanzó en 2025 su mayor cifra de ejecuciones en 36 años - Infobae,2026-04-21 01:39
+sanidad,3,14,2.31,46,"elmundo, huffington_es",2,"¿Tiene solución el sistema de sanidad 40 años después? Vivimos más, pero esperamos más de 100 días una consulta",2026-04-21 01:39
+javier,3,14,2.31,46,"efe, 20minutos, levante_emv",3,"Javier Peña, un ambientalista optimista ante la patente situación de colapso energético",2026-04-21 01:39
+política,5,23,2.34,46,"google_news_politica, elmundo, google_news_internacional",3,"Los rodeos de Leopoldo López a la hora de reconocer la labor del Gobierno en Venezuela: ""Ha sido una política - LaSexta",2026-04-21 01:39
+récord,3,14,2.31,46,"expansion, google_news_internacional",2,ASML enfoca récord en pleno resurgir de las tecnológicas,2026-04-21 01:39
+trabajo,3,14,2.31,46,"elpais, lavanguardia, google_news_es",3,"La secretaria de Trabajo de EE UU, Lori Chavez-DeRemer, renuncia en medio de acusaciones de abuso de poder",2026-04-21 01:39
+etapa,3,14,2.31,46,"elcorreo, el_confidencial_tech, google_news_economia",3,Apple cierra la etapa de Tim Cook como CEO y coloca a John Ternus al frente,2026-04-21 01:39
+maestranza,3,15,2.15,43,"google_news_es, levante_emv",2,"Morante de la Puebla, ""muy grave"" tras sufrir una cogida en el glúteo en La Maestranza - RTVE.es",2026-04-21 01:39
+madrid,19,95,2.15,43,"google_news_es, elcorreo, elmundo, heraldo_aragon, levante_emv",5,El Real Madrid gana al Brujas en los penaltis y logra su segunda UEFA Youth League - RTVE.es,2026-04-21 01:39
+sufre,3,15,2.15,43,"elcorreo, elmundo",2,Morante sufre una cogida «muy grave» en plena Feria de Abril,2026-04-21 01:39
+horas,3,15,2.15,43,"elespanol, google_news_es, elmundo",3,"Las últimas horas de la tregua entre EEUU e Irán transcurren entre amenazas, falta de avances y Ormuz aún cerrado",2026-04-21 01:39
+trump,8,40,2.15,43,"elespanol, eldiario, google_news_internacional, elcorreo, huffington_es",5,"Trump no estuvo en la Sala de Crisis durante el rescate de los pilotos en Irán: ""Lo mantuvieron fuera, temían su impaciencia""",2026-04-21 01:39
+abril,22,114,2.08,41,"elespanol, elcorreo, sur, levante_emv, 20minutos",5,El Español redobla su liderazgo con más de 30M de usuarios en abril tras integrar ComScore las redes sociales,2026-04-21 01:39
+español,6,32,2.02,40,"expansion, elespanol, google_news_economia, elmundo, google_news_internacional",5,Norges revoluciona el 'statu quo' del mapa español de las renovables,2026-04-21 01:39
