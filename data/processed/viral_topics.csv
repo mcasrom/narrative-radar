@@ -1,120 +1,148 @@
 keyword,count_now,count_base,ratio,viral_score,sources,n_sources,sample_title,detected_at
-empezaron,3,0,5.0,100,"google_news_es, elpais",2,"Electrodos en el cerebro para mitigar el síndrome de Tourette grave: “Los tics más fuertes, junto con gritos y golpes, empezaron a menguar” - EL PAÍS",2026-04-22 07:09
-medieval,3,1,22.8,100,"okdiario, elpais, heraldo_aragon",3,Los arqueólogos no dan crédito: excavan en un yacimiento alemán de 6.000 años y hallan un túnel medieval intacto,2026-04-22 07:09
-acudir,3,2,11.4,100,"google_news_es, elpais, heraldo_aragon",3,Elecciones en Andalucía: ¿Te pueden multar por no acudir a la mesa electoral? Todo lo que debes saber - RTVE.es,2026-04-22 07:09
-oposición,3,3,7.6,100,"infolibre, elespanol, okdiario",3,Machado obvia el apoyo del Gobierno a la oposición y las regularizaciones masivas para atacar a Sánchez,2026-04-22 07:09
-izquierda,4,5,6.08,100,"infolibre, okdiario, huffington_es, elpais_espana",4,Un programa para la izquierda,2026-04-22 07:09
-ecosistemas,3,0,5.0,100,"okdiario, elespanol",2,"Suena cruel, pero la ciencia lo avala: Colombia sacrifica a 80 hipopótamos para preservar los ecosistemas en sus ríos",2026-04-22 07:09
-queda,4,5,6.08,100,"huffington_es, levante_emv, efe, okdiario, elpais",5,"Marisol, vecina del Barrio de Santa Cruz de Sevilla: &quot;Ya no quedan panaderías, solo tiendas de souvenirs y colas para desayunar&quot;",2026-04-22 07:09
-ayuda,4,2,15.2,100,"newtral, elespanol, okdiario, elpais, google_news_internacional",5,Europa bate un nuevo récord de muertes por clima extremo mientras las ayudas fósiles se disparan hasta los 444.000 M€,2026-04-22 07:09
-problema,3,4,5.7,100,"huffington_es, 20minutos, infolibre, heraldo_aragon",4,"Carlos A. Tejón, consultor: &quot;El problema no es que falte trabajo, es que trabajar apenas da para sobrevivir o para hacer una vida&quot;",2026-04-22 07:09
-europeos,3,0,5.0,100,"20minutos, google_news_economia",2,Más de la mitad de los europeos admite mirar la pantalla del móvil de otros en estos sitios,2026-04-22 07:09
-planes,3,3,7.6,100,"okdiario, france24_es",2,Actividades en Madrid por el Día del Libro: eventos y mejores planes para el 23 de abril,2026-04-22 07:09
-régimen,3,3,7.6,100,"elpais, google_news_internacional",2,"Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | El régimen iraní guarda silencio ante el anuncio de alto el fuego de Trump",2026-04-22 07:09
-escrito,3,0,5.0,100,"20minutos, elmundo_internacional, elpais_internacional, google_news_es",4,"El escrito de la Fiscalía contra Álvaro Aguado: tocamientos ""en pechos y genitales"" y le dijo a la joven ""tú no me conoces, yo a ti tampoco""",2026-04-22 07:09
-tormentas,7,10,5.32,100,"okdiario, eldiario, 20minutos",3,Adiós al buen tiempo: la AEMET alerta de la llegada de tormentas en los próximos días,2026-04-22 07:09
-previsión,4,2,15.2,100,"okdiario, levante_emv",2,"Previsión AEMET: Intervalos nubosos y chubascos en Castilla y León, con viento variable y cambios de temperatura",2026-04-22 07:09
-saber,3,3,7.6,100,"20minutos, google_news_es, elpais",3,"Todo lo que hay que saber sobre la leishmaniosis felina, una enfermedad cada vez más presente",2026-04-22 07:09
-cerebro,4,2,15.2,100,"google_news_es, elpais, el_confidencial_tech, okdiario",4,"Electrodos en el cerebro para mitigar el síndrome de Tourette grave: “Los tics más fuertes, junto con gritos y golpes, empezaron a menguar” - EL PAÍS",2026-04-22 07:09
-rivas,3,1,22.8,100,"okdiario, google_news_internacional",2,IU pide donaciones en Rivas para su proyecto político mientras gasta 100.000 € de dinero público en autobombo,2026-04-22 07:09
-fuertes,5,4,9.5,100,"google_news_es, elpais, 20minutos",3,"Electrodos en el cerebro para mitigar el síndrome de Tourette grave: “Los tics más fuertes, junto con gritos y golpes, empezaron a menguar” - EL PAÍS",2026-04-22 07:09
-golpes,4,0,5.0,100,"google_news_es, elpais, elcorreo",3,"Electrodos en el cerebro para mitigar el síndrome de Tourette grave: “Los tics más fuertes, junto con gritos y golpes, empezaron a menguar” - EL PAÍS",2026-04-22 07:09
-portugal,3,3,7.6,100,"elpais, google_news_economia, 20minutos",3,"En los supermercados Mercadona ya se pueden devolver latas y botellas por dinero, pero en Portugal",2026-04-22 07:09
-tierra,3,4,5.7,100,"levante_emv, google_news_internacional, heraldo_aragon",3,"Por primera vez en la historia, retrocede la producción de electricidad mediante combustibles fósiles en la Tierra",2026-04-22 07:09
-cercanías,5,1,38.01,100,"elconfidencial, europapress, 20minutos",3,Nuevo caos en Cercanías Madrid: hasta seis líneas con retrasos por otra incidencia en Atocha a primera hora,2026-04-22 07:09
-líneas,5,6,6.33,100,"elconfidencial, europapress, 20minutos",3,Nuevo caos en Cercanías Madrid: hasta seis líneas con retrasos por otra incidencia en Atocha a primera hora,2026-04-22 07:09
-retrasos,5,0,5.0,100,"elconfidencial, europapress, 20minutos",3,Nuevo caos en Cercanías Madrid: hasta seis líneas con retrasos por otra incidencia en Atocha a primera hora,2026-04-22 07:09
-incidencia,5,0,5.0,100,"elconfidencial, europapress, 20minutos",3,Nuevo caos en Cercanías Madrid: hasta seis líneas con retrasos por otra incidencia en Atocha a primera hora,2026-04-22 07:09
-atocha,5,2,19.0,100,"elconfidencial, europapress, 20minutos",3,Nuevo caos en Cercanías Madrid: hasta seis líneas con retrasos por otra incidencia en Atocha a primera hora,2026-04-22 07:09
-familias,4,6,5.07,100,"20minutos, levante_emv, okdiario, heraldo_aragon",4,El lmserso busca familias y profesionales para un estudio sobre demencia,2026-04-22 07:09
-libros,3,4,5.7,100,"elcorreo, elpais",2,Frente abierto en Cataluña: nacionalistas llaman a quemar los libros de Eduardo Mendoza,2026-04-22 07:09
-eduardo,3,2,11.4,100,"elcorreo, 20minutos, heraldo_aragon",3,Frente abierto en Cataluña: nacionalistas llaman a quemar los libros de Eduardo Mendoza,2026-04-22 07:09
-iraní,4,2,15.2,100,"elpais, google_news_internacional, france24_es",3,"Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | La Guardia Revolucionaria iraní advierte de que está lista para “asestar golpes demoledores” si se reanudan los combates",2026-04-22 07:09
-despedirse,4,0,5.0,100,"20minutos, google_news_internacional",2,Irán amenaza a los países de Oriente Próximo con despedirse del petróleo si recibe ataques,2026-04-22 07:09
-estudian,3,2,11.4,100,"el_confidencial_tech, 20minutos, heraldo_aragon",3,Estudian el cerebro y descubren que el ADN neandertal continúa influyéndonos 40.000 años después. Y no para bien,2026-04-22 07:09
-ataca,4,0,5.0,100,"huffington_es, 20minutos, google_news_internacional, infolibre",4,"Irán ataca a tiros un portacontenedores cerca de Ormuz, según un organismo marítimo británico",2026-04-22 07:09
-efecto,3,3,7.6,100,"heraldo_aragon, google_news_economia, 20minutos",3,Los peluqueros coinciden: lavar el pelo a esta temperatura mejora el efecto de todos los productos,2026-04-22 07:09
-artículo,5,2,19.0,100,"google_news_economia, okdiario, elpais_internacional, google_news_es, google_news_internacional",5,Huelga de gasolineras en España: así te pueden afectar los paros convocados - Artículo 14,2026-04-22 07:09
-jorge,3,3,7.6,100,"heraldo_aragon, elespanol, levante_emv",3,"Quién fue San Jorge, su leyenda, qué se celebra y su vínculo en Aragón",2026-04-22 07:09
-internet,5,1,38.01,100,"eldiario, levante_emv, okdiario, elpais_internacional, google_news_es",5,El Gobierno propone elevar a 100 Mbps la velocidad mínima de Internet garantizada por ley,2026-04-22 07:09
-sesión,5,3,12.67,100,"levante_emv, elconfidencial, newtral, okdiario",4,DIRECTO | Sesión de control al Gobierno en el Congreso,2026-04-22 07:09
-euphoria,3,4,5.7,100,20minutos,1,"El debut de Rosalía en 'Euphoria' y los problemas del doblaje: ""Cambia de acento cada cinco segundos""",2026-04-22 07:09
-predicción,9,13,5.26,100,okdiario,1,"Predicción del horóscopo para Sagitario hoy, miércoles 22 de abril de 2026",2026-04-22 07:09
-miércoles,12,14,6.52,100,"okdiario, levante_emv",2,"Predicción del horóscopo para Sagitario hoy, miércoles 22 de abril de 2026",2026-04-22 07:09
-granizadas,3,0,5.0,100,20minutos,1,Las siete zonas de España donde una próxima dana dejará fuertes tormentas y posibles granizadas o vendavales,2026-04-22 07:09
-síndrome,3,2,11.4,100,"levante_emv, google_news_es, elpais",3,"La mujer de Cristiano Ronaldo dona 120.000 euros ""fundamentales"" para avanzar en la cura de Javi, el niño de Oviedo afectado por el síndrome de Nedamss",2026-04-22 07:09
-terror,3,3,7.6,100,"20minutos, elpais_internacional, heraldo_aragon, google_news_internacional",4,'From': ¿cuántos episodios tiene la temporada 4 de la mejor serie de terror de los últimos 10 años? Fechas de estreno en HBO Max,2026-04-22 07:09
-coinciden,4,3,10.13,100,"heraldo_aragon, okdiario",2,Los peluqueros coinciden: lavar el pelo a esta temperatura mejora el efecto de todos los productos,2026-04-22 07:09
-próxima,3,3,7.6,100,20minutos,1,Las siete zonas de España donde una próxima dana dejará fuertes tormentas y posibles granizadas o vendavales,2026-04-22 07:09
-pueden,5,7,5.43,100,"google_news_economia, google_news_es, elpais, okdiario",4,Huelga de gasolineras en España: así te pueden afectar los paros convocados - Artículo 14,2026-04-22 07:09
-paros,3,0,5.0,100,"google_news_economia, google_news_es, elmundo",3,Huelga de gasolineras en España: así te pueden afectar los paros convocados - Artículo 14,2026-04-22 07:09
-dejará,3,2,11.4,100,20minutos,1,Las siete zonas de España donde una próxima dana dejará fuertes tormentas y posibles granizadas o vendavales,2026-04-22 07:09
-regalar,3,2,11.4,100,elpais,1,Los mejores libros infantiles y juveniles para regalar en Sant Jordi,2026-04-22 07:09
-refugiados,3,0,5.0,100,"elpais, google_news_internacional",2,Las víctimas invisibles de la reducción de la ayuda humanitaria: los refugiados saharauis,2026-04-22 07:09
-perros,4,4,7.6,100,"okdiario, 20minutos, elpais, heraldo_aragon",4,"Los expertos avisan a los dueños de perros: cuando llueve mucho, este juego cansa más que una hora de carrera",2026-04-22 07:09
-aprobado,3,4,5.7,100,"20minutos, europapress, google_news_economia",3,Victoria demócrata en EEUU: aprobado el mapa electoral de Virginia que podría darles cuatro congresistas más,2026-04-22 07:09
-actriz,3,4,5.7,100,"elpais, heraldo_aragon, 20minutos",3,"Fariba Sheikhan, actriz: “Cuando Trump amenazó con acabar con una civilización entera no pude dormir”",2026-04-22 07:09
-virginia,4,1,30.4,100,"20minutos, huffington_es, europapress, google_news_es",4,Victoria demócrata en EEUU: aprobado el mapa electoral de Virginia que podría darles cuatro congresistas más,2026-04-22 07:09
-electoral,6,6,7.6,100,"20minutos, huffington_es, europapress, google_news_es, france24_es",5,Victoria demócrata en EEUU: aprobado el mapa electoral de Virginia que podría darles cuatro congresistas más,2026-04-22 07:09
-oriente,7,11,4.84,96,"elcorreo, 20minutos, google_news_internacional, elpais, heraldo_aragon",5,Sigue en directo la última hora de la guerra en Oriente Medio | Irán aborda un buque en Ormuz y advierte de que está listo para «asestar golpes demoledores» si se reanudan los combates,2026-04-22 07:09
-económico,3,5,4.56,91,"google_news_politica, google_news_economia",2,Los quince think tanks que marcan el pulso económico y político de España - Economía Digital,2026-04-22 07:09
-drones,3,5,4.56,91,"okdiario, eldiario, google_news_internacional",3,El infierno está cada vez más cerca: Turquía produce su primer misil hipersónico diseñado para drones con alcance superior a los 150 km,2026-04-22 07:09
-corte,3,5,4.56,91,"20minutos, infolibre, levante_emv, elpais, el_confidencial_tech",5,"Cortes y retrasos en 6 líneas de Cercanías Madrid por una incidencia en Atocha: ""Casi una hora en un tren parado""",2026-04-22 07:09
-fósiles,3,5,4.56,91,"newtral, levante_emv, elpais",3,Europa bate un nuevo récord de muertes por clima extremo mientras las ayudas fósiles se disparan hasta los 444.000 M€,2026-04-22 07:09
-castilla,3,5,4.56,91,"okdiario, elpais",2,El BOE lo confirma y es oficial: el motivo por el que el 23 de abril es festivo en Castilla y León,2026-04-22 07:09
-dejar,3,5,4.56,91,"okdiario, levante_emv, 20minutos",3,"Juanma Lorente, abogado laboralista, revela cómo dejar el trabajo con paro e indemnización",2026-04-22 07:09
-temperaturas,3,5,4.56,91,"okdiario, eldiario",2,Bilbao: AEMET prevé nubes y descenso de temperaturas con vientos variables en el interior,2026-04-22 07:09
-médica,3,5,4.56,91,"google_news_es, elmundo, huffington_es",3,Cuenta atrás para una nueva huelga médica - Diario Sanitario,2026-04-22 07:09
-gasolineras,3,5,4.56,91,"google_news_economia, okdiario",2,Huelga de gasolineras en España: así te pueden afectar los paros convocados - Artículo 14,2026-04-22 07:09
-zonas,7,12,4.43,88,"okdiario, eldiario, levante_emv, 20minutos",4,AEMET prevé un día soleado y estable en Zaragoza con algunas nubes en zonas montañosas,2026-04-22 07:09
-donald,4,7,4.34,86,"heraldo_aragon, elpais, huffington_es",3,"Donald Trump defiende que Irán ""no quiere que se cierre"" Ormuz y asegura que solo quiere ""guardar las apariencias""",2026-04-22 07:09
-quiere,8,14,4.34,86,"heraldo_aragon, eldiario, google_news_internacional, okdiario, elpais_internacional",5,"Donald Trump defiende que Irán ""no quiere que se cierre"" Ormuz y asegura que solo quiere ""guardar las apariencias""",2026-04-22 07:09
-aumenta,4,7,4.34,86,"levante_emv, elpais, okdiario",3,"Aumenta la expectación para el ""playoff"" de baloncesto entre Proinbeni UpB Gandia y el CB Morón de la Frontera",2026-04-22 07:09
-horóscopo,9,16,4.28,85,okdiario,1,"Predicción del horóscopo para Sagitario hoy, miércoles 22 de abril de 2026",2026-04-22 07:09
-aemet,7,13,4.09,81,okdiario,1,AEMET prevé un día soleado y estable en Zaragoza con algunas nubes en zonas montañosas,2026-04-22 07:09
-salir,3,6,3.8,76,"20minutos, heraldo_aragon",2,"Jennifer López, de TK Elevator: ""Es un drama que una persona no pueda salir de casa""",2026-04-22 07:09
-político,3,6,3.8,76,"google_news_politica, expansion, elpais, okdiario, huffington_es",5,Los quince think tanks que marcan el pulso económico y político de España - Economía Digital,2026-04-22 07:09
-economía,4,8,3.8,76,"google_news_politica, efe, google_news_economia",3,Los quince think tanks que marcan el pulso económico y político de España - Economía Digital,2026-04-22 07:09
-expertos,4,8,3.8,76,"okdiario, efe",2,"Los expertos avisan a los dueños de perros: cuando llueve mucho, este juego cansa más que una hora de carrera",2026-04-22 07:09
-próximo,6,13,3.51,70,"20minutos, google_news_internacional, levante_emv, okdiario, elpais",5,Irán amenaza a los países de Oriente Próximo con despedirse del petróleo si recibe ataques,2026-04-22 07:09
-sistema,5,11,3.46,69,"levante_emv, elespanol, okdiario, eldiario, elpais",5,"De la injerencia rusa a ""la guerra jurídica"" de Galicia: la eólica europea identifica ""un ecosistema bien organizado"" contra el despliegue del sector en la UE",2026-04-22 07:09
-amenaza,4,9,3.38,67,"20minutos, google_news_internacional, france24_es",3,Irán amenaza a los países de Oriente Próximo con despedirse del petróleo si recibe ataques,2026-04-22 07:09
-vozpopuli,3,7,3.26,65,google_news_economia,1,"España: recaudación récord, pero escasa convergencia con Europa - Vozpopuli",2026-04-22 07:09
-tiendas,3,7,3.26,65,"okdiario, huffington_es, heraldo_aragon",3,Adiós al enchufe tradicional: la nueva alternativa ya se puede comprar en las tiendas y es más rápida y segura,2026-04-22 07:09
-factura,5,12,3.17,63,"okdiario, levante_emv, 20minutos",3,Los expertos coinciden y desmontan el mito de la energía solar: los paneles solares no reducen la factura de la luz por sí solos,2026-04-22 07:09
-elecciones,5,12,3.17,63,"elmundo_internacional, google_news_politica, google_news_es, huffington_es",4,Los polémicos fallos en las elecciones en Perú llevan a la dimisión al organizador de los comicios,2026-04-22 07:09
-petróleo,5,12,3.17,63,"20minutos, google_news_internacional, google_news_es",3,Irán amenaza a los países de Oriente Próximo con despedirse del petróleo si recibe ataques,2026-04-22 07:09
-comunidad,4,10,3.04,60,"europapress, elespanol, okdiario, elpais, 20minutos",5,Retrasos en seis líneas de Cercanías en la Comunidad de Madrid por una incidencia en Atocha,2026-04-22 07:09
-libro,9,23,2.97,59,"okdiario, elcorreo, elpais, 20minutos",4,Actividades en Madrid por el Día del Libro: eventos y mejores planes para el 23 de abril,2026-04-22 07:09
-feijóo,5,13,2.92,58,"levante_emv, google_news_economia, 20minutos, google_news_internacional, elespanol",5,Sánchez se mide a Feijóo en el Congreso tras el pacto en Extremadura y el procesamiento de Begoña Gómez,2026-04-22 07:09
-crear,3,8,2.85,57,"20minutos, google_news_es",2,IKEA hace compatibles sus dispositivos con Samsung: así puedes crear una smart home sin gastar una fortuna,2026-04-22 07:09
-tener,6,16,2.85,57,"okdiario, elcorreo, levante_emv, 20minutos, google_news_internacional",5,¿Cuánto dinero necesitas tener en el banco para ser considerado cliente «rico» y tener beneficios y trato de VIP?,2026-04-22 07:09
-atrás,3,8,2.85,57,"google_news_es, bbc_mundo",2,Cuenta atrás para una nueva huelga médica - Diario Sanitario,2026-04-22 07:09
-coches,3,8,2.85,57,"levante_emv, okdiario",2,Incendio de Beniarjó sin desgracias personales: Los bomberos sofocan el fuego en tres coches y la fachada de una vivienda,2026-04-22 07:09
-venezuela,3,8,2.85,57,"okdiario, infolibre, google_news_internacional",3,"Venezuela, decidida a tomárselo en serio: quiere plantar 11 millones de árboles en 2026 para recuperar sus ecosistemas",2026-04-22 07:09
-elplural.com,4,11,2.76,55,"google_news_internacional, google_news_economia, google_news_politica",3,Las excusas europeas en el debate del ‘no’ a Israel propuesto por Sánchez: del apoyo a medias de Francia a la negativa de Italia o Alemania - Elplural.com,2026-04-22 07:09
-adiós,4,11,2.76,55,"okdiario, elpais, heraldo_aragon",3,Adiós al enchufe tradicional: la nueva alternativa ya se puede comprar en las tiendas y es más rápida y segura,2026-04-22 07:09
-control,4,11,2.76,55,"levante_emv, elconfidencial, newtral, okdiario, heraldo_aragon",5,DIRECTO | Sesión de control al Gobierno en el Congreso,2026-04-22 07:09
-mejores,7,20,2.66,53,"okdiario, huffington_es, elpais, levante_emv",4,Actividades en Madrid por el Día del Libro: eventos y mejores planes para el 23 de abril,2026-04-22 07:09
-podría,3,9,2.53,50,"20minutos, europapress, el_confidencial_tech",3,Victoria demócrata en EEUU: aprobado el mapa electoral de Virginia que podría darles cuatro congresistas más,2026-04-22 07:09
-jóvenes,3,9,2.53,50,"google_news_es, elespanol, elpais",3,¿Por qué los jóvenes usan menos protección solar? - Sinc,2026-04-22 07:09
-fecha,3,9,2.53,50,"20minutos, elcorreo, okdiario, levante_emv",4,'From': ¿cuántos episodios tiene la temporada 4 de la mejor serie de terror de los últimos 10 años? Fechas de estreno en HBO Max,2026-04-22 07:09
-países,6,19,2.4,48,"google_news_economia, google_news_internacional, 20minutos",3,"Los bulos de Feijóo, desmontados con datos: comparamos nuestra presión fiscal con la de los países nórdicos - Elplural.com",2026-04-22 07:09
-puede,10,32,2.38,47,"google_news_economia, 20minutos, okdiario, google_news_es, elpais",5,Huelga de gasolineras en España: así te pueden afectar los paros convocados - Artículo 14,2026-04-22 07:09
-colas,4,13,2.34,46,"okdiario, huffington_es, levante_emv",3,Colas kilométricas en Lidl por las mosquiteras fáciles de instalar que van a solucionarte el verano por menos de 10 euros,2026-04-22 07:09
-problemas,3,10,2.28,45,"20minutos, infolibre",2,'Michael': cronología de una película envuelta por la polémica y los problemas legales que estuvo a punto de no ver la luz,2026-04-22 07:09
-madre,3,10,2.28,45,"okdiario, elpais, google_news_internacional",3,Cuándo es el Día de la Madre en España: fecha y en qué día cae este 2026,2026-04-22 07:09
-otras,3,10,2.28,45,"20minutos, okdiario, expansion",3,Plena Inclusión y otras tres ONG crean la Alianza por la Vivienda Inclusiva,2026-04-22 07:09
-posibles,4,14,2.17,43,"okdiario, 20minutos",2,"Guerra de Irán, en directo hoy: última hora del estrecho de Ormuz, alto el fuego y posibles negociaciones con Trump",2026-04-22 07:09
-siempre,4,14,2.17,43,"elpais, google_news_economia",2,"‘Cara al show’: Marc Giró, los prefachas y un poco lo de siempre",2026-04-22 07:09
-china,5,18,2.11,42,"google_news_internacional, infolibre, google_news_es, bbc_mundo",4,TUROMAS avanza en su expansión internacional en CHINA GLASS 2026 - vidrioperfil.com,2026-04-22 07:09
-precio,6,22,2.07,41,"elcorreo, okdiario, google_news_es, elespanol, elpais",5,"Karol G llega a España en 2027: fechas, precios y toda la información de la nueva gira",2026-04-22 07:09
-sector,3,11,2.07,41,"levante_emv, 20minutos, elpais, google_news_internacional",4,"De la injerencia rusa a ""la guerra jurídica"" de Galicia: la eólica europea identifica ""un ecosistema bien organizado"" contra el despliegue del sector en la UE",2026-04-22 07:09
-valenciana,3,11,2.07,41,"okdiario, elespanol, levante_emv",3,La AEMET avisa de lluvias y tormentas en la Comunidad Valenciana: estas son las zonas afectadas,2026-04-22 07:09
-gratis,3,11,2.07,41,"heraldo_aragon, okdiario",2,"Horario y dónde ver gratis la corrida del 24 de abril en la Feria de Sevilla: Juan Ortega, Daniel Luque y Pablo Aguado",2026-04-22 07:09
-buque,3,11,2.07,41,"elcorreo, 20minutos, google_news_internacional",3,Sigue en directo la última hora de la guerra en Oriente Medio | Irán aborda un buque en Ormuz y advierte de que está listo para «asestar golpes demoledores» si se reanudan los combates,2026-04-22 07:09
-20minutos,3,11,2.07,41,google_news_internacional,1,"Guerra en Irán, en directo | Irán amenaza a los países de Oriente Próximo con despedirse del petróleo si recibe ataques desde sus territorios - 20Minutos",2026-04-22 07:09
-estos,4,15,2.03,40,"okdiario, elpais, 20minutos, levante_emv, google_news_economia",5,"Begoña Alonso, la ‘reina de los arroces’: «Para que el arroz quede más sabroso, añade estos dos ingredientes»",2026-04-22 07:09
-riesgo,5,19,2.0,40,"google_news_es, expansion, levante_emv, 20minutos",4,"Los microbios intestinales pueden revelar el riesgo de Parkinson antes de que aparezcan los síntomas, según un estudio - Infosalus",2026-04-22 07:09
-menos,10,38,2.0,40,"google_news_es, okdiario, 20minutos, elpais, levante_emv",5,¿Por qué los jóvenes usan menos protección solar? - Sinc,2026-04-22 07:09
-abril,24,91,2.0,40,"okdiario, heraldo_aragon, levante_emv, google_news_internacional",4,"Predicción del horóscopo para Sagitario hoy, miércoles 22 de abril de 2026",2026-04-22 07:09
+predicción,11,13,5.57,100,okdiario,1,"Predicción del horóscopo para Acuario hoy, miércoles 22 de abril de 2026",2026-04-22 07:39
+paros,3,0,5.0,100,"google_news_economia, google_news_es, elmundo",3,Huelga de gasolineras en España: así te pueden afectar los paros convocados - Artículo 14,2026-04-22 07:39
+terror,3,3,6.58,100,"20minutos, elpais_internacional, heraldo_aragon, google_news_internacional",4,'From': ¿cuántos episodios tiene la temporada 4 de la mejor serie de terror de los últimos 10 años? Fechas de estreno en HBO Max,2026-04-22 07:39
+europeos,3,0,5.0,100,"20minutos, google_news_economia",2,Más de la mitad de los europeos admite mirar la pantalla del móvil de otros en estos sitios,2026-04-22 07:39
+internet,6,1,39.46,100,"eldiario, levante_emv, okdiario, elpais, elpais_internacional",5,El Gobierno propone elevar a 100 Mbps la velocidad mínima de Internet garantizada por ley,2026-04-22 07:39
+jorge,3,3,6.58,100,"heraldo_aragon, elespanol, levante_emv",3,"Quién fue San Jorge, su leyenda, qué se celebra y su vínculo en Aragón",2026-04-22 07:39
+sesión,7,3,15.35,100,"elpais, huffington_es, levante_emv, elconfidencial, newtral",5,Elon Musk eleva su obsesión por la IA: SpaceX se hace con una opción de compra por Cursor de 60.000 millones de dólares,2026-04-22 07:39
+extremos,3,0,5.0,100,"heraldo_aragon, google_news_economia, elpais",3,Unos electrodos en el cerebro liberan a Josep de tics extremos por el síndrome de Tourette,2026-04-22 07:39
+cerebro,5,2,16.44,100,"heraldo_aragon, google_news_es, elpais, el_confidencial_tech, okdiario",5,Unos electrodos en el cerebro liberan a Josep de tics extremos por el síndrome de Tourette,2026-04-22 07:39
+electrodos,3,0,5.0,100,"heraldo_aragon, google_news_es, elpais",3,Unos electrodos en el cerebro liberan a Josep de tics extremos por el síndrome de Tourette,2026-04-22 07:39
+ayuda,4,2,13.15,100,"newtral, elespanol, okdiario, elpais, google_news_internacional",5,Europa bate un nuevo récord de muertes por clima extremo mientras las ayudas fósiles se disparan hasta los 444.000 M€,2026-04-22 07:39
+perros,5,4,8.22,100,"levante_emv, okdiario, 20minutos, elpais, heraldo_aragon",5,Entra hoy en vigor: las nuevas normas obligatorias de la UE para viajar con perros y gatos,2026-04-22 07:39
+viajar,3,3,6.58,100,"levante_emv, okdiario, 20minutos",3,Entra hoy en vigor: las nuevas normas obligatorias de la UE para viajar con perros y gatos,2026-04-22 07:39
+producto,3,2,9.87,100,"okdiario, heraldo_aragon, 20minutos, huffington_es",4,Investigadores consiguen un producto que elimina más del 94% de los pesticidas de la fruta,2026-04-22 07:39
+castilla,4,5,5.26,100,"okdiario, elpais",2,La desconocida isla en medio de uno de los principales ríos de Castilla y León: tiene hasta una ruta senderista,2026-04-22 07:39
+queda,4,5,5.26,100,"huffington_es, levante_emv, efe, okdiario, elpais",5,"Marisol, vecina del Barrio de Santa Cruz de Sevilla: &quot;Ya no quedan panaderías, solo tiendas de souvenirs y colas para desayunar&quot;",2026-04-22 07:39
+tourette,4,0,5.0,100,"levante_emv, heraldo_aragon, google_news_es, elpais",4,"La estimulación cerebral profunda salva a un joven con síndrome de Tourette: ""Tenía un alto riesgo de suicidio y vivía aislado; ahora estudia y va al cine""",2026-04-22 07:39
+síndrome,6,2,19.73,100,"levante_emv, heraldo_aragon, google_news_es, elpais",4,"La estimulación cerebral profunda salva a un joven con síndrome de Tourette: ""Tenía un alto riesgo de suicidio y vivía aislado; ahora estudia y va al cine""",2026-04-22 07:39
+tormentas,8,10,5.26,100,"elconfidencial, okdiario, eldiario, 20minutos",4,"Seguirá el calor con más de 32 ºC, pero la Aemet avisa: lloverá con fuertes tormentas y estas serán las zonas afectadas",2026-04-22 07:39
+régimen,3,3,6.58,100,"elpais, google_news_internacional",2,"Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | El régimen iraní guarda silencio ante el anuncio de alto el fuego de Trump",2026-04-22 07:39
+artículo,5,2,16.44,100,"google_news_economia, okdiario, elpais_internacional, google_news_es, google_news_internacional",5,Huelga de gasolineras en España: así te pueden afectar los paros convocados - Artículo 14,2026-04-22 07:39
+izquierda,5,5,6.58,100,"infolibre, okdiario, huffington_es, elpais_espana, google_news_internacional",5,Un programa para la izquierda,2026-04-22 07:39
+previsión,4,2,13.15,100,"okdiario, levante_emv",2,"Previsión AEMET: Intervalos nubosos y chubascos en Castilla y León, con viento variable y cambios de temperatura",2026-04-22 07:39
+eduardo,3,2,9.87,100,"elcorreo, 20minutos, heraldo_aragon",3,Frente abierto en Cataluña: nacionalistas llaman a quemar los libros de Eduardo Mendoza,2026-04-22 07:39
+despedirse,4,0,5.0,100,"20minutos, google_news_internacional",2,Irán amenaza a los países de Oriente Próximo con despedirse del petróleo si recibe ataques,2026-04-22 07:39
+empezaron,3,0,5.0,100,"google_news_es, elpais",2,"Electrodos en el cerebro para mitigar el síndrome de Tourette grave: “Los tics más fuertes, junto con gritos y golpes, empezaron a menguar” - EL PAÍS",2026-04-22 07:39
+golpes,4,0,5.0,100,"google_news_es, elpais, elcorreo",3,"Electrodos en el cerebro para mitigar el síndrome de Tourette grave: “Los tics más fuertes, junto con gritos y golpes, empezaron a menguar” - EL PAÍS",2026-04-22 07:39
+medieval,3,1,19.73,100,"okdiario, elpais, heraldo_aragon",3,Los arqueólogos no dan crédito: excavan en un yacimiento alemán de 6.000 años y hallan un túnel medieval intacto,2026-04-22 07:39
+ecosistemas,3,0,5.0,100,"okdiario, elespanol",2,"Suena cruel, pero la ciencia lo avala: Colombia sacrifica a 80 hipopótamos para preservar los ecosistemas en sus ríos",2026-04-22 07:39
+escrito,3,0,5.0,100,"20minutos, elmundo_internacional, elpais_internacional, google_news_es",4,"El escrito de la Fiscalía contra Álvaro Aguado: tocamientos ""en pechos y genitales"" y le dijo a la joven ""tú no me conoces, yo a ti tampoco""",2026-04-22 07:39
+planes,3,3,6.58,100,"okdiario, france24_es",2,Actividades en Madrid por el Día del Libro: eventos y mejores planes para el 23 de abril,2026-04-22 07:39
+ataca,4,0,5.0,100,"huffington_es, 20minutos, google_news_internacional, infolibre",4,"Irán ataca a tiros un portacontenedores cerca de Ormuz, según un organismo marítimo británico",2026-04-22 07:39
+incidencia,8,0,5.0,100,"elmundo, elconfidencial, europapress, 20minutos",4,Seis líneas de Cercanías sufren retrasos por una incidencia en los desvíos en Atocha,2026-04-22 07:39
+portugal,3,3,6.58,100,"elpais, google_news_economia, 20minutos",3,"En los supermercados Mercadona ya se pueden devolver latas y botellas por dinero, pero en Portugal",2026-04-22 07:39
+efecto,3,3,6.58,100,"heraldo_aragon, google_news_economia, 20minutos",3,Los peluqueros coinciden: lavar el pelo a esta temperatura mejora el efecto de todos los productos,2026-04-22 07:39
+coinciden,4,3,8.77,100,"heraldo_aragon, okdiario",2,Los peluqueros coinciden: lavar el pelo a esta temperatura mejora el efecto de todos los productos,2026-04-22 07:39
+cortes,3,2,9.87,100,"eldiario, 20minutos",2,Cortes y retrasos en cuatro líneas de Cercanías Madrid por avería en Atocha,2026-04-22 07:39
+saber,3,3,6.58,100,"20minutos, google_news_es, elpais",3,"Todo lo que hay que saber sobre la leishmaniosis felina, una enfermedad cada vez más presente",2026-04-22 07:39
+virginia,4,1,26.31,100,"20minutos, huffington_es, europapress, google_news_es",4,Victoria demócrata en EEUU: aprobado el mapa electoral de Virginia que podría darles cuatro congresistas más,2026-04-22 07:39
+electoral,6,6,6.58,100,"20minutos, huffington_es, europapress, google_news_es, france24_es",5,Victoria demócrata en EEUU: aprobado el mapa electoral de Virginia que podría darles cuatro congresistas más,2026-04-22 07:39
+fuertes,6,4,9.87,100,"elconfidencial, google_news_es, elpais, 20minutos",4,"Seguirá el calor con más de 32 ºC, pero la Aemet avisa: lloverá con fuertes tormentas y estas serán las zonas afectadas",2026-04-22 07:39
+iraní,4,1,26.31,100,"elpais, google_news_internacional, france24_es",3,"Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | La Guardia Revolucionaria iraní advierte de que está lista para “asestar golpes demoledores” si se reanudan los combates",2026-04-22 07:39
+cercanías,14,1,92.08,100,"elespanol, okdiario, huffington_es, elpais, google_news_es",5,Una avería en Atocha provoca retrasos en hasta seis líneas de Cercanías de Madrid y en trenes de Media Distancia,2026-04-22 07:39
+punta,3,1,19.73,100,"okdiario, elpais, google_news_es",3,Nuevo caos en Renfe: una avería en Atocha provoca retrasos en Cercanías en plena hora punta,2026-04-22 07:39
+líneas,10,6,10.96,100,"elespanol, huffington_es, eldiario, elmundo, elconfidencial",5,Una avería en Atocha provoca retrasos en hasta seis líneas de Cercanías de Madrid y en trenes de Media Distancia,2026-04-22 07:39
+atocha,14,2,46.04,100,"elespanol, okdiario, huffington_es, elpais, google_news_es",5,Una avería en Atocha provoca retrasos en hasta seis líneas de Cercanías de Madrid y en trenes de Media Distancia,2026-04-22 07:39
+avería,6,0,5.0,100,"elespanol, okdiario, huffington_es, elpais, google_news_es",5,Una avería en Atocha provoca retrasos en hasta seis líneas de Cercanías de Madrid y en trenes de Media Distancia,2026-04-22 07:39
+trenes,3,3,6.58,100,"elespanol, europapress, heraldo_aragon",3,Una avería en Atocha provoca retrasos en hasta seis líneas de Cercanías de Madrid y en trenes de Media Distancia,2026-04-22 07:39
+rivas,3,1,19.73,100,"okdiario, google_news_internacional",2,IU pide donaciones en Rivas para su proyecto político mientras gasta 100.000 € de dinero público en autobombo,2026-04-22 07:39
+refugiados,3,0,5.0,100,"elpais, google_news_internacional",2,Las víctimas invisibles de la reducción de la ayuda humanitaria: los refugiados saharauis,2026-04-22 07:39
+media,4,4,6.58,100,"elespanol, huffington_es, google_news_internacional, google_news_es, levante_emv",5,Una avería en Atocha provoca retrasos en hasta seis líneas de Cercanías de Madrid y en trenes de Media Distancia,2026-04-22 07:39
+distancia,4,4,6.58,100,"elespanol, huffington_es, europapress",3,Una avería en Atocha provoca retrasos en hasta seis líneas de Cercanías de Madrid y en trenes de Media Distancia,2026-04-22 07:39
+regalar,3,2,9.87,100,elpais,1,Los mejores libros infantiles y juveniles para regalar en Sant Jordi,2026-04-22 07:39
+estudian,3,2,9.87,100,"el_confidencial_tech, 20minutos, heraldo_aragon",3,Estudian el cerebro y descubren que el ADN neandertal continúa influyéndonos 40.000 años después. Y no para bien,2026-04-22 07:39
+minutos,3,3,6.58,100,"elpais, elcorreo, 20minutos, google_news_internacional",4,El gigante chino CATL presenta baterías con autonomía para 1.500 kilómetros y recargas en 6 minutos,2026-04-22 07:39
+provoca,5,1,32.89,100,"elespanol, okdiario, elpais, google_news_es, google_news_internacional",5,Una avería en Atocha provoca retrasos en hasta seis líneas de Cercanías de Madrid y en trenes de Media Distancia,2026-04-22 07:39
+tierra,4,4,6.58,100,"google_news_internacional, levante_emv, heraldo_aragon",3,Illescas se suma a la conciencia ambiental en el Día Internacional de la Tierra - Vivir Ediciones,2026-04-22 07:39
+próxima,3,3,6.58,100,20minutos,1,Las siete zonas de España donde una próxima dana dejará fuertes tormentas y posibles granizadas o vendavales,2026-04-22 07:39
+feijóo,12,13,6.07,100,"elpais, google_news_politica, huffington_es, levante_emv, 20minutos",5,"Última hora de la actualidad política, en directo | Feijóo reprocha la falta de inversión y Sánchez responde: “Ustedes se financian en B y quieren trabajadores en B”",2026-04-22 07:39
+‘cara,3,1,19.73,100,"elpais, google_news_es",2,"‘Cara al show’ de Marc Giró gana por poco a ‘Al cielo con ella’ de Henar Álvarez en su primer duelo, mientras Telecinco arrasa",2026-04-22 07:39
+oposición,3,3,6.58,100,"infolibre, elespanol, okdiario",3,Machado obvia el apoyo del Gobierno a la oposición y las regularizaciones masivas para atacar a Sánchez,2026-04-22 07:39
+miércoles,14,14,6.58,100,"okdiario, levante_emv",2,"Predicción del horóscopo para Acuario hoy, miércoles 22 de abril de 2026",2026-04-22 07:39
+pantalla,3,3,6.58,100,"levante_emv, 20minutos, elpais",3,"'¿A qué estás esperando?', el universo erótico-romántico de Megan Maxwell salta a la pantalla",2026-04-22 07:39
+tensiones,3,2,9.87,100,"levante_emv, newtral, 20minutos",3,Trump lee la Biblia en medio de la guerra con Irán y tensiones con el papa León XIV,2026-04-22 07:39
+biblia,4,1,26.31,100,"levante_emv, huffington_es, 20minutos",3,Trump lee la Biblia en medio de la guerra con Irán y tensiones con el papa León XIV,2026-04-22 07:39
+show’,3,1,19.73,100,"elpais, google_news_es",2,"‘Cara al show’ de Marc Giró gana por poco a ‘Al cielo con ella’ de Henar Álvarez en su primer duelo, mientras Telecinco arrasa",2026-04-22 07:39
+granizadas,3,0,5.0,100,20minutos,1,Las siete zonas de España donde una próxima dana dejará fuertes tormentas y posibles granizadas o vendavales,2026-04-22 07:39
+retrasos,11,0,5.0,100,"elespanol, okdiario, eldiario, elmundo, elconfidencial",5,Una avería en Atocha provoca retrasos en hasta seis líneas de Cercanías de Madrid y en trenes de Media Distancia,2026-04-22 07:39
+acudir,3,2,9.87,100,"google_news_es, elpais, heraldo_aragon",3,Elecciones en Andalucía: ¿Te pueden multar por no acudir a la mesa electoral? Todo lo que debes saber - RTVE.es,2026-04-22 07:39
+duelo,3,2,9.87,100,"elpais, okdiario",2,"‘Cara al show’ de Marc Giró gana por poco a ‘Al cielo con ella’ de Henar Álvarez en su primer duelo, mientras Telecinco arrasa",2026-04-22 07:39
+dejará,3,2,9.87,100,20minutos,1,Las siete zonas de España donde una próxima dana dejará fuertes tormentas y posibles granizadas o vendavales,2026-04-22 07:39
+actriz,3,4,4.93,98,"elpais, heraldo_aragon, 20minutos",3,"Fariba Sheikhan, actriz: “Cuando Trump amenazó con acabar con una civilización entera no pude dormir”",2026-04-22 07:39
+problema,3,4,4.93,98,"20minutos, huffington_es, infolibre, heraldo_aragon",4,"Sánchez saca pecho con la economía y Feijóo le reclama más inversión: ""Implacable recaudando pero insensible a los problemas""",2026-04-22 07:39
+economía,6,8,4.93,98,"google_news_economia, google_news_politica, 20minutos, efe",4,Forbes España lanza en Baleares su primera edición territorial - Economía de Mallorca,2026-04-22 07:39
+euphoria,3,4,4.93,98,20minutos,1,"El debut de Rosalía en 'Euphoria' y los problemas del doblaje: ""Cambia de acento cada cinco segundos""",2026-04-22 07:39
+cielo,3,4,4.93,98,"elpais, okdiario, heraldo_aragon",3,"‘Cara al show’ de Marc Giró gana por poco a ‘Al cielo con ella’ de Henar Álvarez en su primer duelo, mientras Telecinco arrasa",2026-04-22 07:39
+libros,3,4,4.93,98,"elcorreo, elpais",2,Frente abierto en Cataluña: nacionalistas llaman a quemar los libros de Eduardo Mendoza,2026-04-22 07:39
+aprobado,3,4,4.93,98,"20minutos, europapress, google_news_economia",3,Victoria demócrata en EEUU: aprobado el mapa electoral de Virginia que podría darles cuatro congresistas más,2026-04-22 07:39
+dispara,3,4,4.93,98,"elpais, newtral, huffington_es, levante_emv",4,"Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Irán dispara contra un buque de carga cerca de Ormuz pese a la prórroga del alto el fuego anunciada por EE UU",2026-04-22 07:39
+pueden,5,7,4.7,93,"google_news_economia, google_news_es, elpais, okdiario",4,Huelga de gasolineras en España: así te pueden afectar los paros convocados - Artículo 14,2026-04-22 07:39
+horóscopo,11,16,4.52,90,okdiario,1,"Predicción del horóscopo para Acuario hoy, miércoles 22 de abril de 2026",2026-04-22 07:39
+familias,4,6,4.38,87,"20minutos, levante_emv, okdiario, heraldo_aragon",4,El lmserso busca familias y profesionales para un estudio sobre demencia,2026-04-22 07:39
+swissinfo.ch,4,6,4.38,87,"google_news_internacional, google_news_es",2,Suiza ante un suministro frágil de medicamentos en plena crisis internacional - SWI swissinfo.ch,2026-04-22 07:39
+zonas,8,12,4.38,87,"elconfidencial, okdiario, eldiario, levante_emv, 20minutos",5,"Seguirá el calor con más de 32 ºC, pero la Aemet avisa: lloverá con fuertes tormentas y estas serán las zonas afectadas",2026-04-22 07:39
+oriente,7,11,4.19,83,"elcorreo, 20minutos, google_news_internacional, elpais, heraldo_aragon",5,Sigue en directo la última hora de la guerra en Oriente Medio | Irán aborda un buque en Ormuz y advierte de que está listo para «asestar golpes demoledores» si se reanudan los combates,2026-04-22 07:39
+aemet,8,13,4.05,80,"elconfidencial, okdiario",2,"Seguirá el calor con más de 32 ºC, pero la Aemet avisa: lloverá con fuertes tormentas y estas serán las zonas afectadas",2026-04-22 07:39
+fósiles,3,5,3.95,78,"newtral, levante_emv, elpais",3,Europa bate un nuevo récord de muertes por clima extremo mientras las ayudas fósiles se disparan hasta los 444.000 M€,2026-04-22 07:39
+dejar,3,5,3.95,78,"okdiario, levante_emv, 20minutos",3,"Juanma Lorente, abogado laboralista, revela cómo dejar el trabajo con paro e indemnización",2026-04-22 07:39
+drones,3,5,3.95,78,"okdiario, eldiario, google_news_internacional",3,El infierno está cada vez más cerca: Turquía produce su primer misil hipersónico diseñado para drones con alcance superior a los 150 km,2026-04-22 07:39
+corte,3,5,3.95,78,"eldiario, 20minutos, infolibre, levante_emv, elpais",5,Cortes y retrasos en cuatro líneas de Cercanías Madrid por avería en Atocha,2026-04-22 07:39
+gasolineras,3,5,3.95,78,"google_news_economia, okdiario",2,Huelga de gasolineras en España: así te pueden afectar los paros convocados - Artículo 14,2026-04-22 07:39
+médica,3,5,3.95,78,"google_news_es, elmundo, huffington_es",3,Cuenta atrás para una nueva huelga médica - Diario Sanitario,2026-04-22 07:39
+temperaturas,3,5,3.95,78,"okdiario, eldiario",2,Bilbao: AEMET prevé nubes y descenso de temperaturas con vientos variables en el interior,2026-04-22 07:39
+económico,3,5,3.95,78,"google_news_politica, google_news_economia",2,Los quince think tanks que marcan el pulso económico y político de España - Economía Digital,2026-04-22 07:39
+estudia,3,5,3.95,78,"levante_emv, google_news_es, sur, el_confidencial_tech, 20minutos",5,"La estimulación cerebral profunda salva a un joven con síndrome de Tourette: ""Tenía un alto riesgo de suicidio y vivía aislado; ahora estudia y va al cine""",2026-04-22 07:39
+aumenta,4,7,3.76,75,"levante_emv, elpais, okdiario",3,"Aumenta la expectación para el ""playoff"" de baloncesto entre Proinbeni UpB Gandia y el CB Morón de la Frontera",2026-04-22 07:39
+quiere,8,14,3.76,75,"elpais, google_news_politica, heraldo_aragon, eldiario, google_news_internacional",5,"Última hora de la actualidad política, en directo | Feijóo reprocha la falta de inversión y Sánchez responde: “Ustedes se financian en B y quieren trabajadores en B”",2026-04-22 07:39
+control,6,11,3.59,71,"huffington_es, levante_emv, elconfidencial, newtral, okdiario",5,"Sesión de control al Gobierno, en directo: cara a cara entre Sánchez y Feijóo en el Congreso",2026-04-22 07:39
+expertos,4,8,3.29,65,"okdiario, efe",2,"Los expertos avisan a los dueños de perros: cuando llueve mucho, este juego cansa más que una hora de carrera",2026-04-22 07:39
+llegada,3,6,3.29,65,"levante_emv, okdiario",2,"Xbox Game Pass baja de precio, pero retrasa la llegada de los nuevos 'Call of Duty'",2026-04-22 07:39
+salir,3,6,3.29,65,"20minutos, heraldo_aragon",2,"Jennifer López, de TK Elevator: ""Es un drama que una persona no pueda salir de casa""",2026-04-22 07:39
+político,3,6,3.29,65,"google_news_politica, expansion, elpais, okdiario, huffington_es",5,Los quince think tanks que marcan el pulso económico y político de España - Economía Digital,2026-04-22 07:39
+comunidad,5,10,3.29,65,"europapress, elespanol, okdiario, elpais, 20minutos",5,Retrasos en seis líneas de Cercanías en la Comunidad de Madrid por una incidencia en Atocha,2026-04-22 07:39
+donald,4,8,3.29,65,"levante_emv, heraldo_aragon, elpais, huffington_es",4,Donald Trump lee la Biblia desde el Despacho Oval,2026-04-22 07:39
+plena,7,15,3.07,61,"okdiario, google_news_internacional, elpais, google_news_es, 20minutos",5,Nuevo caos en Renfe: una avería en Atocha provoca retrasos en Cercanías en plena hora punta,2026-04-22 07:39
+próximo,6,13,3.04,60,"20minutos, google_news_internacional, levante_emv, okdiario, elpais",5,Irán amenaza a los países de Oriente Próximo con despedirse del petróleo si recibe ataques,2026-04-22 07:39
+sistema,5,11,2.99,59,"levante_emv, elespanol, okdiario, eldiario, elpais",5,"De la injerencia rusa a ""la guerra jurídica"" de Galicia: la eólica europea identifica ""un ecosistema bien organizado"" contra el despliegue del sector en la UE",2026-04-22 07:39
+elplural.com,5,11,2.99,59,"google_news_politica, google_news_internacional, google_news_economia",3,"Sánchez anula a Feijóo con sus propios deseos y la prioridad nacional: ""Se financiaron en B y quieren trabajadores en B"" - Elplural.com",2026-04-22 07:39
+mejores,9,20,2.96,59,"elcorreo, okdiario, huffington_es, elpais, levante_emv",5,El futuro ya está aquí: estas son las mejores gafas inteligentes con cámara e inteligencia artificial integrada,2026-04-22 07:39
+nuevos,4,9,2.92,58,"levante_emv, elcorreo, okdiario, elpais",4,"Xbox Game Pass baja de precio, pero retrasa la llegada de los nuevos 'Call of Duty'",2026-04-22 07:39
+amenaza,4,9,2.92,58,"20minutos, google_news_internacional, france24_es",3,Irán amenaza a los países de Oriente Próximo con despedirse del petróleo si recibe ataques,2026-04-22 07:39
+libro,10,23,2.86,57,"google_news_internacional, okdiario, elcorreo, elpais, 20minutos",5,El colegio Sagrada Familia se suma a la celebración del Día Internacional del Libro - Diario de Jerez,2026-04-22 07:39
+vozpopuli,3,7,2.82,56,google_news_economia,1,"España: recaudación récord, pero escasa convergencia con Europa - Vozpopuli",2026-04-22 07:39
+tiendas,3,7,2.82,56,"okdiario, huffington_es, heraldo_aragon",3,Adiós al enchufe tradicional: la nueva alternativa ya se puede comprar en las tiendas y es más rápida y segura,2026-04-22 07:39
+siempre,6,14,2.82,56,"elcorreo, elpais, google_news_es, google_news_economia",4,Este inflador de Xiaomi es tan compacto y ligero que podrás llevarlo siempre contigo,2026-04-22 07:39
+elecciones,5,12,2.74,54,"huffington_es, elmundo_internacional, google_news_politica, google_news_es",4,María Corina Machado pide para España unas &quot;elecciones impecables&quot; y el Gran Wyoming le recuerda un detalle no menor,2026-04-22 07:39
+factura,5,12,2.74,54,"okdiario, levante_emv, 20minutos",3,Los expertos coinciden y desmontan el mito de la energía solar: los paneles solares no reducen la factura de la luz por sí solos,2026-04-22 07:39
+política,10,25,2.63,52,"elpais, google_news_politica, google_news_internacional, elespanol, levante_emv",5,"Última hora de la actualidad política, en directo | Feijóo reprocha la falta de inversión y Sánchez responde: “Ustedes se financian en B y quieren trabajadores en B”",2026-04-22 07:39
+buque,4,10,2.63,52,"elpais, elcorreo, 20minutos, google_news_internacional",4,"Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Irán dispara contra un buque de carga cerca de Ormuz pese a la prórroga del alto el fuego anunciada por EE UU",2026-04-22 07:39
+problemas,4,10,2.63,52,"20minutos, infolibre",2,"Sánchez saca pecho con la economía y Feijóo le reclama más inversión: ""Implacable recaudando pero insensible a los problemas""",2026-04-22 07:39
+petróleo,5,13,2.53,50,"okdiario, 20minutos, google_news_internacional",3,"Guerra de Irán, en directo: precio del petróleo hoy, última hora del estrecho de Ormuz y el alto el fuego y noticias de Trump y EEUU en vivo",2026-04-22 07:39
+coches,3,8,2.47,49,"levante_emv, okdiario",2,Incendio de Beniarjó sin desgracias personales: Los bomberos sofocan el fuego en tres coches y la fachada de una vivienda,2026-04-22 07:39
+venezuela,3,8,2.47,49,"okdiario, infolibre, google_news_internacional",3,"Venezuela, decidida a tomárselo en serio: quiere plantar 11 millones de árboles en 2026 para recuperar sus ecosistemas",2026-04-22 07:39
+estas,6,16,2.47,49,"elcorreo, elconfidencial, google_news_economia, elmundo, okdiario",5,El futuro ya está aquí: estas son las mejores gafas inteligentes con cámara e inteligencia artificial integrada,2026-04-22 07:39
+porque,3,8,2.47,49,"google_news_internacional, elcorreo, huffington_es",3,"Imbroda, “muy preocupado” porque la situación política internacional afecte a Melilla - Melilla Hoy",2026-04-22 07:39
+atrás,3,8,2.47,49,"google_news_es, bbc_mundo",2,Cuenta atrás para una nueva huelga médica - Diario Sanitario,2026-04-22 07:39
+pleno,3,8,2.47,49,"levante_emv, okdiario, elpais",3,Directo | Sánchez y Feijóo se miden en el Congreso tras el pacto en Extremadura y en pleno juicio por la Kitchen y el caso Mascarillas,2026-04-22 07:39
+tener,6,16,2.47,49,"okdiario, elcorreo, levante_emv, 20minutos, google_news_internacional",5,¿Cuánto dinero necesitas tener en el banco para ser considerado cliente «rico» y tener beneficios y trato de VIP?,2026-04-22 07:39
+crear,3,8,2.47,49,"20minutos, google_news_es",2,IKEA hace compatibles sus dispositivos con Samsung: así puedes crear una smart home sin gastar una fortuna,2026-04-22 07:39
+precio,8,22,2.39,47,"okdiario, levante_emv, elcorreo, google_news_es, elespanol",5,"Guerra de Irán, en directo: precio del petróleo hoy, última hora del estrecho de Ormuz y el alto el fuego y noticias de Trump y EEUU en vivo",2026-04-22 07:39
+adiós,4,11,2.39,47,"okdiario, elpais, heraldo_aragon",3,Adiós al enchufe tradicional: la nueva alternativa ya se puede comprar en las tiendas y es más rápida y segura,2026-04-22 07:39
+sánchez,23,65,2.33,46,"elpais, google_news_politica, huffington_es, levante_emv, 20minutos",5,"Última hora de la actualidad política, en directo | Feijóo reprocha la falta de inversión y Sánchez responde: “Ustedes se financian en B y quieren trabajadores en B”",2026-04-22 07:39
+puede,11,32,2.26,45,"huffington_es, google_news_economia, 20minutos, okdiario, google_news_es",5,España demuestra que se puede decir NO a Trump,2026-04-22 07:39
+kilómetros,3,9,2.19,43,"elpais, levante_emv, 20minutos",3,El gigante chino CATL presenta baterías con autonomía para 1.500 kilómetros y recargas en 6 minutos,2026-04-22 07:39
+fecha,3,9,2.19,43,"20minutos, elcorreo, okdiario, levante_emv",4,'From': ¿cuántos episodios tiene la temporada 4 de la mejor serie de terror de los últimos 10 años? Fechas de estreno en HBO Max,2026-04-22 07:39
+persona,3,9,2.19,43,"levante_emv, okdiario, 20minutos, infolibre, france24_es",5,"Juan Loste publica 'Menina a mi pesar',  una ficción de saga familiar narrada en primera persona",2026-04-22 07:39
+jóvenes,3,9,2.19,43,"google_news_es, elespanol, elpais",3,¿Por qué los jóvenes usan menos protección solar? - Sinc,2026-04-22 07:39
+prisión,3,9,2.19,43,"levante_emv, google_news_es, okdiario",3,El fiscal pide 20 años de prisión para un entrenador de fútbol que pidió fotos desnudas a sus jugadoras de 14 años,2026-04-22 07:39
+podría,3,9,2.19,43,"20minutos, europapress, el_confidencial_tech",3,Victoria demócrata en EEUU: aprobado el mapa electoral de Virginia que podría darles cuatro congresistas más,2026-04-22 07:39
+estos,5,15,2.19,43,"elcorreo, okdiario, elpais, 20minutos, levante_emv",5,Consigue un descanso más reparador con estos antifaces para dormir,2026-04-22 07:39
+victoria,4,12,2.19,43,"okdiario, 20minutos, sur, google_news_es",4,Borbón vs. Rivera: el duelo de estilo de Victoria Federica y Tana en la Feria de Abril,2026-04-22 07:39
+china,6,18,2.19,43,"google_news_internacional, elespanol, infolibre, google_news_es, bbc_mundo",5,TUROMAS avanza en su expansión internacional en CHINA GLASS 2026 - vidrioperfil.com,2026-04-22 07:39
+ormuz,8,25,2.1,42,"okdiario, elpais, huffington_es, heraldo_aragon, elcorreo",5,"Guerra de Irán, en directo: precio del petróleo hoy, última hora del estrecho de Ormuz y el alto el fuego y noticias de Trump y EEUU en vivo",2026-04-22 07:39
+países,6,19,2.08,41,"google_news_economia, google_news_internacional, 20minutos",3,"Los bulos de Feijóo, desmontados con datos: comparamos nuestra presión fiscal con la de los países nórdicos - Elplural.com",2026-04-22 07:39
+riesgo,6,19,2.08,41,"levante_emv, heraldo_aragon, google_news_es, expansion, 20minutos",5,"La estimulación cerebral profunda salva a un joven con síndrome de Tourette: ""Tenía un alto riesgo de suicidio y vivía aislado; ahora estudia y va al cine""",2026-04-22 07:39
+familia,4,13,2.02,40,"levante_emv, google_news_internacional, 20minutos, okdiario, elpais",5,"Juan Loste publica 'Menina a mi pesar',  una ficción de saga familiar narrada en primera persona",2026-04-22 07:39
+colas,4,13,2.02,40,"okdiario, huffington_es, levante_emv",3,Colas kilométricas en Lidl por las mosquiteras fáciles de instalar que van a solucionarte el verano por menos de 10 euros,2026-04-22 07:39
