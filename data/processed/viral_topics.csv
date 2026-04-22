@@ -1,84 +1,66 @@
 keyword,count_now,count_base,ratio,viral_score,sources,n_sources,sample_title,detected_at
-bernabéu,5,10,6.34,100,"elmundo, elcorreo, google_news_es, levante_emv, elespanol",5,"Juicio del Bernabéu, pitos a Mbappé, Camavinga y Vinicius y 'perdón' del brasileño: ""Espero que Vini se quiera quedar muchos años en el Madrid""",2026-04-22 02:09
-ventaja,3,3,12.68,100,"elcorreo, sur",2,Ventaja para Sánchez,2026-04-22 02:09
-voltea,3,0,5.0,100,"elpais, google_news_es",2,El Betis voltea su racha liguera y remonta al Girona en el regreso de Isco,2026-04-22 02:09
-girona,6,2,38.03,100,"levante_emv, elpais, google_news_es, lavanguardia",4,El Betis cura la herida europea a costa del Girona,2026-04-22 02:09
-betis,6,1,76.06,100,"levante_emv, elpais, google_news_es, lavanguardia",4,El Betis cura la herida europea a costa del Girona,2026-04-22 02:09
-victoria,5,10,6.34,100,"elcorreo, elmundo, elespanol",3,Así hemos narrado la alicaída victoria del Real Madrid ante el Alavés,2026-04-22 02:09
-propuesta,11,15,9.3,100,"sur, elpais_internacional, okdiario, heraldo_aragon, europapress",5,La Unión Europea da la espalda a España en    su propuesta para romper relaciones con Israel,2026-04-22 02:09
-milei,3,3,12.68,100,"elmundo_internacional, google_news_internacional, france24_es",3,"Milei, el otro gran aliado de Israel con afinidad personal e ideológica: ""Nuestros pueblos comparten valores, un legado y una visión de futuro""",2026-04-22 02:09
-perdón,5,1,63.38,100,"elmundo, elpais, google_news_es, levante_emv",4,"Juicio del Bernabéu, pitos a Mbappé, Camavinga y Vinicius y 'perdón' del brasileño: ""Espero que Vini se quiera quedar muchos años en el Madrid""",2026-04-22 02:09
-liguera,3,0,5.0,100,"elpais, google_news_es",2,El Betis voltea su racha liguera y remonta al Girona en el regreso de Isco,2026-04-22 02:09
-vinicius,8,1,101.42,100,"elmundo, google_news_es, elespanol, elcorreo",4,"Juicio del Bernabéu, pitos a Mbappé, Camavinga y Vinicius y 'perdón' del brasileño: ""Espero que Vini se quiera quedar muchos años en el Madrid""",2026-04-22 02:09
-mbappé,6,8,9.51,100,"elmundo, levante_emv, lavanguardia, elespanol, google_news_es",5,"Juicio del Bernabéu, pitos a Mbappé, Camavinga y Vinicius y 'perdón' del brasileño: ""Espero que Vini se quiera quedar muchos años en el Madrid""",2026-04-22 02:09
-pitos,3,4,9.51,100,"elmundo, elcorreo, google_news_es",3,"Juicio del Bernabéu, pitos a Mbappé, Camavinga y Vinicius y 'perdón' del brasileño: ""Espero que Vini se quiera quedar muchos años en el Madrid""",2026-04-22 02:09
-puerta,6,8,9.51,100,"elmundo, france24_es, google_news_internacional, elcorreo",4,"El hermano de Delcy acusa al PP y Vox de financiar los ""actos racistas"" de la Puerta del Sol",2026-04-22 02:09
-persona,3,6,6.34,100,"elcorreo, okdiario, sur, elmundo_internacional, google_news_internacional",5,Osakidetza ha atendido a más de 3.000 personas en cuatro años por intento de suicidio,2026-04-22 02:09
-sexta,3,4,9.51,100,"20minutos, okdiario",2,El espectacular arranque de Marc Giró en 'Cara al show': a caballo y respondiendo a su fichaje por La Sexta,2026-04-22 02:09
-racha,3,0,5.0,100,"elpais, google_news_es",2,El Betis voltea su racha liguera y remonta al Girona en el regreso de Isco,2026-04-22 02:09
-remonta,3,1,38.03,100,"elpais, google_news_es",2,El Betis voltea su racha liguera y remonta al Girona en el regreso de Isco,2026-04-22 02:09
-france,3,5,7.61,100,"google_news_es, google_news_internacional",2,Trump vuelve a echarse para atrás y extiende indefinidamente el alto el fuego con Irán - France 24,2026-04-22 02:09
-simone,3,1,38.03,100,"levante_emv, 20minutos, okdiario",3,"Simone Biles siembra la duda en 'El Hormiguero': ""En Los Ángeles 2028 no sé si estaré en el suelo o animando al equipo""",2026-04-22 02:09
-unificada,4,0,5.0,100,"elespanol, eldiario, google_news_internacional",3,"Trump prolonga el alto el fuego hasta que Irán ""presente una propuesta unificada y concluyan las negociaciones""",2026-04-22 02:09
-amplía,5,9,7.04,100,"sur, okdiario, elespanol, eldiario, google_news_internacional",5,Trump anuncia que amplía el alto el fuego hasta concluir la negociación con Teherán,2026-04-22 02:09
-mónaco,3,2,19.02,100,"google_news_es, elpais, levante_emv",3,El Barça vence al Estrella Roja y se cita con el Mónaco - EL PAÍS,2026-04-22 02:09
-estrella,4,4,12.68,100,"google_news_es, elpais, elmundo, lavanguardia",4,El Barça vence al Estrella Roja y se cita con el Mónaco - EL PAÍS,2026-04-22 02:09
-barça,4,6,8.45,100,"google_news_es, elpais, lavanguardia, levante_emv",4,El Barça vence al Estrella Roja y se cita con el Mónaco - EL PAÍS,2026-04-22 02:09
-biles,4,1,50.71,100,"levante_emv, huffington_es, 20minutos, okdiario",4,"Simone Biles siembra la duda en 'El Hormiguero': ""En Los Ángeles 2028 no sé si estaré en el suelo o animando al equipo""",2026-04-22 02:09
-concluyan,7,0,5.0,100,"elpais, europapress, google_news_internacional, elespanol, huffington_es",5,"Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Trump extiende el alto el fuego hasta que concluyan las negociaciones",2026-04-22 02:09
-regreso,4,3,16.9,100,"elpais, google_news_es, lavanguardia",3,El Betis voltea su racha liguera y remonta al Girona en el regreso de Isco,2026-04-22 02:09
-bonoloto,4,7,7.24,100,"sur, 20minutos",2,"Comprobar Lotería del martes, 21 de abril: resultados de la Bonoloto, del Cupón de la ONCE y del Euromillones",2026-04-22 02:09
-presente,8,7,14.49,100,"elpais_internacional, okdiario, europapress, elespanol, elpais",5,Trump prorroga el alto el fuego hasta que Irán presente una propuesta y se negocie hasta el final,2026-04-22 02:09
-lesión,3,1,38.03,100,"elcorreo, sur",2,Victoria ajustada de un Madrid que pierde a Militao por lesión,2026-04-22 02:09
-militao,3,0,5.0,100,"elcorreo, sur",2,Victoria ajustada de un Madrid que pierde a Militao por lesión,2026-04-22 02:09
-pierde,3,6,6.34,100,"elcorreo, sur",2,Victoria ajustada de un Madrid que pierde a Militao por lesión,2026-04-22 02:09
-miranda,3,5,7.61,100,elcorreo,1,La Junta copia a Miranda para salvar el concierto de Medina Azahara de las quejas por ruido,2026-04-22 02:09
-alavés,10,17,7.46,100,"elcorreo, elmundo, elespanol, google_news_es, levante_emv",5,El gol responde tarde a la llamada del Alavés,2026-04-22 02:09
-petición,3,6,6.34,100,"eldiario, google_news_internacional",2,"Trump anuncia que mantiene el alto el fuego a petición de Pakistán y ""hasta que Irán presente una propuesta unificada""",2026-04-22 02:09
-indefinidamente,3,0,5.0,100,"france24_es, google_news_es, elmundo",3,Trump vuelve a echarse para atrás y extiende indefinidamente el alto el fuego con Irán,2026-04-22 02:09
-pregunta,3,3,12.68,100,"elcorreo, 20minutos",2,La Fiscalía pregunta por la fecha en la que Salud supo que se habían inoculado vacunas caducadas,2026-04-22 02:09
-bloqueo,3,6,6.34,100,"elcorreo, google_news_internacional, google_news_es",3,Tubacex ultima un ERTE por el bloqueo de Ormuz y la crisis abierta en el petróleo,2026-04-22 02:09
-penal,4,5,10.14,100,"france24_es, google_news_internacional, google_news_es, levante_emv, 20minutos",5,Hungría da un giro: se mantiene en la Corte Penal Internacional y cierra la puerta a Netanyahu,2026-04-22 02:09
-mantiene,4,9,5.63,100,"france24_es, google_news_internacional, eldiario, google_news_es",4,Hungría da un giro: se mantiene en la Corte Penal Internacional y cierra la puerta a Netanyahu,2026-04-22 02:09
-financiero,3,1,38.03,100,"expansion, elmundo_internacional, google_news_internacional",3,"Cajamar: ""El sector financiero tiene un papel clave en la transición verde""",2026-04-22 02:09
-silencio,3,7,5.43,100,"elcorreo, elmundo",2,El muro de silencio de los desaparecidos por el terrorismo en Euskadi,2026-04-22 02:09
-atrás,3,5,7.61,100,"huffington_es, france24_es, google_news_es",3,Pakistán agradece a Donald Trump que dé marcha atrás y prorrogue el alto el fuego con Irán,2026-04-22 02:09
-michael,3,6,6.34,100,"levante_emv, elespanol, sur",3,Michael,2026-04-22 02:09
-familia,5,7,9.05,100,"elmundo, elespanol, okdiario, elcorreo, levante_emv",5,El atasco de la regularización en cada ventanilla: cinco funcionarios para una familia de 4 inmigrantes y más de una hora por solicitud,2026-04-22 02:09
-euroliga,4,6,8.45,100,"elcorreo, lavanguardia, levante_emv",3,El Buesa Arena es la décima cancha con más público de la Euroliga,2026-04-22 02:09
-fuego,22,30,9.3,100,"elespanol, huffington_es, france24_es, google_news_es, bbc_mundo",5,"Bint Jbeil, la 'Numancia' de Hezbolá: la icónica ciudad que Israel trata de borrar del mapa pese al alto el fuego con Líbano",2026-04-22 02:09
-iglesias,4,5,10.14,100,"huffington_es, okdiario, 20minutos, elcorreo",4,Maxi Iglesias da un paso al frente y deja una frase sobre su vida íntima tras su romance con Aitana que está incendiando las redes,2026-04-22 02:09
-extiende,10,4,31.69,100,"france24_es, google_news_es, bbc_mundo, elpais, google_news_internacional",5,Trump vuelve a echarse para atrás y extiende indefinidamente el alto el fuego con Irán,2026-04-22 02:09
-resultado,4,11,4.61,92,"expansion, sur, elespanol, huffington_es",4,Bankinter calienta motores en Bolsa antes de resultados,2026-04-22 02:09
-precio,7,21,4.23,84,"expansion, elcorreo, lavanguardia, sur, huffington_es",5,El nuevo escalón bajista 'programado' en el precio del petróleo,2026-04-22 02:09
-cierra,3,9,4.23,84,"france24_es, google_news_internacional, elcorreo",3,Hungría da un giro: se mantiene en la Corte Penal Internacional y cierra la puerta a Netanyahu,2026-04-22 02:09
-trump,28,84,4.23,84,"huffington_es, expansion, elcorreo, france24_es, google_news_es",5,Wyoming no se corta a la hora de catalogar como &quot;malos&quot; los mensajes de Donald Trump y los compara con algo muy español,2026-04-22 02:09
-chatgpt,3,9,4.23,84,"elmundo, google_news_es, 20minutos",3,"OpenAI lanza ChatGPT Images 2.0, un generador capaz de diseñar revistas enteras",2026-04-22 02:09
-empresa,4,13,3.9,78,"elcorreo, okdiario, elpais",3,Trump tendrá en cuenta a las empresas que no reclamen el reembolso de aranceles ilegales,2026-04-22 02:09
-comercio,3,10,3.8,76,"expansion, elmundo_internacional, google_news_internacional",3,Se agrava el deterioro del comercio con EEUU en pleno pulso Sánchez-Trump,2026-04-22 02:09
-equipo,3,10,3.8,76,"expansion, sur, levante_emv",3,Urbas arremete contra el equipo concursal de Kepler Kast-Auren,2026-04-22 02:09
-miedo,3,11,3.46,69,"elespanol, expansion, elcorreo",3,"Armengol endurecerá  el Reglamento e incluirá las agresiones de diputados fuera del hemiciclo: ""Tenemos miedo""",2026-04-22 02:09
-sorteo,3,11,3.46,69,sur,1,"Resultado del sorteo de la Bonoloto del martes, 21 de abril de 2026",2026-04-22 02:09
-oferta,3,11,3.46,69,"elcorreo, elmundo_espana",2,Vitoria regulará por decreto a los taxistas si no presentan su oferta antes del 15 de mayo,2026-04-22 02:09
-negociaciones,9,34,3.36,67,"elpais, google_news_internacional, europapress, elespanol, huffington_es",5,"Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Trump extiende el alto el fuego hasta que concluyan las negociaciones",2026-04-22 02:09
-próximo,3,12,3.17,63,"elcorreo, elmundo_internacional, google_news_internacional",3,El nuevo índice certifica un precio medio próximo a mil euros del alquiler en Bilbao,2026-04-22 02:09
-noche,3,13,2.93,58,"elespanol, levante_emv",2,"Hidalgo niega comisiones por Air Europa y rehúye hablar de Begoña: ""No sé qué se cuenta de la noche de San Petersburgo""",2026-04-22 02:09
-líbano,3,13,2.93,58,"elespanol, france24_es, google_news_internacional",3,"Bint Jbeil, la 'Numancia' de Hezbolá: la icónica ciudad que Israel trata de borrar del mapa pese al alto el fuego con Líbano",2026-04-22 02:09
-final,4,18,2.82,56,"elcorreo, lavanguardia, elpais_internacional",3,Un ojo puesto en la final con el Mallorca,2026-04-22 02:09
-pakistán,6,28,2.72,54,"huffington_es, google_news_es, eldiario, google_news_internacional",4,Pakistán agradece a Donald Trump que dé marcha atrás y prorrogue el alto el fuego con Irán,2026-04-22 02:09
-legado,3,14,2.72,54,"elmundo_internacional, google_news_internacional, france24_es",3,"Milei, el otro gran aliado de Israel con afinidad personal e ideológica: ""Nuestros pueblos comparten valores, un legado y una visión de futuro""",2026-04-22 02:09
-viviendas,4,20,2.54,50,"elespanol, expansion, elmundo",3,Sánchez ha prometido 34.000 millones y 276.000 viviendas protegidas en seis años pero sólo se han entregado 49.000,2026-04-22 02:09
-público,3,15,2.54,50,"elcorreo, sur",2,El Buesa Arena es la décima cancha con más público de la Euroliga,2026-04-22 02:09
-europea,4,20,2.54,50,"sur, levante_emv, heraldo_aragon",3,El Amivel regresa a Turquía para defender su corona europea,2026-04-22 02:09
-ibiza,3,15,2.54,50,levante_emv,1,"El alcalde de Ibiza, Rafael Triguero, tras la explosión en Ibiza: ""La máxima prioridad es que se estabilicen los heridos graves y que las familias puedan volver esta noche a casa""",2026-04-22 02:09
-papel,3,15,2.54,50,"expansion, google_news_es, 20minutos",3,"Cajamar: ""El sector financiero tiene un papel clave en la transición verde""",2026-04-22 02:09
-imágenes,3,15,2.54,50,"levante_emv, 20minutos",2,Impresionantes imágenes de los destrozos provocados por la explosión de un piso en Ibiza,2026-04-22 02:09
-digital,3,15,2.54,50,"google_news_es, google_news_politica",2,Así evoluciona la gestión de la nómina en la era digital - RRHH Digital,2026-04-22 02:09
-salud,3,16,2.38,47,"elcorreo, sur, huffington_es",3,La Fiscalía pregunta por la fecha en la que Salud supo que se habían inoculado vacunas caducadas,2026-04-22 02:09
-alquiler,3,16,2.38,47,"elcorreo, sur",2,El nuevo índice certifica un precio medio próximo a mil euros del alquiler en Bilbao,2026-04-22 02:09
-cinco,4,22,2.3,46,"elmundo, elpais, sur",3,El atasco de la regularización en cada ventanilla: cinco funcionarios para una familia de 4 inmigrantes y más de una hora por solicitud,2026-04-22 02:09
-tiempo,3,17,2.24,44,"bbc_mundo, sur, google_news_internacional",3,"""Trump gana tiempo"": EE.UU. extiende el cese el fuego a la espera de poder negociar con Irán",2026-04-22 02:09
-tregua,4,23,2.2,44,"france24_es, elespanol, google_news_es",3,Informe desde París: Macron reafirma compromiso con la tregua en Líbano,2026-04-22 02:09
-javier,3,18,2.11,42,"france24_es, 20minutos, elmundo",3,Directo Latam y el tercer viaje de Javier Milei a Israel,2026-04-22 02:09
-heridos,3,18,2.11,42,"levante_emv, bbc_mundo",2,"El alcalde de Ibiza, Rafael Triguero, tras la explosión en Ibiza: ""La máxima prioridad es que se estabilicen los heridos graves y que las familias puedan volver esta noche a casa""",2026-04-22 02:09
-posible,3,19,2.0,40,"elmundo_internacional, google_news_internacional, okdiario",3,"La relevancia geopolítica de un posible sabotaje en los cables submarinos de Oriente Próximo: ""Podría haber un retardo de 100 a 110 milisegundos que tendría impacto en el comercio financiero""",2026-04-22 02:09
+condiciona,3,2,20.53,100,"google_news_internacional, expansion",2,"Guerra en Irán, en directo | Irán condiciona el diálogo al desbloqueo de Ormuz y Trump vuelve a amenazar con destruir la república islámica - 20Minutos",2026-04-22 02:39
+remonta,3,1,41.06,100,"elpais, google_news_es",2,El Betis voltea su racha liguera y remonta al Girona en el regreso de Isco,2026-04-22 02:39
+liguera,3,0,5.0,100,"elpais, google_news_es",2,El Betis voltea su racha liguera y remonta al Girona en el regreso de Isco,2026-04-22 02:39
+penal,3,6,6.84,100,"france24_es, google_news_internacional, google_news_es",3,Hungría da un giro: se mantiene en la Corte Penal Internacional y cierra la puerta a Netanyahu,2026-04-22 02:39
+voltea,3,0,5.0,100,"elpais, google_news_es",2,El Betis voltea su racha liguera y remonta al Girona en el regreso de Isco,2026-04-22 02:39
+girona,6,2,41.06,100,"levante_emv, elpais, google_news_es, lavanguardia",4,El Betis cura la herida europea a costa del Girona,2026-04-22 02:39
+betis,6,1,82.11,100,"levante_emv, elpais, google_news_es, lavanguardia",4,El Betis cura la herida europea a costa del Girona,2026-04-22 02:39
+pregunta,3,3,13.69,100,"elcorreo, 20minutos",2,La Fiscalía pregunta por la fecha en la que Salud supo que se habían inoculado vacunas caducadas,2026-04-22 02:39
+milei,3,3,13.69,100,"elmundo_internacional, google_news_internacional, france24_es",3,"Milei, el otro gran aliado de Israel con afinidad personal e ideológica: ""Nuestros pueblos comparten valores, un legado y una visión de futuro""",2026-04-22 02:39
+silencio,3,7,5.87,100,"elcorreo, elmundo",2,El muro de silencio de los desaparecidos por el terrorismo en Euskadi,2026-04-22 02:39
+perdón,5,1,68.43,100,"elmundo, elpais, google_news_es, levante_emv",4,"Juicio del Bernabéu, pitos a Mbappé, Camavinga y Vinicius y 'perdón' del brasileño: ""Espero que Vini se quiera quedar muchos años en el Madrid""",2026-04-22 02:39
+vinicius,8,1,109.48,100,"elmundo, google_news_es, elespanol, elcorreo",4,"Juicio del Bernabéu, pitos a Mbappé, Camavinga y Vinicius y 'perdón' del brasileño: ""Espero que Vini se quiera quedar muchos años en el Madrid""",2026-04-22 02:39
+euroliga,3,7,5.87,100,"elcorreo, lavanguardia, levante_emv",3,El Buesa Arena es la décima cancha con más público de la Euroliga,2026-04-22 02:39
+iglesias,4,4,13.69,100,"huffington_es, okdiario, 20minutos, elcorreo",4,Maxi Iglesias da un paso al frente y deja una frase sobre su vida íntima tras su romance con Aitana que está incendiando las redes,2026-04-22 02:39
+extiende,5,9,7.6,100,"france24_es, google_news_es, bbc_mundo, elpais",4,Trump vuelve a echarse para atrás y extiende indefinidamente el alto el fuego con Irán,2026-04-22 02:39
+indefinidamente,3,0,5.0,100,"france24_es, google_news_es, elmundo",3,Trump vuelve a echarse para atrás y extiende indefinidamente el alto el fuego con Irán,2026-04-22 02:39
+france,3,5,8.21,100,"google_news_es, google_news_internacional",2,Trump vuelve a echarse para atrás y extiende indefinidamente el alto el fuego con Irán - France 24,2026-04-22 02:39
+sexta,3,4,10.26,100,"20minutos, okdiario",2,El espectacular arranque de Marc Giró en 'Cara al show': a caballo y respondiendo a su fichaje por La Sexta,2026-04-22 02:39
+persona,3,6,6.84,100,"elcorreo, okdiario, sur, elmundo_internacional, google_news_internacional",5,Osakidetza ha atendido a más de 3.000 personas en cuatro años por intento de suicidio,2026-04-22 02:39
+pitos,3,4,10.26,100,"elmundo, elcorreo, google_news_es",3,"Juicio del Bernabéu, pitos a Mbappé, Camavinga y Vinicius y 'perdón' del brasileño: ""Espero que Vini se quiera quedar muchos años en el Madrid""",2026-04-22 02:39
+financiero,3,1,41.06,100,"expansion, elmundo_internacional, google_news_internacional",3,"Cajamar: ""El sector financiero tiene un papel clave en la transición verde""",2026-04-22 02:39
+atrás,3,5,8.21,100,"huffington_es, france24_es, google_news_es",3,Pakistán agradece a Donald Trump que dé marcha atrás y prorrogue el alto el fuego con Irán,2026-04-22 02:39
+barça,4,6,9.12,100,"google_news_es, elpais, lavanguardia, levante_emv",4,El Barça vence al Estrella Roja y se cita con el Mónaco - EL PAÍS,2026-04-22 02:39
+socialista,3,4,10.26,100,"okdiario, google_news_internacional",2,El socialista Negueruela exige «menos policía» en las colas de regularización a pesar del caos y las peleas,2026-04-22 02:39
+mónaco,3,2,20.53,100,"google_news_es, elpais, levante_emv",3,El Barça vence al Estrella Roja y se cita con el Mónaco - EL PAÍS,2026-04-22 02:39
+mbappé,7,8,11.97,100,"google_news_es, elmundo, levante_emv, lavanguardia, elespanol",5,Mbappé y Vinícius sacan al Real Madrid de mala racha con victoria 2-1 ante Alavés en La Liga - Los Angeles Times,2026-04-22 02:39
+vinícius,3,2,20.53,100,"google_news_es, levante_emv, lavanguardia",3,Mbappé y Vinícius sacan al Real Madrid de mala racha con victoria 2-1 ante Alavés en La Liga - Los Angeles Times,2026-04-22 02:39
+racha,4,0,5.0,100,"google_news_es, elpais",2,Mbappé y Vinícius sacan al Real Madrid de mala racha con victoria 2-1 ante Alavés en La Liga - Los Angeles Times,2026-04-22 02:39
+victoria,6,10,8.21,100,"google_news_es, elcorreo, elmundo, elespanol",4,Mbappé y Vinícius sacan al Real Madrid de mala racha con victoria 2-1 ante Alavés en La Liga - Los Angeles Times,2026-04-22 02:39
+alavés,9,19,6.48,100,"google_news_es, elcorreo, elmundo, elespanol",4,Mbappé y Vinícius sacan al Real Madrid de mala racha con victoria 2-1 ante Alavés en La Liga - Los Angeles Times,2026-04-22 02:39
+puerta,6,8,10.26,100,"elmundo, france24_es, google_news_internacional, elcorreo",4,"El hermano de Delcy acusa al PP y Vox de financiar los ""actos racistas"" de la Puerta del Sol",2026-04-22 02:39
+estrella,4,4,13.69,100,"google_news_es, elpais, elmundo, lavanguardia",4,El Barça vence al Estrella Roja y se cita con el Mónaco - EL PAÍS,2026-04-22 02:39
+biles,3,2,20.53,100,"levante_emv, huffington_es, 20minutos",3,"Simone Biles siembra la duda en 'El Hormiguero': ""En Los Ángeles 2028 no sé si estaré en el suelo o animando al equipo""",2026-04-22 02:39
+miranda,3,5,8.21,100,elcorreo,1,La Junta copia a Miranda para salvar el concierto de Medina Azahara de las quejas por ruido,2026-04-22 02:39
+regreso,4,3,18.25,100,"elpais, google_news_es, lavanguardia",3,El Betis voltea su racha liguera y remonta al Girona en el regreso de Isco,2026-04-22 02:39
+familia,5,7,9.78,100,"elmundo, elespanol, okdiario, elcorreo, levante_emv",5,El atasco de la regularización en cada ventanilla: cinco funcionarios para una familia de 4 inmigrantes y más de una hora por solicitud,2026-04-22 02:39
+michael,3,6,6.84,100,"levante_emv, elespanol, sur",3,Michael,2026-04-22 02:39
+bernabéu,5,10,6.84,100,"elmundo, elcorreo, google_news_es, levante_emv, elespanol",5,"Juicio del Bernabéu, pitos a Mbappé, Camavinga y Vinicius y 'perdón' del brasileño: ""Espero que Vini se quiera quedar muchos años en el Madrid""",2026-04-22 02:39
+comercio,3,9,4.56,91,"expansion, elmundo_internacional, google_news_internacional",3,Se agrava el deterioro del comercio con EEUU en pleno pulso Sánchez-Trump,2026-04-22 02:39
+empresa,4,12,4.56,91,"elcorreo, okdiario, elpais",3,Trump tendrá en cuenta a las empresas que no reclamen el reembolso de aranceles ilegales,2026-04-22 02:39
+cierra,3,9,4.56,91,"france24_es, google_news_internacional, elcorreo",3,Hungría da un giro: se mantiene en la Corte Penal Internacional y cierra la puerta a Netanyahu,2026-04-22 02:39
+equipo,3,10,4.11,82,"expansion, sur, levante_emv",3,Urbas arremete contra el equipo concursal de Kepler Kast-Auren,2026-04-22 02:39
+fuego,12,41,4.01,80,"elespanol, huffington_es, google_news_es, france24_es, bbc_mundo",5,"Bint Jbeil, la 'Numancia' de Hezbolá: la icónica ciudad que Israel trata de borrar del mapa pese al alto el fuego con Líbano",2026-04-22 02:39
+oferta,3,11,3.73,74,"elcorreo, elmundo_espana",2,Vitoria regulará por decreto a los taxistas si no presentan su oferta antes del 15 de mayo,2026-04-22 02:39
+precio,6,22,3.73,74,"expansion, elcorreo, lavanguardia, sur",4,El nuevo escalón bajista 'programado' en el precio del petróleo,2026-04-22 02:39
+miedo,3,11,3.73,74,"elespanol, expansion, elcorreo",3,"Armengol endurecerá  el Reglamento e incluirá las agresiones de diputados fuera del hemiciclo: ""Tenemos miedo""",2026-04-22 02:39
+sorteo,3,11,3.73,74,sur,1,"Resultado del sorteo de la Bonoloto del martes, 21 de abril de 2026",2026-04-22 02:39
+resultado,3,12,3.42,68,"expansion, sur",2,Bankinter calienta motores en Bolsa antes de resultados,2026-04-22 02:39
+próximo,3,12,3.42,68,"elcorreo, elmundo_internacional, google_news_internacional",3,El nuevo índice certifica un precio medio próximo a mil euros del alquiler en Bilbao,2026-04-22 02:39
+noche,3,13,3.16,63,"elespanol, levante_emv",2,"Hidalgo niega comisiones por Air Europa y rehúye hablar de Begoña: ""No sé qué se cuenta de la noche de San Petersburgo""",2026-04-22 02:39
+público,3,14,2.93,58,"elcorreo, sur",2,El Buesa Arena es la décima cancha con más público de la Euroliga,2026-04-22 02:39
+legado,3,14,2.93,58,"elmundo_internacional, google_news_internacional, france24_es",3,"Milei, el otro gran aliado de Israel con afinidad personal e ideológica: ""Nuestros pueblos comparten valores, un legado y una visión de futuro""",2026-04-22 02:39
+líbano,3,14,2.93,58,"france24_es, elespanol",2,Se reanudan los enfrentamientos entre Israel y Hezbolá en Líbano,2026-04-22 02:39
+ibiza,3,15,2.74,54,levante_emv,1,"El alcalde de Ibiza, Rafael Triguero, tras la explosión en Ibiza: ""La máxima prioridad es que se estabilicen los heridos graves y que las familias puedan volver esta noche a casa""",2026-04-22 02:39
+viviendas,4,20,2.74,54,"elespanol, expansion, elmundo",3,Sánchez ha prometido 34.000 millones y 276.000 viviendas protegidas en seis años pero sólo se han entregado 49.000,2026-04-22 02:39
+digital,3,15,2.74,54,"google_news_es, google_news_politica",2,Así evoluciona la gestión de la nómina en la era digital - RRHH Digital,2026-04-22 02:39
+alquiler,3,16,2.57,51,"elcorreo, sur",2,El nuevo índice certifica un precio medio próximo a mil euros del alquiler en Bilbao,2026-04-22 02:39
+salud,3,16,2.57,51,"elcorreo, sur, huffington_es",3,La Fiscalía pregunta por la fecha en la que Salud supo que se habían inoculado vacunas caducadas,2026-04-22 02:39
+javier,3,17,2.42,48,"france24_es, 20minutos, elmundo",3,Directo Latam y el tercer viaje de Javier Milei a Israel,2026-04-22 02:39
+general,3,17,2.42,48,"france24_es, elmundo_espana",2,"Con tres candidatos latinoamericanos, dos de ellos mujeres, la ONU sopesa a su nuevo secretario general",2026-04-22 02:39
+heridos,3,17,2.42,48,"levante_emv, bbc_mundo",2,"El alcalde de Ibiza, Rafael Triguero, tras la explosión en Ibiza: ""La máxima prioridad es que se estabilicen los heridos graves y que las familias puedan volver esta noche a casa""",2026-04-22 02:39
+propuesta,4,23,2.38,47,"google_news_es, sur, elpais_internacional, okdiario",4,Trump dice que extenderá el alto el fuego hasta que Irán presente una nueva propuesta para poner fin al conflicto - CNN en Español,2026-04-22 02:39
+informe,4,23,2.38,47,"france24_es, google_news_politica",2,Informe desde Lima: dimite Piero Corvetto como jefe de la ONPE por caos electoral en Perú,2026-04-22 02:39
+trump,17,99,2.35,46,"google_news_internacional, huffington_es, france24_es, google_news_es, expansion",5,"Guerra en Irán, en directo | Irán condiciona el diálogo al desbloqueo de Ormuz y Trump vuelve a amenazar con destruir la república islámica - 20Minutos",2026-04-22 02:39
+final,3,19,2.16,43,"elcorreo, lavanguardia, elpais_internacional",3,Un ojo puesto en la final con el Mallorca,2026-04-22 02:39
