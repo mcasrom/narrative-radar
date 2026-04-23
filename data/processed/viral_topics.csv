@@ -1,74 +1,96 @@
 keyword,count_now,count_base,ratio,viral_score,sources,n_sources,sample_title,detected_at
-activa,4,7,5.49,100,"okdiario, levante_emv, 20minutos",3,La AEMET activa la alerta amarilla en Alicante por viento y olas de 3 metros,2026-04-23 05:10
-multiarrendadores,3,0,5.0,100,"infolibre, 20minutos",2,Casi dos tercios del mercado del alquiler en España está en manos de multiarrendadores,2026-04-23 05:10
-enfrenta,3,4,7.2,100,"levante_emv, google_news_es, elpais_espana",3,Se enfrenta a cuatro años de cárcel tras ofertar por internet un alquiler falso en Gandia,2026-04-23 05:10
-rajoy,5,6,8.0,100,"google_news_es, huffington_es, elpais_espana, heraldo_aragon",4,Mariano Rajoy testifica en el juicio del caso Kitchen tras ser señalado por Bárcenas - RTVE.es,2026-04-23 05:10
-inagotable,3,0,5.0,100,"el_confidencial_tech, elpais, google_news_es",3,Canadá busca en las profundidades de sus minas de carbón y encuentra una energía limpia e inagotable,2026-04-23 05:10
-viaje,3,3,9.6,100,"france24_es, okdiario, 20minutos",3,Luis Díaz marca y sentencia el viaje del Bayern a la final de la Copa,2026-04-23 05:10
-socialista,3,5,5.76,100,"okdiario, elmundo, elespanol",3,Cercedilla convierte en urbanizable una finca rústica protegida del concejal socialista de Medio Ambiente,2026-04-23 05:10
-10.000,3,2,14.4,100,"okdiario, 20minutos",2,La tormenta ‘El Niño’ que llega a África puede llevar el cacao a máximos históricos de 10.000 € la tonelada,2026-04-23 05:10
-lugar,4,4,9.6,100,"huffington_es, okdiario, elpais, france24_es, google_news_es",5,Comparten las costumbres españolas que más sorprenden fuera: &quot;En otros lugares no le encuentran el sentido&quot;,2026-04-23 05:10
-mujeres,4,6,6.4,100,"huffington_es, elpais",2,Adriana Torrebejano: &quot;Es positivo ver a un personaje como el mío porque ayuda a tener referentes y a que las mujeres vivan el sexo sin tabúes&quot;,2026-04-23 05:10
-llegó,3,0,5.0,100,"elpais_internacional, google_news_es, elmundo",3,"Para Aws y Yihad, la muerte llegó desde una colina de Cisjordania: “El colono disparaba a todo lo que se movía”",2026-04-23 05:10
-acusaciones,3,2,14.4,100,"google_news_es, elpais_espana, heraldo_aragon",3,Rajoy se enfrenta en el juicio de Kitchen a las acusaciones de su extesorero Bárcenas - EL PAÍS,2026-04-23 05:10
-sociedad,3,5,5.76,100,"google_news_es, elpais",2,"Haifaa al-Mansour, cineasta de Arabia Saudí: “Me sirvo del género policiaco para mostrar la sociedad de mi país” - EL PAÍS",2026-04-23 05:10
-condenado,3,5,5.76,100,"elpais, 20minutos, elespanol",3,"El tipo más idiota de internet, condenado a seis meses de cárcel",2026-04-23 05:10
-pentágono,3,4,7.2,100,"google_news_es, elpais, google_news_internacional",3,Destituyen al secretario de Marina de EE.UU. tras meses de disputas en el Pentágono - RTVE.es,2026-04-23 05:10
-reconstrucción,3,0,5.0,100,"elconfidencial, elcorreo",2,Historia de una reconstrucción: 'Sumando energías por Valencia',2026-04-23 05:10
-restaurante,4,2,19.2,100,"heraldo_aragon, 20minutos, elespanol",3,"El restaurante de Zaragoza con una mención especial en los Premios Horeca 2026: ""Cocina sorprendente con un servicio profesional y cercano""",2026-04-23 05:10
-colapso,3,5,5.76,100,"20minutos, google_news_internacional",2,"El Gobierno se limita a dar ""criterios de interpretación"" de la regularización pese a las denuncias de colapso de los trabajadores",2026-04-23 05:10
-diferencias,3,0,5.0,100,"20minutos, elpais, google_news_internacional",3,"Inmigración, vivienda, sanidad... Diferencias y similitudes entre los acuerdos del PP y Vox en Aragón y Extremadura",2026-04-23 05:10
-singer,4,2,19.2,100,"google_news_internacional, 20minutos",2,"Se desata la locura en 'Mask Singer' con un momentazo insólito: Trancas y Barrancas, primera máscara no humana junto a una icónica estrella internacional - El Periódico",2026-04-23 05:10
-máscara,3,1,28.81,100,google_news_internacional,1,"Se desata la locura en 'Mask Singer' con un momentazo insólito: Trancas y Barrancas, primera máscara no humana junto a una icónica estrella internacional - El Periódico",2026-04-23 05:10
-benimaclet,3,0,5.0,100,levante_emv,1,De la mercería El Didal al café Latterreta: jóvenes que revitalizan el comercio local en Benimaclet,2026-04-23 05:10
-bárcenas,4,2,19.2,100,"google_news_es, huffington_es, elpais_espana",3,Mariano Rajoy testifica en el juicio del caso Kitchen tras ser señalado por Bárcenas - RTVE.es,2026-04-23 05:10
-estrella,3,5,5.76,100,google_news_internacional,1,"Se desata la locura en 'Mask Singer' con un momentazo insólito: Trancas y Barrancas, primera máscara no humana junto a una icónica estrella internacional - El Periódico",2026-04-23 05:10
-fecha,4,7,5.49,100,"google_news_internacional, 20minutos",2,Una cadena internacional con presencia en 19 países impulsa el nuevo hotel que abrirá en Vigo en la avenida de Madrid y pone fecha a su apertura - Faro de Vigo,2026-04-23 05:10
-jueves,7,13,5.17,100,"okdiario, eldiario, levante_emv",3,"Predicción del horóscopo para Géminis hoy, jueves 23 de abril de 2026",2026-04-23 05:10
-alquiler,9,16,5.4,100,"eldiario, infolibre, levante_emv, elpais, google_news_economia",5,El pequeño casero con solo una vivienda en alquiler va a la baja: apenas controla el 40% del mercado,2026-04-23 05:10
-comprar,3,5,5.76,100,elpais,1,Los perfumes de marca que puedes comprar por menos de 40 euros para regalar el Día de la Madre,2026-04-23 05:10
-terzic,3,0,5.0,100,elcorreo,1,"Edin Terzic: mentalidad alemana, pasión balcánica",2026-04-23 05:10
-conversation,3,0,5.0,100,google_news_es,1,"Gonzalo Celorio, Premio Cervantes 2025: la escritura como memoria - The Conversation",2026-04-23 05:10
-marina,5,4,12.0,100,"google_news_es, elpais_internacional, elpais, google_news_internacional",4,Una bacteria marina conecta la conservación de los delfines con la salud humana - The Conversation,2026-04-23 05:10
-humana,3,2,14.4,100,"google_news_es, google_news_internacional",2,Una bacteria marina conecta la conservación de los delfines con la salud humana - The Conversation,2026-04-23 05:10
-consumo,3,3,9.6,100,"huffington_es, 20minutos",2,"El &quot;mito del pequeño casero corriente&quot; es solo eso, una leyenda que ahora desmonta un estudio de Consumo y el CSIC",2026-04-23 05:10
-poder,7,15,4.48,89,"levante_emv, google_news_politica, google_news_es, elpais_espana, elpais",5,La vida en un octavo piso: cinco meses sin ascensor y el cáncer de Araceli sin poder ser tratado,2026-04-23 05:10
-salida,4,9,4.27,85,"20minutos, expansion, google_news_es",3,La UE activa el 'modo alerta' y busca hoy una salida conjunta a la crisis energética con la guerra en Irán encallada,2026-04-23 05:10
-kitchen,6,14,4.12,82,"google_news_es, elpais_espana, heraldo_aragon",3,Mariano Rajoy testifica en el juicio del caso Kitchen tras ser señalado por Bárcenas - RTVE.es,2026-04-23 05:10
-muerte,6,15,3.84,76,"elpais, elpais_internacional, google_news_es, france24_es, elmundo",5,La muerte de dos agentes de la CIA en México enciende la alarma sobre la injerencia de Estados Unidos,2026-04-23 05:10
-mucho,4,10,3.84,76,"huffington_es, okdiario, elpais, france24_es, heraldo_aragon",5,Una profesora indigna al contar lo que le hizo una madre: ocurre mucho más de lo que parece,2026-04-23 05:10
-piden,3,8,3.6,72,"huffington_es, heraldo_aragon, 20minutos",3,"Los vecinos de Barcelona piden acabar con los &#039;brunch&#039; mientras recuperan el esmorzar de forquilla, el desayuno obrero catalán del siglo XIX",2026-04-23 05:10
-forma,4,12,3.2,64,"efe, france24_es, okdiario, elpais, heraldo_aragon",5,El Gobierno someterá a información pública el informe sobre el estado de conservación del lobo,2026-04-23 05:10
-noticias,3,9,3.2,64,"infolibre, elpais, huffington_es, google_news_internacional",4,"Las noticias falsas, ¿son libertad de expresión?",2026-04-23 05:10
-secretario,3,9,3.2,64,"google_news_es, elpais, google_news_internacional",3,Destituyen al secretario de Marina de EE.UU. tras meses de disputas en el Pentágono - RTVE.es,2026-04-23 05:10
-mitad,3,9,3.2,64,"huffington_es, elpais, google_news_economia",3,Alquilar una habitación en Madrid ya es misión imposible: el precio medio de un cuarto en la capital es la mitad del salario mínimo,2026-04-23 05:10
-corrupción,4,12,3.2,64,"google_news_es, elpais_espana, elconfidencial, elmundo",4,Kitchen devuelve el foco a la corrupción que sacó del poder al PP - EL PAÍS,2026-04-23 05:10
-puedes,5,16,3.0,60,"elpais, heraldo_aragon, 20minutos",3,Los perfumes de marca que puedes comprar por menos de 40 euros para regalar el Día de la Madre,2026-04-23 05:10
-madre,4,13,2.95,59,"elpais, huffington_es",2,Los perfumes de marca que puedes comprar por menos de 40 euros para regalar el Día de la Madre,2026-04-23 05:10
-queroseno,3,10,2.88,57,"20minutos, google_news_economia, elespanol",3,Estas son las aerolíneas que han subido ya sus precios o suspendido vuelos tras la subida del queroseno,2026-04-23 05:10
-fondos,3,10,2.88,57,"elpais, elespanol, google_news_politica",3,La crisis existencial de los diseñadores de moda: entre la dictadura del ‘scroll’ y la codicia de los fondos de inversión,2026-04-23 05:10
-viviendas,4,14,2.74,54,"elpais, google_news_economia, 20minutos",3,Más de la mitad de los caseros en España tienen dos o más viviendas en alquiler,2026-04-23 05:10
-mercado,4,14,2.74,54,"eldiario, infolibre, levante_emv",3,El pequeño casero con solo una vivienda en alquiler va a la baja: apenas controla el 40% del mercado,2026-04-23 05:10
-horas,6,21,2.74,54,"huffington_es, levante_emv, okdiario",3,"Jaime, residente mallorquín de 27 años: &quot;He llegado a llorar de la desesperación buscando aparcamiento durante más de dos horas&quot;",2026-04-23 05:10
-gandia,3,11,2.62,52,levante_emv,1,Se enfrenta a cuatro años de cárcel tras ofertar por internet un alquiler falso en Gandia,2026-04-23 05:10
-diario,6,22,2.62,52,"okdiario, google_news_internacional, google_news_economia, google_news_es, elcorreo",5,"Horóscopo diario gratis: la predicción para hoy, jueves 23 de abril",2026-04-23 05:10
-propone,3,11,2.62,52,"france24_es, google_news_es, elcorreo",3,Mundial 2026: un aliado de Trump propone incluir a la eliminada Italia en el lugar de Irán,2026-04-23 05:10
-meses,8,30,2.56,51,"levante_emv, elpais, google_news_es, elespanol, google_news_politica",5,"Condiciones para entrar en Volkswagen Valencia: dos meses en China, doble pago por horas extras y turnos americanos",2026-04-23 05:10
-fiscal,4,15,2.56,51,"heraldo_aragon, 20minutos, google_news_economia, elmundo, france24_es",5,La rebaja fiscal y la batalla de Vox contra la inmigración marcan el pacto con el PP en Aragón,2026-04-23 05:10
-mundial,4,15,2.56,51,"france24_es, google_news_es, elcorreo",3,Mundial 2026: un aliado de Trump propone incluir a la eliminada Italia en el lugar de Irán,2026-04-23 05:10
-valencia,5,19,2.53,50,"levante_emv, google_news_internacional, elconfidencial",3,La historia del Valencia CF en Primera: 3.000 partidos entre la gloria pasada y la mediocridad actual,2026-04-23 05:10
-precios,6,23,2.5,50,"elpais, france24_es, 20minutos, heraldo_aragon",4,"Warren Patterson (ING): “Si el suministro de petróleo no empieza a retomarse la próxima semana, veremos precios mucho más altos”",2026-04-23 05:10
-busca,6,23,2.5,50,"huffington_es, eldiario, el_confidencial_tech, elpais_internacional, 20minutos",5,"Jaime, residente mallorquín de 27 años: &quot;He llegado a llorar de la desesperación buscando aparcamiento durante más de dos horas&quot;",2026-04-23 05:10
-crisis,7,27,2.49,49,"elpais_internacional, google_news_es, elpais, 20minutos, france24_es",5,La última amenaza incumplida de Trump en Irán ahonda su crisis interna en Estados Unidos,2026-04-23 05:10
-trabajar,3,12,2.4,48,"google_news_economia, okdiario",2,Trabajar en España sale más caro que en la mayoría de la OCDE - Diario de León,2026-04-23 05:10
-horóscopo,4,16,2.4,48,"okdiario, elcorreo",2,"Predicción del horóscopo para Géminis hoy, jueves 23 de abril de 2026",2026-04-23 05:10
-junts,5,21,2.29,45,"elpais, 20minutos, elconfidencial, elmundo",4,"Alcaldes desbordados, la presión de la ultraderecha y el catalán impulsan el no de Junts a la regularizacion",2026-04-23 05:10
-mallorca,3,13,2.22,44,"google_news_internacional, okdiario",2,Autoclick: una estafa internacional de 20 millones de euros cometida desde Mallorca - Diario de Mallorca,2026-04-23 05:10
-alerta,3,13,2.22,44,"okdiario, 20minutos",2,La AEMET activa la alerta amarilla en Alicante por viento y olas de 3 metros,2026-04-23 05:10
-menor,3,13,2.22,44,"elpais, 20minutos, elespanol, elmundo_internacional",4,"Juicio exprés por la muerte de Iliass Tahiri, el joven de 18 años asfixiado hace siete años en el centro de menores de Oria (Almería)",2026-04-23 05:10
-predicción,3,13,2.22,44,okdiario,1,"Predicción del horóscopo para Géminis hoy, jueves 23 de abril de 2026",2026-04-23 05:10
-menos,7,31,2.17,43,"elpais, eldiario, france24_es, heraldo_aragon, levante_emv",5,Los perfumes de marca que puedes comprar por menos de 40 euros para regalar el Día de la Madre,2026-04-23 05:10
-gratis,3,14,2.06,41,"okdiario, 20minutos",2,"Horóscopo diario gratis: la predicción para hoy, jueves 23 de abril",2026-04-23 05:10
-electoral,3,14,2.06,41,"20minutos, elespanol, france24_es",3,Piden en Perú detener al jefe electoral y abre el debate sobre anular los comicios o repetir la votación,2026-04-23 05:10
-valència,3,14,2.06,41,levante_emv,1,"Compromís denuncia el ""falso"" refuerzo de València para la regularización de migrantes",2026-04-23 05:10
-vuelve,4,19,2.02,40,"eldiario, levante_emv, google_news_es, elpais_espana, elpais",5,Las lluvias y tormentas vuelven este jueves a la Comunidad de Madrid,2026-04-23 05:10
+estrella,3,5,5.11,100,"okdiario, google_news_internacional",2,"La Noche de los Libros: Madrid, una biblioteca infinita bajo las estrellas",2026-04-23 05:39
+alquiler,12,14,7.3,100,"elcorreo, google_news_economia, eldiario, infolibre, levante_emv",5,El 60% del alquiler en España está en manos de caseros con dos o más viviendas,2026-04-23 05:39
+caseros,4,1,34.06,100,"elcorreo, google_news_economia, elpais",3,El 60% del alquiler en España está en manos de caseros con dos o más viviendas,2026-04-23 05:39
+desata,3,3,8.51,100,"20minutos, google_news_internacional",2,MrBeast desata el caos en un supermercado con su último reto: un millón de dólares por encerrarse en él,2026-04-23 05:39
+último,3,4,6.39,100,"20minutos, levante_emv, heraldo_aragon",3,MrBeast desata el caos en un supermercado con su último reto: un millón de dólares por encerrarse en él,2026-04-23 05:39
+condenado,4,5,6.81,100,"elpais, 20minutos, elespanol",3,"El tipo más idiota de internet, condenado a seis meses de cárcel",2026-04-23 05:39
+gestionar,3,4,6.39,100,"20minutos, efe, elpais",3,"Àngel Llàcer: ""Haber estado enfermo me ha servido muchísimo para gestionar mis síes y mis noes""",2026-04-23 05:39
+títulos,3,2,12.77,100,"20minutos, infolibre, google_news_internacional",3,"23 títulos de la A a la Z para celebrar, leyendo, el Día del Libro y de Sant Jordi",2026-04-23 05:39
+nestlé,3,2,12.77,100,"google_news_es, 20minutos",2,Nestlé España anuncia un ERE que afectará a un máximo de 301 empleados - industrytalks.es,2026-04-23 05:39
+vuelven,3,4,6.39,100,"okdiario, eldiario, elpais",3,Los perros que se alegran mucho cuando sus dueños vuelven a casa no es porque estén contentos: es algo peor,2026-04-23 05:39
+sociedad,3,5,5.11,100,"google_news_es, elpais",2,"Haifaa al-Mansour, cineasta de Arabia Saudí: “Me sirvo del género policiaco para mostrar la sociedad de mi país” - EL PAÍS",2026-04-23 05:39
+llegó,3,0,5.0,100,"elpais_internacional, google_news_es, elmundo",3,"Para Aws y Yihad, la muerte llegó desde una colina de Cisjordania: “El colono disparaba a todo lo que se movía”",2026-04-23 05:39
+mujeres,5,6,7.1,100,"huffington_es, elpais, 20minutos",3,Adriana Torrebejano: &quot;Es positivo ver a un personaje como el mío porque ayuda a tener referentes y a que las mujeres vivan el sexo sin tabúes&quot;,2026-04-23 05:39
+lugar,4,4,8.51,100,"huffington_es, okdiario, elpais, france24_es, google_news_es",5,Comparten las costumbres españolas que más sorprenden fuera: &quot;En otros lugares no le encuentran el sentido&quot;,2026-04-23 05:39
+10.000,3,2,12.77,100,"okdiario, 20minutos",2,La tormenta ‘El Niño’ que llega a África puede llevar el cacao a máximos históricos de 10.000 € la tonelada,2026-04-23 05:39
+socialista,3,5,5.11,100,"okdiario, elmundo, elespanol",3,Cercedilla convierte en urbanizable una finca rústica protegida del concejal socialista de Medio Ambiente,2026-04-23 05:39
+viaje,3,3,8.51,100,"france24_es, okdiario, 20minutos",3,Luis Díaz marca y sentencia el viaje del Bayern a la final de la Copa,2026-04-23 05:39
+comprar,3,5,5.11,100,elpais,1,Los perfumes de marca que puedes comprar por menos de 40 euros para regalar el Día de la Madre,2026-04-23 05:39
+inagotable,3,0,5.0,100,"el_confidencial_tech, elpais, google_news_es",3,Canadá busca en las profundidades de sus minas de carbón y encuentra una energía limpia e inagotable,2026-04-23 05:39
+conversation,3,0,5.0,100,google_news_es,1,"Gonzalo Celorio, Premio Cervantes 2025: la escritura como memoria - The Conversation",2026-04-23 05:39
+humana,3,2,12.77,100,"google_news_es, google_news_internacional",2,Una bacteria marina conecta la conservación de los delfines con la salud humana - The Conversation,2026-04-23 05:39
+enfrenta,3,4,6.39,100,"levante_emv, google_news_es, elpais_espana",3,Se enfrenta a cuatro años de cárcel tras ofertar por internet un alquiler falso en Gandia,2026-04-23 05:39
+benimaclet,3,0,5.0,100,levante_emv,1,De la mercería El Didal al café Latterreta: jóvenes que revitalizan el comercio local en Benimaclet,2026-04-23 05:39
+consumo,3,3,8.51,100,"huffington_es, 20minutos",2,"El &quot;mito del pequeño casero corriente&quot; es solo eso, una leyenda que ahora desmonta un estudio de Consumo y el CSIC",2026-04-23 05:39
+fecha,4,6,5.68,100,"google_news_internacional, 20minutos",2,Una cadena internacional con presencia en 19 países impulsa el nuevo hotel que abrirá en Vigo en la avenida de Madrid y pone fecha a su apertura - Faro de Vigo,2026-04-23 05:39
+manos,3,4,6.39,100,"elcorreo, google_news_economia, infolibre",3,El 60% del alquiler en España está en manos de caseros con dos o más viviendas,2026-04-23 05:39
+multiarrendadores,3,0,5.0,100,"infolibre, 20minutos",2,Casi dos tercios del mercado del alquiler en España está en manos de multiarrendadores,2026-04-23 05:39
+extraditado,3,1,25.54,100,"20minutos, elespanol",2,El profesor gallego condenado por violar a una menor es extraditado de Cuba a España,2026-04-23 05:39
+diferencias,4,0,5.0,100,"huffington_es, 20minutos, elpais, google_news_internacional",4,Nuevo terremoto en el Pentágono: echan al secretario de la Marina por diferencias con Hegseth,2026-04-23 05:39
+marina,9,4,19.16,100,"huffington_es, 20minutos, google_news_es, eldiario, elpais_internacional",5,Nuevo terremoto en el Pentágono: echan al secretario de la Marina por diferencias con Hegseth,2026-04-23 05:39
+restaurante,4,2,17.03,100,"heraldo_aragon, 20minutos, elespanol",3,"El restaurante de Zaragoza con una mención especial en los Premios Horeca 2026: ""Cocina sorprendente con un servicio profesional y cercano""",2026-04-23 05:39
+prevé,3,5,5.11,100,"okdiario, eldiario",2,"Castilla y León: AEMET prevé lluvias y nubes, con cambios en temperaturas y viento hoy",2026-04-23 05:39
+lluvias,4,3,11.35,100,"okdiario, eldiario",2,"Castilla y León: AEMET prevé lluvias y nubes, con cambios en temperaturas y viento hoy",2026-04-23 05:39
+viento,3,2,12.77,100,okdiario,1,"Castilla y León: AEMET prevé lluvias y nubes, con cambios en temperaturas y viento hoy",2026-04-23 05:39
+secretario,6,9,5.68,100,"huffington_es, 20minutos, eldiario, google_news_es, elpais",5,Nuevo terremoto en el Pentágono: echan al secretario de la Marina por diferencias con Hegseth,2026-04-23 05:39
+ilegales,3,2,12.77,100,"levante_emv, okdiario",2,"Las 13 medidas de PP y Vox para gobernar en Aragón: de trabajar para repatriar menores ""ilegales"" a construir 4.000 viviendas públicas más",2026-04-23 05:39
+pentágono,6,4,12.77,100,"huffington_es, 20minutos, eldiario, google_news_es, elpais",5,Nuevo terremoto en el Pentágono: echan al secretario de la Marina por diferencias con Hegseth,2026-04-23 05:39
+colapso,3,5,5.11,100,"20minutos, google_news_internacional",2,"El Gobierno se limita a dar ""criterios de interpretación"" de la regularización pese a las denuncias de colapso de los trabajadores",2026-04-23 05:39
+hegseth,4,0,5.0,100,"huffington_es, eldiario, elpais, google_news_internacional",4,Nuevo terremoto en el Pentágono: echan al secretario de la Marina por diferencias con Hegseth,2026-04-23 05:39
+jueves,9,13,5.89,100,"okdiario, eldiario, levante_emv",3,"Predicción del horóscopo para Leo hoy, jueves 23 de abril de 2026",2026-04-23 05:39
+rajoy,7,6,9.93,100,"elcorreo, levante_emv, google_news_es, huffington_es, elpais_espana",5,Rajoy declara hoy en el juicio de 'Kitchen' tras las graves acusaciones de Bárcenas,2026-04-23 05:39
+graves,3,0,5.0,100,"elcorreo, heraldo_aragon, 20minutos",3,Rajoy declara hoy en el juicio de 'Kitchen' tras las graves acusaciones de Bárcenas,2026-04-23 05:39
+acusaciones,4,2,17.03,100,"elcorreo, google_news_es, elpais_espana, heraldo_aragon",4,Rajoy declara hoy en el juicio de 'Kitchen' tras las graves acusaciones de Bárcenas,2026-04-23 05:39
+bárcenas,5,2,21.29,100,"elcorreo, google_news_es, huffington_es, elpais_espana",4,Rajoy declara hoy en el juicio de 'Kitchen' tras las graves acusaciones de Bárcenas,2026-04-23 05:39
+mercadona,3,4,6.39,100,"google_news_economia, okdiario, levante_emv",3,Los proveedores de Mercadona en España y Portugal disparan sus inversiones un 31% al llegar a 1.700 millones - El Periódico,2026-04-23 05:39
+kitchen,8,14,4.87,97,"elcorreo, levante_emv, google_news_es, elpais_espana, heraldo_aragon",5,Rajoy declara hoy en el juicio de 'Kitchen' tras las graves acusaciones de Bárcenas,2026-04-23 05:39
+activa,4,7,4.87,97,"okdiario, levante_emv, 20minutos",3,La AEMET activa la alerta amarilla en Alicante por viento y olas de 3 metros,2026-04-23 05:39
+violar,3,6,4.26,85,"20minutos, elespanol",2,El profesor gallego condenado por violar a una menor es extraditado de Cuba a España,2026-04-23 05:39
+viviendas,7,14,4.26,85,"levante_emv, elcorreo, google_news_economia, elpais, 20minutos",5,"Las 13 medidas de PP y Vox para gobernar en Aragón: de trabajar para repatriar menores ""ilegales"" a construir 4.000 viviendas públicas más",2026-04-23 05:39
+metros,3,6,4.26,85,"okdiario, eldiario, heraldo_aragon",3,"La Comunidad Valenciana en alerta por tormentas, olas de tres metros y granizo",2026-04-23 05:39
+profesor,3,6,4.26,85,"huffington_es, 20minutos, elespanol",3,Una profesora indigna al contar lo que le hizo una madre: ocurre mucho más de lo que parece,2026-04-23 05:39
+noticias,4,8,4.26,85,"infolibre, elpais, huffington_es, 20minutos, google_news_internacional",5,"Las noticias falsas, ¿son libertad de expresión?",2026-04-23 05:39
+mucho,5,10,4.26,85,"okdiario, huffington_es, elpais, france24_es, heraldo_aragon",5,Los perros que se alegran mucho cuando sus dueños vuelven a casa no es porque estén contentos: es algo peor,2026-04-23 05:39
+poder,7,15,3.97,79,"levante_emv, google_news_politica, google_news_es, elpais_espana, elpais",5,La vida en un octavo piso: cinco meses sin ascensor y el cáncer de Araceli sin poder ser tratado,2026-04-23 05:39
+madre,6,13,3.93,78,"okdiario, elcorreo, elpais, huffington_es",4,Historia y origen del Día de la Madre: por qué se celebra el primer domingo de mayo,2026-04-23 05:39
+periódico,3,7,3.65,72,"google_news_economia, google_news_internacional",2,Los proveedores de Mercadona en España y Portugal disparan sus inversiones un 31% al llegar a 1.700 millones - El Periódico,2026-04-23 05:39
+impacto,3,7,3.65,72,"levante_emv, okdiario, 20minutos",3,"Un informe de la US Navy cifra en 278,7 millones de euros anuales el impacto de la base de Rota en la economía española",2026-04-23 05:39
+forma,5,12,3.55,70,"okdiario, efe, levante_emv, france24_es, elpais",5,Mercadona dice adiós a la pescadería de siempre y adopta un formato que asegura productos más frescos y de mayor calidad,2026-04-23 05:39
+muerte,6,15,3.41,68,"elpais, elpais_internacional, google_news_es, france24_es, elmundo",5,La muerte de dos agentes de la CIA en México enciende la alarma sobre la injerencia de Estados Unidos,2026-04-23 05:39
+porque,4,10,3.41,68,"20minutos, okdiario, huffington_es, elconfidencial",4,"Naiara (OT 2023) aclara por qué canceló su gira: ""No era partidaria porque aún no tenía mi disco acabado""",2026-04-23 05:39
+predicción,5,13,3.27,65,okdiario,1,"Predicción del horóscopo para Leo hoy, jueves 23 de abril de 2026",2026-04-23 05:39
+piden,3,8,3.19,63,"huffington_es, heraldo_aragon, 20minutos",3,"Los vecinos de Barcelona piden acabar con los &#039;brunch&#039; mientras recuperan el esmorzar de forquilla, el desayuno obrero catalán del siglo XIX",2026-04-23 05:39
+pisos,3,8,3.19,63,"elcorreo, okdiario",2,Las inmobiliarias alertan de la retirada de pisos para alquilar en Bizkaia tras la limitación de precios,2026-04-23 05:39
+meses,11,30,3.12,62,"20minutos, eldiario, levante_emv, elpais, google_news_es",5,"El AVE a Málaga reabre para el Puente de Mayo y retoma la circulación el 30 de abril, tres meses y medio después",2026-04-23 05:39
+aemet,4,11,3.1,61,okdiario,1,"Castilla y León: AEMET prevé lluvias y nubes, con cambios en temperaturas y viento hoy",2026-04-23 05:39
+propone,4,11,3.1,61,"elcorreo, france24_es, google_news_es",3,EE UU propone sustituir a Irán por Italia en el Mundial,2026-04-23 05:39
+mercado,5,14,3.04,60,"google_news_economia, okdiario, 20minutos, eldiario, infolibre",5,Los proveedores de Mercadona en España y Portugal disparan sus inversiones un 31% al llegar a 1.700 millones - El Periódico,2026-04-23 05:39
+trabajar,4,12,2.84,56,"levante_emv, google_news_economia, okdiario",3,"Las 13 medidas de PP y Vox para gobernar en Aragón: de trabajar para repatriar menores ""ilegales"" a construir 4.000 viviendas públicas más",2026-04-23 05:39
+mitad,3,9,2.84,56,"huffington_es, elpais, google_news_economia",3,Alquilar una habitación en Madrid ya es misión imposible: el precio medio de un cuarto en la capital es la mitad del salario mínimo,2026-04-23 05:39
+mundial,5,15,2.84,56,"elcorreo, france24_es, google_news_es",3,EE UU propone sustituir a Irán por Italia en el Mundial,2026-04-23 05:39
+haber,3,9,2.84,56,"20minutos, el_confidencial_tech, huffington_es",3,"Àngel Llàcer: ""Haber estado enfermo me ha servido muchísimo para gestionar mis síes y mis noes""",2026-04-23 05:39
+corrupción,4,12,2.84,56,"google_news_es, elpais_espana, elconfidencial, elmundo",4,Kitchen devuelve el foco a la corrupción que sacó del poder al PP - EL PAÍS,2026-04-23 05:39
+valencia,6,19,2.69,53,"okdiario, levante_emv, google_news_internacional, elconfidencial",4,"La Comunidad Valenciana en alerta por tormentas, olas de tres metros y granizo",2026-04-23 05:39
+horóscopo,5,16,2.66,53,okdiario,1,"Predicción del horóscopo para Leo hoy, jueves 23 de abril de 2026",2026-04-23 05:39
+puedes,5,16,2.66,53,"elpais, heraldo_aragon, 20minutos",3,Los perfumes de marca que puedes comprar por menos de 40 euros para regalar el Día de la Madre,2026-04-23 05:39
+menor,4,13,2.62,52,"levante_emv, elpais, 20minutos, elespanol",4,"Las 13 medidas de PP y Vox para gobernar en Aragón: de trabajar para repatriar menores ""ilegales"" a construir 4.000 viviendas públicas más",2026-04-23 05:39
+alerta,4,13,2.62,52,"okdiario, elcorreo, 20minutos",3,"La Comunidad Valenciana en alerta por tormentas, olas de tres metros y granizo",2026-04-23 05:39
+niega,3,10,2.55,51,"elpais, levante_emv, 20minutos",3,"Quiero solicitar la prórroga del alquiler, ¿qué pasa si el propietario se niega a recibir el burofax?",2026-04-23 05:39
+queroseno,3,10,2.55,51,"20minutos, google_news_economia, elespanol",3,Estas son las aerolíneas que han subido ya sus precios o suspendido vuelos tras la subida del queroseno,2026-04-23 05:39
+precios,7,23,2.59,51,"elcorreo, elpais, france24_es, 20minutos, heraldo_aragon",5,Las inmobiliarias alertan de la retirada de pisos para alquilar en Bizkaia tras la limitación de precios,2026-04-23 05:39
+fondos,3,10,2.55,51,"elpais, elespanol, google_news_politica",3,La crisis existencial de los diseñadores de moda: entre la dictadura del ‘scroll’ y la codicia de los fondos de inversión,2026-04-23 05:39
+horas,6,21,2.43,48,"huffington_es, levante_emv, okdiario",3,"Jaime, residente mallorquín de 27 años: &quot;He llegado a llorar de la desesperación buscando aparcamiento durante más de dos horas&quot;",2026-04-23 05:39
+rodríguez,3,11,2.32,46,"huffington_es, 20minutos, france24_es",3,"Nacho Rodríguez, arquitecto: &quot;En aras de la vocación también se socava la dignidad del profesional&quot;",2026-04-23 05:39
+salida,3,11,2.32,46,"google_news_es, 20minutos",2,Digi aplaza su salida a Bolsa ante la volatilidad del mercado por la guerra de Irán - Cinco Días,2026-04-23 05:39
+podría,3,11,2.32,46,"elcorreo, google_news_es, bbc_mundo, elmundo_internacional",4,La carga y descarga podría extenderse en Vitoria fuera del horario comercial,2026-04-23 05:39
+gandia,3,11,2.32,46,levante_emv,1,Se enfrenta a cuatro años de cárcel tras ofertar por internet un alquiler falso en Gandia,2026-04-23 05:39
+tormentas,3,11,2.32,46,"okdiario, eldiario",2,"La Comunidad Valenciana en alerta por tormentas, olas de tres metros y granizo",2026-04-23 05:39
+italia,4,15,2.27,45,"elcorreo, elpais, france24_es, google_news_es",4,EE UU propone sustituir a Irán por Italia en el Mundial,2026-04-23 05:39
+fiscal,4,15,2.27,45,"heraldo_aragon, 20minutos, google_news_economia, elmundo, france24_es",5,La rebaja fiscal y la batalla de Vox contra la inmigración marcan el pacto con el PP en Aragón,2026-04-23 05:39
+busca,6,23,2.22,44,"levante_emv, okdiario, huffington_es, eldiario, el_confidencial_tech",5,Begoña Gómez sostiene con una pericial que podía dirigir la cátedra y buscar financiación pese a ser ajena a la Complutense,2026-04-23 05:39
+crisis,7,27,2.21,44,"elpais_internacional, google_news_es, elpais, 20minutos, france24_es",5,La última amenaza incumplida de Trump en Irán ahonda su crisis interna en Estados Unidos,2026-04-23 05:39
+libros,4,16,2.13,42,"okdiario, elpais",2,"La Noche de los Libros: Madrid, una biblioteca infinita bajo las estrellas",2026-04-23 05:39
+polémica,3,12,2.13,42,"20minutos, france24_es, elmundo",3,"""Llegaron los monos"": la irónica camiseta con la que Delcy Rodríguez responde a la polémica con Carlos Baute",2026-04-23 05:39
+junts,5,21,2.03,40,"elpais, 20minutos, elconfidencial, elmundo",4,"Alcaldes desbordados, la presión de la ultraderecha y el catalán impulsan el no de Junts a la regularizacion",2026-04-23 05:39
+tiempo,5,21,2.03,40,"levante_emv, eldiario, elpais",3,"Llega Oférica, la forma más rápida de encontrar ofertas, descuentos y catálogos en Valencia sin perder tiempo",2026-04-23 05:39
