@@ -1,246 +1,219 @@
 keyword,count_now,count_base,ratio,viral_score,sources,n_sources,sample_title,detected_at
-joven,16,10,8.3,100,"google_news_es, levante_emv, 20minutos, elmundo, lavanguardia",5,Muere un joven de 17 años tras ser apuñalado en Puente de Vallecas (Madrid): el agresor circulaba en patinete - Infobae,2026-04-24 21:09
-sagunt,3,3,5.19,100,"20minutos, levante_emv",2,La Policía investiga la desaparición de una menor de 12 años en Sagunto,2026-04-24 21:09
-áfrica,3,3,5.19,100,"20minutos, google_news_es, bbc_mundo",3,Muere atacado por cinco elefantes un millonario que era experto cazando animales salvajes en África,2026-04-24 21:09
-ofensiva,4,0,5.0,100,"europapress, okdiario, google_news_internacional, elcorreo",4,"El Pentágono dará a Trump ""opciones creíbles"" para responder a la inacción de países de la OTAN en la ofensiva en Irán",2026-04-24 21:09
-anthropic,3,1,15.57,100,"expansion, levante_emv, 20minutos",3,Google planea invertir hasta 40.000 millones de dólares en Anthropic,2026-04-24 21:09
-limpieza,3,3,5.19,100,"elcorreo, sur",2,Acciona asumirá desde junio y durante una década la limpieza de Vitoria,2026-04-24 21:09
-ejecución,4,1,20.76,100,"20minutos, elmundo_internacional, levante_emv, heraldo_aragon",4,Estados Unidos restablecerá el pelotón de fusilamiento como método de ejecución,2026-04-24 21:09
-puñaladas,4,0,5.0,100,"elespanol, huffington_es, elpais",3,El trinitario Diler paseaba con su novia por Vallecas cuando un ñeta en patinete le asestó al menos dos puñaladas y lo mató,2026-04-24 21:09
-estarán,4,0,5.0,100,"heraldo_aragon, elconfidencial, europapress",3,"Guardiola toma posesión como presidenta de Extremadura: ""Los derechos no estarán sometidos a ningún vaivén político""",2026-04-24 21:09
-tenista,4,0,5.0,100,"google_news_es, france24_es, 20minutos",3,El tenista español Carlos Alcaraz anuncia que no jugará en Roland Garros - Yahoo,2026-04-24 21:09
-jugará,6,1,31.14,100,"google_news_es, heraldo_aragon, france24_es, elespanol, levante_emv",5,El tenista español Carlos Alcaraz anuncia que no jugará en Roland Garros - Yahoo,2026-04-24 21:09
-witkoff,5,3,8.65,100,"heraldo_aragon, elespanol, huffington_es, google_news_es, lavanguardia",5,La Casa Blanca envía a Witkoff y Kushner a Pakistán para la negociación con Irán,2026-04-24 21:09
-periódico,7,6,6.06,100,"google_news_economia, google_news_internacional",2,MG elige a España para su nueva fábrica de coches eléctricos y rompe con la apuesta por Hungría - El Periódico,2026-04-24 21:09
-kushner,4,3,6.92,100,"heraldo_aragon, elespanol, google_news_es, lavanguardia",4,La Casa Blanca envía a Witkoff y Kushner a Pakistán para la negociación con Irán,2026-04-24 21:09
-acaba,4,4,5.19,100,"okdiario, google_news_internacional",2,"Àngel Llàcer: su edad, su pareja actual y la enfermedad que casi acaba con su vida",2026-04-24 21:09
-investidura,3,0,5.0,100,"20minutos, heraldo_aragon, elespanol",3,La investidura de Azcón como presidente de Aragón será los días 28 y 29 de abril,2026-04-24 21:09
-azcón,6,1,31.14,100,"20minutos, lavanguardia, heraldo_aragon, elespanol",4,La investidura de Azcón como presidente de Aragón será los días 28 y 29 de abril,2026-04-24 21:09
-miedo,3,3,5.19,100,"elcorreo, lavanguardia, elespanol",3,"Una historia de «hambre, miedo y sumisión»",2026-04-24 21:09
-pista,3,3,5.19,100,"google_news_economia, huffington_es, levante_emv",3,"El ""pistacho ibérico"" vive su mejor momento con Irán fuera de juego por la guerra y el cierre de Ormuz - LaSexta",2026-04-24 21:09
-valenciano,6,6,5.19,100,"levante_emv, elmundo",2,Juristes Valencians pide reactivar la reformar constitucional para recuperar el derecho civil valenciano,2026-04-24 21:09
-lunin,3,0,5.0,100,"20minutos, elpais",2,Vinícius y un Lunin estelar mantienen al Madrid por delante en el Villamarín,2026-04-24 21:09
-islas,3,3,5.19,100,"elmundo, okdiario",2,Argentina expectante ante la posibilidad de que Trump castigue al Reino Unido y deje de apoyarlo en la disputa por las Islas Malvinas,2026-04-24 21:09
-corte,3,2,7.79,100,"google_news_internacional, heraldo_aragon, levante_emv",3,La Corte Penal Internacional dictamina que el expresidente de Filipinas Rodrigo Duterte debe ser juzgado por crímenes de lesa humanidad - Democracy Now!,2026-04-24 21:09
-federales,3,0,5.0,100,"france24_es, elpais, google_news_internacional",3,Estados Unidos reintroduce pelotones de fusilamiento y la inyección letal para ejecuciones federales,2026-04-24 21:09
-aliados,4,3,6.92,100,"sur, heraldo_aragon",2,"La OTAN, una organización sin tarjeta roja para expulsar a sus aliados",2026-04-24 21:09
-elige,7,4,9.08,100,"huffington_es, levante_emv, google_news_economia, el_confidencial_tech, lavanguardia",5,"España, EEUU, Alemania, Japón, Reino Unido y otros cinco países coinciden: los hackers chinos usan los routers y frigoríficos inteligentes de los hogares para atacar infraestructuras occidentales",2026-04-24 21:09
-presidente,9,9,5.19,100,"google_news_es, google_news_internacional, levante_emv, 20minutos, lavanguardia",5,Declaración del presidente António Costa tras la reunión con los socios regionales - consilium.europa.eu,2026-04-24 21:09
-secretario,3,3,5.19,100,"google_news_es, levante_emv, okdiario",3,"Abascal acusa al secretario de la Conferencia Episcopal de actuar por ""negocio"" con la inmigración - RTVE.es",2026-04-24 21:09
-presidenta,4,1,20.76,100,"google_news_es, heraldo_aragon, europapress, france24_es",4,"Guardiola toma posesión como presidenta de Extremadura con el apoyo de Vox: ""Nuestros derechos no van a estar - LaSexta",2026-04-24 21:09
-online,5,3,8.65,100,"okdiario, google_news_internacional, google_news_es",3,Atlético de Madrid – Athletic Club: horario y cómo ver por TV en directo y en vivo online gratis el partido de la Liga,2026-04-24 21:09
-belleza,4,1,20.76,100,"huffington_es, 20minutos, elmundo, google_news_internacional",4,"No es solo belleza, es industria: la potencia de la cosmética y la perfumería españolas, que exportan más que el vino y el aceite",2026-04-24 21:09
-cuponazo,3,0,5.0,100,"elcorreo, elespanol, okdiario",3,El Cuponazo de la ONCE del viernes: comprobar resultados del 24 de abril,2026-04-24 21:09
-sociedad,4,3,6.92,100,"levante_emv, 20minutos, elcorreo, elpais",4,La sociedad falla-artista más imparable del momento renueva para 2027,2026-04-24 21:09
-político,8,2,20.76,100,"elcorreo, elpais, google_news_internacional, levante_emv, heraldo_aragon",5,María Guardiola: «Nuestros derechos no van a estar sometidos a ningún vaivén político»,2026-04-24 21:09
-mundiario,3,1,15.57,100,"google_news_internacional, google_news_economia",2,La UE frente a la crisis de Oriente Próximo: equilibrio entre derecho internacional y realismo político - MUNDIARIO,2026-04-24 21:09
-fábrica,6,3,10.38,100,"levante_emv, google_news_economia, lavanguardia, elmundo, google_news_es",5,MG elige a España para su nueva fábrica de coches eléctricos y rompe con la apuesta por Hungría,2026-04-24 21:09
-pelotones,3,0,5.0,100,"france24_es, elmundo_internacional, elespanol",3,Estados Unidos reintroduce pelotones de fusilamiento y la inyección letal para ejecuciones federales,2026-04-24 21:09
-eléctricos,3,3,5.19,100,"levante_emv, google_news_economia, google_news_es",3,MG elige a España para su nueva fábrica de coches eléctricos y rompe con la apuesta por Hungría,2026-04-24 21:09
-apuñalado,13,3,22.49,100,"google_news_es, elcorreo, elmundo, lavanguardia, 20minutos",5,Muere un joven de 17 años tras ser apuñalado en Puente de Vallecas (Madrid): el agresor circulaba en patinete - Infobae,2026-04-24 21:09
-puente,9,5,9.34,100,"google_news_es, elmundo, sur, huffington_es, elespanol",5,Muere un joven de 17 años tras ser apuñalado en Puente de Vallecas (Madrid): el agresor circulaba en patinete - Infobae,2026-04-24 21:09
-vallecas,11,2,28.55,100,"google_news_es, elespanol, elmundo, lavanguardia, huffington_es",5,Muere un joven de 17 años tras ser apuñalado en Puente de Vallecas (Madrid): el agresor circulaba en patinete - Infobae,2026-04-24 21:09
-agresor,3,0,5.0,100,"google_news_es, elcorreo",2,Muere un joven de 17 años tras ser apuñalado en Puente de Vallecas (Madrid): el agresor circulaba en patinete - Infobae,2026-04-24 21:09
-patinete,11,1,57.09,100,"google_news_es, elespanol, elcorreo, lavanguardia, 20minutos",5,Muere un joven de 17 años tras ser apuñalado en Puente de Vallecas (Madrid): el agresor circulaba en patinete - Infobae,2026-04-24 21:09
-pakistán,15,11,7.08,100,"elcorreo, heraldo_aragon, elespanol, huffington_es, eldiario",5,Irán y Estados Unidos regresan finalmente a Pakistán para reanudar la negociación,2026-04-24 21:09
-negociación,3,2,7.79,100,"elpais, elcorreo, heraldo_aragon, elmundo",4,"Vencido el ultimátum de EE UU, Cuba advierte de que los presos políticos “no están en la mesa de negociación”",2026-04-24 21:09
-reintroduce,3,0,5.0,100,"france24_es, elpais, google_news_internacional",3,Estados Unidos reintroduce pelotones de fusilamiento y la inyección letal para ejecuciones federales,2026-04-24 21:09
-malvinas,5,0,5.0,100,"elmundo, google_news_politica, france24_es",3,Argentina expectante ante la posibilidad de que Trump castigue al Reino Unido y deje de apoyarlo en la disputa por las Islas Malvinas,2026-04-24 21:09
-investigan,5,1,25.95,100,"20minutos, heraldo_aragon, elmundo, google_news_internacional",4,Investigan una agresión sexual a un menor por parte de un trabajador en un colegio público de Torelló,2026-04-24 21:09
-bandera,3,3,5.19,100,"google_news_internacional, elpais_internacional, 20minutos",3,La UE asegura que será “parte de la solución” en Oriente Próximo pero bajo la bandera del derecho internacional - EL PAÍS,2026-04-24 21:09
-polonia,4,1,20.76,100,"okdiario, elpais_internacional, google_news_internacional",3,Putin desafía de nuevo a la OTAN con la violación del espacio aéreo de Polonia con dos cazas,2026-04-24 21:09
-críticos,3,3,5.19,100,"levante_emv, google_news_internacional, eldiario",3,"La UE y Estados Unidos anuncian una ""alianza estratégica"" sobre minerales críticos",2026-04-24 21:09
-reconoce,3,3,5.19,100,"okdiario, google_news_internacional",2,"El Torneo Vicente del Bosque de Alalpardo reconoce a Cerezo, Almeida y un sinfín de figuras deportivas",2026-04-24 21:09
-térmica,3,1,15.57,100,google_news_internacional,1,La Térmica acoge por tercer año consecutivo el Encuentro Internacional sobre Energía de Fusión - Radio Marca Málaga,2026-04-24 21:09
-carolina,3,1,15.57,100,"heraldo_aragon, elmundo, google_news_internacional",3,"Conmoción por el asesinato de Carolina Flores, una exmiss mexicana: investigan a su suegra como sospechosa",2026-04-24 21:09
-suegra,4,1,20.76,100,"heraldo_aragon, 20minutos, elmundo, google_news_internacional",4,"Conmoción por el asesinato de Carolina Flores, una exmiss mexicana: investigan a su suegra como sospechosa",2026-04-24 21:09
-playa,3,3,5.19,100,"sur, okdiario, lavanguardia, elcorreo",4,El tiempo en Málaga hoy sábado 25 de abril: Previsión y estado de las playas,2026-04-24 21:09
-exreina,3,0,5.0,100,"20minutos, elmundo, google_news_internacional",3,Investigan el asesinato de la exreina de belleza mexicana con su suegra como principal sospechosa,2026-04-24 21:09
-aficionados,3,2,7.79,100,"elpais, heraldo_aragon",2,Detenido un seguidor de la Real Sociedad que acosó en la carretera a varios aficionados del Atlético,2026-04-24 21:09
-aéreo,3,2,7.79,100,"okdiario, 20minutos",2,Putin desafía de nuevo a la OTAN con la violación del espacio aéreo de Polonia con dos cazas,2026-04-24 21:09
-cazas,4,0,5.0,100,"okdiario, elpais_internacional, google_news_internacional",3,Putin desafía de nuevo a la OTAN con la violación del espacio aéreo de Polonia con dos cazas,2026-04-24 21:09
-coruña,3,0,5.0,100,google_news_internacional,1,Estos son los ganadores del Encuentro Internacional de Jóvenes Emprendedores 2025 en A Coruña - El Español,2026-04-24 21:09
-cantante,3,3,5.19,100,"levante_emv, elcorreo, google_news_es",3,El cantante Francisco declarará ante el juez tras ser localizado por la Guardia Civil,2026-04-24 21:09
-espalda,4,1,20.76,100,"huffington_es, elpais, elespanol, levante_emv",4,Un joven mata por la espalda a un menor de edad en Puente de Vallecas (Madrid),2026-04-24 21:09
-quince,4,3,6.92,100,"20minutos, heraldo_aragon, elcorreo, infolibre, huffington_es",5,La CNMC abre quince nuevos expedientes a varias empresas en la investigación sobre el apagón masivo,2026-04-24 21:09
-marta,3,3,5.19,100,"20minutos, efe",2,"Marta López disfruta de su luna de miel en Maldivas: ""Llevamos dos días comiendo, tomando el sol y queriéndonos muchísimo""",2026-04-24 21:09
-afecta,3,3,5.19,100,"google_news_es, google_news_economia, levante_emv",3,La IA ya afecta a las consultoras: Capgemini despedirá a más del 6% de su plantilla en España - XTB.com,2026-04-24 21:09
-protegida,4,1,20.76,100,"levante_emv, google_news_economia",2,"Crisis de queroseno: ¿por qué España está más protegida, pero no se libra del golpe?",2026-04-24 21:09
-libra,4,2,10.38,100,"levante_emv, google_news_economia",2,"Crisis de queroseno: ¿por qué España está más protegida, pero no se libra del golpe?",2026-04-24 21:09
-golpe,4,4,5.19,100,"levante_emv, google_news_economia",2,"Crisis de queroseno: ¿por qué España está más protegida, pero no se libra del golpe?",2026-04-24 21:09
-vulnera,3,1,15.57,100,"heraldo_aragon, google_news_internacional, okdiario, levante_emv",4,"Amnistía Internacional denuncia que los pactos PP-Vox vulneran derechos humanos con medidas ""racistas y discriminatorias""",2026-04-24 21:09
-minerales,3,0,5.0,100,"levante_emv, google_news_internacional, eldiario",3,"La UE y Estados Unidos anuncian una ""alianza estratégica"" sobre minerales críticos",2026-04-24 21:09
-protectora,3,0,5.0,100,levante_emv,1,Abandonan a un cachorro con una lesión que le impide caminar frente a la protectora de Xàtiva,2026-04-24 21:09
-impide,3,1,15.57,100,"levante_emv, elpais",2,Abandonan a un cachorro con una lesión que le impide caminar frente a la protectora de Xàtiva,2026-04-24 21:09
-echar,3,1,15.57,100,"elpais_internacional, okdiario, google_news_politica, google_news_internacional",4,La UE y Estados Unidos buscan estrechar la colaboración en el suministro de materias primas críticas,2026-04-24 21:09
-pozuelo,3,1,15.57,100,"eldiario, elpais",2,La Justicia paraliza las obras del recinto ferial y palacio de congresos de Pozuelo,2026-04-24 21:09
-sopesa,3,1,15.57,100,"google_news_politica, france24_es",2,EE. UU. sopesa sacar a España de la OTAN y revisar su postura sobre Malvinas: ¿declaración política o medida posible? - RPP,2026-04-24 21:09
-sacar,3,3,5.19,100,"google_news_politica, france24_es",2,EE. UU. sopesa sacar a España de la OTAN y revisar su postura sobre Malvinas: ¿declaración política o medida posible? - RPP,2026-04-24 21:09
-revisar,3,2,7.79,100,"google_news_politica, france24_es",2,EE. UU. sopesa sacar a España de la OTAN y revisar su postura sobre Malvinas: ¿declaración política o medida posible? - RPP,2026-04-24 21:09
-postura,3,1,15.57,100,"google_news_politica, france24_es",2,EE. UU. sopesa sacar a España de la OTAN y revisar su postura sobre Malvinas: ¿declaración política o medida posible? - RPP,2026-04-24 21:09
-asesinato,5,4,6.49,100,"elpais, heraldo_aragon, 20minutos, elmundo, google_news_internacional",5,El hijo mayor de los Reiner escribe por primera vez del asesinato de sus padres: “Perdimos a más de la mitad de nuestra familia de la forma más violenta que se pueda imaginar”,2026-04-24 21:09
-carretera,4,3,6.92,100,"heraldo_aragon, 20minutos, elcorreo, elpais",4,Detenido un seguidor de la Real por el acoso en carretera a una furgoneta del Atlético,2026-04-24 21:09
-márquez,4,4,5.19,100,"okdiario, elcorreo, elpais",3,Álex Márquez resurge: «Necesitaba un día así»,2026-04-24 21:09
-bajos,3,3,5.19,100,"20minutos, okdiario, google_news_internacional",3,Países Bajos alerta de que el país hace frente al mayor número de amenazas en 80 años,2026-04-24 21:09
-anuncian,4,0,5.0,100,"eldiario, google_news_internacional, levante_emv",3,EEUU e Irán anuncian el regreso a las negociaciones en Pakistán,2026-04-24 21:09
-enviarán,3,0,5.0,100,"elpais, google_news_es, google_news_internacional",3,"Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | EE UU e Irán enviarán delegaciones a Pakistán para retomar los contactos",2026-04-24 21:09
-delegaciones,4,1,20.76,100,"elpais, google_news_es, google_news_internacional",3,"Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | EE UU e Irán enviarán delegaciones a Pakistán para retomar los contactos",2026-04-24 21:09
-retomar,8,0,5.0,100,"elpais, google_news_es, lavanguardia, google_news_internacional, elpais_internacional",5,"Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | EE UU e Irán enviarán delegaciones a Pakistán para retomar los contactos",2026-04-24 21:09
-contactos,3,0,5.0,100,"elpais, google_news_es, google_news_internacional",3,"Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | EE UU e Irán enviarán delegaciones a Pakistán para retomar los contactos",2026-04-24 21:09
-tercera,3,1,15.57,100,"levante_emv, elpais",2,Sinner reacciona a tiempo en su regreso a Madrid y se mete en tercera ronda,2026-04-24 21:09
-"4,29%",3,0,5.0,100,"google_news_es, 20minutos",2,"El IBEX cierra la semana con una caída del 4,29% y el barril de brent supera los cien dólares - RTVE.es",2026-04-24 21:09
-peores,3,0,5.0,100,"20minutos, google_news_es, okdiario",3,"El IBEX 35 pierde un 4,29% en la semana y registra sus peores caídas desde el inicio de la guerra de Irán",2026-04-24 21:09
-caídas,4,4,5.19,100,"20minutos, expansion",2,"El IBEX 35 pierde un 4,29% en la semana y registra sus peores caídas desde el inicio de la guerra de Irán",2026-04-24 21:09
-chino,5,1,25.95,100,"huffington_es, lavanguardia, okdiario, google_news_internacional, 20minutos",5,Giro histórico en los Marines de EEUU: abandonan las grandes bases militares ante la amenaza creciente de los misiles chinos y los drones iraníes,2026-04-24 21:09
-relaciones,4,3,6.92,100,"huffington_es, elpais, levante_emv, 20minutos",4,Trump quiere expulsar a España de la OTAN: un profesor de Relaciones Internacionales reacciona demoledor,2026-04-24 21:09
-reconocidos,3,2,7.79,100,"levante_emv, google_news_internacional",2,"Amnistía Internacional denuncia que el pacto PP-Vox en Aragón ""vulnera derechos humanos reconocidos desde hace 80 años""",2026-04-24 21:09
-guardiola,12,5,12.46,100,"elcorreo, okdiario, elmundo, elespanol, google_news_es",5,María Guardiola: «Nuestros derechos no van a estar sometidos a ningún vaivén político»,2026-04-24 21:09
-ejecuciones,5,0,5.0,100,"elcorreo, france24_es, elpais, google_news_internacional, elespanol",5,EE UU recupera el pelotón de fusilamiento para las ejecuciones,2026-04-24 21:09
-fusilamiento,10,0,5.0,100,"elcorreo, france24_es, 20minutos, elmundo_internacional, levante_emv",5,EE UU recupera el pelotón de fusilamiento para las ejecuciones,2026-04-24 21:09
-pelotón,6,0,5.0,100,"elcorreo, 20minutos, levante_emv, elpais, google_news_internacional",5,EE UU recupera el pelotón de fusilamiento para las ejecuciones,2026-04-24 21:09
-lección,4,0,5.0,100,"elmundo, 20minutos, huffington_es",3,Una brillante lección de Daniel Luque marca la diferencia en Sevilla,2026-04-24 21:09
-chinos,3,3,5.19,100,"huffington_es, 20minutos",2,Giro histórico en los Marines de EEUU: abandonan las grandes bases militares ante la amenaza creciente de los misiles chinos y los drones iraníes,2026-04-24 21:09
-alzira,4,3,6.92,100,levante_emv,1,El Alzira FS choca con el muro defensivo del Jaén y sigue en zona de descenso (2-4),2026-04-24 21:09
-delcy,6,5,6.23,100,"bbc_mundo, levante_emv, elpais, france24_es, elmundo_internacional",5,Petro visita a Delcy Rodríguez en Caracas: qué rol juega Colombia en la transición en Venezuela,2026-04-24 21:09
-jardín,4,3,6.92,100,"levante_emv, elcorreo, 20minutos, heraldo_aragon",4,La Feria Andaluza se enciende en el Jardín del Turia para los próximos diez días,2026-04-24 21:09
-google,5,4,6.49,100,"levante_emv, expansion, 20minutos, sur",4,"Thomas Kurian, director ejecutivo de Google Cloud: ""No queremos que roben nuestra IA y la utilicen para lanzar ciberataques""",2026-04-24 21:09
-derechos,12,10,6.23,100,"elcorreo, elespanol, google_news_es, heraldo_aragon, google_news_internacional",5,María Guardiola: «Nuestros derechos no van a estar sometidos a ningún vaivén político»,2026-04-24 21:09
-sometidos,5,1,25.95,100,"elcorreo, heraldo_aragon, elconfidencial, europapress",4,María Guardiola: «Nuestros derechos no van a estar sometidos a ningún vaivén político»,2026-04-24 21:09
-vaivén,5,1,25.95,100,"elcorreo, heraldo_aragon, elconfidencial, europapress",4,María Guardiola: «Nuestros derechos no van a estar sometidos a ningún vaivén político»,2026-04-24 21:09
-menor,17,14,6.3,100,"20minutos, heraldo_aragon, france24_es, elcorreo, elmundo",5,La Policía investiga la desaparición de una menor de 12 años en Sagunto,2026-04-24 21:09
-betis,11,3,19.03,100,"levante_emv, google_news_es, elcorreo, elespanol, 20minutos",5,Las mejores imágenes del Real Betis - Real Madrid,2026-04-24 21:09
-miñaur,4,0,5.0,100,"elpais, elmundo, google_news_es, okdiario",4,Jódar vence a De Miñaur y avanza en Madrid,2026-04-24 21:09
-fallece,3,2,7.79,100,"elcorreo, sur, lavanguardia",3,Fallece una mujer de 70 años en San Millán arrollada por su propio vehículo,2026-04-24 21:09
-mexicana,3,1,15.57,100,"levante_emv, heraldo_aragon, 20minutos",3,Iberdrola completa la desinversión de su filial mexicana en favor de Cox por 3.700 millones,2026-04-24 21:09
-iberdrola,7,4,9.08,100,"levante_emv, elpais, okdiario, el_confidencial_economia, expansion",5,Iberdrola completa la desinversión de su filial mexicana en favor de Cox por 3.700 millones,2026-04-24 21:09
-mónaco,4,1,20.76,100,"elpais, google_news_es, okdiario, levante_emv",4,El Barça cae en Mónaco y se queda fuera de los cuartos de la Euroliga,2026-04-24 21:09
-celebración,3,3,5.19,100,"okdiario, google_news_internacional",2,Málaga se convierte en epicentro mundial de la oculoplastia con la celebración del congreso internacional The Oculoplastics,2026-04-24 21:09
-euroliga,5,1,25.95,100,"elpais, google_news_es, okdiario, levante_emv",4,El Barça cae en Mónaco y se queda fuera de los cuartos de la Euroliga,2026-04-24 21:09
-caracas,3,0,5.0,100,"bbc_mundo, elpais, france24_es",3,Petro visita a Delcy Rodríguez en Caracas: qué rol juega Colombia en la transición en Venezuela,2026-04-24 21:09
-muñeca,8,0,5.0,100,"google_news_es, lavanguardia, elespanol, elmundo, elpais",5,Carlos Alcaraz se perderá Roland Garros por lesión de muñeca - Los Angeles Times,2026-04-24 21:09
-abandonan,3,0,5.0,100,"huffington_es, levante_emv",2,Giro histórico en los Marines de EEUU: abandonan las grandes bases militares ante la amenaza creciente de los misiles chinos y los drones iraníes,2026-04-24 21:09
-petro,4,1,20.76,100,"bbc_mundo, levante_emv, elpais, france24_es",4,Petro visita a Delcy Rodríguez en Caracas: qué rol juega Colombia en la transición en Venezuela,2026-04-24 21:09
-diálogo,6,6,5.19,100,"elmundo, elcorreo, lavanguardia, elpais_internacional, google_news_internacional",5,María Guardiola pide dejar atrás los bandos y la confrontación  y apostar por el diálogo para su nueva legislatura,2026-04-24 21:09
-sinner,7,6,6.06,100,"google_news_es, levante_emv, elpais, okdiario",4,"Sinner: ""El tenis es un deporte mucho mejor cuando Alcaraz está presente"" - ATP Tour",2026-04-24 21:09
-posesión,8,4,10.38,100,"elespanol, google_news_es, lavanguardia, heraldo_aragon, elconfidencial",5,"Guardiola carga en su toma de posesión contra ""los muros"" y garantiza con el 'corazón' que habrá ""derechos sin vaivenes""",2026-04-24 21:09
-alcaraz,24,2,62.28,100,"google_news_es, okdiario, elcorreo, 20minutos, lavanguardia",5,"Sinner: ""El tenis es un deporte mucho mejor cuando Alcaraz está presente"" - ATP Tour",2026-04-24 21:09
-euromillones,7,0,5.0,100,"20minutos, elcorreo, elpais, levante_emv, okdiario",5,Euromillones deja un nuevo millonario en España y el bote sube a 26 millones,2026-04-24 21:09
-atlético,5,1,25.95,100,"sur, okdiario, heraldo_aragon, elcorreo, elpais",5,Competición sanciona con 61 partidos a los jugadores del Cortijillo Bazán que agredieron a los del Pizarra Atlético,2026-04-24 21:09
-millonario,4,0,5.0,100,"20minutos, elcorreo, google_news_es",3,Euromillones deja un nuevo millonario en España y el bote sube a 26 millones,2026-04-24 21:09
-civiles,3,1,15.57,100,"elespanol, levante_emv, heraldo_aragon",3,"Siria arresta al 'Carnicero de Al Tadamon', sospechoso de una masacre de 500 civiles en 2013 bajo el régimen de Al Assad",2026-04-24 21:09
-complicado,5,1,25.95,100,"google_news_es, 20minutos, elespanol, elpais",4,"Carlos Alcaraz anuncia que se perderá Roland Garros por lesión: ""Es un momento complicado para mí"" - RTVE.es",2026-04-24 21:09
-carlos,15,7,11.12,100,"google_news_es, levante_emv, 20minutos, lavanguardia, heraldo_aragon",5,Carlos Alcaraz se perderá Roland Garros por lesión de muñeca - Los Angeles Times,2026-04-24 21:09
-medida,4,4,5.19,100,"france24_es, heraldo_aragon, google_news_internacional, google_news_politica",4,"Informe desde Roma: Parlamento aprueba medida antimigrantes, pero es anulada horas después",2026-04-24 21:09
-colombia,3,2,7.79,100,"bbc_mundo, levante_emv, elcorreo, okdiario, france24_es",5,Petro visita a Delcy Rodríguez en Caracas: qué rol juega Colombia en la transición en Venezuela,2026-04-24 21:09
-pp-vox,6,5,6.23,100,"okdiario, heraldo_aragon, google_news_internacional, levante_emv",4,Guardiola proclama que el pacto PP-Vox en Extremadura garantiza un Gobierno de «sensatez y verdad»,2026-04-24 21:09
-jódar,6,0,5.0,100,"levante_emv, elpais, elmundo, google_news_es, okdiario",5,Rafa Jódar también aplasta a los Top10 y asusta a Sinner,2026-04-24 21:09
-lesión,12,9,6.92,100,"google_news_es, levante_emv, lavanguardia, elespanol, elmundo",5,Carlos Alcaraz se perderá Roland Garros por lesión de muñeca - Los Angeles Times,2026-04-24 21:09
-adelanta,4,2,10.38,100,"google_news_es, 20minutos, elpais",3,Betis - Real Madrid en directo | Vinicius adelanta al Madrid en la primera mitad - EL PAÍS,2026-04-24 21:09
-perderá,4,2,10.38,100,"google_news_es, okdiario",2,Carlos Alcaraz se perderá Roland Garros por lesión de muñeca - Los Angeles Times,2026-04-24 21:09
-garros,23,0,5.0,100,"google_news_es, elpais, okdiario, elcorreo, 20minutos",5,Carlos Alcaraz se perderá Roland Garros por lesión de muñeca - Los Angeles Times,2026-04-24 21:09
-roland,23,0,5.0,100,"google_news_es, elpais, okdiario, elcorreo, 20minutos",5,Carlos Alcaraz se perderá Roland Garros por lesión de muñeca - Los Angeles Times,2026-04-24 21:09
-negociaciones,9,9,5.19,100,"google_news_internacional, eldiario, elpais, google_news_es, france24_es",5,"Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Trump asegura que Irán planea presentar una propuesta que cumplirá las exigencias de EE UU en las negociaciones - EL PAÍS",2026-04-24 21:09
-momento,9,10,4.67,93,"heraldo_aragon, google_news_es, levante_emv, google_news_economia, 20minutos",5,"El hijo mayor de Rob Reiner habla del momento en que supo que sus padres habían muerto: ""Es devastador""",2026-04-24 21:09
-sábado,8,9,4.61,92,"20minutos, sur, europapress, elcorreo",4,Tu horóscopo diario: sábado 25 de abril de 2026,2026-04-24 21:09
-muere,26,30,4.5,89,"20minutos, google_news_es, elcorreo, levante_emv, elmundo",5,Muere una mujer de 70 años arrollada por su propio coche en San Millán,2026-04-24 21:09
-mitad,6,7,4.45,88,"google_news_es, elpais, elcorreo, heraldo_aragon",4,Betis - Real Madrid en directo | Vinicius adelanta al Madrid en la primera mitad - EL PAÍS,2026-04-24 21:09
-envía,6,7,4.45,88,"heraldo_aragon, elespanol, europapress, google_news_es, elpais_internacional",5,La Casa Blanca envía a Witkoff y Kushner a Pakistán para la negociación con Irán,2026-04-24 21:09
-investigación,11,13,4.39,87,"google_news_es, google_news_economia, heraldo_aragon, 20minutos, bbc_mundo",5,Desestimada la investigación contra el presidente de la Reserva Federal (Fed) de Estados Unidos - RTVE.es,2026-04-24 21:09
-supera,5,6,4.33,86,"20minutos, google_news_es, okdiario, levante_emv, google_news_economia",5,"Vuelve DeepSeek: la IA china anuncia un nuevo modelo que afirma superar a Google, OpenAI y Anthropic",2026-04-24 21:09
-resultados,9,11,4.25,84,"elcorreo, 20minutos, elespanol",3,El Euromillones del viernes deja un nuevo millonario en un famoso pueblo de Valladolid: comprobar resultados del 24 de abril,2026-04-24 21:09
-vinícius,4,5,4.15,83,"20minutos, google_news_es",2,Vinícius adelanta al Madrid tras un error de Valles a un latigazo de Valverde,2026-04-24 21:09
-acoso,4,5,4.15,83,"elespanol, okdiario, heraldo_aragon, 20minutos",4,"Abascal denuncia que el ""mierda"" de Sánchez y su ""rata"" Marlaska permiten el acoso en sus mítines",2026-04-24 21:09
-barça,4,5,4.15,83,"elpais, google_news_es, levante_emv, google_news_internacional",4,El Barça cae en Mónaco y se queda fuera de los cuartos de la Euroliga,2026-04-24 21:09
-consecutivo,4,5,4.15,83,"elpais, google_news_internacional",2,"Sinner, con la cabeza puesta en Roland Garros, persigue su quinto Masters 1000 consecutivo en Madrid",2026-04-24 21:09
-radio,4,5,4.15,83,"okdiario, google_news_internacional, sur, elcorreo",4,Una fuga de metanol obliga a confinar en un radio de 200 metros en Montmeló (Barcelona),2026-04-24 21:09
-apagón,11,14,4.08,81,"elpais, 20minutos, google_news_economia, heraldo_aragon, infolibre",5,"La CNMC abre 35 nuevos expedientes sancionadores a cuatro eléctricas, 18 de ellos a Iberdrola, al margen del apagón",2026-04-24 21:09
-insiste,3,4,3.89,77,"huffington_es, 20minutos, google_news_es",3,El Ministerio de Consumo insiste a 541 inmobiliarias y fondos de inversión que gestionan más de 50.000 viviendas: un burofax del inquilino basta para prorrogar el alquiler dos años,2026-04-24 21:09
-putin,3,4,3.89,77,"elcorreo, okdiario",2,Trump invita a Putin a la cumbre del G20 que se celebrará en diciembre en Florida,2026-04-24 21:09
-delante,3,4,3.89,77,"20minutos, lavanguardia",2,Vinícius y un Lunin estelar mantienen al Madrid por delante en el Villamarín,2026-04-24 21:09
-popular,3,4,3.89,77,"20minutos, elcorreo, okdiario",3,El Gobierno y la Iglesia cargan contra la prioridad nacional mientras Vox insiste en ella y el Partido Popular la matiza,2026-04-24 21:09
-tragedia,3,4,3.89,77,"google_news_es, okdiario, sur",3,"Morante de la Puebla y Roca Rey heridos en Sevilla, el recuerdo de la muerte de Paquirri en Pozoblanco que cambió la asistencia médica en las plazas de toros: ""La cirugía taurina muchas veces avanza a raíz de una tragedia, y ha mejorado"" - COPE",2026-04-24 21:09
-bonoloto,6,8,3.89,77,"20minutos, elcorreo, levante_emv, okdiario",4,Dos acertantes de la Bonoloto se reparten el bote y ganan 200.000 euros,2026-04-24 21:09
-rompe,3,4,3.89,77,"levante_emv, google_news_economia, okdiario, sur, eldiario",5,MG elige a España para su nueva fábrica de coches eléctricos y rompe con la apuesta por Hungría,2026-04-24 21:09
-varias,3,4,3.89,77,"20minutos, infolibre, heraldo_aragon",3,La CNMC abre quince nuevos expedientes a varias empresas en la investigación sobre el apagón masivo,2026-04-24 21:09
-extremadura,6,8,3.89,77,"okdiario, google_news_es, heraldo_aragon, google_news_economia",4,Guardiola proclama que el pacto PP-Vox en Extremadura garantiza un Gobierno de «sensatez y verdad»,2026-04-24 21:09
-incendio,3,4,3.89,77,"levante_emv, elcorreo, elpais",3,Susto en Alzira por un incendio en el polígono industrial,2026-04-24 21:09
-nuestra,5,7,3.71,74,"levante_emv, elcorreo, elpais, google_news_internacional",4,"Thomas Kurian, director ejecutivo de Google Cloud: ""No queremos que roben nuestra IA y la utilicen para lanzar ciberataques""",2026-04-24 21:09
-coches,5,7,3.71,74,"levante_emv, google_news_economia, lavanguardia, elmundo, google_news_es",5,MG elige a España para su nueva fábrica de coches eléctricos y rompe con la apuesta por Hungría,2026-04-24 21:09
-unido,5,7,3.71,74,"google_news_internacional, huffington_es, google_news_es, elcorreo, france24_es",5,"Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Trump asegura que Irán planea presentar una propuesta que cumplirá las exigencias de EE UU en las negociaciones - EL PAÍS",2026-04-24 21:09
-reino,5,7,3.71,74,"huffington_es, elmundo, 20minutos",3,"España, EEUU, Alemania, Japón, Reino Unido y otros cinco países coinciden: los hackers chinos usan los routers y frigoríficos inteligentes de los hogares para atacar infraestructuras occidentales",2026-04-24 21:09
-comprobar,13,19,3.55,71,"elcorreo, elpais, 20minutos, elespanol, okdiario",5,El Euromillones del viernes deja un nuevo millonario en un famoso pueblo de Valladolid: comprobar resultados del 24 de abril,2026-04-24 21:09
-empresas,6,9,3.46,69,"huffington_es, google_news_economia, 20minutos, infolibre, heraldo_aragon",5,Meta despide a 8.000 empleados y Microsoft ofrece la prejubilación a más de 8.000 el mismo día: la IA sustituye a los trabajadores mientras las dos empresas gastarán 235.000 millones en ella,2026-04-24 21:09
-queroseno,4,6,3.46,69,"levante_emv, google_news_economia",2,"Crisis de queroseno: ¿por qué España está más protegida, pero no se libra del golpe?",2026-04-24 21:09
-departamento,4,6,3.46,69,"elmundo_internacional, heraldo_aragon, google_news_es, elmundo",4,El Departamento de Justicia de Estados Unidos recomienda el uso de pelotones de fusilamiento y la electrocución como métodos de ejecución,2026-04-24 21:09
-amnistía,7,11,3.3,66,"heraldo_aragon, google_news_internacional, elmundo_internacional, france24_es, levante_emv",5,"Amnistía Internacional denuncia que los pactos PP-Vox vulneran derechos humanos con medidas ""racistas y discriminatorias""",2026-04-24 21:09
-expulsar,5,8,3.24,64,"sur, huffington_es, heraldo_aragon, elespanol",4,"La OTAN, una organización sin tarjeta roja para expulsar a sus aliados",2026-04-24 21:09
-humanos,5,8,3.24,64,"heraldo_aragon, google_news_internacional, levante_emv",3,"Amnistía Internacional denuncia que los pactos PP-Vox vulneran derechos humanos con medidas ""racistas y discriminatorias""",2026-04-24 21:09
-federal,5,8,3.24,64,"heraldo_aragon, google_news_es, france24_es, lavanguardia, elpais",5,"Page amaga con ""contar con detalle"" el Comité Federal de 2016 tras los vídeos publicados: ""Fue el intento de un pucherazo cutre""",2026-04-24 21:09
-burgos,3,5,3.11,62,"elcorreo, elpais",2,Los 40 autobuses urbanos de doce metros cedidos por Madrid ya están en Burgos,2026-04-24 21:09
-muñoz,3,5,3.11,62,"20minutos, levante_emv, huffington_es",3,"Muere a los 30 años Cristian Muñoz por ""complicaciones"" tras una caída en una carrera en Francia",2026-04-24 21:09
-regreso,3,5,3.11,62,"eldiario, google_news_internacional, levante_emv",3,EEUU e Irán anuncian el regreso a las negociaciones en Pakistán,2026-04-24 21:09
-energéticas,3,5,3.11,62,"google_news_economia, okdiario",2,La CNMC abre 35 nuevos expedientes contra empresas energéticas en su investigación del apagón por “indicios de infracción grave” - Infobae,2026-04-24 21:09
-amenazas,3,5,3.11,62,"20minutos, heraldo_aragon",2,Países Bajos alerta de que el país hace frente al mayor número de amenazas en 80 años,2026-04-24 21:09
-novia,3,5,3.11,62,"heraldo_aragon, elespanol, okdiario, 20minutos",4,"Alejandro Sanz visita Machu Picchu con su nueva novia, la actriz peruana Stephanie Cayo",2026-04-24 21:09
-avanza,3,5,3.11,62,"elpais, okdiario, google_news_es",3,Jódar vence a De Miñaur y avanza en Madrid,2026-04-24 21:09
-recuperar,3,5,3.11,62,"levante_emv, elcorreo",2,Juristes Valencians pide reactivar la reformar constitucional para recuperar el derecho civil valenciano,2026-04-24 21:09
-expedientes,9,15,3.11,62,"elpais, google_news_economia, 20minutos, infolibre, levante_emv",5,"La CNMC abre 35 nuevos expedientes sancionadores a cuatro eléctricas, 18 de ellos a Iberdrola y uno muy grave a Almaraz",2026-04-24 21:09
-espacio,3,5,3.11,62,"okdiario, 20minutos",2,Putin desafía de nuevo a la OTAN con la violación del espacio aéreo de Polonia con dos cazas,2026-04-24 21:09
-xàtiva,3,5,3.11,62,levante_emv,1,Abandonan a un cachorro con una lesión que le impide caminar frente a la protectora de Xàtiva,2026-04-24 21:09
-ronda,3,5,3.11,62,"okdiario, levante_emv, sur, elpais",4,Rafa Jódar ilumina Madrid: se agiganta para sorprender a De Miñaur y avanza de ronda,2026-04-24 21:09
-2.000,3,5,3.11,62,"elmundo_espana, elcorreo",2,Sánchez engorda con 12.000 millones el gasto en Defensa para sobrevivir a Trump en la OTAN,2026-04-24 21:09
-méxico,7,12,3.03,60,"okdiario, el_confidencial_economia, expansion, france24_es, elmundo",5,"Cox compra por 4.000 millones de dólares el negocio de Iberdrola en México, que sale del país",2026-04-24 21:09
-estados,21,36,3.03,60,"google_news_internacional, google_news_es, elcorreo, france24_es, 20minutos",5,"Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Trump asegura que Irán planea presentar una propuesta que cumplirá las exigencias de EE UU en las negociaciones - EL PAÍS",2026-04-24 21:09
-unidos,21,36,3.03,60,"google_news_internacional, google_news_es, elcorreo, france24_es, 20minutos",5,"Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Trump asegura que Irán planea presentar una propuesta que cumplirá las exigencias de EE UU en las negociaciones - EL PAÍS",2026-04-24 21:09
-metros,7,12,3.03,60,"okdiario, elcorreo, el_confidencial_tech, 20minutos",4,Una fuga de metanol obliga a confinar en un radio de 200 metros en Montmeló (Barcelona),2026-04-24 21:09
-intento,4,7,2.97,59,"heraldo_aragon, levante_emv, elpais",3,"Page amaga con ""contar con detalle"" el Comité Federal de 2016 tras los vídeos publicados: ""Fue el intento de un pucherazo cutre""",2026-04-24 21:09
-ningún,4,7,2.97,59,"elcorreo, heraldo_aragon, elconfidencial",3,María Guardiola: «Nuestros derechos no van a estar sometidos a ningún vaivén político»,2026-04-24 21:09
-flores,4,7,2.97,59,"heraldo_aragon, elcorreo, elmundo, google_news_internacional",4,"Conmoción por el asesinato de Carolina Flores, una exmiss mexicana: investigan a su suegra como sospechosa",2026-04-24 21:09
-fútbol,4,7,2.97,59,"google_news_internacional, elespanol, levante_emv",3,La internacional alicantina Paula Tomàs se retira del fútbol a los 24 años por cuestiones de salud - Información,2026-04-24 21:09
-competencia,4,7,2.97,59,"infolibre, levante_emv, heraldo_aragon, huffington_es",4,Competencia abre quince nuevos expedientes a varias empresas en investigación del apagón,2026-04-24 21:09
-sancionadores,5,9,2.88,57,"elpais, levante_emv, okdiario, huffington_es",4,"La CNMC abre 35 nuevos expedientes sancionadores a cuatro eléctricas, 18 de ellos a Iberdrola y uno muy grave a Almaraz",2026-04-24 21:09
-fuera,5,9,2.88,57,"elpais, google_news_es, okdiario, lavanguardia, google_news_economia",5,El Barça cae en Mónaco y se queda fuera de los cuartos de la Euroliga,2026-04-24 21:09
-justicia,8,15,2.77,55,"elmundo_internacional, eldiario, okdiario, heraldo_aragon, google_news_es",5,El Departamento de Justicia de Estados Unidos recomienda el uso de pelotones de fusilamiento y la electrocución como métodos de ejecución,2026-04-24 21:09
-advierte,7,13,2.79,55,"levante_emv, elpais, google_news_internacional, expansion, 20minutos",5,La Generalitat aumenta la presión sobre L'Umbracle y advierte que debe cumplir la sentencia,2026-04-24 21:09
-detenido,10,19,2.73,54,"heraldo_aragon, elcorreo, 20minutos, levante_emv, elpais",5,Detenido un seguidor de la Real por el acoso en carretera a una furgoneta del Atlético,2026-04-24 21:09
-francia,6,12,2.6,51,"huffington_es, france24_es, 20minutos, heraldo_aragon",4,Francia investiga si un secador de pelo manipuló los sensores del aeropuerto de París para hacer ganar 34.000 dólares a apostadores de Polymarket,2026-04-24 21:09
-negocio,4,8,2.6,51,"okdiario, el_confidencial_economia, google_news_es, google_news_internacional",4,"Cox compra por 4.000 millones de dólares el negocio de Iberdrola en México, que sale del país",2026-04-24 21:09
-francisco,3,6,2.6,51,"levante_emv, google_news_es",2,El cantante Francisco declarará ante el juez tras ser localizado por la Guardia Civil,2026-04-24 21:09
-costa,3,6,2.6,51,"google_news_es, okdiario, sur, 20minutos",4,Declaración del presidente António Costa tras la reunión con los socios regionales - consilium.europa.eu,2026-04-24 21:09
-recibe,5,10,2.6,51,"levante_emv, france24_es, google_news_es, elpais, sur",5,El Gremio de Artistas Falleros recibe sus ninots indultados de 2026,2026-04-24 21:09
-congreso,5,10,2.6,51,"okdiario, 20minutos, eldiario, google_news_internacional",4,Málaga se convierte en epicentro mundial de la oculoplastia con la celebración del congreso internacional The Oculoplastics,2026-04-24 21:09
-denuncia,12,24,2.6,51,"elespanol, heraldo_aragon, google_news_internacional, okdiario, levante_emv",5,"Abascal denuncia que el ""mierda"" de Sánchez y su ""rata"" Marlaska permiten el acoso en sus mítines",2026-04-24 21:09
-acoge,5,10,2.6,51,"heraldo_aragon, google_news_internacional, levante_emv",3,Zaragoza acoge la ruta del café de especialidad,2026-04-24 21:09
-marcha,4,8,2.6,51,"20minutos, levante_emv, heraldo_aragon, lavanguardia",4,Vinícius y un Lunin estelar mantienen al Madrid por delante en el Villamarín... Y Mbappé se marcha lesionado,2026-04-24 21:09
-directo,28,56,2.6,51,"google_news_es, levante_emv, google_news_internacional, okdiario, elcorreo",5,Betis - Real Madrid en directo | Vinicius adelanta al Madrid en la primera mitad - EL PAÍS,2026-04-24 21:09
-mallorca,5,10,2.6,51,"levante_emv, elcorreo, lavanguardia, google_news_internacional",4,Muere ahogado un turista alemán de 63 años cuando se bañaba con su esposa al intentar salvar a un joven en Mallorca,2026-04-24 21:09
-madrid,41,85,2.5,50,"levante_emv, google_news_es, elpais, okdiario, elcorreo",5,Las mejores imágenes del Real Betis - Real Madrid,2026-04-24 21:09
-rodríguez,5,11,2.36,47,"bbc_mundo, levante_emv, elpais, france24_es",4,Petro visita a Delcy Rodríguez en Caracas: qué rol juega Colombia en la transición en Venezuela,2026-04-24 21:09
-menores,5,11,2.36,47,"heraldo_aragon, france24_es, elespanol, levante_emv",4,Los vídeos del centro de menores de Juslibol: los sindicatos policiales apoyan a sus compañeros y denuncian falta de medios,2026-04-24 21:09
-viernes,16,35,2.37,47,"elcorreo, levante_emv, elpais, 20minutos, elespanol",5,El Euromillones del viernes deja un nuevo millonario en un famoso pueblo de Valladolid: comprobar resultados del 24 de abril,2026-04-24 21:09
-inicio,4,9,2.31,46,"20minutos, google_news_es, efe",3,"El IBEX 35 pierde un 4,29% en la semana y registra sus peores caídas desde el inicio de la guerra de Irán",2026-04-24 21:09
-pierde,4,9,2.31,46,"20minutos, google_news_es, lavanguardia, expansion",4,"El IBEX 35 pierde un 4,29% en la semana y registra sus peores caídas desde el inicio de la guerra de Irán",2026-04-24 21:09
-horario,4,9,2.31,46,"okdiario, sur, google_news_es",3,Atlético de Madrid – Athletic Club: horario y cómo ver por TV en directo y en vivo online gratis el partido de la Liga,2026-04-24 21:09
-rusia,4,9,2.31,46,"elcorreo, google_news_es, 20minutos",3,Rusia,2026-04-24 21:09
-puede,10,23,2.26,45,"eldiario, okdiario, google_news_politica, heraldo_aragon, levante_emv",5,Búnkeres que guardan la memoria: refugios de guerra que hoy puedes conocer en España,2026-04-24 21:09
-próximo,7,16,2.27,45,"levante_emv, google_news_internacional, lavanguardia, elpais_internacional, elespanol",5,La Feria Andaluza se enciende en el Jardín del Turia para los próximos diez días,2026-04-24 21:09
-tratado,3,7,2.22,44,"google_news_politica, elmundo_internacional",2,¿Puede Trump echar a España de la OTAN? La respuesta está en el Tratado de la Alianza - Elplural.com,2026-04-24 21:09
-reclama,3,7,2.22,44,"levante_emv, efe, lavanguardia",3,Ontinyent reclama ser sede de los exámenes de conducir para evitar traslados a Xàtiva,2026-04-24 21:09
-quiere,3,7,2.22,44,"huffington_es, okdiario",2,Trump quiere expulsar a España de la OTAN: un profesor de Relaciones Internacionales reacciona demoledor,2026-04-24 21:09
-orden,3,7,2.22,44,"lavanguardia, google_news_internacional, google_news_es",3,Logitech rebaja hasta un 46% varios ratones ergonómicos para quien pasa horas delante del ordenador,2026-04-24 21:09
-alianza,3,7,2.22,44,"google_news_politica, levante_emv, google_news_internacional",3,¿Puede Trump echar a España de la OTAN? La respuesta está en el Tratado de la Alianza - Elplural.com,2026-04-24 21:09
-reúne,3,7,2.22,44,"levante_emv, heraldo_aragon",2,De Acció Cultural a Lo Rat Penat: el derecho civil valenciano reúne a todo el espectro político valenciano,2026-04-24 21:09
-servicios,3,7,2.22,44,"elcorreo, 20minutos",2,La Generalitat Valenciana recurre el decreto del Gobierno de regularización de migrantes por su «impacto» en los servicios públicos,2026-04-24 21:09
-marca,6,14,2.22,44,"elmundo, huffington_es, google_news_internacional, eldiario",4,Una brillante lección de Daniel Luque marca la diferencia en Sevilla,2026-04-24 21:09
-valenciana,3,7,2.22,44,"elcorreo, levante_emv",2,La Generalitat Valenciana recurre el decreto del Gobierno de regularización de migrantes por su «impacto» en los servicios públicos,2026-04-24 21:09
-amenaza,6,14,2.22,44,"huffington_es, elmundo_internacional, 20minutos, heraldo_aragon, elcorreo",5,Giro histórico en los Marines de EEUU: abandonan las grandes bases militares ante la amenaza creciente de los misiles chinos y los drones iraníes,2026-04-24 21:09
-energía,3,7,2.22,44,google_news_internacional,1,La Térmica acoge por tercer año consecutivo el Encuentro Internacional sobre Energía de Fusión - Radio Marca Málaga,2026-04-24 21:09
-victoria,3,7,2.22,44,"elmundo, sur",2,El ciclón Jódar destroza a Alex de Miñaur y logra su primera victoria frente a un 'top ten',2026-04-24 21:09
-derecho,5,12,2.16,43,"elcorreo, elespanol, google_news_es, google_news_internacional, heraldo_aragon",5,María Guardiola: «Nuestros derechos no van a estar sometidos a ningún vaivén político»,2026-04-24 21:09
-sorteo,5,12,2.16,43,"levante_emv, elpais, elespanol, okdiario",4,Sorteo Bonoloto del viernes 24 de abril de 2026,2026-04-24 21:09
-accidente,5,12,2.16,43,"20minutos, bbc_mundo, levante_emv, sur",4,Cuatro heridos en el accidente de una atracción en la Feria de Sevilla: dos niños quedan suspendidos,2026-04-24 21:09
-encuentro,6,15,2.08,41,"google_news_internacional, google_news_es",2,EL HIERRO | Clausurado el XI Encuentro Internacional de AgroEnoturismo de Canarias – EBFNoticias - elblogoferoz.com,2026-04-24 21:09
-ciudad,4,10,2.08,41,"google_news_economia, elcorreo, sur, google_news_internacional, lavanguardia",5,"Lluc Charles Flaqué, economista: “El ciudadano medio hoy no es más rico que en 2018; en muchos casos, es más pobre” - El Cronista",2026-04-24 21:09
-países,6,15,2.08,41,"huffington_es, europapress, 20minutos, okdiario, google_news_internacional",5,"España, EEUU, Alemania, Japón, Reino Unido y otros cinco países coinciden: los hackers chinos usan los routers y frigoríficos inteligentes de los hogares para atacar infraestructuras occidentales",2026-04-24 21:09
-visita,4,10,2.08,41,"bbc_mundo, heraldo_aragon, 20minutos",3,Petro visita a Delcy Rodríguez en Caracas: qué rol juega Colombia en la transición en Venezuela,2026-04-24 21:09
-frente,7,18,2.02,40,"elmundo, google_news_internacional, 20minutos, levante_emv, okdiario",5,El ciclón Jódar destroza a Alex de Miñaur y logra su primera victoria frente a un 'top ten',2026-04-24 21:09
+l'umbracle,3,1,17.12,100,"levante_emv, elcorreo",2,La terraza de l'Umbracle abre sus puertas pese a la sentencia por ruido,2026-04-24 21:40
+federales,3,0,5.0,100,"france24_es, elpais, google_news_internacional",3,Estados Unidos reintroduce pelotones de fusilamiento y la inyección letal para ejecuciones federales,2026-04-24 21:40
+puente,8,6,7.61,100,"google_news_es, elmundo, sur, huffington_es, elespanol",5,Muere un joven de 17 años tras ser apuñalado en Puente de Vallecas (Madrid): el agresor circulaba en patinete - Infobae,2026-04-24 21:40
+vallecas,9,4,12.84,100,"google_news_es, elespanol, elmundo, lavanguardia, huffington_es",5,Muere un joven de 17 años tras ser apuñalado en Puente de Vallecas (Madrid): el agresor circulaba en patinete - Infobae,2026-04-24 21:40
+agresor,3,0,5.0,100,"google_news_es, elcorreo",2,Muere un joven de 17 años tras ser apuñalado en Puente de Vallecas (Madrid): el agresor circulaba en patinete - Infobae,2026-04-24 21:40
+patinete,8,4,11.41,100,"google_news_es, elespanol, elcorreo, lavanguardia, 20minutos",5,Muere un joven de 17 años tras ser apuñalado en Puente de Vallecas (Madrid): el agresor circulaba en patinete - Infobae,2026-04-24 21:40
+negociación,3,2,8.56,100,"elpais, elcorreo, heraldo_aragon, elmundo",4,"Vencido el ultimátum de EE UU, Cuba advierte de que los presos políticos “no están en la mesa de negociación”",2026-04-24 21:40
+reintroduce,3,0,5.0,100,"france24_es, elpais, google_news_internacional",3,Estados Unidos reintroduce pelotones de fusilamiento y la inyección letal para ejecuciones federales,2026-04-24 21:40
+pelotones,3,0,5.0,100,"france24_es, elmundo_internacional, elespanol",3,Estados Unidos reintroduce pelotones de fusilamiento y la inyección letal para ejecuciones federales,2026-04-24 21:40
+áfrica,3,3,5.71,100,"20minutos, google_news_es, bbc_mundo",3,Muere atacado por cinco elefantes un millonario que era experto cazando animales salvajes en África,2026-04-24 21:40
+eléctricos,3,3,5.71,100,"levante_emv, google_news_economia, google_news_es",3,MG elige a España para su nueva fábrica de coches eléctricos y rompe con la apuesta por Hungría,2026-04-24 21:40
+ofensiva,3,1,17.12,100,"europapress, okdiario, google_news_internacional",3,"El Pentágono dará a Trump ""opciones creíbles"" para responder a la inacción de países de la OTAN en la ofensiva en Irán",2026-04-24 21:40
+anthropic,3,1,17.12,100,"expansion, levante_emv, 20minutos",3,Google planea invertir hasta 40.000 millones de dólares en Anthropic,2026-04-24 21:40
+limpieza,3,3,5.71,100,"elcorreo, sur",2,Acciona asumirá desde junio y durante una década la limpieza de Vitoria,2026-04-24 21:40
+ejecución,4,1,22.82,100,"20minutos, elmundo_internacional, levante_emv, heraldo_aragon",4,Estados Unidos restablecerá el pelotón de fusilamiento como método de ejecución,2026-04-24 21:40
+puñaladas,4,0,5.0,100,"elespanol, huffington_es, elpais",3,El trinitario Diler paseaba con su novia por Vallecas cuando un ñeta en patinete le asestó al menos dos puñaladas y lo mató,2026-04-24 21:40
+estarán,4,0,5.0,100,"heraldo_aragon, elconfidencial, europapress",3,"Guardiola toma posesión como presidenta de Extremadura: ""Los derechos no estarán sometidos a ningún vaivén político""",2026-04-24 21:40
+tenista,4,0,5.0,100,"google_news_es, france24_es, 20minutos",3,El tenista español Carlos Alcaraz anuncia que no jugará en Roland Garros - Yahoo,2026-04-24 21:40
+apuñalado,10,6,9.51,100,"google_news_es, elcorreo, elmundo, lavanguardia, 20minutos",5,Muere un joven de 17 años tras ser apuñalado en Puente de Vallecas (Madrid): el agresor circulaba en patinete - Infobae,2026-04-24 21:40
+fábrica,6,3,11.41,100,"levante_emv, google_news_economia, lavanguardia, elmundo, google_news_es",5,MG elige a España para su nueva fábrica de coches eléctricos y rompe con la apuesta por Hungría,2026-04-24 21:40
+miñaur,4,0,5.0,100,"elpais, elmundo, google_news_es, okdiario",4,Jódar vence a De Miñaur y avanza en Madrid,2026-04-24 21:40
+posesión,7,5,7.99,100,"elespanol, google_news_es, lavanguardia, heraldo_aragon, elconfidencial",5,"Guardiola carga en su toma de posesión contra ""los muros"" y garantiza con el 'corazón' que habrá ""derechos sin vaivenes""",2026-04-24 21:40
+pelotón,6,0,5.0,100,"elcorreo, 20minutos, levante_emv, elpais, google_news_internacional",5,EE UU recupera el pelotón de fusilamiento para las ejecuciones,2026-04-24 21:40
+fusilamiento,10,0,5.0,100,"elcorreo, france24_es, 20minutos, elmundo_internacional, levante_emv",5,EE UU recupera el pelotón de fusilamiento para las ejecuciones,2026-04-24 21:40
+ejecuciones,5,0,5.0,100,"elcorreo, france24_es, elpais, google_news_internacional, elespanol",5,EE UU recupera el pelotón de fusilamiento para las ejecuciones,2026-04-24 21:40
+negociaciones,9,9,5.71,100,"google_news_internacional, eldiario, elpais, google_news_es, france24_es",5,"Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Trump asegura que Irán planea presentar una propuesta que cumplirá las exigencias de EE UU en las negociaciones - EL PAÍS",2026-04-24 21:40
+medida,4,4,5.71,100,"france24_es, heraldo_aragon, google_news_internacional, google_news_politica",4,"Informe desde Roma: Parlamento aprueba medida antimigrantes, pero es anulada horas después",2026-04-24 21:40
+complicado,5,1,28.53,100,"google_news_es, 20minutos, elespanol, elpais",4,"Carlos Alcaraz anuncia que se perderá Roland Garros por lesión: ""Es un momento complicado para mí"" - RTVE.es",2026-04-24 21:40
+civiles,3,1,17.12,100,"elespanol, levante_emv, heraldo_aragon",3,"Siria arresta al 'Carnicero de Al Tadamon', sospechoso de una masacre de 500 civiles en 2013 bajo el régimen de Al Assad",2026-04-24 21:40
+pakistán,16,11,8.3,100,"google_news_es, elcorreo, heraldo_aragon, elespanol, huffington_es",5,"Última hora de la guerra en Oriente Próximo, en directo: La Casa Blanca confirma que la delegación de EEUU viajará este sábado a Pakistán para retomar las conversaciones con Irán - Cadena SER",2026-04-24 21:40
+elige,7,4,9.98,100,"huffington_es, levante_emv, google_news_economia, el_confidencial_tech, lavanguardia",5,"España, EEUU, Alemania, Japón, Reino Unido y otros cinco países coinciden: los hackers chinos usan los routers y frigoríficos inteligentes de los hogares para atacar infraestructuras occidentales",2026-04-24 21:40
+relaciones,4,3,7.61,100,"huffington_es, elpais, levante_emv, 20minutos",4,Trump quiere expulsar a España de la OTAN: un profesor de Relaciones Internacionales reacciona demoledor,2026-04-24 21:40
+presidente,8,9,5.07,100,"google_news_es, google_news_internacional, levante_emv, 20minutos, lavanguardia",5,Declaración del presidente António Costa tras la reunión con los socios regionales - consilium.europa.eu,2026-04-24 21:40
+secretario,3,3,5.71,100,"google_news_es, levante_emv, okdiario",3,"Abascal acusa al secretario de la Conferencia Episcopal de actuar por ""negocio"" con la inmigración - RTVE.es",2026-04-24 21:40
+presidenta,3,1,17.12,100,"google_news_es, heraldo_aragon, europapress",3,"Guardiola toma posesión como presidenta de Extremadura con el apoyo de Vox: ""Nuestros derechos no van a estar - LaSexta",2026-04-24 21:40
+sociedad,4,3,7.61,100,"levante_emv, 20minutos, elcorreo, elpais",4,La sociedad falla-artista más imparable del momento renueva para 2027,2026-04-24 21:40
+político,8,2,22.82,100,"elcorreo, elpais, google_news_internacional, levante_emv, heraldo_aragon",5,María Guardiola: «Nuestros derechos no van a estar sometidos a ningún vaivén político»,2026-04-24 21:40
+mundiario,3,1,17.12,100,"google_news_internacional, google_news_economia",2,La UE frente a la crisis de Oriente Próximo: equilibrio entre derecho internacional y realismo político - MUNDIARIO,2026-04-24 21:40
+jugará,6,1,34.23,100,"google_news_es, heraldo_aragon, france24_es, elespanol, levante_emv",5,El tenista español Carlos Alcaraz anuncia que no jugará en Roland Garros - Yahoo,2026-04-24 21:40
+sagunt,3,3,5.71,100,"20minutos, levante_emv",2,La Policía investiga la desaparición de una menor de 12 años en Sagunto,2026-04-24 21:40
+witkoff,5,3,9.51,100,"heraldo_aragon, elespanol, huffington_es, google_news_es, lavanguardia",5,La Casa Blanca envía a Witkoff y Kushner a Pakistán para la negociación con Irán,2026-04-24 21:40
+chino,5,1,28.53,100,"huffington_es, lavanguardia, okdiario, google_news_internacional, 20minutos",5,Giro histórico en los Marines de EEUU: abandonan las grandes bases militares ante la amenaza creciente de los misiles chinos y los drones iraníes,2026-04-24 21:40
+anuncian,4,0,5.0,100,"eldiario, google_news_internacional, levante_emv",3,EEUU e Irán anuncian el regreso a las negociaciones en Pakistán,2026-04-24 21:40
+enviarán,3,0,5.0,100,"elpais, google_news_es, google_news_internacional",3,"Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | EE UU e Irán enviarán delegaciones a Pakistán para retomar los contactos",2026-04-24 21:40
+delegaciones,4,1,22.82,100,"elpais, google_news_es, google_news_internacional",3,"Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | EE UU e Irán enviarán delegaciones a Pakistán para retomar los contactos",2026-04-24 21:40
+contactos,3,0,5.0,100,"elpais, google_news_es, google_news_internacional",3,"Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | EE UU e Irán enviarán delegaciones a Pakistán para retomar los contactos",2026-04-24 21:40
+"4,29%",3,0,5.0,100,"google_news_es, 20minutos",2,"El IBEX cierra la semana con una caída del 4,29% y el barril de brent supera los cien dólares - RTVE.es",2026-04-24 21:40
+peores,3,0,5.0,100,"20minutos, google_news_es, okdiario",3,"El IBEX 35 pierde un 4,29% en la semana y registra sus peores caídas desde el inicio de la guerra de Irán",2026-04-24 21:40
+caídas,4,3,7.61,100,"20minutos, expansion",2,"El IBEX 35 pierde un 4,29% en la semana y registra sus peores caídas desde el inicio de la guerra de Irán",2026-04-24 21:40
+echar,3,1,17.12,100,"elpais_internacional, okdiario, google_news_politica, google_news_internacional",4,La UE y Estados Unidos buscan estrechar la colaboración en el suministro de materias primas críticas,2026-04-24 21:40
+kushner,4,3,7.61,100,"heraldo_aragon, elespanol, google_news_es, lavanguardia",4,La Casa Blanca envía a Witkoff y Kushner a Pakistán para la negociación con Irán,2026-04-24 21:40
+minerales,3,0,5.0,100,"levante_emv, google_news_internacional, eldiario",3,"La UE y Estados Unidos anuncian una ""alianza estratégica"" sobre minerales críticos",2026-04-24 21:40
+críticos,3,3,5.71,100,"levante_emv, google_news_internacional, eldiario",3,"La UE y Estados Unidos anuncian una ""alianza estratégica"" sobre minerales críticos",2026-04-24 21:40
+reconoce,3,2,8.56,100,"okdiario, google_news_internacional",2,"El Torneo Vicente del Bosque de Alalpardo reconoce a Cerezo, Almeida y un sinfín de figuras deportivas",2026-04-24 21:40
+térmica,3,1,17.12,100,google_news_internacional,1,La Térmica acoge por tercer año consecutivo el Encuentro Internacional sobre Energía de Fusión - Radio Marca Málaga,2026-04-24 21:40
+polonia,4,1,22.82,100,"okdiario, elpais_internacional, google_news_internacional",3,Putin desafía de nuevo a la OTAN con la violación del espacio aéreo de Polonia con dos cazas,2026-04-24 21:40
+cazas,4,0,5.0,100,"okdiario, elpais_internacional, google_news_internacional",3,Putin desafía de nuevo a la OTAN con la violación del espacio aéreo de Polonia con dos cazas,2026-04-24 21:40
+cantante,3,3,5.71,100,"levante_emv, elcorreo, google_news_es",3,El cantante Francisco declarará ante el juez tras ser localizado por la Guardia Civil,2026-04-24 21:40
+bajos,3,3,5.71,100,"20minutos, okdiario, google_news_internacional",3,Países Bajos alerta de que el país hace frente al mayor número de amenazas en 80 años,2026-04-24 21:40
+márquez,4,4,5.71,100,"okdiario, elcorreo, elpais",3,Álex Márquez resurge: «Necesitaba un día así»,2026-04-24 21:40
+carretera,4,3,7.61,100,"heraldo_aragon, 20minutos, elcorreo, elpais",4,Detenido un seguidor de la Real por el acoso en carretera a una furgoneta del Atlético,2026-04-24 21:40
+postura,3,1,17.12,100,"google_news_politica, france24_es",2,EE. UU. sopesa sacar a España de la OTAN y revisar su postura sobre Malvinas: ¿declaración política o medida posible? - RPP,2026-04-24 21:40
+acaba,4,4,5.71,100,okdiario,1,"Àngel Llàcer: su edad, su pareja actual y la enfermedad que casi acaba con su vida",2026-04-24 21:40
+investidura,3,0,5.0,100,"20minutos, heraldo_aragon, elespanol",3,La investidura de Azcón como presidente de Aragón será los días 28 y 29 de abril,2026-04-24 21:40
+azcón,4,3,7.61,100,"20minutos, lavanguardia, heraldo_aragon, elespanol",4,La investidura de Azcón como presidente de Aragón será los días 28 y 29 de abril,2026-04-24 21:40
+pista,3,2,8.56,100,"google_news_economia, huffington_es, levante_emv",3,"El ""pistacho ibérico"" vive su mejor momento con Irán fuera de juego por la guerra y el cierre de Ormuz - LaSexta",2026-04-24 21:40
+valenciano,6,6,5.71,100,"levante_emv, elmundo",2,Juristes Valencians pide reactivar la reformar constitucional para recuperar el derecho civil valenciano,2026-04-24 21:40
+lunin,3,0,5.0,100,"20minutos, elpais",2,Vinícius y un Lunin estelar mantienen al Madrid por delante en el Villamarín,2026-04-24 21:40
+islas,3,3,5.71,100,"elmundo, okdiario",2,Argentina expectante ante la posibilidad de que Trump castigue al Reino Unido y deje de apoyarlo en la disputa por las Islas Malvinas,2026-04-24 21:40
+malvinas,5,0,5.0,100,"elmundo, google_news_politica, france24_es",3,Argentina expectante ante la posibilidad de que Trump castigue al Reino Unido y deje de apoyarlo en la disputa por las Islas Malvinas,2026-04-24 21:40
+investigan,3,3,5.71,100,"20minutos, heraldo_aragon",2,Investigan una agresión sexual a un menor por parte de un trabajador en un colegio público de Torelló,2026-04-24 21:40
+bandera,3,3,5.71,100,"google_news_internacional, elpais_internacional, 20minutos",3,La UE asegura que será “parte de la solución” en Oriente Próximo pero bajo la bandera del derecho internacional - EL PAÍS,2026-04-24 21:40
+intentar,3,1,17.12,100,"google_news_es, bbc_mundo, levante_emv",3,"La OTAN dice que ""no hay disposiciones"" que prevean la expulsión de sus miembros tras reporte de que EE.UU. podría intentar suspender a España - BBC",2026-04-24 21:40
+coruña,3,0,5.0,100,google_news_internacional,1,Estos son los ganadores del Encuentro Internacional de Jóvenes Emprendedores 2025 en A Coruña - El Español,2026-04-24 21:40
+sopesa,3,1,17.12,100,"google_news_politica, france24_es",2,EE. UU. sopesa sacar a España de la OTAN y revisar su postura sobre Malvinas: ¿declaración política o medida posible? - RPP,2026-04-24 21:40
+sacar,3,3,5.71,100,"google_news_politica, france24_es",2,EE. UU. sopesa sacar a España de la OTAN y revisar su postura sobre Malvinas: ¿declaración política o medida posible? - RPP,2026-04-24 21:40
+revisar,3,2,8.56,100,"google_news_politica, france24_es",2,EE. UU. sopesa sacar a España de la OTAN y revisar su postura sobre Malvinas: ¿declaración política o medida posible? - RPP,2026-04-24 21:40
+google,5,4,7.13,100,"levante_emv, expansion, 20minutos, sur",4,"Thomas Kurian, director ejecutivo de Google Cloud: ""No queremos que roben nuestra IA y la utilicen para lanzar ciberataques""",2026-04-24 21:40
+retomar,9,0,5.0,100,"google_news_es, elpais, lavanguardia, google_news_internacional, elpais_internacional",5,"Última hora de la guerra en Oriente Próximo, en directo: La Casa Blanca confirma que la delegación de EEUU viajará este sábado a Pakistán para retomar las conversaciones con Irán - Cadena SER",2026-04-24 21:40
+mexicana,3,1,17.12,100,"levante_emv, heraldo_aragon, 20minutos",3,Iberdrola completa la desinversión de su filial mexicana en favor de Cox por 3.700 millones,2026-04-24 21:40
+abandonan,3,0,5.0,100,"huffington_es, levante_emv",2,Giro histórico en los Marines de EEUU: abandonan las grandes bases militares ante la amenaza creciente de los misiles chinos y los drones iraníes,2026-04-24 21:40
+perderá,4,2,11.41,100,"google_news_es, okdiario",2,Carlos Alcaraz se perderá Roland Garros por lesión de muñeca - Los Angeles Times,2026-04-24 21:40
+roland,24,0,5.0,100,"google_news_es, elpais, okdiario, elcorreo, 20minutos",5,Carlos Alcaraz se perderá Roland Garros por lesión de muñeca - Los Angeles Times,2026-04-24 21:40
+garros,24,0,5.0,100,"google_news_es, elpais, okdiario, elcorreo, 20minutos",5,Carlos Alcaraz se perderá Roland Garros por lesión de muñeca - Los Angeles Times,2026-04-24 21:40
+lesión,12,8,8.56,100,"google_news_es, levante_emv, lavanguardia, elespanol, elmundo",5,Carlos Alcaraz se perderá Roland Garros por lesión de muñeca - Los Angeles Times,2026-04-24 21:40
+muñeca,9,0,5.0,100,"google_news_es, lavanguardia, elespanol, elmundo, elpais",5,Carlos Alcaraz se perderá Roland Garros por lesión de muñeca - Los Angeles Times,2026-04-24 21:40
+lección,3,1,17.12,100,"elmundo, 20minutos, huffington_es",3,Una brillante lección de Daniel Luque marca la diferencia en Sevilla,2026-04-24 21:40
+chinos,3,3,5.71,100,"huffington_es, 20minutos",2,Giro histórico en los Marines de EEUU: abandonan las grandes bases militares ante la amenaza creciente de los misiles chinos y los drones iraníes,2026-04-24 21:40
+millonario,4,1,22.82,100,"20minutos, elcorreo, google_news_es",3,Euromillones deja un nuevo millonario en España y el bote sube a 26 millones,2026-04-24 21:40
+alzira,4,3,7.61,100,levante_emv,1,El Alzira FS choca con el muro defensivo del Jaén y sigue en zona de descenso (2-4),2026-04-24 21:40
+guardiola,11,6,10.46,100,"elcorreo, okdiario, elmundo, elespanol, google_news_es",5,María Guardiola: «Nuestros derechos no van a estar sometidos a ningún vaivén político»,2026-04-24 21:40
+sometidos,5,1,28.53,100,"elcorreo, heraldo_aragon, elconfidencial, europapress",4,María Guardiola: «Nuestros derechos no van a estar sometidos a ningún vaivén político»,2026-04-24 21:40
+vaivén,5,1,28.53,100,"elcorreo, heraldo_aragon, elconfidencial, europapress",4,María Guardiola: «Nuestros derechos no van a estar sometidos a ningún vaivén político»,2026-04-24 21:40
+tóxicos,3,0,5.0,100,"huffington_es, google_news_es, lavanguardia",3,"Cuatro años después, la UE no ha prohibido 14 de los 22 grupos de químicos tóxicos que se comprometió a retirar: los retrasos suman 100.000 toneladas extra de contaminación",2026-04-24 21:40
+mónaco,5,1,28.53,100,"elpais, google_news_es, okdiario, levante_emv, lavanguardia",5,El Barça cae en Mónaco y se queda fuera de los cuartos de la Euroliga,2026-04-24 21:40
+carlos,16,7,13.04,100,"google_news_es, levante_emv, 20minutos, lavanguardia, heraldo_aragon",5,Carlos Alcaraz se perderá Roland Garros por lesión de muñeca - Los Angeles Times,2026-04-24 21:40
+alcaraz,25,2,71.32,100,"google_news_es, okdiario, elcorreo, 20minutos, lavanguardia",5,"Sinner: ""El tenis es un deporte mucho mejor cuando Alcaraz está presente"" - ATP Tour",2026-04-24 21:40
+momento,9,10,5.14,100,"heraldo_aragon, google_news_es, levante_emv, google_news_economia, 20minutos",5,"El hijo mayor de Rob Reiner habla del momento en que supo que sus padres habían muerto: ""Es devastador""",2026-04-24 21:40
+jódar,6,1,34.23,100,"okdiario, levante_emv, elpais, elmundo, google_news_es",5,"Rafa Jódar mantiene los pies en el suelo: «Todo está yendo muy rápido, el objetivo es disfrutar»",2026-04-24 21:40
+seguidor,3,1,17.12,100,"elconfidencial, heraldo_aragon, elpais",3,Detenido en Gipuzkoa un seguidor de la Real por el acoso a una furgoneta del Atlético,2026-04-24 21:40
+acoso,5,5,5.71,100,"elconfidencial, elespanol, okdiario, heraldo_aragon, 20minutos",5,Detenido en Gipuzkoa un seguidor de la Real por el acoso a una furgoneta del Atlético,2026-04-24 21:40
+atlético,6,1,34.23,100,"elconfidencial, sur, okdiario, heraldo_aragon, elcorreo",5,Detenido en Gipuzkoa un seguidor de la Real por el acoso a una furgoneta del Atlético,2026-04-24 21:40
+joven,15,13,6.58,100,"okdiario, google_news_es, levante_emv, 20minutos, elmundo",5,Muere un joven ganadero de 30 años tras ser corneado en un encierro festivo en Beas de Segura (Jaén),2026-04-24 21:40
+betis,17,3,32.33,100,"elespanol, levante_emv, google_news_es, elcorreo, 20minutos",5,El Real Madrid se queda sin opciones de pelear por La Liga ante el Betis: Hector Bellerín en el 93' provoca otro tropiezo,2026-04-24 21:40
+miedo,4,3,7.61,100,"elcorreo, lavanguardia, elespanol",3,El cerrojo del miedo: cuando el cuarto del hijo se vuelve una frontera infranqueable,2026-04-24 21:40
+objetivo,3,3,5.71,100,"okdiario, eldiario, elcorreo",3,"Rafa Jódar mantiene los pies en el suelo: «Todo está yendo muy rápido, el objetivo es disfrutar»",2026-04-24 21:40
+sinner,7,5,7.99,100,"google_news_es, levante_emv, elpais, okdiario",4,"Sinner: ""El tenis es un deporte mucho mejor cuando Alcaraz está presente"" - ATP Tour",2026-04-24 21:40
+barça,7,5,7.99,100,"elcorreo, elpais, google_news_es, levante_emv, lavanguardia",5,El Madrid no pasa del empate en Sevilla y acerca el alirón del Barça,2026-04-24 21:40
+abraza,3,1,17.12,100,"elcorreo, okdiario, google_news_internacional",3,El Arenas logra un triunfo de quilates y abraza la permanencia,2026-04-24 21:40
+eurojackpot,3,0,5.0,100,"sur, elcorreo, okdiario",3,"Resultado del sorteo del Eurojackpot de la ONCE del viernes, 24 de abril de 2026",2026-04-24 21:40
+sábado,10,9,6.34,100,"sur, 20minutos, google_news_es, europapress, elcorreo",5,"Horóscopo de hoy, sábado 25 de abril: Predicciones de salud, amor y dinero",2026-04-24 21:40
+cuponazo,4,0,5.0,100,"sur, elcorreo, elespanol, okdiario",4,"Resultado del sorteo del Cuponazo de la ONCE del viernes, 24 de abril de 2026",2026-04-24 21:40
+euromillones,8,1,45.64,100,"sur, 20minutos, elcorreo, elpais, levante_emv",5,"Resultado del sorteo del Euromillones del viernes, 24 de abril de 2026",2026-04-24 21:40
+euroliga,6,1,34.23,100,"elpais, google_news_es, okdiario, levante_emv, lavanguardia",5,El Barça cae en Mónaco y se queda fuera de los cuartos de la Euroliga,2026-04-24 21:40
+espalda,3,2,8.56,100,"huffington_es, elpais, elespanol",3,Un joven mata por la espalda a un menor de edad en Puente de Vallecas (Madrid),2026-04-24 21:40
+adelanta,5,2,14.26,100,"google_news_es, 20minutos, elpais",3,Betis - Real Madrid en directo | Vinicius adelanta al Madrid en la primera mitad - EL PAÍS,2026-04-24 21:40
+celebración,3,3,5.71,100,"okdiario, google_news_internacional",2,Málaga se convierte en epicentro mundial de la oculoplastia con la celebración del congreso internacional The Oculoplastics,2026-04-24 21:40
+caracas,3,0,5.0,100,"bbc_mundo, elpais, france24_es",3,Petro visita a Delcy Rodríguez en Caracas: qué rol juega Colombia en la transición en Venezuela,2026-04-24 21:40
+petro,4,1,22.82,100,"bbc_mundo, levante_emv, elpais, france24_es",4,Petro visita a Delcy Rodríguez en Caracas: qué rol juega Colombia en la transición en Venezuela,2026-04-24 21:40
+iberdrola,7,4,9.98,100,"levante_emv, elpais, okdiario, el_confidencial_economia, expansion",5,Iberdrola completa la desinversión de su filial mexicana en favor de Cox por 3.700 millones,2026-04-24 21:40
+delcy,6,5,6.85,100,"bbc_mundo, levante_emv, elpais, france24_es, elmundo_internacional",5,Petro visita a Delcy Rodríguez en Caracas: qué rol juega Colombia en la transición en Venezuela,2026-04-24 21:40
+mitad,7,7,5.71,100,"google_news_es, elpais, elcorreo, heraldo_aragon",4,Betis - Real Madrid en directo | Vinicius adelanta al Madrid en la primera mitad - EL PAÍS,2026-04-24 21:40
+bonoloto,7,8,4.99,99,"sur, 20minutos, elcorreo, levante_emv, okdiario",5,"Resultado del sorteo de la Bonoloto del viernes, 24 de abril de 2026",2026-04-24 21:40
+envía,6,7,4.89,97,"heraldo_aragon, elespanol, europapress, google_news_es, elpais_internacional",5,La Casa Blanca envía a Witkoff y Kushner a Pakistán para la negociación con Irán,2026-04-24 21:40
+coches,5,6,4.75,95,"levante_emv, google_news_economia, lavanguardia, elmundo, google_news_es",5,MG elige a España para su nueva fábrica de coches eléctricos y rompe con la apuesta por Hungría,2026-04-24 21:40
+fútbol,5,6,4.75,95,"google_news_internacional, google_news_es, elespanol, levante_emv",4,La internacional alicantina Paula Tomàs se retira del fútbol a los 24 años por cuestiones de salud - Información,2026-04-24 21:40
+resultados,9,11,4.67,93,"elcorreo, 20minutos, elespanol",3,El Euromillones del viernes deja un nuevo millonario en un famoso pueblo de Valladolid: comprobar resultados del 24 de abril,2026-04-24 21:40
+radio,4,5,4.56,91,"okdiario, google_news_internacional, sur",3,Una fuga de metanol obliga a confinar en un radio de 200 metros en Montmeló (Barcelona),2026-04-24 21:40
+consecutivo,4,5,4.56,91,"elpais, google_news_internacional",2,"Sinner, con la cabeza puesta en Roland Garros, persigue su quinto Masters 1000 consecutivo en Madrid",2026-04-24 21:40
+vinícius,4,5,4.56,91,"20minutos, google_news_es",2,Vinícius adelanta al Madrid tras un error de Valles a un latigazo de Valverde,2026-04-24 21:40
+menor,13,17,4.36,87,"20minutos, heraldo_aragon, france24_es, elcorreo, elmundo",5,La Policía investiga la desaparición de una menor de 12 años en Sagunto,2026-04-24 21:40
+jardín,3,4,4.28,85,"levante_emv, elcorreo, 20minutos",3,La Feria Andaluza se enciende en el Jardín del Turia para los próximos diez días,2026-04-24 21:40
+rompe,3,4,4.28,85,"levante_emv, google_news_economia, okdiario, sur, eldiario",5,MG elige a España para su nueva fábrica de coches eléctricos y rompe con la apuesta por Hungría,2026-04-24 21:40
+delante,3,4,4.28,85,"20minutos, lavanguardia",2,Vinícius y un Lunin estelar mantienen al Madrid por delante en el Villamarín,2026-04-24 21:40
+incendio,3,4,4.28,85,"levante_emv, elcorreo, elpais",3,Susto en Alzira por un incendio en el polígono industrial,2026-04-24 21:40
+regreso,3,4,4.28,85,"eldiario, google_news_internacional, levante_emv",3,EEUU e Irán anuncian el regreso a las negociaciones en Pakistán,2026-04-24 21:40
+amenazas,3,4,4.28,85,"20minutos, heraldo_aragon",2,Países Bajos alerta de que el país hace frente al mayor número de amenazas en 80 años,2026-04-24 21:40
+putin,3,4,4.28,85,"elcorreo, okdiario",2,Trump invita a Putin a la cumbre del G20 que se celebrará en diciembre en Florida,2026-04-24 21:40
+aliados,3,4,4.28,85,"sur, heraldo_aragon",2,"La OTAN, una organización sin tarjeta roja para expulsar a sus aliados",2026-04-24 21:40
+popular,3,4,4.28,85,"20minutos, elcorreo, okdiario",3,El Gobierno y la Iglesia cargan contra la prioridad nacional mientras Vox insiste en ella y el Partido Popular la matiza,2026-04-24 21:40
+muñoz,3,4,4.28,85,"20minutos, levante_emv, huffington_es",3,"Muere a los 30 años Cristian Muñoz por ""complicaciones"" tras una caída en una carrera en Francia",2026-04-24 21:40
+avanza,3,4,4.28,85,"elpais, okdiario, google_news_es",3,Jódar vence a De Miñaur y avanza en Madrid,2026-04-24 21:40
+reino,5,7,4.08,81,"huffington_es, elmundo, 20minutos",3,"España, EEUU, Alemania, Japón, Reino Unido y otros cinco países coinciden: los hackers chinos usan los routers y frigoríficos inteligentes de los hogares para atacar infraestructuras occidentales",2026-04-24 21:40
+unido,5,7,4.08,81,"huffington_es, google_news_internacional, google_news_es, elcorreo, france24_es",5,Revuelta contra la IA en Estados Unidos: cada vez más demócratas y republicanos piden frenar los centros de datos por el coste energético y el empleo,2026-04-24 21:40
+diálogo,5,7,4.08,81,"elmundo, elcorreo, lavanguardia, elpais_internacional, google_news_internacional",5,María Guardiola pide dejar atrás los bandos y la confrontación  y apostar por el diálogo para su nueva legislatura,2026-04-24 21:40
+derechos,9,13,3.95,79,"elcorreo, elespanol, google_news_es, heraldo_aragon, google_news_internacional",5,María Guardiola: «Nuestros derechos no van a estar sometidos a ningún vaivén político»,2026-04-24 21:40
+sorteo,9,13,3.95,79,"sur, levante_emv, elpais, elespanol, okdiario",5,"Resultado del sorteo del Eurojackpot de la ONCE del viernes, 24 de abril de 2026",2026-04-24 21:40
+comprobar,13,20,3.71,74,"elcorreo, elpais, 20minutos, elespanol, okdiario",5,El Euromillones del viernes deja un nuevo millonario en un famoso pueblo de Valladolid: comprobar resultados del 24 de abril,2026-04-24 21:40
+fuera,5,8,3.57,71,"elpais, google_news_es, okdiario, lavanguardia, google_news_economia",5,El Barça cae en Mónaco y se queda fuera de los cuartos de la Euroliga,2026-04-24 21:40
+pierde,5,8,3.57,71,"20minutos, google_news_es, lavanguardia, expansion",4,"El IBEX 35 pierde un 4,29% en la semana y registra sus peores caídas desde el inicio de la guerra de Irán",2026-04-24 21:40
+asesinato,3,5,3.42,68,"elpais, heraldo_aragon, 20minutos",3,El hijo mayor de los Reiner escribe por primera vez del asesinato de sus padres: “Perdimos a más de la mitad de nuestra familia de la forma más violenta que se pueda imaginar”,2026-04-24 21:40
+recuperar,3,5,3.42,68,"levante_emv, elcorreo",2,Juristes Valencians pide reactivar la reformar constitucional para recuperar el derecho civil valenciano,2026-04-24 21:40
+ronda,3,5,3.42,68,"okdiario, levante_emv, sur, elpais",4,Rafa Jódar ilumina Madrid: se agiganta para sorprender a De Miñaur y avanza de ronda,2026-04-24 21:40
+burgos,3,5,3.42,68,"elcorreo, elpais",2,Los 40 autobuses urbanos de doce metros cedidos por Madrid ya están en Burgos,2026-04-24 21:40
+queda,3,5,3.42,68,"elespanol, 20minutos, elpais, google_news_es, france24_es",5,El Real Madrid se queda sin opciones de pelear por La Liga ante el Betis: Hector Bellerín en el 93' provoca otro tropiezo,2026-04-24 21:40
+novia,3,5,3.42,68,"heraldo_aragon, elespanol, okdiario",3,"Alejandro Sanz visita Machu Picchu con su nueva novia, la actriz peruana Stephanie Cayo",2026-04-24 21:40
+2.000,3,5,3.42,68,"elmundo_espana, elcorreo",2,Sánchez engorda con 12.000 millones el gasto en Defensa para sobrevivir a Trump en la OTAN,2026-04-24 21:40
+online,3,5,3.42,68,"okdiario, google_news_internacional, google_news_es",3,Atlético de Madrid – Athletic Club: horario y cómo ver por TV en directo y en vivo online gratis el partido de la Liga,2026-04-24 21:40
+muere,21,36,3.33,66,"okdiario, 20minutos, google_news_es, elcorreo, levante_emv",5,Muere un joven ganadero de 30 años tras ser corneado en un encierro festivo en Beas de Segura (Jaén),2026-04-24 21:40
+metros,7,12,3.33,66,"okdiario, elcorreo, el_confidencial_tech, 20minutos",4,Una fuga de metanol obliga a confinar en un radio de 200 metros en Montmeló (Barcelona),2026-04-24 21:40
+supera,4,7,3.26,65,"20minutos, google_news_es, okdiario, levante_emv",4,"Vuelve DeepSeek: la IA china anuncia un nuevo modelo que afirma superar a Google, OpenAI y Anthropic",2026-04-24 21:40
+ningún,4,7,3.26,65,"elcorreo, heraldo_aragon, elconfidencial",3,María Guardiola: «Nuestros derechos no van a estar sometidos a ningún vaivén político»,2026-04-24 21:40
+intento,4,7,3.26,65,"heraldo_aragon, levante_emv, elpais",3,"Page amaga con ""contar con detalle"" el Comité Federal de 2016 tras los vídeos publicados: ""Fue el intento de un pucherazo cutre""",2026-04-24 21:40
+madrid,47,83,3.23,64,"levante_emv, elespanol, elcorreo, google_news_es, elpais",5,El Real Madrid confirma en La Cartuja que no tiene remedio,2026-04-24 21:40
+viernes,20,36,3.17,63,"okdiario, sur, elcorreo, levante_emv, elpais",5,Makoke cuenta en ‘¡De viernes!’ su relación con Kiko Matamoros: «Pensé que me mataba»,2026-04-24 21:40
+unidos,20,38,3.0,60,"huffington_es, google_news_internacional, google_news_es, elcorreo, france24_es",5,Revuelta contra la IA en Estados Unidos: cada vez más demócratas y republicanos piden frenar los centros de datos por el coste energético y el empleo,2026-04-24 21:40
+estados,20,38,3.0,60,"huffington_es, google_news_internacional, google_news_es, elcorreo, france24_es",5,Revuelta contra la IA en Estados Unidos: cada vez más demócratas y republicanos piden frenar los centros de datos por el coste energético y el empleo,2026-04-24 21:40
+nuestra,4,8,2.85,57,"levante_emv, elcorreo, elpais",3,"Thomas Kurian, director ejecutivo de Google Cloud: ""No queremos que roben nuestra IA y la utilicen para lanzar ciberataques""",2026-04-24 21:40
+mallorca,5,10,2.85,57,"levante_emv, elcorreo, lavanguardia, google_news_internacional",4,Muere ahogado un turista alemán de 63 años cuando se bañaba con su esposa al intentar salvar a un joven en Mallorca,2026-04-24 21:40
+congreso,5,10,2.85,57,"okdiario, 20minutos, eldiario, google_news_internacional",4,Málaga se convierte en epicentro mundial de la oculoplastia con la celebración del congreso internacional The Oculoplastics,2026-04-24 21:40
+recibe,5,10,2.85,57,"levante_emv, france24_es, google_news_es, elpais, sur",5,El Gremio de Artistas Falleros recibe sus ninots indultados de 2026,2026-04-24 21:40
+francisco,3,6,2.85,57,"levante_emv, google_news_es",2,El cantante Francisco declarará ante el juez tras ser localizado por la Guardia Civil,2026-04-24 21:40
+marcha,4,8,2.85,57,"20minutos, levante_emv, heraldo_aragon, lavanguardia",4,Vinícius y un Lunin estelar mantienen al Madrid por delante en el Villamarín... Y Mbappé se marcha lesionado,2026-04-24 21:40
+menores,5,10,2.85,57,"heraldo_aragon, france24_es, elespanol, levante_emv",4,Los vídeos del centro de menores de Juslibol: los sindicatos policiales apoyan a sus compañeros y denuncian falta de medios,2026-04-24 21:40
+quiere,3,6,2.85,57,"huffington_es, okdiario",2,Trump quiere expulsar a España de la OTAN: un profesor de Relaciones Internacionales reacciona demoledor,2026-04-24 21:40
+costa,3,6,2.85,57,"google_news_es, okdiario, sur, 20minutos",4,Declaración del presidente António Costa tras la reunión con los socios regionales - consilium.europa.eu,2026-04-24 21:40
+dudas,3,6,2.85,57,"levante_emv, okdiario, google_news_es",3,Sin lugar a dudas,2026-04-24 21:40
+directo,27,59,2.61,52,"google_news_es, levante_emv, google_news_internacional, okdiario, elcorreo",5,Betis - Real Madrid en directo | Vinicius adelanta al Madrid en la primera mitad - EL PAÍS,2026-04-24 21:40
+rodríguez,5,11,2.59,51,"bbc_mundo, levante_emv, elpais, france24_es",4,Petro visita a Delcy Rodríguez en Caracas: qué rol juega Colombia en la transición en Venezuela,2026-04-24 21:40
+detenido,9,20,2.57,51,"elconfidencial, heraldo_aragon, elcorreo, 20minutos, levante_emv",5,Detenido en Gipuzkoa un seguidor de la Real por el acoso a una furgoneta del Atlético,2026-04-24 21:40
+sexual,4,9,2.54,50,"20minutos, heraldo_aragon, elespanol",3,Investigan una agresión sexual a un menor por parte de un trabajador en un colegio público de Torelló,2026-04-24 21:40
+federal,4,9,2.54,50,"heraldo_aragon, google_news_es, france24_es, lavanguardia, elpais",5,"Page amaga con ""contar con detalle"" el Comité Federal de 2016 tras los vídeos publicados: ""Fue el intento de un pucherazo cutre""",2026-04-24 21:40
+extremadura,4,9,2.54,50,"okdiario, google_news_es, heraldo_aragon",3,Guardiola proclama que el pacto PP-Vox en Extremadura garantiza un Gobierno de «sensatez y verdad»,2026-04-24 21:40
+visita,4,9,2.54,50,"bbc_mundo, heraldo_aragon, 20minutos",3,Petro visita a Delcy Rodríguez en Caracas: qué rol juega Colombia en la transición en Venezuela,2026-04-24 21:40
+expulsar,4,9,2.54,50,"sur, huffington_es, heraldo_aragon",3,"La OTAN, una organización sin tarjeta roja para expulsar a sus aliados",2026-04-24 21:40
+resultado,7,16,2.5,49,"sur, elcorreo, elespanol, 20minutos, okdiario",5,"Resultado del sorteo del Eurojackpot de la ONCE del viernes, 24 de abril de 2026",2026-04-24 21:40
+alianza,3,7,2.45,48,"google_news_politica, levante_emv, google_news_internacional",3,¿Puede Trump echar a España de la OTAN? La respuesta está en el Tratado de la Alianza - Elplural.com,2026-04-24 21:40
+valenciana,3,7,2.45,48,"elcorreo, levante_emv",2,La Generalitat Valenciana recurre el decreto del Gobierno de regularización de migrantes por su «impacto» en los servicios públicos,2026-04-24 21:40
+tratado,3,7,2.45,48,"google_news_politica, elmundo_internacional",2,¿Puede Trump echar a España de la OTAN? La respuesta está en el Tratado de la Alianza - Elplural.com,2026-04-24 21:40
+conversaciones,3,7,2.45,48,"google_news_es, europapress, elcorreo",3,"Última hora de la guerra en Oriente Próximo, en directo: La Casa Blanca confirma que la delegación de EEUU viajará este sábado a Pakistán para retomar las conversaciones con Irán - Cadena SER",2026-04-24 21:40
+marca,6,14,2.45,48,"elmundo, huffington_es, google_news_internacional, eldiario",4,Una brillante lección de Daniel Luque marca la diferencia en Sevilla,2026-04-24 21:40
+advierte,6,14,2.45,48,"levante_emv, elpais, google_news_internacional, expansion, 20minutos",5,La Generalitat aumenta la presión sobre L'Umbracle y advierte que debe cumplir la sentencia,2026-04-24 21:40
+salud,8,19,2.4,48,"sur, google_news_internacional, google_news_es, lavanguardia, okdiario",5,"Horóscopo de hoy, sábado 25 de abril: Predicciones de salud, amor y dinero",2026-04-24 21:40
+energía,3,7,2.45,48,google_news_internacional,1,La Térmica acoge por tercer año consecutivo el Encuentro Internacional sobre Energía de Fusión - Radio Marca Málaga,2026-04-24 21:40
+orden,3,7,2.45,48,"lavanguardia, google_news_internacional, google_news_es",3,Logitech rebaja hasta un 46% varios ratones ergonómicos para quien pasa horas delante del ordenador,2026-04-24 21:40
+derecho,5,12,2.38,47,"elcorreo, elespanol, google_news_es, google_news_internacional, heraldo_aragon",5,María Guardiola: «Nuestros derechos no van a estar sometidos a ningún vaivén político»,2026-04-24 21:40
+asegura,5,12,2.38,47,"google_news_internacional, elpais_internacional, levante_emv, france24_es, elcorreo",5,"Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Trump asegura que Irán planea presentar una propuesta que cumplirá las exigencias de EE UU en las negociaciones - EL PAÍS",2026-04-24 21:40
+méxico,5,12,2.38,47,"okdiario, el_confidencial_economia, expansion, france24_es",4,"Cox compra por 4.000 millones de dólares el negocio de Iberdrola en México, que sale del país",2026-04-24 21:40
+dólares,9,22,2.33,46,"france24_es, okdiario, huffington_es, expansion, levante_emv",5,Estiman que EE. UU. ha gastado al menos 4.700 millones de dólares en ataques en América Latina,2026-04-24 21:40
+próximo,7,17,2.35,46,"levante_emv, google_news_es, google_news_internacional, lavanguardia, elpais_internacional",5,La Feria Andaluza se enciende en el Jardín del Turia para los próximos diez días,2026-04-24 21:40
+oriente,9,22,2.33,46,"google_news_es, google_news_internacional, elcorreo, elpais_internacional",4,"Última hora de la guerra en Oriente Próximo, en directo: La Casa Blanca confirma que la delegación de EEUU viajará este sábado a Pakistán para retomar las conversaciones con Irán - Cadena SER",2026-04-24 21:40
+países,6,15,2.28,45,"huffington_es, europapress, 20minutos, okdiario, google_news_internacional",5,"España, EEUU, Alemania, Japón, Reino Unido y otros cinco países coinciden: los hackers chinos usan los routers y frigoríficos inteligentes de los hogares para atacar infraestructuras occidentales",2026-04-24 21:40
+encuentro,6,15,2.28,45,"google_news_internacional, google_news_es",2,EL HIERRO | Clausurado el XI Encuentro Internacional de AgroEnoturismo de Canarias – EBFNoticias - elblogoferoz.com,2026-04-24 21:40
+acoge,4,10,2.28,45,"heraldo_aragon, google_news_internacional",2,Zaragoza acoge la ruta del café de especialidad,2026-04-24 21:40
+frente,7,18,2.22,44,"elmundo, google_news_internacional, 20minutos, levante_emv, okdiario",5,El ciclón Jódar destroza a Alex de Miñaur y logra su primera victoria frente a un 'top ten',2026-04-24 21:40
+amenaza,5,13,2.19,43,"huffington_es, elmundo_internacional, 20minutos, heraldo_aragon, elcorreo",5,Giro histórico en los Marines de EEUU: abandonan las grandes bases militares ante la amenaza creciente de los misiles chinos y los drones iraníes,2026-04-24 21:40
+política,5,13,2.19,43,"google_news_politica, france24_es, sur, elespanol",4,EE. UU. sopesa sacar a España de la OTAN y revisar su postura sobre Malvinas: ¿declaración política o medida posible? - RPP,2026-04-24 21:40
+abascal,3,8,2.14,42,"elcorreo, elespanol, google_news_es",3,Abascal llama «mierda» a Pedro Sánchez y «rata» a Marlaska,2026-04-24 21:40
+riesgo,3,8,2.14,42,"elcorreo, elmundo_internacional, expansion",3,Alerta por riesgo de incendio en las baterías de los Ford Kuga,2026-04-24 21:40
+pp-vox,3,8,2.14,42,"okdiario, heraldo_aragon, google_news_internacional",3,Guardiola proclama que el pacto PP-Vox en Extremadura garantiza un Gobierno de «sensatez y verdad»,2026-04-24 21:40
+recuerda,3,8,2.14,42,"heraldo_aragon, eldiario",2,La OTAN recuerda a Estados Unidos que no se puede expulsar a aliados tras sus amenazas a España,2026-04-24 21:40
+negocio,3,8,2.14,42,"okdiario, el_confidencial_economia, google_news_es",3,"Cox compra por 4.000 millones de dólares el negocio de Iberdrola en México, que sale del país",2026-04-24 21:40
+vinicius,4,11,2.07,41,"google_news_es, elpais",2,Betis - Real Madrid en directo | Vinicius adelanta al Madrid en la primera mitad - EL PAÍS,2026-04-24 21:40
+empresas,4,11,2.07,41,"huffington_es, google_news_economia, 20minutos",3,Meta despide a 8.000 empleados y Microsoft ofrece la prejubilación a más de 8.000 el mismo día: la IA sustituye a los trabajadores mientras las dos empresas gastarán 235.000 millones en ella,2026-04-24 21:40
+número,4,11,2.07,41,"20minutos, okdiario, levante_emv",3,Países Bajos alerta de que el país hace frente al mayor número de amenazas en 80 años,2026-04-24 21:40
+puede,9,25,2.05,41,"eldiario, elpais, okdiario, google_news_politica, heraldo_aragon",5,Búnkeres que guardan la memoria: refugios de guerra que hoy puedes conocer en España,2026-04-24 21:40
+estado,6,17,2.01,40,"huffington_es, google_news_internacional, elpais, sur, google_news_es",5,Revuelta contra la IA en Estados Unidos: cada vez más demócratas y republicanos piden frenar los centros de datos por el coste energético y el empleo,2026-04-24 21:40
+apuesta,5,14,2.04,40,"20minutos, levante_emv, google_news_economia, bbc_mundo, heraldo_aragon",5,El 54% de los españoles teme otro apagón y el 65% apuesta por la inversión en renovables,2026-04-24 21:40
