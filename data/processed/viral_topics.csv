@@ -1,41 +1,42 @@
 keyword,count_now,count_base,ratio,viral_score,sources,n_sources,sample_title,detected_at
-reino,4,9,6.21,100,bbc_mundo,1,Las Malvinas/Falklands son un punto de presión para Reino Unido (y EE.UU. lo sabe),2026-04-25 02:40
-opciones,4,1,55.93,100,"google_news_es, elespanol",2,Betis empata en el descuento y golpea las escasas opciones de título del Real Madrid - Los Angeles Times,2026-04-25 02:40
-corneado,3,0,5.0,100,"elmundo, okdiario",2,Muere el ganadero Santiago Barrero San Román corneado por un toro en Beas de Segura (Jaén),2026-04-25 02:40
-colombia,3,3,13.98,100,"france24_es, google_news_internacional",2,¿Se puede hacer retroceder a insurgentes que controlan la frontera Colombia-Venezuela?,2026-04-25 02:40
-registrado,3,4,10.49,100,elconfidencial,1,Registrado un ligero terremoto en varias localidades de Lugo,2026-04-25 02:40
-calor,3,7,5.99,100,"elmundo, expansion, google_news_es",3,Un calor desigual en el Mutua: del vacío en los palcos VIPS al desatado fervor del público con sus jugadores,2026-04-25 02:40
-petro,3,6,6.99,100,"france24_es, elmundo_internacional",2,Petro y Rodríguez acuerdan cooperación en seguridad fronteriza y comercio,2026-04-25 02:40
-unido,5,9,7.77,100,"elespanol, expansion, bbc_mundo, huffington_es",4,"100x100 Unidos, el partido del alcalde de La Línea que podría lograr un escaño clave por Cádiz en las elecciones andaluzas",2026-04-25 02:40
-malvinas/falklands,3,1,41.95,100,bbc_mundo,1,Las Malvinas/Falklands son un punto de presión para Reino Unido (y EE.UU. lo sabe),2026-04-25 02:40
-miranda,3,4,10.49,100,elcorreo,1,"La Azucarera de Miranda, en la memoria",2026-04-25 02:40
-bellerín,3,1,41.95,100,"elcorreo, elespanol",2,Lunin no es suficiente y Bellerín deja la Liga en bandeja al Barcelona,2026-04-25 02:40
-empata,4,1,55.93,100,"google_news_es, elmundo",2,Betis empata en el descuento y golpea las escasas opciones de título del Real Madrid - Los Angeles Times,2026-04-25 02:40
-betis,8,20,5.59,100,"google_news_es, elcorreo, elmundo, elespanol",4,Betis empata en el descuento y golpea las escasas opciones de título del Real Madrid - Los Angeles Times,2026-04-25 02:40
-canal,3,8,5.24,100,"france24_es, google_news_internacional, okdiario",3,"El canal de Panamá, gran ganador del bloqueo del estrecho de Ormuz",2026-04-25 02:40
-jódar,3,7,5.99,100,"google_news_es, okdiario",2,"Jódar, tras su primera victoria Top 10: “Los grandes rivales te hacen mejorar” - Mutua Madrid Open",2026-04-25 02:40
-queda,4,7,7.99,100,"france24_es, elcorreo, elpais, elespanol",4,¿EE. UU. se queda sin misiles Tomahawk?,2026-04-25 02:40
-fiscal,3,5,8.39,100,"okdiario, google_news_economia, sur, france24_es",4,"El abogado, el asesor fiscal y empresarios bajo lupa por el ‘lobo cripto’ Sebastian Greenwood y su fortuna",2026-04-25 02:40
-canarias7,3,4,10.49,100,"google_news_economia, google_news_internacional",2,Albert Navarro García: Crisis de la vivienda en España: ¿funciona premiar fiscalmente a quien alquila barato? - Canarias7,2026-04-25 02:40
-frontera,3,1,41.95,100,"france24_es, elcorreo",2,¿Se puede hacer retroceder a insurgentes que controlan la frontera Colombia-Venezuela?,2026-04-25 02:40
-alirón,3,1,41.95,100,"elpais, google_news_es, elcorreo",3,El último sapo para el Real Madrid: que el Barcelona celebre el alirón en sus narices,2026-04-25 02:40
-terremoto,3,5,8.39,100,elconfidencial,1,Registrado un ligero terremoto en varias localidades de Lugo,2026-04-25 02:40
-ligero,3,0,5.0,100,elconfidencial,1,Registrado un ligero terremoto en varias localidades de Lugo,2026-04-25 02:40
-segura,3,1,41.95,100,"elmundo, okdiario",2,Muere el ganadero Santiago Barrero San Román corneado por un toro en Beas de Segura (Jaén),2026-04-25 02:40
-fútbol,3,9,4.66,93,"elcorreo, google_news_internacional",2,El Villarreal entra en el fútbol base de Bizkaia con un campus,2026-04-25 02:40
-cooperación,4,12,4.66,93,"google_news_internacional, france24_es",2,China impulsará la cooperación internacional en exploración planetaria y mitigación de desechos espaciales - CGTN en Español,2026-04-25 02:40
-victoria,3,9,4.66,93,"sur, elcorreo, google_news_es",3,Cerveza Victoria vuelve a lanzar una edición especial con el artista TVBoy,2026-04-25 02:40
-resultados,4,12,4.66,93,"france24_es, expansion, google_news_es, sur",4,"Caos electoral en Perú: retrasos, protestas e incertidumbre por resultados",2026-04-25 02:40
-mutua,3,11,3.81,76,"elmundo, google_news_es",2,Un calor desigual en el Mutua: del vacío en los palcos VIPS al desatado fervor del público con sus jugadores,2026-04-25 02:40
-resultado,4,15,3.73,74,"france24_es, expansion, google_news_es, sur",4,"Caos electoral en Perú: retrasos, protestas e incertidumbre por resultados",2026-04-25 02:40
-rodríguez,3,12,3.5,69,france24_es,1,Petro y Rodríguez acuerdan cooperación en seguridad fronteriza y comercio,2026-04-25 02:40
-recibe,3,12,3.5,69,"google_news_internacional, levante_emv",2,Cuba recibe un nuevo convoy internacional con ayuda humanitaria - El Debate,2026-04-25 02:40
-mujeres,3,13,3.23,64,"elmundo, elcorreo, france24_es",3,"Lucía Freitas, chef de A Tafona, y las mujeres invisibles que hacen posible la cocina gallega",2026-04-25 02:40
-sorteo,4,19,2.94,58,sur,1,"Resultado del sorteo del Eurojackpot de la ONCE del viernes, 24 de abril de 2026",2026-04-25 02:40
-presidente,3,15,2.8,55,"elespanol, google_news_es, france24_es, sur",4,Trump acude por primera vez a la cena de corresponsales como presidente: el ritual que celebra —y crispa— a la prensa de EEUU,2026-04-25 02:40
-lópez,3,15,2.8,55,"google_news_internacional, elespanol, elcorreo",3,"El analista internacional Ramón López califica el reciente encuentro bilateral como un redimensionamiento estratégico. No se trata solo de diplomacia vecinal, sino de un esquema de alianzas de alto nivel con impacto global. • Proyección: Fortalecimiento del - instagram.com",2026-04-25 02:40
-vuelve,4,22,2.54,50,"okdiario, levante_emv, sur, elcorreo",4,Rosario Sánchez vuelve a las andadas: media semana en Mallorca para promocionarse frente a Prohens,2026-04-25 02:40
-hombre,3,20,2.1,41,"elespanol, elcorreo, sur, elmundo",4,"Dos informes ponen contra las cuerdas a Barbón en Asturias por la muerte de 5 hombres en una mina ilegal: ""Pudo evitarse""",2026-04-25 02:40
-muerte,3,20,2.1,41,"elespanol, elcorreo, okdiario",3,"Dos informes ponen contra las cuerdas a Barbón en Asturias por la muerte de 5 hombres en una mina ilegal: ""Pudo evitarse""",2026-04-25 02:40
-málaga,7,47,2.08,41,sur,1,CM Málaga convoca el II Premio al Diseño Innovador y Sostenible,2026-04-25 02:40
-madrid,17,118,2.01,40,"google_news_es, elpais, google_news_internacional, elcorreo, elmundo",5,Betis empata en el descuento y golpea las escasas opciones de título del Real Madrid - Los Angeles Times,2026-04-25 02:40
+opciones,4,1,57.93,100,"google_news_es, elespanol",2,Betis empata en el descuento y golpea las escasas opciones de título del Real Madrid - Los Angeles Times,2026-04-25 03:10
+canal,3,8,5.43,100,"france24_es, google_news_internacional, okdiario",3,"El canal de Panamá, gran ganador del bloqueo del estrecho de Ormuz",2026-04-25 03:10
+miranda,3,4,10.86,100,elcorreo,1,"La Azucarera de Miranda, en la memoria",2026-04-25 03:10
+reino,4,9,6.44,100,bbc_mundo,1,Las Malvinas/Falklands son un punto de presión para Reino Unido (y EE.UU. lo sabe),2026-04-25 03:10
+malvinas/falklands,3,1,43.45,100,bbc_mundo,1,Las Malvinas/Falklands son un punto de presión para Reino Unido (y EE.UU. lo sabe),2026-04-25 03:10
+canarias7,3,4,10.86,100,"google_news_economia, google_news_internacional",2,Albert Navarro García: Crisis de la vivienda en España: ¿funciona premiar fiscalmente a quien alquila barato? - Canarias7,2026-04-25 03:10
+unido,5,9,8.05,100,"elespanol, expansion, bbc_mundo",3,"100x100 Unidos, el partido del alcalde de La Línea que podría lograr un escaño clave por Cádiz en las elecciones andaluzas",2026-04-25 03:10
+calor,3,7,6.21,100,"elmundo, expansion, google_news_es",3,Un calor desigual en el Mutua: del vacío en los palcos VIPS al desatado fervor del público con sus jugadores,2026-04-25 03:10
+colombia,3,3,14.48,100,"france24_es, google_news_internacional",2,¿Se puede hacer retroceder a insurgentes que controlan la frontera Colombia-Venezuela?,2026-04-25 03:10
+segura,3,1,43.45,100,"elmundo, okdiario",2,Muere el ganadero Santiago Barrero San Román corneado por un toro en Beas de Segura (Jaén),2026-04-25 03:10
+corneado,3,0,5.0,100,"elmundo, okdiario",2,Muere el ganadero Santiago Barrero San Román corneado por un toro en Beas de Segura (Jaén),2026-04-25 03:10
+petro,3,6,7.24,100,france24_es,1,Petro y Rodríguez acuerdan cooperación en seguridad fronteriza y comercio,2026-04-25 03:10
+ayuda,3,5,8.69,100,"elconfidencial, google_news_internacional, elespanol",3,El servicio gratuito que ayuda a los valencianos a encontrar empleo,2026-04-25 03:10
+empata,4,1,57.93,100,"google_news_es, elmundo",2,Betis empata en el descuento y golpea las escasas opciones de título del Real Madrid - Los Angeles Times,2026-04-25 03:10
+betis,8,19,6.1,100,"google_news_es, elcorreo, elmundo, elespanol",4,Betis empata en el descuento y golpea las escasas opciones de título del Real Madrid - Los Angeles Times,2026-04-25 03:10
+bellerín,3,1,43.45,100,"elcorreo, elespanol",2,Lunin no es suficiente y Bellerín deja la Liga en bandeja al Barcelona,2026-04-25 03:10
+terremoto,4,5,11.59,100,elconfidencial,1,Registrado un ligero terremoto de magnitud 3.9 en varias localidades de Lugo,2026-04-25 03:10
+varias,3,7,6.21,100,elconfidencial,1,Registrado un ligero terremoto de magnitud 3.9 en varias localidades de Lugo,2026-04-25 03:10
+fiscal,3,5,8.69,100,"okdiario, google_news_economia, sur, france24_es",4,"El abogado, el asesor fiscal y empresarios bajo lupa por el ‘lobo cripto’ Sebastian Greenwood y su fortuna",2026-04-25 03:10
+frontera,3,1,43.45,100,"france24_es, elcorreo",2,¿Se puede hacer retroceder a insurgentes que controlan la frontera Colombia-Venezuela?,2026-04-25 03:10
+magnitud,3,4,10.86,100,elconfidencial,1,Registrado un ligero terremoto de magnitud 3.9 en varias localidades de Lugo,2026-04-25 03:10
+origen,3,3,14.48,100,"elconfidencial, elespanol, okdiario",3,El tradicional nombre de niña que es uno de los más típicos de la Comunidad Valenciana: de origen latino y que tiene un significado floral,2026-04-25 03:10
+ligero,4,0,5.0,100,elconfidencial,1,Registrado un ligero terremoto de magnitud 3.9 en varias localidades de Lugo,2026-04-25 03:10
+registrado,4,4,14.48,100,elconfidencial,1,Registrado un ligero terremoto de magnitud 3.9 en varias localidades de Lugo,2026-04-25 03:10
+queda,4,7,8.28,100,"france24_es, elcorreo, elpais, elespanol",4,¿EE. UU. se queda sin misiles Tomahawk?,2026-04-25 03:10
+localidades,3,0,5.0,100,elconfidencial,1,Registrado un ligero terremoto de magnitud 3.9 en varias localidades de Lugo,2026-04-25 03:10
+resultados,4,12,4.83,96,"france24_es, expansion, google_news_es, sur",4,"Caos electoral en Perú: retrasos, protestas e incertidumbre por resultados",2026-04-25 03:10
+cooperación,4,12,4.83,96,"google_news_internacional, france24_es",2,China impulsará la cooperación internacional en exploración planetaria y mitigación de desechos espaciales - CGTN en Español,2026-04-25 03:10
+victoria,3,9,4.83,96,"sur, elcorreo, google_news_es",3,Cerveza Victoria vuelve a lanzar una edición especial con el artista TVBoy,2026-04-25 03:10
+mutua,3,11,3.95,78,"elmundo, google_news_es",2,Un calor desigual en el Mutua: del vacío en los palcos VIPS al desatado fervor del público con sus jugadores,2026-04-25 03:10
+lópez,3,12,3.62,72,"google_news_internacional, elespanol, elcorreo",3,"El analista internacional Ramón López califica el reciente encuentro bilateral como un redimensionamiento estratégico. No se trata solo de diplomacia vecinal, sino de un esquema de alianzas de alto nivel con impacto global. • Proyección: Fortalecimiento del - instagram.com",2026-04-25 03:10
+rodríguez,3,13,3.34,66,france24_es,1,Petro y Rodríguez acuerdan cooperación en seguridad fronteriza y comercio,2026-04-25 03:10
+presidente,3,14,3.1,62,"elespanol, google_news_es, france24_es, sur",4,Trump acude por primera vez a la cena de corresponsales como presidente: el ritual que celebra —y crispa— a la prensa de EEUU,2026-04-25 03:10
+vuelve,4,21,2.76,55,"okdiario, levante_emv, sur, elcorreo",4,Rosario Sánchez vuelve a las andadas: media semana en Mallorca para promocionarse frente a Prohens,2026-04-25 03:10
+debate,4,22,2.63,52,"elconfidencial, google_news_politica, google_news_internacional, elcorreo",4,El antecedente de Alegría en Aragón desata el debate de si Morant debe seguir en el Gobierno,2026-04-25 03:10
+china,4,22,2.63,52,"google_news_internacional, elmundo, elcorreo",3,China impulsará la cooperación internacional en exploración planetaria y mitigación de desechos espaciales - CGTN en Español,2026-04-25 03:10
+hombre,3,20,2.17,43,"elespanol, elcorreo, sur, elmundo",4,"Dos informes ponen contra las cuerdas a Barbón en Asturias por la muerte de 5 hombres en una mina ilegal: ""Pudo evitarse""",2026-04-25 03:10
+libro,3,20,2.17,43,"elmundo, google_news_internacional",2,"El PP plantea blindar una hora de lectura a la semana y dar ""prioridad absoluta"" al libro de papel y a escribir a mano",2026-04-25 03:10
+málaga,7,47,2.16,43,sur,1,CM Málaga convoca el II Premio al Diseño Innovador y Sostenible,2026-04-25 03:10
+muerte,3,20,2.17,43,"elespanol, elcorreo, okdiario",3,"Dos informes ponen contra las cuerdas a Barbón en Asturias por la muerte de 5 hombres en una mina ilegal: ""Pudo evitarse""",2026-04-25 03:10
+madrid,17,118,2.09,41,"elconfidencial, google_news_es, elpais, google_news_internacional, elcorreo",5,Ni velas ni postureo: el auge de la música clásica que está haciendo vibrar a Madrid,2026-04-25 03:10
