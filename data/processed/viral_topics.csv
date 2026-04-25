@@ -1,45 +1,56 @@
 keyword,count_now,count_base,ratio,viral_score,sources,n_sources,sample_title,detected_at
-volatilidad,3,0,5.0,100,"google_news_es, elpais",2,Volatilidad y sospechas de información privilegiada en Polymarket: los que se enriquecen con las decisiones de Trump - Cinco Días,2026-04-25 05:10
-coste,3,1,35.35,100,"okdiario, google_news_economia, elespanol",3,Las aerolíneas de bajo coste disparan un 10% su negocio en España tras el estallido de la guerra en Irán,2026-04-25 05:10
-varias,3,6,5.89,100,elconfidencial,1,Registrado un ligero terremoto de magnitud 3.9 en varias localidades de Lugo,2026-04-25 05:10
-magnitud,3,4,8.84,100,elconfidencial,1,Registrado un ligero terremoto de magnitud 3.9 en varias localidades de Lugo,2026-04-25 05:10
-ligero,4,0,5.0,100,elconfidencial,1,Registrado un ligero terremoto de magnitud 3.9 en varias localidades de Lugo,2026-04-25 05:10
-registrado,4,4,11.78,100,elconfidencial,1,Registrado un ligero terremoto de magnitud 3.9 en varias localidades de Lugo,2026-04-25 05:10
-terremoto,5,5,11.78,100,"heraldo_aragon, elconfidencial",2,Terremoto Trump,2026-04-25 05:10
-fundación,3,6,5.89,100,"heraldo_aragon, google_news_es, sur",3,"La Fundación San Ezequiel Moreno ante la regularización: ""Para la demanda que hay han acreditado a pocas entidades colaboradoras""",2026-04-25 05:10
-teruel,4,8,5.89,100,heraldo_aragon,1,"Fabiana, la cocinera que es un sol del Matarraña: ""Cuando llegué me sorprendió el paisaje de Teruel""",2026-04-25 05:10
-ayuda,3,6,5.89,100,"elconfidencial, google_news_internacional, elespanol",3,El servicio gratuito que ayuda a los valencianos a encontrar empleo,2026-04-25 05:10
-ponen,3,5,7.07,100,"elpais, levante_emv, elespanol",3,Los talleres de mantequilla casera se ponen de moda en España,2026-04-25 05:10
-regreso,3,6,5.89,100,"elpais, elespanol, sur",3,"El regreso de Laura Esquivel y Brenda Asnicar, de ‘Patito Feo’: “Queremos contar otra historia. Hay que mirarse al espejo y quererse”",2026-04-25 05:10
-general,3,5,7.07,100,"elpais, elespanol",2,De los ambulatorios a los centros de salud: qué aportó y en qué falla la Ley General de Sanidad 40 años después,2026-04-25 05:10
-inmigración,3,5,7.07,100,"google_news_economia, elpais, heraldo_aragon",3,Ignacio Rivera: “Estoy a favor de la inmigración regulada. España necesita mano de obra” - EL PAÍS,2026-04-25 05:10
-lanzan,5,2,29.46,100,"google_news_internacional, elpais, google_news_es, el_confidencial_tech",4,Los petroestados lanzan un SOS a Trump ante el cataclismo económico - EL PAÍS,2026-04-25 05:10
-disparan,4,3,15.71,100,"okdiario, google_news_economia, elespanol",3,Las aerolíneas de bajo coste disparan un 10% su negocio en España tras el estallido de la guerra en Irán,2026-04-25 05:10
-localidades,3,0,5.0,100,elconfidencial,1,Registrado un ligero terremoto de magnitud 3.9 en varias localidades de Lugo,2026-04-25 05:10
-decisiones,3,2,17.67,100,"bbc_mundo, google_news_es, elpais",3,¿Quién está tomando las decisiones en Irán?,2026-04-25 05:10
-cárcel,3,7,5.05,100,"levante_emv, elpais, heraldo_aragon",3,"Javier Iglesias: ""Fui [a ver a Bárcenas a la cárcel] con una encomienda de dos clientes míos""",2026-04-25 05:10
-dentro,3,5,7.07,100,"elpais, el_confidencial_tech",2,"Golpeadas dentro, perseguidas fuera: el infierno de tres mujeres que rompieron con los menonitas en Argentina",2026-04-25 05:10
-fiscal,4,7,6.73,100,"okdiario, elpais, google_news_economia, sur",4,El Supremo pone fin a 10 años de guerra fiscal en Bridgestone: sitúa sus ventas en Madrid y no en Vizcaya,2026-04-25 05:10
-abuelo,3,1,35.35,100,"levante_emv, elpais, google_news_es",3,"Javi Yago: «Tras ser fusilado mi abuelo, la familia recibió una carta diciendo que se habían equivocado»",2026-04-25 05:10
-infierno,3,0,5.0,100,"elpais, okdiario, google_news_economia",3,"Golpeadas dentro, perseguidas fuera: el infierno de tres mujeres que rompieron con los menonitas en Argentina",2026-04-25 05:10
-sospechas,3,0,5.0,100,"infolibre, google_news_es, elpais",3,Un vocal de Sumar alienta sospechas sobre el Gobierno en el proceso de elección del nuevo juez para Estrasburgo,2026-04-25 05:10
-negocio,5,12,4.91,98,"okdiario, google_news_economia, elpais, google_news_internacional",4,Las aerolíneas de bajo coste disparan un 10% su negocio en España tras el estallido de la guerra en Irán,2026-04-25 05:10
-huesca,3,8,4.42,88,heraldo_aragon,1,"La pizarra del derbi aragonés: la SD Huesca, en busca del equilibrio",2026-04-25 05:10
-viviendas,4,11,4.28,85,"infolibre, elpais, heraldo_aragon",3,El lastre de la “era Feijóo” limita el impacto de las 4.000 viviendas públicas que proyecta la Xunta,2026-04-25 05:10
-sábado,7,20,4.12,82,"okdiario, eldiario, levante_emv",3,"Predicción del horóscopo para Géminis hoy, sábado 25 de abril de 2026",2026-04-25 05:10
-reclama,3,9,3.93,78,"elpais, heraldo_aragon, okdiario",3,"Repsol, Moeve e Iryo dan el primer paso para reclamar daños por el apagón en una futura demanda",2026-04-25 05:10
-mujeres,5,17,3.47,69,"levante_emv, infolibre, elpais, google_news_es",4,El Instituto de las Mujeres exige a Torrent la retirada de una campaña publicitaria contra el derecho al aborto,2026-04-25 05:10
-regularización,3,11,3.21,64,"levante_emv, eldiario, heraldo_aragon",3,Regularización de migrantes: Las ONG emiten los certificados de vulnerabilidad que los ayuntamientos bloquean,2026-04-25 05:10
-horóscopo,4,17,2.77,55,"okdiario, elcorreo",2,"Predicción del horóscopo para Géminis hoy, sábado 25 de abril de 2026",2026-04-25 05:10
-fuera,3,13,2.72,54,"elpais, okdiario, eldiario",3,"Golpeadas dentro, perseguidas fuera: el infierno de tres mujeres que rompieron con los menonitas en Argentina",2026-04-25 05:10
-verano,3,13,2.72,54,"okdiario, elpais, elespanol",3,Sin rastro del plan para abrir la isla privada de la presidenta del PSOE gallego tras anunciarse en verano,2026-04-25 05:10
-historia,4,18,2.62,52,"google_news_es, elpais, sur",3,¿Qué hacer con 30.000 ojos arrancados? El escritor David Toscana rescata la historia del ejército medieval al que sacaron los globos oculares - EL PAÍS,2026-04-25 05:10
-debate,5,23,2.56,51,"okdiario, elconfidencial, google_news_politica, google_news_internacional",4,"El Gobierno debate ampliar ‘sine die’ las nacionalizaciones del exilio tras recibir 2,5 millones de peticiones",2026-04-25 05:10
-predicción,3,14,2.52,50,okdiario,1,"Predicción del horóscopo para Géminis hoy, sábado 25 de abril de 2026",2026-04-25 05:10
-busca,3,14,2.52,50,"elpais, heraldo_aragon",2,La Kings League busca soluciones ante la fátiga de su fútbol-espectáculo: “Volveremos a ser el centro de atención”,2026-04-25 05:10
-policía,3,15,2.36,47,"heraldo_aragon, france24_es, okdiario",3,"Diego Rico y el momento de más tensión en el Real Zaragoza: ""Los coches estaban reventados. A casa con la policía""",2026-04-25 05:10
-aragón,5,26,2.27,45,"elconfidencial, heraldo_aragon, google_news_es",3,El antecedente de Alegría en Aragón desata el debate de si Morant debe seguir en el Gobierno,2026-04-25 05:10
-festival,3,16,2.21,44,"google_news_internacional, elpais, heraldo_aragon",3,Arranca el Festival Internacional de Órgano en la Catedral de Alcalá - La Luna del Henares,2026-04-25 05:10
-tiempo,4,22,2.14,42,"levante_emv, elespanol",2,"El tiempo en València: previsión meteorológica para hoy, sábado 25 de abril",2026-04-25 05:10
-primer,3,17,2.08,41,"elpais, el_confidencial_tech, elespanol",3,"Repsol, Moeve e Iryo dan el primer paso para reclamar daños por el apagón en una futura demanda",2026-04-25 05:10
-menos,4,23,2.05,40,"elpais, google_news_economia",2,Este bolso es un acierto para el Día de la Madre: 16 colores y menos de 20 euros,2026-04-25 05:10
+chubascos,3,5,6.69,100,okdiario,1,"Nubosidad y chubascos en Castilla y León hoy, viento moderado según AEMET",2026-04-25 05:39
+infierno,3,0,5.0,100,"elpais, okdiario, google_news_economia",3,"Golpeadas dentro, perseguidas fuera: el infierno de tres mujeres que rompieron con los menonitas en Argentina",2026-04-25 05:39
+aemet,5,11,5.07,100,"okdiario, eldiario",2,"Nubosidad y chubascos en Castilla y León hoy, viento moderado según AEMET",2026-04-25 05:39
+fiscal,4,7,6.37,100,"okdiario, elpais, google_news_economia, sur",4,El Supremo pone fin a 10 años de guerra fiscal en Bridgestone: sitúa sus ventas en Madrid y no en Vizcaya,2026-04-25 05:39
+coste,3,1,33.44,100,"okdiario, google_news_economia, elespanol",3,Las aerolíneas de bajo coste disparan un 10% su negocio en España tras el estallido de la guerra en Irán,2026-04-25 05:39
+disparan,4,3,14.86,100,"okdiario, google_news_economia, elespanol",3,Las aerolíneas de bajo coste disparan un 10% su negocio en España tras el estallido de la guerra en Irán,2026-04-25 05:39
+negocio,5,10,5.57,100,"okdiario, google_news_economia, elpais, google_news_internacional",4,Las aerolíneas de bajo coste disparan un 10% su negocio en España tras el estallido de la guerra en Irán,2026-04-25 05:39
+lanzan,5,2,27.87,100,"okdiario, google_news_internacional, elpais, google_news_es, el_confidencial_tech",5,Científicos están lanzando aves en peligro de extinción desde acantilados hacia el mar y puede parecer cruel pero es necesario,2026-04-25 05:39
+volatilidad,3,0,5.0,100,"google_news_es, elpais",2,Volatilidad y sospechas de información privilegiada en Polymarket: los que se enriquecen con las decisiones de Trump - Cinco Días,2026-04-25 05:39
+inmigración,3,5,6.69,100,"google_news_economia, elpais, heraldo_aragon",3,Ignacio Rivera: “Estoy a favor de la inmigración regulada. España necesita mano de obra” - EL PAÍS,2026-04-25 05:39
+general,3,5,6.69,100,"elpais, elespanol",2,De los ambulatorios a los centros de salud: qué aportó y en qué falla la Ley General de Sanidad 40 años después,2026-04-25 05:39
+regreso,3,6,5.57,100,"elpais, elespanol, sur",3,"El regreso de Laura Esquivel y Brenda Asnicar, de ‘Patito Feo’: “Queremos contar otra historia. Hay que mirarse al espejo y quererse”",2026-04-25 05:39
+ponen,3,5,6.69,100,"elpais, levante_emv, elespanol",3,Los talleres de mantequilla casera se ponen de moda en España,2026-04-25 05:39
+ayuda,3,6,5.57,100,"elconfidencial, google_news_internacional, elespanol",3,El servicio gratuito que ayuda a los valencianos a encontrar empleo,2026-04-25 05:39
+teruel,4,8,5.57,100,heraldo_aragon,1,"Fabiana, la cocinera que es un sol del Matarraña: ""Cuando llegué me sorprendió el paisaje de Teruel""",2026-04-25 05:39
+fundación,3,6,5.57,100,"heraldo_aragon, google_news_es, sur",3,"La Fundación San Ezequiel Moreno ante la regularización: ""Para la demanda que hay han acreditado a pocas entidades colaboradoras""",2026-04-25 05:39
+terremoto,5,5,11.15,100,"heraldo_aragon, elconfidencial",2,Terremoto Trump,2026-04-25 05:39
+registrado,4,4,11.15,100,elconfidencial,1,Registrado un ligero terremoto de magnitud 3.9 en varias localidades de Lugo,2026-04-25 05:39
+ligero,4,0,5.0,100,elconfidencial,1,Registrado un ligero terremoto de magnitud 3.9 en varias localidades de Lugo,2026-04-25 05:39
+magnitud,3,4,8.36,100,elconfidencial,1,Registrado un ligero terremoto de magnitud 3.9 en varias localidades de Lugo,2026-04-25 05:39
+varias,3,6,5.57,100,elconfidencial,1,Registrado un ligero terremoto de magnitud 3.9 en varias localidades de Lugo,2026-04-25 05:39
+decisiones,3,2,16.72,100,"bbc_mundo, google_news_es, elpais",3,¿Quién está tomando las decisiones en Irán?,2026-04-25 05:39
+localidades,3,0,5.0,100,elconfidencial,1,Registrado un ligero terremoto de magnitud 3.9 en varias localidades de Lugo,2026-04-25 05:39
+sospechas,3,0,5.0,100,"infolibre, google_news_es, elpais",3,Un vocal de Sumar alienta sospechas sobre el Gobierno en el proceso de elección del nuevo juez para Estrasburgo,2026-04-25 05:39
+abuelo,3,1,33.44,100,"levante_emv, elpais, google_news_es",3,"Javi Yago: «Tras ser fusilado mi abuelo, la familia recibió una carta diciendo que se habían equivocado»",2026-04-25 05:39
+dentro,4,5,8.92,100,"huffington_es, elpais, el_confidencial_tech",3,Moncho Padrón (WordPress): &quot;La IA acelera la digitalización y dentro de poco tendremos personas con gran experiencia manejando agentes&quot;,2026-04-25 05:39
+artista,3,4,8.36,100,"okdiario, elpais, sur",3,"La historia de Aurèlia Muñoz, una artista textil en el franquismo: «Sabía que en esta España tradicional no tenía opciones y se lanzó al extranjero»",2026-04-25 05:39
+agencia,3,2,16.72,100,"google_news_es, google_news_internacional",2,"‘Saros’, una aventura espacial de acción sobrecogedora que cambia con cada partida - EFE - Agencia de noticias",2026-04-25 05:39
+científicos,3,6,5.57,100,"okdiario, efe",2,Científicos están lanzando aves en peligro de extinción desde acantilados hacia el mar y puede parecer cruel pero es necesario,2026-04-25 05:39
+cárcel,3,7,4.78,95,"levante_emv, elpais, heraldo_aragon",3,"Javier Iglesias: ""Fui [a ver a Bárcenas a la cárcel] con una encomienda de dos clientes míos""",2026-04-25 05:39
+sábado,8,20,4.46,89,"okdiario, eldiario, levante_emv",3,"Predicción del horóscopo para Cáncer hoy, sábado 25 de abril de 2026",2026-04-25 05:39
+muñoz,3,8,4.18,83,"okdiario, elpais, france24_es",3,"La historia de Aurèlia Muñoz, una artista textil en el franquismo: «Sabía que en esta España tradicional no tenía opciones y se lanzó al extranjero»",2026-04-25 05:39
+huesca,3,8,4.18,83,heraldo_aragon,1,"La pizarra del derbi aragonés: la SD Huesca, en busca del equilibrio",2026-04-25 05:39
+viviendas,4,11,4.05,81,"infolibre, elpais, heraldo_aragon",3,El lastre de la “era Feijóo” limita el impacto de las 4.000 viviendas públicas que proyecta la Xunta,2026-04-25 05:39
+mujeres,6,17,3.93,78,"okdiario, levante_emv, infolibre, elpais, google_news_es",5,"Bertín Osborne no se corta en Sevilla: «Ver mujeres guapas, lo mejor de la Feria»",2026-04-25 05:39
+reclama,3,9,3.72,74,"elpais, heraldo_aragon, okdiario",3,"Repsol, Moeve e Iryo dan el primer paso para reclamar daños por el apagón en una futura demanda",2026-04-25 05:39
+canal,3,9,3.72,74,"okdiario, levante_emv, heraldo_aragon, france24_es, google_news_internacional",5,Giro en la TDT en España: esta semana llega un nuevo canal que también se podrá ver en Movistar Plus+ y Orange,2026-04-25 05:39
+historia,5,17,3.28,65,"okdiario, google_news_es, elpais, sur",4,"La historia de Aurèlia Muñoz, una artista textil en el franquismo: «Sabía que en esta España tradicional no tenía opciones y se lanzó al extranjero»",2026-04-25 05:39
+predicción,4,14,3.19,63,okdiario,1,"Predicción del horóscopo para Cáncer hoy, sábado 25 de abril de 2026",2026-04-25 05:39
+pacto,3,11,3.04,60,"huffington_es, infolibre, elconfidencial, heraldo_aragon, google_news_internacional",5,"Gustavo Zerbino, superviviente de los Andes, 72 años: &quot;El fin de la discusión fue que si yo me muero, yo te autorizo que me comas. Es un pacto de vida&quot;",2026-04-25 05:39
+ciencia,3,11,3.04,60,"google_news_internacional, okdiario, sur",3,"La Casa de la Ciencia de Sevilla celebra el Día Internacional de la Astronomía: ""Es muy difícil quedarse a espaldas de un espectáculo gratuito tan grandioso como es mirar el cielo"" - Diario de Sevilla",2026-04-25 05:39
+regularización,3,11,3.04,60,"levante_emv, eldiario, heraldo_aragon",3,Regularización de migrantes: Las ONG emiten los certificados de vulnerabilidad que los ayuntamientos bloquean,2026-04-25 05:39
+público,3,12,2.79,55,"google_news_internacional, google_news_economia, sur",3,La Diputación de Cáceres celebra el Día de la Danza con cerca de 90 estudiantes y propuestas abiertas al público - El Periódico Extremadura,2026-04-25 05:39
+horóscopo,4,17,2.62,52,okdiario,1,"Predicción del horóscopo para Cáncer hoy, sábado 25 de abril de 2026",2026-04-25 05:39
+celebra,4,17,2.62,52,"google_news_internacional, okdiario, levante_emv, elespanol",4,La Diputación de Cáceres celebra el Día de la Danza con cerca de 90 estudiantes y propuestas abiertas al público - El Periódico Extremadura,2026-04-25 05:39
+fuera,3,13,2.57,51,"elpais, okdiario, eldiario",3,"Golpeadas dentro, perseguidas fuera: el infierno de tres mujeres que rompieron con los menonitas en Argentina",2026-04-25 05:39
+verano,3,13,2.57,51,"okdiario, elpais, elespanol",3,Sin rastro del plan para abrir la isla privada de la presidenta del PSOE gallego tras anunciarse en verano,2026-04-25 05:39
+menos,5,23,2.42,48,"okdiario, elpais, google_news_economia",3,"Séneca, filósofo hispano: «El hombre más feliz es el que depende menos de la felicidad»",2026-04-25 05:39
+debate,5,23,2.42,48,"okdiario, elconfidencial, google_news_politica, google_news_internacional",4,"El Gobierno debate ampliar ‘sine die’ las nacionalizaciones del exilio tras recibir 2,5 millones de peticiones",2026-04-25 05:39
+policía,3,14,2.39,47,"heraldo_aragon, france24_es, okdiario",3,"Diego Rico y el momento de más tensión en el Real Zaragoza: ""Los coches estaban reventados. A casa con la policía""",2026-04-25 05:39
+busca,3,14,2.39,47,"elpais, heraldo_aragon",2,La Kings League busca soluciones ante la fátiga de su fútbol-espectáculo: “Volveremos a ser el centro de atención”,2026-04-25 05:39
+llega,3,15,2.23,44,"okdiario, elpais",2,Giro en la TDT en España: esta semana llega un nuevo canal que también se podrá ver en Movistar Plus+ y Orange,2026-04-25 05:39
+aragón,5,26,2.14,42,"elconfidencial, heraldo_aragon, google_news_es",3,El antecedente de Alegría en Aragón desata el debate de si Morant debe seguir en el Gobierno,2026-04-25 05:39
+festival,3,16,2.09,41,"google_news_internacional, elpais, heraldo_aragon",3,Arranca el Festival Internacional de Órgano en la Catedral de Alcalá - La Luna del Henares,2026-04-25 05:39
+tiempo,4,22,2.03,40,"levante_emv, elespanol",2,"El tiempo en València: previsión meteorológica para hoy, sábado 25 de abril",2026-04-25 05:39
