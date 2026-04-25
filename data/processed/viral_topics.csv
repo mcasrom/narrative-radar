@@ -1,146 +1,140 @@
 keyword,count_now,count_base,ratio,viral_score,sources,n_sources,sample_title,detected_at
-atentado,3,0,5.0,100,"levante_emv, okdiario, google_news_internacional",3,Al menos siete muertos y 17 heridos en un atentado terrorista en Colombia,2026-04-25 22:12
-valencia,10,8,7.66,100,"levante_emv, elespanol, google_news_es, elpais, okdiario",5,"Boda en el periodismo valenciano: Abraham Pérez y Toni Gómez se dan el “sí, quiero”",2026-04-25 22:12
-nicolás,3,2,9.19,100,"20minutos, google_news_es, elcorreo",3,EEUU autoriza a Venezuela el pago de los abogados de Nicolás Maduro y Cilia Flores,2026-04-25 22:12
-abogados,3,1,18.38,100,"20minutos, google_news_es, elmundo",3,EEUU autoriza a Venezuela el pago de los abogados de Nicolás Maduro y Cilia Flores,2026-04-25 22:12
-lleida,3,3,6.13,100,sur,1,El Unicaja sale del laberinto con un claro triunfo ante el Lleida (91-72),2026-04-25 22:12
-triunfo,4,3,8.17,100,"sur, elcorreo",2,El Unicaja sale del laberinto con un claro triunfo ante el Lleida (91-72),2026-04-25 22:12
-explosivos,6,0,5.0,100,"okdiario, google_news_internacional, france24_es, google_news_es, heraldo_aragon",5,Al menos 7 muertos y 20 heridos en un brutal atentado terrorista con explosivos en Colombia,2026-04-25 22:12
-brutal,3,1,18.38,100,"okdiario, google_news_internacional, heraldo_aragon",3,Al menos 7 muertos y 20 heridos en un brutal atentado terrorista con explosivos en Colombia,2026-04-25 22:12
-panamericana,5,0,5.0,100,"20minutos, france24_es, google_news_es, heraldo_aragon, elmundo",5,Al menos siete muertos y 17 heridos por un ataque terrorista en la Vía Panamericana en Colombia,2026-04-25 22:12
-remontada,4,1,24.51,100,"elcorreo, levante_emv",2,Una remontada salvadora,2026-04-25 22:12
-hemos,6,2,18.38,100,"elcorreo, google_news_es, elpais, france24_es, huffington_es",5,"Valverde: «Nos han ganado con muy poco, no hemos hecho un partido para perder»",2026-04-25 22:12
-hamás,3,3,6.13,100,"20minutos, elpais",2,Palestina celebra elecciones locales sin incidentes: las urnas vuelven a Gaza 20 años después en unos comicios sin Hamás,2026-04-25 22:12
-colombia,10,10,6.13,100,"eldiario, levante_emv, 20minutos, okdiario, google_news_internacional",5,Al menos siete muertos y 17 heridos por un ataque terrorista en el suroeste de Colombia,2026-04-25 22:12
-suroeste,3,0,5.0,100,"eldiario, france24_es, google_news_es",3,Al menos siete muertos y 17 heridos por un ataque terrorista en el suroeste de Colombia,2026-04-25 22:12
-terrorista,7,0,5.0,100,"eldiario, levante_emv, 20minutos, okdiario, google_news_internacional",5,Al menos siete muertos y 17 heridos por un ataque terrorista en el suroeste de Colombia,2026-04-25 22:12
-heridos,12,12,6.13,100,"eldiario, levante_emv, 20minutos, okdiario, google_news_internacional",5,Al menos siete muertos y 17 heridos por un ataque terrorista en el suroeste de Colombia,2026-04-25 22:12
-muertos,10,12,5.11,100,"eldiario, levante_emv, 20minutos, okdiario, google_news_internacional",5,Al menos siete muertos y 17 heridos por un ataque terrorista en el suroeste de Colombia,2026-04-25 22:12
-siete,7,2,21.44,100,"eldiario, levante_emv, 20minutos, france24_es, google_news_es",5,Al menos siete muertos y 17 heridos por un ataque terrorista en el suroeste de Colombia,2026-04-25 22:12
-rodaje,3,1,18.38,100,"heraldo_aragon, 20minutos",2,El equipo de La Ahorcada se reencuentra en Teruel con los escenarios de rodaje,2026-04-25 22:12
-girona,3,0,5.0,100,"google_news_es, elpais, levante_emv",3,Puntos DAZN Valencia vs Girona de la FANTASY LALIGA 2025/26: puntuaciones y alineaciones del partido de la jornada 32 de Primera División - DAZN,2026-04-25 22:12
-viaje,17,16,6.51,100,"google_news_es, levante_emv, google_news_internacional, bbc_mundo, elpais",5,Trump cancela el viaje de sus representantes a Pakistán que iban a ser parte de las conversaciones sobre la guerra de Irán - BBC,2026-04-25 22:12
-cancela,15,6,15.32,100,"google_news_es, google_news_internacional, bbc_mundo, elpais, expansion",5,Trump cancela el viaje de sus representantes a Pakistán que iban a ser parte de las conversaciones sobre la guerra de Irán - BBC,2026-04-25 22:12
-participar,3,1,18.38,100,"heraldo_aragon, google_news_es",2,Cerca de 800 niños llenan el Pinilla de Teruel para participar en el Cross Promesicas,2026-04-25 22:12
-miles,4,1,24.51,100,"elcorreo, eldiario, sur, levante_emv",4,Miles de personas se manifiestan contra «el genocidio y la guerra» por las calles de Donostia,2026-04-25 22:12
-calles,3,1,18.38,100,"elcorreo, heraldo_aragon, 20minutos",3,Miles de personas se manifiestan contra «el genocidio y la guerra» por las calles de Donostia,2026-04-25 22:12
-cotrina,3,2,9.19,100,"levante_emv, eldiario, elmundo",3,"El PSOE de Extremadura aúpa a Cotrina: ""Volveremos a ser candil dentro de las casas""",2026-04-25 22:12
-jugar,3,2,9.19,100,"levante_emv, okdiario, sur, elcorreo, 20minutos",5,Valencia Basket Femenino jugará los playoff de la Liga Endesa contra Ensino Lugo tras caer ante Hozono Global Jairis,2026-04-25 22:12
-derecha,3,2,9.19,100,huffington_es,1,"Carme Trilla, economista experta en vivienda: &quot;Hemos de superar el estigma absurdo que existe sobre la vivienda protegida; la derecha y la extrema derecha se oponen a construir en barrios de cierto nivel adquisitivo&quot;",2026-04-25 22:12
-hablar,4,4,6.13,100,"expansion, france24_es, huffington_es, heraldo_aragon",4,Trump cancela el viaje a Pakistán de sus negociadores que debían hablar con Irán,2026-04-25 22:12
-debían,3,0,5.0,100,"expansion, huffington_es, heraldo_aragon",3,Trump cancela el viaje a Pakistán de sus negociadores que debían hablar con Irán,2026-04-25 22:12
-negociadores,7,5,8.58,100,"expansion, europapress, google_news_internacional, okdiario, elmundo",5,Trump cancela el viaje a Pakistán de sus negociadores que debían hablar con Irán,2026-04-25 22:12
-campeón,5,4,7.66,100,"google_news_es, elpais, elcorreo, lavanguardia",4,¿Cuándo podría ser el FC Barcelona campeón de LaLiga? - DAZN,2026-04-25 22:12
-representante,3,1,18.38,100,"google_news_es, google_news_internacional, bbc_mundo, elespanol",4,Trump cancela el viaje de sus representantes a Pakistán que iban a ser parte de las conversaciones sobre la guerra de Irán - BBC,2026-04-25 22:12
-viajes,3,1,18.38,100,"levante_emv, google_news_internacional",2,La guerra en Irán pone en jaque los viajes de verano por el encarecimiento del combustible de avión,2026-04-25 22:12
-jaque,3,1,18.38,100,"levante_emv, google_news_internacional",2,La guerra en Irán pone en jaque los viajes de verano por el encarecimiento del combustible de avión,2026-04-25 22:12
-contado,3,0,5.0,100,"google_news_es, okdiario, elpais",3,Así te hemos contado el Valencia CF-Girona FC - Las Provincias,2026-04-25 22:12
-hizbulá,4,0,5.0,100,"expansion, elmundo, google_news_internacional",3,"Netanyahu ordena atacar ""con contundencia"" a Hizbulá en el Líbano",2026-04-25 22:12
-completo,3,2,9.19,100,"20minutos, sur",2,Las impactantes imágenes del momento en el que una tormenta de arena engulle una ciudad por completo,2026-04-25 22:12
-contundencia,5,0,5.0,100,"google_news_internacional, expansion, 20minutos, elmundo",4,"Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Netanyahu ordena atacar “con contundencia” a Hezbolá en Líbano - EL PAÍS",2026-04-25 22:12
-pague,3,1,18.38,100,"google_news_es, okdiario, elmundo",3,Estados Unidos modifica las sanciones a Venezuela y permite que pague a los abogados de Nicolás Maduro y Cilia Flores - RTVE.es,2026-04-25 22:12
-permite,5,3,10.21,100,"google_news_es, elcorreo, huffington_es, elmundo",4,Estados Unidos modifica las sanciones a Venezuela y permite que pague a los abogados de Nicolás Maduro y Cilia Flores - RTVE.es,2026-04-25 22:12
-atacar,9,2,27.57,100,"google_news_internacional, expansion, huffington_es, 20minutos, elmundo",5,"Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Netanyahu ordena atacar “con contundencia” a Hezbolá en Líbano - EL PAÍS",2026-04-25 22:12
-&quot;los,3,3,6.13,100,huffington_es,1,"Ariane Hoyos y Beñat Azurmendi, los &#039;influencers&#039; detrás de la librería Lasai: &quot;Los jóvenes están enganchados a TikTok, sí, pero la gente mayor también&quot;",2026-04-25 22:12
-d’abril,3,1,18.38,100,"elpais, lavanguardia, levante_emv",3,Diada del 25 d’abril. Contra la paret,2026-04-25 22:12
-conoce,3,1,18.38,100,"heraldo_aragon, okdiario",2,El Casademont Zaragoza ya conoce su rival y las fechas en los cuartos de final del 'play off' de la Liga Femenina,2026-04-25 22:12
-casademont,7,0,5.0,100,heraldo_aragon,1,El Casademont Zaragoza ya conoce su rival y las fechas en los cuartos de final del 'play off' de la Liga Femenina,2026-04-25 22:12
-fotos,3,1,18.38,100,"heraldo_aragon, google_news_internacional",2,Fotos | Aguja Goyesca 2026: una pasarela a los pies de la basílica del Pilar de Zaragoza,2026-04-25 22:12
-basket,4,0,5.0,100,"elespanol, levante_emv",2,El Real Madrid refuerza su liderato en la Liga Endesa con la victoria ante el Valencia Basket en una segunda parte colosal,2026-04-25 22:12
-flick,3,3,6.13,100,"okdiario, lavanguardia",2,Hansi Flick pospone la fiesta del Barcelona: «Celebraremos cuando sea el momento»,2026-04-25 22:12
-champions,6,7,5.25,100,"google_news_es, google_news_internacional, okdiario, elpais",4,Crónica y vídeo del Bayern - Barcelona 1-1 de la ida de semifinales de la UEFA Women's Champions League - UEFA.com,2026-04-25 22:12
-resumen,4,3,8.17,100,"elcorreo, google_news_internacional, heraldo_aragon, google_news_es",4,Vídeo resumen y goles del Atlético-Athletic,2026-04-25 22:12
-deportivo,6,4,9.19,100,"google_news_internacional, sur, levante_emv, google_news_es",4,El Ajax de Òscar Garcia gana y cree más que nunca en la Champions - Mundo Deportivo,2026-04-25 22:12
-alineaciones,3,1,18.38,100,google_news_es,1,Puntos DAZN Atlético de Madrid vs Athletic Club de la FANTASY LALIGA 2025/26: puntuaciones y alineaciones del partido de la jornada 32 de Primera División | DAZN News MX - DAZN,2026-04-25 22:12
-puntuaciones,3,1,18.38,100,google_news_es,1,Puntos DAZN Atlético de Madrid vs Athletic Club de la FANTASY LALIGA 2025/26: puntuaciones y alineaciones del partido de la jornada 32 de Primera División | DAZN News MX - DAZN,2026-04-25 22:12
-2025/26,3,1,18.38,100,google_news_es,1,Puntos DAZN Atlético de Madrid vs Athletic Club de la FANTASY LALIGA 2025/26: puntuaciones y alineaciones del partido de la jornada 32 de Primera División | DAZN News MX - DAZN,2026-04-25 22:12
-laliga,11,9,7.49,100,"google_news_es, levante_emv, 20minutos",3,Puntos DAZN Atlético de Madrid vs Athletic Club de la FANTASY LALIGA 2025/26: puntuaciones y alineaciones del partido de la jornada 32 de Primera División | DAZN News MX - DAZN,2026-04-25 22:12
-miranda,5,5,6.13,100,elcorreo,1,Cerca de 300 personas han mejorado su capacitación con la Cámara en el último año en Miranda,2026-04-25 22:12
-fantasy,3,1,18.38,100,google_news_es,1,Puntos DAZN Atlético de Madrid vs Athletic Club de la FANTASY LALIGA 2025/26: puntuaciones y alineaciones del partido de la jornada 32 de Primera División | DAZN News MX - DAZN,2026-04-25 22:12
-endesa,3,0,5.0,100,"elespanol, levante_emv",2,El Real Madrid refuerza su liderato en la Liga Endesa con la victoria ante el Valencia Basket en una segunda parte colosal,2026-04-25 22:12
-primitiva,7,0,5.0,100,"sur, 20minutos, levante_emv, elcorreo, okdiario",5,"Comprobar Lotería del sábado, 25 de abril: resultados de la Bonoloto, La Primitiva, de la Lotería Nacional y del Sueldazo del fin de semana de la ONCE",2026-04-25 22:12
-sueldazo,4,0,5.0,100,"sur, elcorreo, okdiario",3,"Comprobar Lotería del sábado, 25 de abril: resultados de la Bonoloto, La Primitiva, de la Lotería Nacional y del Sueldazo del fin de semana de la ONCE",2026-04-25 22:12
-athletic,12,3,24.51,100,"google_news_es, elcorreo, elmundo, okdiario, levante_emv",5,Puntos DAZN Atlético de Madrid vs Athletic Club de la FANTASY LALIGA 2025/26: puntuaciones y alineaciones del partido de la jornada 32 de Primera División | DAZN News MX - DAZN,2026-04-25 22:12
-castellón,3,2,9.19,100,sur,1,Así queda el Málaga en la clasificación tras perder contra el Castellón,2026-04-25 22:12
-atlético,13,8,9.96,100,"google_news_es, elcorreo, elmundo, okdiario, levante_emv",5,Puntos DAZN Atlético de Madrid vs Athletic Club de la FANTASY LALIGA 2025/26: puntuaciones y alineaciones del partido de la jornada 32 de Primera División | DAZN News MX - DAZN,2026-04-25 22:12
-división,4,2,12.25,100,google_news_es,1,Puntos DAZN Atlético de Madrid vs Athletic Club de la FANTASY LALIGA 2025/26: puntuaciones y alineaciones del partido de la jornada 32 de Primera División | DAZN News MX - DAZN,2026-04-25 22:12
-barrios,5,2,15.32,100,"okdiario, 20minutos, google_news_es, levante_emv, huffington_es",5,"Simeone y la lesión de Barrios: «La vida pone dificultades, se lo debe tomar como un aprendizaje»",2026-04-25 22:12
-ordena,9,2,27.57,100,"okdiario, google_news_internacional, expansion, huffington_es, 20minutos",5,Netanyahu ordena al Ejército israelí golpear «con fuerza» a Hezbolá tras repetidas violaciones de la tregua,2026-04-25 22:12
-netanyahu,10,4,15.32,100,"okdiario, levante_emv, google_news_internacional, expansion, huffington_es",5,Netanyahu ordena al Ejército israelí golpear «con fuerza» a Hezbolá tras repetidas violaciones de la tregua,2026-04-25 22:12
-equipo,3,1,18.38,100,"sur, heraldo_aragon",2,El revelador mensaje sobre la IA que Bernardo Quintero compartió con su equipo en Google hace un año,2026-04-25 22:12
-arsenal,8,1,49.02,100,"20minutos, europapress, google_news_es, levante_emv",4,Pablo Barrios se marcha hundido tras su nueva lesión justo antes del Arsenal,2026-04-25 22:12
-fiesta,4,3,8.17,100,"elcorreo, okdiario, google_news_es",3,ETS tiñe Madrid de una gran fiesta euskaldun ante 15.000 seguidores,2026-04-25 22:12
-unicaja,6,3,12.25,100,sur,1,De Freepik a Unicaja: así se integra la IA en las empresas malagueñas,2026-04-25 22:12
-decepción,3,0,5.0,100,"sur, elpais",2,De la ilusión a la decepción,2026-04-25 22:12
-hezbolá,5,0,5.0,100,"okdiario, google_news_internacional, huffington_es, 20minutos",4,Netanyahu ordena al Ejército israelí golpear «con fuerza» a Hezbolá tras repetidas violaciones de la tregua,2026-04-25 22:12
-domingo,11,5,13.48,100,"sur, 20minutos, google_news_es, lavanguardia",4,"Precio de la gasolina y diésel en Málaga hoy, domingo 26 de abril: ¿Dónde están las gasolineras más baratas?",2026-04-25 22:12
-sorloth,3,1,18.38,100,"europapress, 20minutos",2,Sorloth afina su puntería para el Arsenal con un doblete,2026-04-25 22:12
-victoria,8,10,4.9,98,"elespanol, elpais, google_news_es, okdiario, lavanguardia",5,El Real Madrid refuerza su liderato en la Liga Endesa con la victoria ante el Valencia Basket en una segunda parte colosal,2026-04-25 22:12
-bayern,4,5,4.9,98,"google_news_es, elpais, okdiario",3,Crónica y vídeo del Bayern - Barcelona 1-1 de la ida de semifinales de la UEFA Women's Champions League - UEFA.com,2026-04-25 22:12
-semifinales,3,4,4.6,91,"google_news_es, elpais",2,Crónica y vídeo del Bayern - Barcelona 1-1 de la ida de semifinales de la UEFA Women's Champions League - UEFA.com,2026-04-25 22:12
-celebran,3,4,4.6,91,"elcorreo, eldiario, sur",3,Cisjordania y Gaza celebran sus primeras elecciones desde el inicio de la guerra,2026-04-25 22:12
-renta,3,4,4.6,91,"heraldo_aragon, huffington_es, elcorreo, elmundo, google_news_internacional",5,El Lobe Huesca La Magia vence al Biele ISB y logra una renta de ocho puntos (81-73),2026-04-25 22:12
-espacio,3,4,4.6,91,"20minutos, levante_emv",2,Dos cazas británicos despegan para interceptar drones rusos avistados cerca del espacio aéreo de la OTAN,2026-04-25 22:12
-arena,3,4,4.6,91,"elcorreo, 20minutos, levante_emv",3,ETS anuncia una «vuelta a casa» con un concierto en el Buesa Arena en 2027,2026-04-25 22:12
-maduro,6,8,4.6,91,"20minutos, google_news_es, elcorreo, huffington_es, okdiario",5,EEUU autoriza a Venezuela el pago de los abogados de Nicolás Maduro y Cilia Flores,2026-04-25 22:12
-palestina,5,7,4.38,87,"20minutos, elpais, elmundo, google_news_internacional",4,Palestina celebra elecciones locales sin incidentes: las urnas vuelven a Gaza 20 años después en unos comicios sin Hamás,2026-04-25 22:12
-bonoloto,7,10,4.29,85,"sur, 20minutos, levante_emv, elcorreo, okdiario",5,"Comprobar Lotería del sábado, 25 de abril: resultados de la Bonoloto, La Primitiva, de la Lotería Nacional y del Sueldazo del fin de semana de la ONCE",2026-04-25 22:12
-líbano,7,10,4.29,85,"google_news_internacional, expansion, 20minutos, elmundo, google_news_es",5,"Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Netanyahu ordena atacar “con contundencia” a Hezbolá en Líbano - EL PAÍS",2026-04-25 22:12
-expertos,4,6,4.08,81,"okdiario, huffington_es",2,Los investigadores expertos analizan 400 ejemplares y confirman que los jabalíes urbanos y rurales son genéticamente distintos,2026-04-25 22:12
-pagar,4,6,4.08,81,"google_news_economia, elcorreo, huffington_es, 20minutos",4,"España cambia las normas y, a partir del 18 de mayo, se podrá pagar con Bizum en cualquier tienda física - Business Insider España",2026-04-25 22:12
-también,4,6,4.08,81,"okdiario, eldiario, huffington_es, 20minutos, elespanol",5,Dani Mérida también se invita a la fiesta: rinde a Moutet y anima el Mutua Madrid Open,2026-04-25 22:12
-imágenes,6,9,4.08,81,"levante_emv, 20minutos, okdiario",3,"LaLiga: Atlético de Madrid - Athletic, en imágenes",2026-04-25 22:12
-europea,5,8,3.83,76,"elcorreo, sur, elmundo, 20minutos, huffington_es",5,Un nuevo dron de ataque ruso cae en suelo de la Unión Europea,2026-04-25 22:12
-final,6,10,3.68,73,"google_news_es, levante_emv, sur, heraldo_aragon, elcorreo",5,Crónica y vídeo del Bayern - Barcelona 1-1 de la ida de semifinales de la UEFA Women's Champions League - UEFA.com,2026-04-25 22:12
-combustible,3,5,3.68,73,"levante_emv, google_news_internacional, huffington_es",3,La guerra en Irán pone en jaque los viajes de verano por el encarecimiento del combustible de avión,2026-04-25 22:12
-dejar,3,5,3.68,73,"20minutos, huffington_es",2,"Jeremy London, cirujano cardiaco: ""Estas son los cinco hábitos que hay que dejar para retrasar el envejecimiento""",2026-04-25 22:12
-resultado,9,15,3.68,73,"sur, levante_emv, elcorreo, elespanol, 20minutos",5,"Comprobar Lotería del sábado, 25 de abril: resultados de la Bonoloto, La Primitiva, de la Lotería Nacional y del Sueldazo del fin de semana de la ONCE",2026-04-25 22:12
-cumple,3,5,3.68,73,"google_news_internacional, heraldo_aragon",2,"Netanyahu ordena atacar ""con contundencia"" a Hezbolá, a quien acusa de romper un alto el fuego que Israel no cumple - elDiario.es",2026-04-25 22:12
-conversaciones,3,5,3.68,73,"google_news_es, bbc_mundo, elmundo",3,Trump cancela el viaje de sus representantes a Pakistán que iban a ser parte de las conversaciones sobre la guerra de Irán - BBC,2026-04-25 22:12
-pilar,3,5,3.68,73,"heraldo_aragon, google_news_internacional",2,Los diseñadores Alexis Jiménez y África Rello ganan el certamen 'Aguja Goyesca' en la plaza del Pilar de Zaragoza,2026-04-25 22:12
-tensión,3,5,3.68,73,"sur, elmundo, google_news_internacional",3,"Ibon Navarro: «Ha sido un partido complicado de jugar, con mucha tensión y ansiedad»",2026-04-25 22:12
-ejército,3,5,3.68,73,"okdiario, france24_es, huffington_es",3,Netanyahu ordena al Ejército israelí golpear «con fuerza» a Hezbolá tras repetidas violaciones de la tregua,2026-04-25 22:12
-aniversario,3,5,3.68,73,"levante_emv, elcorreo, 20minutos",3,Miles de portugueses conmemoran en Lisboa el 52 aniversario de la Revolución de los Claveles,2026-04-25 22:12
-título,3,5,3.68,73,"elcorreo, lavanguardia, heraldo_aragon",3,El origen azulgrana del Baskonia: la compensación de un primer título conquistado sin jugar,2026-04-25 22:12
-antes,8,14,3.5,70,"20minutos, levante_emv, google_news_es, huffington_es, elcorreo",5,Pablo Barrios se marcha hundido tras su nueva lesión justo antes del Arsenal,2026-04-25 22:12
-segunda,5,9,3.4,68,"elespanol, sur, elcorreo, eldiario, lavanguardia",5,El Real Madrid refuerza su liderato en la Liga Endesa con la victoria ante el Valencia Basket en una segunda parte colosal,2026-04-25 22:12
-ataque,9,17,3.24,64,"elcorreo, google_news_internacional, eldiario, 20minutos, france24_es",5,Un nuevo dron de ataque ruso cae en suelo de la Unión Europea,2026-04-25 22:12
-nuevos,3,6,3.06,61,"expansion, huffington_es, 20minutos",3,BlaBlaCar se sube a ChatGPT para llegar a nuevos usuarios,2026-04-25 22:12
-veces,3,6,3.06,61,"expansion, huffington_es, lavanguardia",3,El saber ocupa lugar (a veces),2026-04-25 22:12
-menos,10,20,3.06,61,"eldiario, levante_emv, 20minutos, okdiario, google_news_internacional",5,Al menos siete muertos y 17 heridos por un ataque terrorista en el suroeste de Colombia,2026-04-25 22:12
-locales,3,6,3.06,61,"20minutos, elpais",2,Palestina celebra elecciones locales sin incidentes: las urnas vuelven a Gaza 20 años después en unos comicios sin Hamás,2026-04-25 22:12
-urnas,3,6,3.06,61,"20minutos, elpais",2,Palestina celebra elecciones locales sin incidentes: las urnas vuelven a Gaza 20 años después en unos comicios sin Hamás,2026-04-25 22:12
-global,3,6,3.06,61,"levante_emv, google_news_economia, google_news_internacional",3,Valencia Basket Femenino jugará los playoff de la Liga Endesa contra Ensino Lugo tras caer ante Hozono Global Jairis,2026-04-25 22:12
-iraní,6,13,2.83,56,"google_news_internacional, elpais, 20minutos, okdiario, elcorreo",5,"Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | La delegación de EE UU cancela su viaje a Pakistán después de que el representante iraní haya abandonado el país - EL PAÍS",2026-04-25 22:12
-abandona,5,11,2.78,55,"20minutos, heraldo_aragon, elpais, google_news_internacional, elespanol",5,Helena Bonham Carter abandona su papel en pleno rodaje de 'The White Lotus',2026-04-25 22:12
-pakistán,14,31,2.77,55,"google_news_es, google_news_internacional, bbc_mundo, elpais, expansion",5,Trump cancela el viaje de sus representantes a Pakistán que iban a ser parte de las conversaciones sobre la guerra de Irán - BBC,2026-04-25 22:12
-cerca,4,9,2.72,54,"20minutos, elcorreo, heraldo_aragon, elmundo",4,Dos cazas británicos despegan para interceptar drones rusos avistados cerca del espacio aéreo de la OTAN,2026-04-25 22:12
-maría,4,9,2.72,54,"elcorreo, huffington_es, sur, google_news_internacional",4,"Homenaje en el Metropolitano a María, la 'princesa futbolera guerrera' que luchó contra el cáncer",2026-04-25 22:12
-vídeo,3,7,2.63,52,"google_news_es, elcorreo, huffington_es",3,Crónica y vídeo del Bayern - Barcelona 1-1 de la ida de semifinales de la UEFA Women's Champions League - UEFA.com,2026-04-25 22:12
-atracción,3,7,2.63,52,"sur, google_news_internacional, lavanguardia",3,Accidente en la Feria de Sevilla: los dos niños heridos en la atracción del tirachinas son malagueños,2026-04-25 22:12
-martínez,3,7,2.63,52,"elcorreo, google_news_es",2,El mejor Toni Martínez da alas a otra remontada: «Es mi mejor día en el Alavés»,2026-04-25 22:12
-vivienda,3,7,2.63,52,"huffington_es, elcorreo",2,"Carme Trilla, economista experta en vivienda: &quot;Hemos de superar el estigma absurdo que existe sobre la vivienda protegida; la derecha y la extrema derecha se oponen a construir en barrios de cierto nivel adquisitivo&quot;",2026-04-25 22:12
-tesoro,3,7,2.63,52,"elcorreo, elpais, levante_emv",3,Roban del Museo Arqueológico de Badajoz 149 monedas del Tesoro de Villanueva de la Serena,2026-04-25 22:12
-nivel,3,7,2.63,52,"elcorreo, 20minutos, google_news_es, huffington_es",4,Uriarte confirma que ya tiene entrenador: «Va a ser de primerísimo nivel»,2026-04-25 22:12
-mucho,3,7,2.63,52,"heraldo_aragon, 20minutos",2,"La Orbea Monegros cumple su promesa: ""Se sufre mucho, pero siempre merece la pena""",2026-04-25 22:12
-mayor,3,7,2.63,52,"huffington_es, okdiario, 20minutos",3,"Ariane Hoyos y Beñat Azurmendi, los &#039;influencers&#039; detrás de la librería Lasai: &quot;Los jóvenes están enganchados a TikTok, sí, pero la gente mayor también&quot;",2026-04-25 22:12
-último,4,10,2.45,49,"levante_emv, elcorreo, elpais, heraldo_aragon",4,El Último de la Fila firma en Marenostrum de Fuengirola su primer truco de magia en casi tres décadas,2026-04-25 22:12
-después,8,20,2.45,49,"google_news_internacional, 20minutos, huffington_es, elpais",4,Día Internacional en Recuerdo del Desastre de Chernóbil 2026 40 años después las consecuencias siguen activas - ECOticias.com,2026-04-25 22:12
-defensa,4,10,2.45,49,"elcorreo, huffington_es, okdiario, lavanguardia",4,Estados Unidos permite a Venezuela pagar la defensa de Nicolás Maduro,2026-04-25 22:12
-seguridad,4,10,2.45,49,"france24_es, sur, levante_emv",3,¿Cuál es la situación militar y de seguridad en Mali?,2026-04-25 22:12
-varios,4,10,2.45,49,"france24_es, google_news_es, heraldo_aragon, elcorreo",4,"Al menos siete muertos y varios heridos en ataque con explosivos en la vía Panamericana, suroeste de Colombia",2026-04-25 22:12
-española,3,8,2.3,45,"okdiario, google_news_internacional",2,"Casi nadie lo conoce pero lo llaman la Toscana española: 18 pueblos con callejuelas, palacetes medievales e iglesias que son una joya para visitar esta primavera",2026-04-25 22:12
-dentro,3,8,2.3,45,levante_emv,1,"El PSOE de Extremadura aúpa a Cotrina: ""Volveremos a ser candil dentro de las casas""",2026-04-25 22:12
-carga,3,8,2.3,45,"eldiario, levante_emv",2,"Cotrina arranca su etapa en el PSOE extremeño con una dirección de unidad y carga contra el pacto PP-Vox: ""Es una humillación""",2026-04-25 22:12
-marcha,3,8,2.3,45,"20minutos, lavanguardia, levante_emv",3,Pablo Barrios se marcha hundido tras su nueva lesión justo antes del Arsenal,2026-04-25 22:12
-málaga,7,19,2.26,45,sur,1,"Precio de la gasolina y diésel en Málaga hoy, domingo 26 de abril: ¿Dónde están las gasolineras más baratas?",2026-04-25 22:12
-arqueológico,3,8,2.3,45,"elcorreo, elpais, levante_emv",3,Roban del Museo Arqueológico de Badajoz 149 monedas del Tesoro de Villanueva de la Serena,2026-04-25 22:12
-ataques,4,11,2.23,44,"google_news_internacional, france24_es, elcorreo, google_news_es",4,Al Qaeda reivindica los ataques de Mali y anuncia el control de la ciudad de Kidal - heraldo.es,2026-04-25 22:12
-partido,10,28,2.19,43,"elcorreo, google_news_es, huffington_es, sur, elespanol",5,"Valverde: «Nos han ganado con muy poco, no hemos hecho un partido para perder»",2026-04-25 22:12
-badajoz,3,9,2.04,40,"elcorreo, elpais, levante_emv",3,Roban del Museo Arqueológico de Badajoz 149 monedas del Tesoro de Villanueva de la Serena,2026-04-25 22:12
-valència,3,9,2.04,40,"levante_emv, lavanguardia",2,València sale a la calle por el 25 d'Abril,2026-04-25 22:12
-enviados,3,9,2.04,40,"google_news_internacional, elpais, france24_es",3,Trump cancela el viaje de sus enviados a Pakistán después de que el negociador iraní abandonase el país - EL PAÍS,2026-04-25 22:12
-fuego,5,15,2.04,40,"huffington_es, 20minutos, elmundo, google_news_internacional, elespanol",5,Netanyahu ordena al Ejército atacar a Hezbolá &quot;vigorosamente&quot; pese al alto el fuego en vigor,2026-04-25 22:12
-sprint,3,9,2.04,40,"elcorreo, okdiario, elespanol",3,Un heroico sprint final que bien vale una permanencia,2026-04-25 22:12
-queda,3,9,2.04,40,"sur, lavanguardia",2,Así queda el Málaga en la clasificación tras perder contra el Castellón,2026-04-25 22:12
-venezuela,4,12,2.04,40,"20minutos, google_news_es, elcorreo, huffington_es",4,EEUU autoriza a Venezuela el pago de los abogados de Nicolás Maduro y Cilia Flores,2026-04-25 22:12
+miles,5,1,27.28,100,"bbc_mundo, elcorreo, eldiario, sur, levante_emv",5,Cómo el abandono de un sistema de alerta de inundaciones en el Everest está poniendo a miles de personas en riesgo,2026-04-25 22:40
+basket,5,0,5.0,100,"elpais, elespanol, levante_emv",3,El Real Madrid enfría la euforia del Valencia Basket,2026-04-25 22:40
+colombia,11,10,6.0,100,"google_news_es, eldiario, levante_emv, 20minutos, okdiario",5,Al menos siete muertos y más de 20 heridos graves en un atentado terrorista en la Vía Panamericana en Colombia - RTVE.es,2026-04-25 22:40
+panamericana,7,0,5.0,100,"google_news_es, elpais, 20minutos, france24_es, heraldo_aragon",5,Al menos siete muertos y más de 20 heridos graves en un atentado terrorista en la Vía Panamericana en Colombia - RTVE.es,2026-04-25 22:40
+terrorista,9,0,5.0,100,"google_news_es, eldiario, levante_emv, elpais, 20minutos",5,Al menos siete muertos y más de 20 heridos graves en un atentado terrorista en la Vía Panamericana en Colombia - RTVE.es,2026-04-25 22:40
+atentado,5,0,5.0,100,"google_news_es, levante_emv, elpais, okdiario, google_news_internacional",5,Al menos siete muertos y más de 20 heridos graves en un atentado terrorista en la Vía Panamericana en Colombia - RTVE.es,2026-04-25 22:40
+heridos,13,13,5.46,100,"google_news_es, eldiario, levante_emv, elpais, 20minutos",5,Al menos siete muertos y más de 20 heridos graves en un atentado terrorista en la Vía Panamericana en Colombia - RTVE.es,2026-04-25 22:40
+muertos,12,12,5.46,100,"google_news_es, eldiario, levante_emv, elpais, 20minutos",5,Al menos siete muertos y más de 20 heridos graves en un atentado terrorista en la Vía Panamericana en Colombia - RTVE.es,2026-04-25 22:40
+participar,3,1,16.37,100,"heraldo_aragon, google_news_es",2,Cerca de 800 niños llenan el Pinilla de Teruel para participar en el Cross Promesicas,2026-04-25 22:40
+endesa,3,0,5.0,100,"elespanol, levante_emv",2,El Real Madrid refuerza su liderato en la Liga Endesa con la victoria ante el Valencia Basket en una segunda parte colosal,2026-04-25 22:40
+fotos,4,1,21.82,100,"google_news_es, heraldo_aragon, google_news_internacional",3,Fotos del videomapping de las Fiestas Goyescas de Zaragoza 2026 - heraldo.es,2026-04-25 22:40
+sorloth,3,1,16.37,100,"europapress, 20minutos",2,Sorloth afina su puntería para el Arsenal con un doblete,2026-04-25 22:40
+valencia,12,7,9.35,100,"levante_emv, elpais, elespanol, google_news_es, okdiario",5,"Boda en el periodismo valenciano: Abraham Pérez y Toni Gómez se dan el “sí, quiero”",2026-04-25 22:40
+alineaciones,3,1,16.37,100,google_news_es,1,Puntos DAZN Atlético de Madrid vs Athletic Club de la FANTASY LALIGA 2025/26: puntuaciones y alineaciones del partido de la jornada 32 de Primera División | DAZN News MX - DAZN,2026-04-25 22:40
+salto,3,1,16.37,100,"sur, elcorreo, elpais",3,«Me preguntan si voy a dar el salto a la literatura adulta»,2026-04-25 22:40
+fiesta,4,3,7.27,100,"elcorreo, google_news_es, okdiario",3,ETS tiñe Madrid de una gran fiesta euskaldun ante 15.000 seguidores,2026-04-25 22:40
+arsenal,8,1,43.65,100,"20minutos, europapress, google_news_es, levante_emv",4,Pablo Barrios se marcha hundido tras su nueva lesión justo antes del Arsenal,2026-04-25 22:40
+sueldazo,4,0,5.0,100,"sur, elcorreo, okdiario",3,"Comprobar Lotería del sábado, 25 de abril: resultados de la Bonoloto, La Primitiva, de la Lotería Nacional y del Sueldazo del fin de semana de la ONCE",2026-04-25 22:40
+primitiva,7,0,5.0,100,"sur, 20minutos, levante_emv, elcorreo, okdiario",5,"Comprobar Lotería del sábado, 25 de abril: resultados de la Bonoloto, La Primitiva, de la Lotería Nacional y del Sueldazo del fin de semana de la ONCE",2026-04-25 22:40
+miranda,5,5,5.46,100,elcorreo,1,Cerca de 300 personas han mejorado su capacitación con la Cámara en el último año en Miranda,2026-04-25 22:40
+espacio,4,2,10.91,100,"20minutos, levante_emv, elmundo_internacional",3,Dos cazas británicos despegan para interceptar drones rusos avistados cerca del espacio aéreo de la OTAN,2026-04-25 22:40
+deportivo,5,5,5.46,100,"google_news_internacional, sur, levante_emv",3,El Ajax de Òscar Garcia gana y cree más que nunca en la Champions - Mundo Deportivo,2026-04-25 22:40
+goles,3,3,5.46,100,"google_news_es, elcorreo, 20minutos",3,"Atlético de Madrid 3-2 Athletic: resumen, goles y resultado - Diario AS",2026-04-25 22:40
+resumen,4,4,5.46,100,"google_news_es, elcorreo, google_news_internacional, heraldo_aragon",4,"Atlético de Madrid 3-2 Athletic: resumen, goles y resultado - Diario AS",2026-04-25 22:40
+girona,4,0,5.0,100,"google_news_es, elpais, levante_emv",3,Puntos DAZN Valencia vs Girona de la FANTASY LALIGA 2025/26: puntuaciones y alineaciones del partido de la jornada 32 de Primera División - DAZN,2026-04-25 22:40
+rodaje,3,1,16.37,100,"heraldo_aragon, 20minutos",2,El equipo de La Ahorcada se reencuentra en Teruel con los escenarios de rodaje,2026-04-25 22:40
+suroeste,3,0,5.0,100,"eldiario, france24_es, google_news_es",3,Al menos siete muertos y 17 heridos por un ataque terrorista en el suroeste de Colombia,2026-04-25 22:40
+hamás,3,3,5.46,100,"20minutos, elpais",2,Palestina celebra elecciones locales sin incidentes: las urnas vuelven a Gaza 20 años después en unos comicios sin Hamás,2026-04-25 22:40
+flick,5,3,9.09,100,"elpais, google_news_es, okdiario, lavanguardia",4,"Hansi Flick, tras la victoria del Barcelona en Getafe: “Me quiero olvidar de todas la cuentas”",2026-04-25 22:40
+hansi,3,1,16.37,100,"elpais, google_news_es, okdiario",3,"Hansi Flick, tras la victoria del Barcelona en Getafe: “Me quiero olvidar de todas la cuentas”",2026-04-25 22:40
+viajes,3,1,16.37,100,"levante_emv, google_news_internacional",2,La guerra en Irán pone en jaque los viajes de verano por el encarecimiento del combustible de avión,2026-04-25 22:40
+jaque,3,1,16.37,100,"levante_emv, google_news_internacional",2,La guerra en Irán pone en jaque los viajes de verano por el encarecimiento del combustible de avión,2026-04-25 22:40
+contado,3,0,5.0,100,"google_news_es, okdiario, elpais",3,Así te hemos contado el Valencia CF-Girona FC - Las Provincias,2026-04-25 22:40
+hizbulá,4,0,5.0,100,"expansion, elmundo, google_news_internacional",3,"Netanyahu ordena atacar ""con contundencia"" a Hizbulá en el Líbano",2026-04-25 22:40
+contundencia,5,0,5.0,100,"google_news_internacional, expansion, 20minutos, elmundo",4,"Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Netanyahu ordena atacar “con contundencia” a Hezbolá en Líbano - EL PAÍS",2026-04-25 22:40
+pague,3,2,8.18,100,"google_news_es, okdiario",2,Estados Unidos modifica las sanciones a Venezuela y permite que pague a los abogados de Nicolás Maduro y Cilia Flores - RTVE.es,2026-04-25 22:40
+permite,5,4,6.82,100,"google_news_es, elcorreo, huffington_es",3,Estados Unidos modifica las sanciones a Venezuela y permite que pague a los abogados de Nicolás Maduro y Cilia Flores - RTVE.es,2026-04-25 22:40
+atacar,9,2,24.55,100,"google_news_internacional, expansion, huffington_es, 20minutos, elmundo",5,"Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Netanyahu ordena atacar “con contundencia” a Hezbolá en Líbano - EL PAÍS",2026-04-25 22:40
+d’abril,3,1,16.37,100,"elpais, lavanguardia, levante_emv",3,Diada del 25 d’abril. Contra la paret,2026-04-25 22:40
+conoce,3,1,16.37,100,"heraldo_aragon, okdiario",2,El Casademont Zaragoza ya conoce su rival y las fechas en los cuartos de final del 'play off' de la Liga Femenina,2026-04-25 22:40
+casademont,7,0,5.0,100,heraldo_aragon,1,El Casademont Zaragoza ya conoce su rival y las fechas en los cuartos de final del 'play off' de la Liga Femenina,2026-04-25 22:40
+completo,3,2,8.18,100,"20minutos, sur",2,Las impactantes imágenes del momento en el que una tormenta de arena engulle una ciudad por completo,2026-04-25 22:40
+cotrina,3,2,8.18,100,"levante_emv, eldiario, elmundo",3,"El PSOE de Extremadura aúpa a Cotrina: ""Volveremos a ser candil dentro de las casas""",2026-04-25 22:40
+calles,3,1,16.37,100,"elcorreo, heraldo_aragon, 20minutos",3,Miles de personas se manifiestan contra «el genocidio y la guerra» por las calles de Donostia,2026-04-25 22:40
+nicolás,3,2,8.18,100,"20minutos, google_news_es, elcorreo",3,EEUU autoriza a Venezuela el pago de los abogados de Nicolás Maduro y Cilia Flores,2026-04-25 22:40
+lleida,3,3,5.46,100,sur,1,El Unicaja sale del laberinto con un claro triunfo ante el Lleida (91-72),2026-04-25 22:40
+explosivos,6,0,5.0,100,"okdiario, google_news_internacional, france24_es, google_news_es, heraldo_aragon",5,Al menos 7 muertos y 20 heridos en un brutal atentado terrorista con explosivos en Colombia,2026-04-25 22:40
+brutal,3,1,16.37,100,"okdiario, google_news_internacional, heraldo_aragon",3,Al menos 7 muertos y 20 heridos en un brutal atentado terrorista con explosivos en Colombia,2026-04-25 22:40
+remontada,4,0,5.0,100,"elcorreo, levante_emv",2,Una remontada salvadora,2026-04-25 22:40
+división,3,3,5.46,100,google_news_es,1,Puntos DAZN Atlético de Madrid vs Athletic Club de la FANTASY LALIGA 2025/26: puntuaciones y alineaciones del partido de la jornada 32 de Primera División | DAZN News MX - DAZN,2026-04-25 22:40
+derecha,3,2,8.18,100,huffington_es,1,"Carme Trilla, economista experta en vivienda: &quot;Hemos de superar el estigma absurdo que existe sobre la vivienda protegida; la derecha y la extrema derecha se oponen a construir en barrios de cierto nivel adquisitivo&quot;",2026-04-25 22:40
+puntuaciones,3,1,16.37,100,google_news_es,1,Puntos DAZN Atlético de Madrid vs Athletic Club de la FANTASY LALIGA 2025/26: puntuaciones y alineaciones del partido de la jornada 32 de Primera División | DAZN News MX - DAZN,2026-04-25 22:40
+hemos,5,3,9.09,100,"elcorreo, google_news_es, elpais, france24_es, huffington_es",5,"Valverde: «Nos han ganado con muy poco, no hemos hecho un partido para perder»",2026-04-25 22:40
+marenostrum,3,0,5.0,100,levante_emv,1,El Último de la Fila firma en Marenostrum de Fuengirola su primer truco de magia en casi tres décadas,2026-04-25 22:40
+media,3,2,8.18,100,"levante_emv, elcorreo, okdiario",3,ALDI impulsa el consumo de frescos con precios un 15% más bajos que la media del sector,2026-04-25 22:40
+siete,10,2,27.28,100,"sur, google_news_es, eldiario, levante_emv, elpais",5,Derrota en La Rosaleda más de siete meses después,2026-04-25 22:40
+rosaleda,3,0,5.0,100,sur,1,Derrota en La Rosaleda más de siete meses después,2026-04-25 22:40
+magia,3,3,5.46,100,"levante_emv, heraldo_aragon",2,El Último de la Fila firma en Marenostrum de Fuengirola su primer truco de magia en casi tres décadas,2026-04-25 22:40
+hacia,3,1,16.37,100,"elcorreo, elpais, huffington_es",3,Hacia un nuevo récord,2026-04-25 22:40
+2025/26,3,1,16.37,100,google_news_es,1,Puntos DAZN Atlético de Madrid vs Athletic Club de la FANTASY LALIGA 2025/26: puntuaciones y alineaciones del partido de la jornada 32 de Primera División | DAZN News MX - DAZN,2026-04-25 22:40
+equipo,4,1,21.82,100,"elcorreo, sur, heraldo_aragon",3,Cinco minutos de oscuridad que apagaron la luz del equipo,2026-04-25 22:40
+unicaja,6,3,10.91,100,sur,1,De Freepik a Unicaja: así se integra la IA en las empresas malagueñas,2026-04-25 22:40
+domingo,10,6,9.09,100,"sur, 20minutos, google_news_es",3,"Precio de la gasolina y diésel en Málaga hoy, domingo 26 de abril: ¿Dónde están las gasolineras más baratas?",2026-04-25 22:40
+netanyahu,10,3,18.19,100,"okdiario, levante_emv, google_news_internacional, expansion, huffington_es",5,Netanyahu ordena al Ejército israelí golpear «con fuerza» a Hezbolá tras repetidas violaciones de la tregua,2026-04-25 22:40
+ordena,9,2,24.55,100,"okdiario, google_news_internacional, elmundo_internacional, expansion, huffington_es",5,Netanyahu ordena al Ejército israelí golpear «con fuerza» a Hezbolá tras repetidas violaciones de la tregua,2026-04-25 22:40
+hezbolá,5,0,5.0,100,"okdiario, google_news_internacional, huffington_es, 20minutos",4,Netanyahu ordena al Ejército israelí golpear «con fuerza» a Hezbolá tras repetidas violaciones de la tregua,2026-04-25 22:40
+atlético-athletic,3,1,16.37,100,elcorreo,1,"El 1x1 del Atlético-Athletic: Galarreta, el mejor",2026-04-25 22:40
+firma,3,2,8.18,100,"levante_emv, elcorreo, europapress, okdiario",4,El Último de la Fila firma en Marenostrum de Fuengirola su primer truco de magia en casi tres décadas,2026-04-25 22:40
+barrios,6,2,16.37,100,"google_news_es, okdiario, 20minutos, levante_emv, huffington_es",5,"El mensaje paternal del Cholo Simeone a Pablo Barrios tras una nueva lesión: ""Antes del partido le dije que confío mucho en él"" - DAZN",2026-04-25 22:40
+decepción,3,0,5.0,100,"sur, elpais",2,De la ilusión a la decepción,2026-04-25 22:40
+athletic,14,3,25.46,100,"elcorreo, google_news_es, elmundo, okdiario, levante_emv",5,Este Athletic no necesita nada para perder,2026-04-25 22:40
+bayern,4,4,5.46,100,"google_news_es, elpais, okdiario",3,Crónica y vídeo del Bayern - Barcelona 1-1 de la ida de semifinales de la UEFA Women's Champions League - UEFA.com,2026-04-25 22:40
+semifinales,3,3,5.46,100,"google_news_es, elpais",2,Crónica y vídeo del Bayern - Barcelona 1-1 de la ida de semifinales de la UEFA Women's Champions League - UEFA.com,2026-04-25 22:40
+champions,6,6,5.46,100,"google_news_es, google_news_internacional, okdiario, elpais",4,Crónica y vídeo del Bayern - Barcelona 1-1 de la ida de semifinales de la UEFA Women's Champions League - UEFA.com,2026-04-25 22:40
+atlético,14,6,12.73,100,"elcorreo, google_news_es, elmundo, okdiario, levante_emv",5,"El 1x1 del Atlético-Athletic: Galarreta, el mejor",2026-04-25 22:40
+castellón,4,1,21.82,100,sur,1,Notas a los jugadores del Málaga ante el Castellón,2026-04-25 22:40
+fantasy,3,1,16.37,100,google_news_es,1,Puntos DAZN Atlético de Madrid vs Athletic Club de la FANTASY LALIGA 2025/26: puntuaciones y alineaciones del partido de la jornada 32 de Primera División | DAZN News MX - DAZN,2026-04-25 22:40
+vitoria,4,3,7.27,100,elcorreo,1,Un pasillo verde unirá Salburua y los Montes de Vitoria al aflorar un río que está bajo Arkaute,2026-04-25 22:40
+laliga,9,11,4.46,89,"google_news_es, levante_emv, 20minutos",3,Puntos DAZN Atlético de Madrid vs Athletic Club de la FANTASY LALIGA 2025/26: puntuaciones y alineaciones del partido de la jornada 32 de Primera División | DAZN News MX - DAZN,2026-04-25 22:40
+bonoloto,8,10,4.36,87,"sur, 20minutos, levante_emv, elcorreo, okdiario",5,"Comprobar Lotería del sábado, 25 de abril: resultados de la Bonoloto, La Primitiva, de la Lotería Nacional y del Sueldazo del fin de semana de la ONCE",2026-04-25 22:40
+ejército,4,5,4.36,87,"elcorreo, okdiario, france24_es, huffington_es",4,Un césped más crecido para atraer a un ejército de polinizadores a los parques de Vitoria,2026-04-25 22:40
+líbano,7,9,4.24,84,"google_news_internacional, expansion, 20minutos, elmundo, google_news_es",5,"Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | Netanyahu ordena atacar “con contundencia” a Hezbolá en Líbano - EL PAÍS",2026-04-25 22:40
+triunfo,3,4,4.09,81,"sur, elcorreo",2,El Unicaja sale del laberinto con un claro triunfo ante el Lleida (91-72),2026-04-25 22:40
+global,3,4,4.09,81,"levante_emv, google_news_economia, google_news_internacional",3,Valencia Basket Femenino jugará los playoff de la Liga Endesa contra Ensino Lugo tras caer ante Hozono Global Jairis,2026-04-25 22:40
+celebran,3,4,4.09,81,"elcorreo, eldiario, sur",3,Cisjordania y Gaza celebran sus primeras elecciones desde el inicio de la guerra,2026-04-25 22:40
+arena,3,4,4.09,81,"sur, elcorreo, 20minutos, levante_emv",4,Jon Kortajarena: «Estoy lleno de ilusiones»,2026-04-25 22:40
+europea,5,7,3.9,77,"elcorreo, sur, elmundo, 20minutos, huffington_es",5,Un nuevo dron de ataque ruso cae en suelo de la Unión Europea,2026-04-25 22:40
+meses,5,7,3.9,77,"elcorreo, sur",2,La mayor ladrona de Euskadi suma otros 21 meses de cárcel tras asaltar una residencia,2026-04-25 22:40
+final,7,10,3.82,76,"elcorreo, google_news_es, levante_emv, sur, heraldo_aragon",5,El Estadio abrirá las nuevas piscinas y el gimnasio a finales de septiembre,2026-04-25 22:40
+maduro,6,9,3.64,72,"20minutos, google_news_es, elcorreo, huffington_es, okdiario",5,EEUU autoriza a Venezuela el pago de los abogados de Nicolás Maduro y Cilia Flores,2026-04-25 22:40
+imágenes,6,9,3.64,72,"levante_emv, 20minutos, okdiario",3,"LaLiga: Atlético de Madrid - Athletic, en imágenes",2026-04-25 22:40
+victoria,8,12,3.64,72,"elespanol, elpais, google_news_es, okdiario, lavanguardia",5,El Real Madrid refuerza su liderato en la Liga Endesa con la victoria ante el Valencia Basket en una segunda parte colosal,2026-04-25 22:40
+expertos,4,6,3.64,72,"okdiario, huffington_es",2,Los investigadores expertos analizan 400 ejemplares y confirman que los jabalíes urbanos y rurales son genéticamente distintos,2026-04-25 22:40
+pagar,4,6,3.64,72,"elcorreo, google_news_economia, huffington_es, 20minutos",4,Cinco minutos de oscuridad que apagaron la luz del equipo,2026-04-25 22:40
+antes,9,14,3.51,70,"google_news_es, 20minutos, levante_emv, huffington_es, elcorreo",5,"El mensaje paternal del Cholo Simeone a Pablo Barrios tras una nueva lesión: ""Antes del partido le dije que confío mucho en él"" - DAZN",2026-04-25 22:40
+resultado,10,16,3.41,68,"google_news_es, sur, levante_emv, elcorreo, okdiario",5,"Atlético de Madrid 3-2 Athletic: resumen, goles y resultado - Diario AS",2026-04-25 22:40
+cancela,8,13,3.36,67,"google_news_es, google_news_internacional, bbc_mundo, elpais, expansion",5,Trump cancela el viaje de sus representantes a Pakistán que iban a ser parte de las conversaciones sobre la guerra de Irán - BBC,2026-04-25 22:40
+pilar,3,5,3.27,65,"heraldo_aragon, google_news_internacional",2,Los diseñadores Alexis Jiménez y África Rello ganan el certamen 'Aguja Goyesca' en la plaza del Pilar de Zaragoza,2026-04-25 22:40
+obras,3,5,3.27,65,"elcorreo, levante_emv, sur",3,DHL inicia las obras del hangar para reparar aviones en Foronda,2026-04-25 22:40
+dejar,3,5,3.27,65,"20minutos, huffington_es",2,"Jeremy London, cirujano cardiaco: ""Estas son los cinco hábitos que hay que dejar para retrasar el envejecimiento""",2026-04-25 22:40
+décadas,3,5,3.27,65,"levante_emv, huffington_es",2,El Último de la Fila firma en Marenostrum de Fuengirola su primer truco de magia en casi tres décadas,2026-04-25 22:40
+cumple,3,5,3.27,65,"google_news_internacional, heraldo_aragon",2,"Netanyahu ordena atacar ""con contundencia"" a Hezbolá, a quien acusa de romper un alto el fuego que Israel no cumple - elDiario.es",2026-04-25 22:40
+juego,3,5,3.27,65,"elcorreo, okdiario, google_news_es",3,«Utilizar el euskera como arma arrojadiza es malo para el país. No juego a eso»,2026-04-25 22:40
+cambia,3,5,3.27,65,"elmundo_espana, google_news_economia, google_news_es, huffington_es",4,"Moncloa cambia de ánimo con el choque con Trump: ""Íbamos perdiendo 7-0 y ahora vemos más incómodo a Feijóo""",2026-04-25 22:40
+combustible,3,5,3.27,65,"levante_emv, google_news_internacional, huffington_es",3,La guerra en Irán pone en jaque los viajes de verano por el encarecimiento del combustible de avión,2026-04-25 22:40
+menos,12,20,3.27,65,"google_news_es, eldiario, levante_emv, elpais, 20minutos",5,Al menos siete muertos y más de 20 heridos graves en un atentado terrorista en la Vía Panamericana en Colombia - RTVE.es,2026-04-25 22:40
+mayor,4,7,3.12,62,"elcorreo, huffington_es, okdiario, 20minutos",4,La mayor ladrona de Euskadi suma otros 21 meses de cárcel tras asaltar una residencia,2026-04-25 22:40
+cerca,4,7,3.12,62,"20minutos, elcorreo, heraldo_aragon",3,Dos cazas británicos despegan para interceptar drones rusos avistados cerca del espacio aéreo de la OTAN,2026-04-25 22:40
+segunda,5,9,3.03,60,"elespanol, sur, elmundo_internacional, elcorreo, eldiario",5,El Real Madrid refuerza su liderato en la Liga Endesa con la victoria ante el Valencia Basket en una segunda parte colosal,2026-04-25 22:40
+ataque,9,17,2.89,57,"elcorreo, google_news_internacional, eldiario, 20minutos, france24_es",5,29 ataques de lobo en cuatro meses disparan las alertas de los ganaderos en Álava,2026-04-25 22:40
+defensa,5,10,2.73,54,"elcorreo, huffington_es, okdiario, google_news_es, lavanguardia",5,Estados Unidos permite a Venezuela pagar la defensa de Nicolás Maduro,2026-04-25 22:40
+seguridad,5,10,2.73,54,"elcorreo, france24_es, sur, levante_emv",4,«La semana que viene empezamos a negociar la Seguridad Social. Hay un camino abierto»,2026-04-25 22:40
+campeón,3,6,2.73,54,"google_news_es, elpais, elcorreo",3,¿Cuándo podría ser el FC Barcelona campeón de LaLiga? - DAZN,2026-04-25 22:40
+último,5,10,2.73,54,"levante_emv, elcorreo, elpais, heraldo_aragon",4,El Último de la Fila firma en Marenostrum de Fuengirola su primer truco de magia en casi tres décadas,2026-04-25 22:40
+fuengirola,3,6,2.73,54,levante_emv,1,El Último de la Fila firma en Marenostrum de Fuengirola su primer truco de magia en casi tres décadas,2026-04-25 22:40
+locales,3,6,2.73,54,"20minutos, elpais",2,Palestina celebra elecciones locales sin incidentes: las urnas vuelven a Gaza 20 años después en unos comicios sin Hamás,2026-04-25 22:40
+urnas,3,6,2.73,54,"20minutos, elpais",2,Palestina celebra elecciones locales sin incidentes: las urnas vuelven a Gaza 20 años después en unos comicios sin Hamás,2026-04-25 22:40
+después,10,20,2.73,54,"google_news_internacional, sur, 20minutos, huffington_es, elmundo_internacional",5,Día Internacional en Recuerdo del Desastre de Chernóbil 2026 40 años después las consecuencias siguen activas - ECOticias.com,2026-04-25 22:40
+mucho,4,8,2.73,54,"google_news_es, elcorreo, elmundo_internacional, heraldo_aragon",4,"El mensaje paternal del Cholo Simeone a Pablo Barrios tras una nueva lesión: ""Antes del partido le dije que confío mucho en él"" - DAZN",2026-04-25 22:40
+campaña,3,6,2.73,54,"sur, elcorreo",2,"Hacer campaña electoral en La Palmilla, La Corta, Cruz Verde o Los Asperones",2026-04-25 22:40
+maría,4,9,2.42,48,"elcorreo, huffington_es, sur, google_news_internacional",4,"Homenaje en el Metropolitano a María, la 'princesa futbolera guerrera' que luchó contra el cáncer",2026-04-25 22:40
+varios,4,9,2.42,48,"france24_es, google_news_es, heraldo_aragon, elcorreo",4,"Al menos siete muertos y varios heridos en ataque con explosivos en la vía Panamericana, suroeste de Colombia",2026-04-25 22:40
+negociadores,3,7,2.34,46,"expansion, europapress, google_news_internacional",3,Trump cancela el viaje a Pakistán de sus negociadores que debían hablar con Irán,2026-04-25 22:40
+social,3,7,2.34,46,"elcorreo, huffington_es, levante_emv",3,«La semana que viene empezamos a negociar la Seguridad Social. Hay un camino abierto»,2026-04-25 22:40
+nivel,3,7,2.34,46,"elcorreo, 20minutos, google_news_es, huffington_es",4,Uriarte confirma que ya tiene entrenador: «Va a ser de primerísimo nivel»,2026-04-25 22:40
+tesoro,3,7,2.34,46,"elcorreo, elpais, levante_emv",3,Roban del Museo Arqueológico de Badajoz 149 monedas del Tesoro de Villanueva de la Serena,2026-04-25 22:40
+vídeo,3,7,2.34,46,"google_news_es, elcorreo, huffington_es",3,Crónica y vídeo del Bayern - Barcelona 1-1 de la ida de semifinales de la UEFA Women's Champions League - UEFA.com,2026-04-25 22:40
+también,3,7,2.34,46,"okdiario, eldiario, huffington_es, 20minutos",4,Dani Mérida también se invita a la fiesta: rinde a Moutet y anima el Mutua Madrid Open,2026-04-25 22:40
+sector,3,7,2.34,46,"levante_emv, expansion, google_news_internacional",3,ALDI impulsa el consumo de frescos con precios un 15% más bajos que la media del sector,2026-04-25 22:40
+nuevos,3,7,2.34,46,"elcorreo, expansion, huffington_es",3,Los nuevos edificios dejan sin huecos para vivir a las aves y los murciélagos,2026-04-25 22:40
+venezuela,5,12,2.27,45,"20minutos, google_news_es, elcorreo, huffington_es",4,EEUU autoriza a Venezuela el pago de los abogados de Nicolás Maduro y Cilia Flores,2026-04-25 22:40
+málaga,8,19,2.3,45,sur,1,Notas a los jugadores del Málaga ante el Castellón,2026-04-25 22:40
+ataques,5,12,2.27,45,"elcorreo, google_news_internacional, france24_es, google_news_es",4,29 ataques de lobo en cuatro meses disparan las alertas de los ganaderos en Álava,2026-04-25 22:40
+partido,11,28,2.14,42,"google_news_es, elcorreo, huffington_es, sur, elespanol",5,"El mensaje paternal del Cholo Simeone a Pablo Barrios tras una nueva lesión: ""Antes del partido le dije que confío mucho en él"" - DAZN",2026-04-25 22:40
+arqueológico,3,8,2.05,40,"elcorreo, elpais, levante_emv",3,Roban del Museo Arqueológico de Badajoz 149 monedas del Tesoro de Villanueva de la Serena,2026-04-25 22:40
+española,3,8,2.05,40,"okdiario, google_news_internacional",2,"Casi nadie lo conoce pero lo llaman la Toscana española: 18 pueblos con callejuelas, palacetes medievales e iglesias que son una joya para visitar esta primavera",2026-04-25 22:40
+dentro,3,8,2.05,40,levante_emv,1,"El PSOE de Extremadura aúpa a Cotrina: ""Volveremos a ser candil dentro de las casas""",2026-04-25 22:40
+marcha,3,8,2.05,40,"20minutos, lavanguardia, levante_emv",3,Pablo Barrios se marcha hundido tras su nueva lesión justo antes del Arsenal,2026-04-25 22:40
+carga,3,8,2.05,40,"eldiario, levante_emv",2,"Cotrina arranca su etapa en el PSOE extremeño con una dirección de unidad y carga contra el pacto PP-Vox: ""Es una humillación""",2026-04-25 22:40
