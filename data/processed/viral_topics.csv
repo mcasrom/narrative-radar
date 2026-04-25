@@ -1,42 +1,38 @@
 keyword,count_now,count_base,ratio,viral_score,sources,n_sources,sample_title,detected_at
-opciones,4,1,57.93,100,"google_news_es, elespanol",2,Betis empata en el descuento y golpea las escasas opciones de título del Real Madrid - Los Angeles Times,2026-04-25 03:10
-canal,3,8,5.43,100,"france24_es, google_news_internacional, okdiario",3,"El canal de Panamá, gran ganador del bloqueo del estrecho de Ormuz",2026-04-25 03:10
-miranda,3,4,10.86,100,elcorreo,1,"La Azucarera de Miranda, en la memoria",2026-04-25 03:10
-reino,4,9,6.44,100,bbc_mundo,1,Las Malvinas/Falklands son un punto de presión para Reino Unido (y EE.UU. lo sabe),2026-04-25 03:10
-malvinas/falklands,3,1,43.45,100,bbc_mundo,1,Las Malvinas/Falklands son un punto de presión para Reino Unido (y EE.UU. lo sabe),2026-04-25 03:10
-canarias7,3,4,10.86,100,"google_news_economia, google_news_internacional",2,Albert Navarro García: Crisis de la vivienda en España: ¿funciona premiar fiscalmente a quien alquila barato? - Canarias7,2026-04-25 03:10
-unido,5,9,8.05,100,"elespanol, expansion, bbc_mundo",3,"100x100 Unidos, el partido del alcalde de La Línea que podría lograr un escaño clave por Cádiz en las elecciones andaluzas",2026-04-25 03:10
-calor,3,7,6.21,100,"elmundo, expansion, google_news_es",3,Un calor desigual en el Mutua: del vacío en los palcos VIPS al desatado fervor del público con sus jugadores,2026-04-25 03:10
-colombia,3,3,14.48,100,"france24_es, google_news_internacional",2,¿Se puede hacer retroceder a insurgentes que controlan la frontera Colombia-Venezuela?,2026-04-25 03:10
-segura,3,1,43.45,100,"elmundo, okdiario",2,Muere el ganadero Santiago Barrero San Román corneado por un toro en Beas de Segura (Jaén),2026-04-25 03:10
-corneado,3,0,5.0,100,"elmundo, okdiario",2,Muere el ganadero Santiago Barrero San Román corneado por un toro en Beas de Segura (Jaén),2026-04-25 03:10
-petro,3,6,7.24,100,france24_es,1,Petro y Rodríguez acuerdan cooperación en seguridad fronteriza y comercio,2026-04-25 03:10
-ayuda,3,5,8.69,100,"elconfidencial, google_news_internacional, elespanol",3,El servicio gratuito que ayuda a los valencianos a encontrar empleo,2026-04-25 03:10
-empata,4,1,57.93,100,"google_news_es, elmundo",2,Betis empata en el descuento y golpea las escasas opciones de título del Real Madrid - Los Angeles Times,2026-04-25 03:10
-betis,8,19,6.1,100,"google_news_es, elcorreo, elmundo, elespanol",4,Betis empata en el descuento y golpea las escasas opciones de título del Real Madrid - Los Angeles Times,2026-04-25 03:10
-bellerín,3,1,43.45,100,"elcorreo, elespanol",2,Lunin no es suficiente y Bellerín deja la Liga en bandeja al Barcelona,2026-04-25 03:10
-terremoto,4,5,11.59,100,elconfidencial,1,Registrado un ligero terremoto de magnitud 3.9 en varias localidades de Lugo,2026-04-25 03:10
-varias,3,7,6.21,100,elconfidencial,1,Registrado un ligero terremoto de magnitud 3.9 en varias localidades de Lugo,2026-04-25 03:10
-fiscal,3,5,8.69,100,"okdiario, google_news_economia, sur, france24_es",4,"El abogado, el asesor fiscal y empresarios bajo lupa por el ‘lobo cripto’ Sebastian Greenwood y su fortuna",2026-04-25 03:10
-frontera,3,1,43.45,100,"france24_es, elcorreo",2,¿Se puede hacer retroceder a insurgentes que controlan la frontera Colombia-Venezuela?,2026-04-25 03:10
-magnitud,3,4,10.86,100,elconfidencial,1,Registrado un ligero terremoto de magnitud 3.9 en varias localidades de Lugo,2026-04-25 03:10
-origen,3,3,14.48,100,"elconfidencial, elespanol, okdiario",3,El tradicional nombre de niña que es uno de los más típicos de la Comunidad Valenciana: de origen latino y que tiene un significado floral,2026-04-25 03:10
-ligero,4,0,5.0,100,elconfidencial,1,Registrado un ligero terremoto de magnitud 3.9 en varias localidades de Lugo,2026-04-25 03:10
-registrado,4,4,14.48,100,elconfidencial,1,Registrado un ligero terremoto de magnitud 3.9 en varias localidades de Lugo,2026-04-25 03:10
-queda,4,7,8.28,100,"france24_es, elcorreo, elpais, elespanol",4,¿EE. UU. se queda sin misiles Tomahawk?,2026-04-25 03:10
-localidades,3,0,5.0,100,elconfidencial,1,Registrado un ligero terremoto de magnitud 3.9 en varias localidades de Lugo,2026-04-25 03:10
-resultados,4,12,4.83,96,"france24_es, expansion, google_news_es, sur",4,"Caos electoral en Perú: retrasos, protestas e incertidumbre por resultados",2026-04-25 03:10
-cooperación,4,12,4.83,96,"google_news_internacional, france24_es",2,China impulsará la cooperación internacional en exploración planetaria y mitigación de desechos espaciales - CGTN en Español,2026-04-25 03:10
-victoria,3,9,4.83,96,"sur, elcorreo, google_news_es",3,Cerveza Victoria vuelve a lanzar una edición especial con el artista TVBoy,2026-04-25 03:10
-mutua,3,11,3.95,78,"elmundo, google_news_es",2,Un calor desigual en el Mutua: del vacío en los palcos VIPS al desatado fervor del público con sus jugadores,2026-04-25 03:10
-lópez,3,12,3.62,72,"google_news_internacional, elespanol, elcorreo",3,"El analista internacional Ramón López califica el reciente encuentro bilateral como un redimensionamiento estratégico. No se trata solo de diplomacia vecinal, sino de un esquema de alianzas de alto nivel con impacto global. • Proyección: Fortalecimiento del - instagram.com",2026-04-25 03:10
-rodríguez,3,13,3.34,66,france24_es,1,Petro y Rodríguez acuerdan cooperación en seguridad fronteriza y comercio,2026-04-25 03:10
-presidente,3,14,3.1,62,"elespanol, google_news_es, france24_es, sur",4,Trump acude por primera vez a la cena de corresponsales como presidente: el ritual que celebra —y crispa— a la prensa de EEUU,2026-04-25 03:10
-vuelve,4,21,2.76,55,"okdiario, levante_emv, sur, elcorreo",4,Rosario Sánchez vuelve a las andadas: media semana en Mallorca para promocionarse frente a Prohens,2026-04-25 03:10
-debate,4,22,2.63,52,"elconfidencial, google_news_politica, google_news_internacional, elcorreo",4,El antecedente de Alegría en Aragón desata el debate de si Morant debe seguir en el Gobierno,2026-04-25 03:10
-china,4,22,2.63,52,"google_news_internacional, elmundo, elcorreo",3,China impulsará la cooperación internacional en exploración planetaria y mitigación de desechos espaciales - CGTN en Español,2026-04-25 03:10
-hombre,3,20,2.17,43,"elespanol, elcorreo, sur, elmundo",4,"Dos informes ponen contra las cuerdas a Barbón en Asturias por la muerte de 5 hombres en una mina ilegal: ""Pudo evitarse""",2026-04-25 03:10
-libro,3,20,2.17,43,"elmundo, google_news_internacional",2,"El PP plantea blindar una hora de lectura a la semana y dar ""prioridad absoluta"" al libro de papel y a escribir a mano",2026-04-25 03:10
-málaga,7,47,2.16,43,sur,1,CM Málaga convoca el II Premio al Diseño Innovador y Sostenible,2026-04-25 03:10
-muerte,3,20,2.17,43,"elespanol, elcorreo, okdiario",3,"Dos informes ponen contra las cuerdas a Barbón en Asturias por la muerte de 5 hombres en una mina ilegal: ""Pudo evitarse""",2026-04-25 03:10
-madrid,17,118,2.09,41,"elconfidencial, google_news_es, elpais, google_news_internacional, elcorreo",5,Ni velas ni postureo: el auge de la música clásica que está haciendo vibrar a Madrid,2026-04-25 03:10
+ayuda,3,5,8.17,100,"elconfidencial, google_news_internacional, elespanol",3,El servicio gratuito que ayuda a los valencianos a encontrar empleo,2026-04-25 03:40
+terremoto,5,5,13.61,100,"heraldo_aragon, elconfidencial",2,Terremoto Trump,2026-04-25 03:40
+reino,4,9,6.05,100,bbc_mundo,1,Las Malvinas/Falklands son un punto de presión para Reino Unido (y EE.UU. lo sabe),2026-04-25 03:40
+malvinas/falklands,3,1,40.83,100,bbc_mundo,1,Las Malvinas/Falklands son un punto de presión para Reino Unido (y EE.UU. lo sabe),2026-04-25 03:40
+canarias7,3,4,10.21,100,"google_news_economia, google_news_internacional",2,Albert Navarro García: Crisis de la vivienda en España: ¿funciona premiar fiscalmente a quien alquila barato? - Canarias7,2026-04-25 03:40
+unido,5,9,7.56,100,"elespanol, expansion, bbc_mundo",3,"100x100 Unidos, el partido del alcalde de La Línea que podría lograr un escaño clave por Cádiz en las elecciones andaluzas",2026-04-25 03:40
+calor,3,7,5.83,100,"elmundo, expansion, google_news_es",3,Un calor desigual en el Mutua: del vacío en los palcos VIPS al desatado fervor del público con sus jugadores,2026-04-25 03:40
+canal,3,8,5.1,100,"heraldo_aragon, france24_es, google_news_internacional, okdiario",4,Vivir en Montecanal: un chalet independiente con jardín y espacios amplios en Zaragoza,2026-04-25 03:40
+muertos,3,3,13.61,100,"google_news_internacional, 20minutos, google_news_es",3,Dos muertos en un nuevo ataque de EE.UU. a una embarcación en el Pacífico - El Debate,2026-04-25 03:40
+localidades,3,0,5.0,100,elconfidencial,1,Registrado un ligero terremoto de magnitud 3.9 en varias localidades de Lugo,2026-04-25 03:40
+varias,3,6,6.81,100,elconfidencial,1,Registrado un ligero terremoto de magnitud 3.9 en varias localidades de Lugo,2026-04-25 03:40
+magnitud,3,4,10.21,100,elconfidencial,1,Registrado un ligero terremoto de magnitud 3.9 en varias localidades de Lugo,2026-04-25 03:40
+registrado,4,4,13.61,100,elconfidencial,1,Registrado un ligero terremoto de magnitud 3.9 en varias localidades de Lugo,2026-04-25 03:40
+ligero,4,0,5.0,100,elconfidencial,1,Registrado un ligero terremoto de magnitud 3.9 en varias localidades de Lugo,2026-04-25 03:40
+miranda,3,2,20.42,100,elcorreo,1,"La Azucarera de Miranda, en la memoria",2026-04-25 03:40
+fundación,3,6,6.81,100,"heraldo_aragon, google_news_es, sur",3,"La Fundación San Ezequiel Moreno ante la regularización: ""Para la demanda que hay han acreditado a pocas entidades colaboradoras""",2026-04-25 03:40
+huesca,3,8,5.1,100,heraldo_aragon,1,"La pizarra del derbi aragonés: la SD Huesca, en busca del equilibrio",2026-04-25 03:40
+banca,3,6,6.81,100,"heraldo_aragon, google_news_es, expansion",3,El juez autoriza investigar 20 años de cuentas bancarias del exministro Cristóbal Montoro,2026-04-25 03:40
+vacío,3,0,5.0,100,"heraldo_aragon, elmundo, elcorreo",3,EE. UU. se adueña del vacío de Catar por la guerra y ya exporta un tercio del mercado de gas mundial,2026-04-25 03:40
+teruel,4,8,6.81,100,heraldo_aragon,1,"Fabiana, la cocinera que es un sol del Matarraña: ""Cuando llegué me sorprendió el paisaje de Teruel""",2026-04-25 03:40
+cooperación,4,12,4.54,90,"google_news_internacional, france24_es",2,China impulsará la cooperación internacional en exploración planetaria y mitigación de desechos espaciales - CGTN en Español,2026-04-25 03:40
+salida,3,10,4.08,81,"heraldo_aragon, expansion",2,Acuerdo en Stellantis de un ERE para la salida de hasta 50 trabajadores en Zaragoza,2026-04-25 03:40
+reclama,3,10,4.08,81,"heraldo_aragon, okdiario, elcorreo",3,EE. UU. reclama a uno de los presos más peligrosos que hay en la cárcel de Zuera,2026-04-25 03:40
+negocio,3,10,4.08,81,"google_news_internacional, expansion",2,"Tino Fernández dispara un 30% el negocio internacional de Altia, pero solo gana dinero en Portugal - Economía Digital",2026-04-25 03:40
+público,3,11,3.71,74,"google_news_economia, sur, elmundo",3,"No, España no crece más por el gasto público; es uno de los países donde menos aumenta - El Confidencial",2026-04-25 03:40
+resultados,3,12,3.4,68,"france24_es, expansion, google_news_es",3,"Caos electoral en Perú: retrasos, protestas e incertidumbre por resultados",2026-04-25 03:40
+pueblo,5,20,3.4,68,"heraldo_aragon, france24_es, 20minutos, google_news_es",4,Un pueblo del Pirineo saca a concurso su bar-restaurante con tienda por un precio de salida de 5 euros al mes,2026-04-25 03:40
+lópez,3,12,3.4,68,"google_news_internacional, elespanol, elcorreo",3,"El analista internacional Ramón López califica el reciente encuentro bilateral como un redimensionamiento estratégico. No se trata solo de diplomacia vecinal, sino de un esquema de alianzas de alto nivel con impacto global. • Proyección: Fortalecimiento del - instagram.com",2026-04-25 03:40
+digital,3,13,3.14,62,"google_news_internacional, expansion, elcorreo",3,"Tino Fernández dispara un 30% el negocio internacional de Altia, pero solo gana dinero en Portugal - Economía Digital",2026-04-25 03:40
+debate,5,22,3.09,61,"elconfidencial, google_news_politica, google_news_internacional, elcorreo",4,El antecedente de Alegría en Aragón desata el debate de si Morant debe seguir en el Gobierno,2026-04-25 03:40
+presidente,3,14,2.92,58,"elespanol, google_news_es, france24_es, sur",4,Trump acude por primera vez a la cena de corresponsales como presidente: el ritual que celebra —y crispa— a la prensa de EEUU,2026-04-25 03:40
+muerte,4,19,2.87,57,"heraldo_aragon, elespanol, elcorreo, okdiario",4,"Ángel Guinda extiende, después de su muerte, el resplandor de su llamarada poética en el sello Visor",2026-04-25 03:40
+policía,3,15,2.72,54,"heraldo_aragon, france24_es, okdiario",3,"Diego Rico y el momento de más tensión en el Real Zaragoza: ""Los coches estaban reventados. A casa con la policía""",2026-04-25 03:40
+china,4,21,2.59,51,"google_news_internacional, elmundo, elcorreo",3,China impulsará la cooperación internacional en exploración planetaria y mitigación de desechos espaciales - CGTN en Español,2026-04-25 03:40
+aragón,5,27,2.52,50,"elconfidencial, heraldo_aragon, google_news_es",3,El antecedente de Alegría en Aragón desata el debate de si Morant debe seguir en el Gobierno,2026-04-25 03:40
+málaga,7,47,2.03,40,sur,1,CM Málaga convoca el II Premio al Diseño Innovador y Sostenible,2026-04-25 03:40
+libro,3,20,2.04,40,"elmundo, google_news_internacional",2,"El PP plantea blindar una hora de lectura a la semana y dar ""prioridad absoluta"" al libro de papel y a escribir a mano",2026-04-25 03:40
