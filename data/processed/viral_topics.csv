@@ -1,82 +1,61 @@
 keyword,count_now,count_base,ratio,viral_score,sources,n_sources,sample_title,detected_at
-presión,3,3,10.78,100,"bbc_mundo, levante_emv",2,Las Malvinas/Falklands son un punto de presión para Reino Unido (y EE.UU. lo sabe),2026-04-25 01:09
-cuponazo,3,3,10.78,100,"sur, okdiario",2,"Comprobar Lotería del viernes, 24 de abril: resultados de la Bonoloto, del Euromillones, del Eurojackpot de la ONCE y del Cuponazo de la ONCE",2026-04-25 01:09
-betis,12,15,8.63,100,"google_news_es, elcorreo, elmundo, elespanol, levante_emv",5,Betis empata en el descuento y golpea las escasas opciones de título del Real Madrid - The Morning Call,2026-04-25 01:09
-empata,3,1,32.35,100,"google_news_es, elmundo",2,Betis empata en el descuento y golpea las escasas opciones de título del Real Madrid - The Morning Call,2026-04-25 01:09
-opciones,3,1,32.35,100,"google_news_es, elespanol",2,Betis empata en el descuento y golpea las escasas opciones de título del Real Madrid - The Morning Call,2026-04-25 01:09
-fuera,4,8,5.39,100,"elcorreo, elpais, google_news_es, okdiario",4,Bases fuera,2026-04-25 01:09
-malvinas/falklands,3,1,32.35,100,bbc_mundo,1,Las Malvinas/Falklands son un punto de presión para Reino Unido (y EE.UU. lo sabe),2026-04-25 01:09
-miranda,3,6,5.39,100,elcorreo,1,"La Azucarera de Miranda, en la memoria",2026-04-25 01:09
-bellerín,3,1,32.35,100,"elcorreo, elespanol",2,Lunin no es suficiente y Bellerín deja la Liga en bandeja al Barcelona,2026-04-25 01:09
-jódar,9,1,97.04,100,"google_news_es, okdiario, levante_emv, elpais, elmundo",5,"Jódar, tras su primera victoria Top 10: “Los grandes rivales te hacen mejorar” - Mutua Madrid Open",2026-04-25 01:09
-queda,5,6,8.99,100,"elcorreo, elpais, elespanol, 20minutos, google_news_es",5,El lehendakari renuncia al nuevo BMW de lujo y prefiere quedarse con el Lexus,2026-04-25 01:09
-bonoloto,6,9,7.19,100,"sur, 20minutos, elcorreo, levante_emv, okdiario",5,"Comprobar Lotería del viernes, 24 de abril: resultados de la Bonoloto, del Euromillones, del Eurojackpot de la ONCE y del Cuponazo de la ONCE",2026-04-25 01:09
-euromillones,8,6,14.38,100,"sur, 20minutos, google_news_es, elcorreo, okdiario",5,"Comprobar Lotería del viernes, 24 de abril: resultados de la Bonoloto, del Euromillones, del Eurojackpot de la ONCE y del Cuponazo de la ONCE",2026-04-25 01:09
-eurojackpot,3,2,16.17,100,"sur, okdiario",2,"Comprobar Lotería del viernes, 24 de abril: resultados de la Bonoloto, del Euromillones, del Eurojackpot de la ONCE y del Cuponazo de la ONCE",2026-04-25 01:09
-l'umbracle,3,2,16.17,100,levante_emv,1,La terraza de l'Umbracle abre sus puertas pese a la sentencia por ruido,2026-04-25 01:09
-canarias7,3,4,8.09,100,"google_news_economia, google_news_internacional",2,Albert Navarro García: Crisis de la vivienda en España: ¿funciona premiar fiscalmente a quien alquila barato? - Canarias7,2026-04-25 01:09
-sentencia,4,7,6.16,100,"elcorreo, levante_emv, elmundo",3,Las primeras sentencias abren la veda a una avalancha de reclamaciones de interinos,2026-04-25 01:09
-miñaur,6,0,5.0,100,"google_news_es, elpais, elmundo, okdiario",4,Un colosal Rafa Jódar pasa por encima de Álex de Miñaur para avanzar a la tercera ronda del Mutua Madrid Open - Cadena SER,2026-04-25 01:09
-informe,3,5,6.47,100,"elespanol, france24_es",2,"Dos informes ponen contra las cuerdas a Barbón en Asturias por la muerte de 5 hombres en una mina ilegal: ""Pudo evitarse""",2026-04-25 01:09
-avanza,3,4,8.09,100,"google_news_es, france24_es, elpais, okdiario",4,Un colosal Rafa Jódar pasa por encima de Álex de Miñaur para avanzar a la tercera ronda del Mutua Madrid Open - Cadena SER,2026-04-25 01:09
-barça,6,7,9.24,100,"google_news_es, elcorreo, elpais, levante_emv, lavanguardia",5,Betis - Real Madrid en directo | El Betis empata en el 93 y el Barça se puede poner a 11 del Madrid - EL PAÍS,2026-04-25 01:09
-sorteo,9,16,6.07,100,"sur, levante_emv, okdiario, elpais",4,"Resultado del sorteo del Eurojackpot de la ONCE del viernes, 24 de abril de 2026",2026-04-25 01:09
-millonario,3,4,8.09,100,"20minutos, google_news_es, elcorreo",3,Euromillones deja un nuevo millonario en España y el bote sube a 26 millones,2026-04-25 01:09
-generalitat,3,6,5.39,100,"levante_emv, elcorreo, expansion",3,La Generalitat aumenta la presión sobre L'Umbracle y advierte que debe cumplir la sentencia,2026-04-25 01:09
-marlaska,3,1,32.35,100,"elcorreo, elespanol",2,Abascal llama «mierda» a Pedro Sánchez y «rata» a Marlaska,2026-04-25 01:09
-mónaco,5,1,53.91,100,"elpais, google_news_es, okdiario, levante_emv, lavanguardia",5,El Barça cae en Mónaco y se queda fuera de los cuartos de la Euroliga,2026-04-25 01:09
-euroliga,5,2,26.96,100,"elpais, google_news_es, okdiario, levante_emv, lavanguardia",5,El Barça cae en Mónaco y se queda fuera de los cuartos de la Euroliga,2026-04-25 01:09
-imágenes,4,8,5.39,100,"levante_emv, google_news_es, bbc_mundo",3,Las mejores imágenes del Real Betis - Real Madrid,2026-04-25 01:09
-alirón,3,1,32.35,100,"elpais, google_news_es, elcorreo",3,El último sapo para el Real Madrid: que el Barcelona celebre el alirón en sus narices,2026-04-25 01:09
-iberdrola,5,5,10.78,100,"levante_emv, elpais, okdiario, el_confidencial_economia",4,Iberdrola completa la desinversión de su filial mexicana en favor de Cox por 3.700 millones,2026-04-25 01:09
-segura,3,1,32.35,100,"elmundo, okdiario, google_news_internacional",3,Muere el ganadero Santiago Barrero San Román corneado por un toro en Beas de Segura (Jaén),2026-04-25 01:09
-perderá,3,4,8.09,100,"elespanol, google_news_es",2,El Gobierno asume que perderá 20.000 millones de los fondos 'NextGen' tras la negativa de Von der Leyen de prorrogar el plazo,2026-04-25 01:09
-fútbol,5,7,7.7,100,"elcorreo, google_news_internacional, google_news_es",3,El Villarreal entra en el fútbol base de Bizkaia con un campus,2026-04-25 01:09
-niños,3,6,5.39,100,"elcorreo, okdiario, 20minutos",3,Los niños que miran a los ojos de la muerte,2026-04-25 01:09
-colombia,4,2,21.56,100,"france24_es, google_news_internacional, bbc_mundo",3,Luto en el ciclismo: muere el colombiano Cristian Muñoz tras una carrera en Francia,2026-04-25 01:09
-petro,4,5,8.63,100,"france24_es, elmundo_internacional, bbc_mundo",3,Petro y Rodríguez acuerdan cooperación en seguridad fronteriza y comercio,2026-04-25 01:09
-atlético,3,5,6.47,100,"elcorreo, elconfidencial, sur",3,"El Atlético, con la cabeza en otra parte",2026-04-25 01:09
-corneado,3,2,16.17,100,"elmundo, okdiario",2,Muere el ganadero Santiago Barrero San Román corneado por un toro en Beas de Segura (Jaén),2026-04-25 01:09
-chernóbil,4,6,7.19,100,"elespanol, google_news_internacional, google_news_es, bbc_mundo",4,Regreso a Chernóbil 40 años después:  la Generación Z de Ucrania se aleja del drama nuclear por la invasión de Putin,2026-04-25 01:09
-juega,3,2,16.17,100,"elcorreo, okdiario, bbc_mundo",3,El Araski se juega en Estepona cumplir diez años en la élite,2026-04-25 01:09
-vídeos,3,4,8.09,100,"sur, heraldo_aragon",2,"Un padre, condenado en Málaga por abusar de su hija de dos años y difundir los vídeos en foros",2026-04-25 01:09
-abascal,4,7,6.16,100,"elespanol, elcorreo",2,"La ""prioridad nacional"" o cómo revivir a Sánchez y Abascal al mismo tiempo",2026-04-25 01:09
-resultados,6,13,4.98,99,"france24_es, expansion, google_news_es, sur, elcorreo",5,"Caos electoral en Perú: retrasos, protestas e incertidumbre por resultados",2026-04-25 01:09
-unido,5,11,4.9,98,"elespanol, expansion, bbc_mundo, huffington_es, google_news_internacional",5,"100x100 Unidos, el partido del alcalde de La Línea que podría lograr un escaño clave por Cádiz en las elecciones andaluzas",2026-04-25 01:09
-nuclear,4,9,4.79,95,"elespanol, google_news_internacional, google_news_es, bbc_mundo",4,Regreso a Chernóbil 40 años después:  la Generación Z de Ucrania se aleja del drama nuclear por la invasión de Putin,2026-04-25 01:09
-victoria,4,9,4.79,95,"sur, elcorreo, google_news_es, elmundo",4,Cerveza Victoria vuelve a lanzar una edición especial con el artista TVBoy,2026-04-25 01:09
-calor,3,7,4.62,92,"elmundo, expansion, google_news_es",3,Un calor desigual en el Mutua: del vacío en los palcos VIPS al desatado fervor del público con sus jugadores,2026-04-25 01:09
-acoso,3,7,4.62,92,"elconfidencial, elespanol",2,Detenido en Gipuzkoa un seguidor de la Real por el acoso a una furgoneta del Atlético,2026-04-25 01:09
-negocio,3,8,4.04,80,"expansion, okdiario, el_confidencial_economia",3,"""Adam Foods basará su crecimiento en el negocio internacional""",2026-04-25 01:09
-rodríguez,4,11,3.92,78,"france24_es, bbc_mundo",2,Petro y Rodríguez acuerdan cooperación en seguridad fronteriza y comercio,2026-04-25 01:09
-reino,4,11,3.92,78,bbc_mundo,1,Las Malvinas/Falklands son un punto de presión para Reino Unido (y EE.UU. lo sabe),2026-04-25 01:09
-sábado,5,14,3.85,77,"sur, 20minutos, google_news_es",3,"Precio de la gasolina y diésel en Málaga hoy, sábado 25 de abril: ¿Dónde están las gasolineras más baratas?",2026-04-25 01:09
-resultado,6,17,3.81,76,"france24_es, expansion, google_news_es, sur, elcorreo",5,"Caos electoral en Perú: retrasos, protestas e incertidumbre por resultados",2026-04-25 01:09
-cuenta,3,9,3.59,71,"sur, okdiario, heraldo_aragon",3,Condenada por apropiarse de 22.000 euros de la cuenta de sus padres: sacó incluso el día que falleció su padre,2026-04-25 01:09
-vinícius,3,9,3.59,71,google_news_es,1,UEFA sanciona a Prestianni con 6 partidos por incidente con Vinícius Júnior - Los Angeles Times,2026-04-25 01:09
-comprobar,7,21,3.59,71,"sur, elcorreo, okdiario, elpais",4,"Comprobar Lotería del viernes, 24 de abril: resultados de la Bonoloto, del Euromillones, del Eurojackpot de la ONCE y del Cuponazo de la ONCE",2026-04-25 01:09
-españoles,3,9,3.59,71,"elmundo, elcorreo, 20minutos",3,Seis de cada 10 españoles acumulan productos que podrían convertirse en 1.112 euros extra al año,2026-04-25 01:09
-fusilamiento,3,10,3.23,64,"okdiario, elcorreo, google_news_es",3,EEUU reimplantará en todo el país los pelotones de fusilamiento para ajusticiar a los condenados a muerte,2026-04-25 01:09
-ataques,3,10,3.23,64,"elmundo, france24_es, levante_emv",3,"La lucha de dos jóvenes ganaderos contra los lobos y la Administración: ""De cada 1.000 ataques se contabilizan 100""",2026-04-25 01:09
-viernes,13,44,3.19,63,"sur, okdiario, elcorreo, levante_emv, elpais",5,"Comprobar Lotería del viernes, 24 de abril: resultados de la Bonoloto, del Euromillones, del Eurojackpot de la ONCE y del Cuponazo de la ONCE",2026-04-25 01:09
-guardiola,4,14,3.08,61,"elcorreo, okdiario, elmundo, elespanol",4,María Guardiola: «Nuestros derechos no van a estar sometidos a ningún vaivén político»,2026-04-25 01:09
-accidente,3,11,2.94,58,"20minutos, google_news_es, bbc_mundo",3,Cuatro heridos en el accidente de una atracción en la Feria de Sevilla: dos niños quedan suspendidos,2026-04-25 01:09
-cooperación,3,12,2.7,53,"france24_es, google_news_internacional",2,Petro y Rodríguez acuerdan cooperación en seguridad fronteriza y comercio,2026-04-25 01:09
-mutua,3,12,2.7,53,"elmundo, google_news_es",2,Un calor desigual en el Mutua: del vacío en los palcos VIPS al desatado fervor del público con sus jugadores,2026-04-25 01:09
-marca,4,16,2.7,53,"sur, elmundo, huffington_es, google_news_internacional",4,Pistacho marca Málaga: una de las mayores fincas de España está en Antequera,2026-04-25 01:09
-primera,10,41,2.63,52,"elespanol, google_news_internacional, elcorreo, sur, google_news_es",5,Trump acude por primera vez a la cena de corresponsales como presidente: el ritual que celebra —y crispa— a la prensa de EEUU,2026-04-25 01:09
-cuatro,6,25,2.59,51,"sur, okdiario, 20minutos, huffington_es, elpais",5,'Luz y Verso' de Fundación Unicaja acerca al público cuatro siglos de historia del arte,2026-04-25 01:09
-méxico,3,13,2.49,49,"france24_es, okdiario, el_confidencial_economia",3,Inflación en México encarece la canasta básica por alza de alimentos y petróleo,2026-04-25 01:09
-madrid,25,115,2.34,46,"elpais, google_news_es, google_news_internacional, elcorreo, elmundo",5,El último sapo para el Real Madrid: que el Barcelona celebre el alirón en sus narices,2026-04-25 01:09
-pueblo,4,19,2.27,45,"france24_es, 20minutos, google_news_es, elcorreo, levante_emv",5,Pueblos en Italia al borde de desaparecer por deslizamientos,2026-04-25 01:09
-andalucía,4,19,2.27,45,"elmundo, elcorreo, elespanol, sur",4,"Antonio Maíllo, candidato de Por Andalucía: ""Si Sánchez tiene un problema con Ábalos, que se lo haga mirar, pero no es Yolanda Díaz la que tiene que salir del gobierno""",2026-04-25 01:09
-alcaraz,5,24,2.25,44,"elmundo, france24_es, google_news_es",3,"La compleja lesión que deja a Alcaraz sin Roland Garros: ""Es un proceso complicado""",2026-04-25 01:09
-mujeres,3,15,2.16,43,"elmundo, elcorreo, france24_es",3,"Lucía Freitas, chef de A Tafona, y las mujeres invisibles que hacen posible la cocina gallega",2026-04-25 01:09
-grandes,3,15,2.16,43,"expansion, google_news_es, huffington_es",3,"Joseph Safra, el banquero de confianza de las grandes fortunas",2026-04-25 01:09
-abril,22,108,2.2,43,"levante_emv, google_news_es, elcorreo, sur, 20minutos",5,"Apuntà, Feria andaluza, Balls al Carrer... las Fallas se ponen serias el fin de semana del 25 y 26 de abril",2026-04-25 01:09
-blanca,3,15,2.16,43,"levante_emv, 20minutos, google_news_es",3,"Magda Añon con ""Blanca deixalla"" y Jacob Lorenzo con ""La casa de la luz"" ganan los premios de poesía Adolfo Utor Acevedo",2026-04-25 01:09
-presidente,3,15,2.16,43,"elespanol, google_news_es, france24_es, sur",4,Trump acude por primera vez a la cena de corresponsales como presidente: el ritual que celebra —y crispa— a la prensa de EEUU,2026-04-25 01:09
-vuelve,4,21,2.05,41,"levante_emv, sur, elcorreo",3,L'Apuntà vuelve a las Fallas 2027 con casales abiertos el 25 y 26 de abril,2026-04-25 01:09
-muerte,4,21,2.05,41,"elespanol, elcorreo, okdiario, 20minutos",4,"Dos informes ponen contra las cuerdas a Barbón en Asturias por la muerte de 5 hombres en una mina ilegal: ""Pudo evitarse""",2026-04-25 01:09
-confirma,3,16,2.02,40,"google_news_economia, levante_emv, google_news_es",3,La OCDE lo confirma: las familias con hijos en España tienen una carga tributaria de casi el 40 por ciento y es el séptimo país desarrollado donde más se les castiga - COPE,2026-04-25 01:09
-amenaza,3,16,2.02,40,"france24_es, elmundo_internacional, huffington_es",3,"Lamine, Estêvão, Cuti... La enfermería se llena y amenaza con deslucir el Mundial",2026-04-25 01:09
+registrado,3,3,12.07,100,"elconfidencial, bbc_mundo",2,Registrado un ligero terremoto de magnitud 3.1 en varias localidades de Lugo,2026-04-25 01:40
+euromillones,7,7,12.07,100,"sur, 20minutos, google_news_es, elcorreo, okdiario",5,"Comprobar Lotería del viernes, 24 de abril: resultados de la Bonoloto, del Euromillones, del Eurojackpot de la ONCE y del Cuponazo de la ONCE",2026-04-25 01:40
+canarias7,3,4,9.05,100,"google_news_economia, google_news_internacional",2,Albert Navarro García: Crisis de la vivienda en España: ¿funciona premiar fiscalmente a quien alquila barato? - Canarias7,2026-04-25 01:40
+betis,12,16,9.05,100,"google_news_es, elcorreo, elmundo, elespanol, levante_emv",5,Betis empata en el descuento y golpea las escasas opciones de título del Real Madrid - Los Angeles Times,2026-04-25 01:40
+fuera,4,8,6.04,100,"elcorreo, elpais, google_news_es, okdiario",4,Bases fuera,2026-04-25 01:40
+malvinas/falklands,3,1,36.22,100,bbc_mundo,1,Las Malvinas/Falklands son un punto de presión para Reino Unido (y EE.UU. lo sabe),2026-04-25 01:40
+presión,3,3,12.07,100,"bbc_mundo, levante_emv",2,Las Malvinas/Falklands son un punto de presión para Reino Unido (y EE.UU. lo sabe),2026-04-25 01:40
+miranda,3,6,6.04,100,elcorreo,1,"La Azucarera de Miranda, en la memoria",2026-04-25 01:40
+bellerín,3,1,36.22,100,"elcorreo, elespanol",2,Lunin no es suficiente y Bellerín deja la Liga en bandeja al Barcelona,2026-04-25 01:40
+jódar,6,4,18.11,100,"google_news_es, okdiario, levante_emv, elpais",4,"Jódar, tras su primera victoria Top 10: “Los grandes rivales te hacen mejorar” - Mutua Madrid Open",2026-04-25 01:40
+queda,5,6,10.06,100,"elcorreo, elpais, elespanol, 20minutos, google_news_es",5,El lehendakari renuncia al nuevo BMW de lujo y prefiere quedarse con el Lexus,2026-04-25 01:40
+bonoloto,6,9,8.05,100,"sur, 20minutos, elcorreo, levante_emv, okdiario",5,"Comprobar Lotería del viernes, 24 de abril: resultados de la Bonoloto, del Euromillones, del Eurojackpot de la ONCE y del Cuponazo de la ONCE",2026-04-25 01:40
+eurojackpot,3,2,18.11,100,"sur, okdiario",2,"Comprobar Lotería del viernes, 24 de abril: resultados de la Bonoloto, del Euromillones, del Eurojackpot de la ONCE y del Cuponazo de la ONCE",2026-04-25 01:40
+juega,3,2,18.11,100,"elcorreo, okdiario, bbc_mundo",3,El Araski se juega en Estepona cumplir diez años en la élite,2026-04-25 01:40
+cuponazo,3,3,12.07,100,"sur, okdiario",2,"Comprobar Lotería del viernes, 24 de abril: resultados de la Bonoloto, del Euromillones, del Eurojackpot de la ONCE y del Cuponazo de la ONCE",2026-04-25 01:40
+l'umbracle,3,2,18.11,100,levante_emv,1,La terraza de l'Umbracle abre sus puertas pese a la sentencia por ruido,2026-04-25 01:40
+sentencia,4,7,6.9,100,"elcorreo, levante_emv, elmundo",3,Las primeras sentencias abren la veda a una avalancha de reclamaciones de interinos,2026-04-25 01:40
+miñaur,3,3,12.07,100,"google_news_es, elpais",2,Un colosal Rafa Jódar pasa por encima de Álex de Miñaur para avanzar a la tercera ronda del Mutua Madrid Open - Cadena SER,2026-04-25 01:40
+acoso,3,7,5.17,100,"elconfidencial, elespanol",2,Detenido en Gipuzkoa un seguidor de la Real por el acoso a una furgoneta del Atlético,2026-04-25 01:40
+barça,4,9,5.37,100,"google_news_es, elcorreo, elpais",3,Betis - Real Madrid en directo | El Betis empata en el 93 y el Barça se puede poner a 11 del Madrid - EL PAÍS,2026-04-25 01:40
+sorteo,8,16,6.04,100,"sur, levante_emv, okdiario, elpais",4,"Resultado del sorteo del Eurojackpot de la ONCE del viernes, 24 de abril de 2026",2026-04-25 01:40
+millonario,3,4,9.05,100,"20minutos, google_news_es, elcorreo",3,Euromillones deja un nuevo millonario en España y el bote sube a 26 millones,2026-04-25 01:40
+marlaska,3,1,36.22,100,"elcorreo, elespanol",2,Abascal llama «mierda» a Pedro Sánchez y «rata» a Marlaska,2026-04-25 01:40
+mónaco,3,3,12.07,100,"elpais, google_news_es, okdiario",3,El Barça cae en Mónaco y se queda fuera de los cuartos de la Euroliga,2026-04-25 01:40
+unido,5,10,6.04,100,"elespanol, expansion, bbc_mundo, huffington_es",4,"100x100 Unidos, el partido del alcalde de La Línea que podría lograr un escaño clave por Cádiz en las elecciones andaluzas",2026-04-25 01:40
+alirón,3,1,36.22,100,"elpais, google_news_es, elcorreo",3,El último sapo para el Real Madrid: que el Barcelona celebre el alirón en sus narices,2026-04-25 01:40
+euroliga,3,4,9.05,100,"elpais, google_news_es, okdiario",3,El Barça cae en Mónaco y se queda fuera de los cuartos de la Euroliga,2026-04-25 01:40
+resultados,6,13,5.57,100,"france24_es, expansion, google_news_es, sur, elcorreo",5,"Caos electoral en Perú: retrasos, protestas e incertidumbre por resultados",2026-04-25 01:40
+colombia,4,2,24.15,100,"france24_es, google_news_internacional, bbc_mundo",3,Luto en el ciclismo: muere el colombiano Cristian Muñoz tras una carrera en Francia,2026-04-25 01:40
+empata,4,1,48.29,100,"google_news_es, elmundo",2,Betis empata en el descuento y golpea las escasas opciones de título del Real Madrid - Los Angeles Times,2026-04-25 01:40
+niños,3,6,6.04,100,"elcorreo, okdiario, 20minutos",3,Los niños que miran a los ojos de la muerte,2026-04-25 01:40
+fútbol,5,7,8.62,100,"elcorreo, google_news_internacional, google_news_es",3,El Villarreal entra en el fútbol base de Bizkaia con un campus,2026-04-25 01:40
+opciones,4,1,48.29,100,"google_news_es, elespanol",2,Betis empata en el descuento y golpea las escasas opciones de título del Real Madrid - Los Angeles Times,2026-04-25 01:40
+segura,3,1,36.22,100,"elmundo, okdiario",2,Muere el ganadero Santiago Barrero San Román corneado por un toro en Beas de Segura (Jaén),2026-04-25 01:40
+calor,3,7,5.17,100,"elmundo, expansion, google_news_es",3,Un calor desigual en el Mutua: del vacío en los palcos VIPS al desatado fervor del público con sus jugadores,2026-04-25 01:40
+angeles,3,0,5.0,100,google_news_es,1,Betis empata en el descuento y golpea las escasas opciones de título del Real Madrid - Los Angeles Times,2026-04-25 01:40
+petro,4,5,9.66,100,"france24_es, elmundo_internacional, bbc_mundo",3,Petro y Rodríguez acuerdan cooperación en seguridad fronteriza y comercio,2026-04-25 01:40
+times,3,1,36.22,100,google_news_es,1,Betis empata en el descuento y golpea las escasas opciones de título del Real Madrid - Los Angeles Times,2026-04-25 01:40
+corneado,3,1,36.22,100,"elmundo, okdiario",2,Muere el ganadero Santiago Barrero San Román corneado por un toro en Beas de Segura (Jaén),2026-04-25 01:40
+abascal,4,7,6.9,100,"elespanol, elcorreo",2,"La ""prioridad nacional"" o cómo revivir a Sánchez y Abascal al mismo tiempo",2026-04-25 01:40
+reino,4,10,4.83,96,bbc_mundo,1,Las Malvinas/Falklands son un punto de presión para Reino Unido (y EE.UU. lo sabe),2026-04-25 01:40
+rodríguez,4,11,4.39,87,"france24_es, bbc_mundo",2,Petro y Rodríguez acuerdan cooperación en seguridad fronteriza y comercio,2026-04-25 01:40
+resultado,6,17,4.26,85,"france24_es, expansion, google_news_es, sur, elcorreo",5,"Caos electoral en Perú: retrasos, protestas e incertidumbre por resultados",2026-04-25 01:40
+comprobar,7,20,4.23,84,"sur, elcorreo, okdiario, elpais",4,"Comprobar Lotería del viernes, 24 de abril: resultados de la Bonoloto, del Euromillones, del Eurojackpot de la ONCE y del Cuponazo de la ONCE",2026-04-25 01:40
+vinícius,3,9,4.02,80,google_news_es,1,UEFA sanciona a Prestianni con 6 partidos por incidente con Vinícius Júnior - Los Angeles Times,2026-04-25 01:40
+victoria,3,10,3.62,72,"sur, elcorreo, google_news_es",3,Cerveza Victoria vuelve a lanzar una edición especial con el artista TVBoy,2026-04-25 01:40
+viernes,12,42,3.45,68,"sur, okdiario, elcorreo, levante_emv, elpais",5,"Comprobar Lotería del viernes, 24 de abril: resultados de la Bonoloto, del Euromillones, del Eurojackpot de la ONCE y del Cuponazo de la ONCE",2026-04-25 01:40
+mutua,3,11,3.29,65,"elmundo, google_news_es",2,Un calor desigual en el Mutua: del vacío en los palcos VIPS al desatado fervor del público con sus jugadores,2026-04-25 01:40
+cooperación,3,12,3.02,60,"france24_es, google_news_internacional",2,Petro y Rodríguez acuerdan cooperación en seguridad fronteriza y comercio,2026-04-25 01:40
+marca,4,16,3.02,60,"sur, elmundo, huffington_es, google_news_internacional",4,Pistacho marca Málaga: una de las mayores fincas de España está en Antequera,2026-04-25 01:40
+primera,9,38,2.86,57,"elespanol, google_news_internacional, elcorreo, sur, google_news_es",5,Trump acude por primera vez a la cena de corresponsales como presidente: el ritual que celebra —y crispa— a la prensa de EEUU,2026-04-25 01:40
+madrid,24,115,2.52,50,"google_news_es, elpais, google_news_internacional, elcorreo, elmundo",5,Betis empata en el descuento y golpea las escasas opciones de título del Real Madrid - Los Angeles Times,2026-04-25 01:40
+presidente,3,15,2.41,48,"elespanol, google_news_es, france24_es, sur",4,Trump acude por primera vez a la cena de corresponsales como presidente: el ritual que celebra —y crispa— a la prensa de EEUU,2026-04-25 01:40
+mujeres,3,15,2.41,48,"elmundo, elcorreo, france24_es",3,"Lucía Freitas, chef de A Tafona, y las mujeres invisibles que hacen posible la cocina gallega",2026-04-25 01:40
+grandes,3,15,2.41,48,"expansion, google_news_es, huffington_es",3,"Joseph Safra, el banquero de confianza de las grandes fortunas",2026-04-25 01:40
+abril,20,107,2.26,45,"levante_emv, google_news_es, elcorreo, sur, 20minutos",5,"Apuntà, Feria andaluza, Balls al Carrer... las Fallas se ponen serias el fin de semana del 25 y 26 de abril",2026-04-25 01:40
+amenaza,3,16,2.26,45,"france24_es, elmundo_internacional, huffington_es",3,"Lamine, Estêvão, Cuti... La enfermería se llena y amenaza con deslucir el Mundial",2026-04-25 01:40
+sábado,3,16,2.26,45,"sur, 20minutos",2,"Precio de la gasolina y diésel en Málaga hoy, sábado 25 de abril: ¿Dónde están las gasolineras más baratas?",2026-04-25 01:40
+horóscopo,3,17,2.13,42,"elcorreo, sur, 20minutos",3,"Horóscopo diario, 26 de abril de 2026",2026-04-25 01:40
+málaga,8,48,2.01,40,"sur, okdiario",2,CM Málaga convoca el II Premio al Diseño Innovador y Sostenible,2026-04-25 01:40
