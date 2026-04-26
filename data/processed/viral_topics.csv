@@ -1,155 +1,159 @@
 keyword,count_now,count_base,ratio,viral_score,sources,n_sources,sample_title,detected_at
-palacio,3,0,5.0,100,"20minutos, huffington_es, google_news_internacional",3,El palacio real oculto en plena montaña a una hora de Madrid que fue refugio de reyes,2026-04-26 11:39
-ayudas,4,2,9.11,100,"google_news_economia, levante_emv",2,El PP pide esta semana en el Congreso ayudas para modernizar el sector del calzado en España - PressDigital,2026-04-26 11:39
-detención,8,1,36.44,100,"elcorreo, elespanol, elpais, 20minutos",4,Así fue el momento de la detención del sospechoso de atentar contra Trump en la cena de corresponsales,2026-04-26 11:39
-tirador,7,4,7.97,100,"okdiario, 20minutos, elmundo, google_news_internacional",4,Trump comparte en redes el vídeo de la entrada del presunto tirador y los disparos del Servicio Secreto,2026-04-26 11:39
-presunto,3,2,6.83,100,"okdiario, elmundo, google_news_internacional",3,Trump comparte en redes el vídeo de la entrada del presunto tirador y los disparos del Servicio Secreto,2026-04-26 11:39
-comparte,6,0,5.0,100,"okdiario, 20minutos",2,Trump comparte en redes el vídeo de la entrada del presunto tirador y los disparos del Servicio Secreto,2026-04-26 11:39
-orihuela,4,0,5.0,100,"elespanol, levante_emv",2,Una mujer fallecida y tres heridos por inhalación de humo en un incendio de una vivienda en Orihuela (Alicante),2026-04-26 11:39
-incendio,5,4,5.69,100,"elespanol, levante_emv, elmundo_internacional",3,Una mujer fallecida y tres heridos por inhalación de humo en un incendio de una vivienda en Orihuela (Alicante),2026-04-26 11:39
-tiroteo,29,10,13.21,100,"okdiario, elmundo, 20minutos, google_news_internacional, bbc_mundo",5,"Melania, de la sorpresa por el truco del mentalista Oz Pearlman al miedo ante el tiroteo: «¿Qué ocurre?»",2026-04-26 11:39
-melania,8,0,5.0,100,"okdiario, newtral, 20minutos",3,"Melania, de la sorpresa por el truco del mentalista Oz Pearlman al miedo ante el tiroteo: «¿Qué ocurre?»",2026-04-26 11:39
-calzado,3,0,5.0,100,google_news_economia,1,El PP pide esta semana en el Congreso ayudas para modernizar el sector del calzado en España - PressDigital,2026-04-26 11:39
-modernizar,3,0,5.0,100,google_news_economia,1,El PP pide esta semana en el Congreso ayudas para modernizar el sector del calzado en España - PressDigital,2026-04-26 11:39
-evacuación,10,0,5.0,100,"levante_emv, google_news_internacional, huffington_es, elpais, 20minutos",5,Así ha sido la evacuación de Donald Trump tras un intento de atentado durante la cena de corresponsales,2026-04-26 11:39
-pareja,7,6,5.31,100,"okdiario, google_news_economia, 20minutos, eldiario, heraldo_aragon",5,Una pareja destroza un comercio de Playa de Palma en plena madrugada para robar bañadores y bebidas energéticas,2026-04-26 11:39
-señal,5,2,11.39,100,"levante_emv, 20minutos, okdiario, google_news_internacional, huffington_es",5,El PSPV señala a Marciano Gómez por el colapso sanitario y el aumento de las derivaciones a la privada,2026-04-26 11:39
-elplural.com,5,1,22.78,100,"google_news_politica, google_news_internacional",2,Por qué el PP teme a Zapatero: el político que arrasa en los mítines del PSOE - Elplural.com,2026-04-26 11:39
-fotos,7,5,6.38,100,"okdiario, 20minutos, google_news_internacional",3,Cómo crear un álbum de fotos en iPhone: guía definitiva para organizar tu carrete,2026-04-26 11:39
-jóvenes,6,2,13.67,100,"huffington_es, levante_emv, 20minutos, google_news_es",4,&quot;Un mundo que exige lealtad pero no ofrece ninguna&quot;: Simon Sinek explica por qué los jóvenes ya no confían en las empresas,2026-04-26 11:39
-decíamos,3,0,5.0,100,"20minutos, heraldo_aragon",2,"""Como decíamos ayer"", el saludo de Manolo García en el primer concierto de El Último de la Fila en 30 años",2026-04-26 11:39
-atentados,5,0,5.0,100,"elmundo_internacional, 20minutos, google_news_internacional, elespanol, heraldo_aragon",5,La sombra del magnicidio sigue sobrevolando la política estadounidense: Trump es objeto de tres atentados en dos años,2026-04-26 11:39
-moto3,5,0,5.0,100,"elcorreo, sur, levante_emv",3,Máximo Quiles se lleva la carrera de Moto3 en Jerez,2026-04-26 11:39
-sabemos,4,2,9.11,100,"google_news_internacional, eldiario",2,Todo lo que sabemos del intento de atentado a Donald Trump - elDiario.es,2026-04-26 11:39
-sospechoso,10,4,11.39,100,"huffington_es, elcorreo, elpais, levante_emv, 20minutos",5,El momento del arresto del sospechoso del intento de atentado contra Trump,2026-04-26 11:39
-condenan,4,0,5.0,100,"elpais, google_news_internacional",2,"Intento de atentado a Trump, en directo | Los líderes internacionales condenan el ataque y denuncian clima de violencia política",2026-04-26 11:39
-condena,8,1,36.44,100,"elpais, europapress, google_news_internacional, elcorreo, okdiario",5,"Intento de atentado a Trump, en directo | Los líderes internacionales condenan el ataque y denuncian clima de violencia política",2026-04-26 11:39
-aumenta,3,0,5.0,100,"20minutos, google_news_es, google_news_economia",3,El cáncer de testículos aumenta en hombres jóvenes de entre 15 y 35 años,2026-04-26 11:39
-confirmado,4,3,6.07,100,"google_news_economia, okdiario",2,Confirmado por el Ministerio de Consumo: el 61% del alquiler en España está en manos de los multiarrendadores - Crónica Global,2026-04-26 11:39
-tomas,4,0,5.0,100,elespanol,1,Así ha sido la detención de Cole Tomas Allen tras el intento de asesinato de Trump: dejó herido a un agente del Servicio Secreto,2026-04-26 11:39
-videojuegos,3,0,5.0,100,"okdiario, heraldo_aragon",2,El cine bélico también vive de los videojuegos: ‘Battlefield’ tendrá una película con Michael B. Jordan,2026-04-26 11:39
-cuarenta,4,0,5.0,100,"levante_emv, google_news_economia",2,Otro momento clave para el futuro de las nucleares en España cuarenta años después,2026-04-26 11:39
-nucleares,4,3,6.07,100,"levante_emv, google_news_economia",2,Otro momento clave para el futuro de las nucleares en España cuarenta años después,2026-04-26 11:39
-intentos,5,1,22.78,100,"okdiario, google_news_internacional, heraldo_aragon",3,Trump ve los reiterados intentos de asesinato como una señal de su “relevancia histórica”,2026-04-26 11:39
-reiterados,3,0,5.0,100,"okdiario, google_news_internacional",2,Trump ve los reiterados intentos de asesinato como una señal de su “relevancia histórica”,2026-04-26 11:39
-bandeja,3,2,6.83,100,"20minutos, elespanol",2,Vídeos del tiroteo en la cena de corresponsales: de las risas al sonido de una bandeja y disparos,2026-04-26 11:39
-pradales,3,1,13.67,100,"google_news_internacional, heraldo_aragon",2,Pradales reivindica el papel de Europa en defensa de la paz y el derecho internacional - Infobae,2026-04-26 11:39
-vicepresidente,3,0,5.0,100,"elpais, okdiario, google_news_internacional",3,"El momento de la evacuación del vicepresidente de EE UU, J.D. Vance, de la cena de corresponsales tras el tiroteo",2026-04-26 11:39
-castillo,3,2,6.83,100,"20minutos, okdiario",2,De Macarena García a Anna Castillo: los 'looks' más románticos en la alfombra del Festival de Canneseries,2026-04-26 11:39
-festival,3,2,6.83,100,"google_news_internacional, 20minutos",2,Wille and The Bandits llevan el Rock Island Festival de Ibiza a su dimensión más internacional - Diario de Ibiza,2026-04-26 11:39
-profesor,8,0,5.0,100,"huffington_es, levante_emv, elespanol, 20minutos, elmundo",5,"Théodore Christakis, profesor de derecho digital: &quot;Los gigantes tecnológicos están construyendo las mayores acumulaciones privadas de datos de salud jamás imaginadas&quot;",2026-04-26 11:39
-fallece,3,0,5.0,100,levante_emv,1,Fallece una mujer de 49 años tras ser atropellada en la V-31 a la altura de Beniparrell,2026-04-26 11:39
-llorando,3,1,13.67,100,20minutos,1,"La viuda de Charlie Kirk, aterrada y llorando en el tiroteo de la cen: ""Solo quiero irme a casa""",2026-04-26 11:39
-aterrada,3,0,5.0,100,20minutos,1,"La viuda de Charlie Kirk, aterrada y llorando en el tiroteo de la cen: ""Solo quiero irme a casa""",2026-04-26 11:39
-charlie,3,1,13.67,100,20minutos,1,"La viuda de Charlie Kirk, aterrada y llorando en el tiroteo de la cen: ""Solo quiero irme a casa""",2026-04-26 11:39
-viuda,3,0,5.0,100,20minutos,1,"La viuda de Charlie Kirk, aterrada y llorando en el tiroteo de la cen: ""Solo quiero irme a casa""",2026-04-26 11:39
-sancionado,3,0,5.0,100,"okdiario, google_news_es",2,El motivo por el que Marc Márquez no fue sancionado en la sprint de Jerez,2026-04-26 11:39
-fonseca,3,1,13.67,100,okdiario,1,Horario Rafa Jódar vs Fonseca: a qué hora es y dónde ver gratis en directo por TV y online el partido del Mutua Madrid Open 2026,2026-04-26 11:39
-estrella,3,2,6.83,100,"okdiario, el_confidencial_tech, 20minutos",3,Qué fue de Javier Estrada: de su paso por ‘Gran Hermano’ a ser presentador estrella en Chile,2026-04-26 11:39
-asesinato,8,6,6.07,100,"elespanol, heraldo_aragon, okdiario, google_news_internacional",4,Así ha sido la detención de Cole Tomas Allen tras el intento de asesinato de Trump: dejó herido a un agente del Servicio Secreto,2026-04-26 11:39
-allen,14,1,63.78,100,"elespanol, huffington_es, heraldo_aragon, levante_emv, 20minutos",5,Así ha sido la detención de Cole Tomas Allen tras el intento de asesinato de Trump: dejó herido a un agente del Servicio Secreto,2026-04-26 11:39
-trail,3,0,5.0,100,"elconfidencial, 20minutos",2,Muere un corredor en la VI edición de la Muñalba Trail de Regumiel de la Sierra (Burgos),2026-04-26 11:39
-peligrosa,3,0,5.0,100,"elespanol, 20minutos",2,"El ataque a Trump en sus propias palabras: ""Pensé que era una bandeja. Ser presidente es una profesión peligrosa""",2026-04-26 11:39
-quiles,5,3,7.59,100,"elcorreo, okdiario, levante_emv",3,Máximo Quiles firma un fin de semana perfecto en Jerez,2026-04-26 11:39
-profesión,4,1,18.22,100,"okdiario, elespanol, 20minutos",3,"Quién es Stephanie Cayo: su edad, de dónde es, su profesión y su relación con Alejandro Sanz",2026-04-26 11:39
-noticias,9,8,5.12,100,"okdiario, sur, google_news_internacional, heraldo_aragon",4,"Guerra de Irán, en directo: última hora de Donald Trump, cómo van las negociaciones con EEUU, nuevos ataques y noticias del estrecho de Ormuz",2026-04-26 11:39
-escenario,3,2,6.83,100,"levante_emv, 20minutos",2,De Reagan a Trump: el hotel Hilton vuelve a ser escenario de un intento de magnicidio 45 años después,2026-04-26 11:39
-hilton,5,2,11.39,100,"levante_emv, elmundo, google_news_internacional, heraldo_aragon",4,De Reagan a Trump: el hotel Hilton vuelve a ser escenario de un intento de magnicidio 45 años después,2026-04-26 11:39
-bajar,5,3,7.59,100,"okdiario, elespanol, huffington_es, elpais, levante_emv",5,Historia de la maratón: ¡el keniano Sabastian Sawe es la primera persona en bajar de las dos horas!,2026-04-26 11:39
-primero,5,2,11.39,100,"elespanol, okdiario, google_news_internacional, google_news_politica",4,Sebastian Sawe destroza el récord del mundo de maratón y se convierte en el primero de la historia en bajar de las 2 horas,2026-04-26 11:39
-violencia,9,4,10.25,100,"elmundo_internacional, elpais, elmundo, google_news_internacional, europapress",5,"""La violencia no tiene cabida en una democracia"", los líderes reaccionan al intento de atentado contra Trump",2026-04-26 11:39
-donald,28,7,18.22,100,"okdiario, google_news_internacional, 20minutos, levante_emv, elmundo",5,"Guerra de Irán, en directo: última hora de Donald Trump, cómo van las negociaciones con EEUU, nuevos ataques y noticias del estrecho de Ormuz",2026-04-26 11:39
-récord,7,3,10.63,100,"elmundo, elespanol, huffington_es, google_news_es, google_news_internacional",5,El keniano Sabastian Sawe bate el récord mundial de maratón con 1h59:30,2026-04-26 11:39
-vivienda,10,9,5.06,100,"elcorreo, elespanol, okdiario, levante_emv",4,Los bomberos sofocan un incencio en una vivienda abandonada de Getxo que estaba okupada,2026-04-26 11:39
-sabastian,3,0,5.0,100,"elmundo, okdiario, levante_emv",3,El keniano Sabastian Sawe bate el récord mundial de maratón con 1h59:30,2026-04-26 11:39
-magnicidio,4,0,5.0,100,"levante_emv, elmundo_internacional, google_news_internacional",3,De Reagan a Trump: el hotel Hilton vuelve a ser escenario de un intento de magnicidio 45 años después,2026-04-26 11:39
-vance,5,0,5.0,100,"20minutos, okdiario, google_news_internacional, elpais",4,Un vídeo muestra que JD Vance es evacuado más rápido que Trump,2026-04-26 11:39
-señoros,4,0,5.0,100,"elmundo, okdiario, europapress, google_news_es",4,"Pedro Sánchez agita el miedo al ""pacto de señoros entre Abascal y Feijóo"" y fija su ""prioridad nacional"": el no a la guerra",2026-04-26 11:39
-muestra,3,1,13.67,100,"20minutos, google_news_internacional",2,Un vídeo muestra que JD Vance es evacuado más rápido que Trump,2026-04-26 11:39
-india,3,2,6.83,100,"eldiario, okdiario, elmundo_internacional",3,Ormuz cayó en manos hispánicas durante 42 años y así abrió una puerta estratégica hacia Persia y la India,2026-04-26 11:39
-vídeo,14,11,5.8,100,"20minutos, heraldo_aragon, levante_emv, huffington_es, okdiario",5,Un vídeo muestra que JD Vance es evacuado más rápido que Trump,2026-04-26 11:39
-moto2,4,2,9.11,100,"okdiario, elcorreo, levante_emv",3,Agius le gana la batalla a Manu González en Jerez y aprieta el Mundial de Moto2,2026-04-26 11:39
-londres,4,1,18.22,100,"elcorreo, levante_emv, huffington_es, google_news_es",4,Sawe hace historia al derribar el muro de las dos horas en el maratón de Londres,2026-04-26 11:39
-maratón,13,2,29.61,100,"elcorreo, elmundo, okdiario, levante_emv, heraldo_aragon",5,Sawe hace historia al derribar el muro de las dos horas en el maratón de Londres,2026-04-26 11:39
-intento,37,18,9.36,100,"levante_emv, elmundo_internacional, elpais, huffington_es, google_news_internacional",5,De Reagan a Trump: el hotel Hilton vuelve a ser escenario de un intento de magnicidio 45 años después,2026-04-26 11:39
-atentado,38,36,4.81,96,"elmundo_internacional, levante_emv, elpais, huffington_es, google_news_internacional",5,"""La violencia no tiene cabida en una democracia"", los líderes reaccionan al intento de atentado contra Trump",2026-04-26 11:39
-relación,3,3,4.56,91,"okdiario, levante_emv, 20minutos",3,"Quién es Stephanie Cayo: su edad, de dónde es, su profesión y su relación con Alejandro Sanz",2026-04-26 11:39
-momento,12,12,4.56,91,"okdiario, huffington_es, elcorreo, elpais, heraldo_aragon",5,"Xavi saca pecho contra Laporta: «Entrené al Barça en su peor momento, gané dos títulos y dejé un legado»",2026-04-26 11:39
-corresponsales,29,29,4.56,91,"levante_emv, elmundo, elcorreo, google_news_internacional, huffington_es",5,Así ha sido la evacuación de Donald Trump tras un intento de atentado durante la cena de corresponsales,2026-04-26 11:39
-playa,4,4,4.56,91,"okdiario, elcorreo, levante_emv",3,Una pareja destroza un comercio de Playa de Palma en plena madrugada para robar bañadores y bebidas energéticas,2026-04-26 11:39
-larazon.es,3,3,4.56,91,"google_news_internacional, google_news_politica",2,Condena internacional al nuevo intento de magnicidio contra Trump - larazon.es,2026-04-26 11:39
-clave,6,6,4.56,91,"okdiario, sur, levante_emv, google_news_economia",4,‘Estamos pasando de los early adopters a la mayoría’: el momento clave de las Ray-Ban Meta,2026-04-26 11:39
-jódar,3,3,4.56,91,okdiario,1,Horario Rafa Jódar vs Fonseca: a qué hora es y dónde ver gratis en directo por TV y online el partido del Mutua Madrid Open 2026,2026-04-26 11:39
-líderes,3,3,4.56,91,"elmundo_internacional, elpais, google_news_internacional",3,"""La violencia no tiene cabida en una democracia"", los líderes reaccionan al intento de atentado contra Trump",2026-04-26 11:39
-motivo,3,3,4.56,91,"okdiario, google_news_es",2,El motivo por el que Marc Márquez no fue sancionado en la sprint de Jerez,2026-04-26 11:39
-entrega,3,3,4.56,91,"levante_emv, sur, heraldo_aragon",3,Alcoi se entrega al poder de la media luna,2026-04-26 11:39
-alcaraz,3,3,4.56,91,"20minutos, okdiario",2,"Firmas de tenistas, exposición de Alcaraz y pistas de entrenamiento: lo que no te puedes perder del Mutua Madrid Open",2026-04-26 11:39
-hotel,6,6,4.56,91,"levante_emv, elmundo, 20minutos, google_news_internacional, heraldo_aragon",5,De Reagan a Trump: el hotel Hilton vuelve a ser escenario de un intento de magnicidio 45 años después,2026-04-26 11:39
-política,8,9,4.05,80,"elpais, elmundo_internacional, europapress, elmundo, google_news_internacional",5,"Intento de atentado a Trump, en directo | Los líderes internacionales condenan el ataque y denuncian clima de violencia política",2026-04-26 11:39
-historia,14,16,3.99,79,"elcorreo, okdiario, levante_emv, heraldo_aragon, elespanol",5,Sawe hace historia al derribar el muro de las dos horas en el maratón de Londres,2026-04-26 11:39
-feijóo,6,7,3.9,78,"elmundo, okdiario, europapress, google_news_es, huffington_es",5,"Pedro Sánchez agita el miedo al ""pacto de señoros entre Abascal y Feijóo"" y fija su ""prioridad nacional"": el no a la guerra",2026-04-26 11:39
-vivir,5,6,3.8,75,"huffington_es, google_news_internacional, levante_emv",3,Los canarios coinciden tras el vídeo viral de la &#039;silent disco&#039; en Tenerife: &quot;¿Quién querría vivir ahí y soportar eso?&quot;,2026-04-26 11:39
-futuro,5,6,3.8,75,"okdiario, levante_emv, google_news_economia",3,El futuro era esto: India ya está utilizando semáforos inteligentes con IA para regular el tráfico,2026-04-26 11:39
-estrecho,5,6,3.8,75,okdiario,1,"Guerra de Irán, en directo: última hora de Donald Trump, cómo van las negociaciones con EEUU, nuevos ataques y noticias del estrecho de Ormuz",2026-04-26 11:39
-atacante,5,6,3.8,75,"levante_emv, eldiario, google_news_internacional, heraldo_aragon",4,VÍDEO | Así intentó el atacante atravesar el perímetro de seguridad y acceder al salón para atentar contra Trump,2026-04-26 11:39
-mujer,9,11,3.73,74,"okdiario, elcorreo, elespanol, huffington_es, 20minutos",5,"Sánchez, con su mujer y hermano procesados, se burla de la prioridad nacional: «Tenemos prioridades familiares»",2026-04-26 11:39
-carrera,12,15,3.64,72,"okdiario, 20minutos, elcorreo, levante_emv, sur",5,"MotoGP Jerez, en directo hoy: dónde ver gratis y última hora de la carrera del GP de España con Marc Márquez",2026-04-26 11:39
-ileso,4,5,3.64,72,"infolibre, google_news_es, levante_emv",3,"Donald Trump, ileso tras ser evacuado de una cena en Washington con la plana mayor del Gobierno de EEUU",2026-04-26 11:39
-concierto,4,5,3.64,72,"20minutos, heraldo_aragon, elcorreo",3,"""Como decíamos ayer"", el saludo de Manolo García en el primer concierto de El Último de la Fila en 30 años",2026-04-26 11:39
-redes,4,5,3.64,72,"okdiario, 20minutos",2,Miguel Ángel Silvestre incendia las redes: trotando sin camiseta en pleno rodaje en Colombia,2026-04-26 11:39
-córdoba,3,4,3.42,68,levante_emv,1,DIRECTO | Pedro Sánchez y María Jesús Montero en Córdoba,2026-04-26 11:39
-motogp,3,4,3.42,68,okdiario,1,"MotoGP Jerez, en directo hoy: dónde ver gratis y última hora de la carrera del GP de España con Marc Márquez",2026-04-26 11:39
-humanos,3,4,3.42,68,"huffington_es, google_news_es, okdiario",3,"Candela Antón, antropóloga, sobre el blanco de los ojos humanos: &quot;Es una apuesta evolutiva por la cooperación sobre el engaño&quot;",2026-04-26 11:39
-nuevos,6,8,3.42,68,okdiario,1,"Guerra de Irán, en directo: última hora de Donald Trump, cómo van las negociaciones con EEUU, nuevos ataques y noticias del estrecho de Ormuz",2026-04-26 11:39
-quién,12,16,3.42,68,"okdiario, huffington_es, eldiario, google_news_internacional, elespanol",5,"Quién es Stephanie Cayo: su edad, de dónde es, su profesión y su relación con Alejandro Sanz",2026-04-26 11:39
-aemet,6,8,3.42,68,"efe, okdiario",2,Hugo Morán defiende que la Aemet cada vez tiene más capacidad para anticiparse a fenómenos extremos,2026-04-26 11:39
-palabras,3,4,3.42,68,"huffington_es, europapress, elespanol",3,Las cuatro palabras que &#039;The Telegraph&#039; usa para describir a Pedro Sánchez van a ser la comidilla de la semana en España,2026-04-26 11:39
-derecho,5,7,3.25,65,"google_news_internacional, levante_emv, huffington_es",3,"Pontón destaca la ""sintonía"" entre BNG y PT de Brasil en la ""defensa de la paz, derecho internacional y justicia social"" - europapress.es",2026-04-26 11:39
-congreso,5,7,3.25,65,"google_news_economia, levante_emv, google_news_internacional",3,El PP pide esta semana en el Congreso ayudas para modernizar el sector del calzado en España - PressDigital,2026-04-26 11:39
-máximo,5,7,3.25,65,"elcorreo, okdiario, levante_emv",3,Máximo Quiles firma un fin de semana perfecto en Jerez,2026-04-26 11:39
-horas,9,13,3.15,63,"elcorreo, okdiario, levante_emv, heraldo_aragon, elespanol",5,Sawe hace historia al derribar el muro de las dos horas en el maratón de Londres,2026-04-26 11:39
-trump,90,133,3.08,61,"20minutos, levante_emv, okdiario, elmundo_internacional, elpais",5,Un vídeo muestra que JD Vance es evacuado más rápido que Trump,2026-04-26 11:39
-segundo,4,6,3.04,60,"elmundo_internacional, google_news_internacional, elmundo, levante_emv, huffington_es",5,Los ataques continúan por segundo día en Malí tras la ofensiva de Al Qaeda: la ONU pide una respuesta internacional,2026-04-26 11:39
-palma,4,6,3.04,60,"okdiario, elcorreo",2,Una pareja destroza un comercio de Playa de Palma en plena madrugada para robar bañadores y bebidas energéticas,2026-04-26 11:39
-california,4,6,3.04,60,"levante_emv, elmundo, google_news_internacional, heraldo_aragon, okdiario",5,"Un profesor de California, autor del tiroteo en la cena de corresponsales de la Casa Blanca",2026-04-26 11:39
-secreto,6,9,3.04,60,"okdiario, elespanol, google_news_internacional",3,Trump comparte en redes el vídeo de la entrada del presunto tirador y los disparos del Servicio Secreto,2026-04-26 11:39
-nuclear,7,11,2.9,57,"okdiario, bbc_mundo, google_news_es, levante_emv, google_news_economia",5,Parece de película pero la ciencia lo avala: Chernóbil se ha convertido en un ‘paraíso salvaje’ 40 años después de la explosión del reactor nuclear,2026-04-26 11:39
-horario,5,8,2.85,56,"heraldo_aragon, okdiario, google_news_es",3,Horario y dónde ver el partido SD Huesca-Real Zaragoza en directo,2026-04-26 11:39
-washington,8,13,2.8,56,"huffington_es, elmundo_internacional, google_news_internacional, infolibre, levante_emv",5,"El intento de atentado contra Trump en Washington, el tercero en tan solo dos años",2026-04-26 11:39
-medio,6,10,2.73,54,"elcorreo, levante_emv, okdiario, sur, 20minutos",5,Sigue en directo la última hora de la guerra en Oriente Medio | Israel ordena evacuar el sur de Líbano ante ataques inminentes en pleno alto al fuego,2026-04-26 11:39
-económica,3,5,2.73,54,"20minutos, levante_emv",2,"Qué se sabe de la pareja hallada con disparos en Asturias: avisaron antes, problemas de salud y mala situación económica",2026-04-26 11:39
-fuera,3,5,2.73,54,"elcorreo, 20minutos",2,"Howard, fuera de la convocatoria por tercera jornada seguida",2026-04-26 11:39
-desastre,3,5,2.73,54,"google_news_es, 20minutos, google_news_internacional",3,Los 'robots humanos' que limpiaron el desastre nuclear de Chernóbil - RTVE.es,2026-04-26 11:39
-lleva,3,5,2.73,54,"okdiario, elcorreo, google_news_es, google_news_internacional, 20minutos",5,¿Cuántos años se llevan Alejandro Sanz y Stephanie Cayo? Sus edades y su historia,2026-04-26 11:39
-regreso,3,5,2.73,54,"heraldo_aragon, okdiario",2,"""Hola, como decíamos ayer…"": así ha sido la emocionante primer concierto de la gira de regreso de El Último de la Fila",2026-04-26 11:39
-servicio,6,10,2.73,54,"elespanol, google_news_es, okdiario, google_news_internacional",4,"Sánchez replica a PP y Vox que su ""prioridad nacional"" es el 'No a la guerra', las pensiones, el empleo y los servicios públicos",2026-04-26 11:39
-montero,3,5,2.73,54,levante_emv,1,DIRECTO | Pedro Sánchez y María Jesús Montero en Córdoba,2026-04-26 11:39
-investiga,3,5,2.73,54,"levante_emv, okdiario, elpais, google_news_internacional",4,"El apagón cumple un año sin un claro culpable, pese a los múltiples informes y comisiones de investigación",2026-04-26 11:39
-mutua,3,5,2.73,54,"okdiario, 20minutos",2,Horario Rafa Jódar vs Fonseca: a qué hora es y dónde ver gratis en directo por TV y online el partido del Mutua Madrid Open 2026,2026-04-26 11:39
-poder,4,7,2.6,52,"levante_emv, okdiario, google_news_internacional",3,Alcoi se entrega al poder de la media luna,2026-04-26 11:39
-internacionales,4,7,2.6,52,"elpais, google_news_internacional, elconfidencial",3,"Intento de atentado a Trump, en directo | Los líderes internacionales condenan el ataque y denuncian clima de violencia política",2026-04-26 11:39
-predicción,8,14,2.6,52,okdiario,1,"Predicción del horóscopo para Aries hoy, domingo 26 de abril de 2026",2026-04-26 11:39
-razón,5,9,2.53,50,"huffington_es, google_news_internacional, google_news_es, eldiario",4,"Aurelio Rojas, cardiólogo, sobre cómo cuidar el corazón: &quot;Si tú no lo paras, él te va a parar&quot;",2026-04-26 11:39
-nunca,5,9,2.53,50,"levante_emv, okdiario, europapress, elcorreo, google_news_internacional",5,"Trump, tras el intento de atentado: ""Necesitamos niveles de seguridad nunca antes vistos""",2026-04-26 11:39
-disparos,11,21,2.39,47,"20minutos, okdiario, huffington_es, newtral, heraldo_aragon",5,"Qué se sabe de la pareja hallada con disparos en Asturias: avisaron antes, problemas de salud y mala situación económica",2026-04-26 11:39
-prioridad,10,19,2.4,47,"okdiario, elmundo, elcorreo, elespanol, google_news_es",5,"Sánchez, con su mujer y hermano procesados, se burla de la prioridad nacional: «Tenemos prioridades familiares»",2026-04-26 11:39
-nadie,3,6,2.28,45,"google_news_es, huffington_es, okdiario",3,"Sánchez critica ""los pactos de 'señoros' de Abascal y Feijóo"": ""La prioridad nacional es no dejar a nadie atrás"" - RTVE.es",2026-04-26 11:39
-sigue,5,10,2.28,45,"elcorreo, elmundo_internacional, levante_emv, sur",4,Sigue en directo la última hora de la guerra en Oriente Medio | Israel ordena evacuar el sur de Líbano ante ataques inminentes en pleno alto al fuego,2026-04-26 11:39
-fuerza,3,6,2.28,45,"eldiario, okdiario",2,La razón de la fuerza frente a la fuerza de la razón,2026-04-26 11:39
-junto,3,6,2.28,45,"elmundo, levante_emv",2,"Así vivieron el tiroteo los corresponsales en la cena junto a Trump: ""En cuestión de segundos, todos estábamos bajo las mesas""",2026-04-26 11:39
-países,3,6,2.28,45,"efe, eldiario",2,151 especies de peces «invaden» las aguas continentales de países mediterráneos,2026-04-26 11:39
-domingo,11,22,2.28,45,"okdiario, google_news_economia, levante_emv, 20minutos, google_news_internacional",5,"Predicción del horóscopo para Aries hoy, domingo 26 de abril de 2026",2026-04-26 11:39
-horóscopo,8,16,2.28,45,okdiario,1,"Predicción del horóscopo para Aries hoy, domingo 26 de abril de 2026",2026-04-26 11:39
-detenido,7,14,2.28,45,"elcorreo, huffington_es, heraldo_aragon, 20minutos, levante_emv",5,Dos detenidos por prostituir a una veintena de mujeres en chalés de la Playa de Palma,2026-04-26 11:39
-vitoria,3,6,2.28,45,"elcorreo, google_news_es",2,ETS anuncia un concierto «sin precedentes» en 2027 en el Buesa Arena de Vitoria,2026-04-26 11:39
-noche,3,6,2.28,45,"elmundo_internacional, google_news_internacional, 20minutos",3,Una noche accidentada en Washington,2026-04-26 11:39
-trabajo,3,6,2.28,45,"expansion, google_news_economia, levante_emv",3,La Bolsa española no operará el viernes 1 de mayo por la festividad del Día del Trabajo,2026-04-26 11:39
-alicante,3,6,2.28,45,"elespanol, google_news_internacional",2,Una mujer fallecida y tres heridos por inhalación de humo en un incendio de una vivienda en Orihuela (Alicante),2026-04-26 11:39
-blanca,14,29,2.2,43,"huffington_es, bbc_mundo, levante_emv, google_news_es, google_news_internacional",5,"Quién es Cole Allen, el detenido por el intento de atentado contra Trump en la cena de corresponsales de la Casa Blanca",2026-04-26 11:39
-seguridad,7,15,2.13,42,"levante_emv, elmundo, google_news_economia, 20minutos, google_news_es",5,"Trump, tras el intento de atentado: ""Necesitamos niveles de seguridad nunca antes vistos""",2026-04-26 11:39
-ormuz,6,13,2.1,42,"eldiario, okdiario",2,Ormuz cayó en manos hispánicas durante 42 años y así abrió una puerta estratégica hacia Persia y la India,2026-04-26 11:39
-última,10,22,2.07,41,"elcorreo, okdiario, google_news_internacional, sur, heraldo_aragon",5,Sigue en directo la última hora de la guerra en Oriente Medio | Israel ordena evacuar el sur de Líbano ante ataques inminentes en pleno alto al fuego,2026-04-26 11:39
-jerez,16,36,2.02,40,"okdiario, elcorreo, levante_emv, sur, google_news_es",5,"MotoGP Jerez, en directo hoy: dónde ver gratis y última hora de la carrera del GP de España con Marc Márquez",2026-04-26 11:39
-españoles,4,9,2.02,40,"levante_emv, 20minutos, google_news_politica, okdiario",4,Más de la mitad de los españoles confían más en la IA que en las aplicaciones de su banco,2026-04-26 11:39
-veces,4,9,2.02,40,"20minutos, huffington_es",2,El tirador llevaba varias armas y ha disparado entre cinco y ocho veces,2026-04-26 11:39
-accidente,4,9,2.02,40,"okdiario, 20minutos, google_news_internacional",3,Aparatoso accidente en Palma: un conductor choca con un vehículo estacionado y acaba volcado en medio de la calle,2026-04-26 11:39
+cuarenta,4,0,5.0,100,"levante_emv, google_news_economia",2,Otro momento clave para el futuro de las nucleares en España cuarenta años después,2026-04-26 12:10
+violencia,11,4,13.06,100,"elpais, elmundo_internacional, elmundo, google_news_internacional, europapress",5,El peligro de la violencia política,2026-04-26 12:10
+detención,8,1,38.0,100,"elcorreo, elespanol, elpais, 20minutos",4,Así fue el momento de la detención del sospechoso de atentar contra Trump en la cena de corresponsales,2026-04-26 12:10
+señoros,4,0,5.0,100,"elmundo, okdiario, europapress, google_news_es",4,"Pedro Sánchez agita el miedo al ""pacto de señoros entre Abascal y Feijóo"" y fija su ""prioridad nacional"": el no a la guerra",2026-04-26 12:10
+aumenta,3,0,5.0,100,"20minutos, google_news_es, google_news_economia",3,El cáncer de testículos aumenta en hombres jóvenes de entre 15 y 35 años,2026-04-26 12:10
+confirmado,4,3,6.33,100,"google_news_economia, okdiario",2,Confirmado por el Ministerio de Consumo: el 61% del alquiler en España está en manos de los multiarrendadores - Crónica Global,2026-04-26 12:10
+condena,9,1,42.75,100,"elpais, europapress, google_news_internacional, elcorreo, okdiario",5,Condena internacional al ataque perpetrado en la cena de Trump con corresponsales: “La violencia no es el camino”,2026-04-26 12:10
+magnicidio,4,0,5.0,100,"levante_emv, elmundo_internacional, google_news_internacional",3,De Reagan a Trump: el hotel Hilton vuelve a ser escenario de un intento de magnicidio 45 años después,2026-04-26 12:10
+escenario,3,2,7.12,100,"levante_emv, 20minutos",2,De Reagan a Trump: el hotel Hilton vuelve a ser escenario de un intento de magnicidio 45 años después,2026-04-26 12:10
+keniano,3,0,5.0,100,"elmundo, okdiario, elpais",3,El keniano Sabastian Sawe bate el récord mundial de maratón con 1h59:30,2026-04-26 12:10
+moto2,4,2,9.5,100,"okdiario, elcorreo, levante_emv",3,Agius le gana la batalla a Manu González en Jerez y aprieta el Mundial de Moto2,2026-04-26 12:10
+vance,5,0,5.0,100,"20minutos, okdiario, google_news_internacional, elpais",4,Un vídeo muestra que JD Vance es evacuado más rápido que Trump,2026-04-26 12:10
+perfecto,3,2,7.12,100,"20minutos, elcorreo",2,Marc Márquez busca en Jerez cerrar un fin de semana perfecto con Álex en busca de la remontada,2026-04-26 12:10
+estamos,3,2,7.12,100,"huffington_es, okdiario, 20minutos",3,"Nazareth Castellanos, neurocientífica: &quot;La salud mental necesita un vuelco enorme, estamos llegando a un callejón sin salida&quot;",2026-04-26 12:10
+cataluña,3,2,7.12,100,"20minutos, elmundo_espana",2,Detenidos 10 grafiteros por causar daños valorados en 377.000 euros en trenes y metros de Cataluña,2026-04-26 12:10
+intento,32,24,6.33,100,"elpais, levante_emv, elmundo_internacional, huffington_es, google_news_internacional",5,"Última hora del intento de atentado contra Trump, en directo | El FBI acordona la casa del hombre detenido por el ataque",2026-04-26 12:10
+allen,12,3,19.0,100,"elespanol, huffington_es, heraldo_aragon, levante_emv, 20minutos",5,Así ha sido la detención de Cole Tomas Allen tras el intento de asesinato de Trump: dejó herido a un agente del Servicio Secreto,2026-04-26 12:10
+hilton,5,4,5.94,100,"20minutos, levante_emv, google_news_internacional, elmundo",4,"El hotel Hilton de Washington, maldito para los presidentes de EEUU: de Reagan a Trump",2026-04-26 12:10
+india,3,2,7.12,100,"eldiario, okdiario, elmundo_internacional",3,Ormuz cayó en manos hispánicas durante 42 años y así abrió una puerta estratégica hacia Persia y la India,2026-04-26 12:10
+tirador,7,4,8.31,100,"okdiario, 20minutos, elmundo, google_news_internacional",4,Trump comparte en redes el vídeo de la entrada del presunto tirador y los disparos del Servicio Secreto,2026-04-26 12:10
+sancionado,3,0,5.0,100,"okdiario, google_news_es",2,El motivo por el que Marc Márquez no fue sancionado en la sprint de Jerez,2026-04-26 12:10
+modernizar,3,0,5.0,100,google_news_economia,1,El PP pide esta semana en el Congreso ayudas para modernizar el sector del calzado en España - PressDigital,2026-04-26 12:10
+decíamos,3,0,5.0,100,"20minutos, heraldo_aragon",2,"""Como decíamos ayer"", el saludo de Manolo García en el primer concierto de El Último de la Fila en 30 años",2026-04-26 12:10
+atentados,4,1,19.0,100,"elmundo_internacional, 20minutos, google_news_internacional, elespanol",4,La sombra del magnicidio sigue sobrevolando la política estadounidense: Trump es objeto de tres atentados en dos años,2026-04-26 12:10
+moto3,5,0,5.0,100,"elcorreo, sur, levante_emv",3,Máximo Quiles se lleva la carrera de Moto3 en Jerez,2026-04-26 12:10
+señal,4,3,6.33,100,"levante_emv, 20minutos, okdiario, google_news_internacional",4,El PSPV señala a Marciano Gómez por el colapso sanitario y el aumento de las derivaciones a la privada,2026-04-26 12:10
+sabemos,4,2,9.5,100,"google_news_internacional, eldiario",2,Todo lo que sabemos del intento de atentado a Donald Trump - elDiario.es,2026-04-26 12:10
+ayudas,4,1,19.0,100,"google_news_economia, levante_emv",2,El PP pide esta semana en el Congreso ayudas para modernizar el sector del calzado en España - PressDigital,2026-04-26 12:10
+condenan,4,0,5.0,100,"elpais, google_news_internacional",2,"Intento de atentado a Trump, en directo | Los líderes internacionales condenan el ataque y denuncian clima de violencia política",2026-04-26 12:10
+trail,3,0,5.0,100,"elconfidencial, 20minutos",2,Muere un corredor en la VI edición de la Muñalba Trail de Regumiel de la Sierra (Burgos),2026-04-26 12:10
+presunto,3,2,7.12,100,"okdiario, elmundo, google_news_internacional",3,Trump comparte en redes el vídeo de la entrada del presunto tirador y los disparos del Servicio Secreto,2026-04-26 12:10
+calzado,3,0,5.0,100,google_news_economia,1,El PP pide esta semana en el Congreso ayudas para modernizar el sector del calzado en España - PressDigital,2026-04-26 12:10
+incendio,5,4,5.94,100,"elespanol, levante_emv, elmundo_internacional",3,Una mujer fallecida y tres heridos por inhalación de humo en un incendio de una vivienda en Orihuela (Alicante),2026-04-26 12:10
+orihuela,4,0,5.0,100,"elespanol, levante_emv",2,Una mujer fallecida y tres heridos por inhalación de humo en un incendio de una vivienda en Orihuela (Alicante),2026-04-26 12:10
+noticias,9,8,5.34,100,"okdiario, sur, google_news_internacional, heraldo_aragon",4,"Guerra de Irán, en directo: última hora de Donald Trump, cómo van las negociaciones con EEUU, nuevos ataques y noticias del estrecho de Ormuz",2026-04-26 12:10
+donald,20,15,6.33,100,"okdiario, google_news_internacional, 20minutos, levante_emv, elmundo",5,"Guerra de Irán, en directo: última hora de Donald Trump, cómo van las negociaciones con EEUU, nuevos ataques y noticias del estrecho de Ormuz",2026-04-26 12:10
+comparte,6,0,5.0,100,"okdiario, 20minutos",2,Trump comparte en redes el vídeo de la entrada del presunto tirador y los disparos del Servicio Secreto,2026-04-26 12:10
+quiles,5,3,7.92,100,"elcorreo, okdiario, levante_emv",3,Máximo Quiles firma un fin de semana perfecto en Jerez,2026-04-26 12:10
+fonseca,3,1,14.25,100,okdiario,1,Horario Rafa Jódar vs Fonseca: a qué hora es y dónde ver gratis en directo por TV y online el partido del Mutua Madrid Open 2026,2026-04-26 12:10
+tomas,4,0,5.0,100,elespanol,1,Así ha sido la detención de Cole Tomas Allen tras el intento de asesinato de Trump: dejó herido a un agente del Servicio Secreto,2026-04-26 12:10
+jóvenes,6,1,28.5,100,"huffington_es, levante_emv, 20minutos, google_news_es",4,&quot;Un mundo que exige lealtad pero no ofrece ninguna&quot;: Simon Sinek explica por qué los jóvenes ya no confían en las empresas,2026-04-26 12:10
+fallece,3,0,5.0,100,levante_emv,1,Fallece una mujer de 49 años tras ser atropellada en la V-31 a la altura de Beniparrell,2026-04-26 12:10
+debajo,3,2,7.12,100,"google_news_es, levante_emv, okdiario",3,"Récord del mundo en maratón: Sabastian Sawe, por debajo de las dos horas en Londres - olympics.com",2026-04-26 12:10
+sabastian,6,0,5.0,100,"google_news_es, 20minutos, elmundo, okdiario, levante_emv",5,"Récord del mundo en maratón: Sabastian Sawe, por debajo de las dos horas en Londres - olympics.com",2026-04-26 12:10
+maratón,16,2,38.0,100,"google_news_es, 20minutos, elcorreo, elmundo, okdiario",5,"Récord del mundo en maratón: Sabastian Sawe, por debajo de las dos horas en Londres - olympics.com",2026-04-26 12:10
+récord,9,3,14.25,100,"google_news_es, 20minutos, elmundo, elespanol, huffington_es",5,"Récord del mundo en maratón: Sabastian Sawe, por debajo de las dos horas en Londres - olympics.com",2026-04-26 12:10
+llorando,3,1,14.25,100,20minutos,1,"La viuda de Charlie Kirk, aterrada y llorando en el tiroteo de la cen: ""Solo quiero irme a casa""",2026-04-26 12:10
+reiterados,3,0,5.0,100,"okdiario, google_news_internacional",2,Trump ve los reiterados intentos de asesinato como una señal de su “relevancia histórica”,2026-04-26 12:10
+vicepresidente,3,0,5.0,100,"elpais, okdiario, google_news_internacional",3,"El momento de la evacuación del vicepresidente de EE UU, J.D. Vance, de la cena de corresponsales tras el tiroteo",2026-04-26 12:10
+transición,3,1,14.25,100,"efe, levante_emv, elcorreo",3,La Conferencia de Santa Marta resalta la diversidad de conocimientos para impulsar transición energética,2026-04-26 12:10
+tiroteo,25,15,7.92,100,"levante_emv, okdiario, elmundo, 20minutos, google_news_internacional",5,El momento en el que el sospechoso del tiroteo en Washington burla el control de seguridad,2026-04-26 12:10
+sospechoso,8,7,5.43,100,"levante_emv, huffington_es, elcorreo, elpais, 20minutos",5,El momento en el que el sospechoso del tiroteo en Washington burla el control de seguridad,2026-04-26 12:10
+planeta,3,1,14.25,100,"bbc_mundo, okdiario, huffington_es",3,"Por qué los científicos creen que están cerca de resolver el misterio del ""Planeta 9"" (y cuál es el rol de Chile en esta búsqueda)",2026-04-26 12:10
+momento,13,12,5.15,100,"levante_emv, okdiario, huffington_es, elcorreo, elpais",5,El momento en el que el sospechoso del tiroteo en Washington burla el control de seguridad,2026-04-26 12:10
+castillo,3,2,7.12,100,"huffington_es, 20minutos, okdiario",3,Italia endurece las normas en sus destinos turísticos: multas de hasta 1.000 euros por hacer castillos de arena o 500 euros por besarse en el coche,2026-04-26 12:10
+energética,3,2,7.12,100,"eldiario, efe, elmundo, okdiario",4,Muere a los 44 años la activista catalana contra la pobreza energética Maria Campuzano,2026-04-26 12:10
+horas,12,11,5.18,100,"google_news_es, 20minutos, elcorreo, okdiario, levante_emv",5,"Récord del mundo en maratón: Sabastian Sawe, por debajo de las dos horas en Londres - olympics.com",2026-04-26 12:10
+londres,5,1,23.75,100,"google_news_es, elcorreo, levante_emv, huffington_es",4,"Récord del mundo en maratón: Sabastian Sawe, por debajo de las dos horas en Londres - olympics.com",2026-04-26 12:10
+profesor,7,1,33.25,100,"huffington_es, levante_emv, elespanol, 20minutos, elmundo",5,"Théodore Christakis, profesor de derecho digital: &quot;Los gigantes tecnológicos están construyendo las mayores acumulaciones privadas de datos de salud jamás imaginadas&quot;",2026-04-26 12:10
+jerez-ángel,3,0,5.0,100,levante_emv,1,Sigue en directo la carrera en el circuito Jerez-Ángel Nieto de MotoGP 2026,2026-04-26 12:10
+circuito,3,2,7.12,100,levante_emv,1,Sigue en directo la carrera en el circuito Jerez-Ángel Nieto de MotoGP 2026,2026-04-26 12:10
+viuda,3,0,5.0,100,20minutos,1,"La viuda de Charlie Kirk, aterrada y llorando en el tiroteo de la cen: ""Solo quiero irme a casa""",2026-04-26 12:10
+aterrada,3,0,5.0,100,20minutos,1,"La viuda de Charlie Kirk, aterrada y llorando en el tiroteo de la cen: ""Solo quiero irme a casa""",2026-04-26 12:10
+bajar,7,3,11.08,100,"20minutos, okdiario, elespanol, huffington_es, elpais",5,Histórico Sabastian Sawe: fulmina el récord mundial de maratón y es el primero en bajar de las dos horas,2026-04-26 12:10
+nucleares,4,1,19.0,100,"levante_emv, google_news_economia",2,Otro momento clave para el futuro de las nucleares en España cuarenta años después,2026-04-26 12:10
+nieto,3,1,14.25,100,levante_emv,1,Sigue en directo la carrera en el circuito Jerez-Ángel Nieto de MotoGP 2026,2026-04-26 12:10
+pareja,8,6,6.33,100,"levante_emv, okdiario, google_news_economia, 20minutos, eldiario",5,Detienen a una pareja por captar a veinte mujeres y a un hombre para que se prostituyeran en dos chalés donde les alquilaban habitaciones en la Playa de Palma,2026-04-26 12:10
+primero,5,3,7.92,100,"20minutos, elespanol, okdiario, google_news_internacional",4,Histórico Sabastian Sawe: fulmina el récord mundial de maratón y es el primero en bajar de las dos horas,2026-04-26 12:10
+charlie,3,1,14.25,100,20minutos,1,"La viuda de Charlie Kirk, aterrada y llorando en el tiroteo de la cen: ""Solo quiero irme a casa""",2026-04-26 12:10
+intentos,4,2,9.5,100,"okdiario, google_news_internacional",2,Trump ve los reiterados intentos de asesinato como una señal de su “relevancia histórica”,2026-04-26 12:10
+playa,6,4,7.12,100,"levante_emv, sur, okdiario, elcorreo",4,Detienen a una pareja por captar a veinte mujeres y a un hombre para que se prostituyeran en dos chalés donde les alquilaban habitaciones en la Playa de Palma,2026-04-26 12:10
+jódar,3,3,4.75,94,okdiario,1,Horario Rafa Jódar vs Fonseca: a qué hora es y dónde ver gratis en directo por TV y online el partido del Mutua Madrid Open 2026,2026-04-26 12:10
+motivo,3,3,4.75,94,"okdiario, google_news_es",2,El motivo por el que Marc Márquez no fue sancionado en la sprint de Jerez,2026-04-26 12:10
+estrecho,5,5,4.75,94,okdiario,1,"Guerra de Irán, en directo: última hora de Donald Trump, cómo van las negociaciones con EEUU, nuevos ataques y noticias del estrecho de Ormuz",2026-04-26 12:10
+clave,6,6,4.75,94,"okdiario, sur, levante_emv, google_news_economia",4,‘Estamos pasando de los early adopters a la mayoría’: el momento clave de las Ray-Ban Meta,2026-04-26 12:10
+evacuación,5,5,4.75,94,"levante_emv, google_news_internacional, huffington_es, elpais",4,Así ha sido la evacuación de Donald Trump tras un intento de atentado durante la cena de corresponsales,2026-04-26 12:10
+relación,3,3,4.75,94,"okdiario, levante_emv, 20minutos",3,"Quién es Stephanie Cayo: su edad, de dónde es, su profesión y su relación con Alejandro Sanz",2026-04-26 12:10
+motogp,5,5,4.75,94,"sur, levante_emv, okdiario",3,Directo | La carrera de MotoGP de Jerez,2026-04-26 12:10
+alcaraz,3,3,4.75,94,"20minutos, okdiario",2,"Firmas de tenistas, exposición de Alcaraz y pistas de entrenamiento: lo que no te puedes perder del Mutua Madrid Open",2026-04-26 12:10
+entrega,3,3,4.75,94,"levante_emv, sur, heraldo_aragon",3,Alcoi se entrega al poder de la media luna,2026-04-26 12:10
+líderes,3,3,4.75,94,"elmundo_internacional, elpais, google_news_internacional",3,"""La violencia no tiene cabida en una democracia"", los líderes reaccionan al intento de atentado contra Trump",2026-04-26 12:10
+política,9,9,4.75,94,"elpais, elmundo_internacional, europapress, elmundo, google_news_internacional",5,El peligro de la violencia política,2026-04-26 12:10
+elplural.com,3,3,4.75,94,"google_news_politica, google_news_internacional",2,Por qué el PP teme a Zapatero: el político que arrasa en los mítines del PSOE - Elplural.com,2026-04-26 12:10
+historia,14,15,4.43,88,"elcorreo, okdiario, levante_emv, heraldo_aragon, elespanol",5,Sawe hace historia al derribar el muro de las dos horas en el maratón de Londres,2026-04-26 12:10
+vídeo,12,13,4.38,87,"20minutos, heraldo_aragon, levante_emv, huffington_es, okdiario",5,Un vídeo muestra que JD Vance es evacuado más rápido que Trump,2026-04-26 12:10
+vivienda,9,10,4.27,85,"elcorreo, elespanol, okdiario, levante_emv",4,Los bomberos sofocan un incencio en una vivienda abandonada de Getxo que estaba okupada,2026-04-26 12:10
+feijóo,6,7,4.07,81,"elmundo, okdiario, europapress, google_news_es, huffington_es",5,"Pedro Sánchez agita el miedo al ""pacto de señoros entre Abascal y Feijóo"" y fija su ""prioridad nacional"": el no a la guerra",2026-04-26 12:10
+fotos,6,7,4.07,81,"google_news_es, okdiario, 20minutos",3,Fotos | Última jornada de las Fiestas Goyescas de 2026 en Zaragoza - heraldo.es,2026-04-26 12:10
+futuro,5,6,3.96,79,"okdiario, levante_emv, google_news_economia",3,El futuro era esto: India ya está utilizando semáforos inteligentes con IA para regular el tráfico,2026-04-26 12:10
+palma,5,6,3.96,79,"levante_emv, okdiario, elcorreo",3,Detienen a una pareja por captar a veinte mujeres y a un hombre para que se prostituyeran en dos chalés donde les alquilaban habitaciones en la Playa de Palma,2026-04-26 12:10
+carrera,14,17,3.91,78,"sur, levante_emv, okdiario, 20minutos, elcorreo",5,Directo | La carrera de MotoGP de Jerez,2026-04-26 12:10
+mujer,9,11,3.89,77,"levante_emv, okdiario, elcorreo, elespanol, huffington_es",5,Detienen a una pareja por captar a veinte mujeres y a un hombre para que se prostituyeran en dos chalés donde les alquilaban habitaciones en la Playa de Palma,2026-04-26 12:10
+redes,4,5,3.8,75,"okdiario, 20minutos",2,Miguel Ángel Silvestre incendia las redes: trotando sin camiseta en pleno rodaje en Colombia,2026-04-26 12:10
+concierto,4,5,3.8,75,"20minutos, heraldo_aragon, elcorreo",3,"""Como decíamos ayer"", el saludo de Manolo García en el primer concierto de El Último de la Fila en 30 años",2026-04-26 12:10
+montero,4,5,3.8,75,levante_emv,1,"María Jesús Montero, a Pedro Sánchez: ""Lo que yo quiero en Andalucía es lo que tú haces en España""",2026-04-26 12:10
+corresponsales,26,34,3.63,72,"eldiario, elpais, levante_emv, elmundo, elcorreo",5,"Llevo una década cubriendo a Trump. En la cena de los corresponsales de la Casa Blanca, sentí la oscuridad de forma visceral",2026-04-26 12:10
+servimedia,3,4,3.56,71,google_news_es,1,El cáncer de testículo aumenta en hombres jóvenes - Servimedia,2026-04-26 12:10
+córdoba,3,4,3.56,71,levante_emv,1,DIRECTO | Pedro Sánchez y María Jesús Montero en Córdoba,2026-04-26 12:10
+asesinato,6,8,3.56,71,"elespanol, heraldo_aragon, okdiario, google_news_internacional",4,Así ha sido la detención de Cole Tomas Allen tras el intento de asesinato de Trump: dejó herido a un agente del Servicio Secreto,2026-04-26 12:10
+nuevos,6,8,3.56,71,okdiario,1,"Guerra de Irán, en directo: última hora de Donald Trump, cómo van las negociaciones con EEUU, nuevos ataques y noticias del estrecho de Ormuz",2026-04-26 12:10
+atentado,33,44,3.56,71,"elpais, elmundo_internacional, levante_emv, huffington_es, google_news_internacional",5,"Última hora del intento de atentado contra Trump, en directo | El FBI acordona la casa del hombre detenido por el ataque",2026-04-26 12:10
+hotel,6,8,3.56,71,"20minutos, levante_emv, google_news_internacional, elmundo",4,"El hotel Hilton de Washington, maldito para los presidentes de EEUU: de Reagan a Trump",2026-04-26 12:10
+reagan,3,4,3.56,71,"20minutos, levante_emv, google_news_internacional",3,"El hotel Hilton de Washington, maldito para los presidentes de EEUU: de Reagan a Trump",2026-04-26 12:10
+máximo,5,7,3.39,67,"elcorreo, okdiario, levante_emv",3,Máximo Quiles firma un fin de semana perfecto en Jerez,2026-04-26 12:10
+congreso,5,7,3.39,67,"google_news_economia, levante_emv, google_news_internacional",3,El PP pide esta semana en el Congreso ayudas para modernizar el sector del calzado en España - PressDigital,2026-04-26 12:10
+derecho,5,7,3.39,67,"google_news_internacional, levante_emv, huffington_es",3,"Pontón destaca la ""sintonía"" entre BNG y PT de Brasil en la ""defensa de la paz, derecho internacional y justicia social"" - europapress.es",2026-04-26 12:10
+sigue,6,9,3.17,63,"levante_emv, elcorreo, elmundo_internacional, sur",4,Sigue en directo la carrera en el circuito Jerez-Ángel Nieto de MotoGP 2026,2026-04-26 12:10
+segundo,4,6,3.17,63,"elmundo_internacional, google_news_internacional, elmundo, levante_emv",4,Los ataques continúan por segundo día en Malí tras la ofensiva de Al Qaeda: la ONU pide una respuesta internacional,2026-04-26 12:10
+secreto,6,9,3.17,63,"okdiario, elespanol, google_news_internacional",3,Trump comparte en redes el vídeo de la entrada del presunto tirador y los disparos del Servicio Secreto,2026-04-26 12:10
+fiestas,4,6,3.17,63,"elmundo_espana, heraldo_aragon, google_news_es, levante_emv",4,Detenido en Pamplona un joven de 26 años por presunta agresión sexual en las fiestas de San Jorge,2026-04-26 12:10
+horario,5,8,2.97,59,"heraldo_aragon, okdiario, google_news_es",3,Horario y dónde ver el partido SD Huesca-Real Zaragoza en directo,2026-04-26 12:10
+mutua,3,5,2.85,56,"okdiario, 20minutos",2,Horario Rafa Jódar vs Fonseca: a qué hora es y dónde ver gratis en directo por TV y online el partido del Mutua Madrid Open 2026,2026-04-26 12:10
+melania,3,5,2.85,56,"okdiario, newtral",2,"Melania, de la sorpresa por el truco del mentalista Oz Pearlman al miedo ante el tiroteo: «¿Qué ocurre?»",2026-04-26 12:10
+edición,3,5,2.85,56,"levante_emv, google_news_internacional, elconfidencial",3,Casi 500 personas participan en la cuarta edición del encuentro 'Camina' por la salud en l'Horta Sud,2026-04-26 12:10
+washington,9,15,2.85,56,"levante_emv, 20minutos, huffington_es, google_news_internacional, elmundo_internacional",5,El momento en el que el sospechoso del tiroteo en Washington burla el control de seguridad,2026-04-26 12:10
+fuera,3,5,2.85,56,"elcorreo, 20minutos",2,"Howard, fuera de la convocatoria por tercera jornada seguida",2026-04-26 12:10
+investiga,3,5,2.85,56,"sur, levante_emv, okdiario, elpais, google_news_internacional",5,Investigan la muerte de un hombre hallado sin vida en la orilla de la playa de El Morche,2026-04-26 12:10
+lleva,3,5,2.85,56,"okdiario, elcorreo, google_news_es, google_news_internacional, 20minutos",5,¿Cuántos años se llevan Alejandro Sanz y Stephanie Cayo? Sus edades y su historia,2026-04-26 12:10
+servicio,6,10,2.85,56,"elespanol, google_news_es, okdiario, google_news_internacional",4,"Sánchez replica a PP y Vox que su ""prioridad nacional"" es el 'No a la guerra', las pensiones, el empleo y los servicios públicos",2026-04-26 12:10
+quién,10,17,2.79,55,"okdiario, huffington_es, eldiario, google_news_internacional, elespanol",5,"Quién es Stephanie Cayo: su edad, de dónde es, su profesión y su relación con Alejandro Sanz",2026-04-26 12:10
+poder,4,7,2.71,54,"20minutos, levante_emv, okdiario, google_news_internacional",4,De lobos con 'superpoderes' a golondrinas inmunes: así son los animales mutantes de Chernóbil,2026-04-26 12:10
+mujeres,4,7,2.71,54,"levante_emv, elcorreo, okdiario",3,Detienen a una pareja por captar a veinte mujeres y a un hombre para que se prostituyeran en dos chalés donde les alquilaban habitaciones en la Playa de Palma,2026-04-26 12:10
+internacionales,4,7,2.71,54,"elpais, google_news_internacional, elconfidencial",3,"Intento de atentado a Trump, en directo | Los líderes internacionales condenan el ataque y denuncian clima de violencia política",2026-04-26 12:10
+pedro,4,7,2.71,54,"levante_emv, elmundo, huffington_es",3,"María Jesús Montero, a Pedro Sánchez: ""Lo que yo quiero en Andalucía es lo que tú haces en España""",2026-04-26 12:10
+trump,80,147,2.58,51,"20minutos, elpais, eldiario, levante_emv, okdiario",5,"El hotel Hilton de Washington, maldito para los presidentes de EEUU: de Reagan a Trump",2026-04-26 12:10
+medio,6,11,2.59,51,"elcorreo, levante_emv, okdiario, sur, 20minutos",5,Sigue en directo la última hora de la guerra en Oriente Medio | Israel ordena evacuar el sur de Líbano ante ataques inminentes en pleno alto al fuego,2026-04-26 12:10
+seguridad,8,15,2.53,50,"levante_emv, elmundo, google_news_economia, 20minutos, google_news_es",5,El momento en el que el sospechoso del tiroteo en Washington burla el control de seguridad,2026-04-26 12:10
+ileso,3,6,2.37,47,"infolibre, google_news_es",2,"Donald Trump, ileso tras ser evacuado de una cena en Washington con la plana mayor del Gobierno de EEUU",2026-04-26 12:10
+predicción,7,14,2.37,47,okdiario,1,"Predicción del horóscopo para Aries hoy, domingo 26 de abril de 2026",2026-04-26 12:10
+comunidad,8,16,2.37,47,"20minutos, elmundo_espana, google_news_internacional, infolibre, okdiario",5,"La Comunidad de Madrid insiste en la dimisión de Mónica García y censura que ""ponga su cabeza"" en ser candidata",2026-04-26 12:10
+países,3,6,2.37,47,"efe, eldiario",2,151 especies de peces «invaden» las aguas continentales de países mediterráneos,2026-04-26 12:10
+norte,3,6,2.37,47,"elmundo_internacional, eldiario",2,Un coche bomba detona frente a una comisaría en Irlanda del Norte sin dejar víctimas,2026-04-26 12:10
+salud,6,12,2.37,47,"levante_emv, huffington_es, 20minutos, google_news_economia, google_news_internacional",5,Casi 500 personas participan en la cuarta edición del encuentro 'Camina' por la salud en l'Horta Sud,2026-04-26 12:10
+regreso,3,6,2.37,47,"heraldo_aragon, okdiario",2,"""Hola, como decíamos ayer…"": así ha sido la emocionante primer concierto de la gira de regreso de El Último de la Fila",2026-04-26 12:10
+nunca,5,10,2.37,47,"levante_emv, okdiario, europapress, elcorreo, google_news_internacional",5,"Trump, tras el intento de atentado: ""Necesitamos niveles de seguridad nunca antes vistos""",2026-04-26 12:10
+ormuz,6,12,2.37,47,"eldiario, okdiario",2,Ormuz cayó en manos hispánicas durante 42 años y así abrió una puerta estratégica hacia Persia y la India,2026-04-26 12:10
+alicante,3,6,2.37,47,"elespanol, google_news_internacional",2,Una mujer fallecida y tres heridos por inhalación de humo en un incendio de una vivienda en Orihuela (Alicante),2026-04-26 12:10
+vitoria,3,6,2.37,47,"elcorreo, google_news_es",2,ETS anuncia un concierto «sin precedentes» en 2027 en el Buesa Arena de Vitoria,2026-04-26 12:10
+junto,3,6,2.37,47,"elmundo, levante_emv",2,"Así vivieron el tiroteo los corresponsales en la cena junto a Trump: ""En cuestión de segundos, todos estábamos bajo las mesas""",2026-04-26 12:10
+trabajo,3,6,2.37,47,"expansion, google_news_economia, levante_emv",3,La Bolsa española no operará el viernes 1 de mayo por la festividad del Día del Trabajo,2026-04-26 12:10
+noche,3,6,2.37,47,"elmundo_internacional, google_news_internacional, 20minutos",3,Una noche accidentada en Washington,2026-04-26 12:10
+prioridad,10,20,2.37,47,"okdiario, elmundo, elcorreo, elespanol, google_news_es",5,"Sánchez, con su mujer y hermano procesados, se burla de la prioridad nacional: «Tenemos prioridades familiares»",2026-04-26 12:10
+nadie,3,6,2.37,47,"google_news_es, huffington_es, okdiario",3,"Sánchez critica ""los pactos de 'señoros' de Abascal y Feijóo"": ""La prioridad nacional es no dejar a nadie atrás"" - RTVE.es",2026-04-26 12:10
+reducir,3,6,2.37,47,"20minutos, elmundo_espana, levante_emv",3,Salvador Illa anuncia un plan para reducir las listas de espera de la dependencia en Cataluña,2026-04-26 12:10
+jerez,18,37,2.31,46,"sur, levante_emv, okdiario, 20minutos, elcorreo",5,Directo | La carrera de MotoGP de Jerez,2026-04-26 12:10
+primer,10,21,2.26,45,"20minutos, heraldo_aragon, okdiario, levante_emv, elespanol",5,Histórico Sabastian Sawe: fulmina el récord mundial de maratón y es el primero en bajar de las dos horas,2026-04-26 12:10
+disparos,10,22,2.16,43,"20minutos, okdiario, huffington_es, newtral",4,"Qué se sabe de la pareja hallada con disparos en Asturias: avisaron antes, problemas de salud y mala situación económica",2026-04-26 12:10
+última,11,24,2.18,43,"google_news_es, elcorreo, okdiario, elpais, google_news_internacional",5,Fotos | Última jornada de las Fiestas Goyescas de 2026 en Zaragoza - heraldo.es,2026-04-26 12:10
+aemet,4,9,2.11,42,"efe, okdiario",2,Hugo Morán defiende que la Aemet cada vez tiene más capacidad para anticiparse a fenómenos extremos,2026-04-26 12:10
+horóscopo,7,16,2.08,41,okdiario,1,"Predicción del horóscopo para Aries hoy, domingo 26 de abril de 2026",2026-04-26 12:10
+estado,3,7,2.04,40,"sur, google_news_internacional, google_news_economia, elmundo_internacional, elmundo",5,El PP denuncia que la falta de Presupuestos del Estado compromete la tesorería de los ayuntamientos de Málaga,2026-04-26 12:10
+muere,6,14,2.04,40,"eldiario, elmundo, elconfidencial, 20minutos, levante_emv",5,Muere a los 44 años la activista catalana contra la pobreza energética Maria Campuzano,2026-04-26 12:10
+california,3,7,2.04,40,"levante_emv, elmundo, google_news_internacional",3,"Un profesor de California, autor del tiroteo en la cena de corresponsales de la Casa Blanca",2026-04-26 12:10
+hombres,3,7,2.04,40,"20minutos, google_news_es, levante_emv",3,El cáncer de testículos aumenta en hombres jóvenes de entre 15 y 35 años,2026-04-26 12:10
+científicos,3,7,2.04,40,"bbc_mundo, huffington_es, okdiario",3,"Por qué los científicos creen que están cerca de resolver el misterio del ""Planeta 9"" (y cuál es el rol de Chile en esta búsqueda)",2026-04-26 12:10
+papel,3,7,2.04,40,google_news_internacional,1,Pradales reivindica el papel de Europa en defensa de la paz y el derecho internacional - Infobae,2026-04-26 12:10
+ofensiva,3,7,2.04,40,"elmundo_internacional, google_news_internacional, sur",3,Los ataques continúan por segundo día en Malí tras la ofensiva de Al Qaeda: la ONU pide una respuesta internacional,2026-04-26 12:10
+ataques,9,21,2.04,40,"elcorreo, elmundo_internacional, google_news_internacional, 20minutos, okdiario",5,Sigue en directo la última hora de la guerra en Oriente Medio | Israel ordena evacuar el sur de Líbano ante ataques inminentes en pleno alto al fuego,2026-04-26 12:10
