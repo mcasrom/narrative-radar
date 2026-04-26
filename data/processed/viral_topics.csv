@@ -1,69 +1,83 @@
 keyword,count_now,count_base,ratio,viral_score,sources,n_sources,sample_title,detected_at
-onefootball,4,2,13.11,100,google_news_internacional,1,Botafogo and Internacional share points after see-saw second half - OneFootball,2026-04-26 05:39
-medidas,3,3,6.56,100,"google_news_internacional, elpais, elmundo",3,"La Unión Europea endurece el tono contra Israel, pero sin tomar medidas - EL PAÍS",2026-04-26 05:39
-pablo,4,2,13.11,100,"elconfidencial, heraldo_aragon",2,"Pablo Pombo: ""La pulsión de cambio es irreversible""",2026-04-26 05:39
-servicio,9,2,29.5,100,"infolibre, levante_emv, google_news_es, france24_es, elmundo",5,"Palantir y su hoja de ruta tecnofascista: vigilancia, militarización y poder duro al servicio de Occidente",2026-04-26 05:39
-grandes,3,3,6.56,100,"levante_emv, elpais, heraldo_aragon",3,La amenaza de los decibelios planea sobre la temporada de los grandes conciertos en València,2026-04-26 05:39
-galicia,4,5,5.25,100,"google_news_internacional, google_news_es",2,Convenio para apoyar la proyección internacional del piloto Christian Costoya - La Voz de Galicia,2026-04-26 05:39
-caixaresearch,6,0,5.0,100,"levante_emv, google_news_internacional",2,De Moragas al CaixaResearch Institute: 120 años de ciencia al servicio de las personas,2026-04-26 05:39
-institute,6,0,5.0,100,"levante_emv, google_news_internacional",2,De Moragas al CaixaResearch Institute: 120 años de ciencia al servicio de las personas,2026-04-26 05:39
-económica,3,3,6.56,100,"elpais, elmundo, google_news_internacional",3,"Más bienestar, más Estado y más sindicatos: una nueva vía económica frente a la ola trumpista",2026-04-26 05:39
-acelera,3,3,6.56,100,"google_news_internacional, elpais",2,Israel impone en Líbano el modelo de Gaza y acelera la limpieza étnica en plena tregua - EL PAÍS,2026-04-26 05:39
-tomar,3,3,6.56,100,"google_news_internacional, elpais, france24_es",3,"La Unión Europea endurece el tono contra Israel, pero sin tomar medidas - EL PAÍS",2026-04-26 05:39
-washington,10,3,21.86,100,"google_news_internacional, elpais, okdiario, google_news_es, elmundo",5,En imágenes: pánico en Washington por un nuevo atentado contra Trump - El Debate,2026-04-26 05:39
-plazas,3,1,19.67,100,levante_emv,1,Las nuevas plazas de València... que realmente no son plazas,2026-04-26 05:39
-reagan,3,0,5.0,100,"elpais, okdiario",2,De Kennedy a Reagan y ahora Trump: una historia de la violencia política en Estados Unidos,2026-04-26 05:39
-evacuan,4,0,5.0,100,bbc_mundo,1,Evacuan a Trump de un evento con medios tras disparos,2026-04-26 05:39
-evento,5,3,10.93,100,"bbc_mundo, elpais, google_news_internacional",3,Evacuan a Trump de un evento con medios tras disparos,2026-04-26 05:39
-medios,4,3,8.74,100,bbc_mundo,1,Evacuan a Trump de un evento con medios tras disparos,2026-04-26 05:39
-disparos,11,7,10.3,100,"bbc_mundo, okdiario, google_news_es, google_news_internacional, elespanol",5,Evacuan a Trump de un evento con medios tras disparos,2026-04-26 05:39
-periodistas,9,1,59.01,100,"bbc_mundo, okdiario, google_news_internacional, elmundo, google_news_es",5,Evacuan a Trump de un evento con periodistas y medios de comunicación tras disparos,2026-04-26 05:39
-derecha,3,3,6.56,100,"okdiario, elpais, elespanol",3,Así volcó la inmigración a la izquierda un histórico feudo de la derecha estadounidense como California,2026-04-26 05:39
-apagón,7,6,7.65,100,"elpais, heraldo_aragon, elespanol, elmundo",4,Un año del apagón eléctrico: la factura de la luz se ha encarecido y no hay responsables declarados,2026-04-26 05:39
-empresa,4,5,5.25,100,"elpais, heraldo_aragon, el_confidencial_economia, elespanol",4,Emboscadas publicitarias: así funcionan las tretas de las empresas para saltarse a los patrocinadores oficiales de los grandes eventos,2026-04-26 05:39
-debate,8,9,5.83,100,"google_news_internacional, google_news_es, google_news_economia",3,"El atacante de Trump, un «lobo solitario» que será juzgado el lunes - El Debate",2026-04-26 05:39
-hotel,3,1,19.67,100,"google_news_es, okdiario",2,Así es el primer hotel de Louis Vuitton - El Debate,2026-04-26 05:39
-evacuado,18,1,118.02,100,"20minutos, huffington_es, elpais, okdiario, google_news_es",5,"Donald Trump, evacuado ileso de la cena de corresponsales en la Casa Blanca tras un tiroteo",2026-04-26 05:39
-ileso,4,0,5.0,100,"20minutos, heraldo_aragon, elpais, google_news_internacional",4,"Donald Trump, evacuado ileso de la cena de corresponsales en la Casa Blanca tras un tiroteo",2026-04-26 05:39
-corresponsales,17,2,55.73,100,"20minutos, elcorreo, huffington_es, heraldo_aragon, elpais",5,"Donald Trump, evacuado ileso de la cena de corresponsales en la Casa Blanca tras un tiroteo",2026-04-26 05:39
-blanca,16,6,17.48,100,"20minutos, huffington_es, heraldo_aragon, elpais, google_news_internacional",5,"Donald Trump, evacuado ileso de la cena de corresponsales en la Casa Blanca tras un tiroteo",2026-04-26 05:39
-tiroteo,6,0,5.0,100,"20minutos, huffington_es, elpais, google_news_internacional, france24_es",5,"Donald Trump, evacuado ileso de la cena de corresponsales en la Casa Blanca tras un tiroteo",2026-04-26 05:39
-intento,10,1,65.57,100,"elcorreo, google_news_internacional, elpais, okdiario, elespanol",5,Trump sobrevive a otro intento de atentado en plena cena de corresponsales,2026-04-26 05:39
-atentado,17,10,11.15,100,"elcorreo, google_news_internacional, elpais, okdiario, bbc_mundo",5,Trump sobrevive a otro intento de atentado en plena cena de corresponsales,2026-04-26 05:39
-botafogo,4,2,13.11,100,google_news_internacional,1,Botafogo and Internacional share points after see-saw second half - OneFootball,2026-04-26 05:39
-escucharse,3,0,5.0,100,"elespanol, google_news_es, google_news_internacional",3,"Trump, evacuado por agentes del Servicio Secreto de la cena de corresponsales de la Casa Blanca tras escucharse disparos",2026-04-26 05:39
-evacúan,3,0,5.0,100,"google_news_internacional, google_news_es",2,Evacúan a Trump de una cena en la Casa Blanca tras un incidente de seguridad - Demócrata,2026-04-26 05:39
-tirador,3,0,5.0,100,"google_news_es, elmundo, google_news_internacional",3,"Trump dice, tras ser evacuado de una cena en Washington, que un tirador ha sido detenido - RTVE.es",2026-04-26 05:39
-evacúa,3,3,6.56,100,"google_news_es, elmundo, google_news_internacional",3,El Servicio Secreto evacúa a Trump de cena de corresponsales tras aparentes disparos - RTVE.es,2026-04-26 05:39
-laboral,3,3,6.56,100,"okdiario, heraldo_aragon, el_confidencial_economia",3,Hito superado en el Ejército de España: el Ministerio de Defensa confirma el cambio en la jornada laboral de los militares,2026-04-26 05:39
-comer,3,3,6.56,100,"okdiario, huffington_es, google_news_es, elmundo",4,Dónde comer la mejor sopa castellana en Madrid,2026-04-26 05:39
-antonio,3,3,6.56,100,"huffington_es, okdiario, heraldo_aragon",3,Antonio Maestre: &quot;Las emociones de nuestra socialización masculina encajan muy bien con la ideología fascista&quot;,2026-04-26 05:39
-secreto,7,4,11.47,100,"google_news_es, france24_es, elmundo, google_news_internacional, elespanol",5,El Servicio Secreto evacúa a Trump de cena de corresponsales tras aparentes disparos - RTVE.es,2026-04-26 05:39
-california,3,1,19.67,100,okdiario,1,Así volcó la inmigración a la izquierda un histórico feudo de la derecha estadounidense como California,2026-04-26 05:39
-accidente,3,4,4.92,98,"levante_emv, el_confidencial_economia, google_news_internacional",3,"Torrent, la ciudad que se saldó con 21 fallecidos en el accidente de metro de 2006",2026-04-26 05:39
-kitchen,3,4,4.92,98,"levante_emv, elpais, heraldo_aragon",3,La viñeta de Ortifus: Kitchen Show,2026-04-26 05:39
-plena,5,7,4.68,93,"elcorreo, google_news_internacional, elpais, okdiario",4,Trump sobrevive a otro intento de atentado en plena cena de corresponsales,2026-04-26 05:39
-mayor,5,8,4.1,81,"okdiario, heraldo_aragon, el_confidencial_economia, google_news_internacional, elmundo",5,Dr. Valle Folgueral: «Reoperar una columna sigue siendo el mayor desafío de la neurocirugía»,2026-04-26 05:39
-chubascos,3,5,3.93,78,okdiario,1,Cielos variables y chubascos en Castilla y León: Consultas AEMET sobre el tiempo de hoy,2026-04-26 05:39
-izquierda,3,5,3.93,78,"okdiario, google_news_internacional, elconfidencial",3,Así volcó la inmigración a la izquierda un histórico feudo de la derecha estadounidense como California,2026-04-26 05:39
-cáncer,3,5,3.93,78,"okdiario, google_news_es",2,"Predicción del horóscopo para Cáncer hoy, domingo 26 de abril de 2026",2026-04-26 05:39
-parque,3,5,3.93,78,"google_news_internacional, heraldo_aragon, elmundo",3,La Generalitat ultima el concurso de ideas del futuro parque inundable: saldrá en verano y será internacional - El Español,2026-04-26 05:39
-razón,3,5,3.93,78,"huffington_es, google_news_economia, heraldo_aragon",3,Una docente relata el dilema sobre si está bien dejar que los alumnos entreguen los trabajos fuera de plazo: la razón es vital,2026-04-26 05:39
-trump,47,83,3.71,74,"20minutos, elcorreo, huffington_es, heraldo_aragon, google_news_internacional",5,"Donald Trump, evacuado ileso de la cena de corresponsales en la Casa Blanca tras un tiroteo",2026-04-26 05:39
-detenido,3,6,3.28,65,"okdiario, google_news_es",2,Detenido un hombre de California de unos 30 años tras los disparos que obligaron a evacuar a Trump,2026-04-26 05:39
-centro,3,6,3.28,65,"levante_emv, heraldo_aragon, elespanol",3,"De la inmunología a la sostenibilidad: qué es el CaixaResearch Institute, el nuevo centro de investigación que ya funciona en Barcelona",2026-04-26 05:39
-proyección,3,6,3.28,65,google_news_internacional,1,Granada: FicZone reúne a miles de asistentes en Fermasa. Tres pabellones completos y proyección nacional e internacional - Motril Digital,2026-04-26 05:39
-domingo,7,16,2.87,57,"okdiario, levante_emv",2,"Predicción del horóscopo para Cáncer hoy, domingo 26 de abril de 2026",2026-04-26 05:39
-cambio,3,7,2.81,56,"okdiario, google_news_es, elconfidencial",3,Hito superado en el Ejército de España: el Ministerio de Defensa confirma el cambio en la jornada laboral de los militares,2026-04-26 05:39
-miles,3,7,2.81,56,"google_news_internacional, elpais, okdiario",3,Granada: FicZone reúne a miles de asistentes en Fermasa. Tres pabellones completos y proyección nacional e internacional - Motril Digital,2026-04-26 05:39
-política,3,7,2.81,56,"infolibre, google_news_politica, okdiario, elpais",4,Los pactos PP-Vox dinamitan la política ambiental y ponen la alfombra a la agroindustria y las eléctricas,2026-04-26 05:39
-regularización,5,12,2.73,54,"okdiario, google_news_economia, elespanol",3,Una regularización caótica a la medida de mafias y delincuentes,2026-04-26 05:39
-momento,4,10,2.62,52,"elpais, google_news_internacional, heraldo_aragon, elespanol",4,Video | Así fue el momento de la detención del sospechoso del intendo de atentado a Trump,2026-04-26 05:39
-empresas,3,8,2.46,49,"elpais, heraldo_aragon",2,Emboscadas publicitarias: así funcionan las tretas de las empresas para saltarse a los patrocinadores oficiales de los grandes eventos,2026-04-26 05:39
-ahora,3,8,2.46,49,"okdiario, elpais",2,Los expertos se mofan del ‘teorema de Sánchez’ del que se jactó en su tesis y ahora intenta aplicar con China,2026-04-26 05:39
-aragón,6,16,2.46,49,heraldo_aragon,1,El pacto PP-Vox supone un impacto de al menos 190 millones al año para el Gobierno de Aragón,2026-04-26 05:39
-meses,4,11,2.38,47,"levante_emv, heraldo_aragon, okdiario",3,"El ‘diputado raso’ Carlos Mazón: cinco meses, cero iniciativas",2026-04-26 05:39
-valència,4,11,2.38,47,levante_emv,1,La amenaza de los decibelios planea sobre la temporada de los grandes conciertos en València,2026-04-26 05:39
-presidente,3,9,2.19,43,"elpais, google_news_internacional, elespanol",3,Trump comparece tras el tiroteo de la cena de corresponsales: “La de presidente es una profesión peligrosa”,2026-04-26 05:39
-riesgo,3,9,2.19,43,"google_news_economia, okdiario, google_news_es",3,El desgaste en infraestructuras pone en riesgo el crecimiento económico - La Razón,2026-04-26 05:39
-confirma,4,13,2.02,40,"okdiario, heraldo_aragon",2,Hito en la ingeniería civil: se confirma la autopista que conectará Marruecos y Portugal con un túnel submarino valorado en 800 millones de euros,2026-04-26 05:39
+debate,8,9,5.18,100,"google_news_internacional, google_news_es, google_news_economia",3,"El atacante de Trump, un «lobo solitario» que será juzgado el lunes - El Debate",2026-04-26 06:10
+laboral,3,3,5.83,100,"okdiario, heraldo_aragon, el_confidencial_economia",3,Hito superado en el Ejército de España: el Ministerio de Defensa confirma el cambio en la jornada laboral de los militares,2026-04-26 06:10
+modelo,3,3,5.83,100,"lavanguardia, google_news_internacional, elpais",3,Así son los castings más exclusivos: modelos maduras y ‘new faces’ que triunfan en la pasarela,2026-04-26 06:10
+unión,3,3,5.83,100,"lavanguardia, google_news_internacional, elpais",3,Chernóbil: la explosión que terminó con la Unión Soviética,2026-04-26 06:10
+evacuado,20,1,116.59,100,"levante_emv, 20minutos, huffington_es, elpais, okdiario",5,Trump es evacuado ileso de la cena de corresponsales de la Casa Blanca tras un intento de atentado,2026-04-26 06:10
+palantir,4,0,5.0,100,"infolibre, lavanguardia, google_news_internacional",3,"Palantir y su hoja de ruta tecnofascista: vigilancia, militarización y poder duro al servicio de Occidente",2026-04-26 06:10
+servicio,9,2,26.23,100,"infolibre, levante_emv, google_news_es, france24_es, elmundo",5,"Palantir y su hoja de ruta tecnofascista: vigilancia, militarización y poder duro al servicio de Occidente",2026-04-26 06:10
+grandes,3,3,5.83,100,"levante_emv, elpais, heraldo_aragon",3,La amenaza de los decibelios planea sobre la temporada de los grandes conciertos en València,2026-04-26 06:10
+caixaresearch,6,0,5.0,100,"levante_emv, google_news_internacional",2,De Moragas al CaixaResearch Institute: 120 años de ciencia al servicio de las personas,2026-04-26 06:10
+institute,6,0,5.0,100,"levante_emv, google_news_internacional",2,De Moragas al CaixaResearch Institute: 120 años de ciencia al servicio de las personas,2026-04-26 06:10
+derecha,4,3,7.77,100,"lavanguardia, okdiario, elpais, elespanol",4,Gabriel Rufián: “Hay una regresión de la derecha independentista que arrastra a ERC”,2026-04-26 06:10
+apagón,8,7,6.66,100,"lavanguardia, elpais, heraldo_aragon, elespanol",4,La gran certeza un año después del apagón: la factura ha subido un 13%,2026-04-26 06:10
+factura,3,1,17.49,100,"lavanguardia, elpais, elespanol",3,La gran certeza un año después del apagón: la factura ha subido un 13%,2026-04-26 06:10
+muchas,3,2,8.74,100,"lavanguardia, okdiario, heraldo_aragon",3,“Detrás de muchas personas con dolor crónico hay un problema de salud mental”,2026-04-26 06:10
+evacuan,4,0,5.0,100,bbc_mundo,1,Evacuan a Trump de un evento con medios tras disparos,2026-04-26 06:10
+evento,5,3,9.72,100,"bbc_mundo, elpais, google_news_internacional",3,Evacuan a Trump de un evento con medios tras disparos,2026-04-26 06:10
+medios,4,3,7.77,100,bbc_mundo,1,Evacuan a Trump de un evento con medios tras disparos,2026-04-26 06:10
+periodistas,9,1,52.46,100,"bbc_mundo, okdiario, google_news_internacional, elmundo, google_news_es",5,Evacuan a Trump de un evento con periodistas y medios de comunicación tras disparos,2026-04-26 06:10
+reagan,3,0,5.0,100,"elpais, okdiario",2,De Kennedy a Reagan y ahora Trump: una historia de la violencia política en Estados Unidos,2026-04-26 06:10
+plazas,3,1,17.49,100,levante_emv,1,Las nuevas plazas de València... que realmente no son plazas,2026-04-26 06:10
+tomar,3,3,5.83,100,"google_news_internacional, elpais, france24_es",3,"La Unión Europea endurece el tono contra Israel, pero sin tomar medidas - EL PAÍS",2026-04-26 06:10
+acelera,3,3,5.83,100,"google_news_internacional, elpais",2,Israel impone en Líbano el modelo de Gaza y acelera la limpieza étnica en plena tregua - EL PAÍS,2026-04-26 06:10
+pablo,4,2,11.66,100,"elconfidencial, heraldo_aragon",2,"Pablo Pombo: ""La pulsión de cambio es irreversible""",2026-04-26 06:10
+hotel,3,1,17.49,100,"google_news_es, okdiario",2,Así es el primer hotel de Louis Vuitton - El Debate,2026-04-26 06:10
+secreto,7,4,10.2,100,"google_news_es, france24_es, elmundo, google_news_internacional, elespanol",5,El Servicio Secreto evacúa a Trump de cena de corresponsales tras aparentes disparos - RTVE.es,2026-04-26 06:10
+evacúa,3,3,5.83,100,"google_news_es, lavanguardia, elmundo, google_news_internacional",4,El Servicio Secreto evacúa a Trump de cena de corresponsales tras aparentes disparos - RTVE.es,2026-04-26 06:10
+evacúan,4,0,5.0,100,"lavanguardia, google_news_internacional, google_news_es",3,Evacúan a Trump de la Cena de Corresponsales de la Casa Blanca tras un tiroteo,2026-04-26 06:10
+antonio,3,3,5.83,100,"huffington_es, okdiario, heraldo_aragon",3,Antonio Maestre: &quot;Las emociones de nuestra socialización masculina encajan muy bien con la ideología fascista&quot;,2026-04-26 06:10
+escucharse,3,0,5.0,100,"elespanol, google_news_es, google_news_internacional",3,"Trump, evacuado por agentes del Servicio Secreto de la cena de corresponsales de la Casa Blanca tras escucharse disparos",2026-04-26 06:10
+tiroteo,9,1,52.46,100,"20minutos, huffington_es, elpais, eldiario, google_news_internacional",5,Así ha sido la evacuación de Donald Trump y Melania de una cena tras un tiroteo en la Casa Blanca,2026-04-26 06:10
+atentado,18,12,8.74,100,"levante_emv, huffington_es, elcorreo, lavanguardia, google_news_internacional",5,Trump es evacuado ileso de la cena de corresponsales de la Casa Blanca tras un intento de atentado,2026-04-26 06:10
+donald,5,4,7.29,100,"20minutos, heraldo_aragon, lavanguardia",3,"Donald Trump, tras el ataque en la Casa Blanca: ""Esta es una profesión peligrosa""",2026-04-26 06:10
+sospechoso,3,0,5.0,100,"elcorreo, elpais, google_news_internacional",3,¿Quién es el sospechoso del ataque en la cena de Trump? Un maestro de California convertido en «lobo solitario»,2026-04-26 06:10
+california,5,1,29.15,100,"elcorreo, lavanguardia, okdiario",3,¿Quién es el sospechoso del ataque en la cena de Trump? Un maestro de California convertido en «lobo solitario»,2026-04-26 06:10
+disparos,12,7,9.99,100,"elcorreo, bbc_mundo, okdiario, google_news_es, google_news_internacional",5,"Trump, ante los disparos: «Pensé que era una bandeja cayendo»",2026-04-26 06:10
+conductores,3,2,8.74,100,"huffington_es, elpais, okdiario",3,Instala pinchos metálicos en la salida de su parking porque los conductores ignoran una señal: ya ha reventado más de 10 ruedas y el ayuntamiento dice que es terreno privado,2026-04-26 06:10
+tirador,4,0,5.0,100,"lavanguardia, google_news_es, elmundo, google_news_internacional",4,Trump: “El tirador estaba muy lejos. Era un loco”,2026-04-26 06:10
+miedo,3,3,5.83,100,"okdiario, lavanguardia, elpais",3,Lo que acaban de ver en China da miedo y el mundo tiembla: avistan un lanzador de misiles hipersónicos DF-27 preparándose para lo peor,2026-04-26 06:10
+atacante,3,0,5.0,100,"lavanguardia, google_news_internacional, eldiario",3,"El atacante, un “lobo solitario” de 31 años de California",2026-04-26 06:10
+intento,12,1,69.95,100,"levante_emv, elcorreo, lavanguardia, google_news_internacional, elpais",5,Trump es evacuado ileso de la cena de corresponsales de la Casa Blanca tras un intento de atentado,2026-04-26 06:10
+blanca,22,6,21.37,100,"levante_emv, 20minutos, huffington_es, heraldo_aragon, elpais",5,Trump es evacuado ileso de la cena de corresponsales de la Casa Blanca tras un intento de atentado,2026-04-26 06:10
+corresponsales,21,2,61.21,100,"levante_emv, 20minutos, elcorreo, huffington_es, heraldo_aragon",5,Trump es evacuado ileso de la cena de corresponsales de la Casa Blanca tras un intento de atentado,2026-04-26 06:10
+ileso,5,0,5.0,100,"levante_emv, 20minutos, heraldo_aragon, elpais, google_news_internacional",5,Trump es evacuado ileso de la cena de corresponsales de la Casa Blanca tras un intento de atentado,2026-04-26 06:10
+washington,11,3,21.37,100,"elcorreo, google_news_internacional, elpais, okdiario, google_news_es",5,De Butler a Washington: un presidente marcado por los intentos de asesinato,2026-04-26 06:10
+detenido,5,6,4.86,97,"okdiario, eldiario, google_news_internacional, google_news_es",4,Detenido un hombre de California de unos 30 años tras los disparos que obligaron a evacuar a Trump,2026-04-26 06:10
+plena,5,6,4.86,97,"elcorreo, google_news_internacional, elpais, okdiario",4,Trump sobrevive a otro intento de atentado en plena cena de corresponsales,2026-04-26 06:10
+empresa,4,5,4.66,93,"elpais, heraldo_aragon, el_confidencial_economia, elespanol",4,Emboscadas publicitarias: así funcionan las tretas de las empresas para saltarse a los patrocinadores oficiales de los grandes eventos,2026-04-26 06:10
+galicia,4,5,4.66,93,"google_news_internacional, google_news_es",2,Convenio para apoyar la proyección internacional del piloto Christian Costoya - La Voz de Galicia,2026-04-26 06:10
+chubascos,4,5,4.66,93,okdiario,1,"AEMET: Jornada variable en Bilbao con brumas, nubes y posibles chubascos por la tarde",2026-04-26 06:10
+advierte,3,4,4.37,87,"google_news_internacional, huffington_es, el_confidencial_economia",3,Un informe internacional advierte sobre el riesgo de agravamiento de crisis alimentarias - Tercera Información,2026-04-26 06:10
+comer,3,4,4.37,87,"huffington_es, okdiario, google_news_es",3,"Reservan en un bar para comer, al final solo beben y dejan dos céntimos de propina: &quot;Vale que no sean obligatorias, pero esto no tiene nombre&quot;",2026-04-26 06:10
+kitchen,3,4,4.37,87,"levante_emv, elpais, heraldo_aragon",3,La viñeta de Ortifus: Kitchen Show,2026-04-26 06:10
+accidente,3,4,4.37,87,"levante_emv, el_confidencial_economia, google_news_internacional",3,"Torrent, la ciudad que se saldó con 21 fallecidos en el accidente de metro de 2006",2026-04-26 06:10
+trump,57,84,3.96,79,"levante_emv, 20minutos, elcorreo, lavanguardia, huffington_es",5,Trump es evacuado ileso de la cena de corresponsales de la Casa Blanca tras un intento de atentado,2026-04-26 06:10
+españoles,4,6,3.89,77,"google_news_politica, okdiario, google_news_es, google_news_economia, elespanol",5,"Vox, PP, los españoles primero y la ventana de Overton - Elplural.com",2026-04-26 06:10
+mayor,5,8,3.64,72,"okdiario, heraldo_aragon, el_confidencial_economia, google_news_internacional, elmundo",5,Dr. Valle Folgueral: «Reoperar una columna sigue siendo el mayor desafío de la neurocirugía»,2026-04-26 06:10
+cáncer,3,5,3.5,69,"okdiario, google_news_es",2,"Predicción del horóscopo para Cáncer hoy, domingo 26 de abril de 2026",2026-04-26 06:10
+razón,3,5,3.5,69,"huffington_es, google_news_economia, heraldo_aragon",3,Una docente relata el dilema sobre si está bien dejar que los alumnos entreguen los trabajos fuera de plazo: la razón es vital,2026-04-26 06:10
+cuesta,3,5,3.5,69,"okdiario, lavanguardia, google_news_es",3,Cuánto cuesta alquilar una casa en El Rocío 2026: precios disparados y pocos chollos,2026-04-26 06:10
+puedes,3,5,3.5,69,"lavanguardia, elpais, elconfidencial",3,Las mejores series que llegarán en mayo y que puedes perderte,2026-04-26 06:10
+domingo,9,15,3.5,69,"okdiario, levante_emv",2,"Predicción del horóscopo para Virgo hoy, domingo 26 de abril de 2026",2026-04-26 06:10
+izquierda,3,5,3.5,69,"okdiario, google_news_internacional, elconfidencial",3,Así volcó la inmigración a la izquierda un histórico feudo de la derecha estadounidense como California,2026-04-26 06:10
+miles,4,7,3.33,66,"google_news_internacional, elpais, lavanguardia, okdiario",4,Granada: FicZone reúne a miles de asistentes en Fermasa. Tres pabellones completos y proyección nacional e internacional - Motril Digital,2026-04-26 06:10
+política,4,7,3.33,66,"infolibre, google_news_politica, lavanguardia, okdiario, elpais",5,Los pactos PP-Vox dinamitan la política ambiental y ponen la alfombra a la agroindustria y las eléctricas,2026-04-26 06:10
+centro,3,6,2.91,58,"levante_emv, heraldo_aragon, elespanol",3,"De la inmunología a la sostenibilidad: qué es el CaixaResearch Institute, el nuevo centro de investigación que ya funciona en Barcelona",2026-04-26 06:10
+ciencia,5,10,2.91,58,"okdiario, levante_emv, lavanguardia",3,Suena a ciencia ficción pero Japón se pasa el juego: construye un panel solar con un 130% de eficiencia cuántica,2026-04-26 06:10
+proyección,3,6,2.91,58,google_news_internacional,1,Granada: FicZone reúne a miles de asistentes en Fermasa. Tres pabellones completos y proyección nacional e internacional - Motril Digital,2026-04-26 06:10
+mejores,3,6,2.91,58,"okdiario, lavanguardia, heraldo_aragon",3,Mapa y listado de las Cruces de Mayo de Córdoba 2026: recorrido y mejores rutas,2026-04-26 06:10
+aemet,5,11,2.65,52,okdiario,1,"Zaragoza: cielo poco nuboso y viento moderado según AEMET, con temperaturas en ascenso",2026-04-26 06:10
+presidente,4,9,2.59,51,"elcorreo, elpais, google_news_internacional, elespanol",4,De Butler a Washington: un presidente marcado por los intentos de asesinato,2026-04-26 06:10
+riesgo,4,9,2.59,51,"google_news_internacional, google_news_economia, okdiario, google_news_es",4,Un informe internacional advierte sobre el riesgo de agravamiento de crisis alimentarias - Tercera Información,2026-04-26 06:10
+predicción,6,14,2.5,49,okdiario,1,"Predicción del horóscopo para Virgo hoy, domingo 26 de abril de 2026",2026-04-26 06:10
+cambio,3,7,2.5,49,"okdiario, google_news_es, elconfidencial",3,Hito superado en el Ejército de España: el Ministerio de Defensa confirma el cambio en la jornada laboral de los militares,2026-04-26 06:10
+regularización,5,12,2.43,48,"okdiario, google_news_economia, elespanol",3,Una regularización caótica a la medida de mafias y delincuentes,2026-04-26 06:10
+momento,4,10,2.33,46,"elpais, google_news_internacional, heraldo_aragon, elespanol",4,Video | Así fue el momento de la detención del sospechoso del intendo de atentado a Trump,2026-04-26 06:10
+empresas,3,8,2.19,43,"elpais, heraldo_aragon",2,Emboscadas publicitarias: así funcionan las tretas de las empresas para saltarse a los patrocinadores oficiales de los grandes eventos,2026-04-26 06:10
+horóscopo,6,16,2.19,43,okdiario,1,"Predicción del horóscopo para Virgo hoy, domingo 26 de abril de 2026",2026-04-26 06:10
+aragón,6,16,2.19,43,heraldo_aragon,1,El pacto PP-Vox supone un impacto de al menos 190 millones al año para el Gobierno de Aragón,2026-04-26 06:10
+ahora,3,8,2.19,43,"okdiario, elpais",2,Los expertos se mofan del ‘teorema de Sánchez’ del que se jactó en su tesis y ahora intenta aplicar con China,2026-04-26 06:10
+meses,4,11,2.12,42,"levante_emv, heraldo_aragon, okdiario",3,"El ‘diputado raso’ Carlos Mazón: cinco meses, cero iniciativas",2026-04-26 06:10
+salud,4,11,2.12,42,"infolibre, lavanguardia, elpais, google_news_es",4,La ‘machosfera’ se cuela en el supermercado: la moda de la proteína esconde mucho más que una salud duradera,2026-04-26 06:10
+valència,4,11,2.12,42,levante_emv,1,La amenaza de los decibelios planea sobre la temporada de los grandes conciertos en València,2026-04-26 06:10
