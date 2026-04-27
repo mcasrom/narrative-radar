@@ -1,71 +1,97 @@
 keyword,count_now,count_base,ratio,viral_score,sources,n_sources,sample_title,detected_at
-amenaza,3,4,6.07,100,"elespanol, google_news_es",2,"Un pelotón de fusilamiento amenaza al ""asesino amigable"": quiso matar a Trump y su equipo delante de la prensa",2026-04-27 05:10
-rajoy,4,5,6.48,100,okdiario,1,"Feijóo no es Rajoy, Rajoy es Kitchen",2026-04-27 05:10
-inteligencia,3,4,6.07,100,"okdiario, heraldo_aragon, 20minutos",3,BatMonitor: la inteligencia artificial que reduce la mortandad de murciélagos en los aerogeneradores,2026-04-27 05:10
-willy,3,0,5.0,100,"google_news_es, heraldo_aragon, 20minutos",3,"Willy Bárcenas, Sáenz de Santamaría y Arenas arrancan la tercera semana del juicio del caso Kitchen - RTVE.es",2026-04-27 05:10
-bárcenas,4,2,16.19,100,"google_news_es, okdiario, heraldo_aragon, 20minutos",4,"Willy Bárcenas, Sáenz de Santamaría y Arenas arrancan la tercera semana del juicio del caso Kitchen - RTVE.es",2026-04-27 05:10
-sáenz,3,1,24.29,100,"google_news_es, elpais_espana, heraldo_aragon",3,"Willy Bárcenas, Sáenz de Santamaría y Arenas arrancan la tercera semana del juicio del caso Kitchen - RTVE.es",2026-04-27 05:10
-santamaría,3,2,12.15,100,"google_news_es, elpais_espana, heraldo_aragon",3,"Willy Bárcenas, Sáenz de Santamaría y Arenas arrancan la tercera semana del juicio del caso Kitchen - RTVE.es",2026-04-27 05:10
-tercera,3,4,6.07,100,"google_news_es, 20minutos, elmundo",3,"Willy Bárcenas, Sáenz de Santamaría y Arenas arrancan la tercera semana del juicio del caso Kitchen - RTVE.es",2026-04-27 05:10
-juicio,5,7,5.78,100,"google_news_es, elpais_espana, heraldo_aragon, 20minutos, france24_es",5,"Willy Bárcenas, Sáenz de Santamaría y Arenas arrancan la tercera semana del juicio del caso Kitchen - RTVE.es",2026-04-27 05:10
-kitchen,4,5,6.48,100,"okdiario, google_news_es, elpais_espana, heraldo_aragon",4,El audio de Paco Martínez que lo cambia todo: «La ‘Kitchen’ es un gran escándalo»,2026-04-27 05:10
-mantiene,4,6,5.4,100,"google_news_internacional, heraldo_aragon, france24_es",3,Irán propone reabrir Ormuz y aplazar el pulso nuclear mientras Donald Trump mantiene la presión - El Debate,2026-04-27 05:10
-inmigrantes,4,6,5.4,100,"okdiario, google_news_es, elpais_espana",3,Sánchez se quejó al llegar al poder de que el PP expulsó pocos inmigrantes ilegales: «Sólo 8.600 en dos años»,2026-04-27 05:10
-plazo,3,1,24.29,100,"infolibre, 20minutos",2,Jóvenes Gen Z: del ‘day trading’ a la inversión a largo plazo para sobrevivir a la precariedad,2026-04-27 05:10
-interior,3,3,8.1,100,"okdiario, elespanol",2,El audio de la confesión del ex ‘número dos’ de Interior Paco Martínez: «En la ‘Operación Kitchen’ hubo mucha iniciativa de Rajoy»,2026-04-27 05:10
-calidad,3,2,12.15,100,"okdiario, heraldo_aragon, elespanol",3,Telefónica duda incluir el Canal Red de Iglesias en Movistar Plus por su limitada calidad técnica,2026-04-27 05:10
-crisis,5,5,8.1,100,"okdiario, google_news_economia, 20minutos, elmundo",4,La crisis de crédito daña al inmobiliario: los fondos frenan la inversión por temor a no vender las viviendas,2026-04-27 05:10
-brutal,3,4,6.07,100,"heraldo_aragon, google_news_es, huffington_es",3,El derbi SD Huesca - Real Zaragoza acaba en bochorno tras el brutal puñetazo de Andrada,2026-04-27 05:10
-español,10,14,5.78,100,"okdiario, google_news_es, elpais_espana, google_news_internacional, 20minutos",5,El ser español,2026-04-27 05:10
-economía,3,3,8.1,100,"google_news_economia, elespanol, elmundo",3,"Santiago Carbó, catedrático de Economía: “La vivienda y el alquiler seguirán subiendo salvo que España sufra una crisis económica provocada por la guerra” - Infobae",2026-04-27 05:10
-visita,5,5,8.1,100,"google_news_internacional, heraldo_aragon, france24_es",3,Delcy Rodríguez llegó a Barbados en su segunda visita internacional como presidenta encargada de Venezuela - Infobae,2026-04-27 05:10
-buena,3,2,12.15,100,"google_news_es, elpais_espana, el_confidencial_tech",3,"Objetivo, matar al “chivato” que señaló el narcotúnel de Ceuta: “Si hay buena pasta, le hago un arreglo” - EL PAÍS",2026-04-27 05:10
-ábalos,3,3,8.1,100,"elpais_espana, 20minutos, elmundo",3,El hijo de Ábalos: “Mi padre está preparado para cualquier escenario”,2026-04-27 05:10
-económico,3,4,6.07,100,"google_news_economia, 20minutos",2,Madrid se consolida como el motor económico de España: Fitch mejora el rating de la región y lo iguala al nacional - El Economista,2026-04-27 05:10
-tenedores,3,0,5.0,100,"eldiario, google_news_economia, 20minutos",3,La nueva España inmobiliaria tras la burbuja de 2008: los grandes tenedores cuadruplican su cartera mientras menguan los propietarios de una vivienda,2026-04-27 05:10
-inversión,3,1,24.29,100,"infolibre, okdiario, heraldo_aragon",3,Jóvenes Gen Z: del ‘day trading’ a la inversión a largo plazo para sobrevivir a la precariedad,2026-04-27 05:10
-aliados,3,2,12.15,100,"france24_es, elespanol, google_news_internacional",3,Siria inicia el primer juicio contra Bashar al-Assad y sus aliados tras su derrocamiento,2026-04-27 05:10
-martínez,3,0,5.0,100,okdiario,1,El audio de Paco Martínez que lo cambia todo: «La ‘Kitchen’ es un gran escándalo»,2026-04-27 05:10
-región,4,1,32.39,100,"google_news_internacional, google_news_economia, 20minutos",3,La incertidumbre internacional frena las ventas de las agencias de viajes en Ourense - La Región,2026-04-27 05:10
-infobae,5,5,8.1,100,"google_news_internacional, google_news_economia, google_news_es",3,"INBAL celebrará el Día Internacional del Jazz con un maratón de conciertos: lugar, fecha, hora y actividades - Infobae",2026-04-27 05:10
-expansión,3,2,12.15,100,"20minutos, google_news_internacional",2,Un nuevo mapa 3D del cosmos revelará cómo la energía oscura impulsa la expansión del universo,2026-04-27 05:10
-extranjeros,3,1,24.29,100,"google_news_economia, levante_emv",2,Solo un 5% de los trabajadores extranjeros llegan a España con un contrato laboral firmado - El Economista,2026-04-27 05:10
-economista,3,4,6.07,100,"google_news_economia, el_confidencial_economia",2,Solo un 5% de los trabajadores extranjeros llegan a España con un contrato laboral firmado - El Economista,2026-04-27 05:10
-magnitud,3,0,5.0,100,"20minutos, google_news_internacional, google_news_es",3,"Un terremoto de magnitud 6,2 sacude el norte de Japón",2026-04-27 05:10
-xàtiva,4,0,5.0,100,levante_emv,1,"¿Quién es Ariel, el joyero youtuber de Miami que ha desatado la locura en Xàtiva?",2026-04-27 05:10
-artificial,3,4,6.07,100,"okdiario, heraldo_aragon, 20minutos",3,BatMonitor: la inteligencia artificial que reduce la mortandad de murciélagos en los aerogeneradores,2026-04-27 05:10
-sanidad,3,2,12.15,100,"levante_emv, 20minutos, elmundo",3,Sanidad mejorará la capacidad eléctrica de los hospitales hasta 2029 por si se repite un futuro 'apagón',2026-04-27 05:10
-japón,3,4,6.07,100,"heraldo_aragon, 20minutos, google_news_es",3,"El restaurante Kinza de Zaragoza, el hobby de unos enamorados de Japón",2026-04-27 05:10
-propio,4,4,8.1,100,"levante_emv, okdiario, 20minutos",3,"Un piso propio, vaya frivolidad",2026-04-27 05:10
-energía,3,5,4.86,97,"20minutos, el_confidencial_tech",2,Un nuevo mapa 3D del cosmos revelará cómo la energía oscura impulsa la expansión del universo,2026-04-27 05:10
-pagan,3,5,4.86,97,"el_confidencial_economia, okdiario",2,"Gonzalo Bernardos, economista: ""Los jóvenes pagan más por cotizaciones, pagan más impuestos y muy probablemente recibirán mucho menos de pensión""",2026-04-27 05:10
-teruel,3,5,4.86,97,heraldo_aragon,1,El acuerdo PP-Vox recoge la inversión de más de 225 millones en equipamientos sanitarios en Zaragoza y Teruel,2026-04-27 05:10
-polémica,3,5,4.86,97,"heraldo_aragon, 20minutos, france24_es",3,Polémica en un pueblo de Teruel por la visita del alcalde al Papa a pedir ayuda para reparar la iglesia,2026-04-27 05:10
-grandes,4,7,4.63,92,"eldiario, google_news_economia, 20minutos, elcorreo",4,La nueva España inmobiliaria tras la burbuja de 2008: los grandes tenedores cuadruplican su cartera mientras menguan los propietarios de una vivienda,2026-04-27 05:10
-palma,4,7,4.63,92,"huffington_es, okdiario",2,Los caleseros de Palma se rinden a las galeras eléctricas de 90.000 euros que podrían sustituir a los caballos: &quot;Los tiempos han cambiado&quot;,2026-04-27 05:10
-huelga,5,9,4.5,89,"levante_emv, okdiario, 20minutos, elespanol, elmundo",5,Conselleria de Educación pone en duda la representatividad de la huelga docente prevista a partir del 11 de mayo,2026-04-27 05:10
-periódico,3,6,4.05,80,google_news_internacional,1,"Damm cumple 150 años: historia familiar, arraigo en Barcelona y expansión internacional - El Periódico",2026-04-27 05:10
-nivel,3,6,4.05,80,"google_news_internacional, huffington_es, elmundo",3,¿Hay una operación de lavado de dinero a nivel internacional? - Libertad Digital,2026-04-27 05:10
-ayuda,3,6,4.05,80,heraldo_aragon,1,Aragón exige por ley desde 2021 un año de residencia para acceder a cuatro de sus ayudas,2026-04-27 05:10
-digital,3,6,4.05,80,"bbc_mundo, google_news_internacional, sur",3,"Cómo la ""cortina de hierro digital"" está creando descontento contra el gobierno de Putin en Rusia",2026-04-27 05:10
-objetivo,3,6,4.05,80,"google_news_es, elpais_espana, heraldo_aragon",3,"Objetivo, matar al “chivato” que señaló el narcotúnel de Ceuta: “Si hay buena pasta, le hago un arreglo” - EL PAÍS",2026-04-27 05:10
-norte,4,8,4.05,80,"20minutos, google_news_economia, elespanol, google_news_es",4,"Un terremoto de magnitud 6,2 sacude el norte de Japón",2026-04-27 05:10
-tercer,4,9,3.6,71,"google_news_es, 20minutos, elmundo",3,"Willy Bárcenas, Sáenz de Santamaría y Arenas arrancan la tercera semana del juicio del caso Kitchen - RTVE.es",2026-04-27 05:10
-carlos,4,9,3.6,71,"heraldo_aragon, france24_es",2,Carlos III y David Beckham se alían en su pasión por la jardinería,2026-04-27 05:10
-china,4,9,3.6,71,"okdiario, google_news_internacional, levante_emv",3,La china Rox busca inversores para desembarcar en España en 2027 y se desliga del coche eléctrico,2026-04-27 05:10
-hacia,4,9,3.6,71,"google_news_internacional, heraldo_aragon",2,Bulgaria vuelve la vista hacia Moscú - EL PAÍS,2026-04-27 05:10
-busca,4,9,3.6,71,"infolibre, okdiario, 20minutos, elespanol",4,La Hungría post-Orbán busca la “normalización” en la escena europea,2026-04-27 05:10
-mientras,5,12,3.37,67,"levante_emv, eldiario, google_news_internacional, 20minutos",4,El ayuntamiento duda si demoler las Casitas Rosas mientras crece el hastío vecinal,2026-04-27 05:10
-matar,4,10,3.24,64,"google_news_es, elpais_espana, heraldo_aragon, elespanol",4,"Objetivo, matar al “chivato” que señaló el narcotúnel de Ceuta: “Si hay buena pasta, le hago un arreglo” - EL PAÍS",2026-04-27 05:10
-lunes,7,19,2.98,59,"okdiario, google_news_es, levante_emv",3,"Predicción del horóscopo para Géminis hoy, lunes 27 de abril de 2026",2026-04-27 05:10
-semana,6,19,2.56,51,"okdiario, google_news_es, heraldo_aragon, google_news_internacional, elmundo",5,La Comunidad Valenciana inicia la semana con una subida de temperaturas: confirmado por la AEMET,2026-04-27 05:10
-ahora,3,10,2.43,48,"elpais_espana, huffington_es, google_news_internacional",3,El Congreso desclasifica ahora 20 documentos del 23-F ya conocidos,2026-04-27 05:10
-ormuz,3,10,2.43,48,"google_news_internacional, huffington_es, 20minutos",3,Irán propone reabrir Ormuz y aplazar el pulso nuclear mientras Donald Trump mantiene la presión - El Debate,2026-04-27 05:10
-aragón,4,14,2.31,46,heraldo_aragon,1,Aragón exige por ley desde 2021 un año de residencia para acceder a cuatro de sus ayudas,2026-04-27 05:10
-tiempo,4,14,2.31,46,"huffington_es, levante_emv, 20minutos, elespanol",4,Los caleseros de Palma se rinden a las galeras eléctricas de 90.000 euros que podrían sustituir a los caballos: &quot;Los tiempos han cambiado&quot;,2026-04-27 05:10
-nuclear,3,11,2.21,44,"google_news_internacional, huffington_es, 20minutos",3,Irán propone reabrir Ormuz y aplazar el pulso nuclear mientras Donald Trump mantiene la presión - El Debate,2026-04-27 05:10
-debate,6,22,2.21,44,"infolibre, google_news_internacional",2,"¿Debe el algoritmo favorecer a los medios públicos? Google dice que no, la UE debate si deben tener más visibilidad",2026-04-27 05:10
-ayuntamiento,3,11,2.21,44,"levante_emv, okdiario, google_news_internacional",3,El ayuntamiento duda si demoler las Casitas Rosas mientras crece el hastío vecinal,2026-04-27 05:10
-españoles,4,15,2.16,43,"okdiario, google_news_es, elpais_espana, 20minutos",4,35.000 microdecisiones al día: el 84% de los españoles sufre fatiga decisional,2026-04-27 05:10
-horóscopo,4,16,2.02,40,"okdiario, elcorreo",2,"Predicción del horóscopo para Géminis hoy, lunes 27 de abril de 2026",2026-04-27 05:10
-andalucía,5,20,2.02,40,"infolibre, okdiario, huffington_es, elconfidencial, sur",5,"La dependencia, una ley en pausa en Andalucía: ""Hay 500.000 personas en listas de espera""",2026-04-27 05:10
+tecnología,3,3,6.88,100,"levante_emv, heraldo_aragon",2,"Raúl Cortés, director comercial de Adecco Outsourcing: “Ordenar y planificar procesos, alineando personas, tecnología y objetivos, es la forma más efectiva de ganar productividad”",2026-04-27 05:40
+oferta,5,2,17.21,100,"20minutos, google_news_internacional, huffington_es",3,Irán plantea una nueva oferta a EEUU para reabrir Ormuz y aplazar el diálogo,2026-04-27 05:40
+bárcenas,3,4,5.16,100,"google_news_es, okdiario, heraldo_aragon",3,"Willy Bárcenas, Sáenz de Santamaría y Arenas arrancan la tercera semana del juicio del caso Kitchen - RTVE.es",2026-04-27 05:40
+económico,4,4,6.88,100,"google_news_economia, 20minutos",2,Madrid se consolida como el motor económico de España: Fitch mejora el rating de la región y lo iguala al nacional - El Economista,2026-04-27 05:40
+plazo,4,1,27.54,100,"infolibre, 20minutos",2,Jóvenes Gen Z: del ‘day trading’ a la inversión a largo plazo para sobrevivir a la precariedad,2026-04-27 05:40
+inversión,3,1,20.65,100,"infolibre, okdiario, heraldo_aragon",3,Jóvenes Gen Z: del ‘day trading’ a la inversión a largo plazo para sobrevivir a la precariedad,2026-04-27 05:40
+propio,4,4,6.88,100,"levante_emv, okdiario, 20minutos",3,"Un piso propio, vaya frivolidad",2026-04-27 05:40
+xàtiva,4,0,5.0,100,levante_emv,1,"¿Quién es Ariel, el joyero youtuber de Miami que ha desatado la locura en Xàtiva?",2026-04-27 05:40
+economista,3,4,5.16,100,"google_news_economia, el_confidencial_economia",2,Solo un 5% de los trabajadores extranjeros llegan a España con un contrato laboral firmado - El Economista,2026-04-27 05:40
+bancos,3,1,20.65,100,"levante_emv, google_news_economia, google_news_es",3,El Banco de España reúne a los bancos centrales de América Latina en su primer foro en Roda de Barà,2026-04-27 05:40
+expansión,3,2,10.33,100,"20minutos, google_news_internacional",2,Un nuevo mapa 3D del cosmos revelará cómo la energía oscura impulsa la expansión del universo,2026-04-27 05:40
+energía,4,5,5.51,100,"20minutos, el_confidencial_tech",2,Un nuevo mapa 3D del cosmos revelará cómo la energía oscura impulsa la expansión del universo,2026-04-27 05:40
+infobae,5,5,6.88,100,"google_news_internacional, google_news_economia, google_news_es",3,"INBAL celebrará el Día Internacional del Jazz con un maratón de conciertos: lugar, fecha, hora y actividades - Infobae",2026-04-27 05:40
+región,4,1,27.54,100,"google_news_internacional, google_news_economia, 20minutos",3,La incertidumbre internacional frena las ventas de las agencias de viajes en Ourense - La Región,2026-04-27 05:40
+martínez,3,0,5.0,100,okdiario,1,El audio de Paco Martínez que lo cambia todo: «La ‘Kitchen’ es un gran escándalo»,2026-04-27 05:40
+negocios,3,3,6.88,100,"huffington_es, levante_emv, okdiario",3,"Se va a trabajar a China, su jefe recibe un pedido defectuoso y lo que hace le deja a cuadros: &quot;Los negocios aquí son relaciones&quot;",2026-04-27 05:40
+aplazar,3,0,5.0,100,"20minutos, google_news_internacional, google_news_es",3,Irán plantea una nueva oferta a EEUU para reabrir Ormuz y aplazar el diálogo,2026-04-27 05:40
+error,3,4,5.16,100,"expansion, heraldo_aragon, 20minutos",3,"British Airways, obligada a degradar a miles de miembros de su programa de fidelización tras un error",2026-04-27 05:40
+rajoy,4,5,5.51,100,okdiario,1,"Feijóo no es Rajoy, Rajoy es Kitchen",2026-04-27 05:40
+cárcel,3,4,5.16,100,"okdiario, eldiario, elespanol",3,"Paco Martínez, el ‘viceministro’ de Rajoy e íntimo de Soraya al que piden 15 años de cárcel por espiar a Bárcenas",2026-04-27 05:40
+visita,5,5,6.88,100,"google_news_internacional, heraldo_aragon, france24_es",3,Delcy Rodríguez llegó a Barbados en su segunda visita internacional como presidenta encargada de Venezuela - Infobae,2026-04-27 05:40
+magnitud,3,0,5.0,100,"20minutos, google_news_internacional, google_news_es",3,"Un terremoto de magnitud 6,2 sacude el norte de Japón",2026-04-27 05:40
+aliados,4,2,13.77,100,"france24_es, elespanol, google_news_internacional",3,Siria inicia el primer juicio contra Bashar al-Assad y sus aliados tras su derrocamiento,2026-04-27 05:40
+renta,3,3,6.88,100,"okdiario, el_confidencial_economia, 20minutos",3,"Sun Tzu, filófoso chino: «Aparenta ser fuerte cuando eres débil, y débil cuando eres fuerte»",2026-04-27 05:40
+tribunales,3,0,5.0,100,"heraldo_aragon, 20minutos",2,"Jordi Pujol comparece ante los tribunales entre dudas sobre su salud, física y mental",2026-04-27 05:40
+japón,3,4,5.16,100,"heraldo_aragon, 20minutos, google_news_es",3,"El restaurante Kinza de Zaragoza, el hobby de unos enamorados de Japón",2026-04-27 05:40
+economía,3,3,6.88,100,"google_news_economia, elespanol, elmundo",3,"Santiago Carbó, catedrático de Economía: “La vivienda y el alquiler seguirán subiendo salvo que España sufra una crisis económica provocada por la guerra” - Infobae",2026-04-27 05:40
+artificial,3,4,5.16,100,"okdiario, heraldo_aragon, 20minutos",3,BatMonitor: la inteligencia artificial que reduce la mortandad de murciélagos en los aerogeneradores,2026-04-27 05:40
+interior,3,3,6.88,100,"okdiario, elespanol",2,El audio de la confesión del ex ‘número dos’ de Interior Paco Martínez: «En la ‘Operación Kitchen’ hubo mucha iniciativa de Rajoy»,2026-04-27 05:40
+inteligencia,3,4,5.16,100,"okdiario, heraldo_aragon, 20minutos",3,BatMonitor: la inteligencia artificial que reduce la mortandad de murciélagos en los aerogeneradores,2026-04-27 05:40
+ábalos,3,3,6.88,100,"elpais_espana, 20minutos, elmundo",3,El hijo de Ábalos: “Mi padre está preparado para cualquier escenario”,2026-04-27 05:40
+buena,3,2,10.33,100,"google_news_es, elpais_espana, el_confidencial_tech",3,"Objetivo, matar al “chivato” que señaló el narcotúnel de Ceuta: “Si hay buena pasta, le hago un arreglo” - EL PAÍS",2026-04-27 05:40
+ee.uu,3,3,6.88,100,"google_news_es, huffington_es, google_news_internacional",3,Irán ofrece a EE.UU. reabrir Ormuz y aplazar asunto nuclear - dw.com,2026-04-27 05:40
+crisis,5,5,6.88,100,"okdiario, google_news_economia, 20minutos, elmundo",4,La crisis de crédito daña al inmobiliario: los fondos frenan la inversión por temor a no vender las viviendas,2026-04-27 05:40
+calidad,3,2,10.33,100,"okdiario, heraldo_aragon, elespanol",3,Telefónica duda incluir el Canal Red de Iglesias en Movistar Plus por su limitada calidad técnica,2026-04-27 05:40
+reabrir,4,0,5.0,100,"20minutos, google_news_internacional, google_news_es, huffington_es",4,Irán plantea una nueva oferta a EEUU para reabrir Ormuz y aplazar el diálogo,2026-04-27 05:40
+extranjeros,3,1,20.65,100,"google_news_economia, levante_emv",2,Solo un 5% de los trabajadores extranjeros llegan a España con un contrato laboral firmado - El Economista,2026-04-27 05:40
+francia,3,4,5.16,100,"okdiario, google_news_internacional, france24_es",3,Francia desafía las reglas y anuncia el misil supersónico STRATUS capaz de alcanzar velocidades supersónicas y atacar sistemas de defensa aérea avanzados,2026-04-27 05:40
+español,13,14,6.39,100,"google_news_politica, huffington_es, okdiario, google_news_es, elpais_espana",5,España y la política económica del infierno - El Español,2026-04-27 05:40
+grandes,6,7,5.9,100,"elcorreo, google_news_economia, eldiario, 20minutos",4,España deja de ser un país de propietarios mientras la vivienda se concentra en grandes tenedores,2026-04-27 05:40
+propietarios,5,1,34.42,100,"elcorreo, google_news_economia, levante_emv, eldiario",4,España deja de ser un país de propietarios mientras la vivienda se concentra en grandes tenedores,2026-04-27 05:40
+fuerte,3,3,6.88,100,"okdiario, elconfidencial, google_news_es",3,"Sun Tzu, filófoso chino: «Aparenta ser fuerte cuando eres débil, y débil cuando eres fuerte»",2026-04-27 05:40
+sáenz,5,1,34.42,100,"levante_emv, google_news_es, elpais_espana, heraldo_aragon",4,Juicio de Kitchen por la trama de corrupción policial vinculada al PP | Turno para Soraya Sáenz de Santamaría: última hora desde la Audiencia Nacional,2026-04-27 05:40
+soraya,3,1,20.65,100,"levante_emv, okdiario, heraldo_aragon",3,Juicio de Kitchen por la trama de corrupción policial vinculada al PP | Turno para Soraya Sáenz de Santamaría: última hora desde la Audiencia Nacional,2026-04-27 05:40
+kitchen,6,5,8.26,100,"levante_emv, okdiario, google_news_es, elpais_espana, heraldo_aragon",5,Juicio de Kitchen por la trama de corrupción policial vinculada al PP | Turno para Soraya Sáenz de Santamaría: última hora desde la Audiencia Nacional,2026-04-27 05:40
+infierno,3,0,5.0,100,"google_news_politica, 20minutos, elespanol",3,España y la política económica del infierno - El Español,2026-04-27 05:40
+consumo,3,3,6.88,100,"levante_emv, 20minutos, elespanol",3,"Un informe encargado por Consumo señalan que la ""sociedad de propietarios"" está en un ""proceso de deterioro""",2026-04-27 05:40
+legal,3,0,5.0,100,"levante_emv, okdiario, 20minutos",3,Naturgy lanza un plan de inversiones de 1.200 millones en redes eléctricas y promete dispararlas si el Gobierno levanta el tope legal,2026-04-27 05:40
+eléctricas,4,2,13.77,100,"levante_emv, huffington_es, google_news_es",3,Naturgy lanza un plan de inversiones de 1.200 millones en redes eléctricas y promete dispararlas si el Gobierno levanta el tope legal,2026-04-27 05:40
+lanza,4,1,27.54,100,"levante_emv, huffington_es, 20minutos",3,Naturgy lanza un plan de inversiones de 1.200 millones en redes eléctricas y promete dispararlas si el Gobierno levanta el tope legal,2026-04-27 05:40
+juicio,8,7,7.87,100,"levante_emv, google_news_es, elpais_espana, heraldo_aragon, 20minutos",5,El tribunal decide hoy si Jordi Pujol está en condiciones de declarar en el juicio por la fortuna oculta en Andorra,2026-04-27 05:40
+américa,4,3,9.18,100,"levante_emv, google_news_economia, elespanol, google_news_internacional",4,El Banco de España reúne a los bancos centrales de América Latina en su primer foro en Roda de Barà,2026-04-27 05:40
+centrales,5,0,5.0,100,"levante_emv, google_news_economia, google_news_es, 20minutos",4,El Banco de España reúne a los bancos centrales de América Latina en su primer foro en Roda de Barà,2026-04-27 05:40
+tenedores,5,0,5.0,100,"elcorreo, google_news_economia, eldiario, 20minutos",4,España deja de ser un país de propietarios mientras la vivienda se concentra en grandes tenedores,2026-04-27 05:40
+santamaría,5,2,17.21,100,"levante_emv, google_news_es, elpais_espana, heraldo_aragon",4,Juicio de Kitchen por la trama de corrupción policial vinculada al PP | Turno para Soraya Sáenz de Santamaría: última hora desde la Audiencia Nacional,2026-04-27 05:40
+amenaza,3,4,5.16,100,"elespanol, google_news_es",2,"Un pelotón de fusilamiento amenaza al ""asesino amigable"": quiso matar a Trump y su equipo delante de la prensa",2026-04-27 05:40
+cuello,3,0,5.0,100,"huffington_es, 20minutos",2,"Ana, trabajadora en el aeropuerto de Palma: &quot;No nos sirve de nada que la cerveza valga tres euros si vamos hasta el cuello para llenar la cesta de la compra&quot;",2026-04-27 05:40
+campo,3,3,6.88,100,"huffington_es, levante_emv, google_news_internacional",3,Un niño de 13 años encuentra en un campo de Berlín una moneda de la antigua Troya de hace 2.300 años: los arqueólogos no saben cómo llegó hasta allí,2026-04-27 05:40
+&quot;no,3,3,6.88,100,huffington_es,1,"Ana, trabajadora en el aeropuerto de Palma: &quot;No nos sirve de nada que la cerveza valga tres euros si vamos hasta el cuello para llenar la cesta de la compra&quot;",2026-04-27 05:40
+turismo,3,4,5.16,100,"google_news_internacional, elespanol",2,"Angola, elegido ‘Mejor Destino Internacional’ - Expreso - Diario de viajes y turismo",2026-04-27 05:40
+palma,5,7,4.92,98,"huffington_es, okdiario",2,"Ana, trabajadora en el aeropuerto de Palma: &quot;No nos sirve de nada que la cerveza valga tres euros si vamos hasta el cuello para llenar la cesta de la compra&quot;",2026-04-27 05:40
+inmigrantes,4,6,4.59,91,"okdiario, google_news_es, elpais_espana",3,Sánchez se quejó al llegar al poder de que el PP expulsó pocos inmigrantes ilegales: «Sólo 8.600 en dos años»,2026-04-27 05:40
+mientras,8,12,4.59,91,"levante_emv, elcorreo, google_news_economia, eldiario, google_news_internacional",5,"Bruselas recomienda evitar el cierre ""prematuro"" de las nucleares mientras España evalúa la prórroga de Almaraz",2026-04-27 05:40
+nivel,4,6,4.59,91,"google_news_internacional, huffington_es, elmundo, google_news_es",4,¿Hay una operación de lavado de dinero a nivel internacional? - Libertad Digital,2026-04-27 05:40
+mantiene,4,6,4.59,91,"google_news_internacional, heraldo_aragon, france24_es",3,Irán propone reabrir Ormuz y aplazar el pulso nuclear mientras Donald Trump mantiene la presión - El Debate,2026-04-27 05:40
+michael,3,5,4.13,82,"eldiario, 20minutos, france24_es",3,"Por qué Janet Jackson no aparece en 'Michael', la película biográfica sobre su hermano",2026-04-27 05:40
+jordi,3,5,4.13,82,"levante_emv, heraldo_aragon",2,El tribunal decide hoy si Jordi Pujol está en condiciones de declarar en el juicio por la fortuna oculta en Andorra,2026-04-27 05:40
+polémica,3,5,4.13,82,"heraldo_aragon, 20minutos, france24_es",3,Polémica en un pueblo de Teruel por la visita del alcalde al Papa a pedir ayuda para reparar la iglesia,2026-04-27 05:40
+teruel,3,5,4.13,82,heraldo_aragon,1,El acuerdo PP-Vox recoge la inversión de más de 225 millones en equipamientos sanitarios en Zaragoza y Teruel,2026-04-27 05:40
+pagan,3,5,4.13,82,"el_confidencial_economia, okdiario",2,"Gonzalo Bernardos, economista: ""Los jóvenes pagan más por cotizaciones, pagan más impuestos y muy probablemente recibirán mucho menos de pensión""",2026-04-27 05:40
+china,5,9,3.82,76,"huffington_es, okdiario, google_news_internacional, levante_emv",4,"Se va a trabajar a China, su jefe recibe un pedido defectuoso y lo que hace le deja a cuadros: &quot;Los negocios aquí son relaciones&quot;",2026-04-27 05:40
+ormuz,5,10,3.44,68,"20minutos, google_news_internacional, google_news_es, huffington_es",4,Irán plantea una nueva oferta a EEUU para reabrir Ormuz y aplazar el diálogo,2026-04-27 05:40
+periódico,3,6,3.44,68,google_news_internacional,1,"Damm cumple 150 años: historia familiar, arraigo en Barcelona y expansión internacional - El Periódico",2026-04-27 05:40
+digital,3,6,3.44,68,"bbc_mundo, google_news_internacional, sur",3,"Cómo la ""cortina de hierro digital"" está creando descontento contra el gobierno de Putin en Rusia",2026-04-27 05:40
+objetivo,3,6,3.44,68,"levante_emv, google_news_es, elpais_espana, heraldo_aragon",4,"Raúl Cortés, director comercial de Adecco Outsourcing: “Ordenar y planificar procesos, alineando personas, tecnología y objetivos, es la forma más efectiva de ganar productividad”",2026-04-27 05:40
+ayuda,3,6,3.44,68,heraldo_aragon,1,Aragón exige por ley desde 2021 un año de residencia para acceder a cuatro de sus ayudas,2026-04-27 05:40
+norte,4,8,3.44,68,"20minutos, google_news_economia, elespanol, google_news_es",4,"Un terremoto de magnitud 6,2 sacude el norte de Japón",2026-04-27 05:40
+nuclear,5,11,3.13,62,"levante_emv, google_news_internacional, google_news_es, huffington_es, 20minutos",5,"Bruselas recomienda evitar el cierre ""prematuro"" de las nucleares mientras España evalúa la prórroga de Almaraz",2026-04-27 05:40
+tercer,4,9,3.06,61,"google_news_es, 20minutos, elmundo",3,"Willy Bárcenas, Sáenz de Santamaría y Arenas arrancan la tercera semana del juicio del caso Kitchen - RTVE.es",2026-04-27 05:40
+carlos,4,9,3.06,61,"heraldo_aragon, france24_es",2,Carlos III y David Beckham se alían en su pasión por la jardinería,2026-04-27 05:40
+busca,4,9,3.06,61,"infolibre, okdiario, 20minutos, elespanol",4,La Hungría post-Orbán busca la “normalización” en la escena europea,2026-04-27 05:40
+hacia,4,9,3.06,61,"google_news_internacional, heraldo_aragon",2,Bulgaria vuelve la vista hacia Moscú - EL PAÍS,2026-04-27 05:40
+alquiler,3,7,2.95,59,"google_news_economia, 20minutos",2,"Santiago Carbó, catedrático de Economía: “La vivienda y el alquiler seguirán subiendo salvo que España sufra una crisis económica provocada por la guerra” - Infobae",2026-04-27 05:40
+mayores,3,7,2.95,59,"heraldo_aragon, 20minutos",2,Casi 1.700 auxiliares de ayuda a domicilio cuidan a más de 17.900 mayores en Aragón,2026-04-27 05:40
+gobierno,9,21,2.95,59,"levante_emv, okdiario, bbc_mundo, google_news_es, elespanol",5,El Gobierno ultima la hoja de ruta con las leyes que pretende impulsar hasta el final de la legislatura,2026-04-27 05:40
+verano,3,7,2.95,59,"okdiario, google_news_internacional, heraldo_aragon",3,Así es ‘La Suiza vasca’: el valle alavés que bautizó un rey de España y es perfecto para ir en verano,2026-04-27 05:40
+película,3,7,2.95,59,"eldiario, heraldo_aragon, 20minutos",3,"Por qué Janet Jackson no aparece en 'Michael', la película biográfica sobre su hermano",2026-04-27 05:40
+lunes,8,19,2.9,57,"okdiario, google_news_es, levante_emv",3,"Predicción del horóscopo para Cáncer hoy, lunes 27 de abril de 2026",2026-04-27 05:40
+huelga,4,10,2.75,55,"levante_emv, okdiario, 20minutos, elespanol",4,Conselleria de Educación pone en duda la representatividad de la huelga docente prevista a partir del 11 de mayo,2026-04-27 05:40
+matar,4,10,2.75,55,"google_news_es, elpais_espana, heraldo_aragon, elespanol",4,"Objetivo, matar al “chivato” que señaló el narcotúnel de Ceuta: “Si hay buena pasta, le hago un arreglo” - EL PAÍS",2026-04-27 05:40
+andalucía,7,20,2.41,48,"okdiario, infolibre, huffington_es, elconfidencial, sur",5,"Cielos despejados y vientos moderados en Andalucía, con posibilidad de lluvia en el Estrecho, AEMET",2026-04-27 05:40
+españoles,5,15,2.29,45,"huffington_es, okdiario, google_news_es, elpais_espana, 20minutos",5,Los destinos españoles que están siendo arruinados por la masificación turística,2026-04-27 05:40
+aemet,3,9,2.29,45,okdiario,1,"AEMET prevé cielos variables y chubascos en Barcelona, con brisa suave en la costa",2026-04-27 05:40
+predicción,4,13,2.12,42,okdiario,1,"Predicción del horóscopo para Cáncer hoy, lunes 27 de abril de 2026",2026-04-27 05:40
+ahora,3,10,2.07,41,"elpais_espana, huffington_es, google_news_internacional",3,El Congreso desclasifica ahora 20 documentos del 23-F ya conocidos,2026-04-27 05:40
+países,3,10,2.07,41,"google_news_internacional, 20minutos",2,Arranca este miércoles: toda la programación de la Feria Internacional de los Países de Fuengirola - Málaga Hoy,2026-04-27 05:40
