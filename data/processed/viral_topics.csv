@@ -1,265 +1,316 @@
 keyword,count_now,count_base,ratio,viral_score,sources,n_sources,sample_title,detected_at
-juicio,32,13,7.88,100,"okdiario, elcorreo, elpais, google_news_es, elespanol",5,"Juicio por la operación Kitchen y ‘caso mascarillas’, en directo: Soraya Sáenz de Santamaría, Willy Bárcenas y Arenas declaran ante la Audiencia Nacional hoy",2026-04-27 09:41
-banco,4,1,12.8,100,"20minutos, elcorreo, expansion, google_news_es, levante_emv",5,Detenido por robar en un banco de Puente de Vallecas: se llevó 800€ en monedas y los escondió en la basura,2026-04-27 09:41
-específicas,3,0,5.0,100,"google_news_internacional, 20minutos, levante_emv",3,Crónica internacional - Irán asegura que ha avanzado en los contactos con los mediadores pakistaníes sobre las las condiciones específicas para volver a negociar con EEUU - RTVE.es,2026-04-27 09:41
-declara,5,0,5.0,100,"okdiario, elcorreo, levante_emv, eldiario, 20minutos",5,"Juicio por la operación Kitchen y ‘caso mascarillas’, en directo: Soraya Sáenz de Santamaría, Willy Bárcenas y Arenas declaran ante la Audiencia Nacional hoy",2026-04-27 09:41
-sanción,3,0,5.0,100,"elmundo, okdiario, heraldo_aragon",3,De perder con Boca la final de la Libertadores en el Bernabéu al puñetazo a Pulido: el portero Andrada se prepara para recibir una sanción histórica en LaLiga,2026-04-27 09:41
-shakira,5,0,5.0,100,"huffington_es, 20minutos, google_news_es, heraldo_aragon",4,Alejandro Sanz se pronuncia sobre los sonados rumores que le han relacionado con Shakira: &quot;Ella tenía su novio&quot;,2026-04-27 09:41
-conexión,4,0,5.0,100,"levante_emv, google_news_economia, okdiario",3,Transportes aprueba el proyecto de conexión directa entre la V-30 y la A-3,2026-04-27 09:41
-operación,12,3,12.8,100,"okdiario, levante_emv, google_news_es, huffington_es, 20minutos",5,"Juicio por la operación Kitchen y ‘caso mascarillas’, en directo: Soraya Sáenz de Santamaría, Willy Bárcenas y Arenas declaran ante la Audiencia Nacional hoy",2026-04-27 09:41
-claves,6,2,9.6,100,"20minutos, okdiario, google_news_es",3,"Las claves del increíble récord de Sabastian Sawe: un ritmo infernal, el desayuno más simple y zapatillas de 500 euros",2026-04-27 09:41
-cocaína,3,0,5.0,100,"sur, elespanol",2,Investigan al conductor de un camión tras salirse de la vía y dar positivo en cannabis y cocaína en Málaga,2026-04-27 09:41
-castilla,5,2,8.0,100,"okdiario, 20minutos",2,Conmoción en Castilla y León: 2.329 vecinos se movilizan contra la tala de árboles en el canal más grande de España,2026-04-27 09:41
-color,3,0,5.0,100,"okdiario, elcorreo, google_news_es, 20minutos",4,Olvida las zapatillas blancas: a todo el mundo le encantan las Sambas color capuchino de Adidas,2026-04-27 09:41
-transporte,3,0,5.0,100,"levante_emv, expansion, google_news_internacional",3,Transportes aprueba el proyecto de conexión directa entre la V-30 y la A-3,2026-04-27 09:41
-zonas,4,1,12.8,100,"20minutos, elconfidencial, elcorreo, okdiario",4,"El BOE publica la declaración de los municipios vascos de Arrasate, Pasaia y Zestoa como zonas tensionadas",2026-04-27 09:41
-menores,3,0,5.0,100,"elespanol, levante_emv, huffington_es",3,Detenido un hombre por exhibicionismo ante dos menores en el Parque de María Luisa durante el Domingo de Feria,2026-04-27 09:41
-trabajar,3,1,9.6,100,"okdiario, huffington_es, elpais",3,"El GEEKOM A6 es ideal para trabajar y estudiar sin ocupar espacio, y ahora baja de 500 euros",2026-04-27 09:41
-granizo,4,0,5.0,100,"huffington_es, okdiario, elconfidencial, elcorreo",4,"La Aemet avisa de un vuelco en el tiempo: &quot;Tormenta, granizo y rachas muy fuertes de viento&quot;",2026-04-27 09:41
-fuertes,5,1,16.0,100,"huffington_es, okdiario, heraldo_aragon, elconfidencial, elcorreo",5,"La Aemet avisa de un vuelco en el tiempo: &quot;Tormenta, granizo y rachas muy fuertes de viento&quot;",2026-04-27 09:41
-malaga,4,2,6.4,100,sur,1,Seville 112: slingshot ride snaps mid-air injuring two children from Malaga,2026-04-27 09:41
-levante-emv,3,0,5.0,100,"google_news_internacional, google_news_economia, levante_emv",3,DIRECTO | Sánchez inaugura la segunda edición del foro internacional Invest in Spain Summit - Levante-EMV,2026-04-27 09:41
-condiciones,4,1,12.8,100,"google_news_internacional, 20minutos, levante_emv",3,Crónica internacional - Irán asegura que ha avanzado en los contactos con los mediadores pakistaníes sobre las las condiciones específicas para volver a negociar con EEUU - RTVE.es,2026-04-27 09:41
-máximos,3,0,5.0,100,google_news_economia,1,"Savills eleva a 950 millones la inversión en oficinas en España, máximos desde 2011 - PressDigital",2026-04-27 09:41
-oficinas,3,0,5.0,100,"google_news_economia, elespanol",2,"Savills eleva a 950 millones la inversión en oficinas en España, máximos desde 2011 - PressDigital",2026-04-27 09:41
-logra,4,2,6.4,100,"google_news_economia, okdiario, levante_emv",3,"El 78% de las empresas tecnológicas en España no logra cubrir sus vacantes, según ManpowerGroup - Europa Press",2026-04-27 09:41
-artistas,3,1,9.6,100,"eldiario, 20minutos",2,Más allá de Amaia y Guitarricadelafuente: estos son los artistas españoles que han pasado por Tiny Desk,2026-04-27 09:41
-institutos,3,1,9.6,100,"europapress, elpais, huffington_es",3,Trabajadores de institutos de L'Hospitalet (Barcelona) critican la presencia de Mossos en centros,2026-04-27 09:41
-colegio,3,0,5.0,100,"levante_emv, elpais",2,Torre de Piles es el nombre que propondrá la comunidad educativa a la conselleria para el nuevo colegio,2026-04-27 09:41
-educación,4,1,12.8,100,"levante_emv, google_news_internacional",2,La comunidad educativa elige Torre de Piles y lo propondrá a Educación como nombre del nuevo colegio,2026-04-27 09:41
-cognitivo,3,0,5.0,100,"okdiario, europapress, elpais, eldiario",4,Jordi Pujol se libra de ser juzgado por su fortuna ilícita gracias a su «deterioro cognitivo»,2026-04-27 09:41
-exonera,3,1,9.6,100,"google_news_es, elpais, 20minutos",3,La Audiencia Nacional exonera a Jordi Pujol del juicio por la fortuna oculta en Andorra al concluir que no tiene «capacidad» para defenderse - ABC,2026-04-27 09:41
-andorra,4,0,5.0,100,"google_news_es, elmundo_espana, elmundo, levante_emv",4,La Audiencia Nacional exonera a Jordi Pujol del juicio por la fortuna oculta en Andorra al concluir que no tiene «capacidad» para defenderse - ABC,2026-04-27 09:41
-germán,3,0,5.0,100,google_news_economia,1,Germán Larrea asume la dirección general de Verisure en España - Demócrata,2026-04-27 09:41
-larrea,3,0,5.0,100,google_news_economia,1,Germán Larrea asume la dirección general de Verisure en España - Demócrata,2026-04-27 09:41
-verisure,3,0,5.0,100,google_news_economia,1,Germán Larrea asume la dirección general de Verisure en España - Demócrata,2026-04-27 09:41
-tener,8,3,8.53,100,"heraldo_aragon, okdiario, levante_emv, maldita, huffington_es",5,"La emotiva despedida de la viuda del ganadero taurino muerto por las cornadas de un toro: ""No sé ni como tener fuerza para escribir esto""",2026-04-27 09:41
-tribunal,4,2,6.4,100,"levante_emv, elespanol",2,Luis Bárcenas advierte al tribunal de Kitchen que el abogado que se negó a declarar ya lo hizo en el caso Villarejo,2026-04-27 09:41
-tenía,6,3,6.4,100,"google_news_es, huffington_es, levante_emv, 20minutos, okdiario",5,Willy Bárcenas afirma que su padre le contó que tenía una grabación de Rajoy y Arenas e insiste en que les - LaSexta,2026-04-27 09:41
-debido,3,0,5.0,100,"elespanol, elpais",2,El tribunal libra a Jordi Pujol del juicio sobre su fortuna debido a su estado de salud y tras entrevistarse con él,2026-04-27 09:41
-imposible,4,1,12.8,100,"europapress, okdiario, 20minutos, levante_emv",4,"El hijo de Bárcenas cree que hubo una orden del Gobierno de Rajoy para ""hacerle la vida imposible"" a su padre en prisión",2026-04-27 09:41
-miura,3,0,5.0,100,"eldiario, okdiario, levante_emv",3,"Encerrados a 300 metros de profundidad en la Mina Miura, en Asturias: denuncian el impago acumulado de nóminas",2026-04-27 09:41
-tecnológicas,3,0,5.0,100,"google_news_economia, expansion",2,"El 78% de las empresas tecnológicas en España no logra cubrir sus vacantes, según ManpowerGroup - Europa Press",2026-04-27 09:41
-estudiantes,3,1,9.6,100,"elespanol, okdiario, 20minutos",3,Denuncian a un conductor de un autobús escolar por dar positivo en cocaína mientras trasladaba a unos estudiantes,2026-04-27 09:41
-tiktok,5,0,5.0,100,"google_news_es, 20minutos, maldita",3,El cáncer adolescente en TikTok desafía el debate sobre vetar las redes - UOC,2026-04-27 09:41
-oculta,8,4,6.4,100,"elconfidencial, google_news_es, elespanol, elpais, eldiario",5,La Audiencia Nacional exime a Jordi Pujol por demencia de la causa por la fortuna oculta,2026-04-27 09:41
-continuar,3,1,9.6,100,"google_news_internacional, 20minutos, levante_emv",3,"Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | El negociador iraní asegura que la visita del fin de semana a Pakistán fue “muy buena” y que se han fijado “condiciones específicas” para continuar el diálogo con EE UU - EL PAÍS",2026-04-27 09:41
-llegan,3,1,9.6,100,"google_news_economia, levante_emv",2,España se vende al mundo: 75 multinacionales llegan a Madrid - business-people.es,2026-04-27 09:41
-tormentas,4,0,5.0,100,"20minutos, elcorreo, elmundo_espana, eldiario",4,"Burgos, León y Palencia, en aviso amarillo hoy por lluvias y tormentas",2026-04-27 09:41
-gines,3,0,5.0,100,google_news_es,1,"La Semana del Libro de Gines concluyó con ‘Yesterday’, un llamativo espectáculo de mimo, humor y malabares a cargo de Manolo Carambolas – Ayuntamiento de Gines - Ayuntamiento de Gines",2026-04-27 09:41
-comité,3,0,5.0,100,"google_news_internacional, efe",2,El comité empresarial de la OCDE sitúa a CaixaBank como modelo internacional de educación financiera - El Mundo Financiero,2026-04-27 09:41
-financiero,3,0,5.0,100,"levante_emv, google_news_internacional, google_news_economia",3,CBNK se lanza a la gestión integral de farmacias con una nueva plataforma de servicios no financieros,2026-04-27 09:41
-recomiendan,4,1,12.8,100,"heraldo_aragon, okdiario",2,Por qué recomiendan aplicar bicarbonato de sodio y romero en las canas y para qué sirve,2026-04-27 09:41
-colocar,4,0,5.0,100,"heraldo_aragon, okdiario",2,Por qué recomiendan colocar una hoja de laurel dentro de la almohada y para qué sirve,2026-04-27 09:41
-fijado,3,0,5.0,100,"google_news_internacional, 20minutos, levante_emv",3,"Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | El negociador iraní asegura que la visita del fin de semana a Pakistán fue “muy buena” y que se han fijado “condiciones específicas” para continuar el diálogo con EE UU - EL PAÍS",2026-04-27 09:41
-iglesias,3,1,9.6,100,"huffington_es, 20minutos, okdiario",3,Estas palabras del actor Carlos Iglesias sobre los muertos enterrados en las cunetas es de lo más compartido en España en los últimos días,2026-04-27 09:41
-desafía,5,2,8.0,100,"google_news_es, elespanol, okdiario, google_news_internacional",4,El cáncer adolescente en TikTok desafía el debate sobre vetar las redes - UOC,2026-04-27 09:41
-baterías,3,0,5.0,100,"google_news_economia, okdiario",2,Grenergy sella un ‘tolling’ financiero a 12 años para las baterías de su gran proyecto híbrido Escuderos en España - Demócrata,2026-04-27 09:41
-reglas,3,1,9.6,100,"levante_emv, okdiario, google_news_internacional",3,"Nuevo EX60 totalmente eléctrico, el SUV de Volvo que cambia las reglas del juego, con autonomía WLTP de hasta 810 km",2026-04-27 09:41
-temperaturas,4,2,6.4,100,"elmundo_espana, okdiario",2,Lluvias y tormentas activan avisos este lunes en siete Comunidades del norte mientras suben las temperaturas en el sur,2026-04-27 09:41
-capaz,3,1,9.6,100,"okdiario, google_news_internacional",2,La ciencia lo confirma y es oficial: la cafeína es capaz de «coser» los circuitos de la memoria dañados por no dormir,2026-04-27 09:41
-concentra,5,0,5.0,100,"levante_emv, google_news_economia, elcorreo",3,Concentración en silencio a las puertas de La Fe,2026-04-27 09:41
-vista,3,0,5.0,100,"elespanol, google_news_es, huffington_es, google_news_internacional, elcorreo",5,El tribunal libra a Jordi Pujol del juicio sobre su fortuna debido a su estado de salud y tras entrevistarse con él,2026-04-27 09:41
-martínez,3,1,9.6,100,okdiario,1,El audio de Paco Martínez que lo cambia todo: «La ‘Kitchen’ es un gran escándalo»,2026-04-27 09:41
-extranjeros,3,1,9.6,100,"google_news_economia, levante_emv",2,Solo un 5% de los trabajadores extranjeros llegan a España con un contrato laboral firmado - El Economista,2026-04-27 09:41
-pública,3,1,9.6,100,"levante_emv, maldita, 20minutos, google_news_es, okdiario",5,"Patricia SanMiguel, experta en Marketing Digital: ""La exposición pública de menores por parte de sus propios padres tiene consecuencias a medio y largo plazo""",2026-04-27 09:41
-expansión,5,3,5.33,100,"google_news_es, expansion, 20minutos, google_news_internacional",4,Los principales bancos centrales ganan tiempo antes de subir los tipos de interés - Expansión,2026-04-27 09:41
-principales,5,0,5.0,100,"expansion, google_news_es, okdiario, levante_emv",4,Los principales bancos centrales ganan tiempo antes de subir los tipos de interés,2026-04-27 09:41
-decisión,3,1,9.6,100,"okdiario, 20minutos",2,Alaska critica la decisión política de RTVE de abandonar Eurovisión y pedir el boicot por Israel: «Es exclusión»,2026-04-27 09:41
-podrían,3,1,9.6,100,"google_news_es, okdiario, huffington_es",3,La fecha de lanzamiento y el precio de Steam Machine podrían anunciarse pronto - Profesional Review,2026-04-27 09:41
-profesional,3,1,9.6,100,"google_news_es, google_news_internacional, 20minutos, elespanol",4,La fecha de lanzamiento y el precio de Steam Machine podrían anunciarse pronto - Profesional Review,2026-04-27 09:41
-decreto,3,1,9.6,100,"eldiario, huffington_es, 20minutos",3,Sumar se abre a dar ayudas fiscales a caseros y al IVA franquiciado para que Junts salve el decreto de los alquileres,2026-04-27 09:41
-lluvias,6,0,5.0,100,"sur, okdiario, 20minutos, eldiario, elconfidencial",5,Vuelven las lluvias de barro esta semana en Málaga,2026-04-27 09:41
-marina,3,0,5.0,100,"google_news_economia, 20minutos, google_news_internacional",3,La conexión pendiente con el millonario caladero de la biotecnología marina - ABC,2026-04-27 09:41
-marzo,5,0,5.0,100,"google_news_internacional, 20minutos, expansion, google_news_es",4,Málaga supera 312.000 pernoctaciones hoteleras en marzo con impulso internacional - vidaeconomica.com,2026-04-27 09:41
-desata,5,3,5.33,100,"20minutos, huffington_es, levante_emv, google_news_internacional, elpais",5,"Se viste de Superman 30 años después de 'Lois & Clark' y desata la polémica: ""No lo representas""",2026-04-27 09:41
-señalan,3,0,5.0,100,"levante_emv, google_news_es",2,Las eléctricas y la gran industria se unen para vigilar los sobrecostes disparados de la luz tras el apagón y señalan a Red Eléctrica,2026-04-27 09:41
-eléctrica,4,2,6.4,100,"levante_emv, google_news_es, 20minutos, huffington_es",4,Las eléctricas y la gran industria se unen para vigilar los sobrecostes disparados de la luz tras el apagón y señalan a Red Eléctrica,2026-04-27 09:41
-próximo,4,1,12.8,100,"elespanol, levante_emv, 20minutos, google_news_es, huffington_es",5,"Tres incendios nocturnos en A Coruña ponen en jaque a los bomberos: los tres focos, muy próximos",2026-04-27 09:41
-mínimo,5,0,5.0,100,"elconfidencial, google_news_es, maldita, levante_emv",4,El megaoutlet que aterriza en Madrid con gangas desde 10 euros: electrodomésticos y devoluciones de Amazon a precios mínimos,2026-04-27 09:41
-bancos,7,3,7.47,100,"elcorreo, expansion, google_news_es, levante_emv, google_news_economia",5,Aprovecha el espacio con estos bancos zapateros que sirven de asiento y de almacenaje,2026-04-27 09:41
-francés,3,1,9.6,100,"eldiario, 20minutos",2,"Con más de 2.000 años de antigüedad, este puente francés llegó a conducir 200 millones de litros de agua diarios",2026-04-27 09:41
-conducir,3,0,5.0,100,"eldiario, maldita, elcorreo",3,"Con más de 2.000 años de antigüedad, este puente francés llegó a conducir 200 millones de litros de agua diarios",2026-04-27 09:41
-propietarios,10,2,16.0,100,"google_news_economia, elcorreo, levante_emv, eldiario",4,Menos pequeños propietarios y más grandes tenedores: solo 6 de cada 10 hogares son propietarios de su vivienda en España - articulo14.es,2026-04-27 09:41
-tenedores,8,1,25.6,100,"google_news_economia, elcorreo, eldiario",3,Menos pequeños propietarios y más grandes tenedores: solo 6 de cada 10 hogares son propietarios de su vivienda en España - articulo14.es,2026-04-27 09:41
-prevé,5,1,16.0,100,"google_news_es, okdiario, levante_emv, eldiario",4,Pujol prevé no declarar en su cita de hoy ante la Audiencia Nacional - La Vanguardia,2026-04-27 09:41
-padre,10,6,5.33,100,"elpais, maldita, elconfidencial, google_news_es, europapress",5,"Juicio de Kitchen, en directo | El hijo de Bárcenas asegura que su padre “pensaba que los teléfonos estaban pinchados”",2026-04-27 09:41
-directa,4,1,12.8,100,"levante_emv, huffington_es, 20minutos, expansion",4,Transportes aprueba el proyecto de conexión directa entre la V-30 y la A-3,2026-04-27 09:41
-rajoy,12,4,9.6,100,"elcorreo, elconfidencial, google_news_es, europapress, eldiario",5,El hijo de Bárcenas asegura que conoció la grabación a Rajoy sobre la 'caja B' del PP,2026-04-27 09:41
-mascarillas’,4,0,5.0,100,okdiario,1,"Juicio por la operación Kitchen y ‘caso mascarillas’, en directo: Soraya Sáenz de Santamaría, Willy Bárcenas y Arenas declaran ante la Audiencia Nacional hoy",2026-04-27 09:41
-avisa,4,0,5.0,100,"google_news_economia, huffington_es, okdiario, elconfidencial",4,"Economía.- Fedea avisa de que el peso de las renovables en España sólo mitigará ""muy modestamente"" el shock energético - Bolsamania",2026-04-27 09:41
-economía.-,7,1,22.4,100,google_news_economia,1,"Economía.- Fedea avisa de que el peso de las renovables en España sólo mitigará ""muy modestamente"" el shock energético - Bolsamania",2026-04-27 09:41
-deterioro,6,0,5.0,100,"elcorreo, okdiario, europapress, elpais, eldiario",5,La Audiencia exime a Pujol de declarar en su juicio por el deterioro de su salud,2026-04-27 09:41
-1.200,3,1,9.6,100,"elconfidencial, google_news_es, levante_emv",3,Madrid acoge un show de Harry Potter con 1.200 drones durante dos únicas noches: fechas y cómo comprar entradas,2026-04-27 09:41
-fortuna,11,2,17.6,100,"okdiario, elconfidencial, google_news_es, elespanol, elpais",5,Jordi Pujol se libra de ser juzgado por su fortuna ilícita gracias a su «deterioro cognitivo»,2026-04-27 09:41
-libra,7,1,22.4,100,"okdiario, elespanol, elmundo_espana, elmundo, eldiario",5,Jordi Pujol se libra de ser juzgado por su fortuna ilícita gracias a su «deterioro cognitivo»,2026-04-27 09:41
-sagunt,3,0,5.0,100,levante_emv,1,Más medios para una visita inmersiva a la impresionante calzada romana de Sagunt,2026-04-27 09:41
-declaran,8,0,5.0,100,"okdiario, google_news_es, elconfidencial, huffington_es, 20minutos",5,"Juicio por la operación Kitchen y ‘caso mascarillas’, en directo: Soraya Sáenz de Santamaría, Willy Bárcenas y Arenas declaran ante la Audiencia Nacional hoy",2026-04-27 09:41
-petróleo,4,0,5.0,100,"el_confidencial_tech, levante_emv, okdiario, google_news_es",4,Un satélite europeo fotografía el Golfo Pérsico y descubre que 'las Maldivas de Irán' se están inundando de petróleo,2026-04-27 09:41
-arenas,13,2,20.8,100,"okdiario, elcorreo, elconfidencial, google_news_es, huffington_es",5,"Juicio por la operación Kitchen y ‘caso mascarillas’, en directo: Soraya Sáenz de Santamaría, Willy Bárcenas y Arenas declaran ante la Audiencia Nacional hoy",2026-04-27 09:41
-sirve,5,2,8.0,100,"huffington_es, elcorreo, heraldo_aragon",3,Juan José Millás cuenta lo que pasa en los restaurantes del centro de Sevilla y sirve de aviso a navegantes: &quot;Es una cosa tremenda&quot;,2026-04-27 09:41
-jordi,21,5,13.44,100,"okdiario, elconfidencial, europapress, google_news_es, elespanol",5,Jordi Pujol se libra de ser juzgado por su fortuna ilícita gracias a su «deterioro cognitivo»,2026-04-27 09:41
-renovables,3,0,5.0,100,"google_news_economia, google_news_es",2,Fedea alerta de que el avance de las renovables en España solo aliviará muy modestamente el shock energético - Demócrata,2026-04-27 09:41
-inaugura,6,0,5.0,100,"google_news_internacional, levante_emv",2,Moncloa: Pedro Sánchez inaugura la segunda edición del foro internacional Invest in Spain Summit - LaCerca.com,2026-04-27 09:41
-willy,14,3,14.93,100,"okdiario, google_news_es, elconfidencial, huffington_es, 20minutos",5,"Juicio por la operación Kitchen y ‘caso mascarillas’, en directo: Soraya Sáenz de Santamaría, Willy Bárcenas y Arenas declaran ante la Audiencia Nacional hoy",2026-04-27 09:41
-tratamientos,3,0,5.0,100,"okdiario, elconfidencial, heraldo_aragon",3,Detenida en Alicante una salvadoreña por llevar a cabo tratamientos médicos sin titulación,2026-04-27 09:41
-summit,6,0,5.0,100,"google_news_internacional, levante_emv, google_news_economia",3,Moncloa: Pedro Sánchez inaugura la segunda edición del foro internacional Invest in Spain Summit - LaCerca.com,2026-04-27 09:41
-bárcenas,25,5,16.0,100,"okdiario, elcorreo, elpais, elconfidencial, levante_emv",5,"Juicio por la operación Kitchen y ‘caso mascarillas’, en directo: Soraya Sáenz de Santamaría, Willy Bárcenas y Arenas declaran ante la Audiencia Nacional hoy",2026-04-27 09:41
-bolsa,5,3,5.33,100,"expansion, google_news_economia, elcorreo, google_news_es, levante_emv",5,Adidas celebra en Bolsa 'su' hito en el maratón,2026-04-27 09:41
-invest,6,0,5.0,100,"google_news_internacional, sur, levante_emv, google_news_es, google_news_economia",5,Moncloa: Pedro Sánchez inaugura la segunda edición del foro internacional Invest in Spain Summit - LaCerca.com,2026-04-27 09:41
-bolsamania,7,2,11.2,100,google_news_economia,1,"Economía.- Fedea avisa de que el peso de las renovables en España sólo mitigará ""muy modestamente"" el shock energético - Bolsamania",2026-04-27 09:41
-declarar,7,1,22.4,100,"elcorreo, levante_emv, 20minutos, google_news_es, elespanol",5,La Audiencia exime a Pujol de declarar en su juicio por el deterioro de su salud,2026-04-27 09:41
-pujol,21,5,13.44,100,"elcorreo, okdiario, elconfidencial, europapress, google_news_es",5,La Audiencia exime a Pujol de declarar en su juicio por el deterioro de su salud,2026-04-27 09:41
-audiencia,22,5,14.08,100,"okdiario, elcorreo, elconfidencial, europapress, google_news_es",5,"Juicio por la operación Kitchen y ‘caso mascarillas’, en directo: Soraya Sáenz de Santamaría, Willy Bárcenas y Arenas declaran ante la Audiencia Nacional hoy",2026-04-27 09:41
-demencia,4,0,5.0,100,"elconfidencial, google_news_es, 20minutos, elespanol",4,La Audiencia Nacional exime a Jordi Pujol por demencia de la causa por la fortuna oculta,2026-04-27 09:41
-secuestro,3,1,9.6,100,"elcorreo, 20minutos",2,"Esteban Andrada, de cosechar uvas para sobrevivir y sufrir un secuestro exprés a protagonizar una tangana vergonzosa",2026-04-27 09:41
-actividades,5,3,5.33,100,"google_news_internacional, okdiario",2,La Junta organiza actividades lúdicas y formativas en la Sala Trajano con motivo del Día Internacional de la Danza - Onda Cero Sur Extremadura,2026-04-27 09:41
-programa,3,1,9.6,100,"google_news_internacional, expansion",2,Programa especial gratuito en Teatros del Canal por el Día Internacional de la Danza - Vivir Ediciones,2026-04-27 09:41
-sáenz,14,3,14.93,100,"okdiario, elcorreo, google_news_es, elconfidencial, huffington_es",5,"Juicio por la operación Kitchen y ‘caso mascarillas’, en directo: Soraya Sáenz de Santamaría, Willy Bárcenas y Arenas declaran ante la Audiencia Nacional hoy",2026-04-27 09:41
-teatro,4,2,6.4,100,"google_news_internacional, google_news_es, levante_emv",3,Programa especial gratuito en Teatros del Canal por el Día Internacional de la Danza - Vivir Ediciones,2026-04-27 09:41
-conservación,3,0,5.0,100,"20minutos, efe",2,Las constructoras reclaman un peaje de 111 euros al año por conductor para financiar la conservación de las carreteras,2026-04-27 09:41
-canal,4,0,5.0,100,"google_news_internacional, okdiario",2,Programa especial gratuito en Teatros del Canal por el Día Internacional de la Danza - Vivir Ediciones,2026-04-27 09:41
-kitchen,24,5,15.36,100,"okdiario, elcorreo, elpais, levante_emv, google_news_es",5,"Juicio por la operación Kitchen y ‘caso mascarillas’, en directo: Soraya Sáenz de Santamaría, Willy Bárcenas y Arenas declaran ante la Audiencia Nacional hoy",2026-04-27 09:41
-grabación,6,1,19.2,100,"elcorreo, elconfidencial, google_news_es, eldiario, elespanol",5,El hijo de Bárcenas asegura que conoció la grabación a Rajoy sobre la 'caja B' del PP,2026-04-27 09:41
-soraya,8,2,12.8,100,"okdiario, google_news_es, huffington_es, 20minutos, levante_emv",5,"Juicio por la operación Kitchen y ‘caso mascarillas’, en directo: Soraya Sáenz de Santamaría, Willy Bárcenas y Arenas declaran ante la Audiencia Nacional hoy",2026-04-27 09:41
-‘caso,4,2,6.4,100,okdiario,1,"Juicio por la operación Kitchen y ‘caso mascarillas’, en directo: Soraya Sáenz de Santamaría, Willy Bárcenas y Arenas declaran ante la Audiencia Nacional hoy",2026-04-27 09:41
-equipo,5,3,5.33,100,"levante_emv, google_news_internacional, okdiario",3,Las chicas del equipo cadete del Xàtiva Voleibol se proclaman campeonas autonómicas,2026-04-27 09:41
-xàtiva,5,1,16.0,100,levante_emv,1,Las chicas del equipo cadete del Xàtiva Voleibol se proclaman campeonas autonómicas,2026-04-27 09:41
-santamaría,13,4,10.4,100,"okdiario, elcorreo, google_news_es, elconfidencial, huffington_es",5,"Juicio por la operación Kitchen y ‘caso mascarillas’, en directo: Soraya Sáenz de Santamaría, Willy Bárcenas y Arenas declaran ante la Audiencia Nacional hoy",2026-04-27 09:41
-rosalía,5,0,5.0,100,"levante_emv, elpais, huffington_es, 20minutos, google_news_internacional",5,Rosalía enseña sus moratones al preparar su sensual baile para 'Euphoria',2026-04-27 09:41
-robar,3,1,9.6,100,"sur, 20minutos, huffington_es",3,Cinco detenidos por robar maquinaria industrial en obras y almacenes de Málaga para venderla en mercadillos,2026-04-27 09:41
-llegada,3,0,5.0,100,"heraldo_aragon, maldita, 20minutos",3,Un grupo de viandantes apaga un incendio en la ribera del Ebro antes de la llegada de los bomberos,2026-04-27 09:41
-exime,7,0,5.0,100,"elcorreo, elconfidencial, europapress, eldiario, google_news_es",5,La Audiencia exime a Pujol de declarar en su juicio por el deterioro de su salud,2026-04-27 09:41
-spain,6,0,5.0,100,"google_news_internacional, levante_emv, google_news_economia",3,Moncloa: Pedro Sánchez inaugura la segunda edición del foro internacional Invest in Spain Summit - LaCerca.com,2026-04-27 09:41
-mientras,14,9,4.98,99,"elespanol, okdiario, levante_emv, elmundo_espana, google_news_economia",5,Denuncian a un conductor de un autobús escolar por dar positivo en cocaína mientras trasladaba a unos estudiantes,2026-04-27 09:41
-cielos,3,2,4.8,96,okdiario,1,"Hoy en Castilla y León: cielos poco nubosos con chubascos en el norte, según AEMET",2026-04-27 09:41
-interés,3,2,4.8,96,"google_news_internacional, expansion, google_news_es",3,FocusEconomics otorga a Equipo Económico su cuarto galardón internacional consecutivo por la precisión en previsiones de tipos de interés – Equipo Económico - equipoeconomico.com,2026-04-27 09:41
-perros,3,2,4.8,96,"okdiario, 20minutos",2,"Los expertos advierten a los dueños de perros: si tienes que viajar con él, lo mejor es preparar al animal antes",2026-04-27 09:41
-arranca,3,2,4.8,96,"eldiario, levante_emv, google_news_internacional, google_news_es",4,Los médicos arrancan su tercera semana de huelga en plena tensión con Sanidad,2026-04-27 09:41
-supuesta,3,2,4.8,96,"maldita, 20minutos, okdiario",3,"Cuidado con la supuesta ""confirmación"" de Hacienda de que cobrará impuestos a quien viva ""de gratis"" en casa de sus padres por considerarlo una donación",2026-04-27 09:41
-total,3,2,4.8,96,"elcorreo, okdiario, huffington_es, levante_emv",4,Geely muestra en Auto China 2026 su apuesta total por la Inteligencia Artificial,2026-04-27 09:41
-honor,3,2,4.8,96,"levante_emv, huffington_es, elespanol",3,La indumentaria de las falleras mayores y cortes de honor de 2027 sale a concurso y con novedades,2026-04-27 09:41
-revista,3,2,4.8,96,"elespanol, google_news_es, google_news_internacional, google_news_economia, levante_emv",5,El tribunal libra a Jordi Pujol del juicio sobre su fortuna debido a su estado de salud y tras entrevistarse con él,2026-04-27 09:41
-viento,3,2,4.8,96,"huffington_es, okdiario, elconfidencial",3,"La Aemet avisa de un vuelco en el tiempo: &quot;Tormenta, granizo y rachas muy fuertes de viento&quot;",2026-04-27 09:41
-muerto,3,2,4.8,96,"heraldo_aragon, elcorreo, 20minutos, huffington_es, elespanol",5,"La emotiva despedida de la viuda del ganadero taurino muerto por las cornadas de un toro: ""No sé ni como tener fuerza para escribir esto""",2026-04-27 09:41
-negocios,3,2,4.8,96,"huffington_es, levante_emv, okdiario",3,"Se va a trabajar a China, su jefe recibe un pedido defectuoso y lo que hace le deja a cuadros: &quot;Los negocios aquí son relaciones&quot;",2026-04-27 09:41
-tipos,3,2,4.8,96,"google_news_internacional, expansion, google_news_es",3,FocusEconomics otorga a Equipo Económico su cuarto galardón internacional consecutivo por la precisión en previsiones de tipos de interés – Equipo Económico - equipoeconomico.com,2026-04-27 09:41
-delclaux,3,2,4.8,96,"eldiario, heraldo_aragon, elmundo",3,"Muere Cosme Delclaux, abogado secuestrado por ETA durante 232 días entre 1996 y 1997",2026-04-27 09:41
-cosme,3,2,4.8,96,"eldiario, heraldo_aragon, elmundo",3,"Muere Cosme Delclaux, abogado secuestrado por ETA durante 232 días entre 1996 y 1997",2026-04-27 09:41
-entradas,3,2,4.8,96,"elconfidencial, eldiario, heraldo_aragon",3,Madrid acoge un show de Harry Potter con 1.200 drones durante dos únicas noches: fechas y cómo comprar entradas,2026-04-27 09:41
-psicóloga,3,2,4.8,96,okdiario,1,El lado oscuro de las ‘frutinovelas’: la psicóloga Silvia Sanz advierte de sus peligros,2026-04-27 09:41
-positivo,3,2,4.8,96,"sur, elespanol",2,Investigan al conductor de un camión tras salirse de la vía y dar positivo en cannabis y cocaína en Málaga,2026-04-27 09:41
-restaurantes,3,2,4.8,96,"huffington_es, okdiario",2,Juan José Millás cuenta lo que pasa en los restaurantes del centro de Sevilla y sirve de aviso a navegantes: &quot;Es una cosa tremenda&quot;,2026-04-27 09:41
-agenda,3,2,4.8,96,"elcorreo, 20minutos",2,Ermua se rinde al arte y la música con una intensa agenda cultural para mayo,2026-04-27 09:41
-quieren,3,2,4.8,96,"elcorreo, maldita",2,"Alaska pide despolitizar Eurovisión: «Si quieren un festival de las naciones unidas musicales, háganlo»",2026-04-27 09:41
-sobrevivir,3,2,4.8,96,"elcorreo, google_news_es, infolibre",3,"Esteban Andrada, de cosechar uvas para sobrevivir y sufrir un secuestro exprés a protagonizar una tangana vergonzosa",2026-04-27 09:41
-gasto,9,6,4.8,96,"google_news_internacional, google_news_economia, levante_emv, 20minutos, huffington_es",5,"El gasto militar de España sube un 50% y supera el 2% del PIB, algo inédito desde 1994 - Andalucía Información",2026-04-27 09:41
-perder,3,2,4.8,96,"elmundo, google_news_internacional, okdiario",3,De perder con Boca la final de la Libertadores en el Bernabéu al puñetazo a Pulido: el portero Andrada se prepara para recibir una sanción histórica en LaLiga,2026-04-27 09:41
-grandes,10,7,4.57,91,"heraldo_aragon, google_news_economia, 20minutos, elcorreo, eldiario",5,El Estepona jugará el play off contra el Casademont sin sus dos grandes estrellas,2026-04-27 09:41
-alejandro,7,5,4.48,89,"huffington_es, google_news_es, 20minutos, elcorreo, heraldo_aragon",5,Alejandro Sanz se pronuncia sobre los sonados rumores que le han relacionado con Shakira: &quot;Ella tenía su novio&quot;,2026-04-27 09:41
-psicología,4,3,4.27,85,"okdiario, google_news_es",2,Las personas que crecieron entre 1960 y 1970 desarrollaron un tipo de resiliencia que hoy pasa desapercibida: lo dice la psicología,2026-04-27 09:41
-cocina,4,3,4.27,85,"levante_emv, heraldo_aragon, elcorreo, okdiario",4,El chef José Andrés convierte una especie invasora y venenosa en cocina gourmet,2026-04-27 09:41
-inversión,4,3,4.27,85,"google_news_economia, infolibre, okdiario",3,"Savills eleva a 950 millones la inversión en oficinas en España, máximos desde 2011 - PressDigital",2026-04-27 09:41
-interior,4,3,4.27,85,"heraldo_aragon, okdiario",2,"Ralph Waldo Emerson, filósofo: ""Cuando envejecemos la belleza se convierte en una cualidad interior""",2026-04-27 09:41
-música,4,3,4.27,85,"elcorreo, heraldo_aragon, google_news_es, google_news_internacional",4,Ermua se rinde al arte y la música con una intensa agenda cultural para mayo,2026-04-27 09:41
-junts,4,3,4.27,85,"eldiario, huffington_es, google_news_economia",3,Sumar se abre a dar ayudas fiscales a caseros y al IVA franquiciado para que Junts salve el decreto de los alquileres,2026-04-27 09:41
-reúne,5,4,4.0,80,"google_news_economia, google_news_internacional, levante_emv",3,Economía.- El Gobierno reúne este lunes a 75 multinacionales de 25 países en el foro 'Invest in Spain Summit' - Bolsamania,2026-04-27 09:41
-juego,5,4,4.0,80,"levante_emv, okdiario, google_news_es, elcorreo",4,La final del VCT EMEA Stage 2 se celebrará en Barcelona con una plaza para Shanghai en juego,2026-04-27 09:41
-avance,5,4,4.0,80,"google_news_economia, okdiario, google_news_es",3,Fedea alerta de que el avance de las renovables en España solo aliviará muy modestamente el shock energético - Demócrata,2026-04-27 09:41
-aemet,11,9,3.91,78,"huffington_es, okdiario, elconfidencial, elcorreo",4,"La Aemet avisa de un vuelco en el tiempo: &quot;Tormenta, granizo y rachas muy fuertes de viento&quot;",2026-04-27 09:41
-lunes,27,22,3.93,78,"elpais, okdiario, google_news_internacional, google_news_economia, eldiario",5,RTVE emitirá el lunes 4 de mayo el primer debate de las elecciones andaluzas,2026-04-27 09:41
-asegura,6,5,3.84,76,"elcorreo, elpais, google_news_internacional",3,El hijo de Bárcenas asegura que conoció la grabación a Rajoy sobre la 'caja B' del PP,2026-04-27 09:41
-eléctricas,6,5,3.84,76,"levante_emv, google_news_es, 20minutos, huffington_es",4,Las eléctricas y la gran industria se unen para vigilar los sobrecostes disparados de la luz tras el apagón y señalan a Red Eléctrica,2026-04-27 09:41
-modelo,6,5,3.84,76,"okdiario, levante_emv, google_news_internacional, eldiario, elpais",5,"Jaime Soto, el hijo de José Manuel Soto que hereda su talento musical y ha sido pareja de una conocida modelo",2026-04-27 09:41
-centrales,6,5,3.84,76,"expansion, google_news_es, levante_emv, google_news_economia",4,Los principales bancos centrales ganan tiempo antes de subir los tipos de interés,2026-04-27 09:41
-militar,10,9,3.56,71,"google_news_internacional, google_news_economia, levante_emv, 20minutos, elespanol",5,"El gasto militar de España sube un 50% y supera el 2% del PIB, algo inédito desde 1994 - Andalucía Información",2026-04-27 09:41
-papel,7,7,3.2,64,"google_news_internacional, okdiario, huffington_es, maldita, 20minutos",5,Día Internacional de la Fascinación por las Plantas: la programación de mayo para poner en valor el papel de las plantas - aranguren.es,2026-04-27 09:41
-javier,5,5,3.2,64,"google_news_es, okdiario, 20minutos",3,"Juicio del caso Kitchen, en directo | Declaran Soraya Sáenz de Santamaría, Javier Arenas y Willy Bárcenas en - LaSexta",2026-04-27 09:41
-santiago,3,3,3.2,64,"levante_emv, google_news_economia, huffington_es",3,Ascienden a cinco los trabajadores del Hospital de Santiago de Compostela afectados por el brote de sarna noruega,2026-04-27 09:41
-proyecto,4,4,3.2,64,"levante_emv, google_news_economia",2,Transportes aprueba el proyecto de conexión directa entre la V-30 y la A-3,2026-04-27 09:41
-había,3,3,3.2,64,"okdiario, heraldo_aragon, elcorreo",3,"Eduardo Dávila Miura, amigo de Roca Rey, revela que tras la cornada «su única preocupación era saber dónde había quedado la espada»",2026-04-27 09:41
-crece,3,3,3.2,64,"levante_emv, 20minutos",2,"La demanda de productos para la alergia crece un 8% en las farmacias, ""muy por encima"" de los niveles de otros años",2026-04-27 09:41
-productos,3,3,3.2,64,"levante_emv, okdiario, maldita",3,"La demanda de productos para la alergia crece un 8% en las farmacias, ""muy por encima"" de los niveles de otros años",2026-04-27 09:41
-cárcel,6,6,3.2,64,"okdiario, infolibre, 20minutos, huffington_es",4,"Juicio de Kitchen y ‘caso mascarillas’, en directo | Willy Bárcenas: «A mi padre le hicieron la vida imposible en la cárcel, creo que era una orden»",2026-04-27 09:41
-miércoles,3,3,3.2,64,"elcorreo, google_news_internacional",2,El primer local de Bilbao especializado en Tiramisú abre este miércoles y repartirá 300 gratis,2026-04-27 09:41
-oficial,6,6,3.2,64,"levante_emv, google_news_es, okdiario",3,Marisa Jara derrota a Ingrid Betancor y regresa como concursante oficial en ‘Supervivientes 2026’,2026-04-27 09:41
-economía,4,4,3.2,64,google_news_economia,1,"Economía.- Fedea avisa de que el peso de las renovables en España sólo mitigará ""muy modestamente"" el shock energético - Bolsamania",2026-04-27 09:41
-empresas,3,3,3.2,64,"google_news_economia, google_news_internacional",2,Economía verde como palanca de competitividad y seguridad energética en España: Empresas y Gobierno alinean estrategias - ECOticias.com,2026-04-27 09:41
-muchos,4,4,3.2,64,"20minutos, elpais, elpais_internacional",3,"Lérica: ""Hay un movimiento en el que muchos artistas están apostando por su cultura y se está valorando nuevamente el folclore""",2026-04-27 09:41
-estos,7,7,3.2,64,"okdiario, eldiario, maldita, elcorreo, levante_emv",5,Ni consumen tanto ni cuestan más: estos son los SUV híbridos de 2026 que están arrasando en España,2026-04-27 09:41
-iraní,4,4,3.2,64,"google_news_internacional, elpais",2,"Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | El negociador iraní asegura que la visita del fin de semana a Pakistán fue “muy buena” y que se han fijado “condiciones específicas” para continuar el diálogo con EE UU - EL PAÍS",2026-04-27 09:41
-datos,4,4,3.2,64,"okdiario, expansion",2,Los datos lo avalan: el regreso del bisonte ya está restaurando ecosistemas y absorbiendo carbono en toda Europa,2026-04-27 09:41
-conductor,4,4,3.2,64,"20minutos, sur, elespanol",3,Las constructoras reclaman un peaje de 111 euros al año por conductor para financiar la conservación de las carreteras,2026-04-27 09:41
-estas,5,5,3.2,64,"huffington_es, elcorreo, elconfidencial, elpais",4,El despliegue de mossos de paisano en institutos desata protestas: &quot;Más recursos y menos policía&quot;,2026-04-27 09:41
-trabajadores,4,4,3.2,64,"europapress, google_news_economia, levante_emv",3,Trabajadores de institutos de L'Hospitalet (Barcelona) critican la presencia de Mossos en centros,2026-04-27 09:41
-cuidado,4,4,3.2,64,"maldita, elpais",2,"Cuidado con la supuesta ""confirmación"" de Hacienda de que cobrará impuestos a quien viva ""de gratis"" en casa de sus padres por considerarlo una donación",2026-04-27 09:41
-entra,4,4,3.2,64,"elconfidencial, levante_emv, sur, eldiario, elespanol",5,Madrid acoge un show de Harry Potter con 1.200 drones durante dos únicas noches: fechas y cómo comprar entradas,2026-04-27 09:41
-opciones,3,3,3.2,64,"levante_emv, 20minutos, okdiario",3,Victoria agónica del Olímpic para mantener vivas las opciones de promoción de ascenso,2026-04-27 09:41
-secuestrado,3,3,3.2,64,"eldiario, heraldo_aragon, elmundo",3,"Muere Cosme Delclaux, abogado secuestrado por ETA durante 232 días entre 1996 y 1997",2026-04-27 09:41
-expertos,4,4,3.2,64,"okdiario, heraldo_aragon",2,"Por qué no se recomienda imprimir los comprobantes en los cajeros automáticos, según los expertos",2026-04-27 09:41
-acoge,3,3,3.2,64,"elconfidencial, google_news_internacional",2,Madrid acoge un show de Harry Potter con 1.200 drones durante dos únicas noches: fechas y cómo comprar entradas,2026-04-27 09:41
-fecha,3,3,3.2,64,"elconfidencial, eldiario, google_news_es, elcorreo, google_news_internacional",5,Madrid acoge un show de Harry Potter con 1.200 drones durante dos únicas noches: fechas y cómo comprar entradas,2026-04-27 09:41
-amazon,3,3,3.2,64,"elconfidencial, levante_emv, elpais",3,El megaoutlet que aterriza en Madrid con gangas desde 10 euros: electrodomésticos y devoluciones de Amazon a precios mínimos,2026-04-27 09:41
-revela,4,4,3.2,64,"20minutos, okdiario, el_confidencial_tech",3,"Raquel Mosquera revela cuándo saldrá su marido de la cárcel y cómo está su relación ""Le eché la bronca""",2026-04-27 09:41
-llega,10,10,3.2,64,"infolibre, heraldo_aragon, google_news_internacional, elmundo, 20minutos",5,El compromiso intelectual de Malraux frente al fascismo llega al Ateneo de Madrid,2026-04-27 09:41
-adiós,5,5,3.2,64,"okdiario, elcorreo, 20minutos",3,Adiós al papel higiénico: cómo es la tendencia 2026 para reemplazarlo en el baño,2026-04-27 09:41
-causa,3,3,3.2,64,"elconfidencial, eldiario, elmundo_espana, 20minutos, levante_emv",5,La Audiencia Nacional exime a Jordi Pujol por demencia de la causa por la fortuna oculta,2026-04-27 09:41
-piden,3,3,3.2,64,"okdiario, google_news_es",2,"Piden ayuda ciudadana para localizar a Francisco, un joven que lleva desaparecido desde el pasado jueves en Palma",2026-04-27 09:41
-andrés,3,3,3.2,64,levante_emv,1,El chef José Andrés convierte una especie invasora y venenosa en cocina gourmet,2026-04-27 09:41
-moscú,3,3,3.2,64,"okdiario, google_news_internacional, elpais",3,"Bienvenidos al futuro: Rusia ya utiliza en Moscú un tranvía autónomo controlado por IA, y espera tener 15 en 2026",2026-04-27 09:41
-predicción,13,13,3.2,64,okdiario,1,"Predicción del horóscopo para Aries hoy, lunes 27 de abril de 2026",2026-04-27 09:41
-ciudad,4,4,3.2,64,"elespanol, okdiario, google_news_internacional, heraldo_aragon, sur",5,Denuncian al conductor de un autobús escolar por dar positivo en cocaína cerca de un centro educativo de Ciudad Real,2026-04-27 09:41
-valencia,7,7,3.2,64,"google_news_internacional, sur, levante_emv, heraldo_aragon, europapress",5,Sala Russafa celebra el Día Internacional de la Danza con el estreno de “Face au mur” - semprevalencia.com,2026-04-27 09:41
-supera,6,6,3.2,64,"google_news_internacional, heraldo_aragon, google_news_economia, 20minutos, levante_emv",5,"El gasto militar de España sube un 50% y supera el 2% del PIB, algo inédito desde 1994 - Andalucía Información",2026-04-27 09:41
-nacional,27,28,3.09,61,"okdiario, google_news_internacional, elconfidencial, europapress, google_news_es",5,"Juicio por la operación Kitchen y ‘caso mascarillas’, en directo: Soraya Sáenz de Santamaría, Willy Bárcenas y Arenas declaran ante la Audiencia Nacional hoy",2026-04-27 09:41
-ayuntamiento,7,8,2.8,56,"levante_emv, google_news_es, 20minutos, elespanol, okdiario",5,Cómo inscribirse para ver el castillo del día de la madre desde el balcón del Ayuntamiento de València,2026-04-27 09:41
-propio,6,7,2.74,54,"20minutos, levante_emv, elespanol, okdiario",4,"El alegato de amor propio de Vicky Martín Berrocal a favor de la celulitis: ""No la voy a esconder más""",2026-04-27 09:41
-centro,6,7,2.74,54,"huffington_es, google_news_internacional, sur, europapress, elespanol",5,Juan José Millás cuenta lo que pasa en los restaurantes del centro de Sevilla y sirve de aviso a navegantes: &quot;Es una cosa tremenda&quot;,2026-04-27 09:41
-horóscopo,13,16,2.6,52,okdiario,1,"Predicción del horóscopo para Aries hoy, lunes 27 de abril de 2026",2026-04-27 09:41
-metros,4,5,2.56,51,"eldiario, elcorreo, okdiario, elespanol",4,"Encerrados a 300 metros de profundidad en la Mina Miura, en Asturias: denuncian el impago acumulado de nóminas",2026-04-27 09:41
-aumenta,4,5,2.56,51,"google_news_internacional, levante_emv, 20minutos, google_news_economia, huffington_es",5,"Los beneficios industriales de China aumentan un 15,5% anual en el 1T2026 pese al conflicto de Oriente Medio - Consenso del Mercado",2026-04-27 09:41
-ábalos,4,5,2.56,51,"elcorreo, elespanol, europapress",3,La UCO certifica la autenticidad de las pruebas contra Ábalos y Koldo: «La posibilidad de alterarlas es cero»,2026-04-27 09:41
-imagen,4,5,2.56,51,"maldita, 20minutos, google_news_es",3,"Cuidado con la imagen que afirma que una “familia marroquí recién llegada” cobra 1.613 euros de Ingreso Mínimo Vital: esta prestación exige, mínimo, un año de residencia en España y no distingue por nacionalidad",2026-04-27 09:41
-cáncer,4,5,2.56,51,"google_news_es, 20minutos, okdiario",3,El cáncer adolescente en TikTok desafía el debate sobre vetar las redes - UOC,2026-04-27 09:41
-exige,4,5,2.56,51,"okdiario, maldita, levante_emv",3,Isco exige al Betis que vete a un periodista y las redes arden,2026-04-27 09:41
-vecinos,4,5,2.56,51,"levante_emv, okdiario",2,Torrent celebra el modernismo con una ruta teatralizada que atrae a numerosos vecinos,2026-04-27 09:41
-partir,4,5,2.56,51,"elcorreo, okdiario, levante_emv",3,El primer local de Bilbao especializado en Tiramisú abre este miércoles y repartirá 300 gratis,2026-04-27 09:41
-largo,4,5,2.56,51,"google_news_es, levante_emv, infolibre, okdiario",4,Rafael Jódar y Daniel Mérida enamoran en su puesta de largo en Madrid - rfet.es,2026-04-27 09:41
-evitar,4,5,2.56,51,"20minutos, elespanol, levante_emv, huffington_es",4,TMB instalará generadores en el metro de Barcelona para evitar que los usuarios evacúen por las vías,2026-04-27 09:41
-industria,4,5,2.56,51,"google_news_internacional, sur, levante_emv, google_news_es, elcorreo",5,"Los beneficios industriales de China aumentan un 15,5% anual en el 1T2026 pese al conflicto de Oriente Medio - Consenso del Mercado",2026-04-27 09:41
-lluvia,3,4,2.4,48,"sur, okdiario, 20minutos, eldiario, elconfidencial",5,Vuelven las lluvias de barro esta semana en Málaga,2026-04-27 09:41
-tecnología,3,4,2.4,48,"google_news_economia, google_news_internacional, levante_emv",3,La conexión pendiente con el millonario caladero de la biotecnología marina - ABC,2026-04-27 09:41
-alemania,3,4,2.4,48,"huffington_es, okdiario, google_news_economia",3,Los &quot;5 de Ulm&quot;: activistas pro-palestinos van a juicio por el ataque a una fábrica de armas israelí en Alemania,2026-04-27 09:41
-latina,3,4,2.4,48,"levante_emv, google_news_economia",2,El Banco de España reúne a los bancos centrales de América Latina en su primer foro en Roda de Barà,2026-04-27 09:41
-chubascos,3,4,2.4,48,okdiario,1,AEMET prevé chubascos y brumas en Bilbao con ambiente variable y temperaturas estables en el litoral,2026-04-27 09:41
-economista,3,4,2.4,48,"google_news_economia, el_confidencial_economia",2,Solo un 5% de los trabajadores extranjeros llegan a España con un contrato laboral firmado - El Economista,2026-04-27 09:41
-conciertos,3,4,2.4,48,"eldiario, huffington_es, google_news_internacional",3,"Entradas para ver a Karol G en España en 2027: cómo registrarse para comprar los tickets, fechas y precios de los conciertos",2026-04-27 09:41
-miles,3,4,2.4,48,"eldiario, okdiario, expansion",3,El curioso museo de este pequeño pueblo de Ávila que alberga miles de juguetes de hojalata,2026-04-27 09:41
-koldo,3,4,2.4,48,"elcorreo, europapress",2,La UCO certifica la autenticidad de las pruebas contra Ábalos y Koldo: «La posibilidad de alterarlas es cero»,2026-04-27 09:41
-habla,3,4,2.4,48,"heraldo_aragon, google_news_es, huffington_es",3,"Pedrerol habla claro del puñetazo de Andrada a Pulido: ""Los nervios son entendibles, pero no se puede permitir""",2026-04-27 09:41
-abogado,3,4,2.4,48,"levante_emv, eldiario, elmundo, elpais",4,Luis Bárcenas advierte al tribunal de Kitchen que el abogado que se negó a declarar ya lo hizo en el caso Villarejo,2026-04-27 09:41
-línea,3,4,2.4,48,"20minutos, okdiario, expansion",3,Entra en funcionamiento la prolongación de la línea de bus V5 hasta la Marina del Prat Vermell,2026-04-27 09:41
-muestra,3,4,2.4,48,"elcorreo, google_news_es, levante_emv, okdiario",4,Geely muestra en Auto China 2026 su apuesta total por la Inteligencia Artificial,2026-04-27 09:41
-espacio,3,4,2.4,48,"okdiario, elcorreo",2,"El GEEKOM A6 es ideal para trabajar y estudiar sin ocupar espacio, y ahora baja de 500 euros",2026-04-27 09:41
-ascenso,3,4,2.4,48,"levante_emv, okdiario",2,Victoria agónica del Olímpic para mantener vivas las opciones de promoción de ascenso,2026-04-27 09:41
-calor,3,4,2.4,48,"google_news_economia, elconfidencial, okdiario",3,España obligará a cerrar terrazas en olas de calor - Economía 3,2026-04-27 09:41
-saber,3,4,2.4,48,okdiario,1,"Eduardo Dávila Miura, amigo de Roca Rey, revela que tras la cornada «su única preocupación era saber dónde había quedado la espada»",2026-04-27 09:41
-confirman,3,4,2.4,48,"google_news_es, 20minutos, okdiario",3,Habrá Alien Isolation 2: los creadores del original confirman la secuela con un misterioso teaser oficial - Diario AS,2026-04-27 09:41
-económica,3,4,2.4,48,"google_news_economia, google_news_politica",2,"Sánchez Llibre (Foment) tilda a Junts de ""muro de contención"" que ha evitado una crisis económica en España - Forbes España",2026-04-27 09:41
-concurso,3,4,2.4,48,"elcorreo, levante_emv",2,Tubos Reunidos se desploma un 40% en Bolsa ante la inminencia de un concurso de acreedores,2026-04-27 09:41
-empresa,3,4,2.4,48,"google_news_economia, google_news_internacional, levante_emv, okdiario",4,Economía verde como palanca de competitividad y seguridad energética en España: Empresas y Gobierno alinean estrategias - ECOticias.com,2026-04-27 09:41
-actualidad,3,4,2.4,48,"google_news_internacional, okdiario, google_news_es",3,El mundo en cinco minutos: la actualidad internacional de este lunes 27 - Radio Popular de Bilbao,2026-04-27 09:41
-exposición,3,4,2.4,48,"levante_emv, google_news_internacional",2,"Patricia SanMiguel, experta en Marketing Digital: ""La exposición pública de menores por parte de sus propios padres tiene consecuencias a medio y largo plazo""",2026-04-27 09:41
-motivo,3,4,2.4,48,"google_news_internacional, 20minutos",2,La Junta organiza actividades lúdicas y formativas en la Sala Trajano con motivo del Día Internacional de la Danza - Onda Cero Sur Extremadura,2026-04-27 09:41
-subida,5,7,2.29,45,"levante_emv, okdiario, google_news_es",3,El Ibex 35 abre con una ligera subida pendiente del petróleo y Oriente Próximo,2026-04-27 09:41
-estrecho,5,7,2.29,45,okdiario,1,Ni Ormuz ni Bering: el estrecho más conflictivo es español y en él han ocurrido más de 134 naufragios,2026-04-27 09:41
-alerta,4,6,2.13,42,"google_news_economia, elcorreo, okdiario",3,Fedea alerta de que el avance de las renovables en España solo aliviará muy modestamente el shock energético - Demócrata,2026-04-27 09:41
-silencio,4,6,2.13,42,"google_news_internacional, levante_emv, okdiario",3,La nueva campaña de Jeep pone el foco en el silencio - MarketingNews,2026-04-27 09:41
-siempre,4,6,2.13,42,"levante_emv, elpais",2,"Cristhian Mosquera, defensa del Arsenal: ""Aprendo mucho cada día y trato de mejorar siempre""",2026-04-27 09:41
-estamos,4,6,2.13,42,"heraldo_aragon, okdiario, huffington_es, infolibre",4,"Pasajeros del tren Huesca-Zaragoza denuncian incidencias y retrasos semanales: ""Estamos hartos""",2026-04-27 09:41
-joven,4,6,2.13,42,"elconfidencial, okdiario, huffington_es",3,Herido potencialmente grave un joven de 18 años agredido con arma blanca en Madrid,2026-04-27 09:41
-médicos,6,9,2.13,42,"okdiario, eldiario, levante_emv, elconfidencial, google_news_es",5,Detenida en Alicante una salvadoreña por llevar a cabo tratamientos médicos sin titulación,2026-04-27 09:41
-segunda,6,9,2.13,42,"elcorreo, google_news_internacional, huffington_es, levante_emv",4,Ermua convoca su segunda Acampada Infantil municipal,2026-04-27 09:41
-vanguardia,4,6,2.13,42,"efe, google_news_es, google_news_internacional",3,"Director de SEO/BirdLife Europa: España,a la vanguardia de la conservación de biodiversidad",2026-04-27 09:41
-españa,71,110,2.07,41,"google_news_internacional, google_news_economia, okdiario, efe, eldiario",5,"El gasto militar de España sube un 50% y supera el 2% del PIB, algo inédito desde 1994 - Andalucía Información",2026-04-27 09:41
-gobierno,14,22,2.04,40,"google_news_economia, levante_emv, europapress, 20minutos, efe",5,Economía verde como palanca de competitividad y seguridad energética en España: Empresas y Gobierno alinean estrategias - ECOticias.com,2026-04-27 09:41
+sirve,5,2,7.48,100,"huffington_es, elcorreo, heraldo_aragon",3,Juan José Millás cuenta lo que pasa en los restaurantes del centro de Sevilla y sirve de aviso a navegantes: &quot;Es una cosa tremenda&quot;,2026-04-27 10:10
+multinacionales,3,0,5.0,100,"expansion, google_news_economia",2,"Sánchez promete a las multinacionales ""estabilidad y rentabilidad"" para sus inversiones a largo plazo",2026-04-27 10:10
+invest,7,0,5.0,100,"levante_emv, google_news_es, google_news_internacional, sur, google_news_economia",5,"Catorze investigats per desordes públics, amenaces i càntics racistes a Alginet",2026-04-27 10:10
+spain,7,0,5.0,100,"google_news_politica, google_news_internacional, levante_emv, google_news_economia",4,Por qué la confianza y el cuidado se han convertido en temas clave de las reformas en España - russpain.com,2026-04-27 10:10
+summit,7,0,5.0,100,"google_news_internacional, levante_emv, google_news_economia",3,Moncloa: Pedro Sánchez inaugura la segunda edición del foro internacional Invest in Spain Summit - LaCerca.com,2026-04-27 10:10
+montaje,4,2,5.98,100,"20minutos, heraldo_aragon",2,Resuelto el misterio de 'Michael' y sus nuevas escenas: el montaje incluía las acusaciones contra el cantante,2026-04-27 10:10
+desploma,3,0,5.0,100,"expansion, elcorreo",2,Tubos Reunidos se desploma hasta un 40% en Bolsa  ante un eventual concurso,2026-04-27 10:10
+tratamientos,3,0,5.0,100,"okdiario, elconfidencial, heraldo_aragon",3,Detenida en Alicante una salvadoreña por llevar a cabo tratamientos médicos sin titulación,2026-04-27 10:10
+llegada,3,0,5.0,100,"heraldo_aragon, maldita, 20minutos",3,Un grupo de viandantes apaga un incendio en la ribera del Ebro antes de la llegada de los bomberos,2026-04-27 10:10
+principales,5,0,5.0,100,"expansion, google_news_es, okdiario, levante_emv",4,Los principales bancos centrales ganan tiempo antes de subir los tipos de interés,2026-04-27 10:10
+secuestro,3,1,8.97,100,"elcorreo, 20minutos",2,"Esteban Andrada, de cosechar uvas para sobrevivir y sufrir un secuestro exprés a protagonizar una tangana vergonzosa",2026-04-27 10:10
+decisión,4,1,11.96,100,"okdiario, 20minutos",2,Alaska critica la decisión política de RTVE de abandonar Eurovisión y pedir el boicot por Israel: «Es exclusión»,2026-04-27 10:10
+prevé,4,2,5.98,100,"google_news_es, okdiario, levante_emv",3,Pujol prevé no declarar en su cita de hoy ante la Audiencia Nacional - La Vanguardia,2026-04-27 10:10
+1.200,3,1,8.97,100,"elconfidencial, google_news_es, levante_emv",3,Madrid acoge un show de Harry Potter con 1.200 drones durante dos únicas noches: fechas y cómo comprar entradas,2026-04-27 10:10
+tenedores,6,3,5.98,100,"google_news_economia, elcorreo",2,Menos pequeños propietarios y más grandes tenedores: solo 6 de cada 10 hogares son propietarios de su vivienda en España - articulo14.es,2026-04-27 10:10
+petróleo,4,0,5.0,100,"el_confidencial_tech, levante_emv, okdiario, google_news_es",4,Un satélite europeo fotografía el Golfo Pérsico y descubre que 'las Maldivas de Irán' se están inundando de petróleo,2026-04-27 10:10
+encuentra,3,0,5.0,100,"okdiario, elespanol, huffington_es",3,Ya en Netflix: una de las mejores interpretaciones de Emma Thompson se encuentra en esta hermosa adaptación de un clásico literario que ganó un Oscar,2026-04-27 10:10
+confidencial,3,1,8.97,100,"google_news_internacional, google_news_es",2,El inesperado papel de la reina Sofía en Suecia: su misión internacional en solitario - Confidencial Digital,2026-04-27 10:10
+fedea,3,0,5.0,100,google_news_economia,1,Fedea alerta de que el avance de las renovables en España solo aliviará muy modestamente el shock energético - Demócrata,2026-04-27 10:10
+renovables,4,0,5.0,100,"google_news_economia, google_news_es",2,Fedea alerta de que el avance de las renovables en España solo aliviará muy modestamente el shock energético - Demócrata,2026-04-27 10:10
+modestamente,3,0,5.0,100,google_news_economia,1,Fedea alerta de que el avance de las renovables en España solo aliviará muy modestamente el shock energético - Demócrata,2026-04-27 10:10
+conducir,3,0,5.0,100,"eldiario, maldita, elcorreo",3,"Con más de 2.000 años de antigüedad, este puente francés llegó a conducir 200 millones de litros de agua diarios",2026-04-27 10:10
+libra,7,1,20.93,100,"okdiario, elespanol, elmundo_espana, elmundo, eldiario",5,Jordi Pujol se libra de ser juzgado por su fortuna ilícita gracias a su «deterioro cognitivo»,2026-04-27 10:10
+inaugura,7,0,5.0,100,"google_news_internacional, levante_emv",2,Moncloa: Pedro Sánchez inaugura la segunda edición del foro internacional Invest in Spain Summit - LaCerca.com,2026-04-27 10:10
+deterioro,7,0,5.0,100,"elcorreo, okdiario, europapress, elpais, eldiario",5,La Audiencia exime a Pujol de declarar en su juicio por el deterioro de su salud,2026-04-27 10:10
+avisa,5,0,5.0,100,"google_news_economia, huffington_es, okdiario, elconfidencial",4,"Fedea avisa de que el peso de las renovables en España sólo mitigará ""muy modestamente"" el shock energético - Forbes España",2026-04-27 10:10
+declarar,7,1,20.93,100,"elcorreo, levante_emv, 20minutos, google_news_es, elespanol",5,La Audiencia exime a Pujol de declarar en su juicio por el deterioro de su salud,2026-04-27 10:10
+semanal,3,0,5.0,100,"okdiario, heraldo_aragon, google_news_es",3,"Avance semanal de ‘La Promesa’, del 27 al 30 de abril: Santos descubre la verdad sobre la muerte de su madre",2026-04-27 10:10
+trabajador,3,0,5.0,100,"europapress, google_news_economia, 20minutos, levante_emv, heraldo_aragon",5,Trabajadores de institutos de L'Hospitalet (Barcelona) critican la presencia de Mossos en centros,2026-04-27 10:10
+recortes,3,0,5.0,100,"google_news_es, elcorreo, google_news_economia",3,Ryanair amenaza con más recortes en España si Aena sube las tasas aeroportuarias - Canarias7,2026-04-27 10:10
+aeroportuarias,3,0,5.0,100,"google_news_es, elcorreo, google_news_economia",3,Ryanair amenaza con más recortes en España si Aena sube las tasas aeroportuarias - Canarias7,2026-04-27 10:10
+recomiendan,4,1,11.96,100,"heraldo_aragon, okdiario",2,Por qué recomiendan aplicar bicarbonato de sodio y romero en las canas y para qué sirve,2026-04-27 10:10
+financiero,3,0,5.0,100,"levante_emv, google_news_internacional, google_news_economia",3,CBNK se lanza a la gestión integral de farmacias con una nueva plataforma de servicios no financieros,2026-04-27 10:10
+valor,3,1,8.97,100,"okdiario, google_news_internacional, sur, levante_emv, 20minutos",5,Un jardinero encuentra 10 lingotes de oro mientras cortaba el césped por valor de 40.000 euros y ahora buscan a su dueño,2026-04-27 10:10
+estudiantes,4,1,11.96,100,"google_news_internacional, elespanol, okdiario, 20minutos",4,Herencia celebra por 2º año el Día Internacional de la Danza con los estudiantes de la Universidad Popular - Lanza Digital,2026-04-27 10:10
+comité,3,0,5.0,100,"google_news_internacional, efe",2,El comité empresarial de la OCDE sitúa a CaixaBank como modelo internacional de educación financiera - El Mundo Financiero,2026-04-27 10:10
+operación,14,4,10.47,100,"okdiario, levante_emv, google_news_es, huffington_es, 20minutos",5,"Juicio por la operación Kitchen y ‘caso mascarillas’, en directo: Soraya Sáenz de Santamaría, Willy Bárcenas y Arenas declaran ante la Audiencia Nacional hoy",2026-04-27 10:10
+‘caso,4,2,5.98,100,okdiario,1,"Juicio por la operación Kitchen y ‘caso mascarillas’, en directo: Soraya Sáenz de Santamaría, Willy Bárcenas y Arenas declaran ante la Audiencia Nacional hoy",2026-04-27 10:10
+mascarillas’,4,0,5.0,100,okdiario,1,"Juicio por la operación Kitchen y ‘caso mascarillas’, en directo: Soraya Sáenz de Santamaría, Willy Bárcenas y Arenas declaran ante la Audiencia Nacional hoy",2026-04-27 10:10
+soraya,9,3,8.97,100,"okdiario, google_news_es, huffington_es, 20minutos, elespanol",5,"Juicio por la operación Kitchen y ‘caso mascarillas’, en directo: Soraya Sáenz de Santamaría, Willy Bárcenas y Arenas declaran ante la Audiencia Nacional hoy",2026-04-27 10:10
+declaran,8,0,5.0,100,"okdiario, google_news_es, elconfidencial, huffington_es, 20minutos",5,"Juicio por la operación Kitchen y ‘caso mascarillas’, en directo: Soraya Sáenz de Santamaría, Willy Bárcenas y Arenas declaran ante la Audiencia Nacional hoy",2026-04-27 10:10
+color,3,0,5.0,100,"okdiario, elcorreo, google_news_es, 20minutos",4,Olvida las zapatillas blancas: a todo el mundo le encantan las Sambas color capuchino de Adidas,2026-04-27 10:10
+gines,3,0,5.0,100,"okdiario, google_news_es",2,El Longines Global Champions Tour regresa a Madrid en su 115ª edición con las entradas ya a la venta,2026-04-27 10:10
+canal,3,1,8.97,100,"google_news_internacional, okdiario",2,Programa especial gratuito en Teatros del Canal por el Día Internacional de la Danza - Vivir Ediciones,2026-04-27 10:10
+fundación,3,1,8.97,100,"google_news_internacional, elcorreo",2,La UGR presente en la XI Edición Internacional del Día de la Fundación de Roma - Universidad de Granada,2026-04-27 10:10
+naranja,3,0,5.0,100,"google_news_internacional, 20minutos",2,L’Alfàs del Pi se tiñe de naranja: la comunidad neerlandesa impulsa la convivencia internacional - Información,2026-04-27 10:10
+tormentas,4,0,5.0,100,"20minutos, elcorreo, elmundo_espana, eldiario",4,"Burgos, León y Palencia, en aviso amarillo hoy por lluvias y tormentas",2026-04-27 10:10
+exime,8,0,5.0,100,"elcorreo, elconfidencial, europapress, eldiario, google_news_es",5,La Audiencia exime a Pujol de declarar en su juicio por el deterioro de su salud,2026-04-27 10:10
+fortuna,12,2,17.94,100,"okdiario, elconfidencial, google_news_es, elespanol, elpais",5,Jordi Pujol se libra de ser juzgado por su fortuna ilícita gracias a su «deterioro cognitivo»,2026-04-27 10:10
+forbes,5,1,14.95,100,google_news_economia,1,"Fedea avisa de que el peso de las renovables en España sólo mitigará ""muy modestamente"" el shock energético - Forbes España",2026-04-27 10:10
+tasas,4,1,11.96,100,"google_news_economia, google_news_es, elcorreo",3,Ryanair advierte de que su oferta en España retrocederá por primera vez en 2027 por la subida de las tasas - La Razón,2026-04-27 10:10
+manpowergroup,3,0,5.0,100,google_news_economia,1,"El 78% de las empresas tecnológicas en España no logra cubrir sus vacantes, según ManpowerGroup - Europa Press",2026-04-27 10:10
+máximos,3,0,5.0,100,google_news_economia,1,"Savills eleva a 950 millones la inversión en oficinas en España, máximos desde 2011 - PressDigital",2026-04-27 10:10
+marzo,5,0,5.0,100,"google_news_internacional, 20minutos, expansion, google_news_es",4,Málaga supera 312.000 pernoctaciones hoteleras en marzo con impulso internacional - vidaeconomica.com,2026-04-27 10:10
+lluvias,6,0,5.0,100,"sur, okdiario, 20minutos, eldiario, elconfidencial",5,Vuelven las lluvias de barro esta semana en Málaga,2026-04-27 10:10
+decreto,3,1,8.97,100,"eldiario, huffington_es, 20minutos",3,Sumar se abre a dar ayudas fiscales a caseros y al IVA franquiciado para que Junts salve el decreto de los alquileres,2026-04-27 10:10
+condiciones,4,1,11.96,100,"google_news_internacional, 20minutos, levante_emv",3,Crónica internacional - Irán asegura que ha avanzado en los contactos con los mediadores pakistaníes sobre las las condiciones específicas para volver a negociar con EEUU - RTVE.es,2026-04-27 10:10
+específicas,3,0,5.0,100,"google_news_internacional, 20minutos, levante_emv",3,Crónica internacional - Irán asegura que ha avanzado en los contactos con los mediadores pakistaníes sobre las las condiciones específicas para volver a negociar con EEUU - RTVE.es,2026-04-27 10:10
+profesional,3,1,8.97,100,"google_news_es, google_news_internacional, 20minutos, elespanol",4,La fecha de lanzamiento y el precio de Steam Machine podrían anunciarse pronto - Profesional Review,2026-04-27 10:10
+sanción,4,0,5.0,100,"elmundo, okdiario, heraldo_aragon",3,De perder con Boca la final de la Libertadores en el Bernabéu al puñetazo a Pulido: el portero Andrada se prepara para recibir una sanción histórica en LaLiga,2026-04-27 10:10
+shakira,6,0,5.0,100,"huffington_es, 20minutos, google_news_es, heraldo_aragon",4,Alejandro Sanz se pronuncia sobre los sonados rumores que le han relacionado con Shakira: &quot;Ella tenía su novio&quot;,2026-04-27 10:10
+claves,6,2,8.97,100,"20minutos, okdiario, google_news_es",3,"Las claves del increíble récord de Sabastian Sawe: un ritmo infernal, el desayuno más simple y zapatillas de 500 euros",2026-04-27 10:10
+cocaína,3,0,5.0,100,"sur, elespanol",2,Investigan al conductor de un camión tras salirse de la vía y dar positivo en cannabis y cocaína en Málaga,2026-04-27 10:10
+podrían,3,1,8.97,100,"google_news_es, okdiario, huffington_es",3,La fecha de lanzamiento y el precio de Steam Machine podrían anunciarse pronto - Profesional Review,2026-04-27 10:10
+conciertos,3,1,8.97,100,"eldiario, huffington_es, google_news_internacional",3,"Entradas para ver a Karol G en España en 2027: cómo registrarse para comprar los tickets, fechas y precios de los conciertos",2026-04-27 10:10
+castilla,5,2,7.48,100,"okdiario, 20minutos",2,Conmoción en Castilla y León: 2.329 vecinos se movilizan contra la tala de árboles en el canal más grande de España,2026-04-27 10:10
+transporte,3,0,5.0,100,"levante_emv, expansion, google_news_internacional",3,"Transportes aprueba el proyecto de conexión directa entre la V-30 y la A-3, salvando el cauce del río Turia",2026-04-27 10:10
+zonas,4,1,11.96,100,"20minutos, elconfidencial, elcorreo, okdiario",4,"El BOE publica la declaración de los municipios vascos de Arrasate, Pasaia y Zestoa como zonas tensionadas",2026-04-27 10:10
+menores,3,0,5.0,100,"elespanol, levante_emv, huffington_es",3,Detenido un hombre por exhibicionismo ante dos menores en el Parque de María Luisa durante el Domingo de Feria,2026-04-27 10:10
+desafía,5,2,7.48,100,"google_news_es, elespanol, okdiario, google_news_internacional",4,El cáncer adolescente en TikTok desafía el debate sobre vetar las redes - UOC,2026-04-27 10:10
+tiktok,5,0,5.0,100,"google_news_es, 20minutos, maldita",3,El cáncer adolescente en TikTok desafía el debate sobre vetar las redes - UOC,2026-04-27 10:10
+granizo,4,0,5.0,100,"huffington_es, okdiario, elconfidencial, elcorreo",4,"La Aemet avisa de un vuelco en el tiempo: &quot;Tormenta, granizo y rachas muy fuertes de viento&quot;",2026-04-27 10:10
+fuertes,5,1,14.95,100,"huffington_es, okdiario, heraldo_aragon, elconfidencial, elcorreo",5,"La Aemet avisa de un vuelco en el tiempo: &quot;Tormenta, granizo y rachas muy fuertes de viento&quot;",2026-04-27 10:10
+oficinas,3,0,5.0,100,"google_news_economia, elespanol",2,"Savills eleva a 950 millones la inversión en oficinas en España, máximos desde 2011 - PressDigital",2026-04-27 10:10
+vacantes,3,0,5.0,100,google_news_economia,1,"El 78% de las empresas tecnológicas en España no logra cubrir sus vacantes, según ManpowerGroup - Europa Press",2026-04-27 10:10
+rosalía,4,1,11.96,100,"levante_emv, elpais, huffington_es, 20minutos",4,Rosalía enseña sus moratones al preparar su sensual baile para 'Euphoria',2026-04-27 10:10
+cubrir,3,0,5.0,100,google_news_economia,1,"El 78% de las empresas tecnológicas en España no logra cubrir sus vacantes, según ManpowerGroup - Europa Press",2026-04-27 10:10
+francés,4,1,11.96,100,"eldiario, 20minutos",2,"Con más de 2.000 años de antigüedad, este puente francés llegó a conducir 200 millones de litros de agua diarios",2026-04-27 10:10
+bancos,7,3,6.98,100,"elcorreo, expansion, google_news_es, levante_emv, google_news_economia",5,Aprovecha el espacio con estos bancos zapateros que sirven de asiento y de almacenaje,2026-04-27 10:10
+conservación,3,0,5.0,100,"20minutos, efe",2,Las constructoras reclaman un peaje de 111 euros al año por conductor para financiar la conservación de las carreteras,2026-04-27 10:10
+demencia,5,0,5.0,100,"elconfidencial, google_news_es, 20minutos, elespanol",4,La Audiencia Nacional exime a Jordi Pujol por demencia de la causa por la fortuna oculta,2026-04-27 10:10
+oculta,9,4,6.73,100,"elconfidencial, google_news_es, elespanol, elpais, eldiario",5,La Audiencia Nacional exime a Jordi Pujol por demencia de la causa por la fortuna oculta,2026-04-27 10:10
+exonera,5,1,14.95,100,"elconfidencial, google_news_es, elpais, 20minutos",4,La Audiencia exonera a Jordi Pujol padre por su delicado estado de salud,2026-04-27 10:10
+artistas,3,1,8.97,100,"eldiario, 20minutos",2,Más allá de Amaia y Guitarricadelafuente: estos son los artistas españoles que han pasado por Tiny Desk,2026-04-27 10:10
+mínimo,5,0,5.0,100,"elconfidencial, google_news_es, maldita, levante_emv",4,El megaoutlet que aterriza en Madrid con gangas desde 10 euros: electrodomésticos y devoluciones de Amazon a precios mínimos,2026-04-27 10:10
+colegio,3,0,5.0,100,"levante_emv, elpais",2,Torre de Piles es el nombre que propondrá la comunidad educativa a la conselleria para el nuevo colegio,2026-04-27 10:10
+cognitivo,4,0,5.0,100,"okdiario, europapress, elpais, eldiario, 20minutos",5,Jordi Pujol se libra de ser juzgado por su fortuna ilícita gracias a su «deterioro cognitivo»,2026-04-27 10:10
+germán,4,0,5.0,100,google_news_economia,1,Germán Larrea asume la dirección general de Verisure en España - Demócrata,2026-04-27 10:10
+larrea,4,0,5.0,100,google_news_economia,1,Germán Larrea asume la dirección general de Verisure en España - Demócrata,2026-04-27 10:10
+próximo,4,1,11.96,100,"elespanol, levante_emv, 20minutos, google_news_es, huffington_es",5,"Tres incendios nocturnos en A Coruña ponen en jaque a los bomberos: los tres focos, muy próximos",2026-04-27 10:10
+verisure,4,0,5.0,100,google_news_economia,1,Germán Larrea asume la dirección general de Verisure en España - Demócrata,2026-04-27 10:10
+muerto,3,1,8.97,100,"heraldo_aragon, elcorreo, 20minutos, huffington_es, elespanol",5,"La emotiva despedida de la viuda del ganadero taurino muerto por las cornadas de un toro: ""No sé ni como tener fuerza para escribir esto""",2026-04-27 10:10
+tener,7,4,5.23,100,"heraldo_aragon, okdiario, levante_emv, maldita, huffington_es",5,"La emotiva despedida de la viuda del ganadero taurino muerto por las cornadas de un toro: ""No sé ni como tener fuerza para escribir esto""",2026-04-27 10:10
+debido,3,0,5.0,100,"elespanol, elpais",2,El tribunal libra a Jordi Pujol del juicio sobre su fortuna debido a su estado de salud y tras entrevistarse con él,2026-04-27 10:10
+imposible,5,1,14.95,100,"europapress, okdiario, 20minutos, levante_emv",4,"El hijo de Bárcenas cree que hubo una orden del Gobierno de Rajoy para ""hacerle la vida imposible"" a su padre en prisión",2026-04-27 10:10
+señalan,3,0,5.0,100,"levante_emv, google_news_es",2,Las eléctricas y la gran industria se unen para vigilar los sobrecostes disparados de la luz tras el apagón y señalan a Red Eléctrica,2026-04-27 10:10
+miura,3,0,5.0,100,"eldiario, okdiario, levante_emv",3,"Encerrados a 300 metros de profundidad en la Mina Miura, en Asturias: denuncian el impago acumulado de nóminas",2026-04-27 10:10
+tecnológicas,4,0,5.0,100,"google_news_economia, expansion",2,"El 78% de las empresas tecnológicas en España no logra cubrir sus vacantes, según ManpowerGroup - Europa Press",2026-04-27 10:10
+colocar,4,0,5.0,100,"heraldo_aragon, okdiario",2,Por qué recomiendan colocar una hoja de laurel dentro de la almohada y para qué sirve,2026-04-27 10:10
+audiencia,26,5,15.55,100,"okdiario, elcorreo, elconfidencial, europapress, google_news_es",5,"Juicio por la operación Kitchen y ‘caso mascarillas’, en directo: Soraya Sáenz de Santamaría, Willy Bárcenas y Arenas declaran ante la Audiencia Nacional hoy",2026-04-27 10:10
+fijado,3,0,5.0,100,"google_news_internacional, 20minutos, levante_emv",3,"Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | El negociador iraní asegura que la visita del fin de semana a Pakistán fue “muy buena” y que se han fijado “condiciones específicas” para continuar el diálogo con EE UU - EL PAÍS",2026-04-27 10:10
+padre,14,5,8.37,100,"okdiario, elespanol, expansion, elconfidencial, elpais",5,Willy Bárcenas dice que su padre le habló de unas grabaciones en el «despacho de Rajoy»: «Pero yo no las escuché»,2026-04-27 10:10
+posiciona,3,1,8.97,100,"levante_emv, google_news_economia",2,Sánchez posiciona a España como una “apuesta segura” para la inversión ante la incertidumbre geopolítica,2026-04-27 10:10
+“apuesta,3,0,5.0,100,"levante_emv, google_news_economia",2,Sánchez posiciona a España como una “apuesta segura” para la inversión ante la incertidumbre geopolítica,2026-04-27 10:10
+segura”,3,0,5.0,100,"levante_emv, google_news_economia",2,Sánchez posiciona a España como una “apuesta segura” para la inversión ante la incertidumbre geopolítica,2026-04-27 10:10
+habló,4,0,5.0,100,"okdiario, elespanol, elconfidencial",3,Willy Bárcenas dice que su padre le habló de unas grabaciones en el «despacho de Rajoy»: «Pero yo no las escuché»,2026-04-27 10:10
+incertidumbre,5,2,7.48,100,"levante_emv, google_news_economia, okdiario, google_news_internacional",4,Sánchez posiciona a España como una “apuesta segura” para la inversión ante la incertidumbre geopolítica,2026-04-27 10:10
+geopolítica,5,0,5.0,100,"levante_emv, google_news_economia, google_news_internacional, okdiario",4,Sánchez posiciona a España como una “apuesta segura” para la inversión ante la incertidumbre geopolítica,2026-04-27 10:10
+levante-emv,3,1,8.97,100,"google_news_economia, google_news_internacional",2,Sánchez posiciona a España como una “apuesta segura” para la inversión ante la incertidumbre geopolítica - Levante-EMV,2026-04-27 10:10
+mouratoglou,3,0,5.0,100,20minutos,1,"Patrick Mouratoglou, mítico entrenador francés: ""Que Carlos Alcaraz no juegue en Roland Garros es una decisión madura""",2026-04-27 10:10
+supuesta,4,2,5.98,100,"maldita, 20minutos",2,Los timos de la supuesta renovación de la tarjeta sanitaria: cómo intentan engañarte haciéndose pasar por el Ministerio de Sanidad y el Sistema Nacional de Salud,2026-04-27 10:10
+basura,3,1,8.97,100,"okdiario, 20minutos, elmundo_internacional",3,Roba un banco en Vallecas y le pillan escondiendo el botín en un cubo de basura,2026-04-27 10:10
+marina,4,0,5.0,100,"levante_emv, google_news_economia, 20minutos, google_news_internacional",4,Tercer rescate en dos días en las montañas de la Marina Alta: evacuado en helicóptero un senderista de 55 años que se lesionó en la Serra del Migdia de Pego,2026-04-27 10:10
+indumentaria,3,0,5.0,100,"google_news_internacional, levante_emv",2,"VÍDEO | VI Festival Internacional de Indumentaria Tradicional ""Indufest"" en Zamora - La Opinión de Zamora",2026-04-27 10:10
+tradicional,3,1,8.97,100,"google_news_internacional, 20minutos",2,"VÍDEO | VI Festival Internacional de Indumentaria Tradicional ""Indufest"" en Zamora - La Opinión de Zamora",2026-04-27 10:10
+zamora,4,1,11.96,100,google_news_internacional,1,"VÍDEO | VI Festival Internacional de Indumentaria Tradicional ""Indufest"" en Zamora - La Opinión de Zamora",2026-04-27 10:10
+capaz,3,1,8.97,100,"okdiario, google_news_internacional",2,La ciencia lo confirma y es oficial: la cafeína es capaz de «coser» los circuitos de la memoria dañados por no dormir,2026-04-27 10:10
+banco,5,1,14.95,100,"okdiario, 20minutos, elcorreo, expansion, google_news_es",5,Roba un banco en Vallecas y le pillan escondiendo el botín en un cubo de basura,2026-04-27 10:10
+bárcenas,29,7,12.39,100,"okdiario, elespanol, elconfidencial, elcorreo, elpais",5,Willy Bárcenas dice que su padre le habló de unas grabaciones en el «despacho de Rajoy»: «Pero yo no las escuché»,2026-04-27 10:10
+willy,14,4,10.47,100,"okdiario, google_news_es, elconfidencial, huffington_es, 20minutos",5,Willy Bárcenas dice que su padre le habló de unas grabaciones en el «despacho de Rajoy»: «Pero yo no las escuché»,2026-04-27 10:10
+declara,7,0,5.0,100,"elespanol, okdiario, elcorreo, levante_emv, eldiario",5,"El hijo de Bárcenas declara que su padre le habló de una ""grabación a Rajoy"" sobre ""la contabilidad B"" del PP",2026-04-27 10:10
+directa,5,1,14.95,100,"levante_emv, huffington_es, 20minutos, expansion",4,"Transportes aprueba el proyecto de conexión directa entre la V-30 y la A-3, salvando el cauce del río Turia",2026-04-27 10:10
+conexión,5,0,5.0,100,"levante_emv, google_news_economia, okdiario",3,"Transportes aprueba el proyecto de conexión directa entre la V-30 y la A-3, salvando el cauce del río Turia",2026-04-27 10:10
+aprueba,3,1,8.97,100,levante_emv,1,"Transportes aprueba el proyecto de conexión directa entre la V-30 y la A-3, salvando el cauce del río Turia",2026-04-27 10:10
+madura,3,0,5.0,100,"google_news_internacional, 20minutos",2,La Junta organiza actividades lúdicas y formativas en la Sala Trajano con motivo del Día Internacional de la Danza - Onda Cero Sur Extremadura,2026-04-27 10:10
+juicio,34,11,9.24,100,"google_news_es, okdiario, elcorreo, elpais, elespanol",5,"Juicio del caso Kitchen, en directo | Arenas defiende que ""nunca"" tuvo conocimiento de la grabación de - LaSexta",2026-04-27 10:10
+kitchen,26,6,12.96,100,"google_news_es, levante_emv, okdiario, elcorreo, elpais",5,"Juicio del caso Kitchen, en directo | Arenas defiende que ""nunca"" tuvo conocimiento de la grabación de - LaSexta",2026-04-27 10:10
+arenas,15,3,14.95,100,"google_news_es, elconfidencial, elcorreo, okdiario, huffington_es",5,"Juicio del caso Kitchen, en directo | Arenas defiende que ""nunca"" tuvo conocimiento de la grabación de - LaSexta",2026-04-27 10:10
+conocimiento,3,0,5.0,100,"google_news_es, elcorreo, 20minutos",3,"Juicio del caso Kitchen, en directo | Arenas defiende que ""nunca"" tuvo conocimiento de la grabación de - LaSexta",2026-04-27 10:10
+grabación,9,1,26.91,100,"google_news_es, elespanol, elcorreo, elconfidencial, eldiario",5,"Juicio del caso Kitchen, en directo | Arenas defiende que ""nunca"" tuvo conocimiento de la grabación de - LaSexta",2026-04-27 10:10
+plantas,3,1,8.97,100,"elcorreo, google_news_internacional",2,"Teknia gana 1,2 millones, un 61% menos, por el coste de cerrar las plantas de Turquía y Alemania",2026-04-27 10:10
+garros,3,1,8.97,100,20minutos,1,"Patrick Mouratoglou, mítico entrenador francés: ""Que Carlos Alcaraz no juegue en Roland Garros es una decisión madura""",2026-04-27 10:10
+malaga,6,2,8.97,100,sur,1,Malaga weather: mud showers return to the province this week,2026-04-27 10:10
+rfet.es,3,0,5.0,100,"google_news_internacional, google_news_es",2,El valenciano Javier Ballester estrena su casillero en el internacional júnior de Zaragoza - rfet.es,2026-04-27 10:10
+gandia,3,1,8.97,100,levante_emv,1,"Soler (PP) rebaja la deuda de la Generalitat con Gandia a 2,7 millones frente a los 10 que alega el gobierno local",2026-04-27 10:10
+sáenz,16,4,11.96,100,"levante_emv, okdiario, elcorreo, google_news_es, elconfidencial",5,"Sáenz de Santamaría, sobre si el CNI participó en la Kitchen: ""Absolutamente no""",2026-04-27 10:10
+santamaría,15,5,8.97,100,"levante_emv, okdiario, elcorreo, google_news_es, elconfidencial",5,"Sáenz de Santamaría, sobre si el CNI participó en la Kitchen: ""Absolutamente no""",2026-04-27 10:10
+roland,3,1,8.97,100,20minutos,1,"Patrick Mouratoglou, mítico entrenador francés: ""Que Carlos Alcaraz no juegue en Roland Garros es una decisión madura""",2026-04-27 10:10
+juegue,3,0,5.0,100,20minutos,1,"Patrick Mouratoglou, mítico entrenador francés: ""Que Carlos Alcaraz no juegue en Roland Garros es una decisión madura""",2026-04-27 10:10
+industrial,4,1,11.96,100,"europapress, google_news_internacional, sur, levante_emv, elcorreo",5,Sánchez anuncia la adjudicación de 500 millones en 18 proyectos para la descarbonización industrial,2026-04-27 10:10
+transportes,3,0,5.0,100,levante_emv,1,"Transportes aprueba el proyecto de conexión directa entre la V-30 y la A-3, salvando el cauce del río Turia",2026-04-27 10:10
+andorra,6,0,5.0,100,"levante_emv, google_news_es, elmundo_espana, elmundo",4,"Jordi Pujol Ferrusola: ""Fue una orden el encargo de la gestión de los fondos de Andorra""",2026-04-27 10:10
+entradas,4,0,5.0,100,"okdiario, elconfidencial, eldiario, heraldo_aragon",4,El Longines Global Champions Tour regresa a Madrid en su 115ª edición con las entradas ya a la venta,2026-04-27 10:10
+tribunal,5,2,7.48,100,"elcorreo, levante_emv, elespanol",3,El tribunal excluye a Jordi Pujol de la causa tras examinarlo los forenses de la AN,2026-04-27 10:10
+celebrará,3,0,5.0,100,"google_news_internacional, levante_emv",2,La Comunidad de Madrid celebrará el Día Internacional de la Danza con actividades gratuitas - El Diario de Madrid,2026-04-27 10:10
+propietarios,10,4,7.48,100,"huffington_es, levante_emv, google_news_economia, elcorreo",4,&#039;¿Cómo que no ha cambiado nada desde 2008?&#039;: la mayoría de propietarios ya tiene dos o más viviendas,2026-04-27 10:10
+robar,4,1,11.96,100,"levante_emv, sur, 20minutos, huffington_es",4,Detenido en Cullera tras asaltar una vivienda con los propietarios dentro y robar en varios vehículos,2026-04-27 10:10
+apoyos,3,0,5.0,100,"elcorreo, 20minutos",2,La insultan tras publicar un vídeo en la Feria de Abril y le llueven los apoyos: de Ane Igartiburu a Paula Echevarría,2026-04-27 10:10
+baterías,3,0,5.0,100,"google_news_economia, okdiario",2,Grenergy sella un ‘tolling’ financiero a 12 años para las baterías de su gran proyecto híbrido Escuderos en España - Demócrata,2026-04-27 10:10
+eleva,3,0,5.0,100,google_news_economia,1,España eleva un 50 % su gasto militar y supera por primera vez el 2 % del PIB desde 1994 - MARCA,2026-04-27 10:10
+gasto,10,5,5.98,100,"google_news_economia, google_news_internacional, levante_emv, 20minutos, huffington_es",5,España eleva un 50 % su gasto militar y supera por primera vez el 2 % del PIB desde 1994 - MARCA,2026-04-27 10:10
+jordi,26,5,15.55,100,"levante_emv, elcorreo, okdiario, elconfidencial, europapress",5,"Jordi Pujol Ferrusola: ""Fue una orden el encargo de la gestión de los fondos de Andorra""",2026-04-27 10:10
+actividades,7,3,6.98,100,"google_news_internacional, okdiario",2,La Comunidad de Madrid celebrará el Día Internacional de la Danza con actividades gratuitas - El Diario de Madrid,2026-04-27 10:10
+acreedores,3,0,5.0,100,"20minutos, elcorreo",2,Tubos Reunidos se hunde en Bolsa ante la inminente presentación de un concurso de acreedores,2026-04-27 10:10
+continuar,3,1,8.97,100,"google_news_internacional, 20minutos, levante_emv",3,"Última hora de la guerra de Estados Unidos e Israel contra Irán, en directo | El negociador iraní asegura que la visita del fin de semana a Pakistán fue “muy buena” y que se han fijado “condiciones específicas” para continuar el diálogo con EE UU - EL PAÍS",2026-04-27 10:10
+economía.-,8,1,23.92,100,google_news_economia,1,Economía.- Dia invierte 180 millones en la ganadería nacional para adquirir leche de origen 100% España - Bolsamania,2026-04-27 10:10
+viajes,3,0,5.0,100,"okdiario, google_news_internacional",2,Quedan 3 días para solicitar los viajes del IMSERSO en España y estos son los destinos libres,2026-04-27 10:10
+bolsamania,8,2,11.96,100,google_news_economia,1,Economía.- Dia invierte 180 millones en la ganadería nacional para adquirir leche de origen 100% España - Bolsamania,2026-04-27 10:10
+institutos,4,1,11.96,100,"eldiario, europapress, elpais, huffington_es",4,Profesores y familias protestan en los dos institutos en los que el Govern destinará mossos de paisano: “Es estigmatizador”,2026-04-27 10:10
+mossos,3,1,8.97,100,"eldiario, europapress, elpais, huffington_es",4,Profesores y familias protestan en los dos institutos en los que el Govern destinará mossos de paisano: “Es estigmatizador”,2026-04-27 10:10
+ryanair,5,0,5.0,100,"google_news_economia, google_news_es, elcorreo, okdiario",4,Ryanair advierte de que su oferta en España retrocederá por primera vez en 2027 por la subida de las tasas - La Razón,2026-04-27 10:10
+reglas,3,1,8.97,100,"levante_emv, okdiario, google_news_internacional",3,"Nuevo EX60 totalmente eléctrico, el SUV de Volvo que cambia las reglas del juego, con autonomía WLTP de hasta 810 km",2026-04-27 10:10
+concentra,5,0,5.0,100,"levante_emv, google_news_economia, elcorreo",3,Concentración en silencio a las puertas de La Fe,2026-04-27 10:10
+tubos,4,0,5.0,100,"20minutos, expansion, elcorreo",3,Tubos Reunidos se hunde en Bolsa ante la inminente presentación de un concurso de acreedores,2026-04-27 10:10
+bolsa,7,3,6.98,100,"20minutos, google_news_economia, expansion, elcorreo, google_news_es",5,Tubos Reunidos se hunde en Bolsa ante la inminente presentación de un concurso de acreedores,2026-04-27 10:10
+orden,4,2,5.98,100,"levante_emv, europapress, okdiario, 20minutos",4,"Jordi Pujol Ferrusola: ""Fue una orden el encargo de la gestión de los fondos de Andorra""",2026-04-27 10:10
+concurso,5,2,7.48,100,"20minutos, expansion, elcorreo, levante_emv",4,Tubos Reunidos se hunde en Bolsa ante la inminente presentación de un concurso de acreedores,2026-04-27 10:10
+pujol,26,5,15.55,100,"levante_emv, elcorreo, okdiario, elconfidencial, europapress",5,"Jordi Pujol Ferrusola: ""Fue una orden el encargo de la gestión de los fondos de Andorra""",2026-04-27 10:10
+temperaturas,4,2,5.98,100,"elmundo_espana, okdiario",2,Lluvias y tormentas activan avisos este lunes en siete Comunidades del norte mientras suben las temperaturas en el sur,2026-04-27 10:10
+reunidos,4,0,5.0,100,"20minutos, expansion, elcorreo",3,Tubos Reunidos se hunde en Bolsa ante la inminente presentación de un concurso de acreedores,2026-04-27 10:10
+equipo,5,3,4.98,99,"levante_emv, google_news_internacional, okdiario",3,Las chicas del equipo cadete del Xàtiva Voleibol se proclaman campeonas autonómicas,2026-04-27 10:10
+empresas,5,3,4.98,99,"eldiario, google_news_economia, google_news_internacional",3,El Supremo rechaza que la Inspección de Trabajo pueda entrar libremente en miles de empresas,2026-04-27 10:10
+causa,5,3,4.98,99,"elcorreo, elconfidencial, eldiario, elmundo_espana, 20minutos",5,El tribunal excluye a Jordi Pujol de la causa tras examinarlo los forenses de la AN,2026-04-27 10:10
+logra,5,3,4.98,99,"google_news_internacional, google_news_economia, okdiario",3,Lucía Sempere logra su mejor resultado internacional en la Copa de Europa de Búlder de Kaunas - Desnivel.com,2026-04-27 10:10
+cielos,3,2,4.49,89,okdiario,1,"Hoy en Castilla y León: cielos poco nubosos con chubascos en el norte, según AEMET",2026-04-27 10:10
+viento,3,2,4.49,89,"huffington_es, okdiario, elconfidencial",3,"La Aemet avisa de un vuelco en el tiempo: &quot;Tormenta, granizo y rachas muy fuertes de viento&quot;",2026-04-27 10:10
+interés,3,2,4.49,89,"google_news_internacional, expansion, google_news_es",3,FocusEconomics otorga a Equipo Económico su cuarto galardón internacional consecutivo por la precisión en previsiones de tipos de interés – Equipo Económico - equipoeconomico.com,2026-04-27 10:10
+honor,3,2,4.49,89,"levante_emv, huffington_es, elespanol",3,La indumentaria de las falleras mayores y cortes de honor de 2027 sale a concurso y con novedades,2026-04-27 10:10
+amazon,3,2,4.49,89,"elconfidencial, levante_emv, elpais",3,El megaoutlet que aterriza en Madrid con gangas desde 10 euros: electrodomésticos y devoluciones de Amazon a precios mínimos,2026-04-27 10:10
+coste,3,2,4.49,89,"elcorreo, levante_emv, google_news_es, okdiario",4,"Teknia gana 1,2 millones, un 61% menos, por el coste de cerrar las plantas de Turquía y Alemania",2026-04-27 10:10
+médico,3,2,4.49,89,"okdiario, eldiario, google_news_es, elmundo, levante_emv",5,Detenida en Alicante una salvadoreña por llevar a cabo tratamientos médicos sin titulación,2026-04-27 10:10
+agenda,3,2,4.49,89,"elcorreo, 20minutos",2,Ermua se rinde al arte y la música con una intensa agenda cultural para mayo,2026-04-27 10:10
+pruebas,3,2,4.49,89,"elconfidencial, elcorreo, maldita",3,"Arenas niega que Bárcenas le mostrase pruebas de la caja B: ""Yo me ocupaba de ganar elecciones""",2026-04-27 10:10
+descubre,3,2,4.49,89,"okdiario, el_confidencial_tech",2,"Avance semanal de ‘La Promesa’, del 27 al 30 de abril: Santos descubre la verdad sobre la muerte de su madre",2026-04-27 10:10
+perros,3,2,4.49,89,"okdiario, 20minutos",2,"Los expertos advierten a los dueños de perros: si tienes que viajar con él, lo mejor es preparar al animal antes",2026-04-27 10:10
+eléctricas,6,4,4.49,89,"levante_emv, google_news_es, 20minutos, huffington_es",4,Las eléctricas y la gran industria se unen para vigilar los sobrecostes disparados de la luz tras el apagón y señalan a Red Eléctrica,2026-04-27 10:10
+tipos,3,2,4.49,89,"google_news_internacional, expansion, google_news_es",3,FocusEconomics otorga a Equipo Económico su cuarto galardón internacional consecutivo por la precisión en previsiones de tipos de interés – Equipo Económico - equipoeconomico.com,2026-04-27 10:10
+psicóloga,3,2,4.49,89,okdiario,1,El lado oscuro de las ‘frutinovelas’: la psicóloga Silvia Sanz advierte de sus peligros,2026-04-27 10:10
+quieren,3,2,4.49,89,"elcorreo, maldita",2,"Alaska pide despolitizar Eurovisión: «Si quieren un festival de las naciones unidas musicales, háganlo»",2026-04-27 10:10
+delclaux,3,2,4.49,89,"eldiario, heraldo_aragon, elmundo",3,"Muere Cosme Delclaux, abogado secuestrado por ETA durante 232 días entre 1996 y 1997",2026-04-27 10:10
+energético,3,2,4.49,89,google_news_economia,1,Fedea alerta de que el avance de las renovables en España solo aliviará muy modestamente el shock energético - Demócrata,2026-04-27 10:10
+cosme,3,2,4.49,89,"eldiario, heraldo_aragon, elmundo",3,"Muere Cosme Delclaux, abogado secuestrado por ETA durante 232 días entre 1996 y 1997",2026-04-27 10:10
+supremo,3,2,4.49,89,"eldiario, maldita, europapress",3,El Supremo rechaza que la Inspección de Trabajo pueda entrar libremente en miles de empresas,2026-04-27 10:10
+avance,6,4,4.49,89,"okdiario, google_news_economia, google_news_es",3,"Avance semanal de ‘La Promesa’, del 27 al 30 de abril: Santos descubre la verdad sobre la muerte de su madre",2026-04-27 10:10
+total,3,2,4.49,89,"elcorreo, okdiario, huffington_es, levante_emv",4,Geely muestra en Auto China 2026 su apuesta total por la Inteligencia Artificial,2026-04-27 10:10
+positivo,3,2,4.49,89,"sur, elespanol",2,Investigan al conductor de un camión tras salirse de la vía y dar positivo en cannabis y cocaína en Málaga,2026-04-27 10:10
+restaurantes,3,2,4.49,89,"huffington_es, okdiario",2,Juan José Millás cuenta lo que pasa en los restaurantes del centro de Sevilla y sirve de aviso a navegantes: &quot;Es una cosa tremenda&quot;,2026-04-27 10:10
+histórica,3,2,4.49,89,"elmundo, okdiario, huffington_es",3,De perder con Boca la final de la Libertadores en el Bernabéu al puñetazo a Pulido: el portero Andrada se prepara para recibir una sanción histórica en LaLiga,2026-04-27 10:10
+educación,3,2,4.49,89,"levante_emv, google_news_internacional",2,La comunidad educativa elige Torre de Piles y lo propondrá a Educación como nombre del nuevo colegio,2026-04-27 10:10
+guardia,3,2,4.49,89,"levante_emv, efe, google_news_es, okdiario, elespanol",5,"La Guardia Civil define el funcionamiento de la trama: ""Aldama se refiere a Ábalos como el jefe, pero él manda, porque el que paga manda""",2026-04-27 10:10
+alejandro,7,5,4.19,83,"huffington_es, google_news_es, 20minutos, elcorreo, heraldo_aragon",5,Alejandro Sanz se pronuncia sobre los sonados rumores que le han relacionado con Shakira: &quot;Ella tenía su novio&quot;,2026-04-27 10:10
+asegura,7,5,4.19,83,"google_news_es, elcorreo, elpais, google_news_internacional",4,"“Asturias no se entiende sin su emigración y sin la Asturias exterior”, asegura Barbón en el cierre de su viaje a México - Principado de Asturias",2026-04-27 10:10
+expertos,4,3,3.99,79,"okdiario, heraldo_aragon",2,"Por qué no se recomienda imprimir los comprobantes en los cajeros automáticos, según los expertos",2026-04-27 10:10
+cocina,4,3,3.99,79,"levante_emv, heraldo_aragon, elcorreo, okdiario",4,El chef José Andrés convierte una especie invasora y venenosa en cocina gourmet,2026-04-27 10:10
+psicología,4,3,3.99,79,"okdiario, google_news_es",2,Las personas que crecieron entre 1960 y 1970 desarrollaron un tipo de resiliencia que hoy pasa desapercibida: lo dice la psicología,2026-04-27 10:10
+junts,4,3,3.99,79,"eldiario, huffington_es, google_news_economia",3,Sumar se abre a dar ayudas fiscales a caseros y al IVA franquiciado para que Junts salve el decreto de los alquileres,2026-04-27 10:10
+ciudad,4,3,3.99,79,"elespanol, okdiario, google_news_internacional, heraldo_aragon, sur",5,Denuncian al conductor de un autobús escolar por dar positivo en cocaína cerca de un centro educativo de Ciudad Real,2026-04-27 10:10
+llega,12,9,3.99,79,"okdiario, infolibre, heraldo_aragon, google_news_es, google_news_internacional",5,"El HUAWEI WATCH FIT 5 Series llega a España: fecha, precios y novedades del nuevo smartwatch",2026-04-27 10:10
+fecha,4,3,3.99,79,"okdiario, elconfidencial, eldiario, google_news_es, elcorreo",5,"El HUAWEI WATCH FIT 5 Series llega a España: fecha, precios y novedades del nuevo smartwatch",2026-04-27 10:10
+santiago,4,3,3.99,79,"google_news_economia, levante_emv, huffington_es",3,"🏡 “La vivienda y el alquiler seguirán subiendo salvo que España sufra una crisis económica provocada por la guerra”. Así de contundente se muestra el catedrático de Economía Santiago Carbó. En una entrevista con ‘Infobae’, reconoce que “no hay suficient - facebook.com",2026-04-27 10:10
+papel,8,6,3.99,79,"google_news_internacional, okdiario, huffington_es, maldita, 20minutos",5,El inesperado papel de la reina Sofía en Suecia: su misión internacional en solitario - Confidencial Digital,2026-04-27 10:10
+rajoy,10,8,3.74,74,"okdiario, elespanol, elcorreo, elconfidencial, google_news_es",5,Willy Bárcenas dice que su padre le habló de unas grabaciones en el «despacho de Rajoy»: «Pero yo no las escuché»,2026-04-27 10:10
+tenía,5,4,3.74,74,"google_news_es, huffington_es, levante_emv, 20minutos",4,Willy Bárcenas afirma que su padre le contó que tenía una grabación de Rajoy y Arenas e insiste en que les - LaSexta,2026-04-27 10:10
+cuidado,5,4,3.74,74,"google_news_politica, maldita, elpais",3,Por qué la confianza y el cuidado se han convertido en temas clave de las reformas en España - russpain.com,2026-04-27 10:10
+economía,5,4,3.74,74,google_news_economia,1,"🏡 “La vivienda y el alquiler seguirán subiendo salvo que España sufra una crisis económica provocada por la guerra”. Así de contundente se muestra el catedrático de Economía Santiago Carbó. En una entrevista con ‘Infobae’, reconoce que “no hay suficient - facebook.com",2026-04-27 10:10
+reúne,5,4,3.74,74,"google_news_economia, google_news_internacional, levante_emv",3,Economía.- El Gobierno reúne este lunes a 75 multinacionales de 25 países en el foro 'Invest in Spain Summit' - Bolsamania,2026-04-27 10:10
+proyecto,5,4,3.74,74,"europapress, levante_emv, google_news_economia",3,Sánchez anuncia la adjudicación de 500 millones en 18 proyectos para la descarbonización industrial,2026-04-27 10:10
+inversión,5,4,3.74,74,"levante_emv, google_news_economia",2,Sánchez posiciona a España como una “apuesta segura” para la inversión ante la incertidumbre geopolítica,2026-04-27 10:10
+juego,5,4,3.74,74,"levante_emv, okdiario, google_news_es, elcorreo",4,La final del VCT EMEA Stage 2 se celebrará en Barcelona con una plaza para Shanghai en juego,2026-04-27 10:10
+aemet,11,9,3.66,73,"huffington_es, okdiario, elconfidencial, elcorreo",4,"La Aemet avisa de un vuelco en el tiempo: &quot;Tormenta, granizo y rachas muy fuertes de viento&quot;",2026-04-27 10:10
+militar,11,9,3.66,73,"google_news_economia, google_news_internacional, levante_emv, 20minutos, elespanol",5,España eleva un 50 % su gasto militar y supera por primera vez el 2 % del PIB desde 1994 - MARCA,2026-04-27 10:10
+centro,6,5,3.59,71,"huffington_es, google_news_internacional, sur, europapress, elespanol",5,Juan José Millás cuenta lo que pasa en los restaurantes del centro de Sevilla y sirve de aviso a navegantes: &quot;Es una cosa tremenda&quot;,2026-04-27 10:10
+revela,6,5,3.59,71,"20minutos, heraldo_aragon, okdiario, el_confidencial_tech",4,"Mette-Marit revela que ha estado ""dos veces al borde de la muerte""",2026-04-27 10:10
+centrales,6,5,3.59,71,"expansion, google_news_es, levante_emv, google_news_economia",4,Los principales bancos centrales ganan tiempo antes de subir los tipos de interés,2026-04-27 10:10
+javier,6,5,3.59,71,"google_news_internacional, google_news_es, okdiario, 20minutos",4,El valenciano Javier Ballester estrena su casillero en el internacional júnior de Zaragoza - rfet.es,2026-04-27 10:10
+ábalos,6,5,3.59,71,"levante_emv, elcorreo, elespanol, europapress",4,"La Guardia Civil define el funcionamiento de la trama: ""Aldama se refiere a Ábalos como el jefe, pero él manda, porque el que paga manda""",2026-04-27 10:10
+supera,7,6,3.49,69,"google_news_economia, google_news_internacional, heraldo_aragon, 20minutos, levante_emv",5,España eleva un 50 % su gasto militar y supera por primera vez el 2 % del PIB desde 1994 - MARCA,2026-04-27 10:10
+estos,8,7,3.42,68,"okdiario, eldiario, maldita, elcorreo, levante_emv",5,Quedan 3 días para solicitar los viajes del IMSERSO en España y estos son los destinos libres,2026-04-27 10:10
+grandes,9,8,3.36,67,"eldiario, heraldo_aragon, google_news_economia, 20minutos, elcorreo",5,"Con 600 kilómetros cuadrados, es uno de los lagos europeos más grandes y varias leyendas explican su origen",2026-04-27 10:10
+nacional,30,27,3.32,66,"google_news_internacional, maldita, levante_emv, google_news_economia, okdiario",5,Lucía Sempere logra su mejor resultado internacional en la Copa de Europa de Búlder de Kaunas - Desnivel.com,2026-04-27 10:10
+lunes,25,24,3.12,62,"elpais, okdiario, google_news_internacional, google_news_economia, eldiario",5,RTVE emitirá el lunes 4 de mayo el primer debate de las elecciones andaluzas,2026-04-27 10:10
+eléctrica,3,3,2.99,59,"levante_emv, google_news_es, 20minutos, huffington_es",4,Las eléctricas y la gran industria se unen para vigilar los sobrecostes disparados de la luz tras el apagón y señalan a Red Eléctrica,2026-04-27 10:10
+cáncer,4,4,2.99,59,"google_news_es, 20minutos, okdiario",3,El cáncer adolescente en TikTok desafía el debate sobre vetar las redes - UOC,2026-04-27 10:10
+adiós,5,5,2.99,59,"okdiario, elcorreo, 20minutos",3,Adiós al papel higiénico: cómo es la tendencia 2026 para reemplazarlo en el baño,2026-04-27 10:10
+expansión,4,4,2.99,59,"google_news_es, expansion, 20minutos",3,Los principales bancos centrales ganan tiempo antes de subir los tipos de interés - Expansión,2026-04-27 10:10
+había,3,3,2.99,59,"okdiario, heraldo_aragon, elcorreo",3,"Eduardo Dávila Miura, amigo de Roca Rey, revela que tras la cornada «su única preocupación era saber dónde había quedado la espada»",2026-04-27 10:10
+estas,5,5,2.99,59,"huffington_es, elcorreo, elconfidencial, elpais",4,El despliegue de mossos de paisano en institutos desata protestas: &quot;Más recursos y menos policía&quot;,2026-04-27 10:10
+datos,4,4,2.99,59,"okdiario, expansion",2,Los datos lo avalan: el regreso del bisonte ya está restaurando ecosistemas y absorbiendo carbono en toda Europa,2026-04-27 10:10
+lluvia,3,3,2.99,59,"sur, okdiario, 20minutos, eldiario, elconfidencial",5,Vuelven las lluvias de barro esta semana en Málaga,2026-04-27 10:10
+evitar,4,4,2.99,59,"20minutos, elespanol, levante_emv, huffington_es",4,TMB instalará generadores en el metro de Barcelona para evitar que los usuarios evacúen por las vías,2026-04-27 10:10
+entrenador,3,3,2.99,59,20minutos,1,"Patrick Mouratoglou, mítico entrenador francés: ""Que Carlos Alcaraz no juegue en Roland Garros es una decisión madura""",2026-04-27 10:10
+netflix,3,3,2.99,59,"okdiario, elcorreo",2,Ya en Netflix: una de las mejores interpretaciones de Emma Thompson se encuentra en esta hermosa adaptación de un clásico literario que ganó un Oscar,2026-04-27 10:10
+andrés,3,3,2.99,59,levante_emv,1,El chef José Andrés convierte una especie invasora y venenosa en cocina gourmet,2026-04-27 10:10
+muestra,4,4,2.99,59,"google_news_economia, elcorreo, google_news_es, levante_emv, okdiario",5,"🏡 “La vivienda y el alquiler seguirán subiendo salvo que España sufra una crisis económica provocada por la guerra”. Así de contundente se muestra el catedrático de Economía Santiago Carbó. En una entrevista con ‘Infobae’, reconoce que “no hay suficient - facebook.com",2026-04-27 10:10
+universidad,4,4,2.99,59,"google_news_internacional, elcorreo, huffington_es",3,Herencia celebra por 2º año el Día Internacional de la Danza con los estudiantes de la Universidad Popular - Lanza Digital,2026-04-27 10:10
+ascenso,4,4,2.99,59,"sur, levante_emv, okdiario",3,Se aleja el ascenso directo para el Málaga,2026-04-27 10:10
+amenaza,5,5,2.99,59,"google_news_es, elcorreo, google_news_economia, levante_emv, 20minutos",5,Ryanair amenaza con más recortes en España si Aena sube las tasas aeroportuarias - Canarias7,2026-04-27 10:10
+acoge,3,3,2.99,59,"google_news_internacional, elconfidencial",2,Albacete acogerá la IV Feria Internacional del Queso de Albacete del 7 al 10 de mayo con 48 expositores y más de 40 queserías - elDiario.es,2026-04-27 10:10
+shock,3,3,2.99,59,google_news_economia,1,Fedea alerta de que el avance de las renovables en España solo aliviará muy modestamente el shock energético - Demócrata,2026-04-27 10:10
+conductor,4,4,2.99,59,"20minutos, sur, elespanol",3,Las constructoras reclaman un peaje de 111 euros al año por conductor para financiar la conservación de las carreteras,2026-04-27 10:10
+sociedad,3,3,2.99,59,"elcorreo, heraldo_aragon, levante_emv",3,"El conmovedor gesto de los jugadores de la Real Sociedad con Gorka, el joven que perdió las piernas y un brazo por una infección",2026-04-27 10:10
+cultura,3,3,2.99,59,"google_news_internacional, elcorreo, okdiario, google_news_es, 20minutos",5,López Campos erige el cocido de Lalín como embajador internacional de la cultura gastronómica de Galicia - Xunta de Galicia,2026-04-27 10:10
+información,3,3,2.99,59,google_news_internacional,1,L’Alfàs del Pi se tiñe de naranja: la comunidad neerlandesa impulsa la convivencia internacional - Información,2026-04-27 10:10
+opinión,3,3,2.99,59,google_news_internacional,1,"VÍDEO | VI Festival Internacional de Indumentaria Tradicional ""Indufest"" en Zamora - La Opinión de Zamora",2026-04-27 10:10
+miles,3,3,2.99,59,"eldiario, okdiario",2,El Supremo rechaza que la Inspección de Trabajo pueda entrar libremente en miles de empresas,2026-04-27 10:10
+edición,9,9,2.99,59,"google_news_internacional, okdiario, levante_emv",3,El Festival Internacional de Cine de Las Palmas de Gran Canaria echa a andar su 25ª edición - box-office.es,2026-04-27 10:10
+prepara,3,3,2.99,59,"levante_emv, google_news_internacional, elmundo, okdiario",4,Rosalía enseña sus moratones al preparar su sensual baile para 'Euphoria',2026-04-27 10:10
+impulsa,3,3,2.99,59,"google_news_internacional, levante_emv, 20minutos",3,L’Alfàs del Pi se tiñe de naranja: la comunidad neerlandesa impulsa la convivencia internacional - Información,2026-04-27 10:10
+habla,4,4,2.99,59,"sur, heraldo_aragon, google_news_es, huffington_es",4,La estadística que mejor habla de los delanteros del Málaga,2026-04-27 10:10
+periodista,3,3,2.99,59,"heraldo_aragon, okdiario, levante_emv, elcorreo",4,El periodista Isaac Fouto revela qué pasó en el vestuario tras la pelea en el Huesca-Real Zaragoza,2026-04-27 10:10
+secuestrado,3,3,2.99,59,"eldiario, heraldo_aragon, elmundo",3,"Muere Cosme Delclaux, abogado secuestrado por ETA durante 232 días entre 1996 y 1997",2026-04-27 10:10
+productos,3,3,2.99,59,"levante_emv, okdiario, maldita",3,"La demanda de productos para la alergia crece un 8% en las farmacias, ""muy por encima"" de los niveles de otros años",2026-04-27 10:10
+alemania,4,4,2.99,59,"elcorreo, huffington_es, okdiario, google_news_economia",4,"Teknia gana 1,2 millones, un 61% menos, por el coste de cerrar las plantas de Turquía y Alemania",2026-04-27 10:10
+oficial,6,6,2.99,59,"levante_emv, google_news_es, okdiario",3,Marisa Jara derrota a Ingrid Betancor y regresa como concursante oficial en ‘Supervivientes 2026’,2026-04-27 10:10
+entra,4,4,2.99,59,"okdiario, eldiario, elconfidencial, levante_emv, sur",5,Ya en Netflix: una de las mejores interpretaciones de Emma Thompson se encuentra en esta hermosa adaptación de un clásico literario que ganó un Oscar,2026-04-27 10:10
+perder,3,3,2.99,59,"elmundo, google_news_internacional",2,De perder con Boca la final de la Libertadores en el Bernabéu al puñetazo a Pulido: el portero Andrada se prepara para recibir una sanción histórica en LaLiga,2026-04-27 10:10
+económica,4,4,2.99,59,"google_news_economia, google_news_politica",2,"🏡 “La vivienda y el alquiler seguirán subiendo salvo que España sufra una crisis económica provocada por la guerra”. Así de contundente se muestra el catedrático de Economía Santiago Carbó. En una entrevista con ‘Infobae’, reconoce que “no hay suficient - facebook.com",2026-04-27 10:10
+modelo,6,6,2.99,59,"okdiario, levante_emv, google_news_internacional, eldiario",4,"Jaime Soto, el hijo de José Manuel Soto que hereda su talento musical y ha sido pareja de una conocida modelo",2026-04-27 10:10
+predicción,12,13,2.76,55,okdiario,1,"Predicción del horóscopo para Aries hoy, lunes 27 de abril de 2026",2026-04-27 10:10
+mientras,11,12,2.74,54,"okdiario, elespanol, levante_emv, elmundo_espana, google_news_economia",5,Un jardinero encuentra 10 lingotes de oro mientras cortaba el césped por valor de 40.000 euros y ahora buscan a su dueño,2026-04-27 10:10
+subida,6,7,2.56,51,"google_news_economia, levante_emv, okdiario, google_news_es",4,Ryanair advierte de que su oferta en España retrocederá por primera vez en 2027 por la subida de las tasas - La Razón,2026-04-27 10:10
+estrecho,6,7,2.56,51,"okdiario, 20minutos",2,Ni Ormuz ni Bering: el estrecho más conflictivo es español y en él han ocurrido más de 134 naufragios,2026-04-27 10:10
+joven,5,6,2.49,49,"elcorreo, elconfidencial, okdiario, huffington_es",4,"El conmovedor gesto de los jugadores de la Real Sociedad con Gorka, el joven que perdió las piernas y un brazo por una infección",2026-04-27 10:10
+alerta,5,6,2.49,49,"google_news_economia, elcorreo, 20minutos, okdiario",4,Fedea alerta de que el avance de las renovables en España solo aliviará muy modestamente el shock energético - Demócrata,2026-04-27 10:10
+riesgo,5,6,2.49,49,"expansion, elcorreo, okdiario, google_news_es",4,Warren Buffett envía un mensaje contundente sobre el riesgo del mercado,2026-04-27 10:10
+cárcel,5,6,2.49,49,"okdiario, infolibre, 20minutos, huffington_es",4,"Juicio de Kitchen y ‘caso mascarillas’, en directo | Willy Bárcenas: «A mi padre le hicieron la vida imposible en la cárcel, creo que era una orden»",2026-04-27 10:10
+general,5,6,2.49,49,"levante_emv, europapress, google_news_economia, infolibre",4,"Soler (PP) rebaja la deuda de la Generalitat con Gandia a 2,7 millones frente a los 10 que alega el gobierno local",2026-04-27 10:10
+aumenta,4,5,2.39,47,"google_news_internacional, levante_emv, 20minutos, google_news_economia, huffington_es",5,"Los beneficios industriales de China aumentan un 15,5% anual en el 1T2026 pese al conflicto de Oriente Medio - Consenso del Mercado",2026-04-27 10:10
+escenario,4,5,2.39,47,"20minutos, heraldo_aragon, google_news_es",3,Muere un trabajador durante el montaje del escenario del megaconcierto de Shakira en Río de Janeiro,2026-04-27 10:10
+bomberos,4,5,2.39,47,"levante_emv, elespanol, heraldo_aragon, europapress",4,"El exjefe de Bomberos, sobre la dana: ""Con otros gobiernos se nos avisó antes, en este caso no""",2026-04-27 10:10
+precios,4,5,2.39,47,"okdiario, elconfidencial, eldiario, google_news_es",4,"El HUAWEI WATCH FIT 5 Series llega a España: fecha, precios y novedades del nuevo smartwatch",2026-04-27 10:10
+silencio,4,5,2.39,47,"google_news_internacional, levante_emv, okdiario",3,La nueva campaña de Jeep pone el foco en el silencio - MarketingNews,2026-04-27 10:10
+siempre,4,5,2.39,47,"levante_emv, elpais",2,"Cristhian Mosquera, defensa del Arsenal: ""Aprendo mucho cada día y trato de mejorar siempre""",2026-04-27 10:10
+imagen,4,5,2.39,47,"maldita, 20minutos, google_news_es",3,"Cuidado con la imagen que afirma que una “familia marroquí recién llegada” cobra 1.613 euros de Ingreso Mínimo Vital: esta prestación exige, mínimo, un año de residencia en España y no distingue por nacionalidad",2026-04-27 10:10
+industria,4,5,2.39,47,"europapress, google_news_internacional, sur, levante_emv, google_news_es",5,Sánchez anuncia la adjudicación de 500 millones en 18 proyectos para la descarbonización industrial,2026-04-27 10:10
+metros,4,5,2.39,47,"eldiario, elcorreo, okdiario, elespanol",4,"Con 600 kilómetros cuadrados, es uno de los lagos europeos más grandes y varias leyendas explican su origen",2026-04-27 10:10
+segunda,7,9,2.33,46,"elcorreo, google_news_internacional, huffington_es, levante_emv",4,Ermua convoca su segunda Acampada Infantil municipal,2026-04-27 10:10
+españa,84,111,2.26,45,"okdiario, google_news_politica, google_news_economia, levante_emv, google_news_es",5,Quedan 3 días para solicitar los viajes del IMSERSO en España y estos son los destinos libres,2026-04-27 10:10
+saber,3,4,2.24,44,okdiario,1,"Eduardo Dávila Miura, amigo de Roca Rey, revela que tras la cornada «su única preocupación era saber dónde había quedado la espada»",2026-04-27 10:10
+tecnología,3,4,2.24,44,"google_news_economia, google_news_internacional, levante_emv",3,La conexión pendiente con el millonario caladero de la biotecnología marina - ABC,2026-04-27 10:10
+chubascos,3,4,2.24,44,okdiario,1,AEMET prevé chubascos y brumas en Bilbao con ambiente variable y temperaturas estables en el litoral,2026-04-27 10:10
+calor,3,4,2.24,44,"google_news_economia, elconfidencial, okdiario",3,España obligará a cerrar terrazas en olas de calor - Economía 3,2026-04-27 10:10
+grave,3,4,2.24,44,"levante_emv, elconfidencial, elespanol",3,Evacuado a La Fe un motorista de 28 años tras una grave colisión en la CV-645 en Novetlè,2026-04-27 10:10
+conocida,3,4,2.24,44,"okdiario, levante_emv",2,"Jaime Soto, el hijo de José Manuel Soto que hereda su talento musical y ha sido pareja de una conocida modelo",2026-04-27 10:10
+manuel,3,4,2.24,44,"okdiario, heraldo_aragon",2,"Jaime Soto, el hijo de José Manuel Soto que hereda su talento musical y ha sido pareja de una conocida modelo",2026-04-27 10:10
+línea,3,4,2.24,44,"20minutos, okdiario, expansion",3,Entra en funcionamiento la prolongación de la línea de bus V5 hasta la Marina del Prat Vermell,2026-04-27 10:10
+horóscopo,12,16,2.24,44,okdiario,1,"Predicción del horóscopo para Aries hoy, lunes 27 de abril de 2026",2026-04-27 10:10
+abogado,3,4,2.24,44,"levante_emv, eldiario, elmundo, elpais",4,Luis Bárcenas advierte al tribunal de Kitchen que el abogado que se negó a declarar ya lo hizo en el caso Villarejo,2026-04-27 10:10
+presencia,3,4,2.24,44,"europapress, levante_emv, okdiario",3,Trabajadores de institutos de L'Hospitalet (Barcelona) critican la presencia de Mossos en centros,2026-04-27 10:10
+cierre,3,4,2.24,44,"google_news_es, elmundo, levante_emv",3,"“Asturias no se entiende sin su emigración y sin la Asturias exterior”, asegura Barbón en el cierre de su viaje a México - Principado de Asturias",2026-04-27 10:10
+música,3,4,2.24,44,"elcorreo, heraldo_aragon, google_news_es",3,Ermua se rinde al arte y la música con una intensa agenda cultural para mayo,2026-04-27 10:10
+pasado,3,4,2.24,44,"eldiario, okdiario, heraldo_aragon",3,Más allá de Amaia y Guitarricadelafuente: estos son los artistas españoles que han pasado por Tiny Desk,2026-04-27 10:10
+confirman,3,4,2.24,44,"google_news_es, 20minutos, okdiario",3,Habrá Alien Isolation 2: los creadores del original confirman la secuela con un misterioso teaser oficial - Diario AS,2026-04-27 10:10
+vecinos,3,4,2.24,44,"levante_emv, okdiario",2,Torrent celebra el modernismo con una ruta teatralizada que atrae a numerosos vecinos,2026-04-27 10:10
+sueldo,3,4,2.24,44,"20minutos, okdiario, google_news_economia",3,"La consejera de Sanidad de Madrid acusa a Mónica García de ""parasitar lo público"" al buscar ""salida y un sueldo en la Asamblea""",2026-04-27 10:10
+padres,3,4,2.24,44,"expansion, maldita, levante_emv",3,Casi la mitad de jóvenes de 26 a 34 años convive con sus padres por no poder acceder a la vivienda,2026-04-27 10:10
+valència,3,4,2.24,44,"levante_emv, google_news_internacional",2,Com inscriure’s per a veure el castell del Dia de la Mare des del balcó de l’ajuntament de València,2026-04-27 10:10
+respuesta,3,4,2.24,44,"google_news_es, 20minutos, huffington_es",3,Investigadores de la UB identifican una proteína clave en la respuesta inflamatoria frente a las infecciones - UB - Universitat de Barcelona,2026-04-27 10:10
+motivo,3,4,2.24,44,"google_news_internacional, 20minutos",2,La Junta organiza actividades lúdicas y formativas en la Sala Trajano con motivo del Día Internacional de la Danza - Onda Cero Sur Extremadura,2026-04-27 10:10
+actualidad,3,4,2.24,44,"google_news_internacional, okdiario, google_news_es",3,El mundo en cinco minutos: la actualidad internacional de este lunes 27 - Radio Popular de Bilbao,2026-04-27 10:10
+koldo,3,4,2.24,44,"elcorreo, europapress",2,La UCO certifica la autenticidad de las pruebas contra Ábalos y Koldo: «La posibilidad de alterarlas es cero»,2026-04-27 10:10
+espacio,3,4,2.24,44,"okdiario, elcorreo",2,"El GEEKOM A6 es ideal para trabajar y estudiar sin ocupar espacio, y ahora baja de 500 euros",2026-04-27 10:10
+exposición,3,4,2.24,44,"levante_emv, google_news_internacional",2,"Patricia SanMiguel, experta en Marketing Digital: ""La exposición pública de menores por parte de sus propios padres tiene consecuencias a medio y largo plazo""",2026-04-27 10:10
+latina,3,4,2.24,44,"levante_emv, google_news_economia",2,El Banco de España reúne a los bancos centrales de América Latina en su primer foro en Roda de Barà,2026-04-27 10:10
+visita,7,10,2.09,41,"levante_emv, okdiario, google_news_internacional, elpais_internacional",4,Más medios para una visita inmersiva a la impresionante calzada romana de Sagunt,2026-04-27 10:10
