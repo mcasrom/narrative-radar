@@ -1,97 +1,86 @@
 keyword,count_now,count_base,ratio,viral_score,sources,n_sources,sample_title,detected_at
-estrategia,3,4,5.24,100,"google_news_internacional, google_news_es",2,Exposición Internacional del Automóvil de Beijing 2026: GAC mejora su estrategia mundial y acelera su avance hacia las primeras posiciones entre las potencias exportadoras de automóviles de China - Bolsamania,2026-04-27 01:09
-primitiva,7,9,5.43,100,"sur, levante_emv, elcorreo, okdiario, google_news_es",5,"Comprobar Lotería del domingo, 26 de abril: resultados de la Bonoloto, del Sueldazo del fin de semana de la ONCE, del Gordo de La Primitiva y de la Quiniela",2026-04-27 01:09
-alzira,3,0,5.0,100,levante_emv,1,Estes són les comissiones premiades en la Festa de les Lletres Falleres celebrada a Alzira,2026-04-27 01:09
-pulido,4,3,9.31,100,"elespanol, elpais, google_news_es, elmundo",4,"Andrada pide disculpas por su agresión a Pulido: ""No lo volveré a hacer, asumo las consecuencias""",2026-04-27 01:09
-portero,11,3,25.61,100,"heraldo_aragon, elpais, elmundo, elcorreo, 20minutos",5,"Esteban Andrada, portero del Real Zaragoza, tras su agresión: ""Estoy muy arrepentido""",2026-04-27 01:09
-celta,3,0,5.0,100,"levante_emv, google_news_es, elpais",3,El Villarreal acaricia su pase para la Champions ante un Celta inferior,2026-04-27 01:09
-acaricia,3,1,20.95,100,"levante_emv, heraldo_aragon, google_news_internacional",3,El Villarreal acaricia su pase para la Champions ante un Celta inferior,2026-04-27 01:09
-villarreal,3,0,5.0,100,"levante_emv, google_news_es, elpais",3,El Villarreal acaricia su pase para la Champions ante un Celta inferior,2026-04-27 01:09
-vergüenza,3,1,20.95,100,"elcorreo, heraldo_aragon",2,La vergüenza de los ciudadanos de segunda clase,2026-04-27 01:09
-verdad,3,1,20.95,100,"elcorreo, google_news_es",2,Derecho a la verdad,2026-04-27 01:09
-empresarial,3,0,5.0,100,google_news_es,1,"IA, sostenibilidad y trabajo híbrido marcan la evolución de la consultoría - Estrategia Empresarial",2026-04-27 01:09
-descenso,4,1,27.94,100,"google_news_es, 20minutos, elpais",3,"Escándalo histórico en el derbi entre Huesca y Zaragoza: puñetazo de Esteban Andrada, batalla campal y recital de expulsiones con el descenso al rojo vivo - DAZN",2026-04-27 01:09
-andrada,10,6,11.64,100,"google_news_es, heraldo_aragon, elespanol, elpais, elmundo",5,"Escándalo histórico en el derbi entre Huesca y Zaragoza: puñetazo de Esteban Andrada, batalla campal y recital de expulsiones con el descenso al rojo vivo - DAZN",2026-04-27 01:09
-esteban,3,3,6.98,100,"google_news_es, heraldo_aragon",2,"Escándalo histórico en el derbi entre Huesca y Zaragoza: puñetazo de Esteban Andrada, batalla campal y recital de expulsiones con el descenso al rojo vivo - DAZN",2026-04-27 01:09
-puñetazo,6,4,10.48,100,"google_news_es, elpais, elmundo, elcorreo, levante_emv",5,"Escándalo histórico en el derbi entre Huesca y Zaragoza: puñetazo de Esteban Andrada, batalla campal y recital de expulsiones con el descenso al rojo vivo - DAZN",2026-04-27 01:09
-argentina,3,2,10.48,100,"expansion, elpais, google_news_es",3,La lucha de Javier Milei contra la inflación en Argentina se estanca,2026-04-27 01:09
-mañana,3,2,10.48,100,"expansion, okdiario",2,Endesa aprueba mañana en junta el relevo de Bogas,2026-04-27 01:09
-gordo,7,3,16.3,100,"sur, levante_emv, elcorreo, okdiario, google_news_es",5,"Comprobar Lotería del domingo, 26 de abril: resultados de la Bonoloto, del Sueldazo del fin de semana de la ONCE, del Gordo de La Primitiva y de la Quiniela",2026-04-27 01:09
-jiménez,3,3,6.98,100,heraldo_aragon,1,"Dani Jiménez, portero del Huesca, pide perdón",2026-04-27 01:09
-canarias7,3,0,5.0,100,"google_news_es, google_news_internacional",2,Arranca otra semana de huelga médica en un sistema de salud ya tensionado: «Buscamos el apoyo de los pacientes» - Canarias7,2026-04-27 01:09
-perdón,3,2,10.48,100,heraldo_aragon,1,"Dani Jiménez, portero del Huesca, pide perdón",2026-04-27 01:09
-‘operación,3,0,5.0,100,okdiario,1,Mañana a las 06.00 h OKDIARIO dará en exclusiva el audio que aclara la ‘Operación Kitchen’,2026-04-27 01:09
-aclara,3,0,5.0,100,okdiario,1,Mañana a las 06.00 h OKDIARIO dará en exclusiva el audio que aclara la ‘Operación Kitchen’,2026-04-27 01:09
-audio,3,0,5.0,100,okdiario,1,Mañana a las 06.00 h OKDIARIO dará en exclusiva el audio que aclara la ‘Operación Kitchen’,2026-04-27 01:09
-exclusiva,3,0,5.0,100,okdiario,1,Mañana a las 06.00 h OKDIARIO dará en exclusiva el audio que aclara la ‘Operación Kitchen’,2026-04-27 01:09
-david,3,2,10.48,100,"google_news_internacional, heraldo_aragon",2,David López y grupo de estudiantes competirán en desafío espacial internacional - Prensa Libre,2026-04-27 01:09
-huesca-zaragoza,3,2,10.48,100,"elcorreo, heraldo_aragon, levante_emv",3,La tangana de la vergüenza en el Huesca-Zaragoza,2026-04-27 01:09
-tangana,4,0,5.0,100,"elcorreo, levante_emv, google_news_es",3,La tangana de la vergüenza en el Huesca-Zaragoza,2026-04-27 01:09
-cineasta,6,1,41.91,100,"europapress, elcorreo, eldiario, 20minutos, elpais",5,Muere el cineasta argentino Adolfo Aristarain a los 82 años,2026-04-27 01:09
-argentino,7,0,5.0,100,"levante_emv, europapress, elcorreo, eldiario, elmundo",5,"Fallece Adolfo Aristarain, un director esencial para el cine argentino",2026-04-27 01:09
-director,5,3,11.64,100,"levante_emv, eldiario, elmundo, huffington_es",4,"Fallece Adolfo Aristarain, un director esencial para el cine argentino",2026-04-27 01:09
-aristarain,10,0,5.0,100,"levante_emv, europapress, elcorreo, eldiario, elmundo",5,"Fallece Adolfo Aristarain, un director esencial para el cine argentino",2026-04-27 01:09
-adolfo,11,1,76.83,100,"levante_emv, europapress, elcorreo, eldiario, elmundo",5,"Fallece Adolfo Aristarain, un director esencial para el cine argentino",2026-04-27 01:09
-osasuna,4,2,13.97,100,"google_news_es, 20minutos, elpais",3,Puntos DAZN Osasuna vs Sevilla de la FANTASY LALIGA 2025/26: puntuaciones y alineaciones del partido de la jornada 32 de Primera División | DAZN News ES - DAZN,2026-04-27 01:09
-sorteo,12,10,8.38,100,"sur, levante_emv, google_news_es, okdiario, elespanol",5,"Resultado del sorteo de la Bonoloto del domingo, 26 de abril de 2026",2026-04-27 01:09
-herido,4,3,9.31,100,"20minutos, elpais, elmundo_internacional, levante_emv",4,Herido grave un joven al ser corneado por un toro en Beas de Segura días después la muerte de un hombre en las mismas fiestas,2026-04-27 01:09
-pagan,3,2,10.48,100,"elcorreo, expansion, elmundo",3,Los municipios pagan ya un 87% más que en 2020 por tratar la basura no reciclada,2026-04-27 01:09
-local,3,4,5.24,100,"sur, levante_emv",2,"La apuesta local de SUR: nuevas firmas, videopodcast y más newsletters",2026-04-27 01:09
-lópez,4,5,5.59,100,"elcorreo, heraldo_aragon, google_news_internacional, google_news_es",4,El Athletic contactó con Unai López y le pidió que le comunique las ofertas que tenga,2026-04-27 01:09
-octavos,4,2,13.97,100,"elmundo, okdiario, elpais, google_news_es",4,Jódar mantiene el pulso ante Fonseca en el duelo generacional y se clasifica para octavos,2026-04-27 01:09
-cárcel,3,4,5.24,100,"elespanol, elmundo, 20minutos",3,"El infierno de Jesús, español ""secuestrado"" en una cárcel de Venezuela por ser del partido de Corina: ""Un amigo murió allí""",2026-04-27 01:09
-huelga,4,5,5.59,100,"elespanol, elmundo, google_news_es, google_news_economia",4,Por qué Sánchez afronta su primera huelga educativa pese a que la UE le dio más de 600M para crear nuevas plazas,2026-04-27 01:09
-periodista,3,0,5.0,100,"elespanol, france24_es, bbc_mundo",3,El PP pide al Congreso una condena de los actos de 'kale borroka' en los que se agredió a un periodista de El Español,2026-04-27 01:09
-junta,4,1,27.94,100,"elespanol, expansion, sur, levante_emv",4,Mali pierde el norte: la caída de Kidal ante los rebeldes Tuareg desestabiliza el Sahel y amenaza a la Junta Militar,2026-04-27 01:09
-expulsado,3,0,5.0,100,"elmundo, elpais, elcorreo",3,"Los 'whatsapps' de la purga de Ortega Smith: expulsado en 13 minutos por ""daño a Vox""",2026-04-27 01:09
-impulso,3,1,20.95,100,"sur, expansion, google_news_es",3,El impulso digital de Andalucía: liderazgo en IA y seguridad,2026-04-27 01:09
-agresión,10,7,9.98,100,"elmundo, heraldo_aragon, elespanol, elcorreo, 20minutos",5,Un juzgado archiva la querella del comisario de Policía de Torrejón contra la agente que le denunció por agresión sexual y contra un concejal,2026-04-27 01:09
-empieza,3,3,6.98,100,"elmundo, sur, elcorreo",3,Empieza la tercera semana de huelga de médicos nacional tras el fracaso de las negociaciones entre Sanidad y los sindicatos,2026-04-27 01:09
-kitchen’,3,0,5.0,100,okdiario,1,Mañana a las 06.00 h OKDIARIO dará en exclusiva el audio que aclara la ‘Operación Kitchen’,2026-04-27 01:09
-bilbao,5,7,4.99,99,elcorreo,1,El hotel de Mazarredo tendrá 63 habitaciones y se convertirá en el sexto 5 estrellas de Bilbao,2026-04-27 01:09
-sevilla,7,10,4.89,97,"levante_emv, google_news_es, 20minutos, elmundo, elpais",5,Liberada en Huelva una menor de 15 años tras ser incitada a abandonar un centro de protección en Sevilla y ser retenida y agredida sexualmente,2026-04-27 01:09
-bonoloto,9,13,4.84,96,"sur, levante_emv, google_news_es, 20minutos, elcorreo",5,"Comprobar Lotería del domingo, 26 de abril: resultados de la Bonoloto, del Sueldazo del fin de semana de la ONCE, del Gordo de La Primitiva y de la Quiniela",2026-04-27 01:09
-fonseca,6,9,4.66,93,"elcorreo, google_news_es, elmundo, okdiario, elpais",5,Jódar vence a Fonseca en el duelo de grandes promesas,2026-04-27 01:09
-tercer,4,6,4.66,93,"elmundo, elcorreo, expansion",3,Un tercer portaviones de EEUU completa un despliegue frente a Irán que no se veía desde la guerra de Irak en 2003,2026-04-27 01:09
-comprobar,10,15,4.66,93,"sur, elcorreo, google_news_es, okdiario, elespanol",5,"Comprobar Lotería del domingo, 26 de abril: resultados de la Bonoloto, del Sueldazo del fin de semana de la ONCE, del Gordo de La Primitiva y de la Quiniela",2026-04-27 01:09
-jódar,7,11,4.44,88,"elcorreo, google_news_es, elmundo, okdiario, elpais",5,Jódar vence a Fonseca en el duelo de grandes promesas,2026-04-27 01:09
-huesca,13,21,4.32,86,"google_news_es, heraldo_aragon, elpais, elcorreo, levante_emv",5,"Escándalo histórico en el derbi entre Huesca y Zaragoza: puñetazo de Esteban Andrada, batalla campal y recital de expulsiones con el descenso al rojo vivo - DAZN",2026-04-27 01:09
-jesús,3,5,4.19,83,"elespanol, levante_emv, sur",3,"El infierno de Jesús, español ""secuestrado"" en una cárcel de Venezuela por ser del partido de Corina: ""Un amigo murió allí""",2026-04-27 01:09
-sexuales,3,5,4.19,83,"elespanol, levante_emv",2,Rabia entre los funcionarios por las agresiones sexuales de los presos: Interior protege a los reos pero no a los guardianes,2026-04-27 01:09
-sueldazo,3,5,4.19,83,"elespanol, sur, elcorreo",3,"El marqués de Paul, investigado por administración desleal contra su madrastra y hermana: sueldazos, cacerías y amarres",2026-04-27 01:09
-vence,3,5,4.19,83,"elcorreo, elpais, google_news_es",3,Jódar vence a Fonseca en el duelo de grandes promesas,2026-04-27 01:09
-menor,3,5,4.19,83,"expansion, levante_emv",2,España ofrece una ayuda un 60% menor que Italia al coche electrico,2026-04-27 01:09
-también,4,7,3.99,79,"expansion, heraldo_aragon, elmundo, huffington_es",4,"""Si los países emisores de turismo a España tienen problemas, también los tendremos""",2026-04-27 01:09
-media,4,7,3.99,79,"elcorreo, google_news_internacional, huffington_es, expansion",4,Uno de cada diez españoles nace ya mediante la reproducción asistida,2026-04-27 01:09
-domingo,19,35,3.79,75,"sur, levante_emv, google_news_es, elcorreo, okdiario",5,"Comprobar Lotería del domingo, 26 de abril: resultados de la Bonoloto, del Sueldazo del fin de semana de la ONCE, del Gordo de La Primitiva y de la Quiniela",2026-04-27 01:09
-resultados,7,13,3.76,75,"sur, elcorreo, google_news_es, elespanol",4,"Comprobar Lotería del domingo, 26 de abril: resultados de la Bonoloto, del Sueldazo del fin de semana de la ONCE, del Gordo de La Primitiva y de la Quiniela",2026-04-27 01:09
-lunes,6,12,3.49,69,"google_news_internacional, sur, 20minutos",3,La alemana 'Trial of Hein' abre este lunes las proyecciones de la Sección Oficial - Canarias7,2026-04-27 01:09
-públicos,3,6,3.49,69,"elespanol, elcorreo",2,"Sánchez, al año del apagón y 100 días después de Adamuz: su ""prioridad nacional"" son los ""servicios públicos de calidad""",2026-04-27 01:09
-lleva,4,8,3.49,69,"elespanol, okdiario, sur, expansion, heraldo_aragon",5,El bandazo internacional de Sánchez le lleva a cambiar los viejos aliados del PSOE en América por los populistas,2026-04-27 01:09
-veces,4,8,3.49,69,"20minutos, expansion, huffington_es",3,"Ivonne Reyes deja sin palabras en 'Supervivientes' con su confesión: ""He estado al borde de la muerte tres veces""",2026-04-27 01:09
-muere,11,23,3.34,66,"huffington_es, europapress, elcorreo, eldiario, elmundo",5,Muere el ministro de Defensa de Mali tras un brutal atentado con coche bomba: repelió el ataque antes de fallecer,2026-04-27 01:09
-español,6,13,3.22,64,"elespanol, elcorreo, expansion, eldiario, elmundo",5,"El infierno de Jesús, español ""secuestrado"" en una cárcel de Venezuela por ser del partido de Corina: ""Un amigo murió allí""",2026-04-27 01:09
-muerte,5,11,3.17,63,"20minutos, elmundo, heraldo_aragon, sur",4,"Ivonne Reyes deja sin palabras en 'Supervivientes' con su confesión: ""He estado al borde de la muerte tres veces""",2026-04-27 01:09
-puente,4,9,3.1,62,"elmundo, elpais, google_news_es",3,"Homenaje de Los Trinitarios al joven pandillero asesinado en Puente de Vallecas: ""El cielo ganó el mejor ángel""",2026-04-27 01:09
-celebra,3,7,2.99,59,"google_news_internacional, okdiario, levante_emv, 20minutos",4,Día Internacional del Jazz: por qué se celebra y dónde escucharlo en vivo - El Economista,2026-04-27 01:09
-mantiene,3,7,2.99,59,"france24_es, elmundo",2,Carlos III mantiene su visita a EE. UU. pese al tiroteo en Washington y en un momento bajo de relaciones,2026-04-27 01:09
-tensión,3,7,2.99,59,"elmundo, heraldo_aragon",2,Una nación fracturada y bajo  un nivel de tensión irrespirable,2026-04-27 01:09
-trabajo,3,7,2.99,59,"sur, google_news_es, elcorreo",3,Tres años en busca de trabajo y ni una entrevista: «Fue frustrante»,2026-04-27 01:09
-coche,5,13,2.69,53,"huffington_es, expansion, 20minutos, heraldo_aragon",4,Muere el ministro de Defensa de Mali tras un brutal atentado con coche bomba: repelió el ataque antes de fallecer,2026-04-27 01:09
-millones,8,21,2.66,53,"expansion, elmundo, eldiario, 20minutos, levante_emv",5,Citibox cierra una ronda de 100 millones de euros para acelerar su expansión en Europa,2026-04-27 01:09
-resultado,6,16,2.62,52,"sur, elcorreo, okdiario, google_news_es, elespanol",5,"Comprobar Lotería del domingo, 26 de abril: resultados de la Bonoloto, del Sueldazo del fin de semana de la ONCE, del Gordo de La Primitiva y de la Quiniela",2026-04-27 01:09
-hacia,3,8,2.62,52,"google_news_internacional, elcorreo, elpais",3,Exposición Internacional del Automóvil de Beijing 2026: GAC mejora su estrategia mundial y acelera su avance hacia las primeras posiciones entre las potencias exportadoras de automóviles de China - Bolsamania,2026-04-27 01:09
-brutal,3,8,2.62,52,"huffington_es, elcorreo, levante_emv",3,Muere el ministro de Defensa de Mali tras un brutal atentado con coche bomba: repelió el ataque antes de fallecer,2026-04-27 01:09
-ayuntamiento,3,8,2.62,52,"google_news_internacional, sur, google_news_es",3,"El proyecto de la semana por el Día Internacional de Cero Desechos. Hoy os acercamos Enraíza en los colegios, contra el desperdicio alimentario - Ayuntamiento de Madrid",2026-04-27 01:09
-policía,3,8,2.62,52,"elmundo, sur, 20minutos",3,Un juzgado archiva la querella del comisario de Policía de Torrejón contra la agente que le denunció por agresión sexual y contra un concejal,2026-04-27 01:09
-busca,3,8,2.62,52,"elespanol, google_news_es, elmundo, sur",4,"Trump busca remontar en popularidad a seis meses de las legislativas tildando a su atacante de ""anticristiano""",2026-04-27 01:09
-matar,3,8,2.62,52,"elespanol, elcorreo",2,"Un pelotón de fusilamiento amenaza al ""asesino amigable"": quiso matar a Trump y su equipo delante de la prensa",2026-04-27 01:09
-pablo,3,9,2.33,46,"heraldo_aragon, elcorreo, google_news_es",3,Pablo López conquista el Auditorio de Zaragoza con un espectáculo memorable,2026-04-27 01:09
-tiempo,4,12,2.33,46,"elespanol, elcorreo, sur, huffington_es",4,"Remy Osman, el británico que rastrea ""la flota fantasma"" de Irán desde Singapur en su tiempo libre: ""No se esconden""",2026-04-27 01:09
-málaga,8,25,2.23,44,sur,1,Las opciones de ascenso directo ya son mínimas para el Málaga,2026-04-27 01:09
-zaragoza,15,49,2.14,42,"google_news_es, heraldo_aragon, elpais, elcorreo, levante_emv",5,"Escándalo histórico en el derbi entre Huesca y Zaragoza: puñetazo de Esteban Andrada, batalla campal y recital de expulsiones con el descenso al rojo vivo - DAZN",2026-04-27 01:09
-abril,23,78,2.06,41,"elcorreo, sur, levante_emv, google_news_es, 20minutos",5,"Horóscopo diario, 28 de abril de 2026",2026-04-27 01:09
-estados,3,10,2.1,41,"elmundo, google_news_internacional, elpais_internacional",3,"El tercer atentado contra Trump deja en shock a unos Estados Unidos rotos: ""¿Por qué no hubo ningún control de identificación?""",2026-04-27 01:09
-acaba,3,10,2.1,41,"google_news_es, elcorreo, levante_emv",3,"Rafael Jódar: el sueño que no termina, el sueño que acaba de empezar - Mutua Madrid Open",2026-04-27 01:09
-unidos,3,10,2.1,41,"elmundo, google_news_internacional, elpais_internacional",3,"El tercer atentado contra Trump deja en shock a unos Estados Unidos rotos: ""¿Por qué no hubo ningún control de identificación?""",2026-04-27 01:09
-precio,3,10,2.1,41,"elespanol, elcorreo, sur, expansion",4,Cunde el temor en Moncloa ante una guerra de Irán larga que golpee a la economía en los precios y el turismo,2026-04-27 01:09
+kitchen’,3,0,5.0,100,okdiario,1,Mañana a las 06.00 h OKDIARIO dará en exclusiva el audio que aclara la ‘Operación Kitchen’,2026-04-27 01:39
+acaricia,3,1,21.61,100,"levante_emv, heraldo_aragon, google_news_internacional",3,El Villarreal acaricia su pase para la Champions ante un Celta inferior,2026-04-27 01:39
+octavos,4,2,14.41,100,"elmundo, okdiario, elpais, google_news_es",4,Jódar mantiene el pulso ante Fonseca en el duelo generacional y se clasifica para octavos,2026-04-27 01:39
+bilbao,5,7,5.15,100,elcorreo,1,El hotel de Mazarredo tendrá 63 habitaciones y se convertirá en el sexto 5 estrellas de Bilbao,2026-04-27 01:39
+lópez,4,5,5.76,100,"elcorreo, heraldo_aragon, google_news_internacional, google_news_es",4,El Athletic contactó con Unai López y le pidió que le comunique las ofertas que tenga,2026-04-27 01:39
+canarias7,3,0,5.0,100,"google_news_es, google_news_internacional",2,Arranca otra semana de huelga médica en un sistema de salud ya tensionado: «Buscamos el apoyo de los pacientes» - Canarias7,2026-04-27 01:39
+audio,3,0,5.0,100,okdiario,1,Mañana a las 06.00 h OKDIARIO dará en exclusiva el audio que aclara la ‘Operación Kitchen’,2026-04-27 01:39
+aclara,3,0,5.0,100,okdiario,1,Mañana a las 06.00 h OKDIARIO dará en exclusiva el audio que aclara la ‘Operación Kitchen’,2026-04-27 01:39
+mañana,3,2,10.81,100,"expansion, okdiario",2,Endesa aprueba mañana en junta el relevo de Bogas,2026-04-27 01:39
+andrada,8,8,7.2,100,"google_news_es, heraldo_aragon, elespanol, elpais, elmundo",5,"Escándalo histórico en el derbi entre Huesca y Zaragoza: puñetazo de Esteban Andrada, batalla campal y recital de expulsiones con el descenso al rojo vivo - DAZN",2026-04-27 01:39
+empresarial,3,0,5.0,100,google_news_es,1,"IA, sostenibilidad y trabajo híbrido marcan la evolución de la consultoría - Estrategia Empresarial",2026-04-27 01:39
+vergüenza,3,1,21.61,100,"elcorreo, heraldo_aragon",2,La vergüenza de los ciudadanos de segunda clase,2026-04-27 01:39
+villarreal,3,0,5.0,100,"levante_emv, google_news_es, elpais",3,El Villarreal acaricia su pase para la Champions ante un Celta inferior,2026-04-27 01:39
+celta,3,0,5.0,100,"levante_emv, google_news_es, elpais",3,El Villarreal acaricia su pase para la Champions ante un Celta inferior,2026-04-27 01:39
+impulso,3,1,21.61,100,"sur, expansion, google_news_es",3,El impulso digital de Andalucía: liderazgo en IA y seguridad,2026-04-27 01:39
+portero,8,6,9.61,100,"heraldo_aragon, elpais, elmundo",3,"Esteban Andrada, portero del Real Zaragoza, tras su agresión: ""Estoy muy arrepentido""",2026-04-27 01:39
+pulido,4,3,9.61,100,"elespanol, elpais, google_news_es, elmundo",4,"Andrada pide disculpas por su agresión a Pulido: ""No lo volveré a hacer, asumo las consecuencias""",2026-04-27 01:39
+gordo,6,4,10.81,100,"sur, levante_emv, elcorreo, okdiario, google_news_es",5,"Comprobar Lotería del domingo, 26 de abril: resultados de la Bonoloto, del Sueldazo del fin de semana de la ONCE, del Gordo de La Primitiva y de la Quiniela",2026-04-27 01:39
+jiménez,3,3,7.2,100,heraldo_aragon,1,"Dani Jiménez, portero del Huesca, pide perdón",2026-04-27 01:39
+perdón,3,2,10.81,100,heraldo_aragon,1,"Dani Jiménez, portero del Huesca, pide perdón",2026-04-27 01:39
+herido,4,3,9.61,100,"20minutos, elpais, elmundo_internacional, levante_emv",4,Herido grave un joven al ser corneado por un toro en Beas de Segura días después la muerte de un hombre en las mismas fiestas,2026-04-27 01:39
+sorteo,10,11,6.55,100,"sur, levante_emv, google_news_es, okdiario",4,"Resultado del sorteo de la Bonoloto del domingo, 26 de abril de 2026",2026-04-27 01:39
+osasuna,3,4,5.4,100,"google_news_es, 20minutos",2,Puntos DAZN Osasuna vs Sevilla de la FANTASY LALIGA 2025/26: puntuaciones y alineaciones del partido de la jornada 32 de Primera División | DAZN News ES - DAZN,2026-04-27 01:39
+director,5,3,12.01,100,"levante_emv, eldiario, elmundo, huffington_es",4,"Fallece Adolfo Aristarain, un director esencial para el cine argentino",2026-04-27 01:39
+tangana,3,1,21.61,100,"elcorreo, levante_emv, google_news_es",3,La tangana de la vergüenza en el Huesca-Zaragoza,2026-04-27 01:39
+david,3,2,10.81,100,"google_news_internacional, heraldo_aragon",2,David López y grupo de estudiantes competirán en desafío espacial internacional - Prensa Libre,2026-04-27 01:39
+agresión,7,10,5.04,100,"elmundo, heraldo_aragon, elespanol",3,Un juzgado archiva la querella del comisario de Policía de Torrejón contra la agente que le denunció por agresión sexual y contra un concejal,2026-04-27 01:39
+pagan,3,2,10.81,100,"elcorreo, expansion, elmundo",3,Los municipios pagan ya un 87% más que en 2020 por tratar la basura no reciclada,2026-04-27 01:39
+exclusiva,3,0,5.0,100,okdiario,1,Mañana a las 06.00 h OKDIARIO dará en exclusiva el audio que aclara la ‘Operación Kitchen’,2026-04-27 01:39
+estrategia,3,4,5.4,100,"google_news_internacional, google_news_es",2,Exposición Internacional del Automóvil de Beijing 2026: GAC mejora su estrategia mundial y acelera su avance hacia las primeras posiciones entre las potencias exportadoras de automóviles de China - Bolsamania,2026-04-27 01:39
+libre,3,3,7.2,100,"elespanol, elcorreo, google_news_internacional, lavanguardia",4,"Remy Osman, el británico que rastrea ""la flota fantasma"" de Irán desde Singapur en su tiempo libre: ""No se esconden""",2026-04-27 01:39
+cineasta,5,3,12.01,100,"google_news_es, europapress, elcorreo, eldiario, 20minutos",5,Muere cineasta argentino Adolfo Aristarain a los 82 años - AP News,2026-04-27 01:39
+argentino,8,0,5.0,100,"google_news_es, levante_emv, europapress, elcorreo, eldiario",5,Muere cineasta argentino Adolfo Aristarain a los 82 años - AP News,2026-04-27 01:39
+adolfo,10,3,24.01,100,"google_news_es, levante_emv, europapress, elcorreo, eldiario",5,Muere cineasta argentino Adolfo Aristarain a los 82 años - AP News,2026-04-27 01:39
+aristarain,9,2,32.42,100,"google_news_es, levante_emv, europapress, elcorreo, eldiario",5,Muere cineasta argentino Adolfo Aristarain a los 82 años - AP News,2026-04-27 01:39
+huelga,4,5,5.76,100,"elespanol, elmundo, google_news_es, google_news_economia",4,Por qué Sánchez afronta su primera huelga educativa pese a que la UE le dio más de 600M para crear nuevas plazas,2026-04-27 01:39
+tercer,6,6,7.2,100,"elmundo, google_news_es, lavanguardia, elcorreo, expansion",5,Un tercer portaviones de EEUU completa un despliegue frente a Irán que no se veía desde la guerra de Irak en 2003,2026-04-27 01:39
+periodista,3,0,5.0,100,"elespanol, france24_es, bbc_mundo",3,El PP pide al Congreso una condena de los actos de 'kale borroka' en los que se agredió a un periodista de El Español,2026-04-27 01:39
+‘operación,3,0,5.0,100,okdiario,1,Mañana a las 06.00 h OKDIARIO dará en exclusiva el audio que aclara la ‘Operación Kitchen’,2026-04-27 01:39
+junta,3,2,10.81,100,"elespanol, expansion, sur",3,Mali pierde el norte: la caída de Kidal ante los rebeldes Tuareg desestabiliza el Sahel y amenaza a la Junta Militar,2026-04-27 01:39
+puñetazo,4,6,4.8,96,"google_news_es, elpais, elmundo",3,"Escándalo histórico en el derbi entre Huesca y Zaragoza: puñetazo de Esteban Andrada, batalla campal y recital de expulsiones con el descenso al rojo vivo - DAZN",2026-04-27 01:39
+fonseca,6,9,4.8,96,"elcorreo, google_news_es, elmundo, okdiario, elpais",5,Jódar vence a Fonseca en el duelo de grandes promesas,2026-04-27 01:39
+jódar,7,11,4.58,91,"elcorreo, google_news_es, elmundo, okdiario, elpais",5,Jódar vence a Fonseca en el duelo de grandes promesas,2026-04-27 01:39
+español,8,13,4.43,88,"google_news_internacional, elespanol, elcorreo, expansion, lavanguardia",5,Exposición Internacional Automotriz de Beijing 2026 establece nuevo récord mundial en cuanto a magnitud - Xinhua Español,2026-04-27 01:39
+bonoloto,8,13,4.43,88,"sur, levante_emv, google_news_es, 20minutos, elcorreo",5,"Comprobar Lotería del domingo, 26 de abril: resultados de la Bonoloto, del Sueldazo del fin de semana de la ONCE, del Gordo de La Primitiva y de la Quiniela",2026-04-27 01:39
+jesús,3,5,4.32,86,"elespanol, levante_emv, sur",3,"El infierno de Jesús, español ""secuestrado"" en una cárcel de Venezuela por ser del partido de Corina: ""Un amigo murió allí""",2026-04-27 01:39
+sexuales,3,5,4.32,86,"elespanol, levante_emv",2,Rabia entre los funcionarios por las agresiones sexuales de los presos: Interior protege a los reos pero no a los guardianes,2026-04-27 01:39
+sueldazo,3,5,4.32,86,"elespanol, sur, elcorreo",3,"El marqués de Paul, investigado por administración desleal contra su madrastra y hermana: sueldazos, cacerías y amarres",2026-04-27 01:39
+vence,3,5,4.32,86,"elcorreo, elpais, google_news_es",3,Jódar vence a Fonseca en el duelo de grandes promesas,2026-04-27 01:39
+cárcel,3,5,4.32,86,"elespanol, elmundo, 20minutos",3,"El infierno de Jesús, español ""secuestrado"" en una cárcel de Venezuela por ser del partido de Corina: ""Un amigo murió allí""",2026-04-27 01:39
+primitiva,6,10,4.32,86,"sur, levante_emv, elcorreo, okdiario, google_news_es",5,"Comprobar Lotería del domingo, 26 de abril: resultados de la Bonoloto, del Sueldazo del fin de semana de la ONCE, del Gordo de La Primitiva y de la Quiniela",2026-04-27 01:39
+subida,3,5,4.32,86,"sur, eldiario, google_news_internacional",3,Málaga empieza 2026 con la mayor subida del precio de la vivienda de los últimos tres años,2026-04-27 01:39
+menor,3,5,4.32,86,"expansion, levante_emv",2,España ofrece una ayuda un 60% menor que Italia al coche electrico,2026-04-27 01:39
+militar,3,5,4.32,86,"elespanol, eldiario, google_news_internacional, huffington_es",4,Mali pierde el norte: la caída de Kidal ante los rebeldes Tuareg desestabiliza el Sahel y amenaza a la Junta Militar,2026-04-27 01:39
+visita,3,5,4.32,86,"france24_es, huffington_es",2,EE. UU. blinda la visita del rey Carlos III tras tiroteo en una gala a la que asistía Trump,2026-04-27 01:39
+sevilla,7,12,4.2,84,"levante_emv, google_news_es, 20minutos, elmundo, lavanguardia",5,Liberada en Huelva una menor de 15 años tras ser incitada a abandonar un centro de protección en Sevilla y ser retenida y agredida sexualmente,2026-04-27 01:39
+celebra,4,7,4.12,82,"google_news_internacional, okdiario, levante_emv, lavanguardia, 20minutos",5,Día Internacional del Jazz: por qué se celebra y dónde escucharlo en vivo - El Economista,2026-04-27 01:39
+unidos,5,10,3.6,72,"elmundo, google_news_es, lavanguardia, google_news_internacional, elpais_internacional",5,"El tercer atentado contra Trump deja en shock a unos Estados Unidos rotos: ""¿Por qué no hubo ningún control de identificación?""",2026-04-27 01:39
+comprobar,8,16,3.6,72,"sur, elcorreo, google_news_es, okdiario",4,"Comprobar Lotería del domingo, 26 de abril: resultados de la Bonoloto, del Sueldazo del fin de semana de la ONCE, del Gordo de La Primitiva y de la Quiniela",2026-04-27 01:39
+también,3,6,3.6,72,"expansion, heraldo_aragon, elmundo",3,"""Si los países emisores de turismo a España tienen problemas, también los tendremos""",2026-04-27 01:39
+estados,5,10,3.6,72,"elmundo, google_news_es, lavanguardia, google_news_internacional, elpais_internacional",5,"El tercer atentado contra Trump deja en shock a unos Estados Unidos rotos: ""¿Por qué no hubo ningún control de identificación?""",2026-04-27 01:39
+nuevas,3,6,3.6,72,"elespanol, lavanguardia, sur",3,Por qué Sánchez afronta su primera huelga educativa pese a que la UE le dio más de 600M para crear nuevas plazas,2026-04-27 01:39
+veces,4,8,3.6,72,"20minutos, expansion, huffington_es",3,"Ivonne Reyes deja sin palabras en 'Supervivientes' con su confesión: ""He estado al borde de la muerte tres veces""",2026-04-27 01:39
+muerte,5,11,3.27,65,"20minutos, elmundo, heraldo_aragon, sur",4,"Ivonne Reyes deja sin palabras en 'Supervivientes' con su confesión: ""He estado al borde de la muerte tres veces""",2026-04-27 01:39
+domingo,16,37,3.12,62,"sur, levante_emv, google_news_es, elcorreo, okdiario",5,"Comprobar Lotería del domingo, 26 de abril: resultados de la Bonoloto, del Sueldazo del fin de semana de la ONCE, del Gordo de La Primitiva y de la Quiniela",2026-04-27 01:39
+carlos,3,7,3.09,61,france24_es,1,EE. UU. blinda la visita del rey Carlos III tras tiroteo en una gala a la que asistía Trump,2026-04-27 01:39
+tensión,3,7,3.09,61,"elmundo, heraldo_aragon",2,Una nación fracturada y bajo  un nivel de tensión irrespirable,2026-04-27 01:39
+mantiene,3,7,3.09,61,"france24_es, elmundo",2,Carlos III mantiene su visita a EE. UU. pese al tiroteo en Washington y en un momento bajo de relaciones,2026-04-27 01:39
+trabajo,3,7,3.09,61,"sur, google_news_es, elcorreo",3,Tres años en busca de trabajo y ni una entrevista: «Fue frustrante»,2026-04-27 01:39
+muere,10,25,2.88,57,"google_news_es, huffington_es, europapress, elcorreo, eldiario",5,Muere cineasta argentino Adolfo Aristarain a los 82 años - AP News,2026-04-27 01:39
+resultado,6,15,2.88,57,"sur, elcorreo, okdiario, google_news_es",4,"Comprobar Lotería del domingo, 26 de abril: resultados de la Bonoloto, del Sueldazo del fin de semana de la ONCE, del Gordo de La Primitiva y de la Quiniela",2026-04-27 01:39
+lunes,5,13,2.77,55,"google_news_internacional, sur, 20minutos",3,La alemana 'Trial of Hein' abre este lunes las proyecciones de la Sección Oficial - Canarias7,2026-04-27 01:39
+ayuntamiento,3,8,2.7,54,"google_news_internacional, sur, google_news_es",3,"El proyecto de la semana por el Día Internacional de Cero Desechos. Hoy os acercamos Enraíza en los colegios, contra el desperdicio alimentario - Ayuntamiento de Madrid",2026-04-27 01:39
+media,3,8,2.7,54,"elcorreo, google_news_internacional, huffington_es",3,Uno de cada diez españoles nace ya mediante la reproducción asistida,2026-04-27 01:39
+policía,3,8,2.7,54,"elmundo, sur, 20minutos",3,Un juzgado archiva la querella del comisario de Policía de Torrejón contra la agente que le denunció por agresión sexual y contra un concejal,2026-04-27 01:39
+busca,3,8,2.7,54,"elespanol, google_news_es, elmundo, sur",4,"Trump busca remontar en popularidad a seis meses de las legislativas tildando a su atacante de ""anticristiano""",2026-04-27 01:39
+huesca,9,26,2.49,49,"google_news_es, heraldo_aragon, elpais, elcorreo, levante_emv",5,"Escándalo histórico en el derbi entre Huesca y Zaragoza: puñetazo de Esteban Andrada, batalla campal y recital de expulsiones con el descenso al rojo vivo - DAZN",2026-04-27 01:39
+pablo,3,9,2.4,48,"heraldo_aragon, elcorreo, google_news_es",3,Pablo López conquista el Auditorio de Zaragoza con un espectáculo memorable,2026-04-27 01:39
+resultados,5,15,2.4,48,"sur, elcorreo, google_news_es",3,"Comprobar Lotería del domingo, 26 de abril: resultados de la Bonoloto, del Sueldazo del fin de semana de la ONCE, del Gordo de La Primitiva y de la Quiniela",2026-04-27 01:39
+lleva,3,9,2.4,48,"elespanol, okdiario, sur, expansion",4,El bandazo internacional de Sánchez le lleva a cambiar los viejos aliados del PSOE en América por los populistas,2026-04-27 01:39
+málaga,8,25,2.31,46,sur,1,Las opciones de ascenso directo ya son mínimas para el Málaga,2026-04-27 01:39
+mundial,6,19,2.27,45,"google_news_internacional, elmundo, eldiario",3,Exposición Internacional Automotriz de Beijing 2026 establece nuevo récord mundial en cuanto a magnitud - Xinhua Español,2026-04-27 01:39
+millones,7,23,2.19,43,"expansion, elmundo, eldiario, google_news_internacional, 20minutos",5,Citibox cierra una ronda de 100 millones de euros para acelerar su expansión en Europa,2026-04-27 01:39
+precio,3,10,2.16,43,"elespanol, elcorreo, sur, expansion",4,Cunde el temor en Moncloa ante una guerra de Irán larga que golpee a la economía en los precios y el turismo,2026-04-27 01:39
+gobierno,5,18,2.0,40,"elespanol, elmundo, expansion, heraldo_aragon, elmundo_espana",5,La ley anticorrupción del Gobierno recorta la capacidad de la UCO y la UDEF para llegar a tramas como la de Cerdán,2026-04-27 01:39
